@@ -1,0 +1,75 @@
+{
+  "title": "Hampers Bayi Murah Banget? Bestie!",
+  "hook_text": "Kado Bayi Murah Banget?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Zoom cepat ke kotak hampers baby yang lucu dan warna-warni",
+      "narration": "Pernah cari kado bayi yang lucu tapi dompet nggak boncos?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Menampilkan isi hampers terbuka lengkap dengan mainan dan baju",
+      "narration": "Nih LILLEGIFTS Hampers Baby. Isi lengkap banget, packagingnya mewah, literally worth it banget buat kamu bestie yang butuh kado jadi."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan animasi uang terbang atau tanda seru",
+      "narration": "Dan harga gila ini? Cuma tujuh puluh sembilan ribuan aja. Which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close-up tekstur baju, mainan, dan detail packaging",
+      "narration": "Isinya lengkap banget, ada mainan dan baju bayi yang detail banget. --- Bahannya lembut banget di kulit si kecil. --- Ada yang bilang bahannya tipis, actually nyaman buat bayi baru lahir kok."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu muda tersenyum sambil memegang baby atau memberikan kado ke teman",
+      "narration": "Perfect buat kamu yang sering bingung mau kasih apa ke teman ngadain baby shower. --- Kalau aktivitasmu sibuk dan butuh kado jadi, ini solusinya no cap."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan angka terjual 20.000",
+      "narration": "Ratingnya 4,9 dari lima bintang, udah terjual dua puluh ribu produk. --- Yang udah beli bilang, 'Pelayanan oke banget, nggak bingung lagi kalo mau cari buat hampers baby'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id atau teks besar dengan panah ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#kadobayi",
+    "#hampersbayi",
+    "#lillegifts",
+    "#kado_lahiran",
+    "#idekado",
+    "#babyshower",
+    "#murahmeriah",
+    "#findingid"
+  ],
+  "product_id": 68660,
+  "product_title": "LILLEGIFTS Hampers Baby Kado Bayi Parcel Baby Girl & Boy Hadiah Lahiran Newborn Gift",
+  "product_price": "79988.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/68660",
+  "generated_at": "2026-03-13T20:23:30.449Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Rontok? Solusi ERHA HairGrow Tonic Murah & Ampuh!",
+  "hook_text": "Rambut rontok parah tiap hari?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot rambut rontok di wastafel dengan ekspresi kaget",
+      "narration": "Rambut kamu rontok parah tiap hari? --- Ngak percaya sama kuncirnya yang makin tipis?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase botol ERHAIR HairGrow Tonic dengan background bersih dan pencahayaan soft",
+      "narration": "Ngak usah panik, ini solusinya! ERHAIR HairGrow Tonic, produk dari ERHA yang direkomendasikan dokter kulit untuk kesehatan rambut kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan harga dan perbandingan dengan clinic",
+      "narration": "Harganya? Ngak perlu mahal-mahal, cuma seratus dua puluhan ribu aja udah dapet. Worth it banget dibanding clinic rambut yang biayanya jutaan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo tekstur tonic ditetes ke jari dan digosok ke kulit kepala dengan gerakan lembut",
+      "narration": "Diformulasikan dengan Kopexil yang teruji klinis, teksturnya cair ringan ngak lengket di kulit kepala, which is next level banget. --- Tapi bestie, ini ngak obat instan ya. Ada yang bilang butuh waktu lama buat lihat anak rambut muncul, jadi sabar dulu dong."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model terlihat bahagia memegang rambut lebat dengan senyum percaya diri",
+      "narration": "Perfect buat kamu yang kulit kepalanya sensitif atau lagi stres liat sisa rambut di bantal tiap pagi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.91 dan jumlah terjual 70 ribu di layar aplikasi",
+      "narration": "Udah terjual 70 ribu kali dengan rating 4,91! Yang udah beli bilang aromanya wangi seger ngak nyengat, literally no cap."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol animasi menunjuk ke bawah dengan teks finding dot id",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#ERHAIR",
+    "#RambutRontok",
+    "#PerawatanRambut",
+    "#ERHA",
+    "#HairGrowth",
+    "#SkincareRambut",
+    "#ProdukViral",
+    "#FindingId"
+  ],
+  "product_id": 4850,
+  "product_title": "ERHAIR HairGrow Tonic with Kopexil - Tonic Keratin & Biotin Rambut Mengurangi Rontok | Menjaga Kesehatan Kulit Kepala dan Menguatkan Akar | Rekomendasi Ahli Dermatologi",
+  "product_price": "120900.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/4850.jpg",
+    "/uploads/products/4850_1.jpg",
+    "/uploads/products/4850_2.jpg",
+    "/uploads/products/4850_3.jpg",
+    "/uploads/products/4850_4.jpg",
+    "/uploads/products/4850_5.jpg",
+    "/uploads/products/4850_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/4850",
+  "generated_at": "2026-03-13T19:00:08.867Z"
+}

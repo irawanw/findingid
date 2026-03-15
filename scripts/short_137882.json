@@ -1,0 +1,83 @@
+{
+  "title": "Casheli Milky Macadamia Ini Gak Nahan!",
+  "hook_text": "Kacang Milik yang Bikin Nagih!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up kacang macadamia dituang dari kemasan dengan efek slow motion.",
+      "narration": "Kalian pernah nggak ngerasa ada makanan yang bikin tangan nggak bisa berhenti ngunyah?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilan kemasan Casheli dan shot produk di atas meja.",
+      "narration": "Kenalin nih, Casheli Roasted Macadamia Nuts rasa Milky Flavor. Ini camilan kacang macadamia yang literally next level gurih."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Menunjukkan harga di layar atau tangan memegang uang.",
+      "narration": "Tau nggak? Buat 250 gram super besar, harganya cuma seratus sepuluh ribuan. Worth it banget dibanding harga lain."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up tekstur kacang, orang makan, dan jam hitung mundur.",
+      "narration": "Pertama, teksturnya super renyah dan crunchy. --- Kedua, rasa susunya kuat banget tapi nggak bikin eneg. --- Ketiga, 250 gram habis dalam setengah jam! Literally addicting."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang kerja, nonton drakor, atau ngerjain tugas sambil ngemil.",
+      "narration": "Cocok buat kamu yang suka ngemil pas kerja, nonton drakor, atau ngerjain tugas. Perfect buat cari camilan sehat."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 4,91, jumlah terjual 20 ribu, dan screenshot komentar.",
+      "narration": "Ratingnya 4,91 dari 20 ribu pembeli. --- Yang udah beli bilang, 'Pantes mahal enak banget 250g nggak sampe 1/2 jam habis'. Gak bohong sih!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id, jari menunjuk ke arah teks.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Casheli",
+    "#KacangMacadamia",
+    "#CamilanEnak",
+    "#FoodVlog",
+    "#GenZ",
+    "#SnackHacks",
+    "#MahalMantap",
+    "#FindingID"
+  ],
+  "product_id": 137882,
+  "product_title": "casheli Roasted Macadamia Nuts Kacang Milky Flavor Camilan Rasa Susu Size Besar",
+  "product_price": "110406.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/137882.jpg",
+    "/uploads/products/137882_1.jpg",
+    "/uploads/products/137882_2.jpg",
+    "/uploads/products/137882_3.jpg",
+    "/uploads/products/137882_4.jpg",
+    "/uploads/products/137882_5.jpg",
+    "/uploads/products/137882_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/137882",
+  "generated_at": "2026-03-13T19:55:55.499Z"
+}

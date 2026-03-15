@@ -1,0 +1,83 @@
+{
+  "title": "Kipas + Powerbank + Stand? Serius! 😱",
+  "hook_text": "Gak percaya kalau satu benda ini bisa buat segitu banyak hal?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan memegang kipas mini yang sedang berputar kencang dengan efek suara angin yang kencang di layar hitam.",
+      "narration": "Gak percaya kalau satu benda ini bisa buat segitu banyak hal buat kamu?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat: kipas dipegang, kemudian diletakkan di meja sambil menaruh HP di atasnya, lalu ditunjuk sebagai powerbank.",
+      "narration": "Ini Aolida Kipas Angin Portable Mini yang beneran next level, bestie! Gak cuma buat sejuk, dia bisa jadi stand buat dudukan HP kamu pas main game atau nonton film, plus dia punya fungsi powerbank."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan harga '58.000an' dengan animasi uang jatuh, lalu muncul teks 'Nyaman banget harga segitu!'.",
+      "narration": "Harga dia cuma seratus delapan puluhan ribu an doang, which is worth it banget buat dapet segitu banyak fitur! Basically no cap, dapet banyak banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri kipas berputar dengan lampu LED berkedip-warna-warni, tengah stand HP menahan HP miring, kanan ditunjuk baterai dengan ikon baterai penuh.",
+      "narration": "Pertama, anginnya kenceng banget buat ngusir gerah dikantor atau olahraga. Kedua, standnya kokoh dan bisa diatur miring biar HP kamu nggak jatuh pas kamu lagi scroll TikTok. Dan yang paling penting, baterainya bisa ngasih power buat gadget kamu pas kamu kelar baterai, which is super helpful!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: anak sekolah pakai di tas sekolah, pekerja kantoran di meja kerja, dan anak olahraga di lapangan saat istirahat.",
+      "narration": "Perfect buat kamu yang sering kelar baterai pas ngebut, atau kalau kamu anak sekolah yang butuh dudukan HP buat belajar sambil santai. Kalau aktivitas kamu sering keluar masuk ruangan, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.84 dan angka 20.000 terjual, lalu muncul teks kutipan pembeli di atas background warna-warni.",
+      "narration": "Pembelinya pada ngomong kapasitasnya besar dan bisa dipakai seharian, kualitas juga oke banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah menunjuk ke bawah, teks 'Cek di finding dot id' berkedip.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id, bestie!",
+  "hashtags": [
+    "#KipasAnginPortable",
+    "#PowerbankMurah",
+    "#AksesoriHP",
+    "#GenZIndonesia",
+    "#HematBuatKamu",
+    "#FindingId",
+    "#ViralShorts",
+    "#Rekomendasi"
+  ],
+  "product_id": 145924,
+  "product_title": "Aolida Kipas Angin Portable Mini Type-C USB LED Menunjukkan Lipat Dudukan Ponsel Dan Powerbank 5000mAh Baterai Tahan Lama  Cocok Untuk Kantor Sekolah Olahraga Luar Ruangan",
+  "product_price": "58000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/145924.jpg",
+    "/uploads/products/145924_1.jpg",
+    "/uploads/products/145924_2.jpg",
+    "/uploads/products/145924_3.jpg",
+    "/uploads/products/145924_4.jpg",
+    "/uploads/products/145924_5.jpg",
+    "/uploads/products/145924_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/145924",
+  "generated_at": "2026-03-15T02:53:42.196Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "TIRTIR Mask Fit Viral Foundation Worth It?",
+  "hook_text": "Foundation Korea Viral, Worth It?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing dengan background blur dan efek cahaya sparkling.",
+      "narration": "Foundation Korea yang lagi viral banget, emang sekeren itu sih?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product shot cushion TIRTIR di atas meja dengan pencahayaan cinematic.",
+      "narration": "Ini dia TIRTIR Mask Fit Crystal Mesh Cushion. --- Full coverage tapi tetep ringan banget di muka, literally so comfortable bestie!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek animasi uang atau diskon.",
+      "narration": "Harganya? Cuma dua ratus tujuh puluh ribuan doang. Which is worth it banget buat kualitas sekelas luxury!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo aplikasi foundation di tangan atau wajah, close up tekstur halus.",
+      "narration": "Ada High Mesh Coverage biar flawless, SPF 50+ buat perlindungan maksimal, plus Niacinamide buat kulit sehat. --- Glowingnya tahan 72 jam, no cap! Basically next level sih ini."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Three swatches of shades 17C, 21N, 23N on arm next to skin tone.",
+      "narration": "Perfect buat kalian yang punya kulit kering atau kombinasi dan suka efek dewy. Buat yang takut keputihan, pilih shade 23N Sand atau 21N Ivory yang cocok banget sama tone kulit kita."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.96 dan counter terjual 20.000+ di layar.",
+      "narration": "Ratingnya 4.96, udah terjual 20 ribu lebih! Yang udah beli bilang, packagingnya cantik dan glow-nya natural banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks finding dot id dengan panah pointing down atau icon shop.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#TIRTIR",
+    "#CushionViral",
+    "#MakeupIndonesia",
+    "#SkincareLovers",
+    "#FoundationKorea",
+    "#BeautyTok",
+    "#MakeupTips",
+    "#CekFinding"
+  ],
+  "product_id": 100944,
+  "product_title": "TIRTIR Mask Fit Crystal Mesh Cushion 15g",
+  "product_price": "279000.00",
+  "product_rating": "4.96",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100944.jpg",
+    "/uploads/products/100944_1.jpg",
+    "/uploads/products/100944_2.jpg",
+    "/uploads/products/100944_3.jpg",
+    "/uploads/products/100944_4.jpg",
+    "/uploads/products/100944_5.jpg",
+    "/uploads/products/100944_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100944",
+  "generated_at": "2026-03-13T16:43:07.384Z"
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Pelembar Wajah Anti-Lengket? Ini Dia Bestie!",
+  "hook_text": "STOP! Kulitmu rusak?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan close-up wajah berminyak dengan teks overlay besar 'KULIT RUSAK?' dan efek zoom-in cepat",
+      "narration": "Kamu sering merasa wajahmu lagi rusak, kering, terus malah minyaknya ngeledak pas siang hari? Nggak usah panik lagi!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi smooth ke produk Elformula CeraHydro Barrier Moisture Gel di atas meja kayu, pencahayaan terang",
+      "narration": "Ini dia solusinya, bestie! Elformula CeraHydro Barrier Moisture Gel. Ini bagian dari line khusus Skin Barrier Line dari Elformula yang literally next level buat perawatan kulitmu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Shot tangan memegang tabung gel lalu zoom out menampilkan harga Rp 113.000 dengan efek bintang-bintang di belakangnya",
+      "narration": "Nggak nyangka kan kalau bisa dapet perawatan intensif seharga seratus seratus tiga puluh ribu aja? Volume lima puluh mililiter juga cukup lama banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri aplikasi gel di wajah, kanan ilustrasi molekul ceramide dan perlindungan sinar biru HP",
+      "narration": "Yang paling penting teksturnya gel ringan, nggak lengket sama sekali, dan langsung meresap. Isinya ada Ceramide Complex yang ampuh ngebaiki skin barrier yang rusak. Plus, ini juga punya proteksi anti-blue light buat kamu yang begadang main HP atau layar laptop terus, which is worth it banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: orang dengan kulit berminyak, orang bekas jerawat, dan orang sedang skincare routine malam hari",
+      "narration": "Perfect buat kamu yang punya kulit berminyak, lagi struggle sama bekas jerawat, atau kulit yang lagi rusak parah. Kalau aktivitas kamu banyak di depan layar, ini wajib punya dong!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Graphic besar menampilkan rating 4.92/5 dan angka 40.000+ terjual dengan warna hijau segar",
+      "narration": "Nggak perlu ragu, rating empat koma sembilan dua dari lebih empat puluh ribu pembeli, dan yang udah beli bilang teksturnya sangat lembut, nyaman dan dingin di wajah."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol besar 'CEK DI FINDING DOT ID' dengan animasi klik yang menarik",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#skincaretips",
+    "#pelembabwajah",
+    "#kulitberminyak",
+    "#ceramide",
+    "#findingid",
+    "#skincareindo",
+    "#rekomendasiskincare",
+    "#pelembabnggaklengket"
+  ],
+  "product_id": 100200,
+  "product_title": "Elformula CeraHydro Barrier Moisture Gel 50Ml",
+  "product_price": "113000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100200.jpg",
+    "/uploads/products/100200_1.jpg",
+    "/uploads/products/100200_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/100200",
+  "generated_at": "2026-03-14T04:09:06.200Z"
+}

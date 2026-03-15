@@ -1,0 +1,78 @@
+{
+  "title": "Kurma Sukari Asli Cuma 50 Ribu?! 😱",
+  "hook_text": "Kurma Arab Asli Cuma 50 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot kurma yang terlihat mengkilap dengan teks besar di tengah layar",
+      "narration": "Kamu percaya nggak kalau kurma Arab asli harganya cuma 50 ribuan? Seriously, ini asli banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Video tangan membuka kemasan ember dan mengambil satu buah kurma",
+      "narration": "Ini dia Kurma Sukari Ember 850gram, teksturnya literally soft banget dan manis natural tanpa pemanis tambahan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga di layar dengan efek tanda seru atau uang terbang",
+      "narration": "Normalnya mahal banget, tapi ini cuma lima puluh tujuh ribuan doang. Worth it banget buat stok harian lo."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail kemasan ember tebal dan kurma yang dipotong",
+      "narration": "Kemasan ember tebal, expired tahun 2027. Rasa manisnya next level, daging buahnya premium banget. --- Ada variasi kualitas dikit sih, tapi mayoritas puas."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Tiga orang sedang makan kurma bersama di meja makan",
+      "narration": "Perfect buat keluarga yang butuh stok kurma buat buka puasa atau hadiah dengan budget terbatas tapi kualitas asli Arab Saudi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.84 dan angka terjual 30.000",
+      "narration": "Rating 4,84 dari tiga puluh ribu pembeli. Yang udah beli bilang 'enakkk dan murah'. Overall worth it banget buat stok harian."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan logo finding.id dengan panah menunjuk ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#kurasukari",
+    "#kurmaasli",
+    "#buahbuah",
+    "#diskon",
+    "#viral",
+    "#findingid",
+    "#snacksehat",
+    "#stokrumah"
+  ],
+  "product_id": 114474,
+  "product_title": "Kurma Sukari Ember 850gram Original / Kurma Sukary Sukkari AlQassem / Kurma Ruthab, rutob",
+  "product_price": "57220.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/114474.jpg",
+    "/uploads/products/114474_1.jpg"
+  ],
+  "product_link": "https://finding.id/p/114474",
+  "generated_at": "2026-03-13T22:24:16.727Z"
+}

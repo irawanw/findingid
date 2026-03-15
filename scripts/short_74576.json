@@ -1,0 +1,78 @@
+{
+  "title": "Sunscreen Matte SPF50+ Buat Kulit Minyak! 😱",
+  "hook_text": "Kulit Minyak STOP Berminyak!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah berminyak di siang hari lalu transisi cepat ke wajah matte segar setelah pakai produk",
+      "narration": "Stop scroll! Kamu punya kulit berminyak yang gampang breakout pas lagi panas-panas? Nih, aku bakal kasih solusi yang literally worth it banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing NPURE Sunscreen Cica di atas meja, tunjukkan kemasan tebal dan tekstur krim di jari",
+      "narration": "Kenalan deh sama NPURE Sunscreen Cica Beat The Sun SPF 50+ PA++++. Ini sunscreen wajah yang nggak cuma ngerawat, tapi bener-bener ngontrol minyak dan kasih finish matte yang super cute!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar di layar dengan efek 'pop', bandingkan harga dengan kualitas premium",
+      "narration": "Gila sih, produk sekeren ini harganya cuma seratus empat puluhan ribu aja! Dibanding sunscreen lain yang ratusan, ini benar-benar no cap banget worth it buat kantong pelajar atau anak muda."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Timer 15 detik untuk show meresap cepat, 2. Wajah berminyak jadi kering, 3. Close up kulit tenang",
+      "narration": "Kenapa wajib punya? Pertama, teksturnya ringan meresap cuma dalam lima belas detik tanpa white cast sama sekali. Kedua, SPF lima puluh plus PA empat plus buat proteksi maksimal dari paparan matahari. Ketiga, ada Centella Asiatica yang menenangkan kulit sensitif dan jerawat, plus bebas alkohol dan paraben!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage: Orang berkulit berminyak, ibu hamil, dan anak kecil tersenyum sambil pakai sunscreen",
+      "narration": "Perfect buat kamu yang kulitnya cenderung berminyak atau sering breakout. Also, aman banget buat ibu hamil, ibu menyusui, dan anak-anak sejak usia tiga tahun. Basically next level safe!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.92 dan angka terjual 100rb, lalu teks kutipan muncul",
+      "narration": "Percaya nggak percaya? Dengan rating empat sembilan dua dan sudah terjual seratus ribu produk, pembelinya pada bilang tekstur nya enak banget, ringan, gaada white case sama sekali, ga perih di mata lagi, bener bener ngontrol minya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi seru dan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id ya bestie!",
+  "hashtags": [
+    "#skincarerutin",
+    "#sunscreenmatte",
+    "#kulitberminyak",
+    "#skincareindonesia",
+    "#findingid",
+    "#skincareviral",
+    "#spf50",
+    "#sunscreenjerawat"
+  ],
+  "product_id": 74576,
+  "product_title": "NPURE Sunscreen Cica (Centella) Beat The Sun Matte SPF 50+ PA++++ 35 ml / Jerawat / Oil Control / Matte Finish / Tekstur Ringan / No alcohol / Oily Skin / Acne Sunscreen / Hypoallergenic / Dermatologically / Non Acnegenic / Aman Bumil Busui / HALAL",
+  "product_price": "70000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/74576.jpg",
+    "/uploads/products/74576_1.jpg"
+  ],
+  "product_link": "https://finding.id/p/74576",
+  "generated_at": "2026-03-14T03:56:51.843Z"
+}

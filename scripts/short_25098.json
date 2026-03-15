@@ -1,0 +1,92 @@
+{
+  "title": "Gendongan Bayi 6in1 Murah & Kuat No Cap!",
+  "hook_text": "Gendong Bayi Tanpa Capek? Ada Solusinya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot wajah orang tua terlihat lelah gendong bayi, lalu transisi cepat ke wajah ceria memegang Baby Zes.",
+      "narration": "Lagi capek banget gendong bayi terus tapi punggung sakit? Bestie, kamu harus coba gendongan hipseat yang satu ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase produk Baby Zes dengan berbagai variasi warna (Hitam, Abu, Coklat) dipegang model dengan gerakan smooth.",
+      "narration": "Kenalin nih, BABY ZES! Gendongan hipseat multifungsi 6 in 1 yang bisa dipake depan, belakang, atau duduk. Literally next level banget buat kamu yang cari solusi praktis."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi angka harga muncul besar di layar dengan efek 'wow', disusul gambar tumpukan uang mainan yang dikocok kecil.",
+      "narration": "Ternyata kualitas sekeren ini cuma dibanderol harga seratus ribuan an aja, bestie! Dari seratus delapan puluhan ribu sampai dua ratus ribuan, which is worth it banget dibanding gendongan biasa."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tangan menekan bahan twill (bukti tebal), anak duduk di hipseat (anti slip), dan model berjalan santai (anti panas).",
+      "narration": "Fiturnya ngga main-main, guys. Pertama, bahannya twill yang tebal dan anti panas, jadi bayi nggak gerah meski dipake lama. Kedua, desain anti slip yang bikin posisi bayi aman dan nggak geser. Ketiga, jahitan super rapi dan kuat, no cap kokoh banget buat si kecil yang aktif."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: Ibu muda berjalan di taman dengan bayi di depan, dan Ayah berjalan di mall dengan bayi di belakang.",
+      "narration": "Ini perfect banget buat kamu yang punya bayi umur lima bulan ke atas atau yang aktif banget jalan-jalan. Kalau kamu sering keluar rumah tapi butuh yang nyaman, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.81 dan teks '20rb Terjual' muncul di layar dengan background video bayi tertawa.",
+      "narration": "Pembelinya pada ngomong kalau barangnya bagus banget, kuat, dan anak jadi lebih nyaman duduk. Total udah terjual 20.000 produk dengan rating 4.81, bestie!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah menunjuk ke arah kanan atas layar dengan teks 'Cek di Finding.id', lalu logo Finding.id muncul.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#BabyZes",
+    "#GendonganBayi",
+    "#Hipseat",
+    "#ParentingIndonesia",
+    "#MomLife",
+    "#DadLife",
+    "#ViralProduct",
+    "#FindingID"
+  ],
+  "product_id": 25098,
+  "product_title": "BABY ZES - GENDONGAN BAYI GENDONGAN HIPSEAT BAYI DEPAN BELAKANG MULTIFUNGSI 6 IN 1 POSISI",
+  "product_price": "87883.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/25098.jpg",
+    "/uploads/products/25098_1.jpg",
+    "/uploads/products/25098_2.jpg",
+    "/uploads/products/25098_3.jpg",
+    "/uploads/products/25098_4.jpg",
+    "/uploads/products/25098_5.jpg",
+    "/uploads/products/25098_6.jpg",
+    "/uploads/products/25098_7.jpg",
+    "/uploads/products/25098_8.jpg",
+    "/uploads/products/25098_9.jpg",
+    "/uploads/products/25098_10.jpg",
+    "/uploads/products/25098_11.jpg",
+    "/uploads/products/25098_12.jpg",
+    "/uploads/products/25098_13.jpg",
+    "/uploads/products/25098_14.jpg",
+    "/uploads/products/25098_15.jpg"
+  ],
+  "product_link": "https://finding.id/p/25098",
+  "generated_at": "2026-03-15T13:31:51.524Z"
+}

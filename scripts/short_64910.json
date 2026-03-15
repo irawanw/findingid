@@ -1,0 +1,78 @@
+{
+  "title": "Kaca Mobil Jadi Premium! Solusi Jamur Ajaib",
+  "hook_text": "Kaca mobil makin buram?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up shot kaca mobil berdebu dengan filter hitam dramatis di kiri layar",
+      "narration": "Kaca mobil makin buram bikin frustrasi nggak? Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transition cepat ke botol GLASS REBORN N2 bersinar di atas dashboard mobil",
+      "narration": "Ini solusi ajaib nanoTECH PROTECTION untuk kaca yang bandel. Bikin tampilan mobil jadi premium lagi literally so cute dan worth it banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek animasi confetti warna-warni",
+      "narration": "Harganya cuma dua ratus enam puluhan ribu lho bestie. Sangat worth it banget buat perawatan mobil kamu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: kotoran hilang, air tetesan memantulkan cahaya, tangan menggosok mudah",
+      "narration": "Pertama, bersihin jamur kaca sampai bersih total tanpa sisa. Kedua, efek anti air kayak daun talas super keren basically next level. Ketiga, aplikatornya gampang banget pakenya dan hasil maksimal."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang mengemudi mobil di jalan hujan dengan kaca sangat jernih",
+      "narration": "Perfect buat kamu yang sering main di daerah rawan hujan atau air keras. Nggak perlu repot lagi no cap."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.88 dan angka 20.000 terjual dengan efek glow",
+      "narration": "Rating empat koma delapan delapan dari dua puluh ribu terjual. yang udah beli bilang \"Nanotech emang ga ada lawan\". Super puas banget hasilnya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol panah menunjuk ke bawah",
+      "narration": "Cek detailnya di finding dot id ya bestie. Review lengkap ada di sana! Jangan lupa follow channel."
+    }
+  ],
+  "cta": "Cek detailnya di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#CarCare",
+    "#NanoTech",
+    "#KacaBersih",
+    "#MobilBerkilap",
+    "#FindingId",
+    "#Shorts",
+    "#AutoDetailing",
+    "#WaterRepellent"
+  ],
+  "product_id": 64910,
+  "product_title": "OBAT PEMBERSIH ANTI JAMUR KACA + GLASS COATING WATER REPELLENT /PAKET - nanoTECH PROTECTION - GLASS REBORN - GLASS CLEANER RAIN DROP - APLIKATOR GLASS POLISH - FELT BLOCK APPLICATOR PAD - GLASS SCRUB COMPOUND - GLASS FUSION - KACA ANTI AIR EFEK DAUN TALAS",
+  "product_price": "216699.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64910.jpg",
+    "/uploads/products/64910_1.jpg"
+  ],
+  "product_link": "https://finding.id/p/64910",
+  "generated_at": "2026-03-14T01:53:29.413Z"
+}

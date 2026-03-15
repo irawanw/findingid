@@ -1,0 +1,80 @@
+{
+  "title": "Celana Sport Murah Next Level!",
+  "hook_text": "Celana Sport Murah Next Level!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kaget dengan background video olahraga cepat",
+      "narration": "Nih bestie, ada celana olahraga yang harganya bikin kaget tapi kualitasnya literally no cap, worth it banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilan celana dari berbagai angle dengan efek cahaya sinematik",
+      "narration": "Kenalin nih, Celana Sport Pria dengan bahan COOLMAX impor yang bikin keringat cepet kering dan teknologi ECO GREEN yang ramah lingkungan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan animasi 'wow'",
+      "narration": "Dan yang paling bikin melek, harganya cuma delapan puluh ribuan an, which is super murah buat bahan se-nyaman ini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: kantong dibuka, bahan ditarik, warna-warna ditampilkan",
+      "narration": "Fiturnya next level, ada kantong ganda buat nyimpon HP atau kunci, ukurannya mulai dari M sampai XXL, dan tersedia di warna Army, Black, dan Abu Muda yang ganteng banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang lari atau angkat beban dengan celana tersebut",
+      "narration": "Jadi kalau kamu sering olahraga lari, gym, atau cuma mau ngetem santai di rumah, ini pilihan pas banget buat kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.81 dan angka penjualan 20.000",
+      "narration": "Sudah laku dua puluh ribu lebih dan ratingnya 4.81, yang udah beli bilang 'Sesuai dengan di gambar, bahan bagus, pengiriman juga cepat'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke teks finding.id",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#celanapria",
+    "#ootdgym",
+    "#fashionmurah",
+    "#belajargon",
+    "#fitnessindo",
+    "#celanapendek",
+    "#produkviral",
+    "#findingid"
+  ],
+  "product_id": 55995,
+  "product_title": "Celana Pendek Olahraga Pria Lari Gym Fitness Training - Celana Legging Running Sport Pria",
+  "product_price": "85360.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/55995.jpg",
+    "/uploads/products/55995_1.jpg",
+    "/uploads/products/55995_2.jpg",
+    "/uploads/products/55995_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/55995",
+  "generated_at": "2026-03-15T14:24:04.518Z"
+}

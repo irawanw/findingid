@@ -1,0 +1,83 @@
+{
+  "title": "Bibir Kering? Ini Solusi Anti Ribet!",
+  "hook_text": "Bibir kering jadi mulus?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up bibir kering pecah-pecah lalu ditimpa tekstur glossy produk dengan efek transisi smooth.",
+      "narration": "Stop ngeliatin bibir kering dan pecah-pecah itu, bestie! Kamu perlu banget coba ini."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk CLÉVIANT 4 in 1 Juicy Lip Pudding diputar-putar di tangan dengan background bright dan estetik.",
+      "narration": "Kenalin, CLÉVIANT 4 in 1 Juicy Lip Pudding. Basically next level karena satu produk ngadain fungsi pelembab, pewarna, gloss, dan filter UV sekaligus."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar sambil menunjukkan botol produk dengan efek zoom in.",
+      "narration": "Gila sih harganya cuma delapan puluh sembilan ribuan, which is worth it banget untuk perawatan bibir premium kayak gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: tekstur cream di tangan, aplikasi di bibir, close-up bibir yang glossy dan sehat.",
+      "narration": "Pertama, teksturnya itu creamy banget dan langsung melting di bibir jadi nggak lengket. Kedua, aromanya sweet kayak strawberry candy, literally so cute. Terakhir, UV filter-nya ngelindungi bibir dari sinar matahari pas lagi kelar-laran, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang sedang makan siang atau ngerasberry lipstik yang pecah, lalu diganti pakai produk ini.",
+      "narration": "Perfect buat kamu yang sering makan atau minum sambil ngomong dan takut lipstik pecah. Kalau aktivitas kamu aktif, ini bakal bikin bibir tetap lembap seharian."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.86 dan angka 20.000 terjual muncul dengan animasi pop-up.",
+      "narration": "Pembelinya pada ngomong 'langsung jatuh cinta sama wanginya' dan warna pas di semua skin tone."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar menampilkan logo finding.id dengan panah menunjuk ke bawah atau tombol beli.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#CLÉVIANT",
+    "#LipPudding",
+    "#BeautyHacks",
+    "#BibirKering",
+    "#SkincareIndonesia",
+    "#GenZBeauty",
+    "#WajahGlowUp",
+    "#ViralShorts"
+  ],
+  "product_id": 119873,
+  "product_title": "CLÉVIANT - 4 in 1 Juicy Lip Pudding | Tinted Lip balm | Lip treatment | Lip tint | with UV filter | Lip gloss | Bibir kering jadi lembap | Pelembab bibir Berwarna | Lip Butter Balm | Lip Moisturizer | Melting Balm Pot",
+  "product_price": "89000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/119873.jpg",
+    "/uploads/products/119873_1.jpg",
+    "/uploads/products/119873_2.jpg",
+    "/uploads/products/119873_3.jpg",
+    "/uploads/products/119873_4.jpg",
+    "/uploads/products/119873_5.jpg",
+    "/uploads/products/119873_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/119873",
+  "generated_at": "2026-03-14T17:44:04.346Z"
+}

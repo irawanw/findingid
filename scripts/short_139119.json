@@ -1,0 +1,81 @@
+{
+  "title": "Cokelat Almond Termurah? Gila Banget Bestie!",
+  "hook_text": "Gila, ini cokelat termurah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tangan membuka dus cokelat dengan efek suara 'ting' yang lucu, background musik upbeat.",
+      "narration": "Stop scroll dulu bestie! Kamu nggak bakal percaya kalau bisa dapat cokelat isi kacang almond kualitas gini dengan harga super murah."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat memutar empat toples cokelat dengan label rasa berbeda: Cocobery dan Almond, lalu zoom in ke tekstur isinya.",
+      "narration": "Perkenalkan, ini Cokelat ALMOND Dking yang lagi viral banget! Satu dus langsung dapat empat toples, dan setiap toplesnya isinya empat puluh pcs. Which is basically next level buat nyemil bareng teman."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan angka harga, diikuti visual perbandingan satu toples vs banyak teman makan.",
+      "narration": "Tebak deh harganya? Nggak bisa lebih dari seratus ribu dong, bestie! Paling mahal cuma seratus puluhan ribu aja untuk satu dus yang isinya limapuluh dua puluh pcs itu. Worth it banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan isian kacang almond asli, kanan tunjukkan warna cokelat yang halus dan creamy.",
+      "narration": "Rasanya literally so delicious! Ada rasa coklat almond dengan hazelnut yang legit, ada juga yang choco berry dengan campuran strawberry. Kualitasnya ok, teksturnya creamy nggak bikin tenggorokan kering. No cap, ini definisi coklat isi kacang asli."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Vlog style: seseorang sedang berbagi cokelat dengan keluarga di meja makan, suasana hangat dan ceria.",
+      "narration": "Perfect buat kamu yang sering banget ngidam coklat tapi kantong lagi seratusan ribu aja. Atau kalau kamu suka ngerayain ulang tahun atau sekadar mau kasih bykkin suasana di rumah, ini solusinya. Emang boleh beli empat?"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.82 bintang dan angka 20.000 terjual, lalu teks kutipan muncul dengan font yang menonjol.",
+      "narration": "Pembelinya pada ngomong, 'Ketiak jadi kering!' Tenang bestie, oles tipis saja ya. Alhamdulillah, pengiriman cepat dan aman. Ratingnya empat delapan dua dari lima, dan sudah laku dua puluh ribu produk."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah mengarah ke teks besar 'finding dot id' dengan background warna-warni menarik.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#CokelatAlmond",
+    "#SnackLokal",
+    "#ViralFYP",
+    "#ManisGila",
+    "#FindingId",
+    "#Renjana",
+    "#CokelatMurah",
+    "#IndoFoods"
+  ],
+  "product_id": 139119,
+  "product_title": "Termurah Coklat ALMOND Dking 1 dus isi 4toples",
+  "product_price": "75000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/139119.jpg",
+    "/uploads/products/139119_1.jpg",
+    "/uploads/products/139119_2.jpg",
+    "/uploads/products/139119_3.jpg",
+    "/uploads/products/139119_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/139119",
+  "generated_at": "2026-03-15T11:33:24.389Z"
+}

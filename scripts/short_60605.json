@@ -1,0 +1,83 @@
+{
+  "title": "Koko Putih Tulang Jumbo Bestie! Worth It Banget",
+  "hook_text": "Baju Kokonya Nggak Nerawang?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan mencubit bagian dada baju putih untuk test ketebalan kain diiringi efek suara 'brrt' seru.",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?'"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat model pria berpose keren pakai koko putih tulang jumbo dengan background estetik.",
+      "narration": "Kalo kamu cari koko Muslim seri nol satu warna putih tulang yang kelihatan elegan dan nggak biasa, ini jawabannya guys."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek uang jatuh atau suara 'ding' memuaskan.",
+      "narration": "Nggak perlu cari ribet di tempat mahal, harga aslinya cuma seratus dua puluh lima ribuan, which is worth it banget buat kualitas segini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail bordir polikatun di dada, lalu zoom out ke lengan panjang, dan terakhir model berjalan santai.",
+      "narration": "Pertama, bahan polikatunnya super lembut dan adem dipakai seharian. Kedua, bordirnya cantik banget dengan warna cerah yang bikin tampilan jadi next level elegan. Ketiga, tersedia dari ukuran M sampai empat XL, perfect buat semua ukuran badan bestie."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase aktivitas: model naik motor pakai koko, lalu duduk santai di kafe.",
+      "narration": "Perfect buat yang suka gaya casual tapi tetap sopan, atau kalau aktivitas kamu sering macet-macetan di jalan raya, baju ini bikin kamu tetap fresh."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang empat koma delapan tiga dan angka dua puluh ribu terjual dengan animasi panah menunjuk ke atas.",
+      "narration": "Sebanyak dua puluh ribu produk sudah terjual dan rating empat koma delapan tiga, pembelinya pada ngomong 'Suka banget ama baju kokonya'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi tombol yang ditekan.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#KokoMuslim",
+    "#FashionPria",
+    "#OOTDPria",
+    "#WardrobeEssential",
+    "#KokoTulang",
+    "#FashionIndonesia",
+    "#MurahMeriah",
+    "#FindingDotId"
+  ],
+  "product_id": 60605,
+  "product_title": "S&D PROJECT Koko Muslim Seri 01 Bordir Polikatun Putih Tulang Jumbo M-4XL Pria Dewasa Lengan Panjang",
+  "product_price": "125999.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/60605.jpg",
+    "/uploads/products/60605_1.jpg",
+    "/uploads/products/60605_2.jpg",
+    "/uploads/products/60605_3.jpg",
+    "/uploads/products/60605_4.jpg",
+    "/uploads/products/60605_5.jpg",
+    "/uploads/products/60605_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/60605",
+  "generated_at": "2026-03-15T05:07:47.277Z"
+}

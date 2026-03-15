@@ -1,0 +1,83 @@
+{
+  "title": "Daster Kekinian Adem & Murah Banget!",
+  "hook_text": "Daster Adem Harga 79 Ribu?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah presenter yang terkejut sambil menunjuk ke arah layar HP yang menampilkan harga Rp 79.000, lalu cut cepat ke visual daster yang sedang diputar pelan.",
+      "narration": "Gila sih bestie, daster rayon grade A dengan motif batik cap kekinian ini harganya cuma delapan puluhan ribu rupiah doang? Literally no cap, ini terlalu worth it banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Dianputri Daster Dress Maura dipajang rapi dengan pencahayaan natural, lalu zoom in ke detail motif batik cap yang tajam dan warna yang cerah.",
+      "narration": "Ini dia Dianputri Daster Dress Maura yang lagi viral banget! Bahannya rayon grade A yang adem banget di kulit, plus model lengan panjang yang bikin kamu tetap terlihat stylish meski cuma di rumah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik sederhana muncul di layar membandingkan harga 79 ribuan dengan teks 'Harga Normal 150rban', lalu transisi cepat ke tumpukan daster yang terlipat rapi.",
+      "narration": "Bayangin, dapet kualitas busui dengan resleting depan yang praktis, motifnya real pick banget, padahal harga jualnya cuma tujuh puluh sembilan ribuan doang. Which is totally worth it buat harian kamu!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: 1. Tangan membuka resleting depan, 2. Kain daster dikibas pelan menunjukkan kelembutan, 3. Close-up jahitan di bagian kerah dan saku.",
+      "narration": "Fiturnya next level deh bestie! Pertama, desain busui dengan resleting depan yang bikin ngasih makan bayi jadi super praktis tanpa harus copot baju. Kedua, bahan rayonya adem banget dan motifnya lucu banget, real pick sama foto. Ketiga, jahitannya rapi dan kuat, which is perfect buat kamu yang suka pakai seharian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario nyata: Seorang ibu sedang duduk santai sambil memegang bayi di sofa, lalu berdiri dan berjalan ke dapur dengan gaya santai memakai daster tersebut.",
+      "narration": "Ini perfect banget buat para ibu muda yang sering butuh baju tidur super nyaman tapi tetap terlihat kece. Kalau aktivitas kamu sering di dalam rumah sambil ngurus si kecil, daster ini bakal jadi favorit baru kamu, which is literally a game changer!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan statistik: Angka 4.80 Bintang dan 20.000 Terjual dengan animasi efek bintang, lalu teks kutipan muncul di atas background daster.",
+      "narration": "Sudah terjual dua puluh ribu produk dengan rating empat koma delapan nol! Yang udah beli bilang, 'Motifnya bagus banget, real pick semua, dan nyaman adem di pakai sehari-hari'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Presenter tersenyum sambil menunjuk ke arah bawah layar, dengan teks 'Cek di finding.id' muncul besar di tengah layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#DasterKekinian",
+    "#DasterAdem",
+    "#Dianputri",
+    "#OOTDRumah",
+    "#IbuHebat",
+    "#FashionMurah",
+    "#ViralTokopedia",
+    "#DasterBusui"
+  ],
+  "product_id": 83894,
+  "product_title": "Dianputri - Daster Dress Maura Batik Cap Rayon Grade A Busui Resleting depan | Daster Wanita Lengan Panjang | Daster Kekinian - Baju Tidur Daster Adem",
+  "product_price": "79000.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/83894.jpg",
+    "/uploads/products/83894_1.jpg",
+    "/uploads/products/83894_2.jpg",
+    "/uploads/products/83894_3.jpg",
+    "/uploads/products/83894_4.jpg",
+    "/uploads/products/83894_5.jpg",
+    "/uploads/products/83894_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/83894",
+  "generated_at": "2026-03-15T15:40:00.806Z"
+}

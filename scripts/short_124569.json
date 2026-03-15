@@ -1,0 +1,86 @@
+{
+  "title": "Parfum 40 Ribu Wangi Mewah? #ParfumMurah",
+  "hook_text": "Parfum 40 Ribu Wangi Mewah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up botol parfum Bodibreze Leona dengan overlay harga besar di layar.",
+      "narration": "Parfum 40 Ribu Wangi Mewah? Nggak percaya kan bestie?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan memegang botol parfum sambil diputar perlahan menunjukkan label depan.",
+      "narration": "Kenalin, ini Bodibreze Leona. Wangi floral woody yang elegan banget, kombinasi leci dan mawar yang bikin kamu glowing."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen kiri botol parfum, kanan teks harga 40-an ribuan dengan tanda tanya.",
+      "narration": "Harga asli cuma 40-an ribuan, which is worth it banget buat volume 30ml yang cukup buat sehari-hari."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Animasi teks muncul satu per satu: Tahan 8 Jam, BPOM, Floral Woody.",
+      "narration": "Fiturnya no cap, tahan lama sampai 8 jam --- Ada BPOM resmi juga. Wanginya mewah kayak lagi pakai parfum mahal."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita muda memakai parfum di pergelangan tangan dengan latar belakang kantor atau kampus.",
+      "narration": "Perfect buat kamu yang sering keluar kantor atau kuliah tapi pengen wanginya awet seharian tanpa bikin kantong bolong. Jadi investasi wangi yang worth it."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Grafik rating bintang 4.88 dan angka 30.000 terjual muncul di layar.",
+      "narration": "30 ribu orang sudah beli, rating 4 point 8. Yang sudah beli bilang 'wanginya enak banget, awet 6-8 jam'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Panah animasi menunjuk ke arah layar pencarian atau tombol link.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#BodibrezeLeona",
+    "#ParfumMurah",
+    "#WangiMurah",
+    "#ParfumTahanLama",
+    "#RekomendasiParfum",
+    "#GenZIndonesia",
+    "#ProdukViral",
+    "#FindingID"
+  ],
+  "product_id": 124569,
+  "product_title": "[Wangi Terlaris] Bodibreze Leona Eau de Parfum 30ml | Parfum Wanita Floral Woody Wangi Lychee Rose Vanila Tahan Lama Elegan",
+  "product_price": "42900.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/124569.jpg",
+    "/uploads/products/124569_1.jpg",
+    "/uploads/products/124569_2.jpg",
+    "/uploads/products/124569_3.jpg",
+    "/uploads/products/124569_4.jpg",
+    "/uploads/products/124569_5.jpg",
+    "/uploads/products/124569_6.jpg",
+    "/uploads/products/124569_7.jpg",
+    "/uploads/products/124569_8.jpg",
+    "/uploads/products/124569_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/124569",
+  "generated_at": "2026-03-13T23:04:38.311Z"
+}

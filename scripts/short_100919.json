@@ -1,0 +1,96 @@
+{
+  "title": "Foundation Murah Full Coverage Cuman 69 Ribuan!",
+  "hook_text": "Foundation Full Coverage Cuman 69 Ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing dengan cushion di tangan, lalu zoom out ke produk Skintific.",
+      "narration": "Foundation full coverage harga cuma 69 ribuan? --- No cap, ini beneran!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Skintific Cover All Perfect Cushion di atas meja dengan pencahayaan soft.",
+      "narration": "Ini dia Skintific Cover All Perfect Cushion, --- finishingnya flawless tanpa terlihat kaku dan tahan lama."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, transisi cepat ke tangan memegang produk.",
+      "narration": "Harga termurah cuma enam puluh sembilan ribuan, --- which is worth it banget buat coverage setinggi ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Aplikasi cushion ke wajah, lalu close up tekstur serum di atas kulit.",
+      "narration": "Coverage full tapi tetep ringan, ada serum Ceramide dan Centella buat skin barrier. --- Oh iya, tipsnya jangan lupa tap puff di tutupnya biar nggak terlalu banyak produk."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model dengan kulit berminyak tersenyum percaya diri, lalu shot tekstur foundation di lengan.",
+      "narration": "Kalau kamu sering breakout atau kulit berminyak, --- ini jadi solusi ampuh buat kamu yang cari finish natural."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 4.9 dan angka 800.000 terjual muncul di layar dengan animasi.",
+      "narration": "Total udah terjual 800 ribu, rating 4.9 bintang! --- Yang udah beli bilang, teksturnya ringan dan lembut, cocok buat semua jenis kulit."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke bawah layar.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, ada review produk-nya di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, ada review produk-nya di sana!",
+  "hashtags": [
+    "#skintific",
+    "#cushion",
+    "#foundation",
+    "#skincare",
+    "#beauty",
+    "#viral",
+    "#makeup",
+    "#indonesia"
+  ],
+  "product_id": 100919,
+  "product_title": "SKINTIFIC - Cover All Perfect Cushion|Flawless & Glow Finish Cocok untuk Kulit Berminyak Berjerawat & Semua High Coverage Concealer Non-Comedogenic Skin Tint Foundation Makeup BB Cream Kosmetik Refill Bedak Padat Kosmetik Wajah Compact Powder oil control",
+  "product_price": "69000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100919.jpg",
+    "/uploads/products/100919_1.jpg",
+    "/uploads/products/100919_2.jpg",
+    "/uploads/products/100919_3.jpg",
+    "/uploads/products/100919_4.jpg",
+    "/uploads/products/100919_5.jpg",
+    "/uploads/products/100919_6.jpg",
+    "/uploads/products/100919_7.jpg",
+    "/uploads/products/100919_8.jpg",
+    "/uploads/products/100919_9.jpg",
+    "/uploads/products/100919_10.jpg",
+    "/uploads/products/100919_11.jpg",
+    "/uploads/products/100919_12.jpg",
+    "/uploads/products/100919_13.jpg",
+    "/uploads/products/100919_14.jpg",
+    "/uploads/products/100919_15.jpg",
+    "/uploads/products/100919_16.jpg",
+    "/uploads/products/100919_17.jpg",
+    "/uploads/products/100919_18.jpg",
+    "/uploads/products/100919_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/100919",
+  "generated_at": "2026-03-13T21:35:14.174Z"
+}

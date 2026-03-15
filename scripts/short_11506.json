@@ -1,0 +1,82 @@
+{
+  "title": "Flashdisk SanDisk Murah Banget? 😱",
+  "hook_text": "Ngga percaya ini asli SanDisk? No cap!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up produk flashdisk dengan efek cahaya neon yang dramatis dan teks overlay besar.",
+      "narration": "Ngga percaya ini asli SanDisk? No cap! Beneran sih."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai angle menunjukkan desain metal dan tulisan SanDisk yang jelas.",
+      "narration": "Kenalin nih, SanDisk Cruzer Glide USB 3.0! Desainnya metal, kokoh banget, dan transfer datanya ngebut no cap."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga di layar HP atau overlay teks besar dengan tanda seru.",
+      "narration": "Ternyata harganya cuma mulai dari seratus delapan puluhan ribu rupiah. Ngga perlu keluarin satu jutaan kok, literally worth it banget buat 16GB!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi kecepatan transfer file besar dan penggunaan OTG di smartphone.",
+      "narration": "Fiturnya gila: pertama, kecepatan transfer super kilat which is worth it banget. --- Kedua, bisa buat OTG di HP langsung tanpa ribet. --- Ketiga, body metal anti lecet dan tahan banting."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang menggunakan flashdisk di kampus atau kantor untuk pindahkan tugas.",
+      "narration": "Ini perfect buat kamu yang sering pindahan tugas, kuli kantoran, atau butuh backup data penting tanpa ribet. --- Ngga perlu bawa laptop terus dong, which is practical banget jadi gak pusing mikir biaya tambahan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.87 dan jumlah terjual 40k di layar.",
+      "narration": "Sudah terjual empat puluh ribu produk! Ratingnya 4.87 bintang. --- Yang udah beli bilang 'Bagus intinya' banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan tombol animasi mengarah ke produk.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SanDisk",
+    "#Flashdisk",
+    "#CruzerGlide",
+    "#GadgetMurah",
+    "#TechIndonesia",
+    "#Findid",
+    "#ViralProduct",
+    "#GamingSetup"
+  ],
+  "product_id": 11506,
+  "product_title": "SANDISK CZ600 Cruzer Glide 16GB / 32GB / 64GB / 128GB / 256GB USB 3.0 - Flashdisk",
+  "product_price": "118800.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/11506.jpg",
+    "/uploads/products/11506_1.jpg",
+    "/uploads/products/11506_2.jpg",
+    "/uploads/products/11506_3.jpg",
+    "/uploads/products/11506_4.jpg",
+    "/uploads/products/11506_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/11506",
+  "generated_at": "2026-03-13T19:06:50.379Z"
+}

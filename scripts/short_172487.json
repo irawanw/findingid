@@ -1,0 +1,85 @@
+{
+  "title": "Tripod Ring Light 360° Murah Banget!",
+  "hook_text": "Ring Light 360° Cuma 60 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up cepat tripod INBEX IPL16 diputar 360 derajat dengan efek blur background, teks overlay besar muncul.",
+      "narration": "Gila sih, ring light 360 derajat bisa diputar bebas, harganya cuma enam puluhan ribuan doang? Bestie, ini nggak main-main!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai sudut, menunjukkan panel lampu 16cm yang besar dan material aluminium yang kokoh.",
+      "narration": "Ini nih INBEX IPL16, ring light 360 derajat yang wajib banget punya buat konten kreator. Bahannya dari aluminium, jadi tebal, kokoh, dan literally next level banget kualitasnya!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan harga 'Rp 69.000-an' dengan efek kilatan cahaya, diiringi perbandingan visual dengan produk mahal.",
+      "narration": "Bayangin, dapet panel besar 16 cm, lampu 3 warna, plus tripod yang bisa diatur tinggi, semua cuma satu puluhan ribu aja? Which is worth it banget buat dompet kamu!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tangan mengubah suhu warna (kuning-putih), tripod diputar 360 derajat, dan lampu dimatikan/menyala.",
+      "narration": "Fiturnya gila, bestie! Pertama, lampu bisa diputar 360 derajat ke depan dan belakang, jadi angle kamu bebas banget. Kedua, ada tiga mode warna, dari hangat sampai putih terang, sesuai mood kamu. Ketiga, bahannya logam yang solid, nggak gampang goyang pas lagi live streaming atau ngedit video!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang sedang merekam video TikTok di kamar dengan pencahayaan bagus, lalu transisi ke suasana malam.",
+      "narration": "Perfect buat kamu yang sering bikin konten di kamar minim cahaya atau sering live streaming malam hari. Kalau aktivitas kamu butuh pencahayaan stabil dan bisa di mana aja, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.84 bintang dan teks '50.000+ Terjual' dengan kutipan ulasan pembeli yang muncul di layar.",
+      "narration": "Ratingnya 4.84 bintang, udah terjual lebih dari 50.000 produk! Yang udah beli bilang, 'Barang real pict, bahannya tebal dan kokoh, kualitas gambar oke banget!'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke arah bawah atau layar, teks 'Cek di finding dot id'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#ringlightmurah",
+    "#tripod360",
+    "#kontenkreator",
+    "#setupkamar",
+    "#findingid",
+    "#gadgetmurah",
+    "#livestreaming",
+    "#INBEX"
+  ],
+  "product_id": 172487,
+  "product_title": "[Putar 360°]  INBEX IPL16 Light Bisa diputar 360° Tripod konten kreator ring light 12Inci 8Inci Lampu 3 Warna Bulat Panel Besar Lampu Video Livestreaming Studio",
+  "product_price": "69000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/172487.jpg",
+    "/uploads/products/172487_1.jpg",
+    "/uploads/products/172487_2.jpg",
+    "/uploads/products/172487_3.jpg",
+    "/uploads/products/172487_4.jpg",
+    "/uploads/products/172487_5.jpg",
+    "/uploads/products/172487_6.jpg",
+    "/uploads/products/172487_7.jpg",
+    "/uploads/products/172487_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/172487",
+  "generated_at": "2026-03-15T17:56:15.487Z"
+}

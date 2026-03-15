@@ -1,0 +1,83 @@
+{
+  "title": "Rapiin Rumah Pake Box Ini Bestie!",
+  "hook_text": "Rumah berantakan? Stop!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up meja berantakan dengan mainan dan baju berserakan, lalu transisi cepat ke tangan memegang kotak storage yang elegan.",
+      "narration": "Rumah kamu lagi chaos banget sampai bingung mau mulai dari mana? Nih, solusinya ada di depan mata!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk kotak storage 66L yang sedang dilipat dan dibuka lebar, menunjukkan kerangka baja yang kokoh dan kain oxford tebal.",
+      "narration": "Kenalin nih, storage box oxford frame baja yang literally next level! Ini punya kapasitas 66 liter, tahan lembab, dan bisa dilipat pas nggak dipakai. Basic banget buat rapiin kamar!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi teks harga Rp 50 ribuan muncul besar di layar disertai efek suara 'cha-ching', lalu muncul ikon bintang rating 4.8.",
+      "narration": "Dan yang bikin nagih, harga cuma lima puluh ribuan an! You can't deny, ini worth it banget dibanding barang yang bisa awet lama kayak gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: (1) Tangan memasukkan baju tebal, (2) Tutup ganda digeser, (3) Air diteteskan di kain dan memantul.",
+      "narration": "Fiturnya nggak main-main bestie! Pertama, double zipper yang super smooth dan aman. Kedua, bahan oxford tebal yang tahan air jadi nggak perlu takut barang basah. Ketiga, frame bajanya kokoh banget sampai bisa ditumpuk rapi!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario anak kost sedang memasukkan baju ke kotak, lalu kotak tersebut ditaruh di bawah tempat tidur yang sempit.",
+      "narration": "Ini perfect banget buat anak kost yang kamar sempit atau kalian yang punya banyak mainan anak tapi nggak mau berantakan. Kalau aktivitas kamu sering pindah-pindah, box ini juga gampang dilipat."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.82 dan angka 20.000 terjual, diikuti teks kutipan review yang muncul satu per satu.",
+      "narration": "Dengerin kata pembeli yang udah beli bilang, 'Alhamdulillah barang bagus kokoh, jahitan rapi, worth it lah sesuai harga!' Ini udah terjual 20.000 lebih unit, bestie!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan panah menunjuk ke bawah, background kotak storage yang sudah tertata rapi.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#StorageBox",
+    "#RumahRapi",
+    "#AnakKost",
+    "#FindsID",
+    "#HomeOrganization",
+    "#BoxSimpan",
+    "#TipsRumah",
+    "#ViralProduct"
+  ],
+  "product_id": 21758,
+  "product_title": "66L 100L 150L oxford kotak penyimpanan Lipat storage box pakaian serbaguna mainan box tahan lembab box storage frame baja Double Zipper container box",
+  "product_price": "50001.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21758.jpg",
+    "/uploads/products/21758_1.jpg",
+    "/uploads/products/21758_2.jpg",
+    "/uploads/products/21758_3.jpg",
+    "/uploads/products/21758_4.jpg",
+    "/uploads/products/21758_5.jpg",
+    "/uploads/products/21758_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/21758",
+  "generated_at": "2026-03-15T12:27:53.613Z"
+}

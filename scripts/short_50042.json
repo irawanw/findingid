@@ -1,0 +1,80 @@
+{
+  "title": "Samsung A07 Murah Banget! Garansi Resmi",
+  "hook_text": "HP Samsung Cuma 1 Jutaan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up Samsung Galaxy A07 dengan efek glitch cepat",
+      "narration": "Siapa sangka HP Samsung bisa seharga ini? Bestie, no cap!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Show unboxing produk lengkap dengan adaptor di atas meja",
+      "narration": "Ini dia Samsung Galaxy A07, lengkap sama adaptor dong. Garansi resmi Indonesia, jadi nggak perlu takut palsu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek uang jatuh",
+      "narration": "Harganya? Sekitar satu juta empat ratus ribuan aja. Worth it banget dibanding HP lain yang cuma kasih plastik doang."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase kamera 50MP, ikon baterai, dan gameplay game populer",
+      "narration": "Camera 50MP, foto siang malam jelas. Baterai 5000mAh, awet banget sampe malem. Chipset Helio G99, gaming lancar pol, menang telak sama HP sekelasnya. Ada yang komplain packing kurang rapi? --- Tenang, kadang lakban aja sih, isinya tetep aman kok."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Siswa belajar di cafe dan gamer main di kamar",
+      "narration": "Perfect buat pelajar atau yang suka gaming tapi budget mepet. Kalau kamu butuh HP harian yang solid tapi nggak bikin dompet jebol."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating 4.92 bintang dan angka 20.000 terjual dengan efek bintang",
+      "narration": "Rating 4,92 bintang, udah laku 20.000 unit. Yang udah beli bilang 'Baterai awet pol, chipset lancar pol'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah menunjuk ke arah bawah atau link",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, produk-nya ada di sana!",
+  "hashtags": [
+    "#SamsungA07",
+    "#HPMurah",
+    "#GamingHP",
+    "#SamsungIndonesia",
+    "#HPBajet",
+    "#Teknologi",
+    "#FindIt",
+    "#TechViral"
+  ],
+  "product_id": 50042,
+  "product_title": "Samsung Galaxy A07 [PLUS ADAPTOR] [4GB+64GB] [4GB+128GB] [6GB+128GB] - Mediatek Helio G99 - Camera 50MP - 5000mAh - Garansi Resmi Samsung Indonesia",
+  "product_price": "1485000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/50042.jpg",
+    "/uploads/products/50042_1.jpg",
+    "/uploads/products/50042_2.jpg",
+    "/uploads/products/50042_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/50042",
+  "generated_at": "2026-03-13T17:02:42.694Z"
+}

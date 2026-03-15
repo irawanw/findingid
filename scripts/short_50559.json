@@ -1,0 +1,83 @@
+{
+  "title": "Karpet Masjid 9mm Next Level Bestie!",
+  "hook_text": "Karpet Masjid 9mm Cuma Segini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up kaki menekan karpet lembut dengan efek slow motion",
+      "narration": "Gila sih, karpet masjid se-empuk ini harganya nggak nyampe setengah juta!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan membuka gulungan karpet MEDGRA SHABEL dengan pencahayaan cinematic",
+      "narration": "Kenalin nih, MEDGRA SHABEL roll sajadah lokal yang lagi hits. Tebal sembilan milimeter, literally nyaman banget buat sujud panjang."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafis harga muncul besar di tengah layar dengan efek glow",
+      "narration": "Harganya? Cuma lima ratus empat puluhan ribu doang. Which is worth it banget buat dapet kualitas premium begini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close-up tekstur bulu karpet, lalu transisi ke visual orang beribadah di mushola",
+      "narration": "Bahannya Polypropylene BCF, anti jamur dan nggak nahan bau. --- Desain motif Timur Tengah elegan, muat sepuluh orang makmum. Gampang dibersihin, nggak licin."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Suasana pengurus masjid sedang merapikan karpet di area mushola",
+      "narration": "Cocok buat pengurus masjid yang mau upgrade fasilitas tanpa bikin dompet jebol. Kalau kamu butuh tempat ibadah yang estetik, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan bintang rating 4,92 dan jumlah terjual dua puluh ribu roll",
+      "narration": "Rating 4,92 bintang, udah terjual dua puluh ribu roll! Yang udah beli bilang, 'Produk diterima sesuai pesanan, warna merah cantik banget.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Screenshot halaman produk di finding.id dengan panah mengarah ke link",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#karpetmasjid",
+    "#medgrashabel",
+    "#mushola",
+    "#produkviral",
+    "#sajadahroll",
+    "#tiktokshop",
+    "#findingid",
+    "#shafroll"
+  ],
+  "product_id": 50559,
+  "product_title": "Alhadi Karpet Masjid MEDGRA SHABEL 1 Roll Ukuran 570 x 105cm Tebal 9mm Sajadah Roll Mushola Terlaris",
+  "product_price": "546000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/50559.jpg",
+    "/uploads/products/50559_1.jpg",
+    "/uploads/products/50559_2.jpg",
+    "/uploads/products/50559_3.jpg",
+    "/uploads/products/50559_4.jpg",
+    "/uploads/products/50559_5.jpg",
+    "/uploads/products/50559_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/50559",
+  "generated_at": "2026-03-13T16:51:36.674Z"
+}

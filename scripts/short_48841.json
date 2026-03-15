@@ -1,0 +1,77 @@
+{
+  "title": "Sabun Cair Murah & Wangi Banget!",
+  "hook_text": "Stop scroll kalau kulitmu butuh perlindungan!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah terkejut sambil memegang botol sabun biru yang berkilau di bawah cahaya matahari.",
+      "narration": "Eits stop dulu! Kalau kamu sering ngerasa kulit nggak bersih atau gampang bau, kamu wajib banget liat ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Nuvo Family Sabun Mandi Cair Biru Mild Protect 800gr x5 dibalikkan menampilkan label jelas.",
+      "narration": "Kenalan sama Nuvo Family Mild Protect, sabun cair antibakterial dengan bahan aktif TCC yang ampuh ngebunuh kuman di kulit!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke layar menampilkan angka harga Rp 195.000 dengan efek teks 'WOW' dan ikon tas belanja penuh.",
+      "narration": "Gila sih harganya cuma seratus sembilan puluhan ribu buat volume lima liter ya? Which is worth it banget buat kebutuhan harian!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tumpukan susu, kanan kulit halus, lalu zoom in ke kemasan bubble wrap tebal.",
+      "narration": "First, ada Milk Moisturizer yang bikin kulit lembut nggak kerasa sabun. Plus wangi lembut yang tahan lama, literally so cute! Packingnya juga aman banget dibungkus bubble wrap tebal, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase aktivitas keluarga: ayah basuh kaki, ibu basuh anak kecil, dan anak bermain di taman.",
+      "narration": "Perfect buat kamu yang punya keluarga besar atau suka ngajak anak main di luar, karena butuh sabun volume besar yang higienis!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.95 bintang dengan latar belakang banyak ikon tangan jempol dan angka 20.000 terjual.",
+      "narration": "Pembelinya pada ngomong, wanginya lembut banget dan pengiriman cepat banget, Alhamdulillah!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol besar muncul di layar dengan teks 'Cek finding dot id' dan logo Finding.id.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#nuvofamily",
+    "#sabuncair",
+    "#skincareindonesia",
+    "#hematjajet",
+    "#keluargahappy",
+    "#mildprotect",
+    "#findingid",
+    "#viralshorts"
+  ],
+  "product_id": 48841,
+  "product_title": "Nuvo Family Sabun Mandi Cair Biru Mild Protect Antibacterial Pouch 800 gr x5",
+  "product_price": "195000.00",
+  "product_rating": "4.95",
+  "product_sold_display": "20.000",
+  "product_images": [
+    "/uploads/products/48841.jpg"
+  ],
+  "product_link": "https://finding.id/p/48841",
+  "generated_at": "2026-03-14T04:33:05.846Z"
+}

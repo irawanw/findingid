@@ -1,0 +1,83 @@
+{
+  "title": "Mouse Logitech Murah Banget! Worth It?",
+  "hook_text": "Mouse murah kualitas gila?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up mouse Logitech B175 berputar dengan efek cahaya",
+      "narration": "Sumpah bestie, mouse murah kok bisa sekeren ini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan membuka kotak dan mengambil mouse dari atas meja",
+      "narration": "Ini Logitech B175, simpel banget bentuknya --- tapi fitur gila. Nggak perlu install driver, tinggal colok USB nano receiver nya saja dan langsung jalan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul besar di layar dengan efek koin",
+      "narration": "Dan tau nggak harganya? Cuma seratus dua puluhan ribu doang! Which is literally worth it banget buat kebutuhan harian kamu yang produktif."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Animasi baterai penuh, ikon Windows/Mac, dan tangan kanan kiri",
+      "narration": "Daya tahan baterai bisa sampe setahun penuh! Design ambidextrous nyaman banget buat tangan kanan atau kiri --- Koneksi 2.4 GHz stabil tanpa putus sama sekali. Bonus baterai langsung ada di dalam."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang mengetik di laptop di kafe dan ruang kerja",
+      "narration": "Perfect buat kamu yang kerja di kantor atau pelajar. Kompatibel sama Windows, Mac, sampai Linux juga bisa tanpa ribet setup --- Siap kerja!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang lima dan angka 300.000 terjual",
+      "narration": "Sudah laku tiga ratus ribu! Pembelinya bilang 'Kualitas mantaap dan harga paling oke'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul dengan panah ke bawah",
+      "narration": "Cek detailnya di finding dot id ya bestie, ada review lengkapnya!"
+    }
+  ],
+  "cta": "Cek detailnya di finding dot id ya bestie, ada review lengkapnya!",
+  "hashtags": [
+    "#LogitechB175",
+    "#MouseMurah",
+    "#GadgetViral",
+    "#TechIndonesia",
+    "#WorkFromHome",
+    "#StudentEssentials",
+    "#GadgetGaul",
+    "#FindingID"
+  ],
+  "product_id": 48895,
+  "product_title": "Logitech B175 Mouse Wireless untuk Windows, Mac, Linux dan ChromeOS",
+  "product_price": "129000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/48895.jpg",
+    "/uploads/products/48895_1.jpg",
+    "/uploads/products/48895_2.jpg",
+    "/uploads/products/48895_3.jpg",
+    "/uploads/products/48895_4.jpg",
+    "/uploads/products/48895_5.jpg",
+    "/uploads/products/48895_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/48895",
+  "generated_at": "2026-03-13T18:46:03.188Z"
+}

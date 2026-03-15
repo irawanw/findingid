@@ -1,0 +1,83 @@
+{
+  "title": "Tas Selempang Cowok Murah Kualitas Mewah?",
+  "hook_text": "Tas Murah Kualitas Mewah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas dibuka cepat dengan efek suara whoosh",
+      "narration": "Gila sih, tas cowok sekeren ini harganya cuma seharga kopi saja!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product shot tas berputar, model mengenakan tas saat jalan",
+      "narration": "Kenalin, Freeknight Sling Bag TS707. Desainnya literally casual banget, cocok buat kuliah atau nongkrong. Bahannya solid no drama."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul besar di layar dengan efek koin",
+      "narration": "Dan harganya cuma sembilan puluh ribuan saja. Which is worth it banget kan buat kualitas begini?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Show kantong dalam tas, tunjukkan HP masuk, lalu tanda seru untuk waterproof",
+      "narration": "Fiturnya next level. Kantongnya banyak, muat HP dan powerbank aman. Waterproof buat hujan rintik, tapi resleting belum full seal ya bestie. --- Jadi jangan celupin ke air, okey?"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Cowok naik motor atau duduk di cafe sambil pakai tas",
+      "narration": "Perfect buat yang suka traveling ringan atau sekadar nongkrong. Kalau kamu sering bawa barang penting, tas ini bakal jadi teman setia."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating 4.89 bintang dan angka 20.000 terjual muncul di layar",
+      "narration": "Rating 4,89 bintang, sudah terjual 20.000-an. Yang sudah beli bilang kualitasnya oke, pengiriman cepat, dan tempatnya luas sesuai deskripsi. No cap!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan tombol klik",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#taslempangcowok",
+    "#freaknight",
+    "#tasmurah",
+    "#fashioncowok",
+    "#rekomendasitas",
+    "#stylekampus",
+    "#produkviral",
+    "#findingid"
+  ],
+  "product_id": 4042,
+  "product_title": "Freeknight Tas Selempang Pria Multifungi Sling Bag sling bag Fashion Casual cowok Anti air TS707",
+  "product_price": "99000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/4042.jpg",
+    "/uploads/products/4042_1.jpg",
+    "/uploads/products/4042_2.jpg",
+    "/uploads/products/4042_3.jpg",
+    "/uploads/products/4042_4.jpg",
+    "/uploads/products/4042_5.jpg",
+    "/uploads/products/4042_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/4042",
+  "generated_at": "2026-03-13T23:35:11.634Z"
+}

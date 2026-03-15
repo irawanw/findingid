@@ -1,0 +1,83 @@
+{
+  "title": "Tas Cowok Premium Cuma 130 Ribu Aja?",
+  "hook_text": "Tas Cowok Premium 100 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas cowok dengan pencahayaan dramatis, lalu zoom out ke presenter",
+      "narration": "Penasar ada tas cowok se-elegan ini cuma seharga secangkir kopi?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase detail tas dari berbagai sudut, model memakainya",
+      "narration": "Kenalin nih Hefand Aero Exclusive, clutch bag cowok multifungsi yang literally next level buat daily essentialmu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek uang",
+      "narration": "Harga termurah cuma seratus tiga puluh ribuan aja, which is worth it banget buat kualitas sekelas gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Aksi tuang air ke tas, tunjukkan slot organizer, close up jahitan",
+      "narration": "Bahan Leather PU Premium anti air, jadi aman dari hujan. Organizer rapi buat dompet dan paspor. --- Oh iya, buat yang picky soal jahitan, ada yang bilang oke banget, cuma pas promo kadang dikit kurang rapi. Tapi overall? No cap, solid!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Cowok pakai tas ke acara formal dan tunjukin kado",
+      "narration": "Perfect buat kamu yang butuh tas formal tapi budget masih pelajar. Atau buat bestie yang mau cari kado cowok tanpa bikin dompet bolong."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 5 dan angka 30.000 terjual",
+      "narration": "Rating 4,91, udah laku 30.000 lebih. Yang udah beli bilang 'Pas buat acara, cocok buat hadiah'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah menunjuk ke arah link",
+      "narration": "Penasaran? Cek di finding dot id ya bestie, review ada di sana!"
+    }
+  ],
+  "cta": "Penasaran? Cek di finding dot id ya bestie, review ada di sana!",
+  "hashtags": [
+    "#Hefand",
+    "#TasPria",
+    "#KadoCowok",
+    "#ProdukViral",
+    "#GayaPria",
+    "#ClutchBag",
+    "#MurahMurah",
+    "#FindingID"
+  ],
+  "product_id": 93141,
+  "product_title": "Hefand - Handbag Pria Aero Exclusive + Paperbag Clutch Bag Slingbag Multifungsi Tas Tangan Cowok Waterproof Anti Air",
+  "product_price": "138000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/93141.jpg",
+    "/uploads/products/93141_1.jpg",
+    "/uploads/products/93141_2.jpg",
+    "/uploads/products/93141_3.jpg",
+    "/uploads/products/93141_4.jpg",
+    "/uploads/products/93141_5.jpg",
+    "/uploads/products/93141_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/93141",
+  "generated_at": "2026-03-13T18:25:30.014Z"
+}

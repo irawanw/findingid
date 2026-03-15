@@ -1,0 +1,79 @@
+{
+  "title": "Popok MamyPoko Royal Soft NB62 Bayi Nyenyak",
+  "hook_text": "Bayi Tidur Nyenyak Tanpa Rewel?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah bayi tertidur pulas dengan pencahayaan hangat dan cinematic.",
+      "narration": "Stop scroll! Bayangin bayi tidur nyenyak tanpa rewel, gimana caranya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk MamyPoko Royal Soft di atas meja minimalis dengan tangan memegangnya.",
+      "narration": "Ini MamyPoko Royal Soft Organic Cotton NB62. Soft banget, literally nyaman di kulit newborn."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga besar muncul di layar dengan efek suara 'ching'.",
+      "narration": "Harganya? Sembilan puluh ribuan buat dapet kualitas selevel hotel bintang lima, which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menunjukkan tekstur popok dan bayi memakainya dengan senyum.",
+      "narration": "Bahannya extra soft, no cap literally nggak bikin iritasi. Organik cotton, aman buat kulit bayi sensitif. --- Kemasannya plastik bening sih, jadi pastikan unboxingnya aman ya biar nggak rusak."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu sedang memakaikan popok pada bayi dengan ekspresi tenang dan bahagia.",
+      "narration": "Perfect buat parents yang sering khawatir soal ruam popok, especially kalau kulitnya gampang merah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.92 dan angka 20.000 terjual yang besar.",
+      "narration": "Ratingnya 4.92, udah dibeli 20.000 orang. Yang udah beli bilang 'Bayi tak rewel dan tidak iritasi lagi'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks 'Cek di finding dot id' muncul dengan panah menunjuk ke arah link.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#MamyPokoRoyalSoft",
+    "#PopokNB",
+    "#NewbornCare",
+    "#ParentingTips",
+    "#RekomendasiProduk",
+    "#BundaKonservatif",
+    "#BabyEssential",
+    "#ViralProduct"
+  ],
+  "product_id": 75102,
+  "product_title": "MamyPoko Royal Soft Organic Cotton NB62 Popok Perekat",
+  "product_price": "101500.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/75102.jpg",
+    "/uploads/products/75102_1.jpg",
+    "/uploads/products/75102_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/75102",
+  "generated_at": "2026-03-13T16:02:00.240Z"
+}

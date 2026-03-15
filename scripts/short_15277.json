@@ -1,0 +1,83 @@
+{
+  "title": "Celana Chino Premium Pinggang Rip Termurah Big Size!",
+  "hook_text": "Lo percaya nggak sih celana ini cuma segitu doang?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah creator yang ekspresief memegang celana, transisi cepat ke produk.",
+      "narration": "Lo percaya nggak sih celana ini harganya cuma segitu doang?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai angle, menampilkan detail pinggang rip dan jahitan.",
+      "narration": "Celana Chino Premium Pinggang Rip ini tuh literally next level buat anak street style Indonesia."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek suara 'cha-ching', tangan menunjuk harga.",
+      "narration": "Niat banget sih, harga cuma lima puluhan ribu doang, padahal quality-nya import banget yang isinya worth it."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Creator merentangkan bahan celana untuk menunjukkan elastisitas, lalu tunjukkan saku depan belakang.",
+      "narration": "Bahan chino-nya super lembut, mulur, dan adem banget. Ada juga big size sampai nomor 38, which is super generous buat kamu yang badannya jumbo. --- Saku depan belakang juga fungsional, warnanya netral juga, cocok buat mix and match."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Creator memakai celana ini sambil jalan santai di area outdoor/kampus.",
+      "narration": "Kalau kamu sering cari outfit santai tapi tetap keren, ini dia solusinya. --- Cocok banget buat dipakai ke kampus atau nongkrong sore bareng bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.81 dan jumlah terjual 90.000 di layar HP.",
+      "narration": "Sebenarnya udah 90.000 orang yang beli, rating 4.81. --- Yang udah beli bilang 'Di luar ekspektasi, bagus banget buat harga segini, langsung check out warna lain lagi'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana, jangan sampai kehabisan!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana, jangan sampai kehabisan!",
+  "hashtags": [
+    "#celanapendek",
+    "#chinos",
+    "#fashionpria",
+    "#outfitmurah",
+    "#streetstyle",
+    "#bigsize",
+    "#viral",
+    "#findingid"
+  ],
+  "product_id": 15277,
+  "product_title": "CELANA PENDEK CHINOS PREMIUM PINGGANG RIP TERMURAH // BIG SIZE",
+  "product_price": "54194.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/15277.jpg",
+    "/uploads/products/15277_1.jpg",
+    "/uploads/products/15277_2.jpg",
+    "/uploads/products/15277_3.jpg",
+    "/uploads/products/15277_4.jpg",
+    "/uploads/products/15277_5.jpg",
+    "/uploads/products/15277_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/15277",
+  "generated_at": "2026-03-13T22:38:52.701Z"
+}

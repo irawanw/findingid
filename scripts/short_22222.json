@@ -1,0 +1,79 @@
+{
+  "title": "Korset Ini Bikin Ibu Hamil Nggak Pusing Lagi!",
+  "hook_text": "Udara di perut langsung lega!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Ibu hamil memegang perut dengan ekspresi kaget lega sambil napas panjang.",
+      "narration": "Ever feel like your baby is literally crushing your ribs? No cap, itu beneran bikin pusing pas hamil."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close-up slow motion korset You've Maternity Belt 0910 dibuka perlahan di atas meja, tunjukkan detail jahitan dan busa.",
+      "narration": "Say hello to savior-nya perut ibu hamil, You've Maternity Belt 0910. Basically next level support buat kamu yang perutnya mulai melar banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek *pop*, lalu transisi ke tumpukan korset warna Cream dan Pink.",
+      "narration": "Buat harga segini? Cuma sekitar seratus-an ribu perak. You get premium support seharga segelas kopi kekinian, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot 1: Tangan memegang kain dan menggosoknya ke kulit (tunjukkan lembut). Shot 2: Ikat pinggang, tunjukkan elastisitas. Shot 3: Model memakai korset, tunjukkan postur tegak.",
+      "narration": "Pertama, bahannya katun super lembut, nggak gatal sama sekali di kulit sensitif. Kedua, ikat pinggangnya empuk tapi tegas, jadi perut kamu nggak kecekik tapi tetap terdukung. Terakhir, dia bikin postur kamu tegak otomatis, jadi nggak ada lagi rasa sakit punggung!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat: Ibu hamil duduk nyaman di sofa, lalu berdiri menari ringan, lalu sedang makan siang tanpa pegal.",
+      "narration": "Perfect buat kamu yang aktivitasnya aktif banget, sering berdiri, atau cuma mau tidur lebih nyenyak tanpa rasa berat di perut. Kalau kamu sering begadang kerjaan rumah, ini wajib punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.86 bintang di layar dengan angka terjual 20.000 produk, lalu muncul teks kutipan dari pembeli.",
+      "narration": "Pembelinya pada ngomong teksturnya sangat lembut dan nggak gatal. Dengan rating empat koma delapan enam dan dua puluh ribu produk terjual, ini bukti nyata ya bestie!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol *click* animasi, latar belakang warna pastel cerah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya!",
+  "hashtags": [
+    "#IbuHamil",
+    "#KorsetHamil",
+    "#YouveBelt",
+    "#HamilNyaman",
+    "#ShopeeMom",
+    "#PregnancyTips",
+    "#ReviewProduk",
+    "#FindingID"
+  ],
+  "product_id": 22222,
+  "product_title": "You've (You Have) Maternity Belt Corset Korset Penyangga Ikat Pinggang Ibu Hamil Menyusui 0910",
+  "product_price": "84900.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/22222.jpg",
+    "/uploads/products/22222_1.jpg",
+    "/uploads/products/22222_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/22222",
+  "generated_at": "2026-03-14T12:43:11.883Z"
+}

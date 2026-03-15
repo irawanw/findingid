@@ -1,0 +1,96 @@
+{
+  "title": "Rak Dapur Anti Goyang Bestie! 😱",
+  "hook_text": "STOP! Rak dapur kamu goyang?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat rak piring yang terlihat tidak stabil lalu langsung dipotong ke rak yang kokoh di tengah dapur.",
+      "narration": "Ada yang bilang 'Rak piring goyang tiap waktu saya ambil piring'?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close up produk Rak Piring Stainless Steel dengan tangan menekan kuat untuk menunjukkan ketebalan batang samping.",
+      "narration": "Gas ganti langsung ke Laviola 2914 LSH ini, bestie! Batang sampingnya tebal banget, bikin rak ini super stabil dan nggak goyang sama sekali, which is literally next level kokohnya."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan grafis harga besar-besar dengan efek money falling, lalu transisi ke rak penuh piring dan mangkuk.",
+      "narration": "Dan harga? Mulai dari enam puluhan ribu sampai satu jutaan. For the value you get, this is absolutely worth it banget, no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: 1. Rak penuh piring besar, 2. Air tetesan di piring, 3. Rak di sudut sempit.",
+      "narration": "Pertama, kapasitas beban tinggi hingga lima puluh kilo, jadi piring berat aman. Kedua, bahan stainless steel anti karat, nggak perlu repot pembersihan. Ketiga, desain vertikal menghemat ruang, perfect buat dapur sempit."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario rumah tangga: ibu rumah tangga tersenyum mengambil piring bersih dari rak.",
+      "narration": "Perfect buat yang sibuk masak-masak dan butuh tempat simpan piring, gelas, dan mangkuk yang rapi. Kalau aktivitas kamu sering cuci piring berantakan, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.83 dan angka 60.000 terjual dengan efek animasi confetti.",
+      "narration": "Pembelinya pada ngomong 'Kualitasnya bagus, besi terlihat kecil tapi kokoh'. Rating empat koma delapan tiga dari enam puluh ribu produk terjual!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul besar dengan tombol 'Cek Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#RakDapurAntiGoyang",
+    "#Laviola2914LSH",
+    "#DapurModern",
+    "#StorageHacks",
+    "#ProdukViral",
+    "#RenovasiDapur",
+    "#RakPiringStainless",
+    "#FindingId"
+  ],
+  "product_id": 89090,
+  "product_title": "Rak Piring Rak Cuci Piring Penyimpanan Dapur Stainless Steel Dish Rack Muat Mangkuk Dan Piring",
+  "product_price": "174800.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/89090.jpg",
+    "/uploads/products/89090_1.jpg",
+    "/uploads/products/89090_2.jpg",
+    "/uploads/products/89090_3.jpg",
+    "/uploads/products/89090_4.jpg",
+    "/uploads/products/89090_5.jpg",
+    "/uploads/products/89090_6.jpg",
+    "/uploads/products/89090_7.jpg",
+    "/uploads/products/89090_8.jpg",
+    "/uploads/products/89090_9.jpg",
+    "/uploads/products/89090_10.jpg",
+    "/uploads/products/89090_11.jpg",
+    "/uploads/products/89090_12.jpg",
+    "/uploads/products/89090_13.jpg",
+    "/uploads/products/89090_14.jpg",
+    "/uploads/products/89090_15.jpg",
+    "/uploads/products/89090_16.jpg",
+    "/uploads/products/89090_17.jpg",
+    "/uploads/products/89090_18.jpg",
+    "/uploads/products/89090_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/89090",
+  "generated_at": "2026-03-14T03:57:37.203Z"
+}

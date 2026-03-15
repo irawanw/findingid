@@ -1,0 +1,79 @@
+{
+  "title": "Minyak Telon Anti Nyamuk 8 Jam! Hemat Banget Bestie",
+  "hook_text": "Bayi tidur nyenyak tanpa nyamuk?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up bayi tidur lelap di atas kasur sambil nyala lilin atau lampu redup, teks besar muncul: 'STOP GIGITAN NYAMUK!' di layar.",
+      "narration": "Stop gigitan nyamuk buat si kecil di malam hari, literally no cap!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk MY BABY Minyak Telon Plus Eucalyptus dan Lavender berjejer 3 pcs, zoom in ke label BPOM.",
+      "narration": "Kenalin nih, MY BABY Minyak Telon Plus, minyak telon anti nyamuk yang bikin si kecil tetap hangat dan aman dari gigitan nyamuk semalaman."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 100.000 dengan efek confetti warna-warni, lalu muncul teks 'Paket 3 Botol'.",
+      "narration": "Tahukah kamu? Paket 3 botolnya cuma seratus ribuan, which is worth it banget buat stok di rumah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Tetes minyak di kulit bayi (bahan alami), 2. Jam digital menunjukkan 8 jam perlindungan, 3. Botol kecil mudah dibawa tas.",
+      "narration": "Bestie, ini dia alasannya! Pertama, bahannya dari Eucalyptus, Citronella, dan Chamomile yang alami banget aman buat kulit bayi. Kedua, proteksinya sampai delapan jam, basically next level buat tidur nyenyak. Ketiga, aromanya segar nggak menyengat, plus kemasannya compact mudah dibawa kemana aja."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas: Ayah ibu memandikan bayi, mengoleskan minyak sebelum tidur di taman, dan bayi tidur tenang di kamar.",
+      "narration": "Perfect buat kamu yang sering khawatir anak digigit nyamuk pas lagi tidur atau yang suka bawa bayi ke taman dan outdoor."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.92 bintang emas dan angka '20.000+ Terjual', lalu teks kutipan muncul: 'Aromanya menyegarkan dan harum'.",
+      "narration": "Pembelinya pada ngomong aromanya menyegarkan dan harum, dengan rating empat koma sembilan dua dan sudah terjual lebih dari dua puluh ribu produk!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id besar dengan panah menunjuk ke bawah, teks 'Cek Finding dot ID sekarang!'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#MyBaby",
+    "#MinyakTelon",
+    "#AntiNyamukBayi",
+    "#ParentingTips",
+    "#ProdukViral",
+    "#HematKekinian",
+    "#TidurNyenyak",
+    "#BPOM"
+  ],
+  "product_id": 15752,
+  "product_title": "[3 PCS] MY BABY Minyak Telon Plus Eucalyptus 150ml Lavender 150ml Paket Telon My Baby 150ml",
+  "product_price": "100000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/15752.jpg",
+    "/uploads/products/15752_1.jpg",
+    "/uploads/products/15752_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/15752",
+  "generated_at": "2026-03-14T06:50:43.767Z"
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Heels Viral APOLLO DRANATHA Murah Mewah!",
+  "hook_text": "Heels Mewah Tapi Budget Mepet?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget lalu transisi cepat ke sepatu heels.",
+      "narration": "Masih bingung cari sepatu heels mahal tapi budget mepet? --- Atau takut sakit kaki kalau dipake lama? --- Nih solusi terbaiknya guys, simak sampai habis ya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Tampilan produk APOLLO DRANATHA dari berbagai sudut dengan pencahayaan cinematic.",
+      "narration": "Tenang bestie, ini APOLLO DRANATHA heels pengantin viral banget! --- Desainnya literally next level mewah banget buat kamu yang mau tampil elegan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks overlay besar menampilkan harga dan animasi uang turun.",
+      "narration": "Harganya cuma seratus enam belas ribu tiga ratus tujuh puluh lima doang! --- which is worth it banget buat kualitas yang gila, --- seriously affordable banget guys."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Detail close-up bahan suede, lace, dan hak sepatu.",
+      "narration": "Bahannya suede plus lace yang super lembut, --- ujung lancip elegan, tinggi hak lima sampai enam sentimeter nyaman dipakai seharian tanpa pegal dikaki, --- which is basically next level comfort, literally gak bakal nyesel."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Montase cepat menunjukkan keunikan fitur wide fit dan chat seller.",
+      "narration": "Harga terjangkau kualitas premium no cap, --- ada fitur wide fit buat kaki lebar which is super helpful, --- ratingnya empat koma delapan lima bintang, --- seller juga responsif banget soal ukuran."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Wanita dengan kaki lebar memakai sepatu dan tersenyum bahagia.",
+      "narration": "Perfect buat kamu yang kaki lebar atau cari heels pesta di bawah seratus lima puluh ribu, --- tapi inget ya ukuran dikit kecil, --- saran beli ukuran tiga puluh delapan kalau biasa tiga puluh tujuh biar pas di kaki dan nyaman banget, --- no cap!"
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Tampilan rating bintang dan jumlah terjual dengan animasi naik.",
+      "narration": "Total udah terjual empat puluh ribu pasang dengan rating bintang tertinggi, --- ada yang bilang warna cantik banget dan pas banget dikaki plus realpict, --- no cap ini sih must have!"
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Tiga varian warna Moka, Hitam, dan Abu ditampilkan berdampingan.",
+      "narration": "Tersedia warna moka, hitam, dan abu yang klasik, --- kamu tim mana nih bestie pilih yang mana buat acara spesial?"
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tombol keranjang kuning berkedip dengan panah menunjuk ke bawah.",
+      "narration": "Jangan sampe kehabisan, --- klik keranjang kuning sekarang juga sebelum harga naik dan stok habis nih guys, --- buruan sebelum terlambat bestie!"
+    }
+  ],
+  "cta": "Klik keranjang kuning sekarang juga!",
+  "hashtags": [
+    "#HeelsViral",
+    "#SepatuPengantin",
+    "#OutfitMurah",
+    "#WideFit",
+    "#FashionIndo",
+    "#OOTDIndonesia",
+    "#ViralTok",
+    "#PromoHeels"
+  ],
+  "product_id": 91271,
+  "product_title": "APOLLO DRANATHA heels pengantin wanita hak tahu",
+  "product_price": "116375.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/91271.jpg",
+    "/uploads/products/91271_1.jpg",
+    "/uploads/products/91271_2.jpg",
+    "/uploads/products/91271_3.jpg",
+    "/uploads/products/91271_4.jpg",
+    "/uploads/products/91271_5.jpg",
+    "/uploads/products/91271_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/91271",
+  "generated_at": "2026-03-12T18:59:59.448Z"
+}

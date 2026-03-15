@@ -1,0 +1,83 @@
+{
+  "title": "Blender Philips 1 Jutaan Worth It Nggak Sih?",
+  "hook_text": "Blender Philips ini worth it?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up produk dengan efek sparkles, host menunjuk kamera.",
+      "narration": "Blender Philips satu jutaan ini beneran worth it? Stop scroll dulu! --- Nggak percaya sama fiturnya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Slow motion blender berputar, highlight warna Dessert Green.",
+      "narration": "Liat nih Philips 5000 Series, warna Dessert Green-nya gemes banget, literally so cute!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek wow, host kaget.",
+      "narration": "Padahal biasanya mahal, tapi sekarang harga satu jutaan aja! Which is worth it banget buat kalian!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat penggunaan chopper, dry mill, dan filter.",
+      "narration": "Ada chopper, dry mill, plus filter. Kapasitas 2 liter, bisa buat keluarga. --- Soal proteksi elektronik, emang nggak ada, tapi blending bumbu dan jus, mesinnya kuat. No cap, next level!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Host sedang membuat smoothie di dapur modern.",
+      "narration": "Kalau kamu sering bikin smoothie atau butuh chopper bumbu dapur, ini solusinya. Perfect buat yang sibuk!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 5 dan chat pembeli positif.",
+      "narration": "Rating empat koma delapan delapan, sudah terjual empat puluh ribuan! Yang sudah beli bilang, 'Sangat praktis dan sellernya responsive banget. Really reliable!'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host tersenyum sambil menunjuk ke arah layar.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana! Gas sekarang juga!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#BlPhilips",
+    "#BlenderMurah",
+    "#DapurCantik",
+    "#ResepJus",
+    "#AlatDapur",
+    "#CamilanSehat",
+    "#GadgetDapur",
+    "#ViralIndonesia"
+  ],
+  "product_id": 137181,
+  "product_title": "Blender Philips Plastik 2 liter - 5000 Series HR2223/30 - Blender jus - Blender bumbu philips ( Chopper, Dry Mill, Filter ) - Blender Serbaguna - Blender Terbaik - Dessert Green",
+  "product_price": "1008000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/137181.jpg",
+    "/uploads/products/137181_1.jpg",
+    "/uploads/products/137181_2.jpg",
+    "/uploads/products/137181_3.jpg",
+    "/uploads/products/137181_4.jpg",
+    "/uploads/products/137181_5.jpg",
+    "/uploads/products/137181_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/137181",
+  "generated_at": "2026-03-13T17:45:51.143Z"
+}

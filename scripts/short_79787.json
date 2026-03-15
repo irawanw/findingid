@@ -1,0 +1,83 @@
+{
+  "title": "Tas Selempang Viral 50 Ribuan Bestie! Cek Detailnya",
+  "hook_text": "Tas 50 Ribuan? Kapasitas Laptop 14 Inch!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan memegang tas Hayden dengan cepat lalu zoom out ke wajah presenter yang ekspresif",
+      "narration": "Stop scroll dulu! Lo kira tas selempang seharga 59 ribuan cuma buat bawa kunci motor doang?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan tas di pundak dengan model kemeja casual, teks overlay muncul: 'Laviola 2914 LSH'",
+      "narration": "Nggak! Ini NRDN Clothing Laviola 2914 LSH, tas selempang nylon crinkle yang literally next level buat gaya urban lo."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri tumpukan uang kertas, kanan tas, teks besar muncul harga '70-an ribuan' berwarna merah",
+      "narration": "Bayangin deh, harga cuma sekitar 70-an ribuan, padahal ini barang original yang udah laku keras banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tangan menarik tali serut, tangan memasukkan laptop 14 inch, lalu taruh buku dan botol minum",
+      "narration": "Pertama, bahannya nylon crinkle yang ringan tapi nggak gampang rusak. Kedua, luasnya gila, muat laptop 14 inch plus perlengkapan harian. Terakhir, tali serutnya bisa lo atur panjang pendek sesuai badan, which is super worth it banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas: mahasiswa di perpustakaan, karyawan naik motor, anak kuliah lari-lari bawa tas",
+      "narration": "Perfect buat lo yang sering kuliah, kerja, atau sekadar jalan-jalan urban. Kalau aktivitas lo padat tapi nggak mau bawa tas berat, ini solusinya bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.84 dan angka 50.000 terjual, muncul bubble chat: 'Pengiriman cepat, barang oke'",
+      "narration": "No cap, rating udah 4.84 dari lebih 50 ribu orang. Yang udah beli bilang 'Pengiriman cepat, barang oke' dan desainnya sesuai ekspektasi."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Presenter menunjuk ke arah teks besar di layar dengan wajah excited",
+      "narration": "Penasaran sama stok warna lengkapnya? Cek di finding dot id ya, detail produk ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama stok lengkapnya? Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#TasPriaViral",
+    "#NRDNIndonesia",
+    "#TasSelempangMurah",
+    "#RekomendasiTas",
+    "#GenZStyle",
+    "#TasLaptopRingan",
+    "#ShoppingHarian",
+    "#FindingId"
+  ],
+  "product_id": 79787,
+  "product_title": "NRDN Clothing Tas Selempang Nylon Crinckle SLINGBAG HAYDEN",
+  "product_price": "72518.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/79787.jpg",
+    "/uploads/products/79787_1.jpg",
+    "/uploads/products/79787_2.jpg",
+    "/uploads/products/79787_3.jpg",
+    "/uploads/products/79787_4.jpg",
+    "/uploads/products/79787_5.jpg",
+    "/uploads/products/79787_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/79787",
+  "generated_at": "2026-03-14T04:08:42.518Z"
+}

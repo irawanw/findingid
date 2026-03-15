@@ -1,0 +1,83 @@
+{
+  "title": "Guripang Viral! Renyah Nagih Banget Bestie",
+  "hook_text": "Guripang asli atau curang? Cek dulu!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan merobek kerupuk Guripang sampai berantem dengan efek suara krispi keras",
+      "narration": "Stop scroll dulu dong! Ada yang bilang 'Emang boleh beli empat?' karena ketagihan banget."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase produk Taiko Krezz Guripang berbagai varian diputar cepat dengan teks besar 'READY STOCK'",
+      "narration": "Ini Taiko Krezz Guripang, kerupuk viral rasa gurita panggang yang literally so cute dan super gurih."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 29.300 muncul dengan animasi 'BAM!' dan icon tas belanja penuh",
+      "narration": "Nah, harga paling murah cuma seratusan ribuan aja, which is worth it banget buat stok banyak."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Orang makan ekspresi senang, 2. Kerupuk digigit super renyah, 3. Stok menumpuk di meja",
+      "narration": "Rasanya manis gurih pedas yang nagih poll, teksturnya kemriuk garing renyah nggak keras, plus harganya kompetitif buat grosir."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene anak kos makan camilan di kamar sempit sambil nonton film dan ketawa bareng teman",
+      "narration": "Perfect buat anak kos yang pengen camilan viral harga terjangkau, atau pecinta pedas manis yang nggak bisa nahan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.89 dan angka 20.000 terjual dengan background oranye cerah",
+      "narration": "Rating empat koma delapan sembilan dengan dua puluh ribu terjual, pembelinya pada ngomong 'Produk sesuai foto packing rapi aman'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul dengan panah besar mengarah ke bawah dengan teks 'CEK DI SINI'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id ya bestie!",
+  "hashtags": [
+    "#GuripangViral",
+    "#CamilanAnakKos",
+    "#SnackGrosir",
+    "#TaikoKrezz",
+    "#RenyahNagih",
+    "#CamilanMurah",
+    "#FoodViral",
+    "#KekinianBanget"
+  ],
+  "product_id": 15378,
+  "product_title": "cemilan Snack makanan Taiko Krezz Guripang 500g/1000g jajanan snack grosir termurah snack grosir murah lengkap cemilan murah gratis ongkir makanan ringan snack jajanan jajancemilan pedas cemilan anak kos",
+  "product_price": "29300.00",
+  "product_rating": "4.89",
+  "product_sold_display": "20.000",
+  "product_images": [
+    "/uploads/products/15378.jpg",
+    "/uploads/products/15378_1.jpg",
+    "/uploads/products/15378_2.jpg",
+    "/uploads/products/15378_3.jpg",
+    "/uploads/products/15378_4.jpg",
+    "/uploads/products/15378_5.jpg",
+    "/uploads/products/15378_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/15378",
+  "generated_at": "2026-03-14T04:22:15.803Z"
+}

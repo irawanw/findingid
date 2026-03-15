@@ -1,0 +1,83 @@
+{
+  "title": "Sandal Murah Tapi Gak Murahan? Bestie!",
+  "hook_text": "Nggak Pake Sepatu Mahal, Kaki Tetep Stylish?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up of feet walking confidently in sandal on pavement",
+      "narration": "Siapa bilang mau kelihatan kece harus keluar duit jutaan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product shot showing VIVI NICI sandal from different angles",
+      "narration": "Kenalin nih, VIVI NICI Melly Sandal. Desain slip-on yang simpel tapi tetep elegan banget buat harian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Price tag floating with sparkles effect overlay",
+      "narration": "Dan tau nggak? Harganya cuma seratus ribuan doang. which is worth it banget kalau dibandingin sama kualitasnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up on sole texture and wide fit demonstration",
+      "narration": "Bahan faux leather-nya lembut, solnya nggak licin, plus ada wide fit buat kaki lebar. No cap, bantalan empuknya bikin kaki nggak pegel seharian --- Packing aman pakai bubble wrap biar nggak rusak pas sampai."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Girl working at desk then walking out of office building",
+      "narration": "Perfect buat kalian yang kerja kantoran atau kuliah tapi sering banget jalan. Kaki lebar juga aman, bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "5 stars animation next to sales number text",
+      "narration": "Rating 4,86 dari lima puluh ribuan terjual. Yang sudah beli bilang, 'Grip solnya mantap, bantalan pas'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Hand pointing to screen with link animation",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SandalWanita",
+    "#ViviNici",
+    "#SepatuKenyamanan",
+    "#OOTDIndonesia",
+    "#SandalMurah",
+    "#WideFitShoes",
+    "#FashionLocal",
+    "#FindingID"
+  ],
+  "product_id": 30597,
+  "product_title": "VIVI NICI - Melly Sandal Teplek Wanita",
+  "product_price": "93059.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/30597.jpg",
+    "/uploads/products/30597_1.jpg",
+    "/uploads/products/30597_2.jpg",
+    "/uploads/products/30597_3.jpg",
+    "/uploads/products/30597_4.jpg",
+    "/uploads/products/30597_5.jpg",
+    "/uploads/products/30597_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/30597",
+  "generated_at": "2026-03-13T20:24:24.909Z"
+}

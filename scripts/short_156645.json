@@ -1,0 +1,83 @@
+{
+  "title": "Tas Kulit Retro Elegan Cuma 200-an?!",
+  "hook_text": "Tas Kulit Gila Murah Banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tas Mossdoom Eletta diputar cepat dengan efek zoom-in ke tekstur kulit yang halus di latar belakang urban Jakarta.",
+      "narration": "Stop scrolling bestie! Kamu nggak bakal percaya kalau tas selempang kulit keren kayak gini harganya cuma seratus delapan puluhan ribu."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot slow-motion tas selempang dipakainya di bahu, menyoroti desain retro elegan dan tali bahu yang nyaman.",
+      "narration": "Ini dia Mossdoom Eletta, tas selempang bahu dengan desain retro elegan yang literally so cute banget. Bahan kulit PU-nya nggak main-main, nggak gampang rusak, plus ukurannya pas banget buat nyimpen HP, dompet, dan kunci motor tanpa bikin bahu pegel."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga di layar dengan efek confetti, transisi cepat ke warna-warna tas (Yellow, Black, Beige White, Apricot) yang sedang tren.",
+      "narration": "Gila sih, harga cuma seratus delapan puluhan ribu sampai dua ratus dua puluh sembilan ribu aja! You get the best for the price, basically next level value. Ada warna Yellow, Black, Beige White, dan Apricot yang cocok sama semua outfit kamu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen atau close-up cepat: saku besar dibuka penuh, saku beritsleting dikasih kunci mainan, detail jahitan tali bahu ditunjukkan.",
+      "narration": "Fiturnya nggak main-main: ada saku penyimpanan besar buat barang-barang penting, satu saku beritsleting biar aman, dan satu saku sisipan. Oh iya, kalau kamu khawatir soal finishing, tenang, ini produk original dari toko resmi MOSSDOOM, jadi kualitasnya dijamin oke banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase aktivitas: tas dipakai saat jalan-jalan di mall (healing), dan saat duduk manis di acara kondangan kasual.",
+      "narration": "Perfect buat yang suka gaya casual sederhana tapi tetap elegan. Kalau aktivitas kamu sering healing di mall atau mau tampil beda di kondangan, tas ini wajib banget ada di koleksi kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Popup rating 4.89 bintang dengan angka 20.000 terjual, lalu muncul teks kutipan pembeli di layar.",
+      "narration": "Sudah dua puluh ribu produk terjual dengan rating empat koma delapan sembilan! Yang udah beli bilang 'Warna kalem, netral juga masuk ke semua outfit', which means kamu nggak bakal salah pilih."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tas Mossdoom Eletta berjejer rapi dengan teks besar 'CEK DI FINDING DOT ID' dan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id ya!",
+  "hashtags": [
+    "#tasmoosdoom",
+    "#tasretro",
+    "#outfitharian",
+    "#taskekinian",
+    "#healing",
+    "#kondangan",
+    "#taswanita",
+    "#findingid"
+  ],
+  "product_id": 156645,
+  "product_title": "MOSSDOOM Tas Wanita Eletta Bag Mode Retro Elegan Tas Selempang Kasual Sederhana",
+  "product_price": "208999.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/156645.jpg",
+    "/uploads/products/156645_1.jpg",
+    "/uploads/products/156645_2.jpg",
+    "/uploads/products/156645_3.jpg",
+    "/uploads/products/156645_4.jpg",
+    "/uploads/products/156645_5.jpg",
+    "/uploads/products/156645_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/156645",
+  "generated_at": "2026-03-14T22:16:55.087Z"
+}

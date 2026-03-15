@@ -1,0 +1,89 @@
+{
+  "title": "FOUNDATION 100ribuan Full Coverage? Ngga Oxidasi?",
+  "hook_text": "Foundation 100ribuan Full Coverage?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah makeup flawless transisi ke ekspresi kaget memegang produk",
+      "narration": "Foundation full coverage harga cuma seratus ribuan? No cap, ini beneran ada!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk TIME PHORIA dibuka, tekstur cushion ditunjukkan dengan spatula",
+      "narration": "Ini TIME PHORIA Timeless Lumina Matte. Teksturnya ringan banget, nggak bikin wajah berat kayak topeng, which is super worth it!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar di layar dengan efek kilat, background toko ramai",
+      "narration": "Padahal fitur premium, harganya cuma tujuh puluhan ribuan di promo. Full coverage tapi harga anak kuli, literally nggak masuk akal."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: tes air, hasil matte di wajah, dan swatch shade",
+      "narration": "Waterproof tahan keringet seharian. Full coverage nutupin noda tapi tetep tipis. Ada banyak shade yang gampang dicari. --- Hati-hati, kata yang udah beli bilang, bisa oksidasi dikit, pilih shade yang sesuai ya."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita muda jalan di luar ruangan dan bekerja di kantor",
+      "narration": "Perfect buat kamu kulit normal sampai berminyak. Kalau aktivitas sering di luar ruangan atau meeting lama, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Badge rating 4.94 dan angka 100k sold muncul di layar",
+      "narration": "Rating 4,94 dari seratus ribu orang. Yang udah beli bilang, warna kulitnya bener-bener match sama shade-nya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id besar di tengah dengan panah menunjuk ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#TIMEPHORIA",
+    "#FoundationMurah",
+    "#MakeupIndonesia",
+    "#WorthIt",
+    "#CushionFoundation",
+    "#SkincareViral",
+    "#MakeupTips",
+    "#FindingId"
+  ],
+  "product_id": 100905,
+  "product_title": "TIME PHORIA-Timeless Lumina Matte Perfection Cushion 11G  Cushion Foundation Waterproof Full Coverage Refill Cushion BB Cream High Coverage Skintint",
+  "product_price": "101110.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100905.jpg",
+    "/uploads/products/100905_1.jpg",
+    "/uploads/products/100905_2.jpg",
+    "/uploads/products/100905_3.jpg",
+    "/uploads/products/100905_4.jpg",
+    "/uploads/products/100905_5.jpg",
+    "/uploads/products/100905_6.jpg",
+    "/uploads/products/100905_7.jpg",
+    "/uploads/products/100905_8.jpg",
+    "/uploads/products/100905_9.jpg",
+    "/uploads/products/100905_10.jpg",
+    "/uploads/products/100905_11.jpg",
+    "/uploads/products/100905_12.jpg"
+  ],
+  "product_link": "https://finding.id/p/100905",
+  "generated_at": "2026-03-13T19:56:43.250Z"
+}

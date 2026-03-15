@@ -1,0 +1,96 @@
+{
+  "title": "Cushion Viral Somethinc Hooman Matte Finish",
+  "hook_text": "Foundation Murah Tapi Finish Kayak Model?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah dengan makeup flawless, lalu zoom out ke botol cushion",
+      "narration": "Foundation murah tapi finish kayak model? --- Gak percaya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan produk SOMETHINC HOOMAN di tangan dengan pencahayaan cinematic",
+      "narration": "Kenalin nih SOMETHINC HOOMAN, cushion breathable pertama di Indonesia yang bikin wajah auto matte tanpa bikin komedo."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul di layar dengan efek animasi uang",
+      "narration": "Harga berkisar antara delapan puluh ribuan sampe seratus delapan puluhan ribu bestie, which is worth it banget untuk kualitas segini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo tekstur cushion di tangan dan aplikasi di wajah",
+      "narration": "Ada breathable tech anti-bakteri, finish matte anti-greasy seharian, plus SPF 35 PA++++. Teksturnya cair cream, which is super easy to blend. --- Bikin kulit terasa bernapas. --- Nggak gampang oksidasi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Gadis beraktivitas di luar ruangan dengan makeup tetap rapi",
+      "narration": "Kalau kamu sering aktivitas di luar, ini perfect buat kulit normal sampai oily, karena shade matchnya akurat banget buat semua undertone. --- Nggak perlu repot shade lagi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.93 dan counter penjualan 300k",
+      "narration": "Rating 4.93, udah terjual 300.000 unit. --- Yang udah beli bilang 'WOW gila shade matchnya'. Kualitasnya no cap!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah menunjuk ke layar",
+      "narration": "Penasaran? Cek detail lengkapnya di finding dot id ya bestie!"
+    }
+  ],
+  "cta": "Penasaran? Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#Somethinc",
+    "#Hooman",
+    "#Cushion",
+    "#MakeupViral",
+    "#Skincare",
+    "#Foundation",
+    "#BeautyIndonesia",
+    "#FindingID"
+  ],
+  "product_id": 100924,
+  "product_title": "SOMETHINC HOOMAN Breathable Cushion Cover SPF 35 PA++++ - Cushion Dengan Skin Matte Finish Anti Greasy, Anti Cakey, Dan Anti Cracking | Mampu Menyamarkan Pori, Meratakan Warna Kulit, Ringan Digunakan Di Wajah, Memproteksi Kulit Dari Sinar Matahari",
+  "product_price": "104000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100924.jpg",
+    "/uploads/products/100924_1.jpg",
+    "/uploads/products/100924_2.jpg",
+    "/uploads/products/100924_3.jpg",
+    "/uploads/products/100924_4.jpg",
+    "/uploads/products/100924_5.jpg",
+    "/uploads/products/100924_6.jpg",
+    "/uploads/products/100924_7.jpg",
+    "/uploads/products/100924_8.jpg",
+    "/uploads/products/100924_9.jpg",
+    "/uploads/products/100924_10.jpg",
+    "/uploads/products/100924_11.jpg",
+    "/uploads/products/100924_12.jpg",
+    "/uploads/products/100924_13.jpg",
+    "/uploads/products/100924_14.jpg",
+    "/uploads/products/100924_15.jpg",
+    "/uploads/products/100924_16.jpg",
+    "/uploads/products/100924_17.jpg",
+    "/uploads/products/100924_18.jpg",
+    "/uploads/products/100924_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/100924",
+  "generated_at": "2026-03-13T19:43:57.552Z"
+}

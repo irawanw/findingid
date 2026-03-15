@@ -1,0 +1,83 @@
+{
+  "title": "Kurma Bam Barari Hologram, Must Buy!",
+  "hook_text": "Kurma manis atau eneg?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tangan memegang kurma jumbo dengan efek zoom in cepat ke hologram di kemasan.",
+      "narration": "Kamu tau gak sih, kurma itu bisa manis pas atau malah bikin eneg banget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Kurma Bam Barari Premium Dates Hologram Original 600gr di atas meja dengan pencahayaan terang.",
+      "narration": "Stop scroll! Ini Kurma Bam Barari Premium, versi asli dengan hologram, dagingnya tebal dan teksturnya lembut banget bestie."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar di layar sambil tunjuk kemasan.",
+      "narration": "Nah harga paling low-nya cuma empat puluhan ribu aja, which is worth it banget buat kualitas jumbo kayak gini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase: kurma dibelah tunjuk daging tebal, label Halal MUI, dan durasi simpan 12 bulan.",
+      "narration": "No cap, biji kecil tapi ukuran jumbo banget! Rasanya manis legit nggak bikin eneg sama sekali. Plus udah bersertifikat BPOM dan Halal MUI, plus bisa disimpan lama sampai dua belas bulan juga ya guys."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario buka puasa atau persiapan hijrah ke Tanah Suci.",
+      "narration": "Perfect buat yang lagi cari byk untuk berbuka puasa atau mau beliin teman buat oleh-oleh haji dan umroh, literally so cute!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan angka rating dan jumlah terjual dengan efek confetti.",
+      "narration": "Pembelinya pada ngomong rasanya manis legit khas kurma asli, dan barangnya udah sampai pas waktu yang dibutuhkan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#KurmaBamBarari",
+    "#KurmaManis",
+    "#BykPuasa",
+    "#OlehOlehHaji",
+    "#SehatAlami",
+    "#FindingId",
+    "#KurmaPremium",
+    "#ManisLegit"
+  ],
+  "product_id": 114480,
+  "product_title": "Kurma Bam Barari Premium Dates Hologram Original 600gr",
+  "product_price": "53000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/114480.jpg",
+    "/uploads/products/114480_1.jpg",
+    "/uploads/products/114480_2.jpg",
+    "/uploads/products/114480_3.jpg",
+    "/uploads/products/114480_4.jpg",
+    "/uploads/products/114480_5.jpg",
+    "/uploads/products/114480_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/114480",
+  "generated_at": "2026-03-14T04:07:52.868Z"
+}

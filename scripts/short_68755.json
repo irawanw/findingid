@@ -1,0 +1,81 @@
+{
+  "title": "Sandal Pria Paling Ringan & Nyaman di Indo!",
+  "hook_text": "Stop scroll! Sandal ini bikin kaki jalan terus",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up kaki melangkah cepat di aspal dengan sandal LUBRENE, efek zoom in mendadak ke sol.",
+      "narration": "Stop scroll sejenak! Kamu emang nggak percaya kalau ada sandal pria yang ringan banget tapi tetap elegan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: sandal dipakai jalan di kantor, nongkrong, dan olahraga ringan dengan background kota Jakarta.",
+      "narration": "Ini dia LUBRENE Sandal Pria JAVA 02-M, bestie! Dibuat di Indonesia dengan teknologi Phylon yang bikin outsole-nya super fleksibel dan ringan. Basically next level kenyamanan buat aktivitas seharian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek confetti, transisi ke shot detail bahan karet.",
+      "narran": "Nggak perlu budget banyak untuk kualitas premium ini, literally worth it banget! Harganya cuma di seratus delapan puluhan ribu rupiah. Bandingin sama kualitasnya yang seharga dua ratus ribuan, ini deal banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjuk bobot ringan, kanan tunjuk tekstur karet, bawah tunuk warna-warni (cokelat, hijau, hitam, abu).",
+      "narration": "Tapi no cap, keunggulan utamanya ada tiga poin spesifik nih. First, materinya karet berkualitas tinggi yang nggak gampang rusak. Second, desainnya wide fit yang pas banget buat kaki lebar, nggak bakal sesek. Third, warnanya ada empat pilihan super ganteng, dari warna hijau lumut yang estetik sampai hitam klasik yang elegan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Simulasi orang berkeringat sedikit setelah jalan jauh, lalu duduk santai minum kopi sambil memutar sandal.",
+      "narration": "Perfect buat kamu yang sering jalan kaki jauh, naik turun tangga, atau kerja outdoor yang butuh kaki nggak capek. Kalau aktivitas kamu dinamis banget, sandal ini solusi terbaik biar kaki tetap fresh seharian tanpa rasa perih."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.88 bintang emas dan angka 20.000 terjual, lalu muncul kutipan teks: 'nyaman banget' di atas background chat.",
+      "narration": "Bukti nyata ada nih, rating 4.88 dari dua puluh ribu produk yang udah terjual. Pembeli-pembeli yang udah beli bilang 'nyaman banget' dan ringan, bikin jalan atau lari nggak bikin capek."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan layar pencarian 'finding.id' dengan animasi jari mengetik, lalu logo produk muncul jelas.",
+      "narration": "Penasaran sama detail lengkapnya dan stok warnanya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#SandalPria",
+    "#LUBRENE",
+    "#SepatuKeren",
+    "#FashionIndonesia",
+    "#WajibBeli",
+    "#Kenyamanan",
+    "#WideFit",
+    "#TrendingShorts"
+  ],
+  "product_id": 68755,
+  "product_title": "LUBRENE Sandal Pria JAVA 02-M",
+  "product_price": "80748.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/68755.jpg",
+    "/uploads/products/68755_1.jpg",
+    "/uploads/products/68755_2.jpg",
+    "/uploads/products/68755_3.jpg",
+    "/uploads/products/68755_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/68755",
+  "generated_at": "2026-03-14T15:32:07.796Z"
+}

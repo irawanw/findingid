@@ -1,0 +1,83 @@
+{
+  "title": "Madam Royale Collagen Drink: Worth It No Cap?",
+  "hook_text": "Mau Putih Glowing Tanpa Dompet Jebol?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah glowing dengan efek cahaya, teks overlay besar muncul cepat.",
+      "narration": "Mau putih glowing tapi takut dompet jebol?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Madam Royale ditunjukkan dengan gerakan tangan memegang botol di atas meja estetik.",
+      "narration": "Kenalin nih, Madam Royale Collagen Drink. Kandungan kolagen ikan plus L-Glutathione-nya literally next level banget buat pemutih badan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul besar di layar dengan efek bintang berkilau.",
+      "narration": "Harganya cuma dua ratus ribuan aja. --- Which is worth it banget dibanding skincare mahal lainnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Video close-up minuman dituang ke gelas, teks overlay fitur muncul bergantian.",
+      "narration": "Rasanya stroberi segar, nggak eneg sama sekali. --- Ada varian Low Sugar buat kamu yang lagi diet. --- Ramah buat semua jenis kulit, bahkan ibu hamil karena udah BPOM dan Halal MUI."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang minum minuman sambil tersenyum puas, lalu transisi ke teks tips penggunaan.",
+      "narration": "Cocok banget buat kamu yang kulit kusam atau punya bekas jerawat. --- Soal klaim 10 hari, kalau satu box habis 5 hari wajar sih, tergantung porsi minum kamu ya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4,8 dan jumlah terjual 30.000 di layar.",
+      "narration": "Rating 4,8 dari 30.000 produk terjual. --- Yang udah beli bilang, 'Kulit terasa kencang dan cerah euy.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan panah mengarah ke tombol.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#MadamRoyale",
+    "#CollagenDrink",
+    "#SkincareViral",
+    "#PemutihAlami",
+    "#TipsKecantikan",
+    "#WanitaSehat",
+    "#CantikAlami",
+    "#FindsID"
+  ],
+  "product_id": 101677,
+  "product_title": "Madam Royale Collagen Drink | Dosis Tinggi Collagen & L Glutation | Whitening Booster Pemutih Badan",
+  "product_price": "197000.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/101677.jpg",
+    "/uploads/products/101677_1.jpg",
+    "/uploads/products/101677_2.jpg",
+    "/uploads/products/101677_3.jpg",
+    "/uploads/products/101677_4.jpg",
+    "/uploads/products/101677_5.jpg",
+    "/uploads/products/101677_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/101677",
+  "generated_at": "2026-03-13T17:10:29.176Z"
+}

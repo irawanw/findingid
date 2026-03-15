@@ -1,0 +1,83 @@
+{
+  "title": "Tas Pria Waterproof Murah Banget?",
+  "hook_text": "Nggak percaya harga cuma sembilan puluh ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tas Breca Alter dengan teks besar muncul di layar",
+      "narration": "Nggak percaya tas sekeren ini harganya cuma sembilan puluh ribuan? Stop scroll dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilan produk dari berbagai angle, fokus pada material tas",
+      "narration": "Ini Breca Alter, tas selempang waterproof khusus cowok yang mau tampil stylish tapi tetap praktis sehari-hari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga besar dengan efek kaget",
+      "narration": "Bayangin, harga cuma sembilan puluh ribuan, which is literally worth it banget kalau dibandingin sama kualitas premium yang kamu dapetin."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo isi tas dan tes air, lalu tunjukkan tali tas",
+      "narration": "Bahan nya tebal dan empuk, nggak gampang rusak pas kena air hujan. --- Tali panjangnya bisa disesuaikan kok buat crossbody atau jinjing. --- Kapasitasnya lega banget, bisa muatin laptop kecil atau buku kuliah kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang pakai tas saat jalan atau di kampus",
+      "narration": "Perfect banget buat kamu yang sering ke kampus, kerja, atau butuh tas harian yang anti ribet tapi tetep kece."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan angka penjualan 20.000+",
+      "narration": "Udah terjual dua puluh ribuan unit dengan rating 4,9! --- Yang udah beli bilang \"Desain mantep, sumpah nggak kecawa\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah menunjuk ke arah bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#taspria",
+    "#taswaterproof",
+    "#breca",
+    "#rekomendasitas",
+    "#genz",
+    "#fyp",
+    "#findingid",
+    "#cariitemmurah"
+  ],
+  "product_id": 38873,
+  "product_title": "Breca - Handbag Alter tas tangan pria  Tas selempang waterproof Cowok",
+  "product_price": "96050.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/38873.jpg",
+    "/uploads/products/38873_1.jpg",
+    "/uploads/products/38873_2.jpg",
+    "/uploads/products/38873_3.jpg",
+    "/uploads/products/38873_4.jpg",
+    "/uploads/products/38873_5.jpg",
+    "/uploads/products/38873_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/38873",
+  "generated_at": "2026-03-13T17:12:20.174Z"
+}

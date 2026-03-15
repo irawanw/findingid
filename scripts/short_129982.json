@@ -1,0 +1,84 @@
+{
+  "title": "Flashdisk Sandisk Murah Banget!",
+  "hook_text": "Gak percaya ini cuma 80 ribuan!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up flashdisk Sandisk di tangan, kamera zoom out pelan.",
+      "narration": "Gimana sih bisa dapet Sandisk original cuma di angka delapan puluh ribuan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan kotak produk dan proses unboxing flashdisk dari atas.",
+      "narration": "Ini nih Sandisk CZ50 Cruzer Blade, si kecil penyelamat data kamu. --- Versi asli, gak perlu curiga barang palsu lagi dong."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul di layar dengan efek kilat, lalu bandingkan dengan barang mahal.",
+      "narration": "Varian 8GB bisa tembus di harga delapan puluh ribuan aja. --- Padahal udah dapat brand ternama yang reliable banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Flashdisk dicolokkan ke laptop, lalu tunjukkan varian warna biru dan hijau yang tersedia.",
+      "narration": "Fiturnya? USB 2.0 stabil buat data penting. --- Desain compact gak bikin port laptop penuh. --- Ada varian warna biru dan hijau yang kece."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang belajar atau kerja, lalu menunjukkan flashdisk dengan hati-hati.",
+      "narration": "Perfect buat yang sering bolak-balik ngasih tugas ke dosen. --- Tapi inget, badannya plastik, jadi hati-hati jangan dipijak ya bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan badge rating 4.91 dan jumlah terjual 100k, lalu teks kutipan.",
+      "narration": "Ratingnya 4,91 dari seratus ribu lebih pembeli. --- Yang udah beli bilang 'Alhamdulillah barang sesuai pesanan, USB dapat digunakan dengan baik'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Sandisk",
+    "#FlashdiskMurah",
+    "#TechIndonesia",
+    "#GenZ",
+    "#GadgetViral",
+    "#FindingID",
+    "#Belajar",
+    "#TipsTeknologi"
+  ],
+  "product_id": 129982,
+  "product_title": "SANDISK CZ50 Cruzer Blade 8GB / 16GB / 32GB / 64GB / 128GB USB 2.0 - Flashdisk / Flash Drive",
+  "product_price": "82800.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/129982.jpg",
+    "/uploads/products/129982_1.jpg",
+    "/uploads/products/129982_2.jpg",
+    "/uploads/products/129982_3.jpg",
+    "/uploads/products/129982_4.jpg",
+    "/uploads/products/129982_5.jpg",
+    "/uploads/products/129982_6.jpg",
+    "/uploads/products/129982_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/129982",
+  "generated_at": "2026-03-13T20:50:53.223Z"
+}

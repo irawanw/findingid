@@ -1,0 +1,96 @@
+{
+  "title": "Blazer Korea Viral! Murah & Gak Gatel 😱",
+  "hook_text": "Stop scroll! Blazer ini wajib punya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah host ekspresif sambil pegang blazer hitam di depan kamera, background toko baju estetik.",
+      "narration": "Emang boleh beli blazer seharga segini? Ada yang bilang 'Cantik banget' dan bahannya nggak gatal sama sekali!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat model memakai blazer di berbagai pose (jalan, duduk, pose fashion), transisi smooth.",
+      "narration": "Bestie, ini BLAZER VERZIE TWEED yang literally next level! Desain gaya Korea yang modis, basicnya ready stock, dan nggak perlu tunggu lama."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar 'Rp 105.900 - 200.900' dengan animasi harga naik turun cepat, lalu kembali ke model memakai blazer.",
+      "narration": "Tebak deh harganya? Mulai dari seratus lima ribuan sampai dua ratus an ribu! Wah, which is worth it banget buat kualitas sekelas ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail bahan tweed yang tebal, lalu shot model memakai blazer ke celana formal dan celana jeans, lalu shot stiker 'Ready Stock' di kemasan.",
+      "narration": "Pertama, bahannya tweed yang tebal dan nyaman nggak bikin gatal. Kedua, harganya sangat terjangkau tapi kualitasnya premium. Ketiga, cocok banget buat acara formal maupun kasual, basically super versatile!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: kiri mahasiswa pakai blazer ke jeans, kanan pekerja kantoran pakai blazer ke celana kemeja.",
+      "narration": "Perfect buat kamu yang sering cari outfit serbaguna, bestie! Kalau kamu mahasiswa atau pekerja muda yang suka gaya Korea dan pengen tampil kece tapi nggak mau boros, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.77 bintang, angka 40.000+, dan cuplikan chat pembeli.",
+      "narration": "Rating empat koma tujuh, sudah empat puluh ribu produk terjual! Kata pembelinya, barangnya gercep dan owner-nya ramah banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host menunjuk ke arah bawah layar dengan senyum lebar, teks 'Cek Finding Dot ID' muncul.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#BlazerKorea",
+    "#FashionIndonesia",
+    "#OutfitWanita",
+    "#BelanjaOnline",
+    "#GenZStyle",
+    "#OOTD",
+    "#MurahMeriah",
+    "#TrendingNow"
+  ],
+  "product_id": 58584,
+  "product_title": "BLAZER VERZIE TWEED WOLL FASHION TERBARU",
+  "product_price": "115900.00",
+  "product_rating": "4.77",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/58584.jpg",
+    "/uploads/products/58584_1.jpg",
+    "/uploads/products/58584_2.jpg",
+    "/uploads/products/58584_3.jpg",
+    "/uploads/products/58584_4.jpg",
+    "/uploads/products/58584_5.jpg",
+    "/uploads/products/58584_6.jpg",
+    "/uploads/products/58584_7.jpg",
+    "/uploads/products/58584_8.jpg",
+    "/uploads/products/58584_9.jpg",
+    "/uploads/products/58584_10.jpg",
+    "/uploads/products/58584_11.jpg",
+    "/uploads/products/58584_12.jpg",
+    "/uploads/products/58584_13.jpg",
+    "/uploads/products/58584_14.jpg",
+    "/uploads/products/58584_15.jpg",
+    "/uploads/products/58584_16.jpg",
+    "/uploads/products/58584_17.jpg",
+    "/uploads/products/58584_18.jpg",
+    "/uploads/products/58584_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/58584",
+  "generated_at": "2026-03-14T04:17:16.140Z"
+}

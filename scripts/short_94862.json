@@ -1,0 +1,83 @@
+{
+  "title": "Korset Postnatal 3-in-1? Worth It Banget!",
+  "hook_text": "3 Korset dalam 1? Ngebuat badan balik ke bentuk semula!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up model pakai korset hitam sedang memutar badan menunjukkan efek mengecilkan perut, transisi cepat zoom in ke wajah model yang excited.",
+      "narration": "Eits, stop scroll dulu dong! Tau gak kalau ada korset ajaib yang bisa mengembalikan bentuk badan kamu pasca melahirkan tanpa perlu repot beli banyak?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk UNDR252 dibungkus packaging elegan, lalu dibuka perlahan menunjukkan ketebalan bahan yang premium dan label '3 in 1'.",
+      "narration": "Perkenalkan, UNDR252 Korset 3 in 1 Postnatal! Ini bukan sembarang korset, ini solusi recovery lengkap untuk kamu yang udah melahirkan, baik normal maupun caesar."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 93.300 muncul di layar dengan efek confetti, lalu split screen bandingkan dengan harga korset biasa di market.",
+      "narration": "Gila sih bestie, harga cuma seratus delapan puluhan ribu! Padahal kamu dapet tiga korset sekaligus yang bisa mengecilkan perut, pinggang, dan pinggul secara bersamaan, which is worth it banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Model menggosok perut terasa adem, 2. Close-up perekat yang kuat menutup luka jahitan, 3. Model beraktivitas ringan sambil pakai korset.",
+      "narration": "Tenang, bahannya nggak bikin gerah kok. Dibuat dari campuran elastik yang super adem dan sirkulasi udaranya sangat baik. Perekatnya pun super kuat untuk mendukung penyembuhan luka jahitan, basically next level support buat kamu!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase wanita muda baru melahirkan sedang duduk santai di sofa pakai korset, lalu berjalan ke cermin melihat perut yang mulai rata.",
+      "narration": "Perfect buat kamu yang baru habis melahirkan atau lagi dalam masa pemulihan pasca melahirkan. Kalau aktivitas kamu masih harus rileks tapi butuh support ekstra buat perut yang longgar, ini jawabannya, no cap!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.82 bintang besar, angka 20.000 produk terjual, dan kutipan teks muncul: 'Bahannya lembut, adem di kulit'.",
+      "narration": "Bukti nyata, rating empat koma delapan dua dari dua puluh ribu produk terjual. Yang udah beli bilang bahannya lembut, adem di kulit dan perekatnya kuat utuh lengkap."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan tombol animasi 'Cek Sekarang', model memberi thumbs up ke kamera.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap & review di finding dot id!",
+  "hashtags": [
+    "#PostnatalRecovery",
+    "#KorsetPascaLahir",
+    "#UNDR252",
+    "#ShopeeFinds",
+    "#NewMomLife",
+    "#BodyRecovery",
+    "#BestieFinds",
+    "#FindingID"
+  ],
+  "product_id": 94862,
+  "product_title": "UNDR252 Korset 3 in 1 Korset Melahirkan Wanita Postnatal Corset Pelangsing Pasca Melahirkan Recovery Breathable",
+  "product_price": "93300.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/94862.jpg",
+    "/uploads/products/94862_1.jpg",
+    "/uploads/products/94862_2.jpg",
+    "/uploads/products/94862_3.jpg",
+    "/uploads/products/94862_4.jpg",
+    "/uploads/products/94862_5.jpg",
+    "/uploads/products/94862_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/94862",
+  "generated_at": "2026-03-15T06:22:25.003Z"
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Regulator 1 Klik! Gak Perlu Karet Lagi | SUPERLOCK",
+  "hook_text": "STOP! Regulator lama kamu rusak?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tangan memegang regulator SUPERLOCK lalu menunjuk ke kompor dengan ekspresi kaget.",
+      "narration": "Stop! Kalau kamu masih pusing cari karet selang yang sering kebocoran atau malah hilang, literally kamu harus lihat ini sekarang!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk SUPERLOCK di atas meja bersih, zoom in ke tulisan 'Pemasangan tanpa karet 1 klik'.",
+      "narration": "Ini dia SUPERLOCK regulator kompor gas grs 01 original, bestie! Keunggulannya? Gak perlu ngepotong karet lagi, langsung 1 klik pas banget di tabung!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek confetti, lalu transisi ke visual perbandingan harga vs kualitas.",
+      "narration": "Buat harga cuma delapan puluh empat ribuan? No cap, ini worth it banget dong! Kualitasnya setara barang mahal, tapi harga super ramah di kantong pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: (1) Tangan memasang regulator tanpa alat potong, (2) Menunjukkan selang gas yang rapi, (3) Menyalakan kompor dengan api stabil.",
+      "narration": "First, instalasinya super gampang, nggak perlu alat potong, tinggal pasang langsung. Second, selang gas jadi rapi dan nggak berantakan lagi. Third, nyala apinya stabil dan nggak takut bocor, basically next level buat keamanan dapur kamu!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang ibu muda di dapur atau anak kost yang sedang memasak dengan tenang.",
+      "narration": "Perfect buat yang sering masak sehari-hari atau kamu yang benci sama pusing cari karet selang. Kalau aktivitas dapur kamu sering berantakan karena selang gas, produk ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan screenshot rating bintang lima dan jumlah penjualan, dengan teks kutipan muncul di layar.",
+      "narration": "Rating empat koma delapan tiga dari dua puluh ribu yang udah beli bilang 'mudah di pasang', pembelinya pada ngomong instalasinya gampang banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke arah teks.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#SUPERLOCK",
+    "#RegulatorGas",
+    "#DapurRapi",
+    "#ViralShorts",
+    "#HematDuit",
+    "#MasakEnak",
+    "#ProdukViral",
+    "#FindingId"
+  ],
+  "product_id": 65680,
+  "product_title": "SUPERLOCK regulator kompor gas grs 01 - ORIGINAL | Pemasangan tanpa karet 1 klik",
+  "product_price": "84000.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/65680.jpg",
+    "/uploads/products/65680_1.jpg",
+    "/uploads/products/65680_2.jpg",
+    "/uploads/products/65680_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/65680",
+  "generated_at": "2026-03-15T05:16:21.194Z"
+}

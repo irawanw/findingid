@@ -1,0 +1,96 @@
+{
+  "title": "Playmat Bayi Cuma 40 Ribuan?!",
+  "hook_text": "Playmat cuma 40 ribuan?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up playmat dilipat tiba-tiba dibuka lebar, ekspresi kaget kreator.",
+      "narration": "Playmat bayi aman cuma empat puluhan ribu? --- Emang bisa?!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk SPEEDS dengan logo SNI jelas, zoom in ke bahan foam.",
+      "narration": "Ini SPEEDS SNI Playmat! Bahannya XPE, jauh lebih aman. Bestie, ini literally next level untuk si kecil!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar '40 ribuan', kreator menunjuk ke kamera.",
+      "narration": "Harganya bikin melek! Mulai dari empat puluhan ribu doang. Harga di bawah lima puluh ribu buat ukuran gini, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase fitur: angka timbul, ukuran dilipat, dibawa ke luar.",
+      "narration": "Fitur gila nih. SNI resmi no 230260.0045, aman banget. Ukuran 180x200cm, luas buat anak main. Bisa dilipat praktis, gampang dibawa jalan-jalan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu menggendong anak di luar, lalu membuka playmat di taman.",
+      "narration": "Perfect buat yang sering bawa si kecil ke rumah nenek, atau kalau kamu suka jalan-jalan tapi butuh tempat aman buat anak."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4.83 dan jumlah terjual 300k muncul di layar.",
+      "narration": "Rating 4,83 bintang, udah laku 300.000 buah! Yang udah beli bilang 'Playmatnya oke banget, bagus'. --- Cek barang dulu ya kalau ada yang bolong."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id besar, panah menunjuk ke arah bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#playmatbayi",
+    "#parentinghacks",
+    "#sni",
+    "#mainanbayi",
+    "#findingid",
+    "#parenting",
+    "#balita",
+    "#viral"
+  ],
+  "product_id": 133941,
+  "product_title": "SPEEDS SNI A Playmat Bayi Karpet Lipat Playmate Matras Bayi 180x200cm Playmat Bayi Anak/Bayi Tikar Lipat Foam 027-15",
+  "product_price": "42000.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/133941.jpg",
+    "/uploads/products/133941_1.jpg",
+    "/uploads/products/133941_2.jpg",
+    "/uploads/products/133941_3.jpg",
+    "/uploads/products/133941_4.jpg",
+    "/uploads/products/133941_5.jpg",
+    "/uploads/products/133941_6.jpg",
+    "/uploads/products/133941_7.jpg",
+    "/uploads/products/133941_8.jpg",
+    "/uploads/products/133941_9.jpg",
+    "/uploads/products/133941_10.jpg",
+    "/uploads/products/133941_11.jpg",
+    "/uploads/products/133941_12.jpg",
+    "/uploads/products/133941_13.jpg",
+    "/uploads/products/133941_14.jpg",
+    "/uploads/products/133941_15.jpg",
+    "/uploads/products/133941_16.jpg",
+    "/uploads/products/133941_17.jpg",
+    "/uploads/products/133941_18.jpg",
+    "/uploads/products/133941_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/133941",
+  "generated_at": "2026-03-13T23:05:25.872Z"
+}

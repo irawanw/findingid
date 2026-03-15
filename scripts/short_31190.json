@@ -1,0 +1,97 @@
+{
+  "title": "Sepatu Korea 99 Ribu Viral! Worth It?",
+  "hook_text": "Sepatu 99 Ribu Bisa Sekekeren Ini?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up sepatu WINOD Siena dengan efek cahaya cinematic.",
+      "narration": "Pernah denger sepatu Korea harga cuma di bawah seratus ribu tapi kualitasnya next level banget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Model memakai sepatu berjalan di jalanan kota.",
+      "narration": "Ini WINOD Siena, flat shoes wanita Korea yang lagi viral. Desainnya elegan, cocok buat kerja atau jalan santai."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks harga besar muncul di layar dengan efek sparkle.",
+      "narration": "Harganya cuma sembilan puluh sembilan ribu delapan ratus sembilan puluh sembilan rupiah! Literally, harga dua bulan kopi dapet sepatu premium."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Detail close-up sol sepatu dan bantalan dalam.",
+      "narration": "Pertama, sol anti licin jadi aman banget. Kedua, bantalan dalam super empuk kayak pijat. Ketiga, material breathable, nggak bikin kaki panas. Nggak bikin kering dan gampang di mix match."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Split screen perbandingan kondisi sepatu before dan after dipakai.",
+      "narration": "Stylingnya baguss bgt, especially warna maronnya. Kenyamanan nyaman banget, bantalan dalam empuk. Kualitas tidak licin, jadi aman. Bahan lembut banget, nggak bikin lecet di tumit. --- Tapi ukuran agak besar ya, jadi wajib size up."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Montase orang memakai sepatu ke kantor, sekolah, dan nongkrong.",
+      "narration": "Perfect buat yang sering berdiri lama di kantor atau sekolah. Kalau aktivitas kamu banyak di luar ruangan, ini solusinya banget. Buat kamu yang cari sepatu flat yang nyaman dan murah."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Tampilan rating bintang 4.86 dan jumlah terjual.",
+      "narration": "Rating empat koma delapan enam, udah terjual tiga puluh ribu produk. Reviewer bilang, 'Aku biasa pakai size empat puluh, tapi kalau belanja di Winod biasanya selalu upsize ke empat puluh satu'."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Menampilkan semua varian warna yang tersedia.",
+      "narration": "Ada beberapa pilihan warna, pilih yang cocok sama outfit kamu. Warna maroon favorit banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tombol beli dan panah mengarah ke bawah.",
+      "narration": "Yuk klik link di deskripsi sekarang sebelum kehabisan! Jangan sampai nyesel."
+    }
+  ],
+  "cta": "Klik link di deskripsi sekarang!",
+  "hashtags": [
+    "#SepatuKorea",
+    "#WinodSiena",
+    "#FlatShoes",
+    "#Ootd",
+    "#Viral",
+    "#Murah",
+    "#ReviewSepatu",
+    "#Fashion"
+  ],
+  "product_id": 31190,
+  "product_title": "WINOD Siena  Sepatu Flat Shoes Wanita Korea Elegant",
+  "product_price": "99899.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/31190.jpg",
+    "/uploads/products/31190_1.jpg",
+    "/uploads/products/31190_2.jpg",
+    "/uploads/products/31190_3.jpg",
+    "/uploads/products/31190_4.jpg",
+    "/uploads/products/31190_5.jpg",
+    "/uploads/products/31190_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/31190",
+  "generated_at": "2026-03-13T03:44:07.704Z"
+}

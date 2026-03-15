@@ -1,0 +1,83 @@
+{
+  "title": "Tas Laptop Murah Ini Gak Masuk Akal?",
+  "hook_text": "Tas Laptop Murah Gak Masuk Akal?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas laptop lucu dibuka dengan gerakan cepat",
+      "narration": "Nih, tas laptop yang harganya bikin dompet senyum terus bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tas ditampilkan full shot, ditaruh di meja",
+      "narration": "Kenalin, Celah langit Yuriko Sleeve. Ini tuh tas laptop yang super stylish tapi tetep fungsional banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kilat",
+      "narration": "Dan yang bikin kaget, kamu bisa dapetin ini cuma dengan tujuh puluhan ribuan aja. Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tas dibuka, laptop dan iPad dimasukkan satu persatu",
+      "narration": "Fiturnya next level, bestie. --- Desainnya pas banget buat bawa kemana mana, isinya muat printilan kecil bahkan masuk iPad dan laptop. Kualitasnya literally seratus out of seratus. Bahan luarnya juga tahan lama banget. No cap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang membawa tas sambil jalan di kampus atau kantor",
+      "narration": "Perfect buat yang sering mobilitas tinggi, kuliah atau kerja. Kalau aktivitas kamu banyak pindah tempat, ini wajib punya dong."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan jumlah terjual",
+      "narration": "Sudah dua puluh ribu orang percaya, ratingnya empat koma sembilan satu. --- Yang udah beli bilang, desainnya pas banget dan lucu bangettttt. Oh iya, pastikan pilih warna yang kamu mau ya bestie!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#TasLaptop",
+    "#YurikoSleeve",
+    "#CelahLangit",
+    "#MurahBanget",
+    "#GenZ",
+    "#BelanjaOnline",
+    "#TechGear",
+    "#FindingID"
+  ],
+  "product_id": 101087,
+  "product_title": "Celah langit Yuriko Sleeve  | Tas laptop",
+  "product_price": "78900.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/101087.jpg",
+    "/uploads/products/101087_1.jpg",
+    "/uploads/products/101087_2.jpg",
+    "/uploads/products/101087_3.jpg",
+    "/uploads/products/101087_4.jpg",
+    "/uploads/products/101087_5.jpg",
+    "/uploads/products/101087_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/101087",
+  "generated_at": "2026-03-13T18:52:54.267Z"
+}

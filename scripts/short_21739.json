@@ -1,0 +1,75 @@
+{
+  "title": "Solusi Ruangan Berantakan! Storage Box Murah Banget",
+  "hook_text": "Ruangan Berantakan? Stop Scroll Dulu!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up ruangan berantakan, lalu kamera snap cepat ke produk.",
+      "narration": "Ruangan lo berantakan parah nih? Stop scroll dulu, bestie, liat ini dulu sebelum terlambat ya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk berputar dengan efek air, highlight logo Oxford.",
+      "narration": "Temukan solusi gila, storage box Oxford waterproof yang literally next level banget buat rapiin semua barang lo hari ini."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga besar dengan centang hijau, background blur produk.",
+      "narration": "Harganya cuma lima puluh ribuan aja, which is worth it banget dibanding harga jualannya di pasaran, no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up tekstur bahan, tes cipratan air, demo tumpuk box.",
+      "narration": "Materialnya tebal banget, nggak gampang bocor kalau kena air, plus volumenya tinggi banget. --- Tapi inget ya, jangan diisi barang super berat biar nggak letoy."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang memasukkan sepatu dan mainan anak ke dalam box dengan rapi.",
+      "narration": "Perfect buat kamu yang suka ngoleksi sepatu atau mainan anak. Kalau aktivitas lo banyak barang, box ini solusinya banget, no cap!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Grafik rating bintang 4.84 dan animasi angka terjual 30 ribu.",
+      "narration": "Udah laku 30 ribu! Rating 4.84. Yang udah beli bilang bahannya super tebal dan pengiriman cepet banget, literally!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul dengan jari mengarah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, jangan sampe kehabisan stoknya sekalian."
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#storagebox",
+    "#rumahmulus",
+    "#murahbanget",
+    "#hacksrumah",
+    "#findingid",
+    "#viral",
+    "#genz",
+    "#organisir"
+  ],
+  "product_id": 21739,
+  "product_title": "Kain Oxford kotak penyimpanan Waterproofing storage box Multifungsi container box Warna murni box penyimpanan Volume tinggi box storage",
+  "product_price": "50001.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/21739",
+  "generated_at": "2026-03-13T22:56:20.784Z"
+}

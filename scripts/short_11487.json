@@ -1,0 +1,82 @@
+{
+  "title": "Flashdisk Sandisk 130MB/s Murah Banget?",
+  "hook_text": "Flashdisk Kilat Merce?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up flashdisk berputar dengan efek kilat dan teks overlay besar.",
+      "narration": "Kira-kira ada nggak sih flashdisk yang transfer datanya secepat kilat? --- Ini dia Sandisk CZ73 Ultra Flair, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Sandisk di atas meja kayu dengan pencahayaan cinematic.",
+      "narration": "USB 3.0 asli yang transfer datanya literally next level. Nah, varian 32GB nya harga seratus tiga puluhan ribu. Worth it banget buat ukuran kualitas Sandisk."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul besar di layar dengan efek uang terbang.",
+      "narration": "Pertama, transfer data sampe 130MB per detik. Kedua, ukurannya mini banget jadi jangan sampe hilang ya. Ketiga, official store pasti 100% ORI. Kapasitas nominal aja ya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo transfer file dari laptop ke flashdisk dengan speedometer grafik.",
+      "narration": "Soal pengiriman sih kadang lama, makanya cek aja di official store biar aman. Perfect buat kalian yang sering pindahin tugas kuliah atau kerjaan kantor yang ukurannya gede. Kalau aktivitas kamu butuh storage aman, ini solusinya."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Siswa sedang belajar dan pekerja kantor sedang presentasi dengan laptop.",
+      "narration": "Rating 4,87 bintang, udah dijual 40.000 lebih. Yang udah beli bilang, 'Gak perlu diragukan, udah pasti 100% ORI'."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang emas dan counter jumlah terjual berjalan cepat.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul di tengah layar dengan tombol panah menunjuk.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Sandisk",
+    "#Flashdisk",
+    "#TechIndonesia",
+    "#GenZ",
+    "#GadgetMurah",
+    "#StorageAman",
+    "#ViralProduct",
+    "#FindingID"
+  ],
+  "product_id": 11487,
+  "product_title": "SANDISK CZ73 Ultra Flair 16GB / 32GB / 64GB / 128GB / 256GB USB 3.0 (Up to 130MB/s) - Flashdisk",
+  "product_price": "134800.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/11487.jpg",
+    "/uploads/products/11487_1.jpg",
+    "/uploads/products/11487_2.jpg",
+    "/uploads/products/11487_3.jpg",
+    "/uploads/products/11487_4.jpg",
+    "/uploads/products/11487_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/11487",
+  "generated_at": "2026-03-13T18:31:02.842Z"
+}

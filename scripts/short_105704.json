@@ -1,0 +1,83 @@
+{
+  "title": "Skintific Sunscreen 60 Riban Worth It?",
+  "hook_text": "Gak Dempul, Gak Perih Mata!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah berkilau dengan efek split screen before-after",
+      "narration": "Pernah takut sunscreen bikin muka dempul atau bikin mata perih?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Skintific dipegang tangan dengan background bersih",
+      "narration": "Kenalin nih, Skintific Sunscreen Tinted SPF50 PA++++. --- Ini tuh literally next level buat kulit sensitif berminyak."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Graphic harga muncul besar dengan efek koin jatuh",
+      "narration": "Padahal fiturnya lengkap, tapi harganya cuma 60-an ribuan saja. --- Which is worth it banget compared to brand lain."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase tekstur krim, olesan di lengan, dan efek matte",
+      "narration": "Ada 3 hal keren: Pertama, matte oil control-nya tahan seharian. --- Kedua, barrier care buat skin barrier rusak. Ketiga, tone-up-nya natural, nggak abu-abu. Jadi nggak perlu foundation lagi!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita sedang beraktivitas outdoor dan menggunakan sunscreen",
+      "narration": "Perfect buat kalian yang aktivitas di luar ruangan atau kulitnya gampang kilang minyak. --- Tapi jangan oles terlalu dekat mata ya, bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.92 bintang dan angka penjualan",
+      "narration": "Rating 4.92, sudah terjual 20 ribu produk. --- Yang udah beli bilang 'Penyerapan produk cepat meresap dan kualitas terjamin'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id dan panah menunjuk ke bawah",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Skintific",
+    "#Sunscreen",
+    "#SkincareMurah",
+    "#KulitBerminyak",
+    "#SkincareIndonesia",
+    "#BeautyHacks",
+    "#GlowUp",
+    "#FindingID"
+  ],
+  "product_id": 105704,
+  "product_title": "[Original] SKINTIFIC - Sunscreen SPF50 PA++++ Brightening Tone-up Matte Oil Control 5X Ceramide Barrier Care Aqua Light Daily Serum Sunscreen Tint Kulit Sensitif Berminyak Kusam Tabir Surya Sunblock Untuk skin barrier rusak Spray",
+  "product_price": "78999.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/105704.jpg",
+    "/uploads/products/105704_1.jpg",
+    "/uploads/products/105704_2.jpg",
+    "/uploads/products/105704_3.jpg",
+    "/uploads/products/105704_4.jpg",
+    "/uploads/products/105704_5.jpg",
+    "/uploads/products/105704_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/105704",
+  "generated_at": "2026-03-13T17:08:04.802Z"
+}

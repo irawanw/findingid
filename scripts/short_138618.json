@@ -1,0 +1,80 @@
+{
+  "title": "Setelan Anak Earthy Original! 💸",
+  "hook_text": "Baju Anak Earthy Murah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tayangan cepat setelan anak warna earth tone diiringi efek suara 'pop' dan teks besar 'STOP SCROLLING!'",
+      "narration": "Baju anak earth tone yang murah tapi kualitasnya next level? Kamu nggak bakal percaya sama ini bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Zoom in ke detail kain dan jahitan setelan Littleman dengan transisi smooth",
+      "narration": "Ini Playset Anak Earthy Series dari Littleman dot id. Basic setelan kaos dan celana panjang yang garing banget dan cocok buat gaya anakmu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek 'money bag' dan ekspresi kaget",
+      "narration": "Seratus delapan puluhan ribu atau enam puluhan ribu aja sih, ini nggak main-main. Dapatkan kualitas premium seharga secangkir kopi dong!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase 3 shot: tekstur kain, detail jahitan, dan model anak pakai baju",
+      "narration": "Pertama, bahan satu ratus persen katun combed premium yang lembut banget dan adem di kulit. Kedua, desain unisex earth tone yang bikin outfit anakmu selalu kekinian dan estetik. Ketiga, jahitannya rapi kokoh bebas benang berserakan, no cap sangat worth it!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen anak laki-laki dan perempuan memakai setelan tersebut sedang bermain",
+      "narration": "Perfect buat kamu yang sering cari daily wear harian anak satu sampai lima tahun. Kalau aktivitas anakmu banyak lari-lari main, ini wajib punya karena bahannya adem dan nyaman banget dipakai seharian!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan angka 20.000 dengan cuplikan screenshot chat pembeli",
+      "narration": "Enam puluh enam ribu terjual dan rating empat koma sembilan. Pembelinya pada ngomong 'Bagus banget inimah bakal beli lagiii' karena kualitasnya memang oke!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan animasi panah menunjuk ke bawah",
+      "narration": "Penasaran sama stok dan detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek stok di finding dot id sekarang!",
+  "hashtags": [
+    "#FashionAnak",
+    "#LittlemanId",
+    "#EarthTone",
+    "#OutfitAnak",
+    "#MomHacks",
+    "#StyleAnak",
+    "#BajuAnakMurah",
+    "#Original"
+  ],
+  "product_id": 138618,
+  "product_title": "Playset Anak Earthy Series Setelan Kaos Baju Celana Panjang Laki Perempuan Premium Littleman.id",
+  "product_price": "67638.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/138618.jpg",
+    "/uploads/products/138618_1.jpg",
+    "/uploads/products/138618_2.jpg",
+    "/uploads/products/138618_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/138618",
+  "generated_at": "2026-03-14T04:21:53.320Z"
+}

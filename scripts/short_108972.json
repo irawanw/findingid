@@ -1,0 +1,83 @@
+{
+  "title": "Body Wash 5 Liter Cuma 80 Ribu?!",
+  "hook_text": "Sumpah bestie, bukan body wash biasa!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up produk Saibauty 5L dengan efek lensa berkilau",
+      "narration": "Sumpah bestie, ini bukan body wash biasa! --- Literally so affordable."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan jerigen 5 Liter dan label BPOM",
+      "narration": "Saibauty Bath Foam 5 Liter, literally next level banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek koin jatuh",
+      "narration": "Harganya? Cuma delapan puluhan ribuan aja, which is worth it banget buat ukuran 5 liter."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase varian aroma dan tekstur sabun yang melimpah",
+      "narration": "Wanginya pass, nggak nyengat, dan jerigen 5 liter itu beneran banyak. --- Ada varian Vanilla, Charcoal, sampai Lavender yang bikin kulit bersih wangi, no cap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Konten creator sedang mandi santai dengan botol besar",
+      "narration": "Bisa buat satu keluarga sebulan tanpa mikir lagi. --- Cocok buat kamu yang suka mandi lama atau butuh stok aman, especially buat yang tinggal kosan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan jumlah terjual 20rb",
+      "narration": "Rating 4.9, udah terjual 20 ribu! --- Yang udah beli bilang 'Wanginya pass, pengiriman cepet, quality oke banget'. --- Tapi hati-hati, kalau order varian Goat Milk, pastikan chat admin dulu biar nggak salah kirim."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke bawah",
+      "narration": "Mau cek detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Saibauty",
+    "#BodyWashMurah",
+    "#ReviewViral",
+    "#CuciMandi",
+    "#ViralIndonesia",
+    "#ProdukViral",
+    "#GayaHidupGenZ",
+    "#PromoMurah"
+  ],
+  "product_id": 108972,
+  "product_title": "Sabun Mandi Cair 5lt BATH FOAM BODY WASH Busa Mandi SAIBEAUTY 5Liter BPOM",
+  "product_price": "87000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/108972.jpg",
+    "/uploads/products/108972_1.jpg",
+    "/uploads/products/108972_2.jpg",
+    "/uploads/products/108972_3.jpg",
+    "/uploads/products/108972_4.jpg",
+    "/uploads/products/108972_5.jpg",
+    "/uploads/products/108972_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/108972",
+  "generated_at": "2026-03-13T21:05:38.375Z"
+}

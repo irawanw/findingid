@@ -1,0 +1,92 @@
+{
+  "title": "Memory Card VGEN, Murah Banget Bestie! 🚀",
+  "hook_text": "Stop scroll! Memory card 128GB?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tangan memegang memory card VGEN yang berkilau dengan background warna-warni cerah dan teks besar muncul.",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?' Ada yang bilang 'Ketiak jadi kering!' Tenang bestie, oles tipis saja ya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat berbagai varian memory card VGEN (8GB s/d 128GB) tersusun rapi dengan efek transisi zoom in.",
+      "narration": "Ini VGEN Micro SD original nih! Kapasitas gede banget mulai dari delapan GB sampe seratus dua puluh delapan GB, which is basically next level buat kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar-besar muncul di layar dengan efek confetti, lalu transisi ke ikon hati dan bintang.",
+      "narration": "Harga? Mulai dari enam puluhan ribu aja! Seratus delapan puluhan ribu untuk yang kapasitas gede, which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menampilkan speed test grafik naik, kanan menampilkan foto video 4K mulus, kiri bawah menampilkan ikon garansi resmi.",
+      "narration": "Turbo Maestro Class 10 super cepat, nggak bakal nge-lag saat transfer data atau rekam video 4K. Plus, garansi resmi bikin kamu tenang, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video pendek orang lagi videografi di event, lalu cut ke orang lagi backup data laptop yang padat.",
+      "narration": "Perfect buat kamu yang sering videografi event atau butuh ruang penyimpanan laptop penuh, which is super practical dong."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.86 bintang besar dengan angka '30.000+' terjual dan kutipan teks muncul.",
+      "narration": "Rating empat koma delapan enam, tiga puluh ribu produk udah terjual, kata pembelinya 'super turbo satu ratus satu sangat cepat'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah menunjuk ke arah bawah atau logo finding.id dengan teks 'Cek di sini!' berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#VGEN",
+    "#MemoryCard",
+    "#GadgetMurah",
+    "#ReviewGadget",
+    "#ShopeeFinds",
+    "#StorageGede",
+    "#Teknologi",
+    "#BelanjaPintar"
+  ],
+  "product_id": 25609,
+  "product_title": "Memory Card VGEN Micro SD V-GEN Original 8gb 16gb 32gb 64gb 128gb Class10 Turbo Maestro Cl6 MicroSD",
+  "product_price": "64900.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/25609.jpg",
+    "/uploads/products/25609_1.jpg",
+    "/uploads/products/25609_2.jpg",
+    "/uploads/products/25609_3.jpg",
+    "/uploads/products/25609_4.jpg",
+    "/uploads/products/25609_5.jpg",
+    "/uploads/products/25609_6.jpg",
+    "/uploads/products/25609_7.jpg",
+    "/uploads/products/25609_8.jpg",
+    "/uploads/products/25609_9.jpg",
+    "/uploads/products/25609_10.jpg",
+    "/uploads/products/25609_11.jpg",
+    "/uploads/products/25609_12.jpg",
+    "/uploads/products/25609_13.jpg",
+    "/uploads/products/25609_14.jpg",
+    "/uploads/products/25609_15.jpg"
+  ],
+  "product_link": "https://finding.id/p/25609",
+  "generated_at": "2026-03-15T10:34:17.496Z"
+}

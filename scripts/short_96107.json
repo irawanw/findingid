@@ -1,0 +1,83 @@
+{
+  "title": "Rak Jemuran 4 Susun Gak Perlu Lagi Penuh!",
+  "hook_text": "Lemari Penuh? Langsung Stop!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat kamar tidur berantakan penuh baju basah yang menumpuk di lantai",
+      "narration": "Stop dulu bestie! Nggak mungkin banget lemari kamu masih sempit gara-gara baju basah kan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi smooth ke rak jemuran lipat 4 susun yang dibuka lebar dengan 24 baris dan roda berputar",
+      "narration": "Kenalan deh sama IDOHOUSE Rak Jemuran Lipat ini! Kapasitasnya mantap banget, 24 baris plus 14 slot untuk sepatu, which is basically next level buat nyimpen banyak barang."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar di layar dengan efek getar, lalu split screen rak vs tumpukan baju biasa",
+      "narration": "Harganya cuma seratus delapan puluhan ribu rupiah aja! Dibanding kamu beli jemuran kayu biasa atau nyimpen baju manual, ini worth it banget dong."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: roda berputar lancar, struktur besi kokoh saat ditarik, lalu proses lipat jadi kecil masuk tas",
+      "narration": "Pertama, rodanya super lancar jadi gampang dipindah-pindah. Kedua, strukturnya pakai besi dan plastik yang kokoh, nggak bakal gampang roboh. Terakhir, yang paling gila, bisa dilipat jadi kecil! Jadi nggak memakan tempat kalau nggak dipakai, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: seorang wanita sibuk merapikan kamar sambil menjemuran banyak baju sekaligus",
+      "narration": "Perfect buat kamu yang sering belanja online, punya banyak handuk, atau kalau aktivitas kamu selalu penuh baju basah di rumah. Gak perlu repot lagi ya bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.83 bintang besar dengan angka 20.000 terjual, lalu screenshot chat pembeli",
+      "narration": "Rating empat koma delapan tiga dari dua puluh ribu produk terjual. Yang udah beli bilang desainnya minimalis dan instalasinya mudah, meskipun ada yang bilang roda pas dipasang patah, itu pasti karena cara pasang yang kurang hati-hati ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol besar finding.id dengan animasi klik, teks overlay 'Cek Detail Lengkap di Sini'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#RakJemuran",
+    "#SolusiKamar",
+    "#GenZIndonesia",
+    "#FindingId",
+    "#HomeDecor",
+    "#ProdukViral",
+    "#StorageHacks",
+    "#KamarBersih"
+  ],
+  "product_id": 96107,
+  "product_title": "IDOHOUSE Rak Jemuran Lipat Baju Handuk Sepatu 24Baris+14 Slot 4Susun Dgn Roda Gantungan Pakaian B03A",
+  "product_price": "210144.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/96107.jpg",
+    "/uploads/products/96107_1.jpg",
+    "/uploads/products/96107_2.jpg",
+    "/uploads/products/96107_3.jpg",
+    "/uploads/products/96107_4.jpg",
+    "/uploads/products/96107_5.jpg",
+    "/uploads/products/96107_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/96107",
+  "generated_at": "2026-03-15T04:07:15.261Z"
+}

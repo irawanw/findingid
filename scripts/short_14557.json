@@ -1,0 +1,96 @@
+{
+  "title": "Karpet Estetik Cuma Dua Ratus Ribu? No Cap!",
+  "hook_text": "Karpet Estetik Cuma Dua Ratus Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up shot karpet dengan tekstur lembut, kamera bergerak cepat.",
+      "narration": "Karpet estetik cuma dua ratus ribuan? No cap!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Wide shot karpet di ruangan minimalis, lighting hangat.",
+      "narration": "Ini dia Cosmo Love karpet dari Arizona. Kualitas Malaysia, motif minimalis banget literally."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, background blur produk.",
+      "narration": "Harga real nya mulai dua ratus ribuan aja. Which is worth it parah buat nambahin aesthetic rumah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tangan menyentuh karpet, menunjukkan kelembutan dan bonus keset.",
+      "narration": "Bahannya polyester, empuk dan lembut banget buat rebahan literally. Bonus keset juga gratis! --- Tapi inget ya bestie, teksturnya tipis, jadi jangan berharap super tebal. Terkadang tepinya sedikit bergelombang karena ini karpet busa. Jadi pas buat di ruangan yang adem."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang duduk santai di atas karpet sambil main HP.",
+      "narration": "Perfect buat kamu yang suka ngerjain tugas di lantai atau sekadar santai bareng temen."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4.88 dan jumlah terjual 70.000 muncul di layar.",
+      "narration": "Ratingnya 4,88 dari 70.000 terjual. Yang udah beli bilang, 'Cukup untuk rebahan ber tiga'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi cepat.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#KarpetEstetik",
+    "#CosmoLove",
+    "#ArizonaCarpet",
+    "#RacunShopee",
+    "#DecorRumah",
+    "#GenZIndonesia",
+    "#FypIndonesia",
+    "#PromoViral"
+  ],
+  "product_id": 14557,
+  "product_title": "[140x190cm] Cosmo Love Karpet Busa Malaysia Arizona Motif Minimalis",
+  "product_price": "229900.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/14557.jpg",
+    "/uploads/products/14557_1.jpg",
+    "/uploads/products/14557_2.jpg",
+    "/uploads/products/14557_3.jpg",
+    "/uploads/products/14557_4.jpg",
+    "/uploads/products/14557_5.jpg",
+    "/uploads/products/14557_6.jpg",
+    "/uploads/products/14557_7.jpg",
+    "/uploads/products/14557_8.jpg",
+    "/uploads/products/14557_9.jpg",
+    "/uploads/products/14557_10.jpg",
+    "/uploads/products/14557_11.jpg",
+    "/uploads/products/14557_12.jpg",
+    "/uploads/products/14557_13.jpg",
+    "/uploads/products/14557_14.jpg",
+    "/uploads/products/14557_15.jpg",
+    "/uploads/products/14557_16.jpg",
+    "/uploads/products/14557_17.jpg",
+    "/uploads/products/14557_18.jpg",
+    "/uploads/products/14557_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/14557",
+  "generated_at": "2026-03-13T22:03:26.941Z"
+}

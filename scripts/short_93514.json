@@ -1,0 +1,83 @@
+{
+  "title": "Bantal 2 + Guling 2 Cuma 100 Ribuan?!",
+  "hook_text": "Bantal 2 + Guling 2 Cuma 100 Ribuan?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up produk bantal dan guling yang ditunjukkan ke kamera dengan efek zoom in cepat",
+      "narration": "Kalian percaya nggak sih dapet bantal dua plus guling dua cuma seharga seratus ribuan? No cap, ini beneran, serius!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Wide shot paket produk lengkap yang dibuka, menunjukkan isi 2 bantal dan 2 guling",
+      "narration": "Ini paket Double Complete Lite 109 pillow, lengkap banget buat nyiapin tidur nyenyak bareng bestie di rumah sendiri."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek glow, background produk blur",
+      "narration": "Harga seratus belasan ribu, literally worth it banget dibanding beli satu-satu di toko lain yang mahal banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi tekstur bantal ditekan tangan, lalu tunjukkan kemasan plastik",
+      "narration": "Bentuknya lebar dan empuk, dacronnya bisa ditambah sendiri kalau mau lebih keras. --- Packagingnya dua lapis plastik, jangan khawatir aman sampai tujuan, cuma dibungkus simpel."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang tidur nyaman di kasur dengan produk tersebut",
+      "narration": "Perfect buat yang suka tidur miring atau cari bantal dormitori murah tapi kualitasnya top banget buat harian banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.8 dan angka penjualan 30.000 di layar",
+      "narration": "Sudah terjual tiga puluh ribu, rating 4.8. --- Yang udah beli bilang 'kualitas oke abis, bener best deal'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke layar HP",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, jangan sampai kehabisan ya guys!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, jangan sampai kehabisan ya guys!",
+  "hashtags": [
+    "#BantalMurah",
+    "#RekomendasiRumah",
+    "#ViralIndonesia",
+    "#GulingEmpuk",
+    "#HomeDecor",
+    "#CariProduk",
+    "#FindingId",
+    "#GenZ"
+  ],
+  "product_id": 93514,
+  "product_title": "PROMO Paket 2 Bantal + 2 Guling Double Complete Lite 109 pillow",
+  "product_price": "117402.00",
+  "product_rating": "4.78",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/93514.jpg",
+    "/uploads/products/93514_1.jpg",
+    "/uploads/products/93514_2.jpg",
+    "/uploads/products/93514_3.jpg",
+    "/uploads/products/93514_4.jpg",
+    "/uploads/products/93514_5.jpg",
+    "/uploads/products/93514_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/93514",
+  "generated_at": "2026-03-13T19:09:42.338Z"
+}

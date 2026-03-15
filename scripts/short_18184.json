@@ -1,0 +1,84 @@
+{
+  "title": "Stroller Motoran Murah Banget! Cek Ini Yuk",
+  "hook_text": "Bawa bayi jalan motor?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up stroller yang lagi dilipat nempel di jok motor dengan gaya keren.",
+      "narration": "Gila sih, bisa bawa bayi jalan-jalan pakai motor?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: stroller dibuka besar di taman, lalu dilipat kecil masuk motor.",
+      "narration": "Nih bestie, Magic Stroller ini literally next level praktis. Bisa jadi stroller gede saat dibuka, tapi pas dilipat jadi ringkes banget, which is worth it banget buat dibawa ke mana-mana."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek 'pop', lalu transisi ke warna-warni stroller.",
+      "narration": "Dan harganya? Nggak perlu keluar seratus delapan puluhan ribu. Paling mahal cuma seratus lima puluh tiga ribu, yang udah beli bilang worth it banget sama kualitasnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close-up sandaran kepala plastik, lalu demo lipat ringan, lalu tunjukkan pilihan warna di layar.",
+      "narration": "Tenang, bahannya aman dan kuat dengan sandaran kepala plastik yang kokoh. Desainnya bikin lipatan jadi super ringan dan nggak berat di tangan. Ada banyak pilihan warna juga, dari pink polos sampai coklat alas coklat, basically semua selera ibu ada di sini."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu sedang mendorong stroller di trotoar sambil senyum, lalu shot bayi tertidur nyenyak.",
+      "narration": "Perfect buat kamu yang sering jalan-jalan jauh atau kalau aktivitas kamu suka banget bawa anak kemana-mana. Cocok banget buat anak satu tahun ke atas yang udah bisa duduk tegak."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.79 dan angka 60.000 terjual yang berdenyut.",
+      "narration": "Rating empat koma tujuh sembilan dari enam puluh ribu produk terjual. Pembelinya pada ngomong bahannya ringan dan ringkes banget buat dibawa-bawa."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi lucu dan tombol 'Cek Sekarang'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#strollerbaby",
+    "#parentinghack",
+    "#murahmeriah",
+    "#reviewproduk",
+    "#findingid",
+    "#ibugaul",
+    "#babyessentials",
+    "#strollermurah"
+  ],
+  "product_id": 18184,
+  "product_title": "Magic Stroller Bayi Murah Stroller Anak Kreta Bayi  Dorong Roda 4 Baby Multi Fungsi",
+  "product_price": "193888.00",
+  "product_rating": "4.79",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/18184.jpg",
+    "/uploads/products/18184_1.jpg",
+    "/uploads/products/18184_2.jpg",
+    "/uploads/products/18184_3.jpg",
+    "/uploads/products/18184_4.jpg",
+    "/uploads/products/18184_5.jpg",
+    "/uploads/products/18184_6.jpg",
+    "/uploads/products/18184_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/18184",
+  "generated_at": "2026-03-15T08:23:36.170Z"
+}

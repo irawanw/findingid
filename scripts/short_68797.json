@@ -1,0 +1,87 @@
+{
+  "title": "Sandal Ando Original Murah Banget?",
+  "hook_text": "Gak Percaya Harga Semurah Ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up sandal Ando di atas permukaan kayu dengan pencahayaan cinematic.",
+      "narration": "Ngak percaya sih, sandal Ando original bisa harga di bawah seratus ribu? Nih, dengerin dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model mengenakan sandal dan berjalan santai di area outdoor.",
+      "narration": "Ando Gemoy Hits, sandal selop cowok kekinian yang asli dari distributor resmi sejak lama. Jaminan orisinalitas!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga muncul dengan animasi pop-up di layar.",
+      "narration": "Harga berkisar dari sembilan puluh ribuan sampai seratus dua puluh ribuan, which is worth it banget buat kualitas selevel ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail close-up sol sandal dan variasi warna yang tersedia.",
+      "narration": "Bantalan karet eva premiumnya empuk banget, nggak keras di kaki --- Tersedia enam warna keren, dari hits navy sampe gemoy olive. Bahan karet tahan lama, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang nongkrong di cafe sambil memakai sandal tersebut.",
+      "narration": "Perfect buat kamu yang sering jalan kaki atau butuh sandal buat nongkrong santai di cafe."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.89 dan jumlah terjual 20.000.",
+      "narration": "Sudah laku dua puluh ribu pasang dengan rating empat koma delapan sembilan. Yang udah beli bilang, 'Pokok nya real pick, bantalan lembut nggak keras.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke arah bawah.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#AndoGemoyHits",
+    "#SandalPriaKekinian",
+    "#OOTDPria",
+    "#RekomendasiProduk",
+    "#FindingID",
+    "#ViralProduct",
+    "#SandalMurah",
+    "#GenZIndonesia"
+  ],
+  "product_id": 68797,
+  "product_title": "Ando Gemoy Hits Sendal Selop Pria Kekinian Sandal Slop Cowok Dewasa Casual Original Terbaru 39-43",
+  "product_price": "92900.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/68797.jpg",
+    "/uploads/products/68797_1.jpg",
+    "/uploads/products/68797_2.jpg",
+    "/uploads/products/68797_3.jpg",
+    "/uploads/products/68797_4.jpg",
+    "/uploads/products/68797_5.jpg",
+    "/uploads/products/68797_6.jpg",
+    "/uploads/products/68797_7.jpg",
+    "/uploads/products/68797_8.jpg",
+    "/uploads/products/68797_9.jpg",
+    "/uploads/products/68797_10.jpg"
+  ],
+  "product_link": "https://finding.id/p/68797",
+  "generated_at": "2026-03-13T22:32:19.610Z"
+}

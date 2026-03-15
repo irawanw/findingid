@@ -1,0 +1,83 @@
+{
+  "title": "Kamera Anak Lucu Gemes Banget! Wajib Punya",
+  "hook_text": "Stop! Bocil butuh kado gemes!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up kamera anak berwarna cerah dipegang tangan kecil, lalu zoom out cepat.",
+      "narration": "Stop dulu bestie! Kamu mau bikin kado buat bocil yang literally nggak bakal bisa ditinggalin?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat memperlihatkan kamera UPLU di berbagai sudut, lalu efek sparkle muncul.",
+      "narration": "Ini dia solusinya! Kamera anak mini dari UPLU yang desainnya super lucu dan gemes banget, ukurannya pas banget buat ditangan kecil."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan harga Rp 142.649 dengan efek 'strike through' harga lama.",
+      "narration": "Gila sih harganya cuma seratus empat puluh dua ribuan! Which is worth it banget kalau dipikirin untuk kebahagiaan anak-anak."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan gambar jernih, tengah tunjukkan tali kalung, kanan tunjukkan efek foto lucu.",
+      "narration": "No cap, fiturnya next level! Pertama kualitas gambar lumayan jernih meski cuma tiga megapixel. Kedua ada tali kalung jadi bisa dibawa kemana-mana. Dan terakhir ada efek foto yang bikin momen jadi lebih seru."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video candid anak-anak sedang bermain dengan kamera, tertawa lepas.",
+      "narration": "Perfect buat kamu yang sering cari kado ulang tahun atau hadiah ulang tahun yang nggak membosankan. Buat anak yang suka eksplorasi dan dokumentasi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.8 dan angka 30.000+, lalu muncul quote bubble.",
+      "narration": "Pembelinya pada ngomong desainnya lucu dan gemes banget. Jadi beneran worth it ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#KameraAnak",
+    "#KadoLucu",
+    "#UPLU",
+    "#KidsCamera",
+    "#ViralShorts",
+    "#ParentingHacks",
+    "#AnakGemes",
+    "#FindingId"
+  ],
+  "product_id": 146233,
+  "product_title": "UPLU Kamera Anak Mini Digital Layar HD 3 Megapixel Kids Camera Child Toys for Birthday Gift",
+  "product_price": "142649.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/146233.jpg",
+    "/uploads/products/146233_1.jpg",
+    "/uploads/products/146233_2.jpg",
+    "/uploads/products/146233_3.jpg",
+    "/uploads/products/146233_4.jpg",
+    "/uploads/products/146233_5.jpg",
+    "/uploads/products/146233_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/146233",
+  "generated_at": "2026-03-14T07:45:04.284Z"
+}

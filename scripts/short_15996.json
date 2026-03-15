@@ -1,0 +1,83 @@
+{
+  "title": "Termometer Inframerah Murah! Worth It Banget Bestie",
+  "hook_text": "Cek Suhu 0,5 Detik?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat tangan memegang termometer mengarah ke dahi dengan efek countdown digital besar di layar.",
+      "narration": "Stop scrolling! Siapa yang masih pakai termometer konvensional yang ribet banget harus tunggu lama? Habis itu nggak akurat kalau lagi demam ringan."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage produk TaffOmicron AD801 diiringi visual orang tersenyum lega setelah melihat hasil suhu di layar.",
+      "narration": "Meet bestie baru kamu: TaffOmicron Termometer Tembak Infrared model AD801. Basically next level karena cuma butuh setengah detik buat dapet hasil akurat banget tanpa sentuhan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga muncul dengan efek 'pop' dan perbandingan visual dengan harga termometer mahal di rak apotek.",
+      "narration": "Gila sih harganya cuma seratus delapan puluhan ribu aja! Padahal kualitasnya setara dengan termometer mahal di toko obat. Which is worth it banget buat kebutuhan harian keluarga."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Memasang baterai dengan panah merah. 2. Bentuk gagang pistol yang ergonomis. 3. Layar digital terang di ruangan redup.",
+      "narration": "Fitur pertama, tinggal pasang baterai dan langsung siaga, oh iya hati-hati pasang jangan terbalik dong biar nggak rusak. Kedua, bentuk gagang pistolnya super ergonomis, gampang banget digenggam anak-anak sekalipun. Ketiga, layarnya super terang dan jelas, jadi nggak perlu pusing meskipun di kamar redup."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Ibu memeriksa suhu anak yang main di taman, lalu ayah mengecek suhu ibu hamil di kamar tidur.",
+      "narration": "Perfect buat kamu yang sering memantau kesehatan anak atau keluarga yang punya riwayat flu musiman. Kalau aktivitas kamu butuh cek suhu cepat-cepat tanpa ribet, ini literally the one yang wajib punya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.88 bintang, angka 40.000 terjual, dan speech bubble muncul dengan teks kutipan.",
+      "narration": "Pembelinya pada ngomong kalau alat ini mudah digunakan tinggal pasang baterainya terus dipencet aja. No cap, rating empat delapan delapan dari empat puluh ribu produk terjual nggak main-main."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan animasi panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, cari produk sehat lainnya di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#termometerinframerah",
+    "#taffomicron",
+    "#parentinghacks",
+    "#kesehatterbaru",
+    "#murahbanget",
+    "#findings",
+    "#produkunik",
+    "#hematdunia"
+  ],
+  "product_id": 15996,
+  "product_title": "TaffOmicron Termometer Tembak Suhu Badan Infrared - AD801",
+  "product_price": "55900.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/15996.jpg",
+    "/uploads/products/15996_1.jpg",
+    "/uploads/products/15996_2.jpg",
+    "/uploads/products/15996_3.jpg",
+    "/uploads/products/15996_4.jpg",
+    "/uploads/products/15996_5.jpg",
+    "/uploads/products/15996_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/15996",
+  "generated_at": "2026-03-14T06:20:15.149Z"
+}

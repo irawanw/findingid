@@ -1,0 +1,83 @@
+{
+  "title": "Tas Tahan Api? Cagho Leon Exclusive",
+  "hook_text": "Tas Beneran Tahan Api?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan memegang tas lalu ada percikan api kecil di sekitarnya",
+      "narration": "Tas ini beneran tahan api? Gak nyangka sih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase tas dari berbagai sisi dengan transisi cepat",
+      "narration": "Ini Cagho Ultra Leon Exclusive. Literally next level, anti air plus anti bara. --- Desainnya bisa jadi slingbag atau clutch."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar bersamaan dengan uang receh atau dompet",
+      "narration": "Harganya cuma seratus delapan puluh ribuan doang. Which is worth it banget buat kualitas sekelas ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo menuangkan air ke tas dan test material",
+      "narration": "Fiturnya gila. Pertamanya, tahan air dan bara. --- Kedua, desainnya kece abis. Ketiganya, kapasitasnya luas banget buat daily."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model memakai tas sambil jalan santai di luar ruangan",
+      "narration": "Perfect buat kamu yang sering keluar malem atau butuh tas simpel tapi aman. Kalau aktivitas kamu padat, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.91 dan jumlah terjual 20.000",
+      "narration": "Rating 4,91 dari 20.000 terjual. Yang udah beli bilang 'Kualitas barang oke banget'. Bonusnya kadang beda, tapi tasnya tetep aman."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah mengarah ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#cagho",
+    "#tasviral",
+    "#slingbag",
+    "#handbag",
+    "#rekomendasi",
+    "#belanjaviral",
+    "#tastransfer",
+    "#findingid"
+  ],
+  "product_id": 96517,
+  "product_title": "CAGHO ULTRA LEON EXCLUSIVE I Handbag I Slingbag I Clutch Bag I Anti Air I Anti Bara",
+  "product_price": "188576.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/96517.jpg",
+    "/uploads/products/96517_1.jpg",
+    "/uploads/products/96517_2.jpg",
+    "/uploads/products/96517_3.jpg",
+    "/uploads/products/96517_4.jpg",
+    "/uploads/products/96517_5.jpg",
+    "/uploads/products/96517_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/96517",
+  "generated_at": "2026-03-13T18:48:05.247Z"
+}

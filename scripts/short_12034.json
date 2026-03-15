@@ -1,0 +1,79 @@
+{
+  "title": "Beli 1 Dapat 2 Celana Misty Murah Banget!",
+  "hook_text": "Beli 1 Dapat 2 Celana Training?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up celana training yang dipegang, teks besar muncul di tengah layar",
+      "narration": "Beli 1 dapet 2 celana training? Emang ada sih --- jangan kaget, ini beneran, serius!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase celana di atas hanger dan model mengenakannya dengan pose santai",
+      "narration": "Ini celana training misty tebal elastis --- literally super soft dan nggak bikin panas, jadi cocok banget buat aktivitas kamu sehari-hari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek suara 'ching', lalu muncul dua celana",
+      "narration": "Harganya cuma seratus tiga puluh sembilan ribuan --- dapet dua pasang. Which is worth it banget no cap, seriously!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail bahan misty ditarik untuk tunjukkan elastisitas, lalu transisi ke model jalan santai",
+      "narration": "Teksturnya lembut banget, elastis buat gerak bebas tanpa hambatan. --- Desainnya elegan, cocok buat gym atau hangout bareng bestie, which is super stylish. Bahan misty-nya juga tebal."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang olahraga ringan di gym dan jalan-jalan di taman",
+      "narration": "Kalau kamu sering olahraga atau butuh celana nyaman sehari-hari --- ini jawabannya. Perfect buat yang suka model simpel tapi tetap stylish, which is nice."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.8 dan jumlah terjual 40.000 di layar",
+      "narration": "4,8 rating dari 40.000 terjual --- Yang udah beli bilang, 'Sangat nyaman dipakai sehari-hari'. Tapi hati-hati, ada yang bilang ukuran XL agak kekecilan --- jadi mending pilih ukuran lebih besar ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke arah tombol",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie --- review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#celanagym",
+    "#misty",
+    "#beli1dapat2",
+    "#fashionmurah",
+    "#gymwear",
+    "#ootdindo",
+    "#produkviral",
+    "#findingid"
+  ],
+  "product_id": 12034,
+  "product_title": "Beli 1 dapat 2 celana training gym jogging misty tebal elastis",
+  "product_price": "139999.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/12034.jpg",
+    "/uploads/products/12034_1.jpg",
+    "/uploads/products/12034_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/12034",
+  "generated_at": "2026-03-13T18:19:48.508Z"
+}

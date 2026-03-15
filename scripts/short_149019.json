@@ -1,0 +1,84 @@
+{
+  "title": "Speaker Mic Karaoke Mini Bass Gila! 🎤🔥",
+  "hook_text": "Mau duet karaoke bareng bestie?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up dua mikrofon warna pastel dipegang dua orang sambil bernyanyi ke kamera dengan ekspresi senang.",
+      "narration": "Mau duet karaoke bareng bestie tapi mikernya cuma satu? No way bestie, itu bakal bikin salah satu dari kalian jadi penonton! Nih, aku nemu solusi buat kalian yang suka nyanyi bareng!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke produk Zola Speaker Microphone Karaoke Set Mini dengan efek sparkle, tunjukkan fitur bluetooth dan kabel.",
+      "narration": "Ini dia Zola Speaker Microphone Karaoke Set Bluetooth Mini! Full bass, portable, plus bisa pakai dua mikrofon sekaligus buat sesi duet yang perfect. Basically next level buat kalian yang hobi karaoke di rumah atau di cafe!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan animasi 'WOW', tunjukkan produk dari berbagai warna seperti pink, cream, dan hitam.",
+      "narration": "Gila sih harganya cuma seratus empat puluh tiga ribuan sampai dua ratus sembilan puluh sembilan ribuan doang! Padahal kamu dapet speaker, mic, dan kabel charger dalam satu paket. Which is worth it banget buat kualitas suaranya!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan bass yang kuat, kanan tunjukkan warna-warni lucu, bawah tunjukkan ukuran kecil yang mudah dibawa.",
+      "narration": "Pertama, suaranya ngebass banget tapi nggak terlalu treble, jadi bassline lagu kerasa full. Kedua, pilihannya warna-warni super estetik dari pink, cream, hitam, hijau, dan masih banyak lagi, literally so cute! Terakhir, ukurannya mini dan portable, jadi gampang banget dibawa kemana-mana tanpa ribet."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene santai di kamar atau cafe dengan dua orang sedang bernyanyi duet sambil tertawa.",
+      "narration": "Perfect buat yang sering ngumpul bareng temen-temen buat sesi duet. Kalau aktivitas kamu sering bawa-bawa alat karaoke kemana-mana atau mau bikin suasana jadi lebih seru dan estetik di kamar, ini banget yang cocok!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating 4.82/5 dan angka 70.000 terjual, lalu muncul teks kutipan pembeli di layar.",
+      "narration": "Rating empat koma delapan dua dari tujuh puluh ribu produk yang udah terjual. Yang udah beli bilang suaranya ngeBass juga gak terlalu treble dan estetik!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh dengan tulisan finding.id dan panah menunjuk ke bawah, musik beriringan seru.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#KaraokeSet",
+    "#ZolaSpeaker",
+    "#DuetKaraoke",
+    "#SpeakerMini",
+    "#AudioGear",
+    "#GenZKaraoke",
+    "#BassGila",
+    "#FindingId"
+  ],
+  "product_id": 149019,
+  "product_title": "Zola Speaker Microphone Karaoke Set Bluetooth Mini Full bass Portable",
+  "product_price": "143900.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/149019.jpg",
+    "/uploads/products/149019_1.jpg",
+    "/uploads/products/149019_2.jpg",
+    "/uploads/products/149019_3.jpg",
+    "/uploads/products/149019_4.jpg",
+    "/uploads/products/149019_5.jpg",
+    "/uploads/products/149019_6.jpg",
+    "/uploads/products/149019_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/149019",
+  "generated_at": "2026-03-14T10:42:25.175Z"
+}

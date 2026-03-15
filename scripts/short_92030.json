@@ -1,0 +1,83 @@
+{
+  "title": "Tas Selempang Premium Murah Meriah!",
+  "hook_text": "Tas kulit premium cuma 80 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot tas BAELLERRY N8595 dengan pencahayaan dramatis, lalu transisi cepat ke teks overlay besar.",
+      "narration": "Gila sih bestie, kamu yakin tas kulit PU leather premium ini cuma harga 80 ribuan? No cap, ini beneran ada!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Slow motion pamer tekstur kulit tas dan aksen logam yang mengkilap, lalu menunjukkan tas dipakai model berjalan santai.",
+      "narration": "Ini nih dia BAELLERRY N8595 yang lagi viral banget. Bahan kulit PU-nya premium, looknya mewah, which is worth it banget buat nemenin kamu nongkrong atau jalan-jalan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan angka harga besar di layar dengan efek 'shock' atau kilatan cahaya, bandingkan dengan tas mahal lainnya.",
+      "narration": "Bayangin, harganya cuma sekitar seratus ribu an aja! Padahal kalau di mall, tas sekelas ini bisa tembus satu jutaan. Literally, kamu dapet nilai yang next level banget dengan harga yang murah meriah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tangan membuka saku belakang untuk dompet, memasukkan HP, lalu menutup tas dengan rapi.",
+      "narration": "Fiturnya super lengkap bestie. Pertama, desainnya compact tapi muat banget buat HP dan dompet. Kedua, ada saku khusus di belakang buat nyelipin dompet biar nggak licin. Ketiga, tali selempangnya bisa disesuaikan, jadi pas banget dipake di mana aja. Basisnya sih really solid, nggak bakal gampang rusak."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Gadis muda sedang duduk di kafe, lalu adegan berjalan di trotoar sore hari dengan tas tersebut.",
+      "narration": "Tas ini perfect banget buat kamu yang suka nongkrong di kafe atau pergi ke acara kasual. Kalau aktivitas kamu sibuk tapi mau tetap terlihat stylish, ini dia solusinya. Warning: warnanya netral banget, cocok buat outfit apa aja kok!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan bintang rating 4.82 dan angka 20.000 terjual, lalu teks kutipan pembeli muncul di layar.",
+      "narration": "Rating-nya 4,82 bintang dengan 20 ribu produk terjual! Yang udah beli bilang, 'Ga nyangka sebagus ini, ternyata ada dompetnya lagi dibelakang phone bagnya, suka banget!'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tas diputar 360 derajat, lalu muncul logo finding.id dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#BAELLERRY",
+    "#TasMurah",
+    "#TasKulit",
+    "#OOTDIndonesia",
+    "#RekomendasiTas",
+    "#TasSelempang",
+    "#ViralShopping",
+    "#FindItOnFinding"
+  ],
+  "product_id": 92030,
+  "product_title": "BAELLERRY N8595 Tas Selempang Wanita Bahan Kulit PU Leather Premium BAEOS",
+  "product_price": "89918.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/92030.jpg",
+    "/uploads/products/92030_1.jpg",
+    "/uploads/products/92030_2.jpg",
+    "/uploads/products/92030_3.jpg",
+    "/uploads/products/92030_4.jpg",
+    "/uploads/products/92030_5.jpg",
+    "/uploads/products/92030_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/92030",
+  "generated_at": "2026-03-15T13:09:10.824Z"
+}

@@ -1,0 +1,75 @@
+{
+  "title": "TRUEVE Sunscreen 75 Ribu? Worth It Gak?",
+  "hook_text": "Sunscreen murah tapi hasil glowing? Nih jawabannya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah glowing dengan efek cahaya matahari, teks overlay besar muncul.",
+      "narration": "Sunscreen murah tapi hasil glowing? Nih jawabannya, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan kemasan TRUEVE Cerashield di tangan, lalu oleskan sedikit di punggung tangan.",
+      "narration": "TRUEVE Cerashield Hybrid ini, SPF 50 PA++++, aman banget buat bumil busui juga, literally no cap! Skincare-nya ringan banget, gak bikin jerawatan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga Rp 75.000 dengan efek kilat, lalu tunjukkan uang receh atau dompet.",
+      "narration": "Harganya cuma tujuh puluh lima ribuan aja, which is worth it banget buat daily protection kulit kamu setiap hari. Murah tapi kualitas premium."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: botol produk, tekstur cream, wajah setelah pakai, dan ikon SPF 50.",
+      "narration": "Ada Tinosorb dan Centella Asiatica, soothing parah buat kulit sensitif. Teksturnya ringan, gampang meresap, gak bikin wajah oily atau lengket. Melembapkan maksimal setiap hari, literally next level. Bikin kulit glowing alami. Kayak skin tint juga, tidak berbau."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seorang wanita sedang makeup di depan cermin, lalu pakai sunscreen ini sebagai base.",
+      "narration": "Kalau kamu punya kulit sensitif atau sering kena panas, ini cocok banget buat kamu yang butuh skincare ringan. Perfect buat kamu yang sering makeup juga, gak bikin kusam."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.9 dan jumlah penjualan 20.000 dengan grafik naik.",
+      "narration": "Rating 4.9, udah laku dua puluh ribu produk --- Yang udah beli bilang 'worth it banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol CTA mengarah ke finding.id dengan panah animasi dan logo brand.",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie!"
+    }
+  ],
+  "cta": "Penasaran detailnya? Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#TRUEVE",
+    "#SunscreenMurah",
+    "#SkincareKecantikan",
+    "#ReviewProduk",
+    "#BumilBusui",
+    "#MakeupBase",
+    "#GlowingSkin",
+    "#FindingID"
+  ],
+  "product_id": 74567,
+  "product_title": "TRUEVE Cerashield Hybrid Sunscreen - Tone Up Hybrid Sunscreen Bumil Busui Acne - SPF 50 PA++++ (Ceraboost, Tinosorb, Centella Asiatica) Melembapkan Hidrasi Lembap Sunblock Skintint Tinted Sunscreen Cerah Glowing",
+  "product_price": "75000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/74567",
+  "generated_at": "2026-03-13T20:28:54.730Z"
+}

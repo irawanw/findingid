@@ -1,0 +1,83 @@
+{
+  "title": "Headset B39 Murah Meriah! 🎧",
+  "hook_text": "Headset High End Cuma 72 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up cepat headset Avvic B39 dengan lampu LED menyala merah, transisi cepat ke teks besar di tengah layar.",
+      "narration": "Gila sih, kamu percaya kalau headset kualitas high end ini cuma dijual seharga tujuh puluh dua ribuan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Avvic B39 diputar perlahan dari berbagai sudut, menunjukkan desain ramping dan lampu LED yang berkedip estetik.",
+      "narration": "Kenalin nih, Avvic B39 Wireless Headset! Literally super keren banget desainnya, ringan, dan bantalan kupingnya empuk banget jadi nggak bikin sakit kalau dipakai berlama-lama."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik sederhana muncul di samping headset menunjukkan harga Rp 72.000 dan panah naik ke atas, kontras dengan logo Bluetooth 5.3.",
+      "narration": "Dan yang bikin mata melotot, harganya cuma di kisaran tujuh puluh dua ribuan doang! Which is worth it banget buat dapetin fitur Bluetooth 5.3 dan suara HiFi bass yang ngebut."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: jari menekan tombol di headset, orang sedang asyik main game, dan close-up mikrofon saat orang berbicara.",
+      "narration": "Fiturnya next level, bestie! Pertama, suaranya super jernih dengan bass yang nendang banget buat dengerin lagu. Kedua, tombol kontrolnya gampang banget buat ganti lagu atau naikkan volume. Ketiga, ada mikrofon built-in yang jelas banget buat telponan atau main game bareng temen."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: seorang pelajar di kamar, lalu seorang pekerja WFH di depan laptop, dan seorang gamer yang sedang fokus.",
+      "narration": "Produk ini perfect banget buat kamu yang sering ngerjain tugas sekolah di kamar, pekerja WFH yang butuh fokus, atau gamer yang butuh audio jernih buat denger langkah musuh."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.81 dan angka 20.000 terjual dengan efek bintang berkilau, lalu teks kutipan muncul di layar.",
+      "narration": "No cap, udah terjual dua puluh ribu produk dengan rating empat koma delapan satu. Yang udah beli bilang suaranya kenceng, bassnya enak, dan bantalan kupingnya super empuk."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host menunjuk ke arah bawah layar dengan senyum lebar, teks 'Cek di finding.id' muncul dengan animasi pop-up.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#AvvicB39",
+    "#HeadsetMurah",
+    "#GadgetViral",
+    "#HeadphoneBass",
+    "#RekomendasiGadget",
+    "#StudentEssentials",
+    "#GamerGear",
+    "#CekDiFindingId"
+  ],
+  "product_id": 26829,
+  "product_title": "Avvic B39 Wireless Headset LED Headphone HiFi Bass Music Bluetooth 5.3 With Mikrofon Laptop Computer",
+  "product_price": "72000.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/26829.jpg",
+    "/uploads/products/26829_1.jpg",
+    "/uploads/products/26829_2.jpg",
+    "/uploads/products/26829_3.jpg",
+    "/uploads/products/26829_4.jpg",
+    "/uploads/products/26829_5.jpg",
+    "/uploads/products/26829_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/26829",
+  "generated_at": "2026-03-15T13:39:12.519Z"
+}

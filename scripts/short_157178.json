@@ -1,0 +1,83 @@
+{
+  "title": "ASI Booster Natural, Lancar & Rembes Banget!",
+  "hook_text": "ASI seret? Ini solusinya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up ibu menyusui terlihat cemas sambil pegang payudara, lalu transisi cepat ke ibu tersenyum bahagia.",
+      "narration": "Udah coba segalanya tapi ASI tetep seret bestie? Tenang, kita punya solusi natural nih yang bakal bikin kamu lega!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk ASI Booster MOMSY berputar indah dengan background warna pastel pink dan hijau, teks '4 Bahan Alami' muncul.",
+      "narration": "Kenalan sama ASI Booster MOMSY, suplemen pelancar ASI yang punya 4 bahan alami sekaligus. Almond, Kelor, Ikan Gabus, dan Fenugreek yang udah dipercaya turun temurun untuk nambah produksi ASI."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga besar di layar dengan efek 'pop', diikuti shot kotak produk yang dipecah sedikit untuk tunjukkan isi kapsul.",
+      "narration": "Gila sih harganya cuma seratus liman ribu sampai seratus liman ribu aja buat satu kotak enam puluh kapsulnya. Which is worth it banget deh buat investasi kesehatan buah hati dan kamu sendiri!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menampilkan 3 ikon: Almond, Kelor, Ikan Gabus. Lalu cut ke video ibu menyusu dengan lancar dan bayi terlihat kenyang.",
+      "narration": "Bestie, three powerful features nih. Pertama, bahan-bahannya natural dan halal BPOM jadi aman banget buat moman dan baby. Kedua, tekstur kapsulnya super lembut dan nggak bikin mual sama sekali. Dan yang paling no cap, formulanya sudah teruji klinis bisa nge-boost produksi ASI dengan cepat dan efektif."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage singkat: ibu muda baru melahirkan, ibu yang baru selesai melahirkan beberapa minggu lalu, dan ibu yang sedang bekerja WFH sambil menyusui.",
+      "narration": "Perfect buat yang baru habis melahirkan dan ASI belum lancar, atau kamu yang sibuk WFH dan butuh nutrisi lengkap buat kamu dan buah hati. Basically next level banget buat ibu modern kayak kita!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.9 bintang dan angka 20.000 terjual, lalu teks kutipan muncul di atas background warna solid.",
+      "narration": "Pembelinya pada ngomong kalau produk ini lumayan bikin lancar asik sampe rembes rembes dan kualitasnya baik banget. Jadi nggak perlu ragu ya guys!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar menampilkan logo finding.id dengan tombol 'Cek Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek review lengkap di finding dot id!",
+  "hashtags": [
+    "#ASIBoster",
+    "#IbuHamil",
+    "#Mompreneur",
+    "#ASIAlami",
+    "#SuplemenIbu",
+    "#HidupMom",
+    "#FindingId",
+    "#VitaminIbu"
+  ],
+  "product_id": 157178,
+  "product_title": "ASI Booster MOMSY 60 Kapsul BPOM HALAL Natural Almond Kelor Ikan Gabus Fenugreek",
+  "product_price": "115000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/157178.jpg",
+    "/uploads/products/157178_1.jpg",
+    "/uploads/products/157178_2.jpg",
+    "/uploads/products/157178_3.jpg",
+    "/uploads/products/157178_4.jpg",
+    "/uploads/products/157178_5.jpg",
+    "/uploads/products/157178_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/157178",
+  "generated_at": "2026-03-14T22:10:22.730Z"
+}

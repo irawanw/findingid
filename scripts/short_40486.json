@@ -1,0 +1,101 @@
+{
+  "title": "Catokan Murah Tapi Kualitas Dewa?",
+  "hook_text": "Catokan murah tapi kualitas dewa?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Split screen rambut acak-acakan di kiri dan lurus kinclong di kanan dengan efek kilat",
+      "narration": "Catokan murah tapi kualitas dewa? --- Nggak percaya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Close up produk LivChic LS304 3IN1 berputar perlahan di atas meja kayu estetik",
+      "narration": "Nih bestie, kenalin nih LivChic LS304 3IN1 yang lagi viral banget. --- Pemanasan super cepat yang bikin kamu nggak perlu nunggu lama. --- Hasilnya ngebut banget dan bikin rambut sehat banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks harga besar muncul di layar dengan background produk, transisi cepat ke kartu diskon",
+      "narration": "Padahal fiturnya mewah, harganya cuma mulai tiga ratus sembilan ribu rupiah aja. --- Worth it banget kalau dibandingin sama salon."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Demo penggunaan catokan pada rambut, zoom in pada pegangan dan plat catokan",
+      "narration": "Daya enam puluh lima watt bikin kamu nggak nunggu lama. --- Fitur tiga dalam satu ini jadi solusi praktis buat styling rambut kamu di rumah sendiri."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Grafis ikon cepat panas, ikon suhu, ikon kabel, dan ikon sertifikat SIRIM muncul bergantian",
+      "narration": "Pemanasan cuma butuh waktu lima belas detik. --- Ada enam tingkat suhu yang bisa kamu atur sendiri sesuai kebutuhan rambut. --- Kabel dua meter putar tiga ratus enam puluh derajat. --- Sudah bersertifikat SIRIM plus garansi supplier dua belas bulan penuh."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Wanita muda sedang styling rambut di depan cermin dengan senyum puas",
+      "narration": "Perfect buat bestie yang mau gaya salon tapi budget terbatas. --- Kalau kamu sering bikin rambut rusak, ini penyelamat banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Screenshot rating bintang lima dan kutipan review positif muncul dengan animasi teks",
+      "narration": "Ratingnya empat koma sembilan satu dengan empat puluh ribu produk terjual. --- Review bilang, cepat panas saat di gunakan. --- Ada yang bilang lurus banget menurutku hasilnya tahan lama ya."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Semua varian warna produk disusun rapi di atas meja dengan pencahayaan lembut",
+      "narration": "Ada varian Green Plus Tas, Pink, juga Pink Dua. --- Pilih warna favoritmu dong biar makin kece."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Panah menunjuk ke bawah ke arah link produk, tombol subscribe berkedip",
+      "narration": "Klik link di kolom deskripsi sebelum kehabisan stok ya bestie! --- Jangan sampai nyesel nanti."
+    }
+  ],
+  "cta": "Klik link di kolom deskripsi sebelum kehabisan stok ya bestie!",
+  "hashtags": [
+    "#LivChic",
+    "#CatokanViral",
+    "#RambutLurus",
+    "#StylingRambut",
+    "#ProdukMurah",
+    "#ReviewViral",
+    "#GenZIndonesia",
+    "#BeautyHacks"
+  ],
+  "product_id": 40486,
+  "product_title": "LivChic Official LS304 3IN1 Catokan Rambut 65W daya 2 meter 360° Sudut belok jauh 3IN1",
+  "product_price": "309000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/40486.jpg",
+    "/uploads/products/40486_1.jpg",
+    "/uploads/products/40486_2.jpg",
+    "/uploads/products/40486_3.jpg",
+    "/uploads/products/40486_4.jpg",
+    "/uploads/products/40486_5.jpg",
+    "/uploads/products/40486_6.jpg",
+    "/uploads/products/40486_7.jpg",
+    "/uploads/products/40486_8.jpg",
+    "/uploads/products/40486_9.jpg",
+    "/uploads/products/40486_10.jpg"
+  ],
+  "product_link": "https://finding.id/p/40486",
+  "generated_at": "2026-03-12T16:46:17.205Z"
+}

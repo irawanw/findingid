@@ -1,0 +1,77 @@
+{
+  "title": "Tensimeter OMRON HEM 7121J Murah Banget",
+  "hook_text": "Darah Tinggi? Jangan Diabaikan!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah presenter dengan ekspresi serius tapi ramah sambil menunjuk ke arah kamera",
+      "narration": "Kesehatan jantung itu nggak bisa ditunggu-tunggu bestie, seriously banget kita harus peduli, jangan sampai telat!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk OMRON HEM 7121J ditampilkan dengan pencahayaan cinematic dan efek smoke",
+      "narration": "Kenalin nih, OMRON HEM 7121J, tensimeter digital yang validasi klinisnya super akurat banget buat ketenangan pikiran kalian semua, sehat itu mahal."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan animasi uang terbang masuk ke dompet",
+      "narration": "Harganya cuma tiga ratus sembilan puluh ribuan. Literally murah banget dibanding beli obat rutin tiap bulan. --- Ini investasi kesehatan jangka panjang. --- Jangan ditunda lagi."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat fitur: garansi, mesin halus, desain ramping, dan pengujian tekanan darah",
+      "narration": "Garansi internasional lima tahun, mesinnya halus, dan desainnya ramping. Basically next level buat monitoring harian di rumah. Build qualitynya solid, nggak gampang rusak. Data akurat banget tiap kali diukur. --- No cap, ini investasi kesehatan. --- Gak nyesel."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Suasana keluarga di ruang tamu dengan orang tua yang sedang memeriksa tensi",
+      "narration": "Perfect buat kamu yang sering pusing kepala, atau keluarga yang mau rawatin orang tua di rumah. --- Kesehatan jadi prioritas utama buat semua. --- Jangan tunggu sakit dulu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 5 dan jumlah penjualan 30.000+ dengan teks overlay besar",
+      "narration": "Udah terjual 30.000 unit dengan rating 4.94. --- Yang udah beli bilang, 'Ada harga ada quality, worth it banget buat jangka panjang.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di layar dengan panah mengarah ke tombol beli",
+      "narration": "Pengen cek stok tersedia? Langsung search di finding dot id ya bestie!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#OMRON",
+    "#TensimeterDigital",
+    "#KesehatanJantung",
+    "#TipsSehat",
+    "#RekomendasiProduk",
+    "#LifeHackSehat",
+    "#OmronIndonesia",
+    "#FindingID"
+  ],
+  "product_id": 22157,
+  "product_title": "OMRON Blood Pressure Monitor HEM 7121J Tensimeter Digital",
+  "product_price": "394000.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/22157.jpg"
+  ],
+  "product_link": "https://finding.id/p/22157",
+  "generated_at": "2026-03-13T16:27:02.395Z"
+}

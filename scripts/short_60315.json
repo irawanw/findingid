@@ -1,0 +1,83 @@
+{
+  "title": "Celana GLG Viral Harga Gila?",
+  "hook_text": "Celana Ini Harganya Gila!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up celana + teks overlay harga misterius",
+      "narration": "Kira-kira harga celana sekeren ini berapa ya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilkan outfit lengkap celana GLG dengan gerakan santai",
+      "narration": "Ini dia GLG Casual Cotton Twill. Bahannya stretch, nggak bikin gerak terbatas."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Pop-up harga besar dengan efek kaget",
+      "narration": "Nah yang bikin kaget, harganya cuma seratus dua puluhan ribu aja! Which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Zoom in tekstur kain, saku, dan detail jahitan",
+      "narration": "Bahan nyaman banget di kulit. --- Desain unisex, literally bisa dipake cewek cowok. --- Warnanya solid, nggak gampang luntur. No cap, kualitas premium."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model berjalan santai dan duduk di cafe",
+      "narration": "Perfect buat kamu yang sering keluar kota atau cuma mau nongkrong santai. --- Ukuran pas banget, jadi nggak perlu khawatir kekecilan. Kalau kamu butuh celana simpel tapi tetep stylish, ini solusinya banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang dan counter terjual 50.000",
+      "narration": "Sudah terjual 50.000 produk dengan rating 4.89. --- Yang udah beli bilang, 'Kwalitas produk sangat bagus, mantap dan josss'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id + panah ke arah kanan bawah",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#GLGCasual",
+    "#CelanaViral",
+    "#FashionIndonesia",
+    "#OOTDIndonesia",
+    "#CelanaUnisex",
+    "#RekomendasiPakaian",
+    "#CottonTwill",
+    "#FindingID"
+  ],
+  "product_id": 60315,
+  "product_title": "GLG Casual - Long Pants Cotton Twill Stretched Unisex",
+  "product_price": "121800.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/60315.jpg",
+    "/uploads/products/60315_1.jpg",
+    "/uploads/products/60315_2.jpg",
+    "/uploads/products/60315_3.jpg",
+    "/uploads/products/60315_4.jpg",
+    "/uploads/products/60315_5.jpg",
+    "/uploads/products/60315_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/60315",
+  "generated_at": "2026-03-13T18:59:14.072Z"
+}

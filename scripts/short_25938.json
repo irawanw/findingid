@@ -1,0 +1,96 @@
+{
+  "title": "Handuk Bambu Ini Bikin Kulit Bayi Keren Banget! 🌿✨",
+  "hook_text": "Stop! Handuk ini nggak biasa!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up handuk Little Palmerhaus bamboo yang sedang menyerap air dengan cepat, transisi cepat ke wajah bayi yang segar.",
+      "narration": "Stop scrolling! Handuk ini nggak biasa, bestie. Rasanya kayak dipeluk awan lembut banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage berbagai warna handuk: Dusty Pink, Sage Green, Tiramisu, Matcha Latte, Sorbet, dan Creme Brulee dengan text overlay 'Bahan Bambu & Katun'.",
+      "narration": "Ini Little Palmerhaus Bamboo Towel, gabungan bahan bambu dan katun. Hasilnya? Literally next level lembut dan nggak bikin kulit iritasi sama sekali."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 69.000 hingga Rp 150.000 dengan efek sticker 'HARGA KEREN' dan ikon hati bertumpuk-tumpuk.",
+      "narration": "Harganya cuma enam puluhan ribu sampai seratus lima puluhan ribu untuk kualitas ini? Which is worth it banget, nggak main-main!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Handuk menyerap air dalam hitungan detik, 2. Zoom in tekstur serat yang halus, 3. Ikon durasi pakai bertahun-tahun.",
+      "narration": "Pertama, daya serapnya super tinggi, jauh lebih cepet dari handuk kapas biasa. Kedua, teksturnya super halus, aman buat newborn sekalipun. Ketiga, bahannya tahan lama, nggak gampang lapuk dan cepat kering setelah dipakai."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Bayi baru lahir mandi, lalu ibu membereskan air dengan handuk ini dengan senyum puas.",
+      "narration": "Perfect buat yang lagi punya bayi baru lahir atau anak kecil yang kulitnya sensitif. Kalau aktivitas kamu sering ganti baju karena keringetan, ini solusi terbaik!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.87 bintang dan angka 20.000 terjual, plus teks kutipan ulasan positif muncul.",
+      "narration": "Rating empat koma delapan tujuh dari dua puluh ribu produk yang udah terjual. Yang udah beli bilang dayanya serap tinggi dan cocok banget buat newborn size."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id besar dengan tombol panah menuju link, background warna-warni cerah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#HandukBambu",
+    "#LittlePalmerhaus",
+    "#ParentingHacks",
+    "#BabyCare",
+    "#SkincareAnak",
+    "#WorthIt",
+    "#Kekinian",
+    "#ViralShopee"
+  ],
+  "product_id": 25938,
+  "product_title": "Handuk Little Palmerhaus Bamboo Towel dengan bahan Cotton Bamboo Handuk Bayi Anak Terry Palmer",
+  "product_price": "73000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/25938.jpg",
+    "/uploads/products/25938_1.jpg",
+    "/uploads/products/25938_2.jpg",
+    "/uploads/products/25938_3.jpg",
+    "/uploads/products/25938_4.jpg",
+    "/uploads/products/25938_5.jpg",
+    "/uploads/products/25938_6.jpg",
+    "/uploads/products/25938_7.jpg",
+    "/uploads/products/25938_8.jpg",
+    "/uploads/products/25938_9.jpg",
+    "/uploads/products/25938_10.jpg",
+    "/uploads/products/25938_11.jpg",
+    "/uploads/products/25938_12.jpg",
+    "/uploads/products/25938_13.jpg",
+    "/uploads/products/25938_14.jpg",
+    "/uploads/products/25938_15.jpg",
+    "/uploads/products/25938_16.jpg",
+    "/uploads/products/25938_17.jpg",
+    "/uploads/products/25938_18.jpg",
+    "/uploads/products/25938_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/25938",
+  "generated_at": "2026-03-15T10:54:23.733Z"
+}

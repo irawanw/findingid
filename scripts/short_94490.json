@@ -1,0 +1,83 @@
+{
+  "title": "Korset Pasca Melahirkan Bestie! Worth It Banget",
+  "hook_text": "BB 70kg masih hamil?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah ibu hamil tersenyum sambil memegang perut besar dengan teks overlay besar",
+      "narration": "BB 70kg masih hamil? Tenang bestie, kamu nggak perlu nunggu melahirkan dulu buat mulai shaping badan!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan korset Stagen 3 in 1 yang elegan di atas latar belakang bersih",
+      "narration": "Perkenalkan korset gurita postpartum Stagen tiga in satu ini, basically next level buat ibu baru lahir yang pengen segera kembali prima lagi."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga besar dengan efek stiker diskon, lalu transisi ke tumpukan korset berwarna hitam dan krem",
+      "narration": "Gila sih harganya cuma sembilan puluh delapan ribuan sampe seratus delapan puluhan ribu doang, which is worth it banget buat investasi kesehatan dan body shape kamu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail tekstur bahan, lalu shot model memakai korset yang menyesuaikan bentuk tubuh secara alami",
+      "narration": "Pertama, bahannya super lembut dan breathable, jadi nggak bikin kulit panas atau iritasi sama sekali. Kedua, fitur tiga in satu ini bisa dipakai mulai hamil, nunggu melahirkan, sampe pasca melahirkan, literally so cute dan praktis. Ketiga, support punggungnya kuat banget, jadi kalau kamu sering berdiri lama atau ngurusi bayi seharian, punggung nggak akan sakit lagi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat ibu muda sedang menyusui sambil memakai korset, terlihat nyaman dan percaya diri",
+      "narration": "Perfect buat yang baru melahirkan dan pengen cepat kembali ke bentuk semula, atau kamu yang masih hamil tapi mau mulai shaping tubuh biar nggak berat banget pas nanti nanti."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating bintang 4.86 dan angka 20.000 terjual dengan efek confetti warna-warni",
+      "narration": "Rating empat koma delapan enam dari dua puluh ribu produk yang udah dibeli bilang bahannya rapi dan sesuai pesanan, jadi nggak perlu ragu lagi ya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol besar bertuliskan finding.id dengan animasi kursor klik, latar belakang cerah",
+      "narration": "Penasaran sama stok dan detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#KorsetPascaMelahirkan",
+    "#IbuHamil",
+    "#ShapingBody",
+    "#Stagen3in1",
+    "#PostPartum",
+    "#WorthItBanget",
+    "#FindingId",
+    "#IbuBaruLahir"
+  ],
+  "product_id": 94490,
+  "product_title": "Korset Gurita PostPartum Stagen 3 in 1 Korset Melahirkan",
+  "product_price": "98499.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/94490.jpg",
+    "/uploads/products/94490_1.jpg",
+    "/uploads/products/94490_2.jpg",
+    "/uploads/products/94490_3.jpg",
+    "/uploads/products/94490_4.jpg",
+    "/uploads/products/94490_5.jpg",
+    "/uploads/products/94490_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/94490",
+  "generated_at": "2026-03-14T16:09:42.377Z"
+}

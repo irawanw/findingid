@@ -1,0 +1,87 @@
+{
+  "title": "Deodoran Anti Keringat 48 Jam! Harga 80rban aja",
+  "hook_text": "Ketiak lembap bikin nge-panic? Stop scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah cemas memegang ketiak dengan efek visual keringat berlebihan, lalu transisi cepat ke jari menunjuk kamera.",
+      "narration": "Ketiak lembap bikin nge-panic tiap hari? --- Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Grace and Glow ditampilkan di atas meja dengan pencahayaan cinematic, tangan membuka tutup roll on dengan slow motion.",
+      "narration": "Kenalin nih Grace and Glow antiperspirant yang bikin ketiak dry seketika dan bebas noda baju. No cap, ini next level!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek uang koin atau diskon, tangan memegang dompet dengan ekspresi kaget senang.",
+      "narration": "Padahal efeknya super kuat, harganya cuma delapan puluhan ribuan aja."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase aplikasi produk ke ketiak (tanpa wajah), menunjukkan tekstur cair, lalu efek wangi terbang atau bunga-bunga kecil.",
+      "narration": "Nggak lengket, nggak bikin belang --- wanginya mewah tahan sampai empat puluh delapan jam. Literally worth it banget buat kamu yang anti ribet."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang bekerja di kantor lalu packing tas untuk travel, menunjukkan ukuran kecil produk masuk ke tas kecil.",
+      "narration": "Perfect buat kamu yang kerja kantoran atau sering travel --- Keringat berlebih jadi no worry, kulit tetap adem dan fresh sepanjang hari."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.88 dan angka 40.000 terjual, diikuti screenshot chat atau teks testimoni positif.",
+      "narration": "Sudah laku empat puluh ribu produk dengan rating hampir lima bintang. Yang udah beli bilang sudah pakai dari akhir dua ribu dua puluh dua dan awalnya coba yang warna ungu lah kok cocok."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id besar di layar dengan panah menunjuk ke arah tombol atau area link, background produk blur.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#deodoran",
+    "#graceandglow",
+    "#antiwbah",
+    "#hidrosis",
+    "#skincareindonesia",
+    "#findid",
+    "#shorts",
+    "#viral"
+  ],
+  "product_id": 41762,
+  "product_title": "Grace and Glow Deodorant Antiperspirant Invisible Smooth Roll On 20 ml | Deodoran Anti Bau Badan Body Odor - Deo Ampuh Mengurangi Keringat Berlebih (Hyperhidrosis) Pada Ketiak Hingga 48 Jam - Anti Perspirant Ketiak Kering Wangi Fresh",
+  "product_price": "80900.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/41762.jpg",
+    "/uploads/products/41762_1.jpg",
+    "/uploads/products/41762_2.jpg",
+    "/uploads/products/41762_3.jpg",
+    "/uploads/products/41762_4.jpg",
+    "/uploads/products/41762_5.jpg",
+    "/uploads/products/41762_6.jpg",
+    "/uploads/products/41762_7.jpg",
+    "/uploads/products/41762_8.jpg",
+    "/uploads/products/41762_9.jpg",
+    "/uploads/products/41762_10.jpg"
+  ],
+  "product_link": "https://finding.id/p/41762",
+  "generated_at": "2026-03-13T20:55:44.737Z"
+}

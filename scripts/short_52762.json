@@ -1,0 +1,78 @@
+{
+  "title": "Coklat Almond d' KING Viral? 😱",
+  "hook_text": "Gak percaya harga semurah ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up produk coklat dengan efek zoom cepat dan text overlay besar",
+      "narration": "nggak percaya harga semurah ini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dibuka, tunjukkan isi 4 toples di atas meja",
+      "narration": "Ini Coklat Almond d' KING, satu dus isinya empat toples. --- Literally stok melimpah buat kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan teks harga coret dan harga baru dengan efek kilat",
+      "narration": "Dulu sembilan puluh ribuan, sekarang turun jadi tujuh puluhan ribu. --- Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase orang makan coklat, close up tekstur almond dan coklat",
+      "narration": "Rasanya enak banget, no cap. --- Banyak yang bilang ini bisa jadi peluang cuan buat dijual lagi. --- Almondnya banyak, though ada yang bilang ukurannya lebih kecil sekarang, tapi tetep legit! --- nggak perlu ragu karena rasa premium. Plus, teksturnya creamy banget dan next level."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Tunjukkan orang sedang ngemil sambil kerja atau nonton",
+      "narration": "Perfect buat kamu yang suka ngemil manis atau pengen cari tambahan income dari jualan snack ringan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating 4.8 dan angka 30.000 terjual dengan animasi",
+      "narration": "Ratingnya 4,8 bintang, udah terjual 30.000 produk. --- Yang udah beli bilang, \"Coklatnya buat di jual jual lagi Alhamdulillah ya Allah laku banget.\""
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan logo finding.id dengan panah mengarah ke tombol",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#CoklatAlmond",
+    "#SnackViral",
+    "#CuanDariRumah",
+    "#MakananEnak",
+    "#ViralTiktok",
+    "#RekomendasiSnack",
+    "#CoklatEnak",
+    "#FindingID"
+  ],
+  "product_id": 52762,
+  "product_title": "1 Dus (Isi 4 Toples) Coklat Almond d' KING",
+  "product_price": "90000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/52762.jpg",
+    "/uploads/products/52762_1.jpg"
+  ],
+  "product_link": "https://finding.id/p/52762",
+  "generated_at": "2026-03-13T20:19:28.841Z"
+}

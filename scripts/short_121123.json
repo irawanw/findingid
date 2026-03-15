@@ -1,0 +1,83 @@
+{
+  "title": "Masker Wajah Murah Makmur? Cek Bioaqua!",
+  "hook_text": "Wajah glowing tanpa modal mahal?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah terlihat kusam lalu transisi cepat ke wajah glowing dengan efek cahaya neon, teks besar muncul: 'STOP SCROLL IF SKIN CARE ON A BUDGET' atau 'STOP SCROLL IF SKIN CARE ON A BUDGET'.",
+      "narration": "Stop scroll kalau kamu lagi cari skincare yang nggak bikin kantong jebol tapi hasilnya mantap banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan memegang paket BIOAQUA Fruit Sheet Mask Mix 24pcs atau 48pcs, zoom in ke tekstur lembaran maskernya yang jernih dan buah-buahan di dalamnya.",
+      "narration": "Kenalan dulu sama BIOAQUA Fruit Sheet Mask Mix, varian lengkapnya ada dua puluh empat atau empat puluh delapan lembar, ini basically next level buat all skin types, dari yang acne care sampe butuh brightening."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 55.900 muncul di layar dengan efek getar, lalu muncul teks 'Murah Banget!' dan ikon hati yang membesar.",
+      "narration": "Nah harga yang paling bikin kaget, cuma lima puluh lima ribuan, which is worth it banget dong? Gila sih, dapet segitu banyak dengan harga segitu, literally so cheap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Orang memijat wajah saat pakai masker. 2. Close up pori-pori yang terlihat mengecil. 3. Wajah terlihat lembab dan sehat.",
+      "narration": "Keunggulannya tiga, pertama bantu perbaiki skin barrier biar wajah nggak gampang merah, kedua mengecilkan pori-pori secara efektif, dan ketiga hydrating plus mencerahkan wajah kusam, jadi kulit jadi smooth dan glowing."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ilustrasi anak kosan atau mahasiswa yang lagi sibuk kerja atau sekolah, lalu berhenti sebentar untuk apply masker wajah sambil senyum.",
+      "narration": "Perfect buat kamu yang aktivitasnya padat, nggak sempat skincare panjang, atau kalau kamu sering begadang tapi masih pengen tampil fresh dan siap menghadapi hari."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.89 bintang dan angka 100.000+ terjual dengan latar belakang ramai orang senang, muncul bubble chat: 'Mencerahkan dan menghidrasi'.",
+      "narration": "Buktinya nggak main-main, rating empat koma delapan sembilan dari seratus ribu produk yang udah laku keras, dan yang udah beli bilang mencerahkan dan menghidrasi banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh dengan tulisan besar 'CEK DI FINDING DOT ID' dengan panah menunjuk ke bawah, latar belakang warna cerah dan ceria.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#Bioaqua",
+    "#MaskerMurah",
+    "#SkincareIndonesia",
+    "#GlowUp",
+    "#SkinCareHacks",
+    "#BudgetFriendly",
+    "#WajahGlowing",
+    "#KecantikanMurah"
+  ],
+  "product_id": 121123,
+  "product_title": "BIOAQUA Fruit Sheet Mask Masker Wajah Mix 24pcs / 48pcs SheetMask Face Mask Masker Muka Untuk All Skin Types Brightening Glowing Masker Muka / Acne Care / Skin Barrier /Mengecilkan Pori-Pori",
+  "product_price": "55900.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/121123.jpg",
+    "/uploads/products/121123_1.jpg",
+    "/uploads/products/121123_2.jpg",
+    "/uploads/products/121123_3.jpg",
+    "/uploads/products/121123_4.jpg",
+    "/uploads/products/121123_5.jpg",
+    "/uploads/products/121123_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/121123",
+  "generated_at": "2026-03-14T04:13:21.350Z"
+}

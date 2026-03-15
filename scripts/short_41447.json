@@ -1,0 +1,83 @@
+{
+  "title": "Tas Mewah Harga Kaki Lima? MOSSDOOM Hellena Bag!",
+  "hook_text": "Gak percaya harganya cuma segini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas MOSSDOOM Hellena Bag dengan pencahayaan cinematic, lalu zoom out ke presenter.",
+      "narration": "Gak percaya tas sekeren ini harganya cuma...? --- MOSSDOOM Hellena Bag."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "B-roll tangan memegang tas, menunjukkan tekstur kulit PU dari berbagai angle.",
+      "narration": "Bahan kulit PU yang tebal, halus, dan tahan lama banget buat harian. --- Ini dia solusi buat kamu yang cari tas elegan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay besar muncul menampilkan harga, lalu transisi cepat ke tas yang digantung.",
+      "narration": "Harganya cuma dua ratus sembilan belas ribuan aja. --- Which is basically next level kalau dibandingin sama kualitasnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Show interior tas: buka saku ritsleting, tunjukkan kapasitas barang, close-up logo.",
+      "narration": "Fiturnya gila, bestie. --- Ada saku ritsleting ganda buat amanin HP. --- Desainnya simpel, tapi bikin kelihatan mewah dan elegan. --- No cap, bahannya kerasa premium."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model wanita memakai tas saat jalan santai atau di acara kondangan (simulasi).",
+      "narration": "Cocok banget buat kamu yang sering kondangan atau main ke cafe. --- Gak perlu pusing mikirin budget, tetep style."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.9 dan counter 40k terjual, lalu text quote pembeli.",
+      "narration": "Rating empat koma sembilan nol dari empat puluh ribu terjual. --- Yang udah beli bilang simpel dan cakep banget buat kondangan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah teks 'finding dot id', lalu logo brand.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#MOSSDOOM",
+    "#TasWanita",
+    "#HellenaBag",
+    "#TasKondangan",
+    "#OOTDIndonesia",
+    "#RekomendasiTas",
+    "#BudgetTetapHemat",
+    "#ViralShopping"
+  ],
+  "product_id": 41447,
+  "product_title": "MOSSDOOM Tas Sling Bag Wanita Hellena Bag Tas Bahu Tas Underarm Bag Shoulder Bag",
+  "product_price": "219000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/41447.jpg",
+    "/uploads/products/41447_1.jpg",
+    "/uploads/products/41447_2.jpg",
+    "/uploads/products/41447_3.jpg",
+    "/uploads/products/41447_4.jpg",
+    "/uploads/products/41447_5.jpg",
+    "/uploads/products/41447_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/41447",
+  "generated_at": "2026-03-13T17:01:09.510Z"
+}

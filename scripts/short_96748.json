@@ -1,0 +1,91 @@
+{
+  "title": "Rambut Keriting Cuma 100 Ribu? Bestie",
+  "hook_text": "Rambut keriting salon tanpa ribet?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up rambut lurus yang ingin dikeritingkan dengan ekspresi bingung.",
+      "narration": "Rambut keriting salon tanpa ribet?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing produk MANGOMAN dengan pencahayaan cinematik yang estetik.",
+      "narration": "Kenalin nih MANGOMAN Hair Curly Styler 28mm, pengeriting rambut otomatis yang lagi viral banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga di layar dengan efek uang dan teks besar.",
+      "narration": "Harganya cuma seratus ribuan doang, which is literally worth it banget buat budget pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo penggunaan catokan curling otomatis pada rambut dengan efek kilau.",
+      "narration": "Motor Jepang aman, nggak ada sengatan listrik --- Fitur ion negatif bikin rambut halus dan berkilau. Kabel putar 360 derajat juga ada. Jadi pengeritingan otomatis cuma sekitar 30 detik per helai."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita cantik sedang siap-siap di depan cermin dengan hasil rambut rapi.",
+      "narration": "Perfect buat kamu yang sibuk pagi hari tapi pengen gaya rambut ala salon di rumah --- Nggak perlu skill khusus, tinggal tekan tombol doang."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan jumlah terjual di layar.",
+      "narration": "Rating 4.73 bintang plus udah terjual 40.000 produk. Yang udah beli bilang 'Sangat mudah untuk pemakaian curly rambut aku'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan tombol klik animasi.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#catokancurly",
+    "#haircurler",
+    "#gayaasalons",
+    "#produkviral",
+    "#beautyindonesia",
+    "#tipsrambut",
+    "#stylingrambut",
+    "#findingid"
+  ],
+  "product_id": 96748,
+  "product_title": "MANGOMAN Hair Curly Styler 28mm Catokan Curly Otomatis Ion Negatif Ceramics Curly Catokan Keriting Keramik Otomatis Libra Catokan Curly Otomatis Catokan Keriting Rambut Otomatis Ceramics Curly Libra Hair Curly Styler 28mm",
+  "product_price": "109000.00",
+  "product_rating": "4.73",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/96748.jpg",
+    "/uploads/products/96748_1.jpg",
+    "/uploads/products/96748_2.jpg",
+    "/uploads/products/96748_3.jpg",
+    "/uploads/products/96748_4.jpg",
+    "/uploads/products/96748_5.jpg",
+    "/uploads/products/96748_6.jpg",
+    "/uploads/products/96748_7.jpg",
+    "/uploads/products/96748_8.jpg",
+    "/uploads/products/96748_9.jpg",
+    "/uploads/products/96748_10.jpg",
+    "/uploads/products/96748_11.jpg",
+    "/uploads/products/96748_12.jpg",
+    "/uploads/products/96748_13.jpg",
+    "/uploads/products/96748_14.jpg"
+  ],
+  "product_link": "https://finding.id/p/96748",
+  "generated_at": "2026-03-13T19:35:40.011Z"
+}

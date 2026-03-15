@@ -1,0 +1,96 @@
+{
+  "title": "Set Jeans Kulot Viral Harga 90 Ribuan!",
+  "hook_text": "Set Jeans Kulot Cuma Seratus Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up cepat model memutar badan pakai setelan jeans kulot hitam dengan transisi cepat, teks besar muncul di tengah.",
+      "narration": "Gila sih, setelan jeans kulot kekinian ini harganya cuma seratus ribuan doang bestie? No cap, ini literally worth it banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot medium showing the full outfit (top and pants) with a zoom in on the fabric texture and stitching details.",
+      "narration": "Kenalin, ini Oneset Jeans Kulot wanita! Gabungan atasan combed mix jeans yang adem sama celana cargo yang super chic. Jahitannya rapi banget, bahan jeansnya nggak kaku sama sekali."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen showing price tags popping up (90k to 180k) next to a happy model holding the product.",
+      "narration": "Nih, harga aslinya bisa mulai dari sembilan puluh ribuan sampe seratus delapan puluh ribuan aja, tergantung warnanya. Bayangin dapet kualitas premium dengan harga segini, which is totally next level!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage of specific features: close up of waistband stretching, fabric softness touch, and side cargo pockets.",
+      "narration": "Fiturnya apa aja? Pertama, bahannya combed mix jeans yang super lembut dan nggak bikin gerah. Kedua, pinggang celananya full karet yang sangat fleksibel, jadi pas banget di mana aja. Ketiga, desain cargo-nya bikin tampilan kamu jadi lebih kece dan modern."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model walking confidently, then pointing to size chart overlay or gesturing to body shape.",
+      "narration": "Perfect buat kamu yang sering aktif jalan-jalan atau sekadar nongkrong santai. Kalau berat badan kamu di atas enam puluh kilo, mending ambil ukuran XXL biar pas dan nggak kekecilan, ya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rapid fire positive comments popping up on screen with 4.81 stars and 20k sales counter animation.",
+      "narration": "Dihitung ada dua puluh ribu produk terjual dengan rating empat koma delapan satu. Yang udah beli bilang, bahan adem, nyaman dipakai, dan sesuai ekspektasi banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Model smiling and pointing down, text overlay 'Cek di finding.id' appears with arrow.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#OnesetJeans",
+    "#SetWanita",
+    "#JeansKulot",
+    "#OotdViral",
+    "#BelanjaMurah",
+    "#FashionIndonesia",
+    "#OOTDGenZ",
+    "#FindingID"
+  ],
+  "product_id": 115559,
+  "product_title": "Oneset Jeans kulot wanita, Setelan Celana Wanita, Atasan Combed 24s Bordil, Celana Kulot Cargo, Setelan Celana Wanita Kekinian",
+  "product_price": "90000.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/115559.jpg",
+    "/uploads/products/115559_1.jpg",
+    "/uploads/products/115559_2.jpg",
+    "/uploads/products/115559_3.jpg",
+    "/uploads/products/115559_4.jpg",
+    "/uploads/products/115559_5.jpg",
+    "/uploads/products/115559_6.jpg",
+    "/uploads/products/115559_7.jpg",
+    "/uploads/products/115559_8.jpg",
+    "/uploads/products/115559_9.jpg",
+    "/uploads/products/115559_10.jpg",
+    "/uploads/products/115559_11.jpg",
+    "/uploads/products/115559_12.jpg",
+    "/uploads/products/115559_13.jpg",
+    "/uploads/products/115559_14.jpg",
+    "/uploads/products/115559_15.jpg",
+    "/uploads/products/115559_16.jpg",
+    "/uploads/products/115559_17.jpg",
+    "/uploads/products/115559_18.jpg",
+    "/uploads/products/115559_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/115559",
+  "generated_at": "2026-03-15T14:10:27.366Z"
+}

@@ -1,0 +1,1036 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>finding.id — Short Video Jobs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Syne:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0f0a06;--bg-1:#1a1009;--bg-2:#231508;
+  --side:#130c05;--side-line:#2e1d0e;
+  --panel:#1e1208;--panel-2:#261708;
+  --line:#3a2210;--line-2:#4a2e16;
+  --ink:#f5e6d3;--ink-2:#c4956a;--ink-3:#8a5f3c;--ink-4:#5a3a1e;
+  --accent:#f97316;--accent-h:#fb923c;--accent-d:#c2410c;--accent-glow:rgba(249,115,22,.18);
+  --ok:#4ade80;--ok-bg:rgba(74,222,128,.10);--ok-line:rgba(74,222,128,.25);
+  --err:#f87171;--err-bg:rgba(248,113,113,.10);--err-line:rgba(248,113,113,.25);
+  --warn:#fbbf24;--warn-bg:rgba(251,191,36,.10);--warn-line:rgba(251,191,36,.25);
+  --info:#38bdf8;--info-bg:rgba(56,189,248,.10);--info-line:rgba(56,189,248,.25);
+  --purple:#a78bfa;--purple-bg:rgba(167,139,250,.10);--purple-line:rgba(167,139,250,.25);
+  --r:12px;--r-sm:8px;
+  --font:'JetBrains Mono','Courier New',monospace;
+  --font-d:'Syne',var(--font);
+  --sidebar-w:220px;--header-h:54px;--transition:.16s ease;
+}
+html,body{height:100%}
+body{font-family:var(--font);background:var(--bg);color:var(--ink);overflow-x:hidden;display:flex}
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--line-2);border-radius:99px}
+
+/* ── Sidebar ─────────────────────────────────────────────────── */
+.sidebar{width:var(--sidebar-w);min-width:var(--sidebar-w);height:100vh;position:sticky;top:0;background:var(--side);border-right:1px solid var(--side-line);display:flex;flex-direction:column;overflow:hidden}
+.sidebar-head{padding:18px 16px 14px;border-bottom:1px solid var(--side-line)}
+.brand{font-family:var(--font-d);font-size:19px;font-weight:800;letter-spacing:-.03em}
+.brand span{color:var(--accent)}
+.brand-sub{font-size:9px;color:var(--ink-4);letter-spacing:.12em;text-transform:uppercase;margin-top:3px}
+.sidebar-nav{flex:1;overflow-y:auto;padding:10px 8px}
+.nav-section{font-size:9px;color:var(--ink-4);letter-spacing:.12em;text-transform:uppercase;padding:14px 8px 6px}
+.nav-item{display:flex;align-items:center;gap:10px;padding:9px 10px;border-radius:var(--r-sm);color:var(--ink-3);text-decoration:none;font-size:12px;font-weight:500;transition:background var(--transition),color var(--transition);cursor:pointer}
+.nav-item:hover{background:var(--panel);color:var(--ink-2)}
+.nav-item.active{background:var(--accent-glow);color:var(--accent)}
+.nav-item .icon{width:15px;height:15px;flex-shrink:0;opacity:.6}
+.nav-item.active .icon{opacity:1}
+.sidebar-foot{padding:12px 8px;border-top:1px solid var(--side-line)}
+.user-chip{display:flex;align-items:center;gap:10px;padding:8px 10px;border-radius:var(--r-sm);background:var(--panel)}
+.user-avatar{width:26px;height:26px;border-radius:50%;background:linear-gradient(135deg,var(--accent),var(--accent-d));display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;color:#fff;flex-shrink:0}
+.user-name{font-size:11px;font-weight:600}
+.user-role{font-size:9px;color:var(--ink-4)}
+
+/* ── Main area ────────────────────────────────────────────────── */
+.main-area{flex:1;display:flex;flex-direction:column;min-width:0;overflow:hidden}
+.topbar{height:var(--header-h);border-bottom:1px solid var(--line);display:flex;align-items:center;padding:0 24px;gap:16px;flex-shrink:0;background:var(--bg)}
+.topbar-title{font-family:var(--font-d);font-size:15px;font-weight:700;flex:1}
+.topbar-right{display:flex;align-items:center;gap:10px}
+.content{flex:1;overflow-y:auto;padding:24px}
+
+/* ── Buttons ─────────────────────────────────────────────────── */
+.btn{display:inline-flex;align-items:center;gap:7px;padding:8px 16px;border-radius:var(--r-sm);border:none;font:inherit;font-size:12px;font-weight:600;cursor:pointer;transition:all var(--transition);letter-spacing:.03em;white-space:nowrap}
+.btn-primary{background:linear-gradient(135deg,var(--accent),var(--accent-d));color:#fff;box-shadow:0 4px 16px rgba(249,115,22,.25)}
+.btn-primary:hover{opacity:.9;transform:translateY(-1px);box-shadow:0 6px 20px rgba(249,115,22,.35)}
+.btn-ghost{background:var(--panel);color:var(--ink-2);border:1px solid var(--line)}
+.btn-ghost:hover{border-color:var(--line-2);color:var(--ink);background:var(--panel-2)}
+.btn-ok{background:var(--ok-bg);color:var(--ok);border:1px solid var(--ok-line)}
+.btn-ok:hover{background:rgba(74,222,128,.18)}
+.btn-err{background:var(--err-bg);color:var(--err);border:1px solid var(--err-line)}
+.btn-err:hover{background:rgba(248,113,113,.18)}
+.btn-warn{background:var(--warn-bg);color:var(--warn);border:1px solid var(--warn-line)}
+.btn-warn:hover{background:rgba(251,191,36,.18)}
+.btn-purple{background:var(--purple-bg);color:var(--purple);border:1px solid var(--purple-line)}
+.btn-sm{padding:5px 11px;font-size:11px}
+.btn:disabled{opacity:.4;cursor:not-allowed;transform:none!important}
+
+/* ── Status badges ───────────────────────────────────────────── */
+.badge{display:inline-flex;align-items:center;gap:5px;padding:3px 10px;border-radius:999px;font-size:10px;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+.badge-pending_script{background:var(--info-bg);color:var(--info);border:1px solid var(--info-line)}
+.badge-draft{background:var(--warn-bg);color:var(--warn);border:1px solid var(--warn-line)}
+.badge-queued{background:var(--purple-bg);color:var(--purple);border:1px solid var(--purple-line)}
+.badge-rendering{background:var(--accent-glow);color:var(--accent);border:1px solid rgba(249,115,22,.3)}
+.badge-done{background:var(--ok-bg);color:var(--ok);border:1px solid var(--ok-line)}
+.badge-failed{background:var(--err-bg);color:var(--err);border:1px solid var(--err-line)}
+.dot{width:6px;height:6px;border-radius:50%;background:currentColor;flex-shrink:0}
+.badge-rendering .dot{animation:pulse 1s ease infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+
+/* ── Tabs ─────────────────────────────────────────────────────── */
+.tabs{display:flex;gap:2px;border-bottom:1px solid var(--line);margin-bottom:20px}
+.tab{padding:10px 18px;font-size:12px;font-weight:600;color:var(--ink-3);cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;transition:all var(--transition)}
+.tab:hover{color:var(--ink-2)}
+.tab.active{color:var(--accent);border-bottom-color:var(--accent)}
+.tab-panel{display:none}
+.tab-panel.active{display:block}
+
+/* ── Job list ─────────────────────────────────────────────────── */
+.job-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+.job-card{background:var(--panel);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;transition:border-color var(--transition),box-shadow var(--transition);cursor:pointer}
+.job-card:hover{border-color:var(--line-2);box-shadow:0 4px 20px rgba(0,0,0,.3)}
+.job-card.selected{border-color:var(--accent);box-shadow:0 0 0 2px var(--accent-glow)}
+.job-thumb{width:100%;height:140px;object-fit:cover;display:block;background:var(--bg-1)}
+.job-thumb-placeholder{width:100%;height:140px;background:linear-gradient(135deg,var(--bg-1),var(--bg-2));display:flex;align-items:center;justify-content:center}
+.job-body{padding:14px}
+.job-title{font-size:12px;font-weight:600;color:var(--ink);margin-bottom:6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.job-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:8px}
+.job-pid{font-size:10px;color:var(--ink-4)}
+.job-actions{display:flex;gap:6px;margin-top:12px}
+
+/* ── Job editor ───────────────────────────────────────────────── */
+#editor{display:none;flex-direction:column;height:100%}
+#editor.open{display:flex}
+.editor-top{display:flex;align-items:center;gap:14px;padding:0 0 18px;border-bottom:1px solid var(--line);margin-bottom:20px}
+.editor-back{background:none;border:1px solid var(--line);color:var(--ink-2);padding:6px 12px;border-radius:var(--r-sm);font:inherit;font-size:11px;cursor:pointer;transition:all var(--transition)}
+.editor-back:hover{border-color:var(--line-2);color:var(--ink)}
+.editor-title{font-family:var(--font-d);font-size:16px;font-weight:700;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.editor-layout{display:grid;grid-template-columns:1fr 380px;gap:20px;flex:1;min-height:0}
+.editor-left{display:flex;flex-direction:column;gap:16px;overflow-y:auto;padding-right:4px}
+.editor-right{display:flex;flex-direction:column;gap:14px;overflow-y:auto}
+
+/* ── Panels ───────────────────────────────────────────────────── */
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--r);padding:16px}
+.panel-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px}
+.panel-label{font-size:10px;color:var(--ink-3);letter-spacing:.1em;text-transform:uppercase;font-weight:600}
+.panel-actions{display:flex;gap:6px}
+
+/* ── Segment editor ───────────────────────────────────────────── */
+.segment-item{background:var(--bg-1);border:1px solid var(--line);border-radius:var(--r-sm);padding:12px;margin-bottom:10px;transition:border-color var(--transition)}
+.segment-item:last-child{margin-bottom:0}
+.segment-item:hover{border-color:var(--line-2)}
+.seg-header{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.seg-id{font-size:10px;font-weight:700;color:var(--accent);letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;background:var(--accent-glow);border-radius:4px}
+.seg-timing{font-size:10px;color:var(--ink-4)}
+.seg-visual{font-size:10px;color:var(--ink-3);font-style:italic;margin-bottom:8px;line-height:1.5}
+.seg-narration{width:100%;background:var(--bg);border:1px solid var(--line);border-radius:var(--r-sm);color:var(--ink);font:inherit;font-size:12px;padding:10px 12px;resize:vertical;min-height:72px;outline:none;transition:border-color var(--transition),box-shadow var(--transition);line-height:1.6}
+.seg-narration:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-glow)}
+
+/* ── Settings panels ──────────────────────────────────────────── */
+.asset-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.asset-card{background:var(--bg-1);border:2px solid var(--line);border-radius:var(--r-sm);padding:10px 12px;cursor:pointer;transition:all var(--transition);display:flex;align-items:center;gap:8px}
+.asset-card:hover{border-color:var(--line-2);background:var(--panel)}
+.asset-card.selected{border-color:var(--accent);background:var(--accent-glow)}
+.asset-name{font-size:11px;font-weight:600;color:var(--ink)}
+.asset-sub{font-size:10px;color:var(--ink-4);margin-top:2px}
+.asset-icon{width:28px;height:28px;border-radius:6px;background:var(--panel-2);display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:14px}
+
+/* ── Price tagline editor ─────────────────────────────────────── */
+.tagline-row{display:flex;gap:8px;align-items:center;margin-bottom:8px}
+.tagline-input{flex:1;background:var(--bg-1);border:1px solid var(--line);border-radius:var(--r-sm);color:var(--ink);font:inherit;font-size:12px;padding:8px 12px;outline:none;transition:border-color var(--transition)}
+.tagline-input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-glow)}
+.tagline-preview{font-size:11px;color:var(--ink-3);padding:10px 14px;background:var(--bg);border:1px solid var(--line);border-radius:var(--r-sm);line-height:1.6}
+
+/* ── Font picker ──────────────────────────────────────────────── */
+.font-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.font-card{background:var(--bg-1);border:2px solid var(--line);border-radius:var(--r-sm);padding:12px 8px;cursor:pointer;text-align:center;transition:all var(--transition)}
+.font-card:hover{border-color:var(--line-2)}
+.font-card.selected{border-color:var(--accent);background:var(--accent-glow)}
+.font-sample{font-size:20px;font-weight:900;color:var(--ink);margin-bottom:4px}
+.font-label{font-size:9px;color:var(--ink-4);text-transform:uppercase;letter-spacing:.08em}
+
+/* ── Video preview ────────────────────────────────────────────── */
+.preview-box{background:var(--bg-1);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;aspect-ratio:9/16;display:flex;align-items:center;justify-content:center;position:relative;max-height:400px}
+.preview-box video{width:100%;height:100%;object-fit:contain}
+.preview-placeholder{text-align:center;color:var(--ink-4);font-size:11px}
+.preview-icon{font-size:36px;margin-bottom:8px;opacity:.3}
+
+/* ── Asset library ────────────────────────────────────────────── */
+.library-section{margin-bottom:24px}
+.library-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+.library-title{font-size:13px;font-weight:700;color:var(--ink)}
+.library-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px}
+.lib-card{background:var(--panel);border:1px solid var(--line);border-radius:var(--r);padding:14px;display:flex;align-items:center;gap:12px;transition:border-color var(--transition)}
+.lib-card:hover{border-color:var(--line-2)}
+.lib-icon{width:36px;height:36px;border-radius:8px;background:var(--bg-1);display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:18px}
+.lib-name{font-size:12px;font-weight:600;color:var(--ink)}
+.lib-meta{font-size:10px;color:var(--ink-4);margin-top:2px}
+.lib-actions{margin-left:auto;display:flex;gap:4px}
+
+/* ── Upload zone ──────────────────────────────────────────────── */
+.upload-zone{border:2px dashed var(--line-2);border-radius:var(--r);padding:24px;text-align:center;cursor:pointer;transition:all var(--transition);background:var(--bg-1)}
+.upload-zone:hover,.upload-zone.drag{border-color:var(--accent);background:var(--accent-glow)}
+.upload-zone-icon{font-size:32px;margin-bottom:8px;opacity:.5}
+.upload-zone-text{font-size:12px;color:var(--ink-3);margin-bottom:4px}
+.upload-zone-sub{font-size:10px;color:var(--ink-4)}
+
+/* ── Stat strip ───────────────────────────────────────────────── */
+.stat-strip{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin-bottom:20px}
+.stat-box{background:var(--panel);border:1px solid var(--line);border-radius:var(--r);padding:14px 16px}
+.stat-val{font-family:var(--font-d);font-size:22px;font-weight:700;margin-bottom:2px}
+.stat-lbl{font-size:9px;color:var(--ink-4);letter-spacing:.1em;text-transform:uppercase}
+
+/* ── Toast ───────────────────────────────────────────────────── */
+#toast{position:fixed;bottom:24px;right:24px;display:flex;flex-direction:column;gap:8px;z-index:999;pointer-events:none}
+.toast-item{background:var(--panel);border:1px solid var(--line);border-radius:var(--r-sm);padding:12px 16px;font-size:12px;color:var(--ink);box-shadow:0 8px 24px rgba(0,0,0,.4);animation:slideIn .2s ease;pointer-events:auto;max-width:300px;display:flex;align-items:center;gap:10px}
+.toast-item.ok{border-color:var(--ok-line);background:var(--ok-bg);color:var(--ok)}
+.toast-item.err{border-color:var(--err-line);background:var(--err-bg);color:var(--err)}
+.toast-item.warn{border-color:var(--warn-line);background:var(--warn-bg);color:var(--warn)}
+@keyframes slideIn{from{transform:translateX(20px);opacity:0}to{transform:none;opacity:1}}
+
+/* ── Empty state ──────────────────────────────────────────────── */
+.empty{text-align:center;padding:60px 20px;color:var(--ink-4)}
+.empty-icon{font-size:42px;margin-bottom:14px;opacity:.3}
+.empty-text{font-size:13px;margin-bottom:6px;color:var(--ink-3)}
+.empty-sub{font-size:11px}
+
+/* ── Misc ─────────────────────────────────────────────────────── */
+.sep{height:1px;background:var(--line);margin:16px 0}
+.row{display:flex;align-items:center;gap:10px}
+.col{display:flex;flex-direction:column;gap:4px}
+select,input[type=text],input[type=number]{background:var(--bg-1);border:1px solid var(--line);border-radius:var(--r-sm);color:var(--ink);font:inherit;font-size:12px;padding:8px 12px;outline:none;transition:border-color var(--transition)}
+select:focus,input[type=text]:focus,input[type=number]:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-glow)}
+label.lbl{font-size:10px;color:var(--ink-3);letter-spacing:.08em;text-transform:uppercase;margin-bottom:5px;display:block}
+.spinner{width:16px;height:16px;border:2px solid rgba(249,115,22,.2);border-top-color:var(--accent);border-radius:50%;animation:spin .7s linear infinite;flex-shrink:0}
+@keyframes spin{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+
+<!-- Sidebar -->
+<aside class="sidebar">
+  <div class="sidebar-head">
+    <div class="brand">finding<span>.</span>id</div>
+    <div class="brand-sub">Admin Panel</div>
+  </div>
+  <nav class="sidebar-nav">
+    <div class="nav-section">Products</div>
+    <a class="nav-item" href="/admin191">
+      <svg class="icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="1" width="6" height="6" rx="1.5"/><rect x="9" y="1" width="6" height="6" rx="1.5"/><rect x="1" y="9" width="6" height="6" rx="1.5"/><rect x="9" y="9" width="6" height="6" rx="1.5"/></svg>
+      <span>All Products</span>
+    </a>
+    <div class="nav-section">Content</div>
+    <a class="nav-item active" href="#">
+      <svg class="icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="12" height="12" rx="2"/><path d="M6.5 5.5 11 8l-4.5 2.5z"/></svg>
+      <span>Short Videos</span>
+    </a>
+    <div class="nav-section">Assets</div>
+    <a class="nav-item" href="#" onclick="showTab('library');return false">
+      <svg class="icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h12M2 8h12M2 13h12"/></svg>
+      <span>Music &amp; Assets</span>
+    </a>
+  </nav>
+  <div class="sidebar-foot">
+    <div class="user-chip">
+      <div class="user-avatar">A</div>
+      <div class="user-info">
+        <div class="user-name">admin</div>
+        <div class="user-role">Administrator</div>
+      </div>
+    </div>
+  </div>
+</aside>
+
+<!-- Main -->
+<div class="main-area">
+  <header class="topbar">
+    <div class="topbar-title" id="topbarTitle">Short Video Jobs</div>
+    <div class="topbar-right">
+      <span id="topbarStatus" style="font-size:11px;color:var(--ink-4)"></span>
+      <button class="btn btn-ghost btn-sm" onclick="loadJobs()">
+        <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M13.5 8A5.5 5.5 0 1 1 8 2.5"/><path d="M14 2v4h-4"/><path d="M13.5 2.5 10 6"/></svg>
+        Refresh
+      </button>
+    </div>
+  </header>
+
+  <div class="content">
+
+    <!-- Tabs -->
+    <div class="tabs">
+      <div class="tab active" onclick="showTab('jobs')">Video Jobs</div>
+      <div class="tab" onclick="showTab('library')">Music &amp; Assets</div>
+    </div>
+
+    <!-- ── JOBS TAB ──────────────────────────────────────────── -->
+    <div class="tab-panel active" id="tab-jobs">
+
+      <!-- Stats -->
+      <div class="stat-strip" id="statStrip">
+        <div class="stat-box"><div class="stat-val" id="sPending">—</div><div class="stat-lbl">Generating</div></div>
+        <div class="stat-box"><div class="stat-val" id="sDraft">—</div><div class="stat-lbl">Draft</div></div>
+        <div class="stat-box"><div class="stat-val" id="sQueued">—</div><div class="stat-lbl">Queued</div></div>
+        <div class="stat-box"><div class="stat-val" id="sRendering">—</div><div class="stat-lbl">Rendering</div></div>
+        <div class="stat-box"><div class="stat-val" id="sDone">—</div><div class="stat-lbl">Done</div></div>
+        <div class="stat-box"><div class="stat-val" id="sFailed">—</div><div class="stat-lbl">Failed</div></div>
+      </div>
+
+      <!-- Filter row -->
+      <div class="row" style="margin-bottom:14px;gap:8px">
+        <select id="filterStatus" onchange="loadJobs()" style="font-size:11px">
+          <option value="">All statuses</option>
+          <option value="pending_script">Pending Script</option>
+          <option value="draft">Draft (Review)</option>
+          <option value="queued">Queued</option>
+          <option value="rendering">Rendering</option>
+          <option value="done">Done</option>
+          <option value="failed">Failed</option>
+        </select>
+        <input type="text" id="filterSearch" placeholder="Search product..." style="font-size:11px;flex:1" oninput="renderJobList()"/>
+        <span style="font-size:11px;color:var(--ink-4)" id="jobCount"></span>
+      </div>
+
+      <!-- Job list -->
+      <div id="jobListWrap">
+        <div class="job-grid" id="jobList"></div>
+        <div class="empty" id="jobEmpty" style="display:none">
+          <div class="empty-icon">🎬</div>
+          <div class="empty-text">No video jobs yet</div>
+          <div class="empty-sub">Jobs are created automatically after product enrichment</div>
+        </div>
+      </div>
+
+      <!-- Editor (slides in over list) -->
+      <div id="editor">
+        <div class="editor-top">
+          <button class="editor-back" onclick="closeEditor()">← Back</button>
+          <div class="editor-title" id="editorTitle">—</div>
+          <a id="editorProductLink" href="#" target="_blank" style="font-size:11px;color:var(--orange);text-decoration:none;border:1px solid var(--orange);border-radius:5px;padding:3px 9px;white-space:nowrap;display:none">↗ Product Page</a>
+          <span id="editorBadge"></span>
+          <div style="display:flex;gap:8px;margin-left:auto">
+            <button class="btn btn-ghost btn-sm" id="btnSave" onclick="saveJob()">Save Draft</button>
+            <button class="btn btn-warn btn-sm" id="btnRegenScript" onclick="regenScript()" title="Regenerate video script via LLM">⟳ Regen Script</button>
+            <button class="btn btn-purple btn-sm" id="btnRegenAnalysis" onclick="regenAnalysis()" title="Regenerate AI product analysis">⟳ Regen Analysis</button>
+            <button class="btn btn-ghost btn-sm" id="btnRegenTts" onclick="regenTts()" title="Delete cached TTS audio and re-render from scratch">⟳ Regen TTS</button>
+            <button class="btn btn-ok btn-sm" id="btnQueue" onclick="queueJob()">
+              <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="4,2 14,8 4,14"/></svg>
+              Approve &amp; Queue
+            </button>
+          </div>
+        </div>
+
+        <div class="editor-layout">
+          <!-- Left: captions + settings -->
+          <div class="editor-left">
+
+            <!-- Caption editor -->
+            <div class="panel">
+              <div class="panel-head">
+                <div class="panel-label">Script Segments</div>
+                <div class="panel-actions">
+                  <button class="btn btn-ghost btn-sm" onclick="resetCaptions()">Reset</button>
+                </div>
+              </div>
+              <div id="segmentList"></div>
+            </div>
+
+            <!-- Price tagline -->
+            <div class="panel">
+              <div class="panel-head"><div class="panel-label">Price Tagline</div></div>
+              <div class="col" style="gap:8px">
+                <label class="lbl">Main tagline text</label>
+                <div class="tagline-row">
+                  <input type="text" class="tagline-input" id="taglineMain" placeholder="e.g. Mulai dari seratus empat puluh lima ribu" oninput="updateTaglinePreview()"/>
+                </div>
+                <label class="lbl">Sub tagline</label>
+                <div class="tagline-row">
+                  <input type="text" class="tagline-input" id="taglineSub" placeholder="e.g. worth it banget, literally!" oninput="updateTaglinePreview()"/>
+                </div>
+                <div class="tagline-preview" id="taglinePreview">Preview akan muncul di sini...</div>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- Right: settings + preview -->
+          <div class="editor-right">
+
+            <!-- Render progress (shown when queued/rendering) -->
+            <div class="panel" id="progressPanel" style="display:none">
+              <div class="panel-head">
+                <div class="panel-label">Render Progress</div>
+                <span id="progressPct" style="font-size:11px;color:var(--accent)">0%</span>
+              </div>
+              <div style="background:var(--surface-2);border-radius:4px;height:8px;overflow:hidden;margin:4px 0 10px">
+                <div id="progressBar" style="height:100%;width:0%;background:var(--accent);border-radius:4px;transition:width 0.6s ease"></div>
+              </div>
+              <div id="progressLog" style="background:var(--surface-2);border:1px solid var(--line);border-radius:var(--r-sm);padding:8px 10px;font-size:10px;color:var(--ink-3);font-family:monospace;max-height:120px;overflow-y:auto;white-space:pre-wrap;line-height:1.5"></div>
+            </div>
+
+            <!-- Video preview -->
+            <div class="panel">
+              <div class="panel-head"><div class="panel-label">Output Preview</div></div>
+              <div class="preview-box" id="previewBox">
+                <div class="preview-placeholder" id="previewPlaceholder">
+                  <div class="preview-icon">▶</div>
+                  <div>No rendered video yet</div>
+                  <div style="font-size:10px;color:var(--ink-4);margin-top:4px">Queue job to render</div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Music picker -->
+            <div class="panel">
+              <div class="panel-head">
+                <div class="panel-label">Background Music</div>
+                <button class="btn btn-ghost btn-sm" onclick="showTab('library')">+ Add</button>
+              </div>
+              <div class="asset-grid" id="musicList"></div>
+            </div>
+
+            <!-- Transition picker -->
+            <div class="panel">
+              <div class="panel-head"><div class="panel-label">Chapter Transition</div></div>
+              <div class="asset-grid" id="transitionList"></div>
+            </div>
+
+            <!-- Sound effect -->
+            <div class="panel">
+              <div class="panel-head">
+                <div class="panel-label">Transition SFX</div>
+                <button class="btn btn-ghost btn-sm" onclick="showTab('library')">+ Add</button>
+              </div>
+              <div class="asset-grid" id="sfxList"></div>
+            </div>
+
+            <!-- Font style -->
+            <div class="panel">
+              <div class="panel-head"><div class="panel-label">Caption Font</div></div>
+              <div class="font-grid" id="fontGrid"></div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── LIBRARY TAB ───────────────────────────────────────── -->
+    <div class="tab-panel" id="tab-library">
+
+      <!-- Music -->
+      <div class="library-section">
+        <div class="library-head">
+          <div class="library-title">🎵 Music Library</div>
+          <label class="btn btn-ghost btn-sm" style="cursor:pointer">
+            + Upload MP3
+            <input type="file" accept="audio/mp3,audio/mpeg" style="display:none" onchange="uploadAsset('music',this)"/>
+          </label>
+        </div>
+        <div class="upload-zone" id="musicDrop" ondragover="dragOver(event,'musicDrop')" ondragleave="dragLeave('musicDrop')" ondrop="dropFile(event,'music')">
+          <div class="upload-zone-icon">🎵</div>
+          <div class="upload-zone-text">Drop MP3 here or click Upload</div>
+          <div class="upload-zone-sub">Royalty-free music only · Max 20MB</div>
+        </div>
+        <div class="library-grid" id="libMusic" style="margin-top:12px"></div>
+      </div>
+
+      <div class="sep"></div>
+
+      <!-- Transitions -->
+      <div class="library-section">
+        <div class="library-head">
+          <div class="library-title">✨ Transition Templates</div>
+          <label class="btn btn-ghost btn-sm" style="cursor:pointer">
+            + Upload
+            <input type="file" accept="video/*,image/*" style="display:none" onchange="uploadAsset('transitions',this)"/>
+          </label>
+        </div>
+        <div class="library-grid" id="libTransitions"></div>
+      </div>
+
+      <div class="sep"></div>
+
+      <!-- SFX -->
+      <div class="library-section">
+        <div class="library-head">
+          <div class="library-title">🔊 Sound Effects</div>
+          <label class="btn btn-ghost btn-sm" style="cursor:pointer">
+            + Upload SFX
+            <input type="file" accept="audio/*" style="display:none" onchange="uploadAsset('sfx',this)"/>
+          </label>
+        </div>
+        <div class="library-grid" id="libSfx"></div>
+        <div style="margin-top:12px;padding:12px;background:var(--info-bg);border:1px solid var(--info-line);border-radius:var(--r-sm);font-size:11px;color:var(--info)">
+          Free SFX sources: <a href="https://freesound.org" target="_blank" style="color:var(--info)">freesound.org</a> · <a href="https://pixabay.com/sound-effects/" target="_blank" style="color:var(--info)">pixabay sounds</a> · <a href="https://zapsplat.com" target="_blank" style="color:var(--info)">zapsplat.com</a>
+        </div>
+      </div>
+
+    </div>
+
+  </div><!-- /content -->
+</div>
+
+<!-- Toast container -->
+<div id="toast"></div>
+
+<script>
+'use strict';
+const API = '/api/shortvideo';
+const FONTS = [
+  { id:'montserrat', label:'Montserrat', sample:'Aa' },
+  { id:'oswald',     label:'Oswald',    sample:'Aa' },
+  { id:'bebas',      label:'Bebas',     sample:'Aa' },
+  { id:'poppins',    label:'Poppins',   sample:'Aa' },
+  { id:'nunito',     label:'Nunito',    sample:'Aa' },
+  { id:'ubuntu',     label:'Ubuntu',    sample:'Aa' },
+];
+
+let allJobs   = [];
+let assets    = { music:[], transitions:[], sfx:[] };
+let curJob    = null;
+let curSettings = {};
+
+// ── Toast ────────────────────────────────────────────────────────
+function toast(msg, type='ok', dur=3000){
+  const el = document.createElement('div');
+  el.className = `toast-item ${type}`;
+  el.textContent = msg;
+  document.getElementById('toast').appendChild(el);
+  setTimeout(()=>el.remove(), dur);
+}
+
+// ── Tab switcher ─────────────────────────────────────────────────
+function showTab(name){
+  document.querySelectorAll('.tab,.tab-panel').forEach(el=>el.classList.remove('active'));
+  const tabs = document.querySelectorAll('.tab');
+  const names = ['jobs','library'];
+  const i = names.indexOf(name);
+  if(i>=0) tabs[i]?.classList.add('active');
+  document.getElementById(`tab-${name}`)?.classList.add('active');
+  document.getElementById('topbarTitle').textContent = name==='jobs' ? 'Short Video Jobs' : 'Music & Assets';
+  if(name==='library') loadLibrary();
+}
+
+// ── Load jobs ────────────────────────────────────────────────────
+async function loadJobs(){
+  const status = document.getElementById('filterStatus').value;
+  const url = status ? `${API}/jobs?status=${status}` : `${API}/jobs`;
+  try {
+    const r = await fetch(url);
+    if(!r.ok) throw new Error(await r.text());
+    allJobs = await r.json();
+    updateStats();
+    renderJobList();
+    document.getElementById('topbarStatus').textContent = `Last updated ${new Date().toLocaleTimeString()}`;
+  } catch(e){ toast('Failed to load jobs: '+e.message,'err'); }
+}
+
+function updateStats(){
+  const cnt = s => allJobs.filter(j=>j.status===s).length;
+  document.getElementById('sPending').textContent   = cnt('pending_script');
+  document.getElementById('sDraft').textContent     = cnt('draft');
+  document.getElementById('sQueued').textContent    = cnt('queued');
+  document.getElementById('sRendering').textContent = cnt('rendering');
+  document.getElementById('sDone').textContent      = cnt('done');
+  document.getElementById('sFailed').textContent    = cnt('failed');
+}
+
+function renderJobList(){
+  const q    = document.getElementById('filterSearch').value.toLowerCase();
+  const list = allJobs.filter(j=> !q || (j.product_title||'').toLowerCase().includes(q) || String(j.product_id).includes(q));
+  document.getElementById('jobCount').textContent = `${list.length} job${list.length!==1?'s':''}`;
+  document.getElementById('jobEmpty').style.display = list.length ? 'none' : 'block';
+  const grid = document.getElementById('jobList');
+  grid.innerHTML = list.map(j=>`
+    <div class="job-card" onclick="openEditor(${j.id})">
+      ${j.product_image
+        ? `<img class="job-thumb" src="${j.product_image}" alt="" loading="lazy" onerror="this.style.display='none'">`
+        : `<div class="job-thumb-placeholder"><svg width="32" height="32" viewBox="0 0 16 16" fill="none" stroke="var(--line-2)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="3" width="14" height="10" rx="2"/><path d="M6 6l4 2-4 2V6z"/></svg></div>`}
+      <div class="job-body">
+        <div class="job-title">${esc(j.product_title || 'Product #'+j.product_id)}</div>
+        <div class="job-meta">
+          <span class="badge badge-${j.status}"><span class="dot"></span>${j.status.replace('_',' ')}</span>
+          <span class="job-pid">#${j.product_id}</span>
+          <span class="job-pid">${timeAgo(j.created_at)}</span>
+        </div>
+        <div class="job-actions">
+          ${j.status==='draft'
+            ? `<button class="btn btn-ok btn-sm" onclick="event.stopPropagation();quickQueue(${j.id})">Queue</button>`
+            : ''}
+          ${j.status==='done' && j.output_path
+            ? `<button class="btn btn-ghost btn-sm" onclick="event.stopPropagation();window.open('${j.output_path}','_blank')">▶ Watch</button>`
+            : ''}
+          ${j.status==='failed'
+            ? `<button class="btn btn-warn btn-sm" onclick="event.stopPropagation();openEditor(${j.id})">Retry</button>`
+            : ''}
+          <button class="btn btn-ghost btn-sm" onclick="event.stopPropagation();openEditor(${j.id})">Edit</button>
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+// ── Open editor ──────────────────────────────────────────────────
+async function openEditor(id){
+  document.getElementById('jobListWrap').style.display = 'none';
+  document.getElementById('statStrip').style.display   = 'none';
+  const editor = document.getElementById('editor');
+  editor.style.display = 'flex';
+
+  try {
+    const [jobR, assetsR] = await Promise.all([
+      fetch(`${API}/jobs/${id}`),
+      loadAssets(),
+    ]);
+    curJob = await jobR.json();
+    curSettings = JSON.parse(curJob.settings_json||'{}');
+  } catch(e){ toast('Load failed: '+e.message,'err'); return; }
+
+  document.getElementById('editorTitle').textContent = curJob.product_title || 'Product #'+curJob.product_id;
+  const productLinkEl = document.getElementById('editorProductLink');
+  productLinkEl.href = `https://finding.id/p/${curJob.product_id}`;
+  productLinkEl.style.display = '';
+  document.getElementById('editorBadge').innerHTML = `<span class="badge badge-${curJob.status}"><span class="dot"></span>${curJob.status.replace('_',' ')}</span>`;
+
+  document.getElementById('btnSave').disabled  = false;
+  document.getElementById('btnQueue').disabled = !['draft','failed','done'].includes(curJob.status);
+
+  renderSegments();
+  renderMusicPicker();
+  renderTransitionPicker();
+  renderSfxPicker();
+  renderFontPicker();
+  renderPreview();
+  startProgressPoll();
+
+  // Tagline
+  const s = curSettings;
+  document.getElementById('taglineMain').value = s.tagline_main || '';
+  document.getElementById('taglineSub').value  = s.tagline_sub  || '';
+  updateTaglinePreview();
+
+  document.getElementById('topbarTitle').textContent = 'Edit Job — ' + (curJob.product_title||'#'+curJob.product_id);
+}
+
+function closeEditor(){
+  stopProgressPoll();
+  document.getElementById('editor').style.display   = 'none';
+  document.getElementById('jobListWrap').style.display = 'block';
+  document.getElementById('statStrip').style.display   = 'grid';
+  document.getElementById('topbarTitle').textContent   = 'Short Video Jobs';
+  document.getElementById('editorProductLink').style.display = 'none';
+  curJob = null;
+  loadJobs();
+}
+
+// ── Segments ─────────────────────────────────────────────────────
+function renderSegments(){
+  const script = curJob?.script_json ? JSON.parse(curJob.script_json) : null;
+  const segs   = script?.segments || [];
+  const edits  = curSettings.caption_edits || {};
+  if(!segs.length){
+    document.getElementById('segmentList').innerHTML = '<div style="font-size:11px;color:var(--ink-4);text-align:center;padding:20px">Script not yet generated...</div>';
+    return;
+  }
+  document.getElementById('segmentList').innerHTML = segs.map(seg=>`
+    <div class="segment-item">
+      <div class="seg-header">
+        <span class="seg-id">${seg.id}</span>
+        <span class="seg-timing">${seg.start_s}s – ${seg.start_s+seg.duration_s}s</span>
+      </div>
+      <div class="seg-visual">${esc(seg.visual)}</div>
+      <div style="font-size:10px;color:var(--ink-4);margin:4px 0 2px;user-select:none">🔊 Voice (TTS) — read only:</div>
+      <div style="font-size:11px;color:var(--ink-3);background:var(--bg-2);border-radius:4px;padding:6px 8px;line-height:1.5;margin-bottom:4px">${esc(seg.narration)}</div>
+      <div style="font-size:10px;color:var(--ink-4);margin-bottom:2px;user-select:none">📝 Caption (display only — editing won't change voice):</div>
+      <textarea class="seg-narration" id="seg_cap_${seg.id}" rows="3"
+        ${curJob.status==='rendering' ? 'disabled' : ''}
+      >${esc(seg.caption || seg.narration)}</textarea>
+    </div>
+  `).join('');
+}
+
+function collectCaptionEdits(){
+  const script = curJob?.script_json ? JSON.parse(curJob.script_json) : null;
+  const segs   = script?.segments || [];
+  const edits  = {};
+  for(const seg of segs){
+    const el = document.getElementById('seg_'+seg.id);
+    if(el && el.value !== seg.narration) edits[seg.id] = el.value;
+  }
+  return edits;
+}
+
+function resetCaptions(){
+  const script = curJob?.script_json ? JSON.parse(curJob.script_json) : null;
+  const segs   = script?.segments || [];
+  for(const seg of segs){
+    const el = document.getElementById('seg_cap_'+seg.id);
+    if(el){ el.value = seg.narration; seg.caption = null; }
+  }
+  toast('Captions reset to original narration','warn');
+}
+
+// ── Asset pickers ─────────────────────────────────────────────────
+async function loadAssets(){
+  const [mR, tR, sR] = await Promise.all([
+    fetch(`${API}/assets/music`),
+    fetch(`${API}/assets/transitions`),
+    fetch(`${API}/assets/sfx`),
+  ]);
+  assets.music       = await mR.json();
+  assets.transitions = await tR.json();
+  assets.sfx         = await sR.json();
+}
+
+function pickerHtml(list, key, icons, curId){
+  if(!list.length) return '<div style="font-size:10px;color:var(--ink-4);padding:8px">No assets yet</div>';
+  return list.map(a=>`
+    <div class="asset-card ${curId===a.id?'selected':''}" onclick="pickAsset('${key}',${a.id},this)">
+      <div class="asset-icon">${icons[a.type||a.category]||'🎵'}</div>
+      <div>
+        <div class="asset-name">${esc(a.name)}</div>
+        <div class="asset-sub">${a.duration_s ? fmtDur(a.duration_s) : (a.type||a.category||'')}</div>
+      </div>
+    </div>`).join('');
+}
+
+function renderMusicPicker(){
+  document.getElementById('musicList').innerHTML = pickerHtml(assets.music,'music_id',
+    {'':'🎵'}, curSettings.music_id);
+}
+function renderTransitionPicker(){
+  const icons={splash:'✨',slide:'➡️',zoom:'🔍',fade:'🌫️','':'✨'};
+  document.getElementById('transitionList').innerHTML = pickerHtml(assets.transitions,'transition_id',icons,curSettings.transition_id);
+}
+function renderSfxPicker(){
+  const icons={whoosh:'💨',pop:'💥',ding:'🔔',swipe:'👆','':'🔊'};
+  document.getElementById('sfxList').innerHTML = pickerHtml(assets.sfx,'sfx_id',icons,curSettings.sfx_id);
+}
+function renderFontPicker(){
+  document.getElementById('fontGrid').innerHTML = FONTS.map(f=>`
+    <div class="font-card ${curSettings.font_style===f.id?'selected':''}" onclick="pickFont('${f.id}',this)" style="font-family:'${f.label}',sans-serif">
+      <div class="font-sample">${f.sample}</div>
+      <div class="font-label">${f.label}</div>
+    </div>`).join('');
+}
+
+function pickAsset(key, id, el){
+  curSettings[key] = id;
+  el.closest('.asset-grid').querySelectorAll('.asset-card').forEach(c=>c.classList.remove('selected'));
+  el.classList.add('selected');
+}
+function pickFont(id, el){
+  curSettings.font_style = id;
+  document.querySelectorAll('.font-card').forEach(c=>c.classList.remove('selected'));
+  el.classList.add('selected');
+}
+
+// ── Preview ───────────────────────────────────────────────────────
+function renderPreview(){
+  const box = document.getElementById('previewBox');
+  if(curJob?.output_path){
+    box.innerHTML = `<video src="${curJob.output_path}" controls style="width:100%;height:100%;object-fit:contain"></video>`;
+  } else {
+    box.innerHTML = `<div class="preview-placeholder" id="previewPlaceholder">
+      <div class="preview-icon">▶</div>
+      <div>No rendered video yet</div>
+      <div style="font-size:10px;color:var(--ink-4);margin-top:4px">Queue job to render</div>
+    </div>`;
+  }
+}
+
+// ── Tagline preview ────────────────────────────────────────────────
+function updateTaglinePreview(){
+  const main = document.getElementById('taglineMain').value || 'Mulai dari...';
+  const sub  = document.getElementById('taglineSub').value  || '';
+  document.getElementById('taglinePreview').innerHTML =
+    `<span style="font-size:13px;font-weight:700;color:var(--accent)">${esc(main)}</span>`+
+    (sub ? `<br><span style="font-size:11px;color:var(--ink-3)">${esc(sub)}</span>` : '');
+}
+
+// ── Save ──────────────────────────────────────────────────────────
+async function saveJob(){
+  if(!curJob) return;
+  curSettings.tagline_main = document.getElementById('taglineMain').value;
+  curSettings.tagline_sub  = document.getElementById('taglineSub').value;
+
+  // Apply textarea edits directly into script_json so the renderer sees them
+  let updatedScriptJson = curJob.script_json;
+  try {
+    const raw = curJob.script_json;
+    const script = typeof raw === 'string' ? JSON.parse(raw) : JSON.parse(JSON.stringify(raw || {}));
+    for(const seg of script.segments || []){
+      const el = document.getElementById('seg_cap_'+seg.id);
+      if(el) seg.caption = el.value.trim() || null; // null = fall back to narration in video
+    }
+    updatedScriptJson = JSON.stringify(script);
+    curJob.script_json = updatedScriptJson;
+  } catch(e){ console.error('saveJob script parse error:', e); }
+
+  const btn = document.getElementById('btnSave');
+  btn.disabled = true;
+  btn.innerHTML = '<span class="spinner"></span> Saving…';
+  try {
+    const r = await fetch(`${API}/jobs/${curJob.id}`, {
+      method:'PUT',
+      headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({
+        settings_json: JSON.stringify(curSettings),
+        script_json:   updatedScriptJson,
+      }),
+    });
+    if(!r.ok) throw new Error(await r.text());
+    toast('Saved','ok');
+  } catch(e){ toast('Save failed: '+e.message,'err'); }
+  btn.disabled = false;
+  btn.textContent = 'Save Draft';
+}
+
+// ── Queue ─────────────────────────────────────────────────────────
+async function queueJob(){
+  if(!curJob) return;
+  // Save first
+  await saveJob();
+  const btn = document.getElementById('btnQueue');
+  btn.disabled = true;
+  btn.innerHTML = '<span class="spinner"></span> Queuing…';
+  try {
+    const r = await fetch(`${API}/jobs/${curJob.id}/queue`, { method:'POST' });
+    if(!r.ok) throw new Error(await r.text());
+    toast('Job queued for rendering!','ok');
+    curJob.status = 'queued';
+    curJob.progress = 0;
+    document.getElementById('editorBadge').innerHTML = `<span class="badge badge-queued"><span class="dot"></span>queued</span>`;
+    btn.disabled = true;
+    document.getElementById('btnQueue').textContent = 'Queued';
+    startProgressPoll();
+  } catch(e){ toast('Queue failed: '+e.message,'err'); btn.disabled=false; btn.textContent='Approve & Queue'; }
+}
+
+async function regenScript(){
+  if(!curJob) return;
+  if(!confirm('Regenerate script via LLM? Current script will be overwritten.')) return;
+  const btn = document.getElementById('btnRegenScript');
+  btn.disabled = true; btn.textContent = '⟳ Generating…';
+  try {
+    const r = await fetch(`${API}/jobs/${curJob.id}/regen-script`, { method:'POST' });
+    if(!r.ok) throw new Error(await r.text());
+    toast('Script generation started — refresh in ~30s','ok');
+    // Poll for status change
+    let attempts = 0;
+    const poll = setInterval(async () => {
+      attempts++;
+      const jr = await fetch(`${API}/jobs/${curJob.id}`);
+      const j = await jr.json();
+      if(j.status === 'draft') {
+        clearInterval(poll);
+        toast('✓ Script ready — reloading editor','ok');
+        openEditor(j.id);
+      } else if(j.status === 'failed' || attempts > 24) {
+        clearInterval(poll);
+        toast(j.status === 'failed' ? ('Script gen failed: '+(j.error_msg||'')) : 'Timed out','err');
+      }
+    }, 5000);
+  } catch(e){ toast('Regen script failed: '+e.message,'err'); }
+  btn.disabled = false; btn.textContent = '⟳ Regen Script';
+}
+
+async function regenAnalysis(){
+  if(!curJob) return;
+  const btn = document.getElementById('btnRegenAnalysis');
+  btn.disabled = true; btn.textContent = '⟳ Generating…';
+  try {
+    const r = await fetch(`${API}/jobs/${curJob.id}/regen-analysis`, { method:'POST' });
+    if(!r.ok) throw new Error(await r.text());
+    toast('AI analysis regenerating — takes ~25s','ok');
+  } catch(e){ toast('Regen analysis failed: '+e.message,'err'); }
+  setTimeout(() => { btn.disabled = false; btn.textContent = '⟳ Regen Analysis'; }, 30000);
+}
+
+async function regenTts(){
+  if(!curJob) return;
+  if(!confirm('Delete cached TTS audio and re-render? This will regenerate voice audio from scratch.')) return;
+  const btn = document.getElementById('btnRegenTts');
+  btn.disabled = true;
+  btn.textContent = '⟳ Regenerating…';
+  try {
+    const r = await fetch(`${API}/jobs/${curJob.id}/regen-tts`, { method:'POST' });
+    if(!r.ok) throw new Error(await r.text());
+    toast('TTS deleted — job queued for re-render','ok');
+    curJob.status = 'queued';
+    curJob.progress = 0;
+    document.getElementById('editorBadge').innerHTML = `<span class="badge badge-queued"><span class="dot"></span>queued</span>`;
+    document.getElementById('btnQueue').disabled = true;
+    document.getElementById('btnQueue').textContent = 'Queued';
+    startProgressPoll();
+  } catch(e){ toast('Regen TTS failed: '+e.message,'err'); }
+  btn.disabled = false;
+  btn.textContent = '⟳ Regen TTS';
+}
+
+async function quickQueue(id){
+  try {
+    const r = await fetch(`${API}/jobs/${id}/queue`, { method:'POST' });
+    if(!r.ok) throw new Error(await r.text());
+    toast('Job queued!','ok');
+    loadJobs();
+  } catch(e){ toast(e.message,'err'); }
+}
+
+// ── Library ───────────────────────────────────────────────────────
+async function loadLibrary(){
+  await loadAssets();
+  const musicIcons = {'':'🎵'};
+  document.getElementById('libMusic').innerHTML = assets.music.map(a=>`
+    <div class="lib-card">
+      <div class="lib-icon">🎵</div>
+      <div>
+        <div class="lib-name">${esc(a.name)}</div>
+        <div class="lib-meta">${a.duration_s?fmtDur(a.duration_s):''} · ${esc(a.source||'')}</div>
+      </div>
+      <div class="lib-actions">
+        <audio controls src="/video/public/music_uploads/${esc(a.filename)}" style="height:24px;max-width:100px"></audio>
+      </div>
+    </div>`).join('') || '<div style="color:var(--ink-4);font-size:11px">No music yet</div>';
+
+  const trIcons={splash:'✨',slide:'➡️',zoom:'🔍',fade:'🌫️'};
+  document.getElementById('libTransitions').innerHTML = assets.transitions.map(a=>`
+    <div class="lib-card">
+      <div class="lib-icon">${trIcons[a.type]||'✨'}</div>
+      <div>
+        <div class="lib-name">${esc(a.name)}</div>
+        <div class="lib-meta">${esc(a.type||'')}</div>
+      </div>
+    </div>`).join('') || '<div style="color:var(--ink-4);font-size:11px">No transitions yet</div>';
+
+  const sfxIcons={whoosh:'💨',pop:'💥',ding:'🔔',swipe:'👆'};
+  document.getElementById('libSfx').innerHTML = assets.sfx.map(a=>`
+    <div class="lib-card">
+      <div class="lib-icon">${sfxIcons[a.category]||'🔊'}</div>
+      <div>
+        <div class="lib-name">${esc(a.name)}</div>
+        <div class="lib-meta">${esc(a.category||'')}</div>
+      </div>
+      <div class="lib-actions">
+        <audio controls src="/video/public/sfx_uploads/${esc(a.filename)}" style="height:24px;max-width:100px"></audio>
+      </div>
+    </div>`).join('') || '<div style="color:var(--ink-4);font-size:11px">No SFX yet</div>';
+}
+
+// ── File upload ───────────────────────────────────────────────────
+async function uploadAsset(type, input){
+  const file = input.files[0];
+  if(!file) return;
+  const fd = new FormData();
+  fd.append('file', file);
+  fd.append('name', file.name.replace(/\.[^.]+$/,''));
+  try {
+    const r = await fetch(`${API}/assets/${type}`, { method:'POST', body: fd });
+    if(!r.ok) throw new Error(await r.text());
+    toast(`Uploaded: ${file.name}`,'ok');
+    loadLibrary();
+  } catch(e){ toast('Upload failed: '+e.message,'err'); }
+  input.value='';
+}
+
+function dragOver(e,id){ e.preventDefault(); document.getElementById(id).classList.add('drag'); }
+function dragLeave(id){ document.getElementById(id).classList.remove('drag'); }
+function dropFile(e,type){
+  e.preventDefault();
+  dragLeave('musicDrop');
+  const file = e.dataTransfer.files[0];
+  if(!file) return;
+  const fd = new FormData();
+  fd.append('file',file);
+  fd.append('name',file.name.replace(/\.[^.]+$/,''));
+  fetch(`${API}/assets/${type}`, {method:'POST',body:fd})
+    .then(r=>{ if(!r.ok) throw new Error(); toast(`Uploaded: ${file.name}`,'ok'); loadLibrary(); })
+    .catch(()=>toast('Upload failed','err'));
+}
+
+// ── Utils ─────────────────────────────────────────────────────────
+function esc(s){ const d=document.createElement('div'); d.textContent=String(s||''); return d.innerHTML; }
+function fmtDur(s){ return s>=60 ? `${Math.floor(s/60)}:${String(s%60).padStart(2,'0')}` : `0:${String(s).padStart(2,'0')}`; }
+function timeAgo(dt){
+  if(!dt) return '';
+  const s = Math.floor((Date.now()-new Date(dt))/1000);
+  if(s<60) return 'just now';
+  if(s<3600) return `${Math.floor(s/60)}m ago`;
+  if(s<86400) return `${Math.floor(s/3600)}h ago`;
+  return `${Math.floor(s/86400)}d ago`;
+}
+
+// ── Render progress polling ───────────────────────────────────────
+let pollTimer = null;
+
+function startProgressPoll(){
+  stopProgressPoll();
+  if(!curJob) return;
+  updateProgressPanel(curJob);
+  if(['queued','rendering'].includes(curJob.status)){
+    pollTimer = setInterval(async ()=>{
+      if(!curJob) return stopProgressPoll();
+      try {
+        const r = await fetch(`${API}/jobs/${curJob.id}`);
+        if(!r.ok) return;
+        const j = await r.json();
+        curJob.status   = j.status;
+        curJob.progress = j.progress;
+        curJob.log_tail = j.log_tail;
+        curJob.output_path = j.output_path;
+        updateProgressPanel(j);
+        // Update badge
+        document.getElementById('editorBadge').innerHTML = `<span class="badge badge-${j.status}"><span class="dot"></span>${j.status.replace(/_/g,' ')}</span>`;
+        if(j.status==='done'){
+          stopProgressPoll();
+          renderPreview();
+          toast('Render complete!','ok');
+          document.getElementById('btnQueue').textContent = 'Done';
+        } else if(j.status==='failed'){
+          stopProgressPoll();
+          toast('Render failed: '+(j.error_msg||'unknown error'),'err');
+        }
+      } catch(_){}
+    }, 3000);
+  }
+}
+
+function stopProgressPoll(){
+  if(pollTimer){ clearInterval(pollTimer); pollTimer=null; }
+}
+
+function updateProgressPanel(j){
+  const panel = document.getElementById('progressPanel');
+  const active = ['queued','rendering'].includes(j.status);
+  panel.style.display = active ? 'block' : 'none';
+  if(!active) return;
+  const pct = j.progress || 0;
+  document.getElementById('progressBar').style.width = pct+'%';
+  document.getElementById('progressPct').textContent = pct+'%';
+  const logEl = document.getElementById('progressLog');
+  const tail = (j.log_tail||'Waiting for worker...').trim();
+  logEl.textContent = tail;
+  logEl.scrollTop = logEl.scrollHeight;
+}
+
+// ── Auto-refresh rendering jobs every 15s ─────────────────────────
+setInterval(()=>{
+  const hasActive = allJobs.some(j=>['rendering','queued','pending_script'].includes(j.status));
+  if(hasActive && !curJob) loadJobs();
+}, 15000);
+
+// ── Init ──────────────────────────────────────────────────────────
+loadJobs();
+</script>
+</body>
+</html>

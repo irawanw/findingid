@@ -1,0 +1,85 @@
+{
+  "title": "Paket 5 Kaos Cuma 99 Ribu? Gila!",
+  "hook_text": "5 Kaos Cuma Sembilan Puluh Ribu?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tangan memegang tumpukan 5 kaos dengan ekspresi kaget ke kamera.",
+      "narration": "Gila sih, paket lima kaos cuma sembilan puluh ribuan! --- Emang nggak percaya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk kaos diletakkan rapi di atas meja kayu, kamera zoom in ke label bahan.",
+      "narration": "Ini paket lima kaos cotton PE 24S dari Distro. Bahan semi katun premium yang super lembut di kulit."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar diselingi gambar dompet atau koin animasi.",
+      "narration": "Kalau dihitung satu kaos, harganya cuma dua puluhan ribu doang. Literally murah banget, which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase detail jahitan, bahan kaos ditarik sedikit untuk tunjukkan ketebalan, dan model memakai kaos.",
+      "narration": "Bahannya tebal dan nggak nerawang. Desain minimalis unisex buat pria dan wanita. Jahitan embosnya premium, nyaman dipakai seharian tanpa gerah. Baju sehari-hari jadi lebih awet."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Tampilan seseorang sedang kuliah atau kerja santai sambil memegang tas ransel.",
+      "narration": "Perfect buat mahasiswa atau pekerja entry level. Butuh baju banyak tapi budget ketat tetap harus tetap stylish."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.76 dan angka terjual 50.000 di layar smartphone.",
+      "narration": "Udah terjual lima puluh ribu produk dengan rating empat koma tujuh enam. Yang udah beli bilang, \"Mau jualan atau sedekah ya?\""
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah link atau tombol di bawah layar dengan logo finding id.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#kaosmurah",
+    "#outfitharian",
+    "#genzstyle",
+    "#diskonmurah",
+    "#findingid",
+    "#kaosdistro",
+    "#stokbaju",
+    "#promomurah"
+  ],
+  "product_id": 10954,
+  "product_title": "Paket 5 Kaos T-Shirt Cotton PE 24S hanya 99 ribu, kaos unisex lengan pendek untuk pria/wanita - Baju, Kaos DIstro -",
+  "product_price": "94800.00",
+  "product_rating": "4.76",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/10954.jpg",
+    "/uploads/products/10954_1.jpg",
+    "/uploads/products/10954_2.jpg",
+    "/uploads/products/10954_3.jpg",
+    "/uploads/products/10954_4.jpg",
+    "/uploads/products/10954_5.jpg",
+    "/uploads/products/10954_6.jpg",
+    "/uploads/products/10954_7.jpg",
+    "/uploads/products/10954_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/10954",
+  "generated_at": "2026-03-13T20:21:49.256Z"
+}

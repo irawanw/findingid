@@ -1,0 +1,81 @@
+{
+  "title": "Sepatu Formal Murah Banget? Worth It Bestie!",
+  "hook_text": "Seratusribu an doyan banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up sepatu hitam mengkilap di atas lantai marmer dengan efek zoom in cepat",
+      "narration": "Eits stop scroll dulu bestie! Siapa yang kira sepatu formal seratusribu an itu cuma mainan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: sepatu dipakai ke kantor, kuliah, dan kondangan dengan outfit beda-beda",
+      "narration": "Tenang, ini Rionz Mrno Black! Basically next level buat gaya formal non formal kamu, dari kantor, kampus, sampe pesta kondangan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar: 'Cuma 160ribuan an!' dengan animasi koin jatuh",
+      "narration": "Harga? Cuma seratus enam puluhan ribu an doyan banget! Dibanding sepatu mahal, ini literally worth it banget sih."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: tangan meraba material, kaki menendang bola untuk tunjukkan ringan, close up jahitan rapi",
+      "narration": "No cap, materialnya ringan banget jadi kaki nggak capek seharian! Lem dan jahitan juga rapi kok bagus, siap pakai langsung. Plus stylingnya keren dan sesuai gambar, nggak perlu ragu ya."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage seorang guru mengajar di kelas lalu transisi ke anak kuliah presentasi, kedua orang terlihat percaya diri",
+      "narration": "Perfect buat kamu yang sering ngejar waktu antara kantor sama kuliah, atau guru yang butuh sepatu nyaman banget buat ngajar seharian."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.79 bintang dan angka 40.000 terjual dengan latar belakang warna hijau sukses",
+      "narration": "Rating empat koma tujuh sembilan dan empat puluh ribu produk terjual! Yang udah beli bilang materialnya ringan banget sih ini, rapi kok bagus."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah, teks 'Cek Di Sini' berkedip",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#SepatuFormalPria",
+    "#SepatuMurahBanget",
+    "#RionzMrnoBlack",
+    "#OOTDKantor",
+    "#SepatuKuliah",
+    "#StyleFormal",
+    "#TemukanHargaTerendah",
+    "#FashionIndonesia"
+  ],
+  "product_id": 23985,
+  "product_title": "Rionz Mrno Black - Sepatu Formal Pria Hitam Coklat Pantofel Kerja Kantor Kuliah Pesta Kondangan Guru",
+  "product_price": "161474.00",
+  "product_rating": "4.79",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/23985.jpg",
+    "/uploads/products/23985_1.jpg",
+    "/uploads/products/23985_2.jpg",
+    "/uploads/products/23985_3.jpg",
+    "/uploads/products/23985_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/23985",
+  "generated_at": "2026-03-14T13:48:51.960Z"
+}

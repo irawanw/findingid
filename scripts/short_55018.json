@@ -1,0 +1,83 @@
+{
+  "title": "Masker Wajah Skintific 30 Sheets! Gak Pake Lama",
+  "hook_text": "Wajah Kusam? Gak Pake Lama!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kusam vs glowing, lalu transisi cepat ke produk.",
+      "narration": "Wajah lagi kusam banget? --- Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing masker Skintific, tunjuk kotak 30 lembar dengan jelas.",
+      "narration": "Ini nih Skintific Niacinamide Brightening Daily Mask. --- Satu box isinya tiga puluh lembar, sudah worth it banget buat rutinitas skincare harian kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tunjuk harga di HP atau text overlay harga.",
+      "narration": "Harganya cuma seratus tiga puluh ribuan aja. --- Buat tiga puluh kali pemakaian, which is worth it banget kan? Gak perlu mahal biar glowing."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Aplikasikan masker, close-up tekstur serum dan efek lembab.",
+      "narration": "Ada niacinamide buat mencerahkan, plus klaim pore treatment. --- Yang sudah beli bilang pas di wajah, enak banget. Ada yang malah taruh di freezer biar tambah seger."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model pakai masker, senyum, tunjuk area wajah.",
+      "narration": "Perfect buat kamu yang suka wajah glowing cepet. --- Kalau kamu punya muka lebar, pastikan masker pas di wajah ya soalnya ada feedback."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating 4.93, angka enam puluh ribu terjual, screenshot chat WA.",
+      "narration": "Rating empat koma sembilan tiga sama sudah laku enam puluh ribu produk. --- Yang sudah beli bilang packing aman ini banget. Gak perlu khawatir pecah."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id, pointer ke arah link.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Skintific",
+    "#MaskerWajah",
+    "#SkincareGlowing",
+    "#SkincareTips",
+    "#ViralSkincare",
+    "#GlowingSkin",
+    "#SkintificIndonesia",
+    "#DailyMask"
+  ],
+  "product_id": 55018,
+  "product_title": "SKINTIFlC -NIACINAMIDE BRIGHTENING DAILY MASK 30sheets|Hydrate Glow sheetmasker wajah masker  komedo dan pori skincare skintific masker wajah 1box sheetmask 30 days sleeping mask masker mencerahkan wajah kusam clay mask claming pore treatment",
+  "product_price": "135000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/55018.jpg",
+    "/uploads/products/55018_1.jpg",
+    "/uploads/products/55018_2.jpg",
+    "/uploads/products/55018_3.jpg",
+    "/uploads/products/55018_4.jpg",
+    "/uploads/products/55018_5.jpg",
+    "/uploads/products/55018_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/55018",
+  "generated_at": "2026-03-13T18:30:02.747Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Masker Anti-Aging 368 Ribu? Worth It Banget!",
+  "hook_text": "Wajah 30+ kaget dengan ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah dengan garis halus terlihat, lalu transisi cepat ke tekstur masker yang creamy dan mewah.",
+      "narration": "Stop scroll bestie! Kamu yang usianya udah lewat tiga puluhan dan mulai khawatir sama garis halus di wajah, ini nih solusinya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilkan produk POLYNIA Pomegranate Revitalizing Face Mask di meja rapi dengan pencahayaan natural, tunjuk tulisan Pomegranate dan BPOM.",
+      "narration": "Kenalin POLYNIA Pomegranate Revitalizing Face Mask. Ini maskernya punya ekstrak delima plus Niacinamide, basically next level buat ngempetin kerutan dan samarkan flek hitam!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar-besar muncul di layar dengan efek getar, lalu tunjuk stok yang menumpuk.",
+      "narration": "Gak percaya ya harganya cuma seratus tiga puluhan ribu rupiah doang? Ini worth it banget, literally! Buat anti-aging sekelas botox, ini harganya jauh lebih ramah di kantong."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menampilkan: 1. Botol masker di atas wajah (efektif), 2. Logo BPOM di layar, 3. Orang dengan kulit sensitif tersenyum senang.",
+      "narration": "Duluu, aku juga mikir bakal perih buat kulit sensitif, tapi no cap, ini super aman tanpa paraben dan sulfat. Efektif banget ngurangin tanda penuaan dini, plus izin edarnya BPOM NA empat tujuh dua satu nol dua nol nol empat lima, jadi tenang aja bestie!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase aktivitas: wanita 30+ bekerja di kantor, lalu malamnya skincare routine santai di rumah dengan produk ini.",
+      "narration": "Perfect buat kamu yang usianya tiga puluhan ke atas dan punya kulit kombinasi atau sensitif. Kalau kamu sering begadang dan butuh wajah glowing lagi, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating 4.9 besar dan angka 100 ribu terjual, lalu zoom in ke foto wajah glowing dengan teks overlay kutipan pembeli.",
+      "narration": "Sebanyak seratus produk udah laku keras, plus rating empat koma sembilan dari lima. Yang udah beli bilang pori-pori keliatan mengecil setelah tiga kali pemakaian."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pencarian besar dengan teks 'finding dot id' dan panah menunjuk ke arah bawah atau search bar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#skincare30plus",
+    "#antiaginghacks",
+    "#maskerwajah",
+    "#glowingskin",
+    "#polynia",
+    "#skincareindonesia",
+    "#wajahcerah",
+    "#beautyhacks"
+  ],
+  "product_id": 55008,
+  "product_title": "POLYNIA | Pomegranate Revitalizing Face Mask | Masker Anti Aging | Pudarkan Kerutan & Garis Halus | Samarkan Flek Hitam | BPOM",
+  "product_price": "368000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/55008.jpg",
+    "/uploads/products/55008_1.jpg",
+    "/uploads/products/55008_2.jpg",
+    "/uploads/products/55008_3.jpg",
+    "/uploads/products/55008_4.jpg",
+    "/uploads/products/55008_5.jpg",
+    "/uploads/products/55008_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/55008",
+  "generated_at": "2026-03-14T04:12:56.632Z"
+}

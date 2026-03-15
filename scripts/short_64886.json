@@ -1,0 +1,75 @@
+{
+  "title": "Nebulizer Omron Murah Bestie!",
+  "hook_text": "Batuk Pilek? Stop Panik!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah seseorang sedang batuk dan melihat ke kamera dengan ekspresi panik lalu tersenyum lega.",
+      "narration": "Sering batuk pilek sampai nggak bisa tidur? Stop scroll sekarang! --- Kenapa harus panik kalau ada solusi simpel?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Omron NE-C803 di atas meja bersih dengan pencahayaan cinematic, lalu tangan memegangnya.",
+      "narration": "Ini nih Omron NE-C803, nebulizer kompresor favorit keluarga yang simpel."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek glow, latar belakang produk blur.",
+      "narration": "Harganya cuma empat ratus lima puluhan ribu aja. --- which is worth it banget buat kesehatan jangka panjang!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat fitur: produk di tas, mesin menyala tanpa suara, dan kotak original terbuka rapi.",
+      "narration": "Pertama, ukurannya mini jadi gampang dibawa kemana pun tanpa ribet. --- Kedua, mesinnya super silent, suara nebu nya halus banget. --- Ketiganya, kualitas original no cap, pasti aman dan awet. --- Bisa dipakai buat ngasih obat cair langsung ke saluran napas."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Klip anak kecil sedang menggunakan nebulizer dan orang dewasa membawa tas nebulizer saat jalan-jalan.",
+      "narration": "Perfect buat kamu yang punya anak kecil atau orang tua yang butuh perawatan rutin di rumah setiap hari. --- Kalau aktivitas kamu mobilitas tinggi, ini temen setia perjalanan!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 di layar dan teks angka 20.000 terjual besar.",
+      "narration": "Sudah terjual 20.000 produk dengan rating 4,91. --- Yang udah beli bilang 'Kecil2 tapi jitu!' plus packing aman banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke arah bawah atau layar sentuh.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#OmronNEC803",
+    "#NebulizerMurah",
+    "#SehatBersamaKeluarga",
+    "#HealthHacks",
+    "#ReviewProduk",
+    "#GadgetKesehatan",
+    "#BelanjaOnline",
+    "#FindingID"
+  ],
+  "product_id": 64886,
+  "product_title": "Omron Compressor Nebulizer NE-C803",
+  "product_price": "453000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/64886",
+  "generated_at": "2026-03-13T18:06:26.449Z"
+}

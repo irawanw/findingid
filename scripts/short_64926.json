@@ -1,0 +1,88 @@
+{
+  "title": "Koper Polo City 24 Inch Murah Banget!",
+  "hook_text": "Koper 24 Inch Cuma Sekian Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up shot koper Polo City dibuka, kamera zoom in ke logo",
+      "narration": "Koper ukuran 24 inch cuma seharga segelas kopi?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot tangan membuka tutup koper, tunjukkan interior ruang luarnya",
+      "narration": "Nih Polo City Hardcase 24 inch. Bahan ABS plus coating PVC, jadi anti debu dan super kuat. Which is worth it banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek sparkle",
+      "narration": "Harganya cuma dua ratus lima puluh sembilan ribuan doang. Literally next level banget buat budget pelajar atau pekerja."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: roda berputar, kunci dikunci, koper ditarik",
+      "narration": "Roda putar 360 derajat, nggak bakal nyangkut dikitpun. --- Kapasitas muat luas banget buat bawa baju liburan. --- Ada kunci kombinasi buat keamanan ekstra. Material ABS yang nggak gampang lecet."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang melontar koper ke dalam mobil atau naik pesawat",
+      "narration": "Kalau kamu sering jalan-jalan domestik atau pelajar yang butuh tas besar, ini solusinya. Packingnya udah aman pakai bubble wrap dan dus biar nggak pecah. Jadi aman sampai tujuan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 5 dan jumlah terjual 30k",
+      "narration": "Rating 4.83 dari 30 ribu produk terjual. Yang udah beli bilang 'Tampilan kece banget, warna 100 persen sama'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pointing ke bawah atau logo finding.id",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, info produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, info produk-nya ada di sana!",
+  "hashtags": [
+    "#KoperMurah",
+    "#PoloCity",
+    "#TravelHacks",
+    "#StudentEssential",
+    "#OOTDTravel",
+    "#ViralProduct",
+    "#FindingID",
+    "#RekomendasiTas"
+  ],
+  "product_id": 64926,
+  "product_title": "Tas Koper Polo City Hardcase size 24 inch - 073",
+  "product_price": "258999.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64926.jpg",
+    "/uploads/products/64926_1.jpg",
+    "/uploads/products/64926_2.jpg",
+    "/uploads/products/64926_3.jpg",
+    "/uploads/products/64926_4.jpg",
+    "/uploads/products/64926_5.jpg",
+    "/uploads/products/64926_6.jpg",
+    "/uploads/products/64926_7.jpg",
+    "/uploads/products/64926_8.jpg",
+    "/uploads/products/64926_9.jpg",
+    "/uploads/products/64926_10.jpg",
+    "/uploads/products/64926_11.jpg"
+  ],
+  "product_link": "https://finding.id/p/64926",
+  "generated_at": "2026-03-13T16:48:35.219Z"
+}

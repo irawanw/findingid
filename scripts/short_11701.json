@@ -1,0 +1,87 @@
+{
+  "title": "Matras Yoga Murah Tebal 10mm Viral Banget!",
+  "hook_text": "Gak percaya harganya cuma 40-an ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tekstur matras yoga dengan pencahayaan dramatis, lalu zoom out ke orang sedang bersiap yoga.",
+      "narration": "Gak percaya matras yoga sekeren ini harganya cuma 40-an ribu?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing matras GOKOTTA, menunjukkan logo dan tekstur permukaan yang premium.",
+      "narration": "Ini GOKOTTA Yoga Mat, anti slip premium yang lagi viral. Bahannya NBR soft tapi awet."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, lalu transisi ke perbandingan dengan harga biasa.",
+      "narration": "Biasanya premium 100 ribuan. --- Nah, dapetin kualitas cuma di kisaran 40-an ribu doang."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Seseorang melakukan pose yoga dengan gerakan dinamis, lalu close-up ketebalan matras diukur.",
+      "narration": "Fiturnya juara! Tebal sepuluh milimeter lutut aman banget. Anti slip nggak licin walau keringetan. Ukuran lebar panjang, leluasa gerak. --- Kalau pesen plus tas, cek paketnya dulu biar nggak kecewa."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Tiga orang berbeda (pelajar, ibu, pemula) sedang menggunakan matras di ruang tamu yang cozy.",
+      "narration": "Cocok buat pemula yoga, pelajar, atau ibu rumah tangga mau senam ringan. Praktis banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang emas dan animasi angka penjualan naik cepat.",
+      "narration": "Empat puluh ribu orang beli, rating empat koma delapan lima bintang! --- Yang udah beli bilang 'Bahan tebal kualitasnya worth it'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah layar, muncul logo finding.id.",
+      "narration": "Penasaran detail? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail? Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#yoga",
+    "#matras",
+    "#gokotta",
+    "#olahraga",
+    "#murah",
+    "#fitness",
+    "#rumahan",
+    "#viral"
+  ],
+  "product_id": 11701,
+  "product_title": "GOKOTTA Yoga Mat Anti Slip Tebal Premium Matras Olahraga Sport & Pilates Mat/ Yoga Mat/ Matras Anti Slip",
+  "product_price": "44900.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/11701.jpg",
+    "/uploads/products/11701_1.jpg",
+    "/uploads/products/11701_2.jpg",
+    "/uploads/products/11701_3.jpg",
+    "/uploads/products/11701_4.jpg",
+    "/uploads/products/11701_5.jpg",
+    "/uploads/products/11701_6.jpg",
+    "/uploads/products/11701_7.jpg",
+    "/uploads/products/11701_8.jpg",
+    "/uploads/products/11701_9.jpg",
+    "/uploads/products/11701_10.jpg"
+  ],
+  "product_link": "https://finding.id/p/11701",
+  "generated_at": "2026-03-13T23:01:56.707Z"
+}

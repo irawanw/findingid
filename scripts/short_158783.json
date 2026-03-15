@@ -1,0 +1,83 @@
+{
+  "title": "Bouncer Bayi Murah 10-in-1? Worth It Bestie!",
+  "hook_text": "Bouncer 10-in-1 cuma 280 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up ekspresi kaget + teks besar 'STOP SCROLL!' di layar",
+      "narration": "Wait, stop scroll dulu bestie! Udah tau kan kalau cari bouncer bayi yang full fitur tapi budgetnya masih pelajar itu literally must have?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat berbagai fungsi bouncer (mode kursi, ayunan, pijat) dengan transisi yang dinamis",
+      "narration": "Kenalan yuk sama SugarBaby Bouncer ini, barangnya premium banget dan bisa dipakai jadi 10 fungsi berbeda, basically next level buat nyelametin IRT di rumah!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 280.000 di layar dengan efek animasi 'pop-up' berwarna hijau",
+      "narration": "Tahan napas ya guys, harganya cuma seratus delapan puluhan ribu doang! For the value that you get, this is literally a steal deal banget di pasaran."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan mode pijat, kanan tunjukkan mode ayunan, tengah tunjukkan mode kursi makan",
+      "narration": "Pertama, ada fitur pijat otomatis yang bikin si kecil jadi anteng langsung tanpa drama. Kedua, mode ayunan manual yang bikin tidur mereka lebih nyenyak. Ketiga, bisa jadi kursi makan praktis buat si kecil sebelum makan, which is super helpful banget buat aktivitas harian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene nyata: Ibu muda tersenyum santai sambil minum kopi sambil anak duduk di bouncer",
+      "narration": "Kalau kamu sering capek nggendong bayi seharian atau butuh waktu luang buat kerja sambil baby di rumah, produk ini perfect buat kamu karena bikin momen bonding jadi lebih santai."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.87 bintang dan angka 50.000 terjual dengan efek berdenyut",
+      "narration": "No cap, ratingnya sudah empat koma delapan tujuh dan sudah terjual lima puluh produk. Pembeli yang udah beli bilang produknya sesuai ekspektasi dan sangat membantu IRT."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#SugarBaby",
+    "#BouncerBayi",
+    "#IRTHelpful",
+    "#BabyProduct",
+    "#MurahMeriah",
+    "#ParentingHack",
+    "#FindingId",
+    "#ViralShorts"
+  ],
+  "product_id": 158783,
+  "product_title": "SugarBaby Bouncer Bayi 10 In 1 Premium & MY Rocker / Kursi Goyang Manual Bayi",
+  "product_price": "280000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/158783.jpg",
+    "/uploads/products/158783_1.jpg",
+    "/uploads/products/158783_2.jpg",
+    "/uploads/products/158783_3.jpg",
+    "/uploads/products/158783_4.jpg",
+    "/uploads/products/158783_5.jpg",
+    "/uploads/products/158783_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/158783",
+  "generated_at": "2026-03-14T23:17:16.157Z"
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Jam Pintar Keren Banget! Harga Gila??",
+  "hook_text": "Stop scrolling! Jam pintar ini gila banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up shot wajah model memakai jam tangan dengan ekspresi shock sambil tunjuk layar, background blur.",
+      "narration": "Emang boleh beli jam pintar cuma seratus delapan puluhan ribuan? Ada yang bilang 'Desain: bagus, efek: bagus, keaslian: mantal'."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan berbagai warna jam (Pink, Silver, Black) dengan efek zoom-in ke layar curve yang nyala.",
+      "narration": "Ini Aolon Curve SmartWatch, bestie literally next level! Layarnya gede dua koma satu inci, bentuknya melengkung bikin aesthetic banget pas di pergelangan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar di tengah layar dengan efek confetti jatuh, lalu transisi ke fitur baterai yang tahan lama.",
+      "narration": "Tebak deh harganya? Cuma seratus delapan puluhan ribu sampai sembilan ratus lima puluhan ribu! Which is worth it banget buat fitur sekelas ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: 1. Tampilan detak jantung realtime, 2. Tampilan peta lari, 3. Tombol ganti wallpaper di layar jam.",
+      "narration": "Fiturnya nggak main-main! Pertama, pantau detak jantung realtime biar kesehatan kamu aman. Kedua, ada fitur pacu lari jadi cocok buat gym rat. Ketiga, kustomisasi wallpaper biar jam kamu unik dan beda."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario nyata: seseorang lari pagi pakai jam, kemudian sorenya nonton film bareng pacar dengan gaya santai.",
+      "narration": "Perfect buat yang suka lari pagi atau gym rat, juga perfect buat kamu yang suka ganti-ganti tema biar nggak bosan. Waterproof juga lho, jadi bisa dipakai main air."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.85 bintang dan angka 20.000 terjual dengan efek teks membesar.",
+      "narration": "Rating empat koma delapan lima bintang dan dua puluh ribu produk udah terjual! Pembelinya pada ngomong 'semoga awet jamnya' dan 'harganya terjangkau sekali'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul jelas di tengah dengan tombol panah menunjuk ke bawah, teks 'Cek Di Sini' berkedip.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#AolonCurve",
+    "#SmartwatchMurah",
+    "#GayaHidupSehat",
+    "#TechViral",
+    "#RekomendasiJam",
+    "#GenZStyle",
+    "#FitnessTracker",
+    "#HematDuit"
+  ],
+  "product_id": 167472,
+  "product_title": "Aolon Curve SmartWatch IP68 Waterproof  2.01-inch Curved IPS Screen Bluetooth Call Running Pace Custom Wallpaper Smartwatch Health Monitoring",
+  "product_price": "269000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/167472.jpg",
+    "/uploads/products/167472_1.jpg",
+    "/uploads/products/167472_2.jpg",
+    "/uploads/products/167472_3.jpg",
+    "/uploads/products/167472_4.jpg",
+    "/uploads/products/167472_5.jpg",
+    "/uploads/products/167472_6.jpg",
+    "/uploads/products/167472_7.jpg",
+    "/uploads/products/167472_8.jpg",
+    "/uploads/products/167472_9.jpg",
+    "/uploads/products/167472_10.jpg",
+    "/uploads/products/167472_11.jpg",
+    "/uploads/products/167472_12.jpg",
+    "/uploads/products/167472_13.jpg",
+    "/uploads/products/167472_14.jpg",
+    "/uploads/products/167472_15.jpg",
+    "/uploads/products/167472_16.jpg",
+    "/uploads/products/167472_17.jpg",
+    "/uploads/products/167472_18.jpg",
+    "/uploads/products/167472_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/167472",
+  "generated_at": "2026-03-15T11:09:35.002Z"
+}

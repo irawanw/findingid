@@ -1,0 +1,96 @@
+{
+  "title": "Kado Bayi Murah Tapi Mewah Bestie! 😭✨",
+  "hook_text": "Kado bayi murah tapi mewah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tayangan close-up hampers bayi yang estetik dengan transisi cepat ke wajah presenter yang shock.",
+      "narration": "Stop scroll dulu bestie! Kamu nggak bakal percaya kalau kado bayi bisa seunik ini dengan harga nggak selangit."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase berbagai varian warna hampers (Pink, Blue, Fanta) dibuka perlahan menampilkan isinya.",
+      "narration": "Ini hampers bayi unisex yang literally so cute, mulai dari set warna Fanta, pink, sampe blue dotty blanket. Isinya lengkap banget buat baru lahir."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan harga range 19 ribuan sampe 99 ribuan dengan efek confetti.",
+      "narration": "Harga cuma satu puluhan ribu sampe sembilan puluhan ribu, which is worth it banget kalau dipikirin kualitasnya yang premium."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Zoom in detail: kartu ucapan, box eksklusif, dan kualitas bahan kain yang lembut saat disentuh.",
+      "narration": "Pertama, gratis box hampers eksklusif plus kartu ucapan buat kamu tulis request sendiri. Bahan kainnya super lembut di kulit bayi, nggak bikin gatal sama sekali. Packingnya rapi banget, no cap, langsung kelihatan mahal pas dikirim ke rumah orang tua."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Simulasi orang memberikan hampers sebagai kado ulang tahun atau ulang tahun bayi dengan senyum lebar.",
+      "narration": "Perfect buat kamu yang lagi cari kado ulang tahun, ulang tahun bayi, atau buat temen yang baru melahirkan. Kalau aktivitas kamu sering ngeliatin teman-teman punya bayi, ini wajib banget di list."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.84 dan angka 20.000 terjual dengan cepat, lalu muncul teks kutipan pembeli.",
+      "narration": "Rating empat koma delapan empat dari dua puluh ribu orang yang udah beli bilang, di luar dugaan ternyata lebih bagus aslinya, sesuai harga worth it lah utk kado lahiran temen."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol animasi 'Cek Sekarang' dan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#KadoBayi",
+    "#HampersBaby",
+    "#IdeKado",
+    "#NewbornGift",
+    "#KadoLahir",
+    "#GiftSet",
+    "#MurahMeriah",
+    "#FindingID"
+  ],
+  "product_id": 154824,
+  "product_title": "Hampers Baby - Kado Lahiran Bayi - Hampers Bayi - Kado New Born - Kado Bayi - Newborn Baby Gift Set Unisex - Paket Hadiah Bayi - Hampers Baby Girl - Hampers Baby Boy",
+  "product_price": "33466.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/154824.jpg",
+    "/uploads/products/154824_1.jpg",
+    "/uploads/products/154824_2.jpg",
+    "/uploads/products/154824_3.jpg",
+    "/uploads/products/154824_4.jpg",
+    "/uploads/products/154824_5.jpg",
+    "/uploads/products/154824_6.jpg",
+    "/uploads/products/154824_7.jpg",
+    "/uploads/products/154824_8.jpg",
+    "/uploads/products/154824_9.jpg",
+    "/uploads/products/154824_10.jpg",
+    "/uploads/products/154824_11.jpg",
+    "/uploads/products/154824_12.jpg",
+    "/uploads/products/154824_13.jpg",
+    "/uploads/products/154824_14.jpg",
+    "/uploads/products/154824_15.jpg",
+    "/uploads/products/154824_16.jpg",
+    "/uploads/products/154824_17.jpg",
+    "/uploads/products/154824_18.jpg",
+    "/uploads/products/154824_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/154824",
+  "generated_at": "2026-03-15T03:42:46.480Z"
+}

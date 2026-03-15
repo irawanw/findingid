@@ -1,0 +1,96 @@
+{
+  "title": "Stroller Murah Meriah? Cek Ini Bestie!",
+  "hook_text": "Stroller kok bisa 2 arah ya?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tangan mengayun stroller maju mundur lalu zoom out ke full body stroller di tengah jalan",
+      "narration": "Emang boleh sih, stroller yang bisa dorong bayi dua arah, yang udah beli bilang fitur ini next level banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: stroller dilipat kecil lalu dibuka lagi, tunjukkan bayi duduk nyaman menghadap depan dan belakang",
+      "narration": "Perkenalkan nih, MMFLIGHT stroller lipat travelling, basically super practical buat jalan-jalan atau naik kereta, plus bisa rebahan 175 derajat!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga coret lalu muncul harga asli dengan efek 'pop' warna-warni, tunjukkan stroller ditaruh di dalam kabin pesawat",
+      "narration": "Gila sih harganya cuma seratus delapan puluhan ribu sampai satu jutaan, which is worth it banget buat kualitas baja karbon dan dimensi kabin yang pas!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Detail jahitan linen, 2. Roda berputar lancar di aspal, 3. Stroller lipat compact masuk tas travel",
+      "narration": "Pertama bahannya linen dan baja karbon jadi nggak gampang aus, kedua rodanya super lancar di mana aja, ketiga dia super compact bisa dilipat kecil, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Ibu sedang menyusui bayi di stroller menghadap belakang, lalu bayi tidur nyenyak saat perjalanan",
+      "narration": "Perfect buat yang sering naik kereta atau travelling, kalau aktivitas kamu butuh kenyamanan maksimal buat buah hati, this one is the one!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.84 bintang besar dan angka terjual 20.000 produk dengan background hijau segar",
+      "narration": "Rating 4.84 dari dua puluh ribu produk terjual, pembelinya pada ngomong warnanya bagus banget sesuai foto dan kokoh banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol 'finding dot id' berdenyut di tengah layar dengan background warna pastel",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id!",
+  "hashtags": [
+    "#StrollerMurah",
+    "#ParentingHacks",
+    "#MMFLIGHT",
+    "#TravellingWithBaby",
+    "#StrollerIndonesia",
+    "#GenZParent",
+    "#FypStroller",
+    "#ShoppingKeren"
+  ],
+  "product_id": 18175,
+  "product_title": "Mmflight Stroller Anak Stroller Bayi Lipat Travelling Kereta Dorong Bayi 2 Arah 0-5 Tahun",
+  "product_price": "238888.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/18175.jpg",
+    "/uploads/products/18175_1.jpg",
+    "/uploads/products/18175_2.jpg",
+    "/uploads/products/18175_3.jpg",
+    "/uploads/products/18175_4.jpg",
+    "/uploads/products/18175_5.jpg",
+    "/uploads/products/18175_6.jpg",
+    "/uploads/products/18175_7.jpg",
+    "/uploads/products/18175_8.jpg",
+    "/uploads/products/18175_9.jpg",
+    "/uploads/products/18175_10.jpg",
+    "/uploads/products/18175_11.jpg",
+    "/uploads/products/18175_12.jpg",
+    "/uploads/products/18175_13.jpg",
+    "/uploads/products/18175_14.jpg",
+    "/uploads/products/18175_15.jpg",
+    "/uploads/products/18175_16.jpg",
+    "/uploads/products/18175_17.jpg",
+    "/uploads/products/18175_18.jpg",
+    "/uploads/products/18175_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/18175",
+  "generated_at": "2026-03-15T01:16:32.380Z"
+}

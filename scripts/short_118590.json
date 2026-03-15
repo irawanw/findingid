@@ -1,0 +1,80 @@
+{
+  "title": "Stop Rontok! Makarizo Advisor Tonic Murah",
+  "hook_text": "Rambut rontok makin parah nih bestie?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up rambut rontok di wastafel, ekspresi kaget",
+      "narration": "Rambut rontok makin parah nih bestie? Coba cek ini dulu ya."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Makarizo Advisor dipegang dengan latar belakang bersih",
+      "narration": "Kenalin nih, Makarizo Advisor Hair & Scalp Tonic. Ini 2 in 1, anti rontok plus ketombe. Literally solusi klinis buat kulit kepala kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tunjukkan botol di tangan sambil gestur kaget ke harga",
+      "narration": "Dan harganya? Cuma lima puluh ribuan aja! You get volume 140 mL yang awet banget. Worth it parah no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo semprot tonik ke kepala, close up tekstur cair",
+      "narration": "Isinya Piroctone Olamine dan Ginseng Root Extract. Teksturnya cair ringan, tinggal semprot langsung --- Ada sensasi dingin yang bikin relaksasi. Sudah BPOM, aman parah untuk dipakai."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang sedang bekerja di kantor atau di luar ruangan",
+      "narration": "Perfect buat kamu yang sering stres atau kulit kepala gampang berketombe --- Kalau aktivitas kamu banyak di luar ruangan, ini wajib banget buat harian."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.91 dan ikon pembeli",
+      "narration": "Rating 4,91 bintang, sudah terjual 200 ribu produk --- Yang sudah beli bilang, 'Sudah habis 2 botol'. --- Pengiriman kadang lama ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar finding dot id dengan panah mengarah ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Makarizo",
+    "#RambutRontok",
+    "#SkincareKepala",
+    "#Viral",
+    "#TipsRambut",
+    "#CantikAlami",
+    "#BelanjaOnline",
+    "#Rekomendasi"
+  ],
+  "product_id": 118590,
+  "product_title": "Makarizo Advisor Hair & Scalp Tonic 140 mL & 145mL - 2 in 1 Untuk Rambut Rontok dan Ketombe",
+  "product_price": "51900.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/118590.jpg",
+    "/uploads/products/118590_1.jpg",
+    "/uploads/products/118590_2.jpg",
+    "/uploads/products/118590_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/118590",
+  "generated_at": "2026-03-13T22:49:32.252Z"
+}

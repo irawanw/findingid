@@ -1,0 +1,79 @@
+{
+  "title": "Madu 1000ml seharga 90-an?!",
+  "hook_text": "Ini madu palsu atau asli?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up botol madu dituang perlahan ke mangkuk dengan efek suara 'splash' yang jernih",
+      "narration": "Stop scroll dulu! Ada yang bilang rasanya nggak sama kayak dulu, jadi aku curiga ini madu palsu?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Zoom out memperlihatkan label Nutrifarm dan timbangan digital menunjukkan berat bersih 1484 gram",
+      "narration": "No cap, madu dari Nutrifarm ini 100% asli! Berat bersihnya bahkan 1484 gram ya, padahal isinya cuma botol seribu mililiter."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar: 'SERATUS ENAM PULUAN RIBUAN' dengan efek confetti warna emas",
+      "narration": "Keren kan? Kamu dapet hampir satu kilo madu premium seharga enam puluhan ribu rupiah, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan tekstur madu kental, kanan tunjukkan tanggal kadaluarsa yang jauh, bawah tunjukkan packing rapi",
+      "narration": "Firstly, konsistensinya selalu memuaskan dan rasanya benar-benar enak. Secondly, expired datenya lama banget jadi aman disimpan. Lastly, packingnya rapi dan cepat sampai rumah!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat: orang minum madu di pagi hari, anak sekolah makan roti, dan orang tua minum obat",
+      "narration": "Perfect buat kamu yang sering butuh imun booster di pagi hari, atau yang suka pakai madu buat roti bakar biar nggak kecepetan lapar!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar terbagi dua: satu sisi menampilkan rating bintang 4.93, sisi lain menampilkan notifikasi chat pembeli",
+      "narration": "Pembelinya pada ngomong kalau rasanya lebih manis dari sebelumnya dan kualitasnya terjamin, jadi nggak perlu ragu lagi ya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan tombol panah besar mengarah ke bawah atau teks 'Cekfinding.id'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cekfinding.id ya!",
+  "hashtags": [
+    "#MaduAsli",
+    "#Nutrifarm",
+    "#TipsKesehatan",
+    "#ProdukViral",
+    "#HematCuan",
+    "#MaduOrganik",
+    "#HealthyLifestyle",
+    "#FindingId"
+  ],
+  "product_id": 150266,
+  "product_title": "Nutrifarm Madu Hutan 1000 ml / 1484 gr",
+  "product_price": "92000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/150266.jpg",
+    "/uploads/products/150266_1.jpg",
+    "/uploads/products/150266_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/150266",
+  "generated_at": "2026-03-14T12:19:51.259Z"
+}

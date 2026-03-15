@@ -1,0 +1,83 @@
+{
+  "title": "Keyboard Mouse Murah Banget? Cek Ini!",
+  "hook_text": "Keyboard mouse cuma 400-an?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up ekstrem tangan mengetik cepat di keyboard Logitech dengan efek suara 'click' yang memuaskan dan teks besar muncul.",
+      "narration": "Stop scroll dulu dong! Kamu masih pake keyboard mouse mahal padahal ada opsi gila-gilaan kayak gini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Logitech MK275 Combo berputar 360 derajat menampilkan desainnya yang tipis dan elegan.",
+      "narration": "Kenalan deh sama Logitech MK275 Combo nih bestie. Keyboard mouse wireless satu paket sama tombol multimedia, basically next level buat produktivitas harian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar-besar muncul dengan efek 'pop' dan background berubah jadi warna neon yang seru.",
+      "narration": "Tapi yang bikin kaget bukan performanya, tapi harganya! Seratus sembilan puluh sembilan ribuan aja, which is worth it banget buat kualitas Logitech."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: jari menekan tombol multimedia, mouse bergerak smooth di atas meja, dan keyboard yang terlihat kokoh.",
+      "narration": "Pertama, tombol multimedianya super useful buat kontrol volume tanpa ribet pindah aplikasi. Kedua, koneksinya stabil banget nggak ada lag sama sekali. Ketiga, desainnya compact dan ringan, perfect buat dibawa kemana-mana tanpa bikin tas berat."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario split screen: mahasiswa lagi nugas di perpustakaan dan pekerja remote di cafe sambil ketawa.",
+      "narration": "Perfect buat yang sering kerja dari rumah atau mahasiswa yang butuh akses cepat ke lagu pas lagi study hard. Kalau aktivitas kamu banyak multitasking, ini wajib punya sih."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.88 bintang, angka 20.000 terjual, dan quote muncul dengan font tebal.",
+      "narration": "No cap, pembeli yang udah beli bilang barangnya bagus mulus dan pengiriman cepet. Dua puluh ribu lebih udah diambil orang, ratingnya pun tembus empat koma delapan delapan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah menunjuk ke bawah atau tombol 'Cek Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#LogitechMK275",
+    "#AksesorisMurah",
+    "#SetupRuangRapat",
+    "#TeknoGenZ",
+    "#ProdukViral",
+    "#HematBuatNugas",
+    "#WirelessCombo",
+    "#FindingId"
+  ],
+  "product_id": 52114,
+  "product_title": "Logitech MK275 Combo Keyboard dan Mouse Wireless dengan Tombol Multimedia",
+  "product_price": "399000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/52114.jpg",
+    "/uploads/products/52114_1.jpg",
+    "/uploads/products/52114_2.jpg",
+    "/uploads/products/52114_3.jpg",
+    "/uploads/products/52114_4.jpg",
+    "/uploads/products/52114_5.jpg",
+    "/uploads/products/52114_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/52114",
+  "generated_at": "2026-03-14T04:14:45.156Z"
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Storage Box Lipat Viral Bikin Kamar Rapi!",
+  "hook_text": "Kamar berantakan bikin mental down?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up kamar berantakan lalu transisi cepat ke kamar rapi dengan storage box",
+      "narration": "Kamar berantakan bikin mental down? --- Bestie, sini aku kasih tau solusinya! Jangan scroll dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Kotak penyimpanan dilipat dan dibuka, menunjukkan tekstur kain katun",
+      "narration": "Ini nih Storage Box Lipat Besar, organizer box kamar asrama yang jadi primadona. Bahan katun linen alami, jadi ramah lingkungan banget. --- Desainnya simpel tapi fungsional banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks harga muncul besar di layar dengan animasi efek suara koin",
+      "narration": "Bayangin, kamu bisa dapet harga mulai dari lima puluh empat ribu seratus satu rupiah. --- Which is worth it banget buat dapet storage box sekeren ini."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Demonstrasi melipat box dan memasukkan baju ke dalamnya",
+      "narration": "Fiturnya next level bestie. Pertama bisa dilipat jadi tipis saat nggak dipakai. Kedua kapasitasnya gede banget buat baju. Ketiga bahannya kuat dan nggak gampang rusak. --- Kapasitasnya bisa sampai seratus sepuluh liter."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Montage penggunaan kotak untuk mainan, baju, dan linen",
+      "narration": "Kelebihannya apa sih? Pertama estetik dan rapi. Kedua materialnya adem. Ketiga gampang dibersihkan. Keempat muat banyak barang berantakan. No cap, ini game changer! --- Tapi ada yang bilang ukuran lebih kecil dari harapan. Jadi saran aku, cek spek ukuran detailnya dulu sebelum order ya."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Anak kos sedang merapikan lemari dengan box tersebut",
+      "narration": "Perfect buat kamu yang sering susah nyari baju. Kalau aktivitas kamu padat, box ini bantu kamu hemat waktu. Cocok banget buat anak kost yang butuh space efisien."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Tampilan rating bintang 4.87 dan jumlah terjual",
+      "narration": "Rating empat koma delapan tujuh dari pembeli. Total udah terjual tiga puluh ribu produk. Ada yang bilang 'Saya sangat merekomendasikan kotak penyimpanan ini! --- Saya sangat puas dengan warna dan bahan kotak penyimpanan'."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Swatch warna Krem, Abu-abu, Biru Tua berjajar",
+      "narration": "Warna apa yang kamu suka? Ada Krem, Abu-abu, atau Biru Tua. --- Pilih sesuai mood kamu ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tombol beli dan panah mengarah ke link di deskripsi",
+      "narration": "Jangan lupa klik link di deskripsi sebelum stok habis. Beli sekarang bestie!"
+    }
+  ],
+  "cta": "Klik link di deskripsi sebelum stok habis!",
+  "hashtags": [
+    "#StorageBoxViral",
+    "#RapiInCam",
+    "#AnakKost",
+    "#OrganizerKamar",
+    "#CottonLinen",
+    "#RacunShopee",
+    "#TipsKamar",
+    "#GenZIndonesia"
+  ],
+  "product_id": 21741,
+  "product_title": "Storage box Lipat Besar—Organizer box Kamar Asrama—Kotak penyimpanan Rumah—Container box Mainan—Box Pakaian—Box storage Ruang Tamu",
+  "product_price": "54001.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21741.jpg",
+    "/uploads/products/21741_1.jpg",
+    "/uploads/products/21741_2.jpg",
+    "/uploads/products/21741_3.jpg",
+    "/uploads/products/21741_4.jpg",
+    "/uploads/products/21741_5.jpg",
+    "/uploads/products/21741_6.jpg",
+    "/uploads/products/21741_7.jpg",
+    "/uploads/products/21741_8.jpg",
+    "/uploads/products/21741_9.jpg",
+    "/uploads/products/21741_10.jpg",
+    "/uploads/products/21741_11.jpg",
+    "/uploads/products/21741_12.jpg",
+    "/uploads/products/21741_13.jpg",
+    "/uploads/products/21741_14.jpg",
+    "/uploads/products/21741_15.jpg",
+    "/uploads/products/21741_16.jpg",
+    "/uploads/products/21741_17.jpg",
+    "/uploads/products/21741_18.jpg",
+    "/uploads/products/21741_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/21741",
+  "generated_at": "2026-03-13T02:38:55.907Z"
+}

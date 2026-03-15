@@ -1,0 +1,83 @@
+{
+  "title": "Legging Rok Anti Nyeplak Murah Banget!",
+  "hook_text": "Gak Nyeplak Saat Olahraga?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up gerakan lari cepat dengan efek blur background.",
+      "narration": "Pernah nggak sih takut nyeplak pas olahraga? --- Tenang bestie, ada solusinya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product shot spinning 360 derajat dengan lighting cinematic.",
+      "narration": "Kenalin nih, Legging Rok Olahraga wanita yang literally next level banget. --- Modelnya super cute."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafis harga muncul besar dengan efek uang terbang.",
+      "narration": "Dan harga nya cuma lima puluh sembilan ribuan doang! --- Which is worth it banget buat kualitas segini. --- Murah meriah tapi kualitas premium."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo bahan ditarik elastis dan detail lapisan rok.",
+      "narration": "Fiturnya gila. --- Bahan adem dan elastis, membuat keringetan nggak bikin gerah. --- Roknya double layer biar aman. --- No cap, ini nyaman banget pakai lari atau gym."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model wanita sedang senam di taman.",
+      "narration": "Perfect buat kamu yang sering jalan pagi atau senam. --- Kalau BB kamu di atas tujuh puluh, --- saran aku pilih size up biar paha nggak kepepet ya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Animasi rating bintang 4.86 dan counter penjualan.",
+      "narration": "Rating 4,86 bintang, --- udah terjual dua ratus ribu produk. --- Yang udah beli bilang, 'Aku 160 cm pakai size standard masih longgar, tapi nggak kedodoran kok, nyaman'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol mencari produk dengan logo finding.id.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, --- review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#LeggingRok",
+    "#OlahragaWanita",
+    "#FindItOnFinding",
+    "#FashionHacks",
+    "#LeggingMurah",
+    "#JoggingOutfit",
+    "#ProductViral",
+    "#ReviewProduk"
+  ],
+  "product_id": 11409,
+  "product_title": "Legging Rok Olahraga Wanita Skirt Sport Jogging Renang Sepeda Lari Zumba Senam Aerobik",
+  "product_price": "59300.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/11409.jpg",
+    "/uploads/products/11409_1.jpg",
+    "/uploads/products/11409_2.jpg",
+    "/uploads/products/11409_3.jpg",
+    "/uploads/products/11409_4.jpg",
+    "/uploads/products/11409_5.jpg",
+    "/uploads/products/11409_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/11409",
+  "generated_at": "2026-03-13T22:17:03.899Z"
+}

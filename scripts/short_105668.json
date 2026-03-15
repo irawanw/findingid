@@ -1,0 +1,83 @@
+{
+  "title": "Sunscreen Terbaik buat Kulit Berminyak!",
+  "hook_text": "Punya kulit berminyak? Stop scroll dulu bestie!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah berminyak yang terlihat lelah, lalu transisi cepat ke produk Aubree.",
+      "narration": "Punya kulit berminyak? Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product shot cinematic dengan pencahayaan soft, tunjukkan logo SPF 50 PA++++.",
+      "narration": "Kenalin The Aubree Artemisia Daily Sunscreen. SPF 50 PA++++ ini penyelamat muka oily skin banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek 'wow', bandingkan dengan produk mahal lain.",
+      "narration": "Harganya? Seratus dua puluhan ribu aja. Worth it banget buat kualitas premium gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo aplikasi di tangan, tunjukkan tekstur cair dan efek matte di wajah.",
+      "narration": "Teksturnya water burst yang literally nggak bikin berat. Sensasi dinginnya next level, finish matte tanpa whitecast. Ada ekstrak Artemisia buat ngeredakan merah-merah. --- No cap, ini skincare level up buat harian. Bikin kulit adem seharian, which is worth it banget buat kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang beraktivitas di luar ruangan dengan matahari terik.",
+      "narration": "Kalau aktivitas kamu di luar ruangan, ini solusinya. Kulit jadi lebih tenang dan nggak gampang berminyak. Gak bikin jerawatan, jadi aman banget buat harian."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.96 dan jumlah terjual 30.000 di aplikasi.",
+      "narration": "Rating 4.96, udah terjual 30.000 produk. Yang udah beli bilang, \"Teksturnya juara banget sih, ga akan berpaling lagi\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan animasi panah.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#sunscreen",
+    "#skincare",
+    "#aubree",
+    "#kulitberminyak",
+    "#spf50",
+    "#findingid",
+    "#viral",
+    "#rekomendasiskincare"
+  ],
+  "product_id": 105668,
+  "product_title": "The Aubree Artemisia Daily Sunscreen SPF 50 PA ++++",
+  "product_price": "120000.00",
+  "product_rating": "4.96",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/105668.jpg",
+    "/uploads/products/105668_1.jpg",
+    "/uploads/products/105668_2.jpg",
+    "/uploads/products/105668_3.jpg",
+    "/uploads/products/105668_4.jpg",
+    "/uploads/products/105668_5.jpg",
+    "/uploads/products/105668_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/105668",
+  "generated_at": "2026-03-13T19:04:02.513Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Micellar Water Murah Anti Jerawat!",
+  "hook_text": "Wajah Berminyak & Jerawatan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wajah berminyak dengan efek zoom in ke pori-pori yang tersumbat",
+      "narration": "Wajah berminyak tapi takut jerawatan? --- Ini solusinya bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Sea Makeup diletakkan di atas meja dengan pencahayaan cinematic, lalu diangkat",
+      "narration": "Sea Makeup Acne Clear Micellar Water. Pembersih step satu yang bikin kulit adem banget dan sehat."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek animasi uang atau diskon",
+      "narration": "Harga? Cuma enam puluhan ribuan doang! --- Worth it banget buat dapat volume 300ml besar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo aplikasi micellar water di tangan, menunjukkan tekstur cair dan pompa dispenser",
+      "narration": "Ada Salicylic Acid buat atasi jerawat, plus Bisabolol yang soothing. --- Kemasan pump-nya praktis, nggak bikin tumpah. Bebas wewangian, aman parah buat kulit sensitif. Sudah BPOM resmi ya! --- Produk skincare wajib banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang membersihkan wajah dengan micellar water dan terlihat bersih setelahnya",
+      "narration": "Perfect buat kamu yang kulitnya oily atau acne prone. --- First cleanse jadi lebih gampang, makeup waterproof ilang sekejap."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan jumlah terjual dengan animasi counter naik",
+      "narration": "300 ribu terjual! --- Rating 4.92! --- Teksturnya cair, nggak licin berlebihan. Yang bilang \"Cocok banget buat acne prone\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke arah pencarian",
+      "narration": "Mau tau detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana! Jangan sampai kehabisan."
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#skincare",
+    "#seamakeup",
+    "#acneprone",
+    "#micellarwater",
+    "#grooming",
+    "#viral",
+    "#produkviral",
+    "#findingid"
+  ],
+  "product_id": 45911,
+  "product_title": "Sea Makeup Acne Clear Micellar Water – Cleanser Wajah & Penghapus Make Up, Micelar Water untuk Kulit Sensitif Berjerawat dengan Salicylic Acid & Bisabolol, Alternatif Cleansing Oil & Cleansing Balm",
+  "product_price": "66500.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/45911.jpg",
+    "/uploads/products/45911_1.jpg",
+    "/uploads/products/45911_2.jpg",
+    "/uploads/products/45911_3.jpg",
+    "/uploads/products/45911_4.jpg",
+    "/uploads/products/45911_5.jpg",
+    "/uploads/products/45911_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/45911",
+  "generated_at": "2026-03-13T21:46:04.301Z"
+}

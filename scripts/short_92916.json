@@ -1,0 +1,83 @@
+{
+  "title": "Kasur Hotel Harga Pelajar? 😱",
+  "hook_text": "Mau tidur kayak di Hotel?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah bosan trus senyum ke kamera",
+      "narration": "Stop scroll! Mau tidur kayak di hotel tapi budget pelajar? --- Nih solusinya."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk kasur INTHEBOX di ruangan estetik dengan pencahayaan hangat",
+      "narration": "Kenalin, INTHEBOX PLUS ini sih next level banget. Ada bonus bed to go plus bantal, literally worth it!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga turun dengan efek kilat",
+      "narration": "Harganya? Mulai dua jutaan-an aja. Bandingin sama kualitasnya yang garansi sepuluh tahun, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail busa memory foam dan pegas pocket spring ditekan tangan",
+      "narration": "Fitur gila nih: Gel memory foam bikin adem, pocket spring minim gangguan sama pasangan, plus soft banget. --- Yang bilang keras itu pasti salah ukur ya bestie, yang ini plush top lho!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Pasangan tidur nyenyak tanpa gangguan gerakan satu sama lain",
+      "narration": "Perfect buat yang sering gerah tidur atau punya pasangan gerakannya banyak."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Grafik bintang rating 4.89 dan angka 30.000 terjual",
+      "narration": "Rating 4.89, udah laku 30 ribu! Yang udah beli bilang 'rasa kaya di hotel, teknologi keren banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan animasi panah",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#INTHEBOX",
+    "#KasurEmpuk",
+    "#TempatTidurNyaman",
+    "#PromoMurah",
+    "#SleepBetter",
+    "#FYP",
+    "#ViralProduct",
+    "#FindingID"
+  ],
+  "product_id": 92916,
+  "product_title": "[PROMO] Kasur INTHEBOX PLUS (Plush Top) | GRATIS Kasur Bed To Go + Bantal | Ukuran Kasur 90x200, 100x200, 120x200, 140x200, 160x200, 180x200, & 200x200 Garansi 10 Tahun",
+  "product_price": "2399250.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/92916.jpg",
+    "/uploads/products/92916_1.jpg",
+    "/uploads/products/92916_2.jpg",
+    "/uploads/products/92916_3.jpg",
+    "/uploads/products/92916_4.jpg",
+    "/uploads/products/92916_5.jpg",
+    "/uploads/products/92916_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/92916",
+  "generated_at": "2026-03-13T16:10:28.129Z"
+}

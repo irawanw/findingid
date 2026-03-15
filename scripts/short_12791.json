@@ -1,0 +1,93 @@
+{
+  "title": "Sweater Fleece Premium Cuma 60 Ribu?",
+  "hook_text": "Sweater Premium Cuma 60 Ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot wajah kaget sambil memegang sweater fleece premium, lighting cinematic terang.",
+      "narration": "Lo percaya nggak sweater fleece premium cuma 60 ribuan? ---"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai sweater Dezirose, spinning slow motion tunjukkan detail bahan fleece tebal.",
+      "narration": "Ini Dezirose Sweater Crewneck. Bahan fleece 280gsm tebal banget, no cap. literally so warm."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan animasi pop-up, background blur.",
+      "narration": "Harganya cuma enam puluhan ribu. Which is worth it banget kan? ---"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage detail jahitan rapi, tangan meraba bahan lembut, dan model pakai berbagai warna.",
+      "narration": "Bahannya super soft di kulit, nggak bikin gerah sama sekali. Jahitannya rapi banget, nggak ada benang lepas. Warnanya ada banyak, cuma hati-hati ya, beberapa dominan nuansa mocha. Oh iya, yang takut ukuran L kebesaran, tenang! Banyak yang bilang L-nya pas di badan. literally so comfortable."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model pakai sweater saat jalan sore atau di cafe, suasana hangat.",
+      "narration": "Cocok banget buat kamu yang suka hangatan di luar ruangan atau buat daily outfit biar makin kece."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.8 dan angka 50.000 terjual dengan animasi counter naik.",
+      "narration": "Sudah 50 ribu terjual! Ratingnya 4.8 bintang. Yang udah beli bilang 'Sepadan dengan uang' dan 'nyaman dipakai'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar, tombol panah mengarah ke bawah atau side.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Dezirose",
+    "#SweaterFleece",
+    "#OotdPria",
+    "#OotdWanita",
+    "#FashionMurah",
+    "#StyleKekinian",
+    "#ViralIndonesia",
+    "#Recommendation"
+  ],
+  "product_id": 12791,
+  "product_title": "Dezirose Sweater Crewneck Polos Pria Wanita Fleece Tebal Premium Distro Size M-XXL",
+  "product_price": "64500.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/12791.jpg",
+    "/uploads/products/12791_1.jpg",
+    "/uploads/products/12791_2.jpg",
+    "/uploads/products/12791_3.jpg",
+    "/uploads/products/12791_4.jpg",
+    "/uploads/products/12791_5.jpg",
+    "/uploads/products/12791_6.jpg",
+    "/uploads/products/12791_7.jpg",
+    "/uploads/products/12791_8.jpg",
+    "/uploads/products/12791_9.jpg",
+    "/uploads/products/12791_10.jpg",
+    "/uploads/products/12791_11.jpg",
+    "/uploads/products/12791_12.jpg",
+    "/uploads/products/12791_13.jpg",
+    "/uploads/products/12791_14.jpg",
+    "/uploads/products/12791_15.jpg",
+    "/uploads/products/12791_16.jpg"
+  ],
+  "product_link": "https://finding.id/p/12791",
+  "generated_at": "2026-03-13T16:19:20.773Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Nebulizer Anak Bestie! Murah & Gak Berisik 🤫✨",
+  "hook_text": "Sesak napas? Jangan panik!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up anak atau dewasa batuk-batuk lalu mendadak lega sambil menatap kamera dengan ekspresi kaget.",
+      "narration": "Kamu pernah ngerasain napas sesak banget atau anak kamu batuk-batuk nggak henti-hentian?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke produk Dr.SPOCK Nebulizer Portable N7 Plus yang berkilau di tangan, diputar-putar menunjukkan desainnya yang kecil.",
+      "narration": "Tenang bestie, solusi buat pernapasan sehat udah ketemu nih! Ini Dr.SPOCK Nebulizer Portable seri N7 Plus, alatnya super presisi buat atomisasi obat jadi halus banget pas dihirup."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan grafis harga besar-besar dengan efek 'dust' atau partikel emas, lalu muncul tulisan 'Murah Banget'.",
+      "narration": "Gila sih harganya? Mulai dari enam puluhan ribu aja! Which is worth it banget untuk alat kesehatan yang aman dan resmi, nggak perlu mikir lama lagi."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Video orang tidur nyenyak sambil pakai alat (tunjukkan tulisan 'Sangat Senyap'). 2. Close-up atomizer mengeluarkan kabut halus. 3. Demo pakai di kamar anak yang lucu.",
+      "narration": "Pertama, desainnya sangat senyap banget, literally nggak bikin ribut pas kamu lagi tidur. Kedua, pengerjaannya presisi bikin perawatan halus untuk setiap tarikan napas. Ketiga, cocok untuk semua usia, dari bayi sampe dewasa, jadi satu alat bisa buat seluruh keluarga."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario roleplay: seorang ibu memberikan alat ke anaknya yang sedang pilek, lalu orang tua yang sedang olahraga ringan di rumah.",
+      "narration": "Perfect buat yang sering kena asma kambuh atau pilek terus-terusan di musim hujan. Kalau aktivitas kamu suka lari-lari atau main outdoor tapi takut debu bikin sesak, alat ini wajib ada di tas kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.81 besar, angka 30.000 terjual, dan teks overlay: 'Alat jaga2 ketika asma saya kambuh'.",
+      "narration": "Pembelinya pada ngomong, 'Alhamdulillah berfungsi dengan baik, alat jaga2 ketika asma saya kambuh'. Nggak ada yang komplain soal kualitasnya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar 'Cek Detail di Finding dot id' dengan animasi panah menunjuk ke bawah atau logo Finding.id.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#DrSpockNebulizer",
+    "#AlatKesehatanAnak",
+    "#SolusiBatuk",
+    "#PerawatanHidung",
+    "#MurahMeriah",
+    "#FindingId",
+    "#HealthTips",
+    "#ParentingHacks"
+  ],
+  "product_id": 149758,
+  "product_title": "Dr.Spock Nebulizer Portable / alat Nebulizer Anak / Nebulizer N7 Plus",
+  "product_price": "75000.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/149758.jpg",
+    "/uploads/products/149758_1.jpg",
+    "/uploads/products/149758_2.jpg",
+    "/uploads/products/149758_3.jpg",
+    "/uploads/products/149758_4.jpg",
+    "/uploads/products/149758_5.jpg",
+    "/uploads/products/149758_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/149758",
+  "generated_at": "2026-03-14T11:42:25.269Z"
+}

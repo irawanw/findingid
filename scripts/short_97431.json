@@ -1,0 +1,83 @@
+{
+  "title": "Rumi Bag AMRETA, Tas Viral Cuma 200 Ribu-an!",
+  "hook_text": "Tas Viral Cuma 200 Ribu-an!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up texture anyaman tas yang berputar cepat dengan efek zoom in-out.",
+      "narration": "Bestie, lo tau nggak? Tas ini viral banget di TikTok, tapi harganya bikin kaget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tas Rumi AMRETA ditampilkan utuh dari berbagai sudut, model memakainya sambil tersenyum.",
+      "narration": "Ini dia Rumi Bag dari AMRETA, Hobo Bag gaya vintage yang jadi incaran wanita kekinian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga besar muncul di layar, background blur tas.",
+      "narration": "Padahal kualitasnya premium, packaging rapi, tapi harganya cuma di kisaran dua ratus ribuan aja. Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi iPad masuk ke tas, tali disesuaikan, dan bahan ditekan untuk tunjukkan ringan.",
+      "narration": "Kapasitasnya luas, iPad 11 inch muat tanpa masalah. Tali bisa dicopot jadi hand bag juga. Bahan sintetis ringan, nggak bikin capek bahu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model berjalan santai di luar ruangan dengan outfit kasual, tas tergantung rapi.",
+      "narration": "Perfect buat mahasiswa atau pekerja yang butuh gaya retro tapi budget terbatas. Kalau aktivitas lo padat, tas ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4,94 dan angka 50 ribu terjual dengan efek glitter.",
+      "narration": "Rating 4,94 sama 50 ribu terjual. Yang udah beli bilang 'Kapasitas spacious parah dan warna sesuai katalog banget'. Ada yang bilang ukurannya beda sama foto --- Tenang, Hobo Bag ini fitnya longgar."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan panah mengarah ke bawah.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#findingid",
+    "#TasSelempang",
+    "#RetroStyle",
+    "#TasKuliah",
+    "#TasPekerjaan",
+    "#TasHobo",
+    "#ViralProduct",
+    "#CekDiFinding"
+  ],
+  "product_id": 97431,
+  "product_title": "Rumi bag - AMRETA - TAS WANITA - HOBO BAG - SHOULDER BAG - SLING BAG - HAND BAG - TAS IPAD FIT 10 INCH",
+  "product_price": "205800.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/97431.jpg",
+    "/uploads/products/97431_1.jpg",
+    "/uploads/products/97431_2.jpg",
+    "/uploads/products/97431_3.jpg",
+    "/uploads/products/97431_4.jpg",
+    "/uploads/products/97431_5.jpg",
+    "/uploads/products/97431_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/97431",
+  "generated_at": "2026-03-13T17:06:26.929Z"
+}

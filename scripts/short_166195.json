@@ -1,0 +1,88 @@
+{
+  "title": "Popok Makuku Dry Care! Adem Sekali Bestie",
+  "hook_text": "Bayi kebangun tiap malem?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up bayi tidur pulas sambil ngiler lucu, lalu transisi cepat ke wajah panik ibu yang baru bangun karena bayi rewel.",
+      "narration": "Stop bestie, kalau si kecil sering kebangun tengah malam karena popok bikin nggak nyaman atau malah kemerahan, kamu pasti butuh solusi sekarang!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat berbagai varian popok Makuku (celana dan perekat) tumpuk rapi, lalu zoom in ke tekstur kain yang super lembut saat disentuh.",
+      "narration": "Kenalan dong sama Makuku Diapers Dry Care. Seri terbaru ini literally so cute dan fungsinya basic banget: bikin bayi adem, kering, dan nggak lengket sama sekali!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Efek angka besar muncul di layar dengan warna neon, tunjukkan tumpukan popok seolah harganya murah banget dibanding kualitasnya.",
+      "narration": "Gila sih harganya, cuma mulai dari seratus delapan puluhan ribu aja. Which is worth it banget kalau dipikirin, kamu dapet kualitas premium seharga popok biasa!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan popok kering saat dituang air, kanan tunjukkan bayi bergerak bebas di kursi bayi tanpa lecet.",
+      "narration": "Firstr, teksturnya lembut banget nggak bikin kulit sensitif kesakitan. Second, daya serapnya juara, bisa nahan air seharian tanpa ngerembes dari samping. Dan ketiga, bahannya ringan banget jadi si kecil bisa gerak bebas tanpa merasa terbebani."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario nyata: bayi sedang mandi, lalu ditidurkan dengan popok yang pas di pinggangnya, terlihat sangat nyaman.",
+      "narration": "Perfect buat yang suka aktivitas outdoor atau kalau aktivitas kamu sering keluar rumah seharian. Kalau kamu pengen tidur nyenyak tanpa takut bangun karena popok basah, ini definitely must-have!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.92 dan jumlah terjual 20.000+ dengan teks overlay kutipan pembeli.",
+      "narration": "No cap, ratingnya sudah empat koma sembilan dua dengan dua puluh ribu produk terjual. Pembelinya pada bilang tekstur popoknya benar-benar lembut dan nyaman banget buat kulit bayi."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul besar dengan panah menunjuk ke bawah atau tombol 'Beli Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama varian lengkapnya? Cek di finding dot id ya bestie, stoknya cepat ludes jadi buruan dong sebelum kehabisan!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#MakukuDryCare",
+    "#PopokBayiAdem",
+    "#MomHack",
+    "#BelanjaOnline",
+    "#ParentingTips",
+    "#BabyCare",
+    "#ViralShorts",
+    "#PromoHarian"
+  ],
+  "product_id": 166195,
+  "product_title": "[2 PACK] Makuku Diapers Dry Care Popok Bayi Celana/Perekat NB-S/M/L/XL/XXL",
+  "product_price": "96000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/166195.jpg",
+    "/uploads/products/166195_1.jpg",
+    "/uploads/products/166195_2.jpg",
+    "/uploads/products/166195_3.jpg",
+    "/uploads/products/166195_4.jpg",
+    "/uploads/products/166195_5.jpg",
+    "/uploads/products/166195_6.jpg",
+    "/uploads/products/166195_7.jpg",
+    "/uploads/products/166195_8.jpg",
+    "/uploads/products/166195_9.jpg",
+    "/uploads/products/166195_10.jpg",
+    "/uploads/products/166195_11.jpg"
+  ],
+  "product_link": "https://finding.id/p/166195",
+  "generated_at": "2026-03-15T09:31:18.535Z"
+}

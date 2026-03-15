@@ -1,0 +1,83 @@
+{
+  "title": "Chinos Pria Bestie! Sueding Lezat Banget ✨",
+  "hook_text": "Ukuran salah? Nggak nyaman!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah ekspresif bingung lalu zoom out ke celana yang terlihat kepanjangan di kaki.",
+      "narration": "Ada yang bilang 'Ukurannya paspek banget, terlalu kepanjangan, jadi kurang nyaman dipakai'?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat model pria gaya Jaksel pakai celana Chinos Twenty Three di berbagai setting urban.",
+      "narration": "Tenang bestie, ini CHINOS REGULER FIT dari Twenty Three. Bahannya Katun Twill Sueding yang nggak kayak celana biasa."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar di layar dengan efek uang berantem, lalu transisi ke tampilan celana dari berbagai sudut.",
+      "narration": "Dapatkan kualitas next level ini cuma dengan seratus delapan puluhan ribu sampai seratus delapan puluh lima ribuan. Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Hand touching fabric (halus), 2. Celana dipakai jalan (ketebalan medium), 3. Detail saku belakang.",
+      "narration": "Pertama, teksturnya halus dan lembut di kulit, nggak kasar sama sekali. Kedua, ketebalannya medium jadi nggak terlalu panas atau kedinginan. Ketiga, fit-nya modern reguler yang pas di badan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Cowok lagi nongkrong kafe, lalu lagi rapat kantor dengan gaya santai.",
+      "narration": "Perfect buat kamu yang sering kerja kantoran tapi mau tetap stylish, atau kalau aktivitas kamu suka mix and match outfit casual."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar penuh rating 4.85 bintang dan angka 20.000 terjual dengan efek confetti.",
+      "narration": "Pembelinya pada ngomong 'Pokoknya nggak mengecewakan, terima kasih banyak' ya, no cap!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul di layar dengan animasi klik, latar belakang produk keren.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, semua varian warnanya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#ChinosPria",
+    "#FashionMuda",
+    "#TwentyThree",
+    "#OOTDIndonesia",
+    "#CelanaKeren",
+    "#GenZStyle",
+    "#FindingId",
+    "#PriaGaul"
+  ],
+  "product_id": 126225,
+  "product_title": "CHINOS REGULER FIT PRIA BAHAN TWILL SUEDING",
+  "product_price": "162448.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/126225.jpg",
+    "/uploads/products/126225_1.jpg",
+    "/uploads/products/126225_2.jpg",
+    "/uploads/products/126225_3.jpg",
+    "/uploads/products/126225_4.jpg",
+    "/uploads/products/126225_5.jpg",
+    "/uploads/products/126225_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/126225",
+  "generated_at": "2026-03-15T00:21:04.675Z"
+}

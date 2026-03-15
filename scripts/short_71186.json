@@ -1,0 +1,79 @@
+{
+  "title": "Setrika Mini Travel Murah? 😱",
+  "hook_text": "Setrika Mini Cuma 100 Ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up setrika mini dilipat lalu dibuka dengan efek zoom cepat",
+      "narration": "Ngak percaya deh, setrika mini ini bisa dilipat dan harganya cuma seratus nol nol ribuan saja!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Show product full, steam coming out, model holding it casually",
+      "narration": "Kenalin, Han River Setrika Mini HRYD01 ini. Desainnya portabel banget, bisa dilipat jadi kecil, cocok buat dibawa traveling."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Price tag overlay animation showing 109.000 with glow effect",
+      "narration": "Harga cuma seratus nol nol ribuan, which is worth it banget karena dapet fitur proteksi overheating otomatis juga. No cap, murah meriah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Fast heat demo, folding mechanism, SNI badge close-up",
+      "narration": "Pemanasan cepat banget, cuma butuh waktu singkat buat jadi panas. Ada sertifikasi SNI resmi, jadi aman. --- Kalau nggak panas, putar kenok sakelarnya searah jarum jam."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Person packing bag, student in dorm room setting",
+      "narration": "Perfect buat yang sering traveling, mahasiswa kos, atau pekerja yang butuh solusi darurat. Nggak perlu ribet cari setrika besar lagi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating stars 4.76, number sold 50K, text quote overlay",
+      "narration": "Rating 4,76 bintang plus sudah terjual 50.000 produk. Yang sudah beli bilang 'Gosokan travel size banget, cute dan panasnya nggak diragukan'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Product link animation, finding.id logo",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#HanRiver",
+    "#SetrikaMini",
+    "#TravelEssentials",
+    "#MahasiswaKos",
+    "#ViralProduk",
+    "#CekFindingID",
+    "#LifeHack",
+    "#MurahMeriah"
+  ],
+  "product_id": 71186,
+  "product_title": "HAN RIVER Setrika Mini HRYD01 Setrika Lipat Iron Traveling -Putih",
+  "product_price": "109000.00",
+  "product_rating": "4.76",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/71186.jpg",
+    "/uploads/products/71186_1.jpg",
+    "/uploads/products/71186_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/71186",
+  "generated_at": "2026-03-13T19:34:52.892Z"
+}

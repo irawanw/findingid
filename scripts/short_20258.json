@@ -1,0 +1,83 @@
+{
+  "title": "Hairdryer Murah Tapi Hasilnya Mahal!",
+  "hook_text": "Keringin rambut cuma 5 menit?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah panik sambil lihat jam tangan lalu transisi ke rambut kering berkilau.",
+      "narration": "Emang sih boleh beli hairdryer yang bisa keringin rambut dalam lima menit doang? Nggak percaya dong bestie."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Gaabor Hair Dryer berwarna pink diperagakan dengan efek partikel biru (cahaya anion) di sekitarnya.",
+      "narration": "Tenang, jawabannya ada di sini. Gaabor Hair Dryer dengan teknologi anion biru yang literally next level buat perawatan rambutmu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 149.000 muncul besar dengan efek stiker diskon, lalu muncul perbandingan value.",
+      "narration": "Duh, harga cuma empat belas puluhan ribu rupiah. Which is worth it banget kalau dipikirin, can you believe it?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Mode panas/dingin, 2. Filter debu, 3. Tampilan layar digital.",
+      "narration": "Pertama, ada dua mode panas dan dingin jadi rambut nggak rusak. Kedua, filter debu bikin udara bersih banget pas dikeringin. Dan yang paling asik, ada layar digital yang super cute buat lihat suhu secara real time."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage orang sibuk: kerjaan di kantor, olahraga, lalu langsung keramas dan keringkan rambut dengan cepat.",
+      "narration": "Perfect buat yang aktivitasnya super padat dan nggak ada waktu buat ngeringin rambut lama-lama. Kalau kamu sering keterlambatan karena masalah basah-basahan, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.87 bintang dan angka 60.000 terjual, lalu quote bubble muncul.",
+      "narration": "Pembelinya pada ngomong rambut jadi halus banget dan nggak kusut. No cap, ini benar-benar ampuh."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan tombol animasi 'Cek Sekarang'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#Gaabor",
+    "#HairCareHacks",
+    "#BudgetBeauty",
+    "#ViralShorts",
+    "#SkincareIndonesia",
+    "#HairDryerTips",
+    "#GenZVibes",
+    "#CantikMurah"
+  ],
+  "product_id": 20258,
+  "product_title": "Gaabor Hair Dryer Pengering Rambut Profesional Cahaya Biru Anion Teknologi Blu-Ray Pink",
+  "product_price": "169000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/20258.jpg",
+    "/uploads/products/20258_1.jpg",
+    "/uploads/products/20258_2.jpg",
+    "/uploads/products/20258_3.jpg",
+    "/uploads/products/20258_4.jpg",
+    "/uploads/products/20258_5.jpg",
+    "/uploads/products/20258_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/20258",
+  "generated_at": "2026-03-14T13:30:26.103Z"
+}

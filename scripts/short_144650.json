@@ -1,0 +1,80 @@
+{
+  "title": "Minyak Telon Wangi Greentea? Ini Gila Bestie! 🍵✨",
+  "hook_text": "Wangi banget! Bikin tenang seketika.",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up bottle minyak telon Doodle dipegang tangan dengan efek sparkles dan background hijau segar.",
+      "narration": "Stop scroll dulu dong! Pernah nggak sih kamu butuh sesuatu yang wanginya langsung bikin mood naik dan badan jadi rileks?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Doodle Minyak Telon Greentea 100ml diputar perlahan menampilkan label 'Original' dan 'Plus Formula'.",
+      "narration": "Kenalan yuk sama Doodle Minyak Telon Greentea Original! Ini bukan minyak telon biasa, ini versi plus dengan formulasi terbaru yang beda banget dari yang lain, basically next level."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan harga '64-an ribu' dengan animasi tanda tanya lalu berubah jadi harga coret.",
+      "narration": "Nah, yang bikin gila nih bestie, harganya cuma seratus empat puluhan ribu! Kamu dapet kualitas premium dan wangi greentea yang nendang, which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen 3 fitur: 1. Icon daun teh (Wangi), 2. Icon pelindung (Panas), 3. Icon hati (Alami).",
+      "narration": "Triknya ada tiga: Pertama, wanginya greentea yang fresh banget bikin tidur nyenyak. Kedua, efek hangat pelindungnya super kuat buat jaga suhu tubuh. Ketiga, bahannya alami 100% aman banget buat kulit sensitif."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat: Mama mengoleskan ke bayi, orang dewasa mengoleskan setelah berolahraga, dan anak sekolah sebelum tidur.",
+      "narration": "Perfect buat yang sering begadang atau kalau kamu orangnya susah tidur. Kalau aktivitas kamu butuh relaksasi instan setelah seharian ribut, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.93 dan angka 100.000 terjual dengan background hijau cerah.",
+      "narration": "Pembelinya pada ngomong kalau wanginya enak banget dan pengirimannya cepet bgt. No cap, ratingnya 4.93 dari seratus ribu orang yang udah beli bilang ini top!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol panah menunjuk ke bawah atau layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id, bestie!",
+  "hashtags": [
+    "#MinyakTelonDoodle",
+    "#GreenteaScent",
+    "#RelaksasiMalam",
+    "#ParentingHacks",
+    "#ProductViral",
+    "#WangiEnak",
+    "#FindingId",
+    "#FypIndonesia"
+  ],
+  "product_id": 144650,
+  "product_title": "Doodle Minyak Telon Greentea Ukuran 100 ml Original",
+  "product_price": "64000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/144650.jpg",
+    "/uploads/products/144650_1.jpg",
+    "/uploads/products/144650_2.jpg",
+    "/uploads/products/144650_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/144650",
+  "generated_at": "2026-03-14T05:27:22.428Z"
+}

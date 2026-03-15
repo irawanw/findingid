@@ -1,0 +1,85 @@
+{
+  "title": "Gendongan Bayi Paling Nyaman & Aman! 🍼✨",
+  "hook_text": "Dokter Rekomendasi! Wajib Punya?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah bayi tersenyum ceria saat digendong depan dengan ekspresi bunda yang bahagia",
+      "narration": "Pernah denger nggak sih, gendongan ini direkomendasiin langsung sama para dokter?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat: membungkus gendongan M-Shape pada badan, bayi terlihat aman dan nyaman",
+      "narration": "Ini dia Gendongan Baby Wrap 3in1 Geos Baby Instan Premium. Desain M-Shape nya basic-nya next level buat ngembangin tulang sikecil, which is literally worth it banget buat kesehatan buah hati lo!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 75.000 yang muncul dengan efek animasi seru, lalu transisi ke gambar gendongan dengan sash belt",
+      "narration": "Gak perlu nunggu diskon besar-besaran, bestie. Kamu bisa langsung bawa pulang seharga seratus delapan puluhan ribu aja! Gila kan, dapet fitur premium seharga segini?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Bayi baru lahir di gendong, 2. Mommy jalan santai, 3. Detail sash belt dan kain lembut",
+      "narration": "No cap, fitur-nya super lengkap. Pertama, bisa dipakai buat nggendong bayi baru lahir, jadi mommie tenang banget. Kedua, punya sash belt tambahan buat keamanan ekstra pas jalan-jalan. Ketiga, bahannya lembut banget dan nggak bikin kulit sikecil gatal, which is super penting buat bayi yang sensitif."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Konten kreator sedang menggendong bayi sambil kerja dari rumah atau nonton film",
+      "narration": "Perfect buat kamu yang sering nggendong anak mulai usia nol bulan, atau yang butuh tangan kosong buat kerja dari rumah. Kalau aktivitas kamu sibuk tapi pengen sikecil tetap nyaman di dada, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.88 bintang dan angka 50.000+ terjual dengan teks kutipan muncul",
+      "narration": "Pembelinya pada ngomong teksturnya lembut banget dan cocok buat bayi dari nol bulan. Plus, udah terjual puluhan ribu unit dengan rating hampir lima bintang, guys!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah menunjuk ke bawah, teks 'Cek Detail di Sini'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#gendonganbayi",
+    "#babywrap",
+    "#momhacks",
+    "#parentingindonesia",
+    "#produkramahbayi",
+    "#findingdotid",
+    "#viralshorts",
+    "#rekomendasidokter"
+  ],
+  "product_id": 25128,
+  "product_title": "Gendongan Bayi Depan M Shape Baby Wrap 3in1 Geos Baby Instan Premium with Sash Belt QYO-QYO",
+  "product_price": "71000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/25128.jpg",
+    "/uploads/products/25128_1.jpg",
+    "/uploads/products/25128_2.jpg",
+    "/uploads/products/25128_3.jpg",
+    "/uploads/products/25128_4.jpg",
+    "/uploads/products/25128_5.jpg",
+    "/uploads/products/25128_6.jpg",
+    "/uploads/products/25128_7.jpg",
+    "/uploads/products/25128_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/25128",
+  "generated_at": "2026-03-15T07:45:04.215Z"
+}

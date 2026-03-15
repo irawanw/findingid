@@ -1,0 +1,83 @@
+{
+  "title": "Popok Bayi Jepang Terbaik! Wajib Coba!",
+  "hook_text": "Bayi kamu sering ngalir air? Stop scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah bayi yang rewel sambil digoyangkan pelan dengan efek suara air berceceran.",
+      "narration": "Bayi kamu sering rewel karena kulitnya lembab banget? Atau malah sering ngalir air?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke kemasan Twinpack Merries Premium Popok Bayi Perekat NB yang diputar perlahan di atas meja kayu.",
+      "narration": "Tenang bestie, solusinya ada di sini! Ini Merries Premium Popok Bayi Perekat NB, kualitas produksi Jepang yang literally next level buat kulit lembut si kecil."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 129.300 di layar dengan efek uang jatuh, lalu muncul teks 'Sudah 24 pcs!'",
+      "narration": "Kamu nggak perlu keluar dompet tebal. Harga cuma seratus dua puluhan ribu perak, tapi sudah dapat dua puluh empat buah dalam satu twinpack. Which is worth it banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: close-up tekstur popok yang lembut, animasi uap keluar dari popok (menunjukkan sirkulasi udara), dan demonstrasi perekat yang kuat di popok.",
+      "narration": "Fiturnya nggak main-main! Pertama, tiga lapisannya bikin sirkulasi udara lancar jadi kelembapan hilang dengan cepat, kulit tetap kering. Kedua, dia cepat banget nyerap pipis dan kotoran lunak. Ketiga, perekatnya kuat banget, nggak gampang lepas pas kamu ngomporin si kecil. No cap, ini super nyaman!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu sedang mengganti popok bayi baru lahir dengan gerakan yang mudah dan santai, lalu tersenyum puas.",
+      "narration": "Perfect buat yang punya si kecil ukuran baru lahir atau preterm. Kalau kamu sering ganti popok karena dia sering pipis, ini bakal jadi penyelamat kamu. Mudah sekali dipakai dan nggak bikin kulit bayi merah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.93/5 dan angka 20.000 produk terjual, dengan teks overlay kutipan pembeli.",
+      "narration": "Pembelinya pada ngomong kalau produk ini lembut dan aman banget buat kulit bayi, serat kuat nggak bikin iritasi. Plus udah laku dua puluh produk dan ratingnya empat koma sembilan tiga."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah, musik upbeat berhenti mendadak.",
+      "narration": "Penasaran sama stok dan detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#MerriesPremium",
+    "#PopokBayi",
+    "#BabyCare",
+    "#ParentingHacks",
+    "#KulitBayiKering",
+    "#NewBornEssentials",
+    "#JepangQuality",
+    "#FindingId"
+  ],
+  "product_id": 166152,
+  "product_title": "Merries Premium Popok Bayi Perekat NB 24 Twinpack",
+  "product_price": "129300.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/166152.jpg",
+    "/uploads/products/166152_1.jpg",
+    "/uploads/products/166152_2.jpg",
+    "/uploads/products/166152_3.jpg",
+    "/uploads/products/166152_4.jpg",
+    "/uploads/products/166152_5.jpg",
+    "/uploads/products/166152_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/166152",
+  "generated_at": "2026-03-15T09:22:52.512Z"
+}

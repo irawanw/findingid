@@ -1,0 +1,78 @@
+{
+  "title": "Popok Viral MamyPoko, Benar-benar Xtra Kering?!",
+  "hook_text": "Popok viral itu beneran worth it?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan close-up popok MamyPoko sedang dibuka perlahan dengan efek zoom in dramatis ke bantalan dalamnya.",
+      "narration": "Popok viral di berita itu beneran worth it atau cuma hype doang ya bestie?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat: bayi tertawa, popok diaplikasikan di perut bayi, dan close-up pada teknologi Xtra Kering.",
+      "narration": "Tenang, MamyPoko Pants ini literally next level! Teknologi Xtra Keringnya bikin kulit bayi nggak basah lagi, plus anti bocor 10 jam nonstop."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek suara 'ding', lalu transisi ke tumpukan 2 ball.",
+      "narration": "Nggak percaya? Harga terendah cuma lima puluh dua ribuan, dan yang paling gila ada PROMO dua ball, basically hemat banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Bayi tidur nyenyak. 2. Close up pinggang popok yang elastis. 3. Animasi sirkulasi udara di bawah popok.",
+      "narration": "Fiturnya no cap super lengkap! Pertama, bantalan serapnya kuat banget seharian. Kedua, ban pinggangnya lembut banget nggak ngekek. Ketiga, sirkulasi udaranya bagus banget buat kulit sensitif."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu sedang tidur siang sambil diemem sambil melihat bayinya yang tenang.",
+      "narration": "Perfect buat kamu yang sering sibuk atau butuh tidur nyenyak. Kalau aktivitas kamu butuh popok awet seharian, ini solusi terbaik!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.85 dan angka 200.000 terjual yang berdenyut, lalu muncul teks kutipan ulasan.",
+      "narration": "Pembelinya pada ngomong teksturnya lembut banget dan nggak bikin iritasi, rating 4.85 bintang!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah atau tombol 'Cek Sekarang'.",
+      "narration": "Penasaran sama promo dua ball-nya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek promo dua ball di finding dot id!",
+  "hashtags": [
+    "#mamypoko",
+    "#popokbaby",
+    "#parentingindonesia",
+    "#babyproducts",
+    "#parentinghack",
+    "#findingid",
+    "#parentingviral",
+    "#bestpopok"
+  ],
+  "product_id": 25383,
+  "product_title": "PROMO 2 BALL !! MAMYPOKO PANTS XTRA KERING NBS44/S38/M32/L28/XL26/XXL24",
+  "product_price": "107860.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/25383.jpg",
+    "/uploads/products/25383_1.jpg"
+  ],
+  "product_link": "https://finding.id/p/25383",
+  "generated_at": "2026-03-15T08:49:25.735Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Cleora Jelly Booster 2 Pcs Murah Banget!",
+  "hook_text": "Ngak percaya wajah cerah cuma seratus tiga puluhan ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing dengan efek cahaya terang",
+      "narration": "Ngak percaya wajah cerah cuma seratus tiga puluhan ribu?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Cleora dipegang tangan dengan background bersih",
+      "narration": "Ini Cleora Beauty Exclusive Glow Jelly Booster, paket twinpack buat kamu yang mau glow up no cap, literally jadi wajib punya, produk bagus."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar",
+      "narration": "Harganya cuma sekitar seratus tiga puluhan ribu, dapet dua botol sekaligus, which is worth it banget, serious, harga miring, gak mahal."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Video demonstrasi tekstur jelly dioleskan ke kulit",
+      "narration": "Teksturnya jelly kental gampang meresap, wanginya mewah, hasilnya nampakan dalam seminggu saja. Literally next level buat moisturizer, bestie. Kulit jadi glowing, fresh."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang tersenyum ceria memegang produk di kamar",
+      "narration": "Perfect buat kamu yang kulitnya susah putih atau butuh daily cream buat malem dan siang hari. Gak perlu ribet, deh, sangat recommended."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan jumlah terjual",
+      "narration": "30 ribu orang udah beli! Pembelinya bilang, 'Hasilnya nampakan sepekan.' --- Packing aman kok, tenang saja."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah link di layar",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#CleoraBeauty",
+    "#SkincareMurah",
+    "#GlowUp",
+    "#ViralProduct",
+    "#SkincareWanita",
+    "#BeautyHacks",
+    "#FindingID",
+    "#RekomendasiSkincare"
+  ],
+  "product_id": 100205,
+  "product_title": "[ISI 2 PCS] Cleora Beauty Exclusive Glow Jelly Booster 30gr 2pcs | Special Bundle Twinpack Moisturizer Untuk Brightening Dan Anti Aging Wanita Pria Day Cream Night Cream Pemutih Wajah Pelembab Wajah",
+  "product_price": "131626.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100205.jpg",
+    "/uploads/products/100205_1.jpg",
+    "/uploads/products/100205_2.jpg",
+    "/uploads/products/100205_3.jpg",
+    "/uploads/products/100205_4.jpg",
+    "/uploads/products/100205_5.jpg",
+    "/uploads/products/100205_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100205",
+  "generated_at": "2026-03-13T18:34:15.775Z"
+}

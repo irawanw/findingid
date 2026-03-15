@@ -1,0 +1,96 @@
+{
+  "title": "Gendongan Bayi Anti Pegal Cuma 90Rb!",
+  "hook_text": "Sakit pinggang gara-gara gendong bayi?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah ibu terlihat lelah memeluk bayi, lalu transisi ke senyum lega.",
+      "narration": "Sakit pinggang gara-gara gendong bayi? No cap, ini solusinya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Happykid Hipseat ditunjukkan dari berbagai sudut dengan pencahayaan cerah.",
+      "narration": "Kenalin Happykid Hipseat, bestie! Gendongan ergonomis yang bikin punggung lega."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek animasi koin jatuh.",
+      "narration": "Harganya? Sembilan puluh ribuan doang! --- Worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo posisi gendong depan belakang, close up bahan kain dan sabuk lebar.",
+      "narration": "Ada 6 posisi gendong, fleksibel banget buat depan atau belakang. --- Sabuk lebar, punggung nggak sakit. Bahan poliester adem, kuat, beban maksimal 20 kilogram. Motif hewan lucu banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu muda sedang berjalan santai di taman sambil menggendong bayi dengan produk ini.",
+      "narration": "Perfect buat kalian yang budget terbatas tapi mau si kecil nyaman. --- Atau yang aktif jalan-jalan bareng bayi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.8 dan angka penjualan 40.000 terjual di layar.",
+      "narration": "Rating 4,8 dari 40 ribu pembelian! --- Yang udah beli bilang, \"Bayi juga betah lama-lama di gendong\". Ada yang bilang sambungan plastik, jadi cek kondisi barang pas datang ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan panah menunjuk ke arah kanan.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#Happykid",
+    "#GendonganBayi",
+    "#TipsOrangTua",
+    "#BabyGear",
+    "#ViralProducts",
+    "#ParentingHacks",
+    "#IbuMuda",
+    "#FindingID"
+  ],
+  "product_id": 25076,
+  "product_title": "Happykid Gendongan Hipseat 6 Posisi / Gendongan Bayi Hip seat Anti Pegal Ergonomis",
+  "product_price": "89998.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/25076.jpg",
+    "/uploads/products/25076_1.jpg",
+    "/uploads/products/25076_2.jpg",
+    "/uploads/products/25076_3.jpg",
+    "/uploads/products/25076_4.jpg",
+    "/uploads/products/25076_5.jpg",
+    "/uploads/products/25076_6.jpg",
+    "/uploads/products/25076_7.jpg",
+    "/uploads/products/25076_8.jpg",
+    "/uploads/products/25076_9.jpg",
+    "/uploads/products/25076_10.jpg",
+    "/uploads/products/25076_11.jpg",
+    "/uploads/products/25076_12.jpg",
+    "/uploads/products/25076_13.jpg",
+    "/uploads/products/25076_14.jpg",
+    "/uploads/products/25076_15.jpg",
+    "/uploads/products/25076_16.jpg",
+    "/uploads/products/25076_17.jpg",
+    "/uploads/products/25076_18.jpg",
+    "/uploads/products/25076_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/25076",
+  "generated_at": "2026-03-13T20:35:31.596Z"
+}

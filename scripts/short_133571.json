@@ -1,0 +1,83 @@
+{
+  "title": "Jeans Viral Selfless Loose Fit Murah Banget",
+  "hook_text": "Jangan scroll! Jeans viral ini bikin style auto upgrade",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah host dengan ekspresi kaget sambil menunjuk ke bawah layar",
+      "narration": "Stop scroll dulu bestie! --- Ada jeans viral yang bikin style kamu auto upgrade."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menunjukkan celana jeans Selfless di model dengan gaya 90s",
+      "narration": "Kenalin nih, Selfless Basic Loose Fit. --- Vibe 90s Amerika, tapi cuttingnya modern banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek suara 'cha-ching'",
+      "narration": "Harganya? Cuma seratus enam puluhan ribu aja! --- Literally murah banget buat denim tebal."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close-up tekstur bahan denim dan detail kancing label kulit",
+      "narration": "Bahannya denim 12.5 Oz non-stretch, jadi awet dan gak gampang melar. --- Potongan loose fit longgar tapi jatuh banget. Kancing metal dan label kulit asli juga ada, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model berpose santai dengan berbagai ukuran celana di rak",
+      "narration": "Paling cocok buat kamu yang suka street style atau Korean fashion. --- Ada juga ukuran jumbo, jadi gak khawatir kekecilan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.75 dan jumlah penjualan 30.000 di aplikasi",
+      "narration": "Rating 4.75 bintang, udah laris 30.000 lebih! --- Yang udah beli bilang sip ajah deh, item pekat dan desain loose."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pencarian finding.id dengan panah mengarah ke layar",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#SelflessJeans",
+    "#JeansViral",
+    "#OOTDIndonesia",
+    "#FashionPria",
+    "#DenimLovers",
+    "#StreetStyleID",
+    "#HargaTerjangkau",
+    "#FindingID"
+  ],
+  "product_id": 133571,
+  "product_title": "Selfless - Celana Jeans Denim Basic Loose Fit Pria",
+  "product_price": "163930.00",
+  "product_rating": "4.75",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/133571.jpg",
+    "/uploads/products/133571_1.jpg",
+    "/uploads/products/133571_2.jpg",
+    "/uploads/products/133571_3.jpg",
+    "/uploads/products/133571_4.jpg",
+    "/uploads/products/133571_5.jpg",
+    "/uploads/products/133571_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/133571",
+  "generated_at": "2026-03-13T17:42:26.868Z"
+}

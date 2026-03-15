@@ -1,0 +1,82 @@
+{
+  "title": "Goto Ophelia Spin Mop: Solusi Lantai Bersih!",
+  "hook_text": "Pel Lantai Jadi Ngak Ribet Lagi!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up lantai kotor yang tiba-tiba bersih dengan efek transisi cepat.",
+      "narration": "Emangnya ada alat bersih-bersih yang bikin kerja cepet?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing produk Goto Ophelia dengan pencahayaan cinematic dan slow motion.",
+      "narration": "Kenalin nih, Goto Ophelia Spin Mop Ultra. Ini bukan pel biasa, bestie. Ada fitur putar yang bikin tangan nggak pegel lagi."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek kilat atau uang terbang.",
+      "narration": "Bayangin deh, set lengkap gini cuma seratus lima puluh ribuan aja. Literally murah banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi fitur peras otomatis, kepala fleksibel masuk sudut, dan roda ember.",
+      "narration": "Pertama, peras otomatis bikin air langsung bersih --- Kedua, kepala mop fleksibel masuk ke celah. Ketiga, ember ada rodanya. Gampang banget dipindah. Soal kualitas? Ini asli Goto, jadi lebih awet."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu muda sedang pel dengan santai sambil menengok ke arah kamera.",
+      "narration": "Cocok buat kamu yang punya anak kecil atau sibuk kerja. Lantai kinclong tanpa banting badan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.79 dan counter jumlah penjualan 50 ribu.",
+      "narration": "Ratingnya 4,79 dari 50 ribu pembeli. Yang udah beli bilang 'Original GOTO, membantu meringankan pekerjaan Pel Lantai'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah mengarah ke layar yang menampilkan logo finding.id.",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie, review lengkapnya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review lengkapnya ada di sana!",
+  "hashtags": [
+    "#GotoOphelia",
+    "#SpinMop",
+    "#CleaningHacks",
+    "#AlatPel",
+    "#RumahBersih",
+    "#GenZIndonesia",
+    "#ViralProduct"
+  ],
+  "product_id": 94670,
+  "product_title": "Goto Ophelia Spin Mop Ultra Alat Pel Pelan Set Putar Pembersih Lantai",
+  "product_price": "149800.00",
+  "product_rating": "4.79",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/94670.jpg",
+    "/uploads/products/94670_1.jpg",
+    "/uploads/products/94670_2.jpg",
+    "/uploads/products/94670_3.jpg",
+    "/uploads/products/94670_4.jpg",
+    "/uploads/products/94670_5.jpg",
+    "/uploads/products/94670_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/94670",
+  "generated_at": "2026-03-13T18:02:40.083Z"
+}

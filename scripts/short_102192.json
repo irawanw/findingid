@@ -1,0 +1,85 @@
+{
+  "title": "Foundation Matte Cream Wangi Wangi! ✨",
+  "hook_text": "STOP! Kulit kamu butuh ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wajah dengan efek makeup pecah di siang hari, lalu transisi cepat ke kulit flawless. Teks besar: 'Gak Pecah Dulu!'",
+      "narration": "Stop scrolling! Siapa di sini yang males makeup pecah di tengah hari? Nggak bakal ada lagi dong!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk MAKE OVER Powerstay Total Cover Matte Cream Foundation diputar 360 derajat, tunjukkan tekstur cream di tangan lalu dioles ke wajah.",
+      "narration": "Perkenalkan, MAKE OVER Powerstay Total Cover Matte Cream Foundation! Ini basically next level buat kamu yang mau coverage tinggi tapi teksturnya tetap lembut banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga Rp 139.300 dengan efek suara 'ding' lucu, lalu split screen bandingkan dengan foundation mahal lain.",
+      "narration": "Gila sih, harganya cuma seratus tiga puluhan ribu! Dapet coverage tinggi, SPF 30, plus tahan lama hingga 12 jam seharga segelas kopi. Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Wajah glowing, 2. Jarum waktu berputar cepat, 3. Wajah di bawah terik matahari tetap mulus.",
+      "narration": "Pertama, coverage-nya nampol banget, samaran semua noda tanpa bikin topeng. Kedua, mengontrol minyak jadi makeup nggak luntur berjam-jam. Ketiga, ada SPF 30 PA++++, jadi lindungi kulit dari sinar matahari biar nggak aging!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage orang kulit sawo matang dan kulit cerah tersenyum ceria pakai makeup ini, tunjukkan berbagai varian warna di rak.",
+      "narration": "Perfect buat kamu yang aktivitasnya outdoor atau sering ngantor seharian. Cocok juga buat kamu kulit sawo matang atau cenderung kering, tinggal tambahin face oil dikit aja bestie!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 5 dan angka 20.000 terjual, lalu muncul bubble chat dengan teks ulasan asli.",
+      "narration": "Rating 4.85 dari dua puluh ribuan terjual! Yang udah beli bilang teksturnya cream dan cocok banget buat kulit sawo matang. No cap, ini aman!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul dengan animasi menarik, background warna pastel cerah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#makeover",
+    "#foundationindo",
+    "#skincarehacks",
+    "#glowup",
+    "#makeupviral",
+    "#skintok",
+    "#foundationviral",
+    "#makeupindonesia"
+  ],
+  "product_id": 102192,
+  "product_title": "MAKE OVER Powerstay Total Cover Matte Cream Foundation",
+  "product_price": "139300.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/102192.jpg",
+    "/uploads/products/102192_1.jpg",
+    "/uploads/products/102192_2.jpg",
+    "/uploads/products/102192_3.jpg",
+    "/uploads/products/102192_4.jpg",
+    "/uploads/products/102192_5.jpg",
+    "/uploads/products/102192_6.jpg",
+    "/uploads/products/102192_7.jpg",
+    "/uploads/products/102192_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/102192",
+  "generated_at": "2026-03-14T22:41:10.997Z"
+}

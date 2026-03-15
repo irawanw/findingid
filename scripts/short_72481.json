@@ -1,0 +1,81 @@
+{
+  "title": "Pompa ASI Murah Gak Murahan? Cek Dulu!",
+  "hook_text": "Pompa ASI Cuma Ratusan Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah host dengan ekspresi kaget memegang pompa ASI.",
+      "narration": "Pompa ASI elektrik harga ratusan ribu? --- Tenang bestie, ini beneran ada!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Momwell diputar di tangan, tunjukkan desain tanpa kabel.",
+      "narration": "Kenalin, Momwell Pompa ASI Wireless. Desainnya portabel, no kabel ribet, bisa pake satu tangan aja."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga 'Rp 135rb-an' muncul besar di layar dengan efek sparkle.",
+      "narration": "Harganya seratus tiga puluhan ribu doang! --- Bandingin sama kompetitor, which is literally worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage fitur: layar HD, baterai Type-C, dan penggunaan satu tangan.",
+      "narration": "Fitur dia next level. Hisapannya kuat, hening banget, nggak ganggu tidur bayi. --- Ada layar HD, baterai awet Type-C. Kalo hisapan kurang mantul, itu butuh adaptasi sih, buat harga segini no cap super oke. basically worth it banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu menyusui sedang bekerja di laptop sambil menggunakan pompa ASI.",
+      "narration": "Super cocok buat ibu kerja, mahasiswa, atau yang sering mobilitas tinggi tapi mau hemat budget. which is perfect buat kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.83 dan jumlah terjual 30.000 di aplikasi.",
+      "narration": "Ratingnya 4.83, total udah terjual 30 ribu produk! --- Yang udah beli bilang 'Kualitas seperti pompa jutaan, mantap pool'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke kanan bawah dengan tulisan 'Cek di Finding ID'.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#MomwellASI",
+    "#PompaASIMurah",
+    "#IbuBekerja",
+    "#MomLife",
+    "#ReviewProduk",
+    "#FindItAtFinding",
+    "#ASI",
+    "#ViralProduct"
+  ],
+  "product_id": 72481,
+  "product_title": "Momwell Pompa ASI Electric Tanpa Kabel Otomatis Portabel Alat Pumping ASI Bayi Baru Lahir Hisap Kuat",
+  "product_price": "139000.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/72481.jpg",
+    "/uploads/products/72481_1.jpg",
+    "/uploads/products/72481_2.jpg",
+    "/uploads/products/72481_3.jpg",
+    "/uploads/products/72481_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/72481",
+  "generated_at": "2026-03-13T18:23:35.494Z"
+}

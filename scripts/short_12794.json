@@ -1,0 +1,88 @@
+{
+  "title": "Sweater Viral 60 Ribu! Worth It Banget Bestie",
+  "hook_text": "Sweater 60 Ribu?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up texture sweater + flash price tag 60 ribuan",
+      "narration": "Gila sih, sweater tebal kayak gini cuma enam puluhan ribu?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model wearing sweater, turning around showing fit",
+      "narration": "Ini nih bestie, Sweater Crewneck Polos dari iD Artwear. --- Bahannya fleece tebal GM280, which is literally next level buat cuaca se-Indonesia."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Phone screen showing price 61rb-67rb",
+      "narration": "Bayangin, dapat kualitas premium tapi cuma enam puluh ribuan doang. --- Which is worth it banget, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail stitching, fabric close-up, color grid",
+      "narration": "Pertama, bahannya tebal tapi tetep adem. --- Kedua, jahitannya rapih banget. --- Ketiganya, ada enam varian warna kece, dari abu-abu sampai hijau botol yang lagi viral."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Group of friends or size chart graphic",
+      "narration": "Perfect buat kalian yang suka gaya simple. --- Tapi bestie, hati-hati soal ukuran ya! Ada yang bilang LD 130 CM di XXL masih kekecilan. --- Jadi jangan terlalu ketat, bestie!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Star rating animation + sold counter",
+      "narration": "Rating 4,8 bintang, sudah laku 100.000 lebih. --- Yang sudah beli bilang, worth it harga segitu dapat bagus, bahannya tebal."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id + link text",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SweaterViral",
+    "#OotdMurah",
+    "#FashionGenZ",
+    "#SweaterPolos",
+    "#StyleTermurah",
+    "#PromoMurah",
+    "#OOTDIndonesia",
+    "#FashionIndonesia"
+  ],
+  "product_id": 12794,
+  "product_title": "Sweater Crewneck Polos Sweatshirt Polos SIZE M - XXL switer Cowok Cewek Sweater Pria Wanita Terlaris",
+  "product_price": "61500.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/12794.jpg",
+    "/uploads/products/12794_1.jpg",
+    "/uploads/products/12794_2.jpg",
+    "/uploads/products/12794_3.jpg",
+    "/uploads/products/12794_4.jpg",
+    "/uploads/products/12794_5.jpg",
+    "/uploads/products/12794_6.jpg",
+    "/uploads/products/12794_7.jpg",
+    "/uploads/products/12794_8.jpg",
+    "/uploads/products/12794_9.jpg",
+    "/uploads/products/12794_10.jpg",
+    "/uploads/products/12794_11.jpg"
+  ],
+  "product_link": "https://finding.id/p/12794",
+  "generated_at": "2026-03-13T16:13:41.209Z"
+}

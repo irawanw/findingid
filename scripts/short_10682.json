@@ -1,0 +1,96 @@
+{
+  "title": "Jaket Taslan Bolak-Balik! Worth It Banget Bestie",
+  "hook_text": "Jaket ini bolak balik?! Wah seriusan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan membalikkan jaket di udara dengan gerakan cepat dan dinamis.",
+      "narration": "Stop scroll dulu bestie! Kamu nggak akan percaya kalau jaket ini bisa dipakai dua cara sekaligus tanpa ribet."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat model cowok dan cewek pakai jaket di luar ruangan dengan efek angin.",
+      "narration": "Ini jaket Taslan JN bolak balik yang bahannya luar super kuat dan dalam katun plecee Taiwan, which is basically next level buat dandan casual maupun motor."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek 'pop', lalu transisi ke gambar jaket di rak.",
+      "narration": "Coba bayangin dapat jaket tahan angin dan air seharga seratus lima puluh delapan ribuan hingga seratus enam puluh delapan ribuan, no cap worth it banget dong!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail tekstur kain Taslan yang kuat, lalu close-up resleting yang mulus, terakhir model jalan di bawah hujan semprot.",
+      "narration": "Pertama, bahan Taslan jn-nya nggak gampang sobek dan benar-benar anti air. Kedua, resletingnya super halus nggak macet pas dibuka tutup. Ketiga, karena bahan dalamnya katun gramasi dua ratus tiga puluh, jadi nggak bikin gerah saat cuaca panas terik."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene split screen: di kiri remaja jalan kaki, di kanan anak motor bawa helm, di tengah pasangan (couple) jalan bareng.",
+      "narration": "Perfect buat kamu yang sering naik motor, remaja yang suka jalan-jalan, atau bahkan kamu yang cari outfit couple sama pasanganmu karena gaya pas di semua kalangan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan layar HP menunjukkan rating bintang empat koma delapan tujuh dan angka terjual dua puluh ribuan.",
+      "narration": "Pembelinya pada ngomong 'Nyaman banget dipake' dan 'Bahan bagus dan warna sesuai gambar', dan ratingnya sudah empat koma delapan tujuh lima."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi fun dan tombol 'Cek Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stok terbatas jadi buruan sebelum kehabisan!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya!",
+  "hashtags": [
+    "#Jaketaslan",
+    "#OutfitCouple",
+    "#JaketMotor",
+    "#FashionGenZ",
+    "#WearItAll",
+    "#StyleIndonesia",
+    "#HematPakeCerdas",
+    "#FindingId"
+  ],
+  "product_id": 10682,
+  "product_title": "Jaket Taslant JN Bolak-Balik Cowok Cewek Tahan Air dan Angin Waterproof Ukuran M-3XL Zipper - Motor, Casual",
+  "product_price": "159943.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/10682.jpg",
+    "/uploads/products/10682_1.jpg",
+    "/uploads/products/10682_2.jpg",
+    "/uploads/products/10682_3.jpg",
+    "/uploads/products/10682_4.jpg",
+    "/uploads/products/10682_5.jpg",
+    "/uploads/products/10682_6.jpg",
+    "/uploads/products/10682_7.jpg",
+    "/uploads/products/10682_8.jpg",
+    "/uploads/products/10682_9.jpg",
+    "/uploads/products/10682_10.jpg",
+    "/uploads/products/10682_11.jpg",
+    "/uploads/products/10682_12.jpg",
+    "/uploads/products/10682_13.jpg",
+    "/uploads/products/10682_14.jpg",
+    "/uploads/products/10682_15.jpg",
+    "/uploads/products/10682_16.jpg",
+    "/uploads/products/10682_17.jpg",
+    "/uploads/products/10682_18.jpg",
+    "/uploads/products/10682_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/10682",
+  "generated_at": "2026-03-14T12:35:36.271Z"
+}

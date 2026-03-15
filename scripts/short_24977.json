@@ -1,0 +1,84 @@
+{
+  "title": "Pompa ASI Portabel Dr.isla, Worth It Banget!",
+  "hook_text": "Beli Pompa ASI, Udah Nyesel?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tombol pause muncul di layar sementara video zoom in ke wajah ibu bingung di tengah keramaian.",
+      "narration": "Stop sejenak bestie! Ada yang bilang 'Emang boleh beli empat?' padahal ini cuma satu alat aja sih."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot close-up produk Dr.isla Pompa ASI Elektrik Tanpa Kabel Otomatis berputar perlahan, sorot lampu malam nyala di ruangan gelap.",
+      "narration": "Ini Dr.isla Pompa ASI Elektrik Tanpa Kabel Otomatis, literally next level buat kamu yang sibuk dan pengen privasi maksimal pas nyedot."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan harga Rp 249.000 muncul besar dengan efek 'pop', lalu teks 'Cuma segini!' melayang.",
+      "narration": "Gila sih harganya cuma seratus empat puluhan ribu, which is worth it banget buat dapet teknologi sebandingin itu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: baterai 1500mAh dicas, pompa hisap kuat di tangan ibu, dan lampu malam menyala di kamar gelap.",
+      "narration": "Pertama, baterai seratus lima puluh an mAh portabel, jadi bisa bawain kemana aja tanpa charger. Kedua, hisapnya kuat dan bisa atur kecepatannya sendiri, no cap! Ketiga, ada lampu malam biar nggak ganggu bayi baru lahir, super helpful."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu menyusui di kantor sambil kerja, lalu di parkiran mobil saat mau nganter anak ke sekolah.",
+      "narration": "Perfect buat yang sering WFH atau harus ngantor sambil ngerjain ASI. Kalau aktivitas kamu banyak banget dan nggak mau repot bawa kabel, ini solusi banget!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan screenshot rating 4.84/5 dan angka 20.000 terjual, lalu teks kutipan muncul dengan font bubble.",
+      "narration": "Pembelinya pada ngomong 'Bisa d bawain kemana2' dan 'Pas d coba, bagus kekuatan pompanya'. Jadi, no worries ya bestie!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah, dan tombol 'Cek Sekarang' berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id, bestie!",
+  "hashtags": [
+    "#PompaASI",
+    "#DrIsla",
+    "#HijabMom",
+    "#SedotASI",
+    "#IbuBekerja",
+    "#ParentingIndonesia",
+    "#ViralShorts",
+    "#TemukanBijak"
+  ],
+  "product_id": 24977,
+  "product_title": "Dr.isla Pompa ASI Elektrik Tanpa Kabel Otomatis 1500mAh Portabel pompa asi Fungsi lampu malam ASI bayi baru lahir Hisap Kuat breast pump EB23",
+  "product_price": "249000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/24977.jpg",
+    "/uploads/products/24977_1.jpg",
+    "/uploads/products/24977_2.jpg",
+    "/uploads/products/24977_3.jpg",
+    "/uploads/products/24977_4.jpg",
+    "/uploads/products/24977_5.jpg",
+    "/uploads/products/24977_6.jpg",
+    "/uploads/products/24977_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/24977",
+  "generated_at": "2026-03-15T03:51:31.002Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "CCTV 360 Derajat Harga Dwi Belasan? Gila Banget!",
+  "hook_text": "CCTV 360 Derajat Harga Dwi Belasan? Gila Banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot CCTV berputar cepat dengan efek zoom in dramatis sambil musik trending berdetak.",
+      "narration": "Kamu tau nggak sih? Ada CCTV yang bisa ngintai 360 derajat tapi harganya nggak bikin dompet kaget. Literally worth it banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage produk di berbagai sudut ruangan rumah, tunjukkan antena WiFi dan app di HP.",
+      "narration": "Ini SEKER CCTV V380 PRO, bestie. Fitur motion detection-nya super sensitif, langsung alert ke HP kalau ada gerak. Basically next level buat keamanan rumah kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar: 'Dwi Belasan Ribu!' dengan efek confetti, lalu transisi cepat ke tampilan harga di aplikasi.",
+      "narration": "Gak percaya? Harganya cuma seratus delapan puluhan ribu rupiah. Murah meriah, tapi kualitasnya nggak main-main. Which is worth it banget dibanding CCTV konvensional yang puluhan jutaan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan lensa zoom, kanan tunjukkan fitur night vision di kegelapan total, bawah tunjukkan instalasi kabel yang minim.",
+      "narration": "Pertama, lensa 360 derajatnya bikin kamu nggak perlu pasang banyak unit. Kedua, night vision-nya jernih banget, gelap pun bisa jelas. Dan yang paling keren, settingannya gampang, nggak perlu pusing sama kabel rumit-rumit. No cap, ini user friendly banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario split: seseorang sedang mudik dari luar kota, lalu cut ke orang yang sedang tidur siang di teras rumah.",
+      "narration": "Perfect buat kamu yang sering mudik atau nggak bisa ngontrol teras rumah pas lagi tidur siang. Kalau aktivitas kamu butuh monitoring jarak jauh tanpa pusing instalasi, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.78 dan angka 60.000 terjual, lalu muncul bubble chat dengan quote.",
+      "narration": "Rating empat koma tujuh delapan, udah laku enam puluh ribu produk. Yang udah beli bilang: 'Ini cctv murah meriah berfungsi dengan baik keren pas di tinggal mudik jadi ketauan siapa² yg suka iseng di teras rumah.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol panah menunjuk ke bawah, musik memuncak.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#CCTVMurah",
+    "#HomeSecurity",
+    "#FindingId",
+    "#ReviewProduk",
+    "#TeknologiRumah",
+    "#SmartHome",
+    "#ViralShorts",
+    "#KeamananRumah"
+  ],
+  "product_id": 146797,
+  "product_title": "SEKER CCTV V380 PRO Smart WiFi Motion Detection Kamer Lampu 360 Degree PTZ View Home Security IP Camera",
+  "product_price": "108999.00",
+  "product_rating": "4.78",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/146797.jpg",
+    "/uploads/products/146797_1.jpg",
+    "/uploads/products/146797_2.jpg",
+    "/uploads/products/146797_3.jpg",
+    "/uploads/products/146797_4.jpg",
+    "/uploads/products/146797_5.jpg",
+    "/uploads/products/146797_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/146797",
+  "generated_at": "2026-03-14T08:07:41.807Z"
+}

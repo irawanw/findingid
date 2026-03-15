@@ -1,0 +1,77 @@
+{
+  "title": "Popok Newborn Hemat & Lembut Banget!",
+  "hook_text": "Bayi kamu nggak boleh ruam!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah bayi baru lahir yang lucu sambil ngiler, lalu transisi cepat ke popok Sweety Silver.",
+      "narration": "Stop scroll bestie! Bayi baru lahir kulitnya itu super sensitif banget, nggak bisa di-main-main sama ruam ya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Sweety Silver Comfort Cloud Soft NB-S di atas meja dengan background bersih, zoom in ke tekstur lembut.",
+      "narration": "Solusinya nih, popok Sweety Silver Comfort Cloud Soft model NB sampai S. Isinya 40 pcs yang cocok buat bayi beratnya 3 sampai 8 kg."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga turun drastis dengan efek visual 'expensive' lalu berubah menjadi 'super cheap' sambil tunjukkan kemasan isi 40 pcs.",
+      "narration": "Nah yang bikin kaget harga cuma enam puluhan ribu rupiah aja! Wow, untuk isi 40 pcs? Basically next level-nya hemat banget kan guys?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri bayi tidur nyenyak, kanan animasi tetesan air masuk ke dalam popok secepat kilat.",
+      "narration": "Dulu dia punya Diamond Layer Technology di dalamnya, which is bikin kulit bayi nggak kena langsung sama pipis. Penyerapannya cepet satu detik dan bahannya super lembut, nggak bikin gerah."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas bayi: mandi, bermain main, dan tidur siang dengan popok Sweety di badannya.",
+      "narration": "Perfect buat kamu yang baru punya si kecil atau kalau aktivitas sehari-hari sering ganti popok. Gak cuma itu, sirkulasi udaranya juga bagus banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.9 bintang dengan jumlah 300.000 terjual, lalu muncul teks kutipan pembeli.",
+      "narration": "Pembelinya pada ngomong bahannya selembut itu dan nggak bocor. No cap, ratingnya 4.9 dari 300 ribu terjual!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Sweety Silver dengan panah menunjuk ke bawah atau teks besar 'Cek finding dot id'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id ya bestie",
+  "hashtags": [
+    "#popokhemat",
+    "#bayisehat",
+    "#newbornessentials",
+    "#sweetysilver",
+    "#parentinghack",
+    "#produkterlaris",
+    "#belibayianline",
+    "#diskonpopok"
+  ],
+  "product_id": 75089,
+  "product_title": "Sweety Silver Comfort Cloud Soft Newborn NB - S 40 Popok Perekat Baby Diapers",
+  "product_price": "50100.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/75089.jpg"
+  ],
+  "product_link": "https://finding.id/p/75089",
+  "generated_at": "2026-03-14T03:56:04.246Z"
+}

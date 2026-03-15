@@ -1,0 +1,82 @@
+{
+  "title": "POCO F7 HP Gaming Paling Gila?",
+  "hook_text": "HP Gaming Paling Gila Tahun Ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot of phone screen lighting up with gaming graphics.",
+      "narration": "HP gaming paling gila tahun ini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Hand holding POCO F7 with Snapdragon logo overlay.",
+      "narration": "Ada nih POCO F7, beast mode-nya Snapdragon 8s Gen 4 yang literally next level."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Graphic showing price tag popping up with animation.",
+      "narration": "Harganya cuma enam jutaan, which is worth it banget buat spek segede ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen showing battery icon, screen brightness, and water droplet.",
+      "narration": "Baterai raksasa 6500mAh plus charge 90W, literally nggak perlu bawa powerbank. Layar AMOLED 1.5K kecerahan 3200 nit, which is super bright. Ada IP68, tahan air dan debu. --- Oh iya, biar nggak gampang panas, jangan main game sambil di-charge ya bestie."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Fast-paced montage of gaming and content creation scenes.",
+      "narration": "Cocok banget buat kamu yang sering gaming berat atau content creator yang butuh performa stabil."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot of 4.96 star rating and 20k sold counter.",
+      "narration": "Ratingnya 4.96 bintang, udah laku 20 ribu produk. Yang udah beli bilang, 'Dari dulu produknya nggak pernah ngecewain'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Hand pointing to screen text 'finding dot id'.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya, ada info produknya di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya, ada info produknya di sana!",
+  "hashtags": [
+    "#POCO",
+    "#POCOF7",
+    "#GamingPhone",
+    "#TechID",
+    "#Xiaomi",
+    "#Smartphone",
+    "#GadgetViral",
+    "#FindingID"
+  ],
+  "product_id": 331,
+  "product_title": "POCO F7 (12/512GB) | Snapdragon® 8s Gen 4 | 6500mAh with 90W HyperCharge | 6.83\" 1.5K 120Hz AMOLED display | 50MP dual camera with OIS | IP68 dust and water resistance [Official Store]",
+  "product_price": "5999000.00",
+  "product_rating": "4.96",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/331.jpg",
+    "/uploads/products/331_1.jpg",
+    "/uploads/products/331_2.jpg",
+    "/uploads/products/331_3.jpg",
+    "/uploads/products/331_4.jpg",
+    "/uploads/products/331_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/331",
+  "generated_at": "2026-03-13T16:05:23.865Z"
+}

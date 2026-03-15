@@ -1,0 +1,91 @@
+{
+  "title": "Celana Chino Benhill Murah Banget Bestie!",
+  "hook_text": "Celana Premium Cuma 173 Ribuan?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tekstur kain celana dengan efek zoom in cepat",
+      "narration": "Stop scroll! Celana chino premium ini harganya bikin kamu shock banget, no cap."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Model pria memakai celana berjalan santai di jalanan kota",
+      "narration": "Ini dia Benhill Chino Pants, model 27712-13-322. Bahan katun stretch yang dingin banget, cocok buat harian kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks overlay harga besar muncul di layar dengan efek glow",
+      "narration": "Padahal kualitasnya premium, tapi harganya cuma seratus tujuh puluh tiga ribu tiga ratus rupiah. Literally worth it banget untuk seharga segini."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Detail shot jahitan, saku, dan stretch kain saat ditarik",
+      "narration": "Pertama, bahannya adem gak kaku. Kedua, jahitannya presisi dan kuat. Ketiga, desain slim fit yang bikin kamu terlihat lebih proporsional tanpa capek gerak. Basically next level."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Montase cepat menunjukkan 4 poin keunggulan produk",
+      "narration": "Bahan katun stretch yang adem dan tidak kaku. --- Jahitan rapi, kuat, dan presisi. --- Desain slim fit yang modern dan versatile. --- Tersedia ukuran jumbo hingga empat puluh dua. which is worth it banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Skenario pria bekerja di kantor lalu jalan santai sore hari",
+      "narration": "Perfect buat yang kerja kantoran atau yang suka jalan santai. --- Kalau kamu punya postur besar, jangan khawatir karena ada ukuran besar yang pas. Tadinya galau, tapi pas pakai ukuran tiga puluh dua. So simple."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Tampilan rating bintang dan angka penjualan di layar",
+      "narration": "Totalnya udah terjual lima puluh ribu produk dengan rating empat koma delapan delapan dari lima. --- Ada yang bilang 'Sangat worth it dengan harga under dua ratus ribu'. No cap."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Swatch warna celana dan variasi ukuran di layar",
+      "narration": "Tersedia banyak ukuran mulai dari dua puluh delapan sampai empat puluh dua. --- Pilih warna favoritmu biar outfit makin kece. Which is super important."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tangan menunjuk ke tombol link di bawah layar",
+      "narration": "Klik link di deskripsi sekarang sebelum kehabisan. --- Gak bakal nyesel bestie. Trust me."
+    }
+  ],
+  "cta": "Klik link di deskripsi sekarang sebelum kehabisan.",
+  "hashtags": [
+    "#Benhill",
+    "#CelanaPria",
+    "#ChinoPants",
+    "#OutfitPria",
+    "#RekomendasiPakaian",
+    "#FashionIndonesia",
+    "#GenZStyle",
+    "#ViralShorts"
+  ],
+  "product_id": 64928,
+  "product_title": "Benhill Celana Pria Panjang Chino Pants Slim Fit Katun Stretch Hitam 27712-13-322",
+  "product_price": "173631.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64928.jpg"
+  ],
+  "product_link": "https://finding.id/p/64928",
+  "generated_at": "2026-03-12T14:44:07.450Z"
+}

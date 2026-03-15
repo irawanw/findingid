@@ -1,0 +1,83 @@
+{
+  "title": "Cleora Glow Jelly Booster Muka Glowing?",
+  "hook_text": "Muka Kusam? Ini Solusinya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kusam lalu transisi cepat ke wajah glowing cerah.",
+      "narration": "Muka kusam parah, bestie? Nggak bisa lagi ditahan! --- Wajah jadi kayak udah lupa skincare."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan botol Cleora Exclusive Glow Jelly Booster di tengah meja dengan pencahayaan cinematic.",
+      "narration": "Kenalin, Cleora Exclusive Glow Jelly Booster. Ini moisturizer gel yang bikin kulit glowing dalam tujuh hari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan teks harga besar muncul di layar bersamaan dengan produk dipegang.",
+      "narration": "Harganya? Cuma tujuh puluhan ribu aja buat ukuran 30ml. Worth it banget lah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase tekstur gel di tangan, ingredients list, dan sertifikat BPOM.",
+      "narration": "Pertama, teksturnya ringan dan nge-resap cepet banget. --- Kedua, ada Niacinamide Grade A plus Vitamin C. Ketiga, aman buat ibu hamil, bebas alkohol dan paraben. No cap, ini produknya legit banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model wanita aktif sedang beraktivitas di luar ruangan dengan kulit wajah sehat.",
+      "narration": "Perfect buat kamu yang aktivitasnya di luar ruangan terus, kulitnya kusam, berminyak, atau punya pori besar."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.86 dan counter penjualan 100.000 di layar.",
+      "narration": "Rating 4.86 bintang, udah terjual seratus ribuan. --- Yang udah beli bilang, udah ke 3 kalinya beli ini dan emang bagus banget bikin cerah."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan QR Code atau logo finding.id dengan panah mengarah ke layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, ada review produk-nya di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, ada review produk-nya di sana!",
+  "hashtags": [
+    "#CleoraGlow",
+    "#SkincareKorea",
+    "#WajahGlowing",
+    "#SkincareMurah",
+    "#PelembabWajah",
+    "#SkincareReview",
+    "#BeautyIndonesia",
+    "#FindingID"
+  ],
+  "product_id": 100173,
+  "product_title": "[TERLARIS] Cleora Exclusive Glow Jelly Booster Moisturizer | Skincare Pelembab Wajah Wanita Efektif Mencerahkan Melembabkan Mengatasi Muka Kusam Dark Spot Memperbaiki Skin Barrier Anti Aging Brightening Mosturizer Day Cream Facial Calming Day Night",
+  "product_price": "76000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100173.jpg",
+    "/uploads/products/100173_1.jpg",
+    "/uploads/products/100173_2.jpg",
+    "/uploads/products/100173_3.jpg",
+    "/uploads/products/100173_4.jpg",
+    "/uploads/products/100173_5.jpg",
+    "/uploads/products/100173_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100173",
+  "generated_at": "2026-03-13T21:14:28.746Z"
+}

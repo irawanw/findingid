@@ -1,0 +1,96 @@
+{
+  "title": "Handuk Bayi Extra Soft! Murah Meriah 💸",
+  "hook_text": "Handuk kasar? STOP SEKARANG!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tekstur kain kasar menggosok wajah bayi dengan wajah sedih, lalu cut cepat ke handuk Little Palmerhaus yang lembut disentuh jari.",
+      "narration": "Stop dulu bestie! Jangan sampe kulit bayi kamu kaget sama handuk yang kasar banget."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Handuk Little Palmerhaus Little Terry dipegang dan ditekan pelan ke wajah bayi yang tersenyum bahagia, tunjuk tulisan brand di pojok.",
+      "narration": "Halo guys, ini handuk Little Palmerhaus Little Terry yang literally super soft dan nyaman banget buat kulit si kecil."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar di layar dengan efek confetti, lalu transisi ke tumpukan handuk berbagai warna lucu.",
+      "narration": "Duh, harganya cuma seratus puluhan ribu aja tapi kualitasnya next level, which is worth it banget buat stok barengan!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot 1: Tangan meraba kain yang sangat lembut. Shot 2: Zoom in ke jahitan pinggir yang rapi dan tidak bergerigi. Shot 3: Handuk dibasahi air dan langsung kering.",
+      "narration": "Pertama, bahannya super halus nggak bikin iritasi sama sekali. Kedua, jahitannya rapi dan lembut di pinggir nggak ngecengin kulit. Ketiga, dia cepat kering dan menyerap air dengan baik."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage: Bayi mandi, digendong saat keluar kamar mandi, dan tidur di atas handuk yang nyaman.",
+      "narration": "Perfect buat kamu yang punya anak bayi atau balita yang kulitnya sensitif banget. Kalau aktivitas kamu sering bawa bayi keluar rumah, ini wajib punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.86 dan angka 30.000 terjual yang berkedip, lalu muncul teks kutipan pembeli.",
+      "narration": "Sebenernya nggak perlu ragu, rating empat koma delapan enam dengan tiga puluh ribu terjual. Yang udah beli bilang motifnya lucu dan bahannya halus."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul besar dengan panah menunjuk ke bawah, background warna cerah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#HandukBayi",
+    "#LittlePalmerhaus",
+    "#MomHacks",
+    "#BabyCare",
+    "#ViralShopee",
+    "#ParentingTips",
+    "#SoftTowel",
+    "#BabyGift"
+  ],
+  "product_id": 23828,
+  "product_title": "Handuk Bayi Little Palmerhaus Little Terry EXTRA SOFT by Terry Palmer uk 50 x 100cm - Bayi Anak",
+  "product_price": "29900.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/23828.jpg",
+    "/uploads/products/23828_1.jpg",
+    "/uploads/products/23828_2.jpg",
+    "/uploads/products/23828_3.jpg",
+    "/uploads/products/23828_4.jpg",
+    "/uploads/products/23828_5.jpg",
+    "/uploads/products/23828_6.jpg",
+    "/uploads/products/23828_7.jpg",
+    "/uploads/products/23828_8.jpg",
+    "/uploads/products/23828_9.jpg",
+    "/uploads/products/23828_10.jpg",
+    "/uploads/products/23828_11.jpg",
+    "/uploads/products/23828_12.jpg",
+    "/uploads/products/23828_13.jpg",
+    "/uploads/products/23828_14.jpg",
+    "/uploads/products/23828_15.jpg",
+    "/uploads/products/23828_16.jpg",
+    "/uploads/products/23828_17.jpg",
+    "/uploads/products/23828_18.jpg",
+    "/uploads/products/23828_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/23828",
+  "generated_at": "2026-03-15T10:11:14.167Z"
+}

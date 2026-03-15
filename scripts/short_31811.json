@@ -1,0 +1,96 @@
+{
+  "title": "DASI INSTAN HARGA DELAPAN PULUHAN RIBU BESTIE",
+  "hook_text": "Nggak perlu jago ikat dasi dong!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah presenter dengan ekspresi kaget, teks overlay besar muncul cepat",
+      "narration": "Nggak perlu jago ikat dasi dong, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat, presenter memegang produk Nextland Dasi, shot produk dari berbagai angle",
+      "narration": "Kenalin, ini Nextland Dasi Instant. --- Langsung pakai, nggak perlu ribet bikin simpul yang bikin pusing."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek glow, background blur",
+      "narration": "Harganya cuma delapan puluhan ribu, which is super worth it banget. --- Buat yang mau tampil rapi tanpa perlu keluar banyak duit."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi bahan mikro viber, shot ukuran 50cm, dan close-up packing kardus",
+      "narration": "Bahan micro viber adem banget, ukurannya pas 50 sentimeter. --- Oh iya, packing kardusnya kadang bentek dikit, tapi tenang, dasinya aman jaya kok. Bahannya juga awet banget buat dipake sehari-hari."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase orang pakai dasi di kantor, kondangan, dan acara formal",
+      "narration": "Perfect banget buat kamu yang sering meeting kantor. --- Mau kondangan atau acara formal lainnya, nggak perlu takut salah ikat lagi. Nggak bakal bikin malu-maluin."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.92 dan angka penjualan 20.000+ muncul cepat",
+      "narration": "Ratingnya 4,92 bintang, udah terjual dua puluh ribuan! --- Yang udah beli bilang, 'Tampilannya elegan, warna merah hitam cocok buat pegawai kantor'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pointing ke bawah atau logo finding.id, presenter tersenyum",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#dasi",
+    "#nextland",
+    "#dasiinstant",
+    "#ootd",
+    "#formal",
+    "#kantor",
+    "#wedding",
+    "#gift"
+  ],
+  "product_id": 31811,
+  "product_title": "NEXTLAND - DASI INSTAN DASI FORMAL OFFICE WEDDING LANGSUNG PAKAI ANTI REPOT DASI JADI DASI PRIA BERKWALITAS",
+  "product_price": "85000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/31811.jpg",
+    "/uploads/products/31811_1.jpg",
+    "/uploads/products/31811_2.jpg",
+    "/uploads/products/31811_3.jpg",
+    "/uploads/products/31811_4.jpg",
+    "/uploads/products/31811_5.jpg",
+    "/uploads/products/31811_6.jpg",
+    "/uploads/products/31811_7.jpg",
+    "/uploads/products/31811_8.jpg",
+    "/uploads/products/31811_9.jpg",
+    "/uploads/products/31811_10.jpg",
+    "/uploads/products/31811_11.jpg",
+    "/uploads/products/31811_12.jpg",
+    "/uploads/products/31811_13.jpg",
+    "/uploads/products/31811_14.jpg",
+    "/uploads/products/31811_15.jpg",
+    "/uploads/products/31811_16.jpg",
+    "/uploads/products/31811_17.jpg",
+    "/uploads/products/31811_18.jpg",
+    "/uploads/products/31811_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/31811",
+  "generated_at": "2026-03-13T16:07:37.178Z"
+}

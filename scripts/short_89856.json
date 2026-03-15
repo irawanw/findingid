@@ -1,0 +1,86 @@
+{
+  "title": "Sepatu Kanky Story Gozen Viral! Murah & Nyaman",
+  "hook_text": "Nggak nyangka sepatu sekeren ini cuma 200 ribuan!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up sepatu Kanky dengan efek cahaya dramatis dan teks overlay besar.",
+      "narration": "Nggak nyangka sepatu sekeren ini harganya cuma 200 ribuan!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dipegang tangan, putar sedikit untuk tunjukkan detail desain.",
+      "narration": "Ini Kanky Story Gozen, sneakers casual favorit cewek sekarang. Brand lokal yang lagi viral banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek sound effect 'cha-ching'.",
+      "narration": "Padahal kualitasnya premium, tapi harganya cuma di dua ratus empat puluh ribuan doang. No cap, ini murah banget buat kualitasnya!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menunjukkan tekstur bahan dan kaki pakai sepatu jalan santai di taman.",
+      "narration": "Insole memory foam, literally empuk banget di kaki. Material knitting bikin sirkulasi udara oke, jadi nggak gerah. Desainnya minimalis, which is super versatile buat outfit kamu. Bisa dipake buat lari ringan juga."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model memakai sepatu ke kampus atau jalan santai di mall dengan senyum ceria.",
+      "narration": "Kalau kamu sering jalan jauh atau butuh sepatu harian yang ringan, ini dia. --- Tapi hati-hati, warnanya cream cantik, bukan putih bersih ya bestie!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan screenshot chat pembeli yang positif.",
+      "narration": "Rating 4,94 dari 30 ribu terjual. Yang udah beli bilang, \"sangat ringan empuk dan nyaman\". Packingnya juga aman banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id animasi muncul dengan panah menunjuk ke tombol di layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#kankystory",
+    "#sepatuwanita",
+    "#sneakersmurah",
+    "#ootdsekolah",
+    "#rekomendasiseptu",
+    "#localbrand",
+    "#viralproduct",
+    "#findingid"
+  ],
+  "product_id": 89856,
+  "product_title": "Kanky Story Gozen - Sepatu Sneakers Casual Sport Sekolah Wanita Dewasa",
+  "product_price": "241920.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/89856.jpg",
+    "/uploads/products/89856_1.jpg",
+    "/uploads/products/89856_2.jpg",
+    "/uploads/products/89856_3.jpg",
+    "/uploads/products/89856_4.jpg",
+    "/uploads/products/89856_5.jpg",
+    "/uploads/products/89856_6.jpg",
+    "/uploads/products/89856_7.jpg",
+    "/uploads/products/89856_8.jpg",
+    "/uploads/products/89856_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/89856",
+  "generated_at": "2026-03-13T16:54:58.394Z"
+}

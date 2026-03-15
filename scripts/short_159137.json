@@ -1,0 +1,82 @@
+{
+  "title": "Tas Bayi Multifungsi Bestie! Muat Semua, Harga Gak Mahal",
+  "hook_text": "Stop Scroll! Tas Bayi Ajaib Nemu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tas dibuka lebar-lebar menampilkan isi berantakan tapi rapi, dengan ekspresi wajah shock di layar.",
+      "narration": "Eits stop dulu! Kamu tau gak kalau nemu tas bayi yang bener-bener worth it banget buat para bunda?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menunjukkan tas ransel dipakai di pundak lalu langsung ditumpuk barang-barang bayi.",
+      "narration": "Ini dia Baby diapers bag multifungsi! Ransel cantik ini basically next level buat ngurus si kecil, which is super praktis dan estetik banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek membalik, lalu muncul perbandingan visual tas vs dompet.",
+      "narration": "Gak percaya kalau kualitas segini harganya cuma seratus delapan puluhan ribu? Nggak bohong deh, deal banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Menunjukkan tekstur bahan tebal, 2. Menunjukkan banyak kompartemen dibuka tutup, 3. Menunjukkan tali yang ditarik kencang.",
+      "narration": "Pertama, bahannya tebellll dan awet banget, nggak gampang sobek. Kedua, ukurannya pas dan gak besar-gak kecil, bisa muat barang banyak buat baby kamu. Ketiga, kapasitasnya luas banget, bisa bawa popok, susu, sampai baju ganti, pokoknya lengkap semua!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase video: Bunda pergi ke taman bermain, ke taman kanak-kanak, dan jalan-jalan sore dengan tas ini.",
+      "narration": "Perfect buat yang sering bawa si kecil main, ke taman kanak-kanak, atau kalau aktivitas kamu jalan-jalan jauh. Gak bakal kehabisan barang di dalam tas deh!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.88 dan angka 30.000 terjual berkedip, lalu muncul teks kutipan ulasan positif.",
+      "narration": "Rating empat koma delapan delapan dan udah laku tiga puluh ribu produk! Yang udah beli bilang bahannya tebellll dan bakal awet banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar menampilkan logo finding.id dengan animasi panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#TasBayi",
+    "#BundaKeren",
+    "#ParentingHacks",
+    "#BabyGear",
+    "#ShoppingViral",
+    "#FindingId",
+    "#TasRansel",
+    "#WajibBawa"
+  ],
+  "product_id": 159137,
+  "product_title": "Tas Bayi Multifungsi Baby diapers bag Perawatan tas Perlengkapan Ransel Backpack",
+  "product_price": "138522.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/159137.jpg",
+    "/uploads/products/159137_1.jpg",
+    "/uploads/products/159137_2.jpg",
+    "/uploads/products/159137_3.jpg",
+    "/uploads/products/159137_4.jpg",
+    "/uploads/products/159137_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/159137",
+  "generated_at": "2026-03-14T23:39:37.545Z"
+}

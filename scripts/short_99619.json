@@ -1,0 +1,89 @@
+{
+  "title": "Makeup Glass Skin 24 Jam Cuma Tujuh Puluh Ribu!",
+  "hook_text": "Kulit kaca 24 jam tanpa filter?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing dengan efek cahaya yang dramatis.",
+      "narration": "Kulit kaca 24 jam tanpa filter? --- Ada dong!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan memegang botol Sea Makeup dengan background estetik.",
+      "narration": "Sea Makeup Stayput Glow Fix, setting spray favorit para bestie. Riasan nempel banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek uang.",
+      "narration": "Harganya mulai dari tujuh puluhan ribuan sampai dua ratusan ribu --- which is worth it banget buat 100ml."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase proses spray makeup dan efek kering cepat.",
+      "narration": "Efek glowing glass skin-nya tahan lama --- pengeringan cepat gak bikin luntur --- plus Aloe Vera-nya menenangkan kulit. Literally glowing banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang beraktivitas di luar ruangan atau panas.",
+      "narration": "Cocok buat semua jenis kulit --- terutama buat yang sering keluar ruangan panas. Pastikan pilih varian warna yang sesuai ya, biar gak salah kirim."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan jumlah terjual di layar.",
+      "narration": "Rating 4.94, udah laku 30 ribuan --- yang udah beli bilang 'percaya ga pernah gagal'. Worth it parah."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah mengarah ke bawah atau ke profil.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana. Jangan sampe kehabisan!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana. Jangan sampe kehabisan!",
+  "hashtags": [
+    "#SeaMakeup",
+    "#SettingSpray",
+    "#GlassSkin",
+    "#MakeupTahanLama",
+    "#SkincareIndonesia",
+    "#MakeupViral",
+    "#ReviewMurah",
+    "#FindingID"
+  ],
+  "product_id": 99619,
+  "product_title": "[NEWEST HOT SALE!] Sea Makeup Stayput Glow Fix Setting Spray - Longlasting Makeup 24 Jam Continuous Glowing Korean Glass Skin with Aloe Vera Extract Finish Fine Mist Spray Primer Makeup Kosmetik Wajah Tahan Lama",
+  "product_price": "75700.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/99619.jpg",
+    "/uploads/products/99619_1.jpg",
+    "/uploads/products/99619_2.jpg",
+    "/uploads/products/99619_3.jpg",
+    "/uploads/products/99619_4.jpg",
+    "/uploads/products/99619_5.jpg",
+    "/uploads/products/99619_6.jpg",
+    "/uploads/products/99619_7.jpg",
+    "/uploads/products/99619_8.jpg",
+    "/uploads/products/99619_9.jpg",
+    "/uploads/products/99619_10.jpg",
+    "/uploads/products/99619_11.jpg",
+    "/uploads/products/99619_12.jpg"
+  ],
+  "product_link": "https://finding.id/p/99619",
+  "generated_at": "2026-03-13T21:15:52.195Z"
+}

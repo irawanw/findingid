@@ -1,0 +1,83 @@
+{
+  "title": "Tas Mudik Jumbo 50cm Murah Banget!",
+  "hook_text": "Tas Mudik Murah? Bisa Banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up host surprised face with hand gesture",
+      "narration": "Stop scroll! Kenapa harus bayar mahal buat tas mudik kalau ini ada guys, no cap."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product spinning on table with bright lighting",
+      "narration": "Temuin ini, tas pakaian jumbo 50cm yang literally next level kualitasnya buat travel atau mudik."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Big text overlay of price on screen",
+      "narration": "Harganya cuma tujuh puluh ribuan, which is worth it banget for this size."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Host stuffing clothes inside bag to show capacity",
+      "narration": "Kapasitasnya Guedeeeee loh, literally muatin semua baju kamu tanpa perlu ribet lipet. --- Jahitan rapih, packing aman, bener banget real pict and fast delivery, which is super important."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Host holding passport and ticket while holding the bag",
+      "narration": "Kalau aktivitas kamu sering jalan-jalan atau pulang kampung bareng bestie, ini solusinya banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot of rating and sold counter on screen",
+      "narration": "Tiga puluh ribu produk udah terjual, rating 4.9. --- Yang udah beli bilang, sumpah tasnya lucu banget dan cepet. --- Ada yang bilang ukuran nggak sesuai pesanan, jadi cek lagi ukurannya ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host pointing to bottom of screen with smile",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya, review produk-nya ada di sana bestie, jangan sampai kehabisan!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya, review produk-nya ada di sana bestie!",
+  "hashtags": [
+    "#tasjumbo",
+    "#tas mudik",
+    "#travelhacks",
+    "#rekomendasitas",
+    "#produkviral",
+    "#budgetmurah",
+    "#gadgetgaya",
+    "#findingid"
+  ],
+  "product_id": 113250,
+  "product_title": "Travel Bag Tas Pakaian Tas Mudik Jumbo Ukuran 50cm",
+  "product_price": "70000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/113250.jpg",
+    "/uploads/products/113250_1.jpg",
+    "/uploads/products/113250_2.jpg",
+    "/uploads/products/113250_3.jpg",
+    "/uploads/products/113250_4.jpg",
+    "/uploads/products/113250_5.jpg",
+    "/uploads/products/113250_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/113250",
+  "generated_at": "2026-03-13T21:30:33.778Z"
+}

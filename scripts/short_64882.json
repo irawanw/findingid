@@ -1,0 +1,80 @@
+{
+  "title": "Sunscreen Ibu Hamil Aman & Murah? Bestie!",
+  "hook_text": "Wajah Kusam Pas Hamil?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing dengan teks overlay besar.",
+      "narration": "Wajah kusam dan sensitif pas lagi hamil? Stop scroll dulu, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan botol produk Mama’s Choice dari dekat.",
+      "narration": "Ini Mama’s Choice Daily Protection, sunscreen mineral yang aman banget buat bumil dan busui."
+    },
+    {
+      "id": "price",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul dengan efek kaget.",
+      "narration": "Harganya? Mulai dari seratus tiga puluhan ribu aja! Worth it banget buat perlindungan harian."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Aplikasi tekstur produk di lengan dan daftar bahan.",
+      "narration": "Bebas paraben, ada Hyaluronic Acid buat hidrasi. Teksturnya ringan, cepet menyerap, nggak lengket sama sekali --- Ada BPOM resmi, jadi no doubt soal keamanannya. Mencerahkan juga dong, which is nice banget buat wajah kusam."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu hamil sedang pakai skincare dengan senyum bahagia.",
+      "narration": "Kalau kamu punya kulit kering atau gampang iritasi, ini perfect banget. Khusus buat yang cari skincare aman tanpa bahan kimia berbahaya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan angka penjualan.",
+      "narration": "Rating 4,89 dari 50 ribu terjual! Yang udah beli bilang 'teksturnya lembut dan nggak lengket' --- Ada yang bilang isi dikit sih, tapi karena ini concentrated, tetep awet."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, ada review lengkap produk-nya di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, ada review lengkap produk-nya di sana!",
+  "hashtags": [
+    "#MamaChoice",
+    "#SunscreenIbuHamil",
+    "#SkincareAman",
+    "#BumilGlow",
+    "#ReviewSkincare",
+    "#DailyProtection",
+    "#KulitSensitif",
+    "#FindingId"
+  ],
+  "product_id": 64882,
+  "product_title": "Sunscreen Ibu Hamil | Daily Protection Face Moisturizer SPF 20 PA++ Mama's Choice  (Mineral Sunscreen Moisturizer Ibu Hamil dan Menyusui))",
+  "product_price": "130900.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64882.jpg",
+    "/uploads/products/64882_1.jpg",
+    "/uploads/products/64882_2.jpg",
+    "/uploads/products/64882_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/64882",
+  "generated_at": "2026-03-13T18:35:26.963Z"
+}

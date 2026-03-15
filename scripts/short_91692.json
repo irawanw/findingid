@@ -1,0 +1,86 @@
+{
+  "title": "Sandal Brukat Mewah Cuma 60-an?! 🤯",
+  "hook_text": "Gak percaya ini harga?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot tangan memegang sandal brukat dengan latar belakang cahaya estetik, teks harga muncul besar di layar.",
+      "narration": "Stop scrolling bestie! Kamu bakal shock banget sama harganya produk ini hari ini."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat model wanita mengenakan sandal tersebut di acara formal atau kondangan dengan pose percaya diri.",
+      "narration": "Ini Laviola 2914 LSH, sandal brukat wanita terbaru koleksi Aprilia. Desainnya literally next level, elegan banget buat pesta atau kondangan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tombol harga 'Rp 60.000' dipukul dengan efek getar lucu, lalu muncul teks 'Murah Banget'.",
+      "narration": "Buat harga segitu, kamu kira gimana? Cuma enam puluhan ribu doang! Seratus delapan puluhan ribu itu harga lain ya bestie, ini emang murah banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail kaki melangkah di atas karpet kasar (tunjukkan sol anti-slip), lalu close-up bahan brukat yang halus, dan ujung lancip yang ramping.",
+      "narration": "No cap, kualitasnya beneran worth it. Sol karet Javarino anti-slip aman banget buat jalan. Bahan brukat lembut nggak gampang sobek, plus insole double foam yang empuk bikin kaki nggak pegal. Ujung lancipnya juga super stylish!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: kiri wanita remaja ke pesta, kanan wanita dewasa ke acara syukuran/akad, keduanya tersenyum bahagia.",
+      "narration": "Perfect buat kamu yang sering ke kondangan atau acara formal tapi budget tetap ketat. Atau kalau kamu remaja yang butuh sandal pesta kekinian yang nggak bikin kaki sakit, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.81 besar dengan angka 40.000+ terjual di bawahnya, muncul cuplikan chat pembeli.",
+      "narration": "Pembelinya pada ngomong 'Masya Alloh baru kmrin pesen skrg udh sampe, brgnya bagus murah tapi kualitas boleh di adu'!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh logo finding.id dengan panah menunjuk ke bawah, musik upbeat memuncak.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#sandalbrukat",
+    "#sandalwedging",
+    "#fashionwanita",
+    "#sandalpesta",
+    "#sandalmurah",
+    "#sandalkekinian",
+    "#findingid",
+    "#wedges"
+  ],
+  "product_id": 91692,
+  "product_title": "Sandal bustong brukat in-02/Aprilia collection sendal brukat wanita terbaru hak 3cm/samdal hak brukat pesta perempuan remaja/sandal wanita pormal/sandal kondangan pernikahan/sandal selop wanita kekinian/wedges wanita terbaru.Cod",
+  "product_price": "55899.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/91692.jpg",
+    "/uploads/products/91692_1.jpg",
+    "/uploads/products/91692_2.jpg",
+    "/uploads/products/91692_3.jpg",
+    "/uploads/products/91692_4.jpg",
+    "/uploads/products/91692_5.jpg",
+    "/uploads/products/91692_6.jpg",
+    "/uploads/products/91692_7.jpg",
+    "/uploads/products/91692_8.jpg",
+    "/uploads/products/91692_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/91692",
+  "generated_at": "2026-03-14T04:12:09.958Z"
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Blazer Katun Harga Mahal? No Cap!",
+  "hook_text": "Blazer mahal atau ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up model berpose percaya diri dengan blazer hitam di depan background minimalis elegan",
+      "narration": "Stop scroll dulu bestie! Siap-siap nyesel nggak beli blazer ini, literally worth it banget."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat zoom out menampilkan full body model, tunjukkan detail jahitan rapi dan bahan katun",
+      "narration": "Ini Jas Blazer Pria Katun Tailored, tersedia dari ukuran XS sampe XXXXL, which is super flexible buat semua body type."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay besar muncul di tengah layar dengan efek 'pop' menampilkan harga, background gelap elegan",
+      "narration": "Gila sih, harganya cuma seratus enam puluhan ribu sampe dua ratus ribu! Basically next level hemat banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen cepat: 1. Close up bahu, 2. Close up saku dalam, 3. Model berputar menunjukkan jatuh busa",
+      "narration": "First, pakai busa di pundak biar bentuknya tetap rapi seharian. Second, ada saku dalam satu pcs buat nyimpen barang kecil. Third, bahanya high twill dan full furing, nggak gampang lumer di cuaca panas, which is perfect buat yang suka banget beraktivitas luar."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase singkat: Model ke kantor, nge-date, dan meeting penting dengan ekspresi happy dan percaya diri",
+      "narration": "Perfect buat kamu yang sering meeting, nge-date, atau mau tampil profesional di kantor tanpa ribet. Kalau aktivitas kamu padat, ini solusi banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.81, angka 50.000 terjual, dan bubble chat muncul di pojok dengan teks asli",
+      "narration": "Rating empat koma delapan satu dari lima puluh ribu pembeli. Yang udah beli bilang, mantap untuk harga segitu udah dpt jas bagus bngt."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul jelas dengan tombol panah menunjuk ke bawah atau ke kanan, background cerah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stoknya terbatas!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#blazerpria",
+    "#fashionmurah",
+    "#outfitkantor",
+    "#genzstyle",
+    "#reviewproduk",
+    "#hematbgt",
+    "#fashionindo",
+    "#findingid"
+  ],
+  "product_id": 145014,
+  "product_title": "Jas Blazer Pria Katun Tailored XS-4XL",
+  "product_price": "160000.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/145014.jpg",
+    "/uploads/products/145014_1.jpg",
+    "/uploads/products/145014_2.jpg",
+    "/uploads/products/145014_3.jpg",
+    "/uploads/products/145014_4.jpg",
+    "/uploads/products/145014_5.jpg",
+    "/uploads/products/145014_6.jpg",
+    "/uploads/products/145014_7.jpg",
+    "/uploads/products/145014_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/145014",
+  "generated_at": "2026-03-14T05:50:59.231Z"
+}

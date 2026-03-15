@@ -1,0 +1,86 @@
+{
+  "title": "Latihan Otot di Rumah Gak Perlu Gym!",
+  "hook_text": "Gym mahal? Stop scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget sambil menunjuk pintu kamar dengan ekspresi 'bingung'.",
+      "narration": "Gym itu mahalan kan? Atau nggak sempat travel ke sana? Tenang, kamu nggak perlu keluar rumah buat bugar nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat: pasang bar di pintu, lalu lakukan pull up dan push up dengan gaya energik.",
+      "narration": "Coba deh Pull Up Bar XQZ ini! Cuma nempel di bingkai pintu, langsung jadi gym pribadi. Latihan otot biceps, tricep, dada, punggung, dan bahu semua jadi satu, which is basically next level!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul menunjukkan harga murah, lalu transisi ke gambar produk dengan efek kilau.",
+      "narration": "Nah, harga pas di enam puluhan ribu aja! Untuk barang sekuat ini, no cap, ini benar-benar worth it banget buat budget pelajar atau anak kost."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Menunjukkan tabung baja kuat menahan beban, 2. Menunjukkan handgrip busa empuk, 3. Menunjukkan proses pasang cepat.",
+      "narration": "Pertama, tabung baja kuatnya mampu nahan beban seratus kilogram, jadi aman banget. Kedua, grip-nya dilapisi spons lembut dan anti licin, jadi tangan nggak pegel. Ketiga, pasangnya super gampang, tinggal pasang dan lepas, nggak butuh alat khusus!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene seseorang yang sibuk kerja dari rumah lalu langsung berolahraga di pintu kamarnya.",
+      "narration": "Perfect buat kamu yang sering latihan di kamar sempit atau nggak ada ruang khusus. Kalau aktivitas kamu lagi padat kerja tapi pengen tetap fit, ini solusi terbaik!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.85 dan angka 20.000+ terjual di layar.",
+      "narration": "Pembelinya pada ngomong barangnya aman dan kuat. Plus, udah ada dua puluh ribu lebih yang udah beli dan puas!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar 'CEK DI FINDING DOT ID' dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya!",
+  "hashtags": [
+    "#PullUpBarXQZ",
+    "#LatihanDiRumah",
+    "#GymSederhana",
+    "#OtotKuat",
+    "#FitnessIndo",
+    "#HematBudget",
+    "#LatihanOtot",
+    "#Kesehatan"
+  ],
+  "product_id": 135888,
+  "product_title": "Pull Up Bar atau Door Chinning Bar Untuk pembentukan otot anda XQZ",
+  "product_price": "59999.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/135888.jpg",
+    "/uploads/products/135888_1.jpg",
+    "/uploads/products/135888_2.jpg",
+    "/uploads/products/135888_3.jpg",
+    "/uploads/products/135888_4.jpg",
+    "/uploads/products/135888_5.jpg",
+    "/uploads/products/135888_6.jpg",
+    "/uploads/products/135888_7.jpg",
+    "/uploads/products/135888_8.jpg",
+    "/uploads/products/135888_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/135888",
+  "generated_at": "2026-03-15T00:37:23.194Z"
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Remington S5408: Catokan Violet Aesthetic & Mineral!",
+  "hook_text": "Rambut rusak gara-gara catokan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up rambut kering dan kusut dengan efek dramatis, lalu transisi cepat ke produk.",
+      "narration": "Gak kerasa rambut jadi kering banget gara-gara catokan biasa?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Rotating shot produk Remington S5408 warna violet pastel di atas background estetik.",
+      "narration": "Nih Remington S5408! Desain violet pastelnya gemes, aesthetic banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek 'wow' dan transisi cepat.",
+      "narration": "Harganya cuma tujuh ratus tujuh puluh lima ribuan. --- Seriously, which is worth it banget buat kualitas Remington."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase fitur: plat keramik, timer pemanasan, dan pengaturan suhu di layar digital.",
+      "narration": "Plat keramik diinfusi empat mineral, jadi rambut sehat pas di-styling! --- Pemanasan cuma lima belas detik, literally super cepet. --- Ada sembilan setting suhu, kamu bisa control presisi banget biar gak rusak."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model wanita sedang menata rambutnya dengan catokan, ekspresi puas.",
+      "narration": "Perfect buat kamu yang butuh rambut halus berkilau. --- Tapi inget, body nya agak ringan karena material plastik, jadi hati-hati ya pas dipegang."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating bintang 4,91 dan jumlah terjual muncul berdampingan dengan kutipan review.",
+      "narration": "Rating empat koma sembilan satu dan empat puluh ribu terjual! --- Yang udah beli bilang 'Sukaaa banget, hasilnya bagus banget lembut dan ga ribet makenya.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#Remington",
+    "#CatokanRambut",
+    "#MineralGlow",
+    "#ViralProduct",
+    "#GenZStyle",
+    "#FindingID",
+    "#BeautyHacks",
+    "#RambutSehat"
+  ],
+  "product_id": 40478,
+  "product_title": "Remington Catokan Pelurus Rambut Mineral Glow S5408",
+  "product_price": "775224.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/40478.jpg",
+    "/uploads/products/40478_1.jpg",
+    "/uploads/products/40478_2.jpg",
+    "/uploads/products/40478_3.jpg",
+    "/uploads/products/40478_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/40478",
+  "generated_at": "2026-03-13T16:20:18.821Z"
+}

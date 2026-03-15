@@ -1,0 +1,83 @@
+{
+  "title": "Kipas Powerbank 2-in-1?! Harga Gila Banget!",
+  "hook_text": "STOP! Kipas + Powerbank??",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up ekspresif wajah shock sambil pegang kipas mini di depan kamera",
+      "narration": "Emang boleh beli satu barang yang bisa nge-charge HP sekaligus mendinginkan wajah di panas terik, bestie?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menunjukkan produk Aolida sedang berputar kencang lalu ditunjuk ke HP",
+      "narration": "Tenang, ini bukan ilusi. Ini Aolida Kipas Angin Portable Mini USB lipat yang literally jadi penyelamat hidup kita, which is worth it banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek uang berjatuhan, lalu tunjuk baterai di belakang kipas",
+      "narration": "Bayar seratus delapan puluhan ribu perak doang, kamu dapat pendingin udara dan powerbank lima seratusan mAh. Basically next level, nggak?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Kipas dibalik jadi dudukan HP, 2. Baterai nge-charge HP, 3. Kipas dibongkar pasang",
+      "narration": "Pertama, dia bisa dibalik jadi dudukan ponsel yang kokoh buat nonton film. Kedua, baterainya lima seratusan mAh bikin HP kamu nggak nyasar pas ngebut. Ketiga, desainnya bisa dilipat jadi super compact, cocok banget buat masuk tas kecil atau dibawa outdoor."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase: anak kantor di AC, siswa di sekolah, anak olahraga di lapangan",
+      "narration": "Perfect buat kamu yang sering duduk lama di kantor tanpa AC, siswa yang butuh hiburan di kelas, atau kalau aktivitas kamu sering lari-lari di panas. Kalau kamu sering keringetan, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.87 bintang dan angka 30.000 terjual, lalu teks kutipan muncul",
+      "narration": "Pembelinya pada ngomong desainnya unik banget dan kapasitas baterainya cukup besar. Semoga awet ga cepet rusak, kata yang udah beli bilang."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Wajah senyum lebar tunjuk layar bawah dengan teks finding dot id besar",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#Aolida",
+    "#GadgetViral",
+    "#PowerbankKipas",
+    "#HematCuan",
+    "#GenZMustHave",
+    "#GadgetMurah",
+    "#ReviewGadget",
+    "#FindingDotId"
+  ],
+  "product_id": 145884,
+  "product_title": "Aolida Kipas Angin Portable Mini USB Lipat Dudukan Ponsel Dan Powerbank 5000mAh Baterai Tahan Lama  Cocok Untuk Kantor Sekolah Olahraga Luar Ruangan",
+  "product_price": "82000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/145884.jpg",
+    "/uploads/products/145884_1.jpg",
+    "/uploads/products/145884_2.jpg",
+    "/uploads/products/145884_3.jpg",
+    "/uploads/products/145884_4.jpg",
+    "/uploads/products/145884_5.jpg",
+    "/uploads/products/145884_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/145884",
+  "generated_at": "2026-03-14T07:30:27.895Z"
+}

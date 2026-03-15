@@ -1,0 +1,83 @@
+{
+  "title": "Kipas Tangan Goojodoq, Anginnya Deras Banget!",
+  "hook_text": "Anginnya derasss atau batre cepet abis?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah panas memegang kipas dengan ekspresi terkejut, lalu zoom in ke kipas yang bergetar kencang.",
+      "narration": "Kamu pikir kipas mini cuma angin sepoi sepoi aja? No cap, kipas tangan Goojodoq ini literally derasss banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk sedang dilipat dan dibuka dengan cepat, menampilkan layar digital yang menyala terang.",
+      "narration": "Ini dia Goojodoq 4000mAh High speed kipas Mini Portable. Bisa dilipat jadi kecil, ada layar digital, plus tombol turbo yang bikin suhu turun drastis."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan grafis harga besar di tengah layar dengan efek kaget, lalu transisi ke stok banyak.",
+      "narration": "Bestie, harganya cuma seratus tiga puluhan ribu. Seratus tiga puluhan ribu aja udah dapet kualitas premium begini, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Tangan memegang kipas di bawah matahari. 2. Menunjukkan tombol 100 gear. 3. Menunjukkan desain slim.",
+      "narration": "Pertama, anginnya kuat banget thanks ke 100 gear wind settings. Kedua, baterenya awet 4000mAh, perfect buat ngacaan seharian. Ketiga, desainnya super elegant dan simple, cocok buat aesthetic kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang jogging di pagi hari, lalu nongkrong di kafe, dan main game outdoor.",
+      "narration": "Perfect buat yang sering keluar masuk ruangan, atau kamu yang suka jogging dan main game outdoor biar nggak keringetan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.89 dan angka 100.000 terjual dengan background hijau segar.",
+      "narration": "Rating 4.89 dari 100.000 produk terjual. Yang udah beli bilang anginnya benar benar deras dan desainnya lucu banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah, teks CTA memudar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, cari di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya!",
+  "hashtags": [
+    "#kipastangan",
+    "#goojodoq",
+    "#hacksahabat",
+    "#produkterlaris",
+    "#kepraktisan",
+    "#gadgetmurah",
+    "#reviewgadget",
+    "#findingid"
+  ],
+  "product_id": 63992,
+  "product_title": "Goojodoq 4000mAh High-speed kipas Mini Portable  kipas angin 100 Gear Wind dapat dilipat Digital Display Adjustable Turbo kipas tangan",
+  "product_price": "133000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/63992.jpg",
+    "/uploads/products/63992_1.jpg",
+    "/uploads/products/63992_2.jpg",
+    "/uploads/products/63992_3.jpg",
+    "/uploads/products/63992_4.jpg",
+    "/uploads/products/63992_5.jpg",
+    "/uploads/products/63992_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/63992",
+  "generated_at": "2026-03-14T07:14:15.921Z"
+}

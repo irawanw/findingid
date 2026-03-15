@@ -1,0 +1,83 @@
+{
+  "title": "Sunscreen Glowsicha Mewah Harga Terjangkau!",
+  "hook_text": "Sunscreen Mewah Cuma 50 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Teks besar muncul di layar dengan background produk Glowsicha yang estetik dan lighting cinematic.",
+      "narration": "Sunscreen mewah bisa dapet cuma lima puluhan ribu aja --- No cap bestie, ini bukan hoax, dengerin dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close-up shot tangan membuka tutup Glowsicha dan mengoleskan sedikit produk di punggung tangan.",
+      "narration": "Kenalin Glowsicha Luminous Glow Tone Up Sunscreen. Lindungi wajah dari sinar UV sampai SPF 50 PA+++, plus bikin glowing natural."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan varian produk dengan label harga yang terlihat jelas dan tulisan 'Worth It' muncul di samping.",
+      "narration": "Harganya mulai dari lima puluhan ribuan, which is literally murah banget dibanding kualitas yang didapat. Kamu bisa dapet varian satu PC."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menunjukkan tekstur ringan di kiri dan efek glow di wajah model di kanan.",
+      "narration": "Teksturnya super ringan dan cepet meresap --- Ada Niacinamide biar kulit makin cerah. Nggak bikin wajah jadi kilang minyak. Buat yang nggak suka wangi, oles tipis aja."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video montase aktivitas sehari-hari seperti naik kendaraan atau jalan kaki di siang hari.",
+      "narration": "Ini wajib buat kamu yang sering ke luar rumah. Jadi nggak perlu foundation tebal, kulit udah glowing protected."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan badge rating 4.89 dan angka 30k terjual dengan animasi angka naik.",
+      "narration": "Udah terjual 30 ribuan produk dengan rating 4.89. Yang udah beli bilang 'awalnya kaget isi dikit, tapi ternyata awet banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks 'finding dot id' muncul besar di tengah layar dengan tombol panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#Glowsicha",
+    "#SunscreenWajah",
+    "#SkincareMurah",
+    "#GlowingNatural",
+    "#RekomendasiSkincare",
+    "#ReviewSkincare",
+    "#SkincareRoutine",
+    "#GenZSkincare"
+  ],
+  "product_id": 105684,
+  "product_title": "Glowsicha - Luminous Glow Tone Up Sunscreen SPF 50 PA+++ Sunscreen Ringan Dengan Niacinamide Tidak lengket dikulit SS Sunblock Mencerahkan Melindungi UV menjaga kelembapan kulit Hydrating Sunscreen Membantu Mencerahkan Wajah glowing",
+  "product_price": "55000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/105684.jpg",
+    "/uploads/products/105684_1.jpg",
+    "/uploads/products/105684_2.jpg",
+    "/uploads/products/105684_3.jpg",
+    "/uploads/products/105684_4.jpg",
+    "/uploads/products/105684_5.jpg",
+    "/uploads/products/105684_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/105684",
+  "generated_at": "2026-03-13T22:38:05.244Z"
+}

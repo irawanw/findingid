@@ -1,0 +1,91 @@
+{
+  "title": "Tas Sekolah Anak Anti Air Murah Meriah!",
+  "hook_text": "Emang boleh beli cuma segini bestie?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas sekolah dengan efek visual harga murah dan ekspresi kaget.",
+      "narration": "Emang boleh beli tas sekolah cuma segini bestie? --- Gak percaya ya? Tunggu dulu! Cek deh!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Shot produk tas dari berbagai sudut dengan pencahayaan cinematic.",
+      "narration": "Nih, Free Bonus Tas Sekolah Anak anti air yang lagi viral banget di kalangan orang tua cerdas sekarang!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks overlay harga besar muncul di samping tas.",
+      "narration": "Dikira mahal? Enggak dong, harganya cuma seratus tiga puluh lima ribu sampai seratus empat puluh lima ribu aja. --- Gak perlu mahal buat dapet kualitas gini."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Demonstrasi saku HP dan bahan nilon yang disiram air.",
+      "narration": "Bahan nilon kokoh yang literally tahan air, ada saku khusus buat HP biar aman, plus desain ergonomis yang nyaman dipake seharian tanpa bikin pegal di punggung."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Montage cepat menunjukkan fitur tali bahu dan reflektif.",
+      "narration": "Pertama, desainnya bener-bener melindungi tulang punggung anak dari beban berat buku pelajaran. --- Kedua, bahannya nilon super kuat dan gak gampang sobek walau sering dipakai di luar ruangan. --- Ketiga, tali bahu empuk yang bisa disesuaikan ukurannya biar gak sakit bahu saat dipakai. --- Keempat, ada fitur reflektif buat keselamatan pas jalan pulang sekolah di sore hari yang gelap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Anak sekolah sedang bermain di luar ruangan dengan tas tersebut.",
+      "narration": "Perfect buat kamu yang punya anak usia sekolah dasar suka main hujan atau butuh tas kuat buat aktivitas harian yang padat dan sibuk."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Screenshot rating bintang 4.9 dan jumlah terjual.",
+      "narration": "Ratingnya empat koma sembilan nol dari pembeli puas. --- Udah terjual tiga puluh ribu produk! --- Reviewnya bilang 'Tas benar-benar bagus bangeet, bahannya tebel kuat' banget."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Swatch warna Navy, Green, dan Black muncul di layar.",
+      "narration": "Pilih warna favoritmu, Navy, Green, atau Black tersedia untuk semua ukuran."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tombol beli muncul dengan panah menunjuk ke bawah.",
+      "narration": "Buruan klik link di deskripsi sebelum kehabisan ya, bestie! --- Jangan sampai kelewatan, guys!"
+    }
+  ],
+  "cta": "Klik link di deskripsi sekarang!",
+  "hashtags": [
+    "#TasSekolah",
+    "#AnakSD",
+    "#RanselAnak",
+    "#MurahMuriah",
+    "#Viral",
+    "#ParentingIndonesia",
+    "#TasAnak",
+    "#PromoHariIni"
+  ],
+  "product_id": 26654,
+  "product_title": "[ Free Bonus ] Tas Sekolah Anak  / Tas Anak Anti Air",
+  "product_price": "135000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/26654.jpg"
+  ],
+  "product_link": "https://finding.id/p/26654",
+  "generated_at": "2026-03-13T00:05:34.385Z"
+}

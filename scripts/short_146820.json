@@ -1,0 +1,83 @@
+{
+  "title": "CCTV 360 Derajat? Ini Gila Banget!",
+  "hook_text": "Gak perlu kabel, 360 derajat!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up kamera V380 Pro berputar penuh di depan layar dengan efek zoom in dramatis.",
+      "narration": "Stop scroll dulu bestie! Lo pikir CCTV itu ribet dan butuh kabel tebal?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat pemasangan kamera di lampu teras tanpa kabel, transisi ke tampilan aplikasi HP.",
+      "narration": "Kenalan deh sama V380 Pro, kameranya next level banget. Dual lens full HD, bisa puter 360 derajat, dan yang paling gila, langsung konek WiFi tanpa perlu pusing pasang kabel sama sekali."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga besar-besaran dengan efek animasi uang, lalu muncul badge 'Terjual 50 Ribu+'.",
+      "narration": "Nah, harganya cuma satu tujuh puluh delapan ratus ribuan. Serius nggak bohong, padahal kualitasnya nggak murahan. Duh, ini deal banget dong!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Auto tracking mengikuti gerakan, 2. Dua lensa side-by-side, 3. Ikon garansi 1 tahun.",
+      "narration": "Fiturnya literally so cute. Pertama, auto tracking yang ngikutin gerak lo otomatis. Kedua, dual lens bikin pemantauan lebih luas dan detail. Ketiga, garansi satu tahun yang bikin lo tidur lebih nyenyak tanpa khawatir rusak."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang sedang minum kopi santai di teras malam hari sambil melihat HP.",
+      "narration": "Perfect buat yang sering keluar rumah atau mau pasang di teras rumah nih. Kalau aktivitas lo sering butuh keamanan ekstra tapi nggak mau ribet instalasi, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Popup rating 4.77 bintang besar, lalu teks kutipan muncul dengan latar belakang foto produk.",
+      "narration": "Pembelinya pada ngomong, 'Harga murah, tapi kualitas barang bukan murahan.' No cap, ratingnya 4.77 bintang dan udah terjual lima puluh ribu produk!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi tombol 'Cek Sekarang' yang berkedip lucu.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id!",
+  "hashtags": [
+    "#CCTVViral",
+    "#RumahAman",
+    "#V380Pro",
+    "#TeknologiGenZ",
+    "#TipsRumah",
+    "#SecurityCamera",
+    "#FindingId",
+    "#ViralShorts"
+  ],
+  "product_id": 146820,
+  "product_title": "[Garansi 1 Tahun] V380 Pro CCTV Lampu Dual Lens Full HD 360  Rotation Auto Tracking Two-Way Voice Smart Wifi Kamera",
+  "product_price": "178999.00",
+  "product_rating": "4.77",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/146820.jpg",
+    "/uploads/products/146820_1.jpg",
+    "/uploads/products/146820_2.jpg",
+    "/uploads/products/146820_3.jpg",
+    "/uploads/products/146820_4.jpg",
+    "/uploads/products/146820_5.jpg",
+    "/uploads/products/146820_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/146820",
+  "generated_at": "2026-03-14T08:15:03.527Z"
+}

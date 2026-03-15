@@ -1,0 +1,80 @@
+{
+  "title": "Minyak Zaitun Asli Cuma 60 Ribu? No Cap!",
+  "hook_text": "Minyak Zaitun Asli Cuma Segini? No Cap!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up botol minyak zaitun dengan efek cahaya dramatis dan teks overlay besar.",
+      "narration": "nggak percaya ada minyak zaitun asli cuma segini? Stop scroll dulu ya bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan produk Nutrifarm EVOO 500 ml di atas meja dapur bersih dengan background terang.",
+      "narration": "Kenalin nih Nutrifarm Extra Virgin Olive Oil 500 ml, cold pressed murni tanpa campuran apapun."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga Rp 65.000 dengan grafis besar dan efek koin jatuh atau uang terbang.",
+      "narration": "Harganya cuma enam puluhan ribu doang, literally worth it banget buat kualitas sekelas ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase proses cold pressed, logo BPOM, dan tanggal kedaluwarsa 2027 dengan teks poin.",
+      "narration": "Aman banget karena sudah BPOM resmi dan fresh sampai dua ribu dua puluh tujuh. --- Ada yang ragu nggak ada bau zaitun? Tenang bestie, itu justru bukti kalau produk ini murni banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang minum minyak zaitun di pagi hari sambil tersenyum segar di teras rumah.",
+      "narration": "Perfect buat kamu yang mau rutin minum minyak zaitun tiap pagi tanpa bikin dompet jebol."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan badge rating 4.91 dan tulisan '40k+ Terjual' dengan animasi pop-up.",
+      "narration": "Sudah empat puluh ribu terjual dengan rating hampir sempurna. --- Yang sudah beli bilang rasa enak dan asli banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh dengan logo finding.id dan panah mengarah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review lengkapnya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review lengkapnya ada di sana!",
+  "hashtags": [
+    "#NutrifarmOliveOil",
+    "#MinyakZaitun",
+    "#Kesehatan",
+    "#RacunShopee",
+    "#ProductReview",
+    "#HealthHacks",
+    "#GenZIndonesia",
+    "#OliveOil"
+  ],
+  "product_id": 97107,
+  "product_title": "Nutrifarm Extra Virgin Olive Oil 500 ml",
+  "product_price": "65000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/97107.jpg",
+    "/uploads/products/97107_1.jpg",
+    "/uploads/products/97107_2.jpg",
+    "/uploads/products/97107_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/97107",
+  "generated_at": "2026-03-13T21:51:51.756Z"
+}

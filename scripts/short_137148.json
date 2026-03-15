@@ -1,0 +1,83 @@
+{
+  "title": "Magic Chopper CH200 Solusi Dapur Anti Ribet!",
+  "hook_text": "Masak Bumbu Manual Bikin Capek?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan memotong bumbu manual dengan wajah bosan, lalu transisi ke produk.",
+      "narration": "Masak bumbu manual bikin capek? Bestie, stop scrolling!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Slow motion produk MITOCHIBA CH200 berputar, menampilkan desain modern.",
+      "narration": "Kenalin nih, MITOCHIBA Food Magic Chopper CH200, 2 liter --- literally next level buat ngiris bumbu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar dengan efek suara 'cha-ching', lalu transisi ke produk.",
+      "narration": "Harganya apa? Pas banget di kantong, cuma tujuh ratus ribuan saja --- Worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Showcase fitur: giling bumbu, bonus spatula, dan tips tidak menyalakan terlalu lama.",
+      "narration": "Pertama, multifungsi banget, bisa giling bumbu sampai halus. Kedua, dapet bonus spatula Stein plus aksesoris lengkap. Oh iya, jangan dipaksa nyalakan terlalu lama ya --- biar mesinnya awet dan nggak panas!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu rumah tangga memasak di dapur ramai dengan cepat.",
+      "narration": "Perfect buat yang hobi masak tapi nggak mau ribet potong-potong. Kalau kamu sering masak buat keluarga --- ini wajib punya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.92 dan angka penjualan 50.000 produk.",
+      "narration": "Ratingnya 4,92 bintang, udah terjual 50.000 produk. Yang udah beli bilang --- sepadan banget sama harganya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pointing ke arah kanan bawah dengan teks 'Cek di Finding ID'.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana --- jangan sampai kehabisan!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#mitochiba",
+    "#chopper",
+    "#dapur",
+    "#rekomendasidapur",
+    "#belanjaviral",
+    "#produkviral",
+    "#dapurcantik",
+    "#tipsdapur"
+  ],
+  "product_id": 137148,
+  "product_title": "MITOCHIBA Food Magic Chopper CH200 Blender 2L Alat Penggiling dan Penghalus Bumbu",
+  "product_price": "791942.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/137148.jpg",
+    "/uploads/products/137148_1.jpg",
+    "/uploads/products/137148_2.jpg",
+    "/uploads/products/137148_3.jpg",
+    "/uploads/products/137148_4.jpg",
+    "/uploads/products/137148_5.jpg",
+    "/uploads/products/137148_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/137148",
+  "generated_at": "2026-03-13T17:40:17.195Z"
+}

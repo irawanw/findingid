@@ -1,0 +1,83 @@
+{
+  "title": "Epilator Murah 100 Ribu? Worth It Banget!",
+  "hook_text": "Cukur bulu halus cuma 100 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot wajah wanita dengan bulu halus di area alis dan tangan memegang alat cukur mini berwarna pastel.",
+      "narration": "Kalian percaya nggak sih? Cukur bulu halus di alis dan badan bisa cuma seratus delapan ribuan aja. No cap, ini serius!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat alat cukur sedang digunakan di alis dan lengan, menunjukkan hasil kulit yang mulus.",
+      "narration": "Kenalin nih, 2in1 Epilator Mini Portable! Ini literally next level banget karena bisa buat alis dan bulu halus di badan. Desainnya super cute dan gampang dibawa kemana-mana."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay besar menunjukkan harga Rp 100.000an dengan tanda centang, di samping gambar produk premium lain.",
+      "narration": "Dan yang paling bikin meledak, harganya cuma seratus delapan puluhan ribu! Bandingin sama salon yang biayanya bisa jutaan, which is totally worth it banget buat kantong mahasiswa."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menunjukkan mesin berputar tenang, kanan menunjukkan mata pisau tajam memotong bulu, teks 'Hening & Tajam' muncul.",
+      "narration": "Fiturnya nggak main-main, bestie! Pertama, mesinnya nggak terlalu berisik jadi nggak bikin kaget. Kedua, mata pisau tajam banget, potongannya bersih. Ketiga, warnanya cantik banget, so cute buat koleksi meja rias kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario wanita sedang makeup di pagi hari atau bepergian, memasukkan alat ke tas kecil.",
+      "narration": "Ini perfect buat kamu yang sering traveling atau butuh nge-touch up alis di pagi hari. Kalau aktivitas kamu padat dan nggak punya waktu ke salon, alat ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks overlay rating 4.8 dan angka 20.000 terjual, dengan kutipan ulasan di background buram.",
+      "narration": "Pembelinya pada ngomong kalau barangnya bagus, tajam, dan warnanya menarik. Udah terjual 20 ribu lebih dengan rating 4,8. Yang udah beli bilang alat ini sangat rekomen!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan produk di layar laptop/HP dengan logo finding.id yang jelas, tombol panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id!",
+  "hashtags": [
+    "#AlatCukurWanita",
+    "#EpilatorMurah",
+    "#GroomingTips",
+    "#SkincareIndonesia",
+    "#RekomendasiProdukJKT",
+    "#BuluHalus",
+    "#ViralShorts",
+    "#FindingID"
+  ],
+  "product_id": 121838,
+  "product_title": "2in1 Alat Cukur Bulu Wanita Epilator Pencukur Cukuran Shaver Alis Bulu Halus Elektrik Mini Portable",
+  "product_price": "106000.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/121838.jpg",
+    "/uploads/products/121838_1.jpg",
+    "/uploads/products/121838_2.jpg",
+    "/uploads/products/121838_3.jpg",
+    "/uploads/products/121838_4.jpg",
+    "/uploads/products/121838_5.jpg",
+    "/uploads/products/121838_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/121838",
+  "generated_at": "2026-03-15T16:06:40.019Z"
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Karpet Rasfur Mewah Cuma Seratus Ribuan!",
+  "hook_text": "Karpet Hotel Mewah Harga Murah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up karpet rasfur yang sangat lembut, lalu zoom out menunjukkan ukuran jumbonya.",
+      "narration": "Karpet hotel mewah bisa dapet cuma seharga satu mangkok bakso?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot tangan meraba permukaan karpet, menunjukkan tekstur bulunya yang tebal.",
+      "narration": "Ini dia Karpet Rasfur Bulu Jumbo 200 x 160 --- bahan premium yang super lembut banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek uang atau koin, lalu transisi ke karpet utuh.",
+      "narration": "Padahal ukurannya gede, harganya cuma seratus dua puluh ribuan doang --- which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat menunjukkan varian warna yang tersedia dan detail busa di dalam karpet.",
+      "narration": "Isian busa HDP bikin empuk, bulunya tebal dan nggak gampang rontok --- Nggak bikin gerah dan anti selip di lantai. Ada enam warna keren, mulai dari coklat sampai putih."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang rebahan nonton TV di atas karpet, lalu anak kecil bermain di atasnya.",
+      "narration": "Perfect buat kamu yang suka nonton film berjam-jam --- atau butuh matras main buat si kecil. Bikin kamar estetik, literally next level cozy vibes."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.7 bintang dan angka penjualan 100.000 terjual di layar.",
+      "narration": "Sudah laku 100 ribu unit sama rating 4,7 bintang --- Yang sudah beli bilang, Bahannya lembut dan lumayan tebal, worth it laaah sama harganya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding dot id muncul di tengah layar dengan panah menunjuk ke arah bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie --- review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#karpetrasfur",
+    "#karpetmurah",
+    "#homedecorid",
+    "#findingid",
+    "#karpetjumbo",
+    "#dekorumah",
+    "#racunshopee",
+    "#produkviral"
+  ],
+  "product_id": 14568,
+  "product_title": "KARPET RASFUR BULU JUMBO UKURAN 200 x 160 LEMBUT TEBAL KARPET BULU RAFUR PREMIUM SURPET MATRAS TIDUR",
+  "product_price": "121000.00",
+  "product_rating": "4.70",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/14568.jpg",
+    "/uploads/products/14568_1.jpg",
+    "/uploads/products/14568_2.jpg",
+    "/uploads/products/14568_3.jpg",
+    "/uploads/products/14568_4.jpg",
+    "/uploads/products/14568_5.jpg",
+    "/uploads/products/14568_6.jpg",
+    "/uploads/products/14568_7.jpg",
+    "/uploads/products/14568_8.jpg",
+    "/uploads/products/14568_9.jpg",
+    "/uploads/products/14568_10.jpg",
+    "/uploads/products/14568_11.jpg",
+    "/uploads/products/14568_12.jpg"
+  ],
+  "product_link": "https://finding.id/p/14568",
+  "generated_at": "2026-03-13T21:59:34.522Z"
+}

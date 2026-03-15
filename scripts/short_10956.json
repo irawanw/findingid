@@ -1,0 +1,95 @@
+{
+  "title": "Kaos 3 Pcs Cuma 100 Ribu-an?!",
+  "hook_text": "Kaos 3 Pcs Cuma 100 Ribu-an?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tumpukan kaos distro dengan efek zoom in cepat ke label harga.",
+      "narration": "Gila sih, paket kaos tiga pcs cuma seharga segini?!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Show fabric texture close-up, hand touching the material to show softness.",
+      "narration": "Ini dia kaos distro unisex yang lagi viral. Bahan cotton combed 30s, which is supersoft dan adem banget di kulit."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Phone screen showing price tag or calculator animation with discount effect.",
+      "narration": "Harga aslinya di kisaran seratus lima belas ribu-an, tapi sekarang bisa dapet paket tiga pcs cuma seratus ribuan saja! Worth it banget no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Show stitching detail on shoulder, stretching fabric to show quality, and print close-up.",
+      "narration": "Gramasinya 150 gram, jadi nggak tipis. Jahitan pundak double rantai kuat, plus sablon plastisol yang awet. Bahannya juga nggak gampang melar. --- Kalau ragu soal ukuran, pilih XL saja biar lebih nyaman."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Person wearing the shirt casually in outdoor setting, looking confident.",
+      "narration": "Perfect buat kamu yang butuh stok kaos harian. Kalau sering aktivitas luar, kaos ini next level banget karena nggak gampang pudar."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Show rating stars overlay and sold counter animation counting up.",
+      "narration": "Sudah terjual enam puluh ribu dengan rating empat koma lima bintang. Yang udah beli bilang, \"Desain keren, bahannya adem halus.\""
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id with arrow pointing to screen center.",
+      "narration": "Penasaran? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#KaosDistro",
+    "#KaosMurah",
+    "#FashionPria",
+    "#OutfitHarian",
+    "#ViralTiktok",
+    "#StokBanyak",
+    "#KaosUnisex",
+    "#FindingID"
+  ],
+  "product_id": 10956,
+  "product_title": "Kaos Distro Pria {Paket isi 3 Pcs} Baju Koas Pria Wanita Koas Obolong Lengan Pendek",
+  "product_price": "100749.00",
+  "product_rating": "4.57",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/10956.jpg",
+    "/uploads/products/10956_1.jpg",
+    "/uploads/products/10956_2.jpg",
+    "/uploads/products/10956_3.jpg",
+    "/uploads/products/10956_4.jpg",
+    "/uploads/products/10956_5.jpg",
+    "/uploads/products/10956_6.jpg",
+    "/uploads/products/10956_7.jpg",
+    "/uploads/products/10956_8.jpg",
+    "/uploads/products/10956_9.jpg",
+    "/uploads/products/10956_10.jpg",
+    "/uploads/products/10956_11.jpg",
+    "/uploads/products/10956_12.jpg",
+    "/uploads/products/10956_13.jpg",
+    "/uploads/products/10956_14.jpg",
+    "/uploads/products/10956_15.jpg",
+    "/uploads/products/10956_16.jpg",
+    "/uploads/products/10956_17.jpg",
+    "/uploads/products/10956_18.jpg"
+  ],
+  "product_link": "https://finding.id/p/10956",
+  "generated_at": "2026-03-13T19:58:37.743Z"
+}

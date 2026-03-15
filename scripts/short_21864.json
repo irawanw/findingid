@@ -1,0 +1,75 @@
+{
+  "title": "Kantong ASI Tebal Banget? Worth It!",
+  "hook_text": "Kantong ASI 150ml ini gila banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan meremas kantong plastik transparan yang terlihat sangat tebal dan kaku di antara jari.",
+      "narration": "Stop bestie, kalian pasti ga bakal percaya sama ketebalan kantong ASI ini, literally next level!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: ibu menyusui, botol ASI terisi penuh, dan kantong disimpan rapi di kulkas.",
+      "narration": "Ini kantong ASI plastik double lock dengan kapasitas 150ml yang aman buat nyimpan asi si kecil."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan harga dan jumlah produk, lalu efek uang jatuh.",
+      "narration": "Duh, harga cuma seratus delapan puluhan ribu untuk sembilan puluh buah, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Tangan meremas kantong (tebal), 2. Menunjukkan tutup double lock yang rapat, 3. Menaruh kantong di dalam tas jinjing.",
+      "narration": "Pertama, bahannya super tebal nggak mudah bocor. Kedua, tutup double lock-nya bikin kebocoran jadi mustahil. Dan ketiga, dia super fleksibel buat masuk ke celah-celah tas atau kulkas, basically no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu muda sibuk bekerja lalu langsung menyusui atau menyimpan ASI di tas kerja.",
+      "narration": "Perfect buat kamu yang sering kerja atau aktif banget seharian dan butuh menyimpan asi dengan cepat tanpa ribet."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.88 bintang, angka 20.000 terjual, dan teks kutipan ulasan muncul besar.",
+      "narration": "Rating empat koma delapan delapan dan dua puluh ribuan yang udah beli bilang bahannya tebal banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id dengan panah mengarah ke tombol beli, teks 'Cek di sini' muncul.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stoknya cepat habis!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#KantongASI",
+    "#IbuHidmat",
+    "#ParentingHack",
+    "#ProdukViral",
+    "#ASIStorage",
+    "#MomLife",
+    "#FindingID",
+    "#MurahMeriah"
+  ],
+  "product_id": 21864,
+  "product_title": "90PCS 150ml Kantong ASI Breast Milk Plastik Asi Double Lock Asi kantung asi Tas ASI Sekali Pakai Breastmilk Storage Bag CND",
+  "product_price": "52498.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/21864",
+  "generated_at": "2026-03-14T04:00:48.432Z"
+}

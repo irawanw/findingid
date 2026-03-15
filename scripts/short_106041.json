@@ -1,0 +1,82 @@
+{
+  "title": "Toner Korea Murah Mencerahkan? 😱",
+  "hook_text": "Toner Korea harga seharga kopi?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah glowing dengan efek cahaya terang, transisi cepat ke produk toner.",
+      "narration": "Toner Korea asli harga segini? Nggak nyangka!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk toner dipegang tangan, diputar sedikit untuk menunjukkan label.",
+      "narration": "Kenalin Hayejin Blessing of Sprout Radiance Toner, solusi kulit glowing bestie."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, lalu transisi ke uang koin atau dompet.",
+      "narration": "Harganya cuma seratus empat puluhan ribu doang, which is worth it banget buat toner Korea berkualitas."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo aplikasi toner di tangan, tekstur cair diteteskan dan meresap cepat.",
+      "narration": "Kandungan lotus alaminya aman banget buat kulit sensitif --- teksturnya cair meresap tanpa lengket sama sekali. Nggak cuma itu, dia ngebantu noda hitam dan bekas jerawat memudar dengan cepat."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model wajah dengan kondisi kulit kering dan berminyak, lalu tersenyum segar.",
+      "narration": "Perfect buat kamu kulit kering atau berminyak --- butuh hidrasi natural tapi nggak bikin berat di wajah seharian."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan jumlah pembeli 20.000 di layar.",
+      "narration": "Rating 4,96 dari dua puluh ribu pembeli! Yang udah beli bilang 'teksturnya cair mudah diratain dan cepat meresap', literally jadi favorit."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pointing ke arah link, teks 'Cek di Finding.id' muncul.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#hayejin",
+    "#toner",
+    "#skincareindonesia",
+    "#kulitglowing",
+    "#tonerkorea",
+    "#murah",
+    "#beautyhacks",
+    "#radiance"
+  ],
+  "product_id": 106041,
+  "product_title": "[BEST SELLING] HAYEJIN Blessing of Sprout Radiance Toner 120ml",
+  "product_price": "149000.00",
+  "product_rating": "4.96",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/106041.jpg",
+    "/uploads/products/106041_1.jpg",
+    "/uploads/products/106041_2.jpg",
+    "/uploads/products/106041_3.jpg",
+    "/uploads/products/106041_4.jpg",
+    "/uploads/products/106041_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/106041",
+  "generated_at": "2026-03-13T18:04:29.273Z"
+}

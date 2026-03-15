@@ -1,0 +1,83 @@
+{
+  "title": "Flashdisk Murah Asli? Cek SanDisk Ini Dahulu!",
+  "hook_text": "Flashdisk Murah? Bukan KW Bestie!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up flashdisk SanDisk dengan efek zoom in cepat",
+      "narration": "Flashdisk Sandisk murah? Bisa aja, asal bukan KW bestie! --- Jangan sampe tertipu barang palsu."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk flashdisk dipegang tangan, menunjukkan desain compact",
+      "narration": "Kenalin nih, SanDisk Cruzer Blade, si portabel paling nempel di dompet kamu. --- Biar data kamu aman, si kecil ini solusinya."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek koin jatuh",
+      "narration": "Harganya? Mulai seratus ribuan aja buat varian 8GB, which is worth it banget. --- Buat yang butuh lebih, varian 128GB juga ada, harganya tiga ratus ribuan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Animasi file masuk ke flashdisk dan ikon garansi",
+      "narration": "Ini fitur andalannya: 100% original, garansi resmi 2 tahun, dan desain compact yang nggak bikin rugi tempat. --- Kompatibilitas tinggi, nggak perlu driver ribet, tinggal colok langsung jalan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Siswa sedang mengetuk laptop dan pekerja membawa flashdisk",
+      "narration": "Buat anak kampus yang sering numpuk tugas, atau kamu yang butuh backup data penting, ini solusinya. --- Perfect buat yang sering pindah-pindah tempat kerja."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan jumlah terjual 80k",
+      "narration": "Ratingnya 4,89 dari 80.000 pembeli. Yang udah beli bilang, 'barang original, sesuai harga'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah menunjuk ke bawah",
+      "narration": "Penasaran? Cek di finding dot id ya, jangan sampai kehabisan stok bestie!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya, jangan sampai kehabisan stok bestie!",
+  "hashtags": [
+    "#SanDiskCruzerBlade",
+    "#FlashdiskMurah",
+    "#TechIndonesia",
+    "#ReviewProduk",
+    "#GadgetViral",
+    "#StudentLife",
+    "#DoranStore",
+    "#FindingID"
+  ],
+  "product_id": 131609,
+  "product_title": "Sandisk Cruzer Blade CZ50 Flashdisk Sandisk 8GB 16GB 32GB 64GB 128GB Flash Drive USB Cruzer Blade USB 2.0 - Garansi Resmi 5 Tahun",
+  "product_price": "95500.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/131609.jpg",
+    "/uploads/products/131609_1.jpg",
+    "/uploads/products/131609_2.jpg",
+    "/uploads/products/131609_3.jpg",
+    "/uploads/products/131609_4.jpg",
+    "/uploads/products/131609_5.jpg",
+    "/uploads/products/131609_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/131609",
+  "generated_at": "2026-03-13T20:17:10.552Z"
+}

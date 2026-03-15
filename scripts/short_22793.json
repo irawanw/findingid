@@ -1,0 +1,96 @@
+{
+  "title": "Selimut Bayi Soft Blanket 0-1 Tahun, Murah & Lembut!",
+  "hook_text": "Bayi butuh pelukan hangat yang aman?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah bayi tidur pulas dengan selimut lembut, lighting hangat dan cinematic",
+      "narration": "Bayi kamu butuh pelukan hangat yang aman dan nyaman banget nih, bestie?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Zoom in ke tekstur bulu selimut, tangan menyentuh kain dengan gerakan slow motion",
+      "narration": "Kenalin Soft Blanket, selimut bayi dengan bahan bulu Korea yang super lembut dan hangat."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul di layar dengan animasi pop-up, background produk yang rapi",
+      "narration": "Harganya cuma enam puluhan sampai sembilan puluhan ribu saja. --- Which is worth it banget buat kualitas gini, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase 3 fitur: sentuhan bulu, desain karakter lucu, dan proses mencuci",
+      "narration": "Bahannya nggak bikin iritasi kulit, desain kartun lucu yang next level, dan mudah dicuci tanpa merusak bahan. --- Plus ukurannya pas banget buat bayi 0 sampai 1 tahun."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu menggendong bayi sambil membungkus dengan selimut, suasana rumah yang cozy",
+      "narration": "Perfect buat bunda yang cari kado lahiran atau butuh selimut travel. --- Tapi, pastiin order karakter yang kamu mau ya biar gak salah terima barang."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan angka penjualan 50.000 di layar",
+      "narration": "Ratingnya 4.82 dengan 50.000 produk terjual! --- Yang udah beli bilang 'performanya halus lembut dan worth it banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan panah menunjuk",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produknya ada di sana sekarang!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana sekarang!",
+  "hashtags": [
+    "#SoftBlanket",
+    "#SelimutBayi",
+    "#KadoLahiran",
+    "#BabyGear",
+    "#RekomendasiBayi",
+    "#MomsIndonesia",
+    "#ViralProducts",
+    "#FindingID"
+  ],
+  "product_id": 22793,
+  "product_title": "Selimut Bayi Karakter Soft Blanket Usia 0-1 Tahun Bahan Bulu Halus",
+  "product_price": "68000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/22793.jpg",
+    "/uploads/products/22793_1.jpg",
+    "/uploads/products/22793_2.jpg",
+    "/uploads/products/22793_3.jpg",
+    "/uploads/products/22793_4.jpg",
+    "/uploads/products/22793_5.jpg",
+    "/uploads/products/22793_6.jpg",
+    "/uploads/products/22793_7.jpg",
+    "/uploads/products/22793_8.jpg",
+    "/uploads/products/22793_9.jpg",
+    "/uploads/products/22793_10.jpg",
+    "/uploads/products/22793_11.jpg",
+    "/uploads/products/22793_12.jpg",
+    "/uploads/products/22793_13.jpg",
+    "/uploads/products/22793_14.jpg",
+    "/uploads/products/22793_15.jpg",
+    "/uploads/products/22793_16.jpg",
+    "/uploads/products/22793_17.jpg",
+    "/uploads/products/22793_18.jpg",
+    "/uploads/products/22793_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/22793",
+  "generated_at": "2026-03-13T21:39:50.553Z"
+}

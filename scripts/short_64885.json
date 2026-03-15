@@ -1,0 +1,89 @@
+{
+  "title": "Karpet Mobil Anti Bau Ini Gila!",
+  "hook_text": "Mobil Lo Bau Karet?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah orang menutup hidung dengan ekspresi jijik, lalu transisi cepat ke produk.",
+      "narration": "Mobil lo masih bau karet menyengat? --- Stop scroll!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing produk DRACCO, tunjukkan ketebalan karet dan tekstur permukaan.",
+      "narration": "Kenalin nih, Karpet Mobil DRACCO! Material karet premium, tahan lama, nggak berubah warna, dan yang penting nggak bikin hidung lo menciut. --- Beneran!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul di layar dengan efek 'wow' atau flash.",
+      "narration": "Harga? Mulai dari sembilan puluh ribuan sampe setengah juta doang! --- Worth it banget buat upgrade interior mobil lo sekarang."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Menunjukkan air disiram ke karpet, lalu karpet dipotong sesuai bentuk.",
+      "narration": "Bahan karet tebal anti slip. Kotor? Cuci air aja bersih! Universal, tinggal potong sendiri pasinnya. --- Anti gores juga dong, beneran kuat."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Tampilan interior mobil yang rapi, lalu cut ke ilustrasi mobil Grand Livina dengan tanda tanya.",
+      "narration": "Perfect buat lo yang sering macet atau bawa barang berat. --- Tapi kalau punya Grand Livina lama, pastikan ukurannya pas dulu ya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan bintang rating 4.82 dan counter jumlah penjualan 30.000.",
+      "narration": "Sudah laku 30.000 pasang! Ratingnya 4,82. Yang udah beli bilang, 'Bagus recomended utk harga segitu mah'. --- Gak bohong!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul besar di tengah layar dengan panah menunjuk.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#KarpetMobil",
+    "#DRACCO",
+    "#OtomotifIndonesia",
+    "#MobilMewah",
+    "#TipsMobil",
+    "#RacunShopee",
+    "#FindingId",
+    "#Viral"
+  ],
+  "product_id": 64885,
+  "product_title": "Karpet Mobil DRACCO Tebal Anti Slip – Universal Semua Mobil, Mudah Dibersihkan & Tidak Bau",
+  "product_price": "95000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64885.jpg",
+    "/uploads/products/64885_1.jpg",
+    "/uploads/products/64885_2.jpg",
+    "/uploads/products/64885_3.jpg",
+    "/uploads/products/64885_4.jpg",
+    "/uploads/products/64885_5.jpg",
+    "/uploads/products/64885_6.jpg",
+    "/uploads/products/64885_7.jpg",
+    "/uploads/products/64885_8.jpg",
+    "/uploads/products/64885_9.jpg",
+    "/uploads/products/64885_10.jpg",
+    "/uploads/products/64885_11.jpg",
+    "/uploads/products/64885_12.jpg"
+  ],
+  "product_link": "https://finding.id/p/64885",
+  "generated_at": "2026-03-13T20:20:59.205Z"
+}

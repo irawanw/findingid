@@ -1,0 +1,77 @@
+{
+  "title": "Parfum Murah 80ribu Wangi Kue Stroberi?!",
+  "hook_text": "Parfum Mewah Harga Pelajar?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up parfum HEURA Scandal dengan pencahayaan dramatis, lalu transisi cepat ke wajah kaget creator",
+      "narration": "Parfum mewah harga pelajar? Ngak ada yang percaya! --- Kenalin nih, HEURA Scandal Extrait, aroma sweet fruity yang lagi viral."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk di atas meja estetik, tangan mengambil botol parfum dan menyorot label",
+      "narration": "Kenalin nih, HEURA Scandal Extrait, aroma sweet fruity yang lagi viral. --- Harganya cuma delapan puluhan ribuan doang. Literally murah tapi kualitasnya next level."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh, background blur produk",
+      "narration": "Harganya cuma delapan puluhan ribuan doang. Literally murah tapi kualitasnya next level. --- Wanginya manis fruity, no cap, literally kayak lagi makan kue stroberi fresh. Tahan lama banget sampe 8 jam! Packagingnya juga premium, aman dikasih gift box, kelihatan mahal padahal, ngak ada yang curiga ini murah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: semprot parfum, senyum, lalu adegan jalan santai di mall",
+      "narration": "Wanginya manis fruity, no cap, literally kayak lagi makan kue stroberi fresh. Tahan lama banget sampe 8 jam! Packagingnya juga premium, aman dikasih gift box, kelihatan mahal padahal, ngak ada yang curiga ini murah. --- So cute banget buat kamu yang sering kejar deadline atau butuh parfum buat date night. Perfect buat yang mau wangi awet tapi kantong tetap nyaman, ngak perlu ngebor."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Creator memakai parfum di leher, close-up ekspresi senang dan percaya diri",
+      "narration": "So cute banget buat kamu yang sering kejar deadline atau butuh parfum buat date night. Perfect buat yang mau wangi awet tapi kantong tetap nyaman, ngak perlu ngebor. --- Udah terjual 200 ribu lebih, rating 4,93 bintang. Yang udah beli bilang, 'Wangi bangeet, langsung cinta, kemasan terniat banget'."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan counter jumlah penjualan 200.000 di layar",
+      "narration": "Udah terjual 200 ribu lebih, rating 4,93 bintang. Yang udah beli bilang, 'Wangi bangeet, langsung cinta, kemasan terniat banget'. --- Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di layar dengan panah menunjuk ke arah bawah atau side",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#HEURAParfum",
+    "#ParfumMurah",
+    "#WangiKue",
+    "#BeautyHacks",
+    "#GenZIndonesia",
+    "#ViralProduct",
+    "#ScandalParfum",
+    "#FindingID"
+  ],
+  "product_id": 50726,
+  "product_title": "HEURA Scandal - Extrait de Parfum - Aroma Sweet Fruity Parfum Perfume Minyak Wangi Wanita Tahan Lama",
+  "product_price": "77803.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/50726.jpg"
+  ],
+  "product_link": "https://finding.id/p/50726",
+  "generated_at": "2026-03-13T21:11:58.195Z"
+}

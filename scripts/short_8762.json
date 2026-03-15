@@ -1,0 +1,82 @@
+{
+  "title": "Jas Wisuda Bestie, Harga 149-an doang?! 😱",
+  "hook_text": "Jas wisuda segini murah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tayangan model pakai jas hitam full black lagi pose confident di depan kampus atau gedung serbaguna",
+      "narration": "Stop scrol dulu dong! Kamu ngerasa gak percaya kalau bisa punya jas blazer formal sekelas ini, cuma di harga segini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Zoom in ke detail jahitan dan potongan jas, transisi cepat ke model pakai jas untuk acara kerja dan nikah",
+      "narration": "Perkenalkan, Dvandra.id Jas Blazer Full Black nih. Gila bestie, ini literally bisa dipakai buat wisuda, kerja, sampai acara nikah. Basically next level, satu baju搞定 semua acara formal maupun casual kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan grafis harga besar-besar dengan efek confetti, bandingkan visual harga murah dengan kualitas premium",
+      "narration": "Gak perlu mikir panjang lagi karena harganya cuma seratus empat puluhan ribu sampai seratus tujuh puluhan ribu. Which is worth it banget sih, kualitasnya jauh di atas harga jualnya, no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjuk bahan semiwoll yang adem, kanan tunuk potongan slimfit di badan model, lalu tunuk variasi warna",
+      "narration": "Pertama, bahannya semiwoll yang bikin kamu tetap adem dan gak kaku pas dipakai seharian. Kedua, modelnya slimfit yang bikin badan kelihatan langsing dan stylish, bukan kaku kayak jas biasa. Dan ketiga, warnanya lengkap banget dari full black, hitam list putih, mocca, sampai dark grey list, jadi kamu gak perlu pusing pilih-pilih!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: anak kuliah pakai jas wisuda, karyawan pakai jas ke kantor, pria ganteng pakai jas ke pesta",
+      "narration": "Perfect buat yang lagi mau wisuda tapi budget terbatas, atau kamu yang sering kerja di kantor dan pengen tampil lebih smart. Kalau aktivitas kamu banyak lari-lari antar acara, ini cocok banget karena bahannya nyaman dan gak bikin lemes."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating 4.84 bintang besar dan angka 20.000 terjual, lalu teks kutipan pembeli muncul di layar",
+      "narration": "Pembelinya pada ngomong, aku tinggi seratus tujuh puluh delapan berat hampir seratus kilo, masih pas kok, dengan harga segini ini sih sangat worth it. Jadi tenang, amanah banget sih kualitasnya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Model menunjuk ke arah kamera dengan senyum lebar, teks finding dot id muncul di layar",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#JasWisuda",
+    "#BlazerPria",
+    "#OOTDWisuda",
+    "#FashionMuslim",
+    "#JasMurah",
+    "#DvandraId",
+    "#KostumWisuda",
+    "#StylePria"
+  ],
+  "product_id": 8762,
+  "product_title": "Dvandra.id Jas Blazer Hitam Full Black Jas Formal Casual Jas Wisuda",
+  "product_price": "149000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/8762.jpg",
+    "/uploads/products/8762_1.jpg",
+    "/uploads/products/8762_2.jpg",
+    "/uploads/products/8762_3.jpg",
+    "/uploads/products/8762_4.jpg",
+    "/uploads/products/8762_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/8762",
+  "generated_at": "2026-03-15T03:17:51.984Z"
+}

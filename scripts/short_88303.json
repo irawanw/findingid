@@ -1,0 +1,78 @@
+{
+  "title": "Regulator Gas Starcam 12 RM Murah & Tahan Lama!",
+  "hook_text": "Gas Bocor? Stop Scroll Dulu Bestie!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah ekspresi panik melihat kompor lalu cut ke wajah tenang",
+      "narration": "Gas bocor? Atau api mati pas lagi hoki masak? --- Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Regulator Starcam SCT 12 RM terlihat jelas di atas meja dapur bersih",
+      "narration": "Kenalin, Starcam SCT 12 RM, regulator gas low pressure penyelamat dapur kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek koin jatuh",
+      "narration": "Harganya? Cuma seratus dua puluhan ribu saja! --- Literally murah tapi safety nya next level."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi pemasangan regulator ke tabung gas, lalu api kompor menyala stabil",
+      "narration": "Tekanan stabil jadi masakan nggak gosong. --- Karet premium awet bertahun-tahun. Oh iya, buat yang bilang susah pasang? --- Pastikan karet sealnya pas ya biar nggak bocor. Basic safety check saja!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang sedang memasak dengan senyum puas di dapur modern",
+      "narration": "Ini cocok banget buat kamu yang hobi masak harian atau punya keluarga besar."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4,84 dan angka 30.000+ terjual",
+      "narration": "Sudah terjual 30 ribu lebih dengan rating 4,84 bintang! --- Yang udah beli bilang, 'produk sangat bermanfaat, bagus berfungsi dengan baik dan tahan lama'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke bawah dan teks finding dot id",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detailnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#RegulatorGas",
+    "#Starcom",
+    "#PeralatanDapur",
+    "#MasakEnak",
+    "#TipsDapur",
+    "#GenZIndonesia",
+    "#ViralProduct",
+    "#FindingID"
+  ],
+  "product_id": 88303,
+  "product_title": "Regulator Gas Starcam SCT 12 RM & SCT 12 R - Regulator Starcam Tekanan Rendah",
+  "product_price": "102500.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/88303.jpg",
+    "/uploads/products/88303_1.jpg"
+  ],
+  "product_link": "https://finding.id/p/88303",
+  "generated_at": "2026-03-13T19:53:44.640Z"
+}

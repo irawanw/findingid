@@ -1,0 +1,81 @@
+{
+  "title": "Celana Running Misty Tebal, Worth It Banget!",
+  "hook_text": "Celana tebal atau tipis?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan mengocok celana hitam yang terlihat tebal dan teksturnya jelas, lalu zoom out ke model olahraga.",
+      "narration": "Stop scroll bestie, pernah nggak sih kamu bingung mau beli celana running yang tipis kayak celana dalam atau yang tebal kayak celana jeans?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model sedang berpose stretching di gym, tunjukkan detail bahan yang jatuh dan rapi.",
+      "narration": "Nih, aku nemu solusinya, celana training pria dengan bahan misty yang nggak biasa. Bahan ini elastis banget, adem, tapi teksturnya super tebal dan premium."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul: 'Di bawah Seratusan Ribuan', sambil tunjuk label harga atau layar HP menampilkan harga.",
+      "narration": "Kamu bakal kaget sama harganya, di bawah seratusan ribu doang, which is worth it banget untuk kualitas seperti ini. Kualitasnya literally next level sih."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tunjuk saku di samping, tunjuk model lari, lalu tunjukkan dua warna varian.",
+      "narration": "Fiturnya emang gokil, pertama bahan misty elastis yang fleksibel banget saat gerak. Kedua modelnya slim fit yang modis, nggak kaku. Ketiga ada saku dan sleting, jadi HP kamu nggak bakal jatuh pas kamu lagi lari atau yoga. Ada dua varian keren juga, atlet eight eight dan atlet climacol."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Potongan layar menunjukkan chart ukuran M sampai XXL, lalu transisi ke berbagai aktivitas: gym, jalan santai, nongkrong.",
+      "narration": "Perfect buat kamu yang aktivitasnya sering banget gerak, baik buat gym, running, yoga, atau bahkan cuma mau nyantai nongkrong. Ukurannya lengkap dari M sampai XXL, jadi kamu nggak perlu pusing mikir ukuran."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.81 dan angka 30.000 terjual dengan efek flash yang menarik.",
+      "narration": "Pembelinya pada ngomong kalau bahannya mantap dan sesuai harga. Ratingnya empat koma delapan satu dari tiga puluh ribu orang yang udah beli bilang ini cocok banget buat olahraga."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar 'CEK DI FINDING DOT ID' dengan animasi panah yang menunjuk ke bawah atau arah finding.id.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#CelanaRunning",
+    "#PriaGym",
+    "#FashionOlahraga",
+    "#WorthIt",
+    "#GenZStyle",
+    "#FitnessIndonesia",
+    "#TemukanDiFindingId",
+    "#SerbaGakBiar"
+  ],
+  "product_id": 56005,
+  "product_title": "Celana running pria celana training olahraga gym fitnes aerobik yoga misty tebal hitam",
+  "product_price": "78999.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/56005.jpg",
+    "/uploads/products/56005_1.jpg",
+    "/uploads/products/56005_2.jpg",
+    "/uploads/products/56005_3.jpg",
+    "/uploads/products/56005_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/56005",
+  "generated_at": "2026-03-14T04:31:18.864Z"
+}

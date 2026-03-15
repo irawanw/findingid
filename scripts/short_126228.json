@@ -1,0 +1,83 @@
+{
+  "title": "Celana Chino Gombrong Premium Murah Banget!",
+  "hook_text": "Perut Buncit Susah Cari Celana?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kreator bingung sambil pegang celana yang terlalu ketat, transisi cepat ke celana DONKEY CLOTH",
+      "narration": "Perut buncit susah cari celana yang pas?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Kreator memegang celana DONKEY CLOTH dengan bangga, zoom in detail bahan",
+      "narration": "Duh, final answer kamu adalah DONKEY CLOTH celana chino gombrong ini!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, kreator menunjuk harga sambil senyum lebar",
+      "narration": "Harganya? Seratus ribuan aja --- which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase fitur: bahan melar, ukuran 5XL, jahitan rapi, model gombrong",
+      "narration": "Bahan katun twill tebal tapi adem dan melar. Mau ukuran 5XL buat berat badan 95 kilo? Ada. --- Desain Korea simpel, lima warna netral. Karet pinggangnya elastis. Dibilang kegedean di bawah? Nope, justru model gombrong banget, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Kreator memakai celana, gaya santai, jalan di luar ruangan",
+      "narration": "Perfect buat kamu yang berat 60 sampai 95 kilo, suka gaya kasual tapi tetap elegan buat keluar rumah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.83 dan counter penjualan 90.000, teks kutipan pembeli muncul",
+      "narration": "Sudah 90 ribu terjual dengan rating 4,83. --- Yang udah beli bilang, 'Alhamdulillah real pic, jahitan rapih, suami saya suka'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding dot id muncul besar, kreator menunjuk ke arah link",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#DonkeyCloth",
+    "#CelanaChino",
+    "#OOTD",
+    "#PriaKorea",
+    "#CelanaGombrong",
+    "#RekomendasiPakaian",
+    "#PromoMurah",
+    "#FashionIndonesia"
+  ],
+  "product_id": 126228,
+  "product_title": "DONKEY CLOTH- UNISEX Celana Chino Panjang Reguler Standar Premium | Celana Gombrong Bahan Melar",
+  "product_price": "105000.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/126228.jpg",
+    "/uploads/products/126228_1.jpg",
+    "/uploads/products/126228_2.jpg",
+    "/uploads/products/126228_3.jpg",
+    "/uploads/products/126228_4.jpg",
+    "/uploads/products/126228_5.jpg",
+    "/uploads/products/126228_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/126228",
+  "generated_at": "2026-03-13T19:40:09.318Z"
+}

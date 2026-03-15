@@ -1,0 +1,83 @@
+{
+  "title": "Kemeja Denim Pria Bestie, Worth It Banget!",
+  "hook_text": "Stop scroll! Kemeja denim ini ngiler",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up kemeja biru navy dengan efek zoom in cepat ke tekstur kain, musik upbeat mulai.",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?' Ada yang bilang 'Ketiak jadi kering!' --- Tenang bestie, oles tipis saja ya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot model pria memakai kemeja lengan pendek sedang jalan santai di suasana kota, transisi smooth.",
+      "narration": "Gas bestie, ini BITI Demure Shirt, kemeja print motif denim lengan pendek yang literally so cute dan casual banget buat dipakai sehari-hari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek confetti, model berpose gaya cool.",
+      "narration": "Nih, harga cuma seratus tiga puluhan ribu sampai seratus lima puluh satu ribu, which is worth it banget buat kualitas segini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: tangan meraba ketebalan kain, close up jahitan, model memutar badan menunjukkan detail print.",
+      "narration": "First, bahannya sintetis yang tebal dan tahan lama, nggak gampang kusut. Second, jahitannya rapih dan sesuai ukuran, no cap! Third, desainnya modern dengan corak print denim yang bikin outfit kamu langsung next level."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: kiri model pakai gaya kasual, kanan model pakai gaya semi-formal, teks ukuran muncul jelas.",
+      "narration": "Perfect buat yang aktivitasnya santai tapi tetap pengen kelihatan ganteng. Kalau kamu BB lima puluh sampai tujuh puluh kilo, pilih Fit to M. Kalau BB enam puluh lima sampai delapan puluh kilo, pilih Fit to XL. Jangan salah pilih ya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.86 dan angka 20.000 terjual, plus quote bubble muncul.",
+      "narration": "Rating empat koma delapan enam dan dua puluh ribu produk udah laku terjual. Pembelinya pada ngomong 'Kainnya nyaman dipakai seharian'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar, panah menunjuk ke bawah atau tombol beli muncul.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#fashionpria",
+    "#kemejadenni",
+    "#biti",
+    "#ootdindonesia",
+    "#bajukasual",
+    "#fashionviral",
+    "#temanku",
+    "#findingid"
+  ],
+  "product_id": 5252,
+  "product_title": "BITI Demure Shirt | Kemeja Print Motif Denim Lengan Pendek Biru Navy Pria",
+  "product_price": "151900.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/5252.jpg",
+    "/uploads/products/5252_1.jpg",
+    "/uploads/products/5252_2.jpg",
+    "/uploads/products/5252_3.jpg",
+    "/uploads/products/5252_4.jpg",
+    "/uploads/products/5252_5.jpg",
+    "/uploads/products/5252_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/5252",
+  "generated_at": "2026-03-14T19:06:52.625Z"
+}

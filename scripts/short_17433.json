@@ -1,0 +1,88 @@
+{
+  "title": "Sandal Viral 2026: Worth It Banget!",
+  "hook_text": "Sandal Ini Bikin Kaki Nggak Lelah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up sepatu sandal slide dengan efek kilatan cahaya, lalu transisi cepat ke kaki yang sedang berjalan santai.",
+      "narration": "Nih, sandal terbaru tahun 2026 yang lagi viral banget, tapi emang sekeren itu sih?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai angle menunjukkan detail tekstur insole EVA dan sol anti-slip.",
+      "narration": "Ini dia sandal slide pria gaya fashion dengan material EVA premium yang literally super empuk dan ringan banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan latar belakang yang bersih dan modern, lalu muncul ikon centang hijau.",
+      "narration": "Dan yang bikin kaget, harga berkisar lima puluh ribuan an aja, which is worth it banget buat kualitas next level kayak gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Jari kaki menekan insole, 2. Air diteteskan ke sol, 3. Seseorang berjalan cepat di lantai licin.",
+      "narration": "Fiturnya gila bestie, pertama ada insole bertekstur tinggi yang bikin kaki nggak bikin capek, kedua solnya anti-slip jadi nggak gampang licin, ketiga desain wide fit yang pas banget di kaki lebar."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang memakai sandal ini sambil santai di teras rumah atau sedang berkendara motor.",
+      "narration": "Perfect buat kamu yang sering jalan jauh atau aktivitas padat, soalnya bantalan EVA-nya bener-bener nahan tekanan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.8 dan teks '20 Ribu Terjual' muncul dengan animasi dinamis.",
+      "narration": "Dilihat dari rating 4.8 dan 20 ribu terjual, pembeli bilang kalau sandal ini nggak licin dan sangat nyaman dipakai sehari-hari."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan panah menunjuk ke arah teks, background produk blur.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SandalViral2026",
+    "#SandalPriaKeren",
+    "#FashionGenZ",
+    "#SandalNyaman",
+    "#RekomendasiProduk",
+    "#SandalWideFit",
+    "#EvaPremium",
+    "#FindingId"
+  ],
+  "product_id": 17433,
+  "product_title": "Sandal pria terbaru 2026 dengan EVA tumit belakang, sendal keren pria gaya fashion",
+  "product_price": "50815.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/17433.jpg",
+    "/uploads/products/17433_1.jpg",
+    "/uploads/products/17433_2.jpg",
+    "/uploads/products/17433_3.jpg",
+    "/uploads/products/17433_4.jpg",
+    "/uploads/products/17433_5.jpg",
+    "/uploads/products/17433_6.jpg",
+    "/uploads/products/17433_7.jpg",
+    "/uploads/products/17433_8.jpg",
+    "/uploads/products/17433_9.jpg",
+    "/uploads/products/17433_10.jpg",
+    "/uploads/products/17433_11.jpg"
+  ],
+  "product_link": "https://finding.id/p/17433",
+  "generated_at": "2026-03-15T17:50:05.646Z"
+}

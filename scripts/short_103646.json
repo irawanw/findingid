@@ -1,0 +1,78 @@
+{
+  "title": "Stok Tisu Hemat 5 Pack Cuma 50 Ribu!",
+  "hook_text": "Tisu 5 Pack Cuma 50 Ribu?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tumpukan tisu Paseo dengan ekspresi wajah kaget.",
+      "narration": "Tahu nggak bestie, tisu 5 pack cuma lima puluhan ribu? --- Gak percaya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Menunjukkan kemasan produk dan tekstur tisu 3 lapis secara detail.",
+      "narration": "Ini Paseo 540 helai, teksturnya literally soft dan tebal tiga lapis. --- Nggak gampang sobek pas dipakai."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Overlay harga besar dan kalkulator yang menunjukkan penghematan.",
+      "narration": "Kalau beli satuan bisa mahal banget, tapi paket ini cuma lima puluhan ribu. --- Worth it banget buat stok!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Test tetes air pada tisu dan demonstrasi kebersihan tangan.",
+      "narration": "Daya serapnya next level, langsung kering nggak nempel. --- Bahannya serat alami 100% jadi aman buat kulit sensitif. --- Kemasannya praktis dan higienis buat keluarga. --- Gak perlu khawatir soal bakteri."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Suasana keluarga sedang makan atau bermain bersama dengan tisu.",
+      "narration": "Cocok buat kamu yang punya anak kecil atau rumah tangga butuh stok harian. --- Kalau aktivitas kamu sibuk, ini solusinya biar nggak kehabisan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 4.9, angka penjualan, dan screenshot chat pembeli.",
+      "narration": "Rating 4,9 dengan 30 ribu terjual! --- Yang udah beli bilang 'Beli paket bundling biar lebih hemat'. --- Isinya aman meski plastik kadang rusak dikit."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke layar atau logo finding.id.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#TisuHemat",
+    "#Paseo",
+    "#ViralProduct",
+    "#RekomendasiBelanja",
+    "#TipsIbuBunda",
+    "#ProdukMurah",
+    "#FindMeOnFinding",
+    "#GayaHidupHemat"
+  ],
+  "product_id": 103646,
+  "product_title": "[ PAKET ISI 5 ] Tisu Tissue PASEO 540 helai facial tissue PROMO !!!",
+  "product_price": "53150.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/103646.jpg",
+    "/uploads/products/103646_1.jpg"
+  ],
+  "product_link": "https://finding.id/p/103646",
+  "generated_at": "2026-03-13T22:43:28.132Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Jakets Premium Cuma Seharga Kopi? 😱",
+  "hook_text": "Jaket Premium cuma seharga kopi?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah host yang kaget memegang jaket, background blur",
+      "narration": "Jaket Premium cuma seharga kopi?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Host memutar jaket untuk menunjukkan sisi bolak balik, shot produk detail",
+      "narration": "Gak percaya? Ini Freestyle Jaket Bolak Balik, waterproof dan tebal banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek pop, host menunjuk harga",
+      "narration": "Harganya cuma seratus lima puluhan ribu sampai seratus delapan puluhan ribu. Literally no cap, ini murah banget buat kualitas semewah ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot air dituangkan ke jaket (waterproof), close up bahan dalam Lotto",
+      "narration": "Bahannya Taslan JN tahan air --- dalam nya Lotto bikin hangat. Bisa bolak balik buat style beda. Hoodie juga bisa dilepas. Jahitannya rapi banget, which is worth it."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Host memakai jaket ukuran besar, tunjukkan fit di badan",
+      "narration": "Cocok buat kalian yang sering kehujanan atau badannya gede. Ada sampai empat XL lho. Buat yang berat badan tujuh puluh enam kilo, XL nya pas banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 5 dan jumlah terjual di aplikasi",
+      "narration": "Ratingnya empat koma delapan tujuh, udah terjual empat puluh ribu. Yang udah beli bilang \"Bahannya Premium, Tebal, dan type jaketnya Bisa bolak balik\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar, panah menunjuk ke arah tombol",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#JaketBolakBalik",
+    "#FreestyleJaket",
+    "#JaketMurah",
+    "#JaketWaterproof",
+    "#OOTDIndonesia",
+    "#JaketJumbo",
+    "#ViralProducts",
+    "#CekFindingId"
+  ],
+  "product_id": 10701,
+  "product_title": "Freestyle Jaket Bolak Balik Parasut Taslan Waterproof Size M - 4XL",
+  "product_price": "154999.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/10701.jpg",
+    "/uploads/products/10701_1.jpg",
+    "/uploads/products/10701_2.jpg",
+    "/uploads/products/10701_3.jpg",
+    "/uploads/products/10701_4.jpg",
+    "/uploads/products/10701_5.jpg",
+    "/uploads/products/10701_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/10701",
+  "generated_at": "2026-03-13T17:57:51.542Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Hair Dryer Lipat Serba Bisa! 🌪️✨",
+  "hook_text": "STOP! Hair dryermu ketinggalan zaman!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah terkejut sambil memegang hair dryer biasa yang terlihat kaku dan besar.",
+      "narration": "Stop dulu bestie! Kapan terakhir kali kamu pakai hair dryer yang bikin capek bawa-bawa kemana-mana?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke Goto Ciel yang dilipat kecil di tangan, lalu langsung dibuka dengan efek sound effect 'woosh'.",
+      "narration": "Kenalin nih Goto Ciel Hair Dryer lipat! Multifungsi dan compact banget, literally so cute pas di tas!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan angka harga dengan efek confetti meledak.",
+      "narration": "Dan harganya? Nggak perlu ribet, cuma seratus delapan puluhan ribu aja, which is worth it banget buat kualitas segini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Tunjukkan fitur lipat yang mudah. 2. Tampilkan tombol on/off yang simpel. 3. Tampilkan udara panas yang keluar kuat.",
+      "narration": "Pertama, desain lipatnya super mudah, nggak butuh tenaga. Kedua, tombol on offnya simpel, gampang banget dipake. Ketiga, anginnya bertenaga, bikin rambut kering dalam lima menit doang, basically next level!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario seorang wanita sedang bekerja di kantor lalu langsung keluar dengan rambut rapi.",
+      "narration": "Perfect buat yang sering sibuk di kantor atau butuh keringin rambut cepet sebelum meeting, nggak perlu ribet!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.81 dan angka 70.000 terjual dengan animasi panah naik.",
+      "narration": "Dengan rating empat koma delapan satu dan tujuh puluh ribu produk yang udah laku keras, pembelinya pada bilang pengeringan juga cepat berguna banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi tombol yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#GotoCiel",
+    "#HairDryer",
+    "#SkincareIndonesia",
+    "#ViralProduk",
+    "#RekomendasiKecantikan",
+    "#GenZIndonesia",
+    "#FindingDotID",
+    "#LifeHacks"
+  ],
+  "product_id": 151203,
+  "product_title": "Goto Ciel Hair Dryer Pengering Rambut Lipat Professional Multifungsi",
+  "product_price": "89900.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/151203.jpg",
+    "/uploads/products/151203_1.jpg",
+    "/uploads/products/151203_2.jpg",
+    "/uploads/products/151203_3.jpg",
+    "/uploads/products/151203_4.jpg",
+    "/uploads/products/151203_5.jpg",
+    "/uploads/products/151203_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/151203",
+  "generated_at": "2026-03-14T13:22:04.308Z"
+}

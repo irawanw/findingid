@@ -1,0 +1,83 @@
+{
+  "title": "Helm SNI 100ribuan Worth It Banget!",
+  "hook_text": "Helm SNI Cuma 100 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up helm hitam mengkilap dengan efek cahaya kilat, lalu transisi cepat ke teks besar di layar",
+      "narration": "Gak percaya deh, helm SNI yang aman banget harganya cuma seratus ribuan, no cap!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Host memegang helm, menunjukkan logo SNI dan busa tebal dari dalam, lalu menunjukkan packing kardus + bubble wrap tebal",
+      "narration": "Ini dia Helm Ink Centro SNI yang lagi viral, bestie! Busa dalamnya tebal banget buat kenyamanan, plus paking kardus sama bubble wrap super tebal jadi aman sampai rumah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan grafik perbandingan harga helm mahal vs helm ini, dengan efek uang terbang atau tanda seru",
+      "narration": "Bayangin, kamu dapet helm SNI dengan harga cuma seratus delapan puluhan ribu an. Padahal kalau beli merk lain, bisa sampai jutaan dong, which is totally worth it buat dompet kita."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: (1) Visor bisa dibuka tutup, (2) Busa dalam ditekan, (3) Helm dipakai sambil motor melaju",
+      "narration": "Fiturnya next level, literally! Pertama, visor double lock yang bisa kamu buka tutup sesuka hati. Kedua, busa dalamnya super empuk dan nyaman dipakai seharian. Ketiga, desainnya yang abang-abang banget bikin gaya kamu makin kece di jalanan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Anak muda naik ojek online, pekerja kantor parkir motor, dan anak sekolah naik motor",
+      "narration": "Produk ini perfect banget buat kamu yang sering ngebut ke kantor atau buat anak kos yang butuh helm harian aman tapi budget tetap aman. Kalau aktivitas kamu padat, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.5 bintang, angka 30.000 terjual, dan screenshot chat pembeli yang memuji",
+      "narration": "Sudah 30.000 orang yang beli dan ratingnya 4,5 bintang! Yang udah beli bilang kualitasnya sesuai harga dan pengirimannya cepet banget, which is amazing."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah ke kanan mengarah ke teks 'finding.id', host melambaikan tangan",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#HelmMurah",
+    "#HelmSNI",
+    "#OOTD",
+    "#OtomotifIndonesia",
+    "#RacunShopee",
+    "#HelmViral",
+    "#GenZOtomotif",
+    "#CariHelmMurah"
+  ],
+  "product_id": 62888,
+  "product_title": "HELM INK CENTRO SNI BUSA TEBAL FREE PAKING KARDUS + BUBLLE WRAP TEBAL",
+  "product_price": "104399.00",
+  "product_rating": "4.50",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/62888.jpg",
+    "/uploads/products/62888_1.jpg",
+    "/uploads/products/62888_2.jpg",
+    "/uploads/products/62888_3.jpg",
+    "/uploads/products/62888_4.jpg",
+    "/uploads/products/62888_5.jpg",
+    "/uploads/products/62888_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/62888",
+  "generated_at": "2026-03-15T16:27:33.700Z"
+}

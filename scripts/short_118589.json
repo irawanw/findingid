@@ -1,0 +1,80 @@
+{
+  "title": "Rambut Rontok? Ini Solusinya Bestie!",
+  "hook_text": "Rambut Rontok Parah? Stop Scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up rambut rontok di sisir lalu transisi cepat ke produk.",
+      "narration": "Ngak percaya kalau satu botol ini bisa nutupin masalah rambut rontok banget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk dirotasi di atas meja dengan pencahayaan cinematic.",
+      "narration": "Kenalin nih Makarizo Hair Tonic --- Dual action, kuatin akar rambut plus hindarin ketombe. literally so cute banget packaging-nya."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar sambil tangan memegang botol.",
+      "narration": "Harganya tuh cuma tujuh puluh ribuan doang buat volume gede kayak gini --- Which is worth it banget buat kantong mahasiswa."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Grafik bahan alami (lidah buaya/ginseng) dan efek dingin mentol.",
+      "narration": "Ada lidah buaya sama ginseng alami yang bikin rambut makin tebal --- Sensasi mentolnya dingin, which is refreshing banget buat kulit kepala. Teksturnya cair gampang meresap --- BPOM approved juga no cap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang mengecek baby hair di cermin lalu memasukkan ke tas.",
+      "narration": "Perfect buat kamu yang lagi stress karena baby hair susah tumbuh --- Kalau aktivitas kamu di luar rumah, ini wajib ada di tas."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan angka penjualan besar.",
+      "narration": "Sembilan puluh ribu terjual. Yang udah beli bilang \"efektif banget buat baby hair di deket pelipis\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di layar dengan tombol arahkan ke kanan.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie --- Review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#Makarizo",
+    "#RambutSehat",
+    "#BabyHair",
+    "#RambutRontok",
+    "#SkincareId",
+    "#FindTheBest",
+    "#GenZIndonesia",
+    "#ViralProduct"
+  ],
+  "product_id": 118589,
+  "product_title": "Makarizo Professional Salon Daily Redensifying Hair Tonic Spray Bottle 140 mL",
+  "product_price": "75000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/118589.jpg",
+    "/uploads/products/118589_1.jpg",
+    "/uploads/products/118589_2.jpg",
+    "/uploads/products/118589_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/118589",
+  "generated_at": "2026-03-13T21:19:46.275Z"
+}

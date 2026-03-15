@@ -1,0 +1,83 @@
+{
+  "title": "Sepatu Kerja Simple Banget! 😱",
+  "hook_text": "Kaki kecil juga cocok?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up kaki kecil memakai sepatu XES LFA6 dengan ekspresi wajah terkejut dan senyum lebar",
+      "narration": "Gak percaya? Sepatu kerja ini literally so cute buat kaki kecil, which is worth it banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase berbagai sudut sepatu berwarna Hitam, Beige, dan Khaki sedang dipakai model jalan",
+      "narration": "Ini XES LFA6, sepatu flat wanita import dengan ujung lancip yang simpel ga lebay, basically next level buat outfit formal!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga di layar dengan efek angka menurun cepat, lalu muncul ikon tas dan blazer",
+      "narration": "Gila sih harganya cuma seratus puluhan ribu, tapi kualitasnya sekelas seratus ribuan lainnya, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail tekstur kulit sintetis, lalu model memakai sepatu tanpa kaus kaki terlihat nyaman, lalu close-up ujung lancip",
+      "narration": "Pertama bahannya kulit sintetis yang premium, kedua wide fit friendly dan nyaman banget tanpa kaus kaki, ketiga desain ujung lancip yang elegan dan simple!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario model duduk di kantor mengetik laptop lalu berdiri presentasi dengan percaya diri",
+      "narration": "Perfect buat kamu yang sering kerja kantoran atau mau tampil profesional tapi tetap nyaman seharian, guys!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up grafik rating 4.87 bintang dengan background ratusan ikon orang belanja",
+      "narration": "Rating empat koma delapan tujuh dan dua puluh ribu orang yang udah beli bilang nyaman banget dipake ga bikin lecet!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pencarian finding.id muncul besar di tengah layar dengan animasi klik",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id buat review lengkap!",
+  "hashtags": [
+    "#XESShoes",
+    "#SepatuKerja",
+    "#FlatShoes",
+    "#OutfitFormal",
+    "#SepatuKecil",
+    "#ImportOriginal",
+    "#ShoppingTips",
+    "#FindingID"
+  ],
+  "product_id": 93340,
+  "product_title": "XES LFA6 / Sepatu Wanita Flat shoes Wanita Import Sepatu Kerja",
+  "product_price": "100436.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/93340.jpg",
+    "/uploads/products/93340_1.jpg",
+    "/uploads/products/93340_2.jpg",
+    "/uploads/products/93340_3.jpg",
+    "/uploads/products/93340_4.jpg",
+    "/uploads/products/93340_5.jpg",
+    "/uploads/products/93340_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/93340",
+  "generated_at": "2026-03-14T10:03:22.566Z"
+}

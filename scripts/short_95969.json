@@ -1,0 +1,83 @@
+{
+  "title": "Turun 2kg Cuma Seminggu! 🤫 Detoslim",
+  "hook_text": "BB Turun 2kg Cuma Seminggu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wajah kaget memegang timbangan, zoom in ke angka berat badan.",
+      "narration": "nggak percaya bisa turun 2 kilo cuma seminggu? --- Tanpa diet ribet sama sekali, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Detoslim muncul dengan efek cahaya, shot botol/kapsul dari berbagai sisi.",
+      "narration": "Ini nih Detoslim, herbal pelangsing alami yang jadi favorit banget. --- Buat kamu yang pengen langsing sehat dan aman tanpa efek samping."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan animasi diskon, background produk.",
+      "narration": "Dulu harga bisa sampai dua ratusan ribuan. --- Sekarang mulai dari tujuh puluhan ribu doang!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase varian produk (Madu, Kapsul, Teh) dan orang sedang olahraga ringan.",
+      "narration": "Rasanya manis banget, pilihannya banyak. --- Mulai dari madu, kapsul, sampai teh yang enak. --- Tapi no cap, harus dikasih olahraga biar maksimal ya. --- Bestie, jangan lupa gerak supaya hasilnya mantap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot orang sibuk bekerja lalu tersenyum sambil minum Detoslim.",
+      "narration": "Cocok buat kamu yang mau diet tanpa ribet. --- Especially buat yang sibuk dan nggak punya waktu luang, tapi pengen hasil cepat."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.81 dan angka 30.000 terjual di layar.",
+      "narration": "Sudah terjual 30 ribuan produk dengan rating 4.81 bintang. --- Yang sudah beli bilang, 'lingkar perut turun 4cm, pengirimannya juga cepat!'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan panah menunjuk.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya, jangan sampai kehabisan stok nih!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya",
+  "hashtags": [
+    "#Detoslim",
+    "#DietAlami",
+    "#TurunBeratBadan",
+    "#Herbal",
+    "#GenZIndonesia",
+    "#FindIt",
+    "#Promo",
+    "#Langsing"
+  ],
+  "product_id": 95969,
+  "product_title": "Detoslim Herbal Pelangsing Alami Bantu Turunkan Berat Badan",
+  "product_price": "75000.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/95969.jpg",
+    "/uploads/products/95969_1.jpg",
+    "/uploads/products/95969_2.jpg",
+    "/uploads/products/95969_3.jpg",
+    "/uploads/products/95969_4.jpg",
+    "/uploads/products/95969_5.jpg",
+    "/uploads/products/95969_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/95969",
+  "generated_at": "2026-03-13T21:18:57.282Z"
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Laneige Radian-C: Gak Kusam Lagi!?",
+  "hook_text": "Kulit Kusam Bikin Insecure?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kusam yang terlihat lelah, lalu transisi cepat ke wajah glowing",
+      "narration": "Kulit kusam bikin insecure banget kan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Laneige Radian-C di atas meja estetik dengan pencahayaan soft",
+      "narration": "Kenalin nih, Laneige Radian-C Advanced Effector. First treatment essence buat ngecerin wajah dari akar masalah. --- literally so brightening."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar, lalu efek diskon atau centang hijau",
+      "narration": "Normalnya sembilan ratus ribuan, tapi pas promo cuma lima ratus delapan puluh ribuan. --- Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo tekstur essence diteteskan di tangan, lalu dioles ke pipi dengan cepat",
+      "narration": "Super Berry Complex antioksidan 4x lebih kuat. --- Ngeratain tekstur kulit, meredakan bruntusan. Teksturnya cair banget, gak lengket di wajah. --- BPOM registered sampe 2028, no cap aman."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang bekerja di depan laptop (AC) dan tersenyum puas, lalu shot box produk",
+      "narration": "Perfect buat kamu yang sering nongkrong di cafe atau kerja di AC terus. --- Kulit jadi kusam dan berminyak. Packaging kadang penyok karena bubble wrap tipis, tapi isinya intact kok."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.93 dan jumlah sold 20k di layar",
+      "narration": "Rating 4.93 bintang, udah laku 20 ribu produk. --- Yang udah beli bilang pengiriman cepat dan pas promo jadi lebih hemat. Kulit selalu lembab, kenyal, dan semakin bersih."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks 'Cek di finding dot id' muncul dengan animasi klik, lalu logo finding.id",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#laneige",
+    "#skincare",
+    "#radiant",
+    "#brightening",
+    "#skincareroutine",
+    "#koreanskincare",
+    "#beautyfind",
+    "#findingid"
+  ],
+  "product_id": 65693,
+  "product_title": "LANEIGE Radian-C Advanced Effector 150ml - First Treatment Essence, Pencerah Wajah, Brightening Booster",
+  "product_price": "585800.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/65693.jpg",
+    "/uploads/products/65693_1.jpg",
+    "/uploads/products/65693_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/65693",
+  "generated_at": "2026-03-13T16:21:10.136Z"
+}

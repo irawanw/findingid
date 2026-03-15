@@ -1,0 +1,83 @@
+{
+  "title": "Cushion Murah High Coverage Dry Skin?",
+  "hook_text": "Cushion Murah Tapi High Coverage?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah glowing dengan cushion, editor zoom in cepat",
+      "narration": "Stop scroll! Cushion murah tapi high coverage? Literally no cap, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk TRUEVE Radiant dipegang, shot detail kemasan mewah",
+      "narration": "Kenalin nih, TRUEVE Radiant Hi-Cover Mesh Cushion. Ini yang lagi viral banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, efek koin jatuh",
+      "narration": "Harganya cuma seratus enam puluhan ribu doang! Which is super worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tekstur cushion di tangan, shot kulit glowing finish",
+      "narration": "Ada 5X Ceramide plus Snow Mushroom dan Centella Asiatica. Jadi skincare sekaligus makeup, finish-nya poreless radiant glow. Nggak bakal oksidasi parah, no cap! Ini beneran next level banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita aktif keluar rumah, lalu shot kulit close-up",
+      "narration": "Perfect buat kalian yang punya dry skin atau kulit normal suka glowing natural. Kalau aktivitas kamu sibuk, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 4.94 muncul, screenshot chat pembeli",
+      "narration": "Rating 4.94 dengan 20.000 terjual! Yang udah beli bilang coveragenya pas nggak too much --- Tapi hati-hati ya, packagingnya kadang meluber kalau di tas."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul, panah mengarah ke kanan",
+      "narration": "Mau liat hasil aslinya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Mau liat hasil aslinya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#TRUEVE",
+    "#CushionMurah",
+    "#MakeupDrySkin",
+    "#SkincareIndo",
+    "#ViralProduct",
+    "#GlowingSkin",
+    "#BeautyHacks",
+    "#FindingID"
+  ],
+  "product_id": 100914,
+  "product_title": "TRUEVE Radiant Hi-Cover Mesh Cushion - High Coverage Tahan Lama, Minim Oksidasi, Poreless Radiant Glow Finish, Skincare Kulit Normal Kulit Kering, Cover Blur (5X Ceramide + Snow Mushroom + Centella Asiatica)",
+  "product_price": "106000.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100914.jpg",
+    "/uploads/products/100914_1.jpg",
+    "/uploads/products/100914_2.jpg",
+    "/uploads/products/100914_3.jpg",
+    "/uploads/products/100914_4.jpg",
+    "/uploads/products/100914_5.jpg",
+    "/uploads/products/100914_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100914",
+  "generated_at": "2026-03-13T19:38:25.804Z"
+}

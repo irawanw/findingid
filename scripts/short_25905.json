@@ -1,0 +1,86 @@
+{
+  "title": "Handuk Bayi Chalmer Lucu Banget! 🧸✨",
+  "hook_text": "Stop! Ini handuk bayi paling worth it!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Zoom in cepat ke motif handuk bayi yang lucu sambil text besar muncul",
+      "narration": "Stop bestie! Jangan scroll lagi kalau kamu lagi cari handuk bayi yang nggak bikin mata kamu baperan!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase berbagai motif: Sea World, Unicorn, Dino, Traffic, Sweet Cats, Transport",
+      "narration": "Kenalin nih, Handuk Bayi Chalmer! Dengan ukuran enam puluhan x dua puluhan belas cm, ini literally super lembut dan punya motif yang nggak bisa kamu cari di tempat lain, which is worth it banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga coret lalu muncul harga asli dengan efek tanda seru",
+      "narration": "Nah, harga awalnya di enam puluh tujuh ribuan, tapi sekarang kamu dapetnya di enam puluh delapan ribuan aja! Kualitasnya setara dengan seratus ribuan, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Handuk direndam air, 2. Close up tekstur kain, 3. Bayi tertawa di dalam handuk",
+      "narration": "Pertama, bahannya dari seratus persen katun terry yang daya serapnya maksimal, jadi baby langsung kering! Kedua, teksturnya halus banget, nggak kasar sama sekali di kulit sensitive, which feels so premium! Ketiga, pilih motif favoritmu mulai dari Sea World sampai Transport, basically next level!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase ibu membereskan kamar mandi bayi atau memberikannya handuk setelah mandi",
+      "narration": "Perfect buat kamu yang sering ngeliatin baby mandi tiap hari atau lagi cari kado ultah yang pasti disukai si kecil. Kalau aktivitas kamu lagi sibuk nge-tracks bayi, ini solusi paling asik!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan angka rating 4.84 dan jumlah terjual 20.000 dengan efek confetti",
+      "narration": "Pembelinya pada ngomong bahannya halus, tebal, dan harganya murah banget, plus motifnya jg lucu!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol animasi 'Cek Detail' mengarah ke logo finding.id",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#HandukBayiChalmer",
+    "#KebutuhanBayi",
+    "#ParentingIndonesia",
+    "#HandukLucu",
+    "#CottonTerry",
+    "#GiftIde",
+    "#MomHacks",
+    "#FindingId"
+  ],
+  "product_id": 25905,
+  "product_title": "Handuk Bayi Chalmer Ukuran 60 x 120 cm Handuk Bayi Lembut Print Anak Karakter",
+  "product_price": "68500.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/25905.jpg",
+    "/uploads/products/25905_1.jpg",
+    "/uploads/products/25905_2.jpg",
+    "/uploads/products/25905_3.jpg",
+    "/uploads/products/25905_4.jpg",
+    "/uploads/products/25905_5.jpg",
+    "/uploads/products/25905_6.jpg",
+    "/uploads/products/25905_7.jpg",
+    "/uploads/products/25905_8.jpg",
+    "/uploads/products/25905_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/25905",
+  "generated_at": "2026-03-15T11:18:59.915Z"
+}

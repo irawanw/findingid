@@ -1,0 +1,83 @@
+{
+  "title": "Pel Lantai Otomatis? Ini Gila Banget!",
+  "hook_text": "Ngepel manual? Stop sekarang!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat orang ngepel pake sapu lidi sambil keringetan dikit, lalu layar gelap sebentar.",
+      "narration": "Masih mau keringetan kerasa banget cuma buat ngepel lantai? Nggak usah lagi bestie, itu sudah outdated banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Muncul COOGER Panda Spin Mop 2IN1 berputar otomatis dikit, air bersih dari satu ember, air kotor dari ember lain.",
+      "narration": "Cek COOGER Pel Lantai Spin Mop ini, fitur air bersih dan kotor terpisahnya literally next level untuk kebersihan maksimal."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar, lalu muncul ikon koin berputar.",
+      "narration": "Bayangkan dapet alat sekeren ini cuma perlu seratus delapan puluhan ribuan, which is worth it banget sih!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Kain pel panda soft, 2. Mekanisme peras otomatis, 3. Isi ulang mudah.",
+      "narration": "Pertama, kain pelnya super lembut nggak gores lantai, kedua peras otomatis jadi nggak perlu tenaga ngencengin, ketiga bahan bakunya kokoh banget tahan lama."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Ibu rumah tangga santai minum kopi sambil lihat lantai bersih, atau anak kos ngepel kamar sempit.",
+      "narration": "Perfect buat yang sibuk di rumah, juga cocok buat anak kos yang mau kamar cepat bersih tanpa ribet, basically sultan!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.91 dan angka 20.000 terjual, plus teks kutipan muncul.",
+      "narration": "Yang udah beli bilang menyerap kotoran dengan baik, plus dua puluh ribu produk udah terjual, nggak perlu ragu dong!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id besar dengan efek glitter, panah menunjuk ke bawah.",
+      "narration": "Cek di finding dot id ya bestie, diskonnya cuma sebentar!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#COOGER",
+    "#PelLantai",
+    "#AlatBersih",
+    "#RumahTangga",
+    "#GenZ",
+    "#ViralShorts",
+    "#CleaningHacks",
+    "#FindingId"
+  ],
+  "product_id": 39561,
+  "product_title": "COOGER  Pel Lantai Spin Mop Air Bersih & Kotor Terpisah Ember 2IN1 Dual Bucket Pel Putar Panda Alat Pel Lantai Peras Otomatis Mop Cleaning Set Kain Pel Refill Alat Rumah Tangga",
+  "product_price": "227905.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/39561.jpg",
+    "/uploads/products/39561_1.jpg",
+    "/uploads/products/39561_2.jpg",
+    "/uploads/products/39561_3.jpg",
+    "/uploads/products/39561_4.jpg",
+    "/uploads/products/39561_5.jpg",
+    "/uploads/products/39561_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/39561",
+  "generated_at": "2026-03-14T04:19:14.770Z"
+}

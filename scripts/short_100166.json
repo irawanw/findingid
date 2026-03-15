@@ -1,0 +1,83 @@
+{
+  "title": "Skin Barrier Rusak? Coba Ini Bestie!",
+  "hook_text": "Kulit Kamu Lagi Rusak Parah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah dengan kulit kering atau iritasi, ekspresi panik",
+      "narration": "Kulit kamu lagi rusak parah nih bestie? Berhenti scroll dulu literally banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Elformula Bundle CeraHydro dipegang dekat kamera dengan pencahayaan cinematic",
+      "narration": "Kenalin nih Elformula Bundle CeraHydro, penyelamat skin barrier kamu. --- Udah lulus uji dermatologi dan resmi banget sama BPOM."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga muncul dengan animasi ledakan, menunjukkan angka murah",
+      "narration": "Padahal isinya premium, harganya cuma seratus sembilan puluh ribuan doang. --- Which is worth it banget compared to others!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tekstur gel cair diteteskan ke tangan, meresap cepat tanpa lengket",
+      "narration": "Teksturnya gel cair kayak susu, super cepet nyerap. --- Ada CeraHydro plus Ceramide buat benerin barrier. --- Anti-blue light juga dong, literally aman dari layar HP."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang aplikasikan pelembab dengan ekspresi senang, menunjukkan kulit sehat",
+      "narration": "Perfect buat yang oily acne prone. --- Basically, kadang stok PO ya bestie, tapi hasilnya no cap bikin kulit jadi nyaman banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.94 dan counter penjualan 40.000 terjual",
+      "narration": "Ratingnya 4.94, udah laku 40ribuan. --- Trust me banget, yang udah beli bilang, 'Cocok di kulitku, nggak perih sama sekali'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan layar HP membuka halaman finding dot id",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya, ada review lengkapnya super banget!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya, ada review lengkapnya super banget!",
+  "hashtags": [
+    "#Elformula",
+    "#SkincareKorea",
+    "#SkinBarrier",
+    "#PelembabWajah",
+    "#SkincareMurah",
+    "#OilySkin",
+    "#AcneProne",
+    "#FindingId"
+  ],
+  "product_id": 100166,
+  "product_title": "ELFORMULA Bundle 2pcs Intensive CeraHydro Barrier Repair Moisture Gel - Moisturizer Calming Pelembab Wajah Pagi Malam Kulit Cerah Skin Barrier Hyaluronic Acid with CeraHydro + Plant Extract & Ceramide Skincare Oil Control Kulit Kering",
+  "product_price": "235900.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100166.jpg",
+    "/uploads/products/100166_1.jpg",
+    "/uploads/products/100166_2.jpg",
+    "/uploads/products/100166_3.jpg",
+    "/uploads/products/100166_4.jpg",
+    "/uploads/products/100166_5.jpg",
+    "/uploads/products/100166_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100166",
+  "generated_at": "2026-03-13T16:57:29.700Z"
+}

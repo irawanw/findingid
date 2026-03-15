@@ -1,0 +1,83 @@
+{
+  "title": "Bikin Kulit Glowing Dalam 14 Hari?",
+  "hook_text": "Kolagen Ilang 1% Tiap Tahun!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah dengan efek bayangan gelap lalu transisi cepat ke produk",
+      "narration": "Tau nggak, bestie? Tubuh kita kehilangan kolagen satu persen setiap tahunnya."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk NEWLAB Brightlogy GlutaColl-5500 diletakkan di atas meja dengan pencahayaan cinematic",
+      "narration": "Makanya wajib punya NEWLAB Brightlogy GlutaColl-5500 ini, minuman collagen plus glutathione yang udah BPOM."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tangan memegang kemasan produk sambil menunjukkan kartu harga yang besar",
+      "narration": "Dan harganya bikin kaget, cuma seratus enam puluhan ribu saja buat lima belas sachet. Which is worth it banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Animasi molekul kolagen masuk ke dalam tubuh, lalu cut ke shot orang minum dengan senyum",
+      "narration": "Ada kolagen tripeptide lima ribu lima ratus miligram buat penyerapan maksimal. --- Dikombinasi Vitamin C biar efek mencerahkan ngebut. Rasanya manis asem enak, nggak menyengat kok. Bukti efektifnya terlihat dalam waktu singkat."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase wanita muda bekerja di kantor dan ibu muda sedang bermain dengan anak",
+      "narration": "Perfect banget buat kamu yang kerja kantoran kulit kusam atau ibu muda yang mau mencegah penuaan dini."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan layar rating 4.9 bintang dan jumlah penjualan 50.000 produk",
+      "narration": "Udah laku lima puluh ribu produk dengan rating empat koma sembilan. --- Yang udah beli bilang, 'dalam 14 hari ini real di aku ngaruhh'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol CTA muncul dengan logo finding.id",
+      "narration": "Penasaran? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Newlab",
+    "#KulitCerah",
+    "#Skincare",
+    "#Glutathione",
+    "#Kecantikan",
+    "#Collagen",
+    "#BeautyHacks",
+    "#Viral"
+  ],
+  "product_id": 101633,
+  "product_title": "NEWLAB Brightlogy GlutaColl-5500| Collagen Drink | Minuman Collagen & Minuman Glutathione BPOM untuk Mencerahkan 15 Sachet",
+  "product_price": "161000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/101633.jpg",
+    "/uploads/products/101633_1.jpg",
+    "/uploads/products/101633_2.jpg",
+    "/uploads/products/101633_3.jpg",
+    "/uploads/products/101633_4.jpg",
+    "/uploads/products/101633_5.jpg",
+    "/uploads/products/101633_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/101633",
+  "generated_at": "2026-03-13T17:46:56.749Z"
+}

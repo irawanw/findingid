@@ -1,0 +1,81 @@
+{
+  "title": "Mukena Mewah Harga Terjangkau Bestie!",
+  "hook_text": "Mukena mewah harga segini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah host yang kaget, background blur mukena premium.",
+      "narration": "Stop scroll dulu bestie! Tau nggak sih? Mukena mewah bisa dapet cuma segini harganya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Host memegang Mukena Natasya, tunjukkan tekstur velvet dan renda detail.",
+      "narration": "Kenalin, ini Mukena Natasya 2 In 1. Bahan Sutra Velvet yang super lembut dan ada renda premium."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga besar muncul, host menunjuk ke layar dengan ekspresi kaget.",
+      "narration": "Dibandingin sama kualitasnya, harganya cuma satu ratus empat puluhan ribu doang. Literally no cap, worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage detail jahitan, bahan jatuh, dan host menyesuaikan tali mukena.",
+      "narration": "Fiturnya lengkap, desain elegan dan bahan anti kusut. Tipsnya, kalau tali pengikatnya miring, tinggal disesuaikan dikit biar nyaman banget pas dipake. --- Jadi nggak bikin ganggu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot wanita sedang sholat dengan mukena, terlihat nyaman dan syar'i.",
+      "narration": "Perfect buat kamu yang butuh mukena praktis buat sholat tapi tetep mau tampil syar’i dan kekinian."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.91 dan jumlah terjual 20.000 di layar.",
+      "narration": "Udah terjual 20 ribu produk! Yang udah beli bilang, 'lembut baget suka kali ma barang nya'. --- Ratingnya 4.91!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pencarian finding.id muncul, host menunjuk ke arah kamera.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#MukenaNatasya",
+    "#MukenaMurah",
+    "#FashionMuslim",
+    "#ViralFinding",
+    "#ReviewMukena",
+    "#ProdukViral",
+    "#OOTDSholat",
+    "#RekomendasiBaru"
+  ],
+  "product_id": 109897,
+  "product_title": "NATASYA - Mukena Dewasa 2 In 1 Renda Premium Sutra Velvet",
+  "product_price": "145000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/109897.jpg",
+    "/uploads/products/109897_1.jpg",
+    "/uploads/products/109897_2.jpg",
+    "/uploads/products/109897_3.jpg",
+    "/uploads/products/109897_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/109897",
+  "generated_at": "2026-03-13T19:14:01.948Z"
+}

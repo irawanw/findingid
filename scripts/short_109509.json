@@ -1,0 +1,83 @@
+{
+  "title": "Koko Rafi Style Cuma 199 Ribu?",
+  "hook_text": "Koko Rafi Harga Mampus?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up detail bordir koko navy, lalu zoom out ke wajah presenter yang ekspresif.",
+      "narration": "Mau punya gaya Raffi Ahmad tapi dompet aman? --- Nih solusinya bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase produk BENHILL Taqwa Koko dari berbagai sudut, highlight tekstur kain.",
+      "narration": "Ini BENHILL Taqwa Koko model Raffi Ahmad yang lagi viral banget. --- Bahan adem, potongan modern, dan warna navy-nya premium banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Overlay teks harga besar, lalu transisi ke ilustrasi dompet terbuka.",
+      "narration": "Harganya cuma seratus sembilan puluh ribuan doang. --- Padahal kualitasnya setara brand mahal, which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Macro shot bordir, lalu model memakai koko sambil menunjukkan fit di badan pendek.",
+      "narration": "Pertama, bordirnya detail banget, rapi, dan nggak gampang pudar. --- Kedua, fit-nya pas buat badan pendek. --- Sangat nyaman dipakai seharian. --- No cap, literally next level."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang memakai koko saat acara kondangan santai di kantor.",
+      "narration": "Perfect buat kamu yang suka kondangan tapi nggak mau ribet. --- Atau buat acara formal santai di kantor."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4,92 dan jumlah terjual, lalu teks kutipan pembeli.",
+      "narration": "Rating 4,92, sudah terjual dua puluh ribu produk. --- Yang udah beli bilang, jahitan rapi dan kuat. --- Tapi cuci manual ya biar awet, jangan mesin."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan tombol panah ke bawah.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#BENHILL",
+    "#KokoRaffi",
+    "#FashionPria",
+    "#OotdPria",
+    "#Kondangan",
+    "#ViralProduct",
+    "#GayaPria",
+    "#FindingID"
+  ],
+  "product_id": 109509,
+  "product_title": "BENHILL Taqwa Koko Bordir \"RAFFI AHMAD\" Pria Pendek Navy-Black-Off White 2613-58-59",
+  "product_price": "199000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/109509.jpg",
+    "/uploads/products/109509_1.jpg",
+    "/uploads/products/109509_2.jpg",
+    "/uploads/products/109509_3.jpg",
+    "/uploads/products/109509_4.jpg",
+    "/uploads/products/109509_5.jpg",
+    "/uploads/products/109509_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/109509",
+  "generated_at": "2026-03-13T17:16:26.821Z"
+}

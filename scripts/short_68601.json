@@ -1,0 +1,85 @@
+{
+  "title": "Sepatu Kanky 260 Ribu? No Cap!",
+  "hook_text": "Mau sepatu keren tapi dompet aman?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up sepatu di jalan dengan pencahayaan alami cerah",
+      "narration": "Mau sepatu keren tapi dompet aman? Gak perlu bayar mahal nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Rotasi 360 derajat sepatu Kanky Story Honjo dari sisi depan",
+      "narration": "Ini dia Kanky Story Honjo, sneakers pria dengan desain matte yang elegan banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan background blur sepatu",
+      "narration": "Dan harga yang bikin kaget, cuma 260 ribuan saja buat kualitas sekelas ini, which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail tekstur kain Upper dan sol EVA Boost saat diinjak",
+      "narration": "Fiturnya literally next level. Ada Upper Knitting buat sirkulasi udara superior --- Sol EVA Boost yang empuk banget. Bobot cuma 319gr per pasang, jadi kaki nggak bakal capek seharian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Pria berjalan santai di lingkungan perkotaan",
+      "narration": "Perfect buat kamu yang aktivitasnya padat atau suka jalan jauh. Ukuran pas banget, jadi jangan beli size kegedean ya bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.92 dan jumlah terjual 50.000",
+      "narration": "Sudah terjual 50.000 produk dengan rating 4.92. Yang udah bilang, 'Kenyamanan mantaappp dan kualitas nggak diragukan'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi klik",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya, review produknya ada di sana!",
+  "hashtags": [
+    "#KankyStory",
+    "#SepatuPria",
+    "#SneakersMurah",
+    "#RekomendasiSepatu",
+    "#AlatSekolah",
+    "#OOTDIndonesia",
+    "#ViralProduct",
+    "#FindingID"
+  ],
+  "product_id": 68601,
+  "product_title": "Kanky Story Honjo - Sepatu Sneakers Casual Sport Sekolah Pria Dewasa Kanky Original",
+  "product_price": "264900.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/68601.jpg",
+    "/uploads/products/68601_1.jpg",
+    "/uploads/products/68601_2.jpg",
+    "/uploads/products/68601_3.jpg",
+    "/uploads/products/68601_4.jpg",
+    "/uploads/products/68601_5.jpg",
+    "/uploads/products/68601_6.jpg",
+    "/uploads/products/68601_7.jpg",
+    "/uploads/products/68601_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/68601",
+  "generated_at": "2026-03-13T16:46:53.145Z"
+}

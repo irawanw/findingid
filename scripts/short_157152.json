@@ -1,0 +1,83 @@
+{
+  "title": "Pelancar ASI Halal, Fenugreek Free! 🤱✨",
+  "hook_text": "ASI kurang? Jangan panik dulu bestie!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah ibu muda panik sambil pegang baby bottle kosong dengan efek suara 'suspense' lalu transisi cepat ke senyum.",
+      "narration": "Perut kosong dan ASI nggak kelar-kelar? Tenang bestie, jangan panik dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Mom Uung Twinpack berjejer di atas meja kayu yang estetik, zoom in ke label BPOM dan tulisan 'Fenugreek Free'.",
+      "narration": "Solusinya ada di sini, Mom Uung ASI Booster! Ini vitamin pelancar ASI yang halal BPOM dan difungsikan langsung oleh dokter obgyn serta dokter anak, which is basically next level banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri harga coret, kanan harga baru dengan efek koin jatuh, teks besar muncul '240 ribuan saja'.",
+      "narration": "Tebak deh harganya? Cuma seratus delapan puluhan ribu per botol, atau dua ratus empat puluhan ribu kalau dapet twinpack! So worth it banget buat isi stock di rumah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: 1. Ibu minum kapsul sambil senyum, 2. Bayi disusui lahap, 3. Ikon centang hijau besar bertuliskan 'No Diare', 4. Teks muncul '60 kapsul x 2 botol'.",
+      "narration": "Bestie, ini dia kenapa produk ini lagi viral. Pertama, fenugreek free jadi nggak bakal bikin perut kembung atau diare, literally super aman. Kedua, satu botol isinya enam puluh kapsul, plus kamu dapet twinpack jadi total seratus dua puluh kapsul, which means kamu nggak perlu beli lagi sebulan ke depan. Ketiga, kualitasnya sudah diverifikasi BPOM dan direkomendasikan dokter, jadi nggak perlu ragu lagi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu muda sedang menyusui bayi di taman dengan suasana tenang dan bahagia, teks overlay: 'Perfect buat yang ASI kurang'.",
+      "narration": "Perfect buat kamu yang aktivitasnya sibuk tapi tetap ingin memberikan ASI eksklusif yang melimpah. Kalau aktivitas kamu sering di luar rumah dan susah buat cari pompa, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.95 bintang lima dan jumlah terjual 20.000+, muncul kutipan teks: 'Produksi ASI saya lumayan lancar'.",
+      "narration": "Enggak main-main, rating empat koma sembilan lima dari dua puluh ribu produk yang udah laku keras. Yang udah beli bilang 'produksinya ASI saya lumayan lancar'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh warna kuning cerah dengan tulisan besar 'CEK DI FINDING DOT ID' dan animasi panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#ASIBooster",
+    "#IbuHamil",
+    "#VitaminIbu",
+    "#BabyCare",
+    "#FenugreekFree",
+    "#MomUung",
+    "#PelancarASI",
+    "#HalalBPOM"
+  ],
+  "product_id": 157152,
+  "product_title": "Mom Uung Twinpack Booster - ASI Booster Isi 60 Kapsul 2 Pcs - Pelancar ASI Halal BPOM",
+  "product_price": "240000.00",
+  "product_rating": "4.95",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/157152.jpg",
+    "/uploads/products/157152_1.jpg",
+    "/uploads/products/157152_2.jpg",
+    "/uploads/products/157152_3.jpg",
+    "/uploads/products/157152_4.jpg",
+    "/uploads/products/157152_5.jpg",
+    "/uploads/products/157152_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/157152",
+  "generated_at": "2026-03-14T22:00:49.193Z"
+}

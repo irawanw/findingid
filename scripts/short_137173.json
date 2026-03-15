@@ -1,0 +1,83 @@
+{
+  "title": "Blender Premium Cuma Seratus Ribuan? No Cap!",
+  "hook_text": "Blender Premium Cuma Seratus Ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget sambil pegang uang seratus ribuan lalu menunjuk blender.",
+      "narration": "Blender premium cuma seratus ribuan? No cap, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk berputar 360 derajat menampilkan desain elegan dan dua cup.",
+      "narration": "Kenalin, HAN RIVER Blender 2 IN1. Kapasitas 1 liter, double cup, langsung jadi juicer super cepet."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kembang api kecil.",
+      "narration": "Harga aslinya cuma seratus enam puluh ribuan. Literally nggak perlu keluarin jutaan buat bikin smoothie."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo blending buah cepat lalu show kedua cup sekaligus.",
+      "narration": "Fitur utamanya ada 300 watt super nendang buat blending halus. Ada 2 cup buat share sama temen. --- Desainnya elegan banget, nggak norak, literally so cute."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Warga Jakarta sibuk ngambil smoothie dari blender di pagi hari.",
+      "narration": "Gue recommend banget buat kamu yang aktif di pagi hari atau suka ngemil sehat di rumah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4,77 dan grafik penjualan 70.000 unit.",
+      "narration": "Total udah laku 70.000 unit sama rating 4,77. Yang udah beli bilang 'sepadan banget sama harga' plus 'dua-duanya berfungsi baik'. --- Yaa memang ringan karena plastik, tapi sesuai budget dong."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah menunjuk ke arah layar pencarian atau link di bio.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#blendermurah",
+    "#hanriver",
+    "#productreview",
+    "#findingid",
+    "#lifehacks",
+    "#blenderpremium",
+    "#viralproduct",
+    "#genz"
+  ],
+  "product_id": 137173,
+  "product_title": "HAN RIVER Blender  PREMIUM 2 IN1 KAPASITAS tinggi 1L double cup 300watt juicer",
+  "product_price": "169000.00",
+  "product_rating": "4.77",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/137173.jpg",
+    "/uploads/products/137173_1.jpg",
+    "/uploads/products/137173_2.jpg",
+    "/uploads/products/137173_3.jpg",
+    "/uploads/products/137173_4.jpg",
+    "/uploads/products/137173_5.jpg",
+    "/uploads/products/137173_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/137173",
+  "generated_at": "2026-03-13T17:27:37.471Z"
+}

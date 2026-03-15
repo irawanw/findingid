@@ -1,0 +1,83 @@
+{
+  "title": "Catokan Rambut KUCUU Viral Banget! Cek Ini",
+  "hook_text": "Catokan 2-in-1 harga segini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up produk KUCUU warna ungu yang glowing dengan efek transisi cepat ke rambut lurus berkilau.",
+      "narration": "Kok bisa catokan cuma seratus delapan puluhan ribu? Tenang, ini bukan penipuan."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot detail fitur catokan dan curling hair iron sedang dipakai model berambut lurus dan bergelombang.",
+      "narration": "Perkenalkan KUCUU Catokan Rambut 2-in-1 yang literally worth it banget. Bisa buat straightener dan curling sekaligus, which is basically next level buat kamu yang mau ganti-ganti gaya tanpa ribet."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul menampilkan harga Rp 122.000 dengan efek kaget, lalu transisi ke tumpukan barang elektronik mahal.",
+      "narration": "Harganya cuma seratus dua puluhan ribu, nggak perlu nyari-cari jauh-jauh. Bandingin sama catokan lain yang harganya satu jutaan, ini sudah super hemat banget dong."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menunjukkan pemanasan cepat, tombol 5 suhu, dan hasil rambut smooth.",
+      "narration": "Fitur pertama pemanasan super cepat dalam sepuluh detik, no cap gausa nunggu lama. Fitur kedua ada lima tingkatan panasnya jadi kamu bisa atur sesuai jenis rambut. Fitur ketiga hasil stylingnya smooth dan berkilau, ga perlu pakai produk banyak-banyak."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase berbagai aktivitas: di kantor, nongkrong, dan buat pre-wedding preparation.",
+      "narration": "Perfect buat kamu yang sering mau styling di pagi hari atau buat pre-wedding preparation. Kalau aktivitas kamu padat dan butuh waktu cepat, ini definitely the one yang wajib punya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.78 bintang dan angka 30.000 terjual dengan background confetti.",
+      "narration": "Rating empat koma tujuh delapan dari tiga puluh ribu pembelian. Yang udah beli bilang performanya bagus dan pemanasannya cepet banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan tombol animasi 'Beli Sekarang' dan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#KUCUU",
+    "#CatokanViral",
+    "#BeautyHack",
+    "#RambutLurus",
+    "#BudgetBeauty",
+    "#ShoppingIndonesia",
+    "#HairGoals",
+    "#FindingId"
+  ],
+  "product_id": 40461,
+  "product_title": "KUCUU Catokan Rambut catokan curly catok  2 in 1 Hair Straightener  Pemanasan Cepat Dalam 10 Detik",
+  "product_price": "122000.00",
+  "product_rating": "4.78",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/40461.jpg",
+    "/uploads/products/40461_1.jpg",
+    "/uploads/products/40461_2.jpg",
+    "/uploads/products/40461_3.jpg",
+    "/uploads/products/40461_4.jpg",
+    "/uploads/products/40461_5.jpg",
+    "/uploads/products/40461_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/40461",
+  "generated_at": "2026-03-14T04:32:23.859Z"
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Sunscreen Murah Mewah? Ini Dia Solusinya!",
+  "hook_text": "Masih takut putih kayak kapur pakai sunscreen?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah dengan kulit glowing, transisi cepat ke produk sunscreen SKINTIFIC.",
+      "narration": "Masih takut putih kayak kapur pakai sunscreen? --- Stop scroll, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk SKINTIFIC di atas meja dengan pencahayaan cinematic, tangan mengambil botol.",
+      "narration": "Ini nih SKINTIFIC UV Shield, sunscreen viral yang lagi hits banget di medsos."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga muncul besar, transisi cepat ke wajah senyum senang.",
+      "narration": "Harganya? Delapan puluhan ribu doang, which is literally worth it banget buat kualitas premiumnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi tekstur di tangan, olesan tipis, lalu efek glowing di wajah.",
+      "narration": "SPF 50 PA++++ protection no cap, literally next level banget. --- Teksturnya ringan, nggak lengket sama sekali, which is super comfortable. Ada Niacinamide buat mencerahkan, efek glowing instan tanpa white cast."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model makeup ringan keluar rumah, suasana cerah, vibe ceria.",
+      "narration": "Perfect buat kamu kulit berminyak atau punya jerawat. Nggak bikin breakout, so soothing banget buat daily wear. Kalau kamu sering keluar ruangan, ini wajib punya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.92 dan jumlah penjualan 100k di layar.",
+      "narration": "Rating 4,92 bintang, udah terjual 100 ribu produk. Yang udah beli bilang, 'Murce banget, cocok di wajah, nggak bikin berminyak.' No cap!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tulisan finding dot id besar di tengah layar dengan panah menunjuk.",
+      "narration": "Mau detail lengkap? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Mau detail lengkap? Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#skintific",
+    "#sunscreenmurah",
+    "#skincareviral",
+    "#glowingkulit",
+    "#spf50",
+    "#skincarerutin",
+    "#findingid",
+    "#genzskincare"
+  ],
+  "product_id": 105676,
+  "product_title": "SKINTIFIC UV Shield Sunscreen All Series - SPF50+ SPF35 PA++++ Skincare | Matte Fit / Bright Fit / 5X Ceramide / Aqua Light Daily/ Light Serum Brightening Sunscreen With Vitamin C 5X Ceramide Zinc PCA Ectoin Oat Extract UVA/UVB Filte",
+  "product_price": "78900.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/105676.jpg",
+    "/uploads/products/105676_1.jpg",
+    "/uploads/products/105676_2.jpg",
+    "/uploads/products/105676_3.jpg",
+    "/uploads/products/105676_4.jpg",
+    "/uploads/products/105676_5.jpg",
+    "/uploads/products/105676_6.jpg",
+    "/uploads/products/105676_7.jpg",
+    "/uploads/products/105676_8.jpg",
+    "/uploads/products/105676_9.jpg",
+    "/uploads/products/105676_10.jpg",
+    "/uploads/products/105676_11.jpg"
+  ],
+  "product_link": "https://finding.id/p/105676",
+  "generated_at": "2026-03-13T21:09:18.407Z"
+}

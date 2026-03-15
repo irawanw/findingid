@@ -1,0 +1,96 @@
+{
+  "title": "Handuk Ponco Anak 250gsm! Lucu Banget!",
+  "hook_text": "Mikir handuk tipis? STOP!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan mengibaskan handuk tipis lalu cut ke shot handuk tebal yang disorong ke depan kamera.",
+      "narration": "Mikir handuk ponco anak itu tipis aja ya? Stop dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Panorami handuk dipegang dua orang, tunjukkan ketebalan bahan yang menjuntai ke bawah.",
+      "narration": "Ini HK Handuk Renang Anak gramasi 250, literally super tebal dan lembut banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul, lalu transisi cepat ke tumpukan handuk warna-warni.",
+      "narration": "Gila sih harganya cuma empat puluh sembilan ribuan hingga enam puluh enam ribuan, which is worth it banget buat kualitas segini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot 1: Detail motif kartun. Shot 2: Handuk digoyang airnya cepat kering. Shot 3: Ukuran dipegang oleh anak kecil.",
+      "narration": "Pertama, motifnya lucu banget kayak karakter kartun yang disukai bocil. Kedua, bahannya katun asli yang hangat banget buat badan anak. Ketiga, ukurannya pas banget buat usia tiga sampai tujuh tahun, praktis dibawa kemana aja!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario anak baru dari kolam renang, dibalut handuk ini sambil tertawa.",
+      "narration": "Perfect buat yang suka main air terus badan gampang kedinginan, nggak perlu repot cari handuk lain dong!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.93 dan angka 20000 terjual dengan cepat.",
+      "narration": "Rating empat koma sembilan tiga, dua puluh ribu produk terjual, dan yang udah beli bilang bahannya nyaman di kulit!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id besar dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#handukponco",
+    "#handukanak",
+    "#parentingtips",
+    "#belanjasmarter",
+    "#findingid",
+    "#handukmurah",
+    "#anakcerdas",
+    "#produkterlaris"
+  ],
+  "product_id": 167245,
+  "product_title": "HK Handuk Renang Anak Tebal/ Handuk Ponco gramasi 250/ Handuk Hoodie /Handuk Murah /Handuk Ponco Karakter/ Handuk Anak/ Hoodie Towel",
+  "product_price": "66500.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/167245.jpg",
+    "/uploads/products/167245_1.jpg",
+    "/uploads/products/167245_2.jpg",
+    "/uploads/products/167245_3.jpg",
+    "/uploads/products/167245_4.jpg",
+    "/uploads/products/167245_5.jpg",
+    "/uploads/products/167245_6.jpg",
+    "/uploads/products/167245_7.jpg",
+    "/uploads/products/167245_8.jpg",
+    "/uploads/products/167245_9.jpg",
+    "/uploads/products/167245_10.jpg",
+    "/uploads/products/167245_11.jpg",
+    "/uploads/products/167245_12.jpg",
+    "/uploads/products/167245_13.jpg",
+    "/uploads/products/167245_14.jpg",
+    "/uploads/products/167245_15.jpg",
+    "/uploads/products/167245_16.jpg",
+    "/uploads/products/167245_17.jpg",
+    "/uploads/products/167245_18.jpg",
+    "/uploads/products/167245_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/167245",
+  "generated_at": "2026-03-15T10:41:40.660Z"
+}

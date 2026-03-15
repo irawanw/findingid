@@ -1,0 +1,79 @@
+{
+  "title": "Setrika Maspion Anti Lengket! Harga Gila",
+  "hook_text": "Setrika mahal vs ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tangan memegang setrika hitam berkilau lalu dipukul pelan dengan kuku.",
+      "narration": "Stop scroll dong bestie! Kamu masih beli setrika mahal yang bikin baju malah kusut?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk setrika Maspion EX-1010 Blackberry diputar pelan menampilkan desain elegan dan logo.",
+      "narration": "Nih kenalin, Setrika Listrik Maspion Anti Lengket seri EX-1010 Blackberry atau HA-110. Ini literally next level buat yang mau baju selalu rapi dan halus banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek ledakan warna-warni, lalu transisi ke layar uang receh.",
+      "narration": "Gila sih, harga cuma seratus puluhan ribu aja! Dibanding harga setrika yang biasa kamu beli di toko, ini worth it banget dong."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri setrika di atas kain sutra (glowing), kanan setrika di atas kain tebal (turun cepat).",
+      "narration": "First, anti lengket total, jadi nggak perlu takut nempel terus di baju kesayangan kamu. Second, panasnya cepet banget, nggak perlu nunggu lama buat kerjaan. Third, ukurannya standard full size, nggak kayak yang kecil-kecil yang nggak kuat buat baju tebal."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: orang setrika di kamar kos, di rumah, dan di apartemen sempit.",
+      "narration": "Perfect buat kamu yang sering bawa-bawa setrika kemana-mana, baik itu buat kerjaan di kosan, di rumah, atau tinggal di apartemen sempit. Ringan dan praktis!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.84 bintang dengan teks '20.000 Terjual' dan popup quote bubble.",
+      "narration": "Rating empat koma delapan empat dan dua puluh ribu produk udah terjual! Yang udah beli bilang 'Ukuran standard ya bukan yg kecil'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar gelap dengan teks besar 'finding dot id' dan panah mengarah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#maspion",
+    "#setrikahit",
+    "#barangmurah",
+    "#setrikaanti lengket",
+    "#hematbudget",
+    "#reviewproduk",
+    "#fashionindonesia",
+    "#findingid"
+  ],
+  "product_id": 23001,
+  "product_title": "Setrika Listrik Maspion Anti Lengket EX-1010 Blackberry Hitam atau HA-110 - Gosokan Seterika Pakaian Garansi Original SNI EX1010 HA110 EX 1010 HA 110",
+  "product_price": "116925.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/23001.jpg",
+    "/uploads/products/23001_1.jpg",
+    "/uploads/products/23001_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/23001",
+  "generated_at": "2026-03-15T01:09:22.092Z"
+}

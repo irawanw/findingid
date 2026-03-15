@@ -1,0 +1,75 @@
+{
+  "title": "Hampers Bayi Murah Meriah? Gak Nyesel!",
+  "hook_text": "Kado Lahiran Harus Mahal?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up produk hampers dengan efek cahaya dramatis, lalu transisi cepat ke wajah kreator yang ekspresif",
+      "narration": "Kado Lahiran Harus Mahal? No Cap, ini salah!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai sudut, menunjukkan detail kemasan dan isi hampers secara cinematic",
+      "narration": "Kenalin nih LILLEGIFTS Hampers Newborn, isinya lengkap banget --- kemasannya super cute."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan animasi 'wow', lalu zoom in ke produk",
+      "narration": "Bayangin, harganya cuma seratus lima puluhan ribu doang --- which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat 3 fitur: bahan, packing aman, dan desain lucu untuk baby girl/boy",
+      "narration": "Pertama, bahan berkualitas oke. Kedua, packing aman banget biar nggak rusak. Oh ya, pastikan pesan warna sesuai ya bestie --- soalnya ada yang pernah salah kirim warna. Ketiga, desainnya literally so cute buat baby girl maupun boy."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario nyata orang memegang kado dan tersenyum, atau adegan memberikan kado ke ibu baru",
+      "narration": "Perfect buat yang nyari kado lahiran buat teman atau saudara --- especially kalau aktivitas kamu sibuk dan butuh kado instan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4.91 dan jumlah terjual muncul di layar dengan efek confetti",
+      "narration": "Rating empat koma sembilan satu, sudah terjual dua puluh ribu produk. Yang sudah beli bilang, Syukaa bangettt --- packingannya okee banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar menampilkan logo finding.id dan panah mengarah ke link pencarian",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#hampersbayi",
+    "#kadolahiran",
+    "#babygirl",
+    "#babyboy",
+    "#kadopesta",
+    "#lillegifts",
+    "#rekomendasi",
+    "#viral"
+  ],
+  "product_id": 21603,
+  "product_title": "LILLEGIFTS - Hampers Bayi Kado Lahiran Baby Girl & Boy Newborn Gift Hadiah Kelahiran Bungkus Kado",
+  "product_price": "105249.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/21603",
+  "generated_at": "2026-03-13T18:16:18.307Z"
+}

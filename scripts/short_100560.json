@@ -1,0 +1,86 @@
+{
+  "title": "Wajah Berjerawat? Coba Serum Ini Banget!",
+  "hook_text": "STOP SCROLL! Wajah kamu kusam?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan wajah berminyak dengan komedo hitam jelas, lalu transisi cepat ke wajah glowing bersinar.",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?' Tenang bestie, oles tipis saja ya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot close-up botol SKINTIFIC 12% Acid dengan efek sparkle, teks besar muncul: 'Glowing Serum'.",
+      "narration": "Ini dia savior kulitmu, SKINTIFIC 12% Acid Peeling Solution. Basically next level buat eksfoliasi wajah sama tubuh."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 49.000 dengan efek uang jatuh atau stiker 'murah banget', lalu bandingkan dengan kualitas klinis.",
+      "narration": "Harga cuma empat puluh sembilan ribuan, tapi kualitasnya nggak main-main. Which is worth it banget buat budget terbatas!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: close up tekstur cair, gambar komedo hilang, label BPOM muncul, dan wangi aroma ditunjukkan.",
+      "narration": "Kombinasi empat jenis asam AHA BHA PHA sama LHA buat eksfoliasi maksimal. Efeknya, komedo sama jerawat ilang, kulit jadi mulus. Plus, ada sertifikasi BPOM resmi dan aromanya harum banget, nggak kayak wine. Teksturnya juga nyaman di kulit."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario anak kos yang lagi ngeliat cermin, lalu transisi ke aktivitas olahraga pakai produk ini di tubuh.",
+      "narration": "Perfect buat kamu yang sering berjerawat, ada komedo, atau teksturnya kasar. Cocok banget buat skincare rutinitas harian."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.89 bintang dengan angka 600.000 terjual, muncul quote bubble dari pembeli.",
+      "narration": "Pembelinya pada ngomong, 'Enak bgt baunya, wangi'. No cap, ini produk best seller di Indonesia."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id besar dengan tombol 'Cek Detail', teks 'Cek finding dot id sekarang!'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#skintific",
+    "#peelingsolution",
+    "#glowyskin",
+    "#skincareindonesia",
+    "#jerawat",
+    "#komedo",
+    "#skincaremurah",
+    "#findingid"
+  ],
+  "product_id": 100560,
+  "product_title": "SKINTIFIC – 12% Acid Peeling Solution Glowing Serum Essence Eksfoliasi Wajah & Tubuh Cocok untuk Kulit Berjerawat, Komedo, Blackhead & Tekstur Kasar Membantu Mengurangi Jerawat & Komedo, Menghaluskan dan Mencerahkan Kulit & Glowing Anti Acne/ Retinol",
+  "product_price": "49000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100560.jpg",
+    "/uploads/products/100560_1.jpg",
+    "/uploads/products/100560_2.jpg",
+    "/uploads/products/100560_3.jpg",
+    "/uploads/products/100560_4.jpg",
+    "/uploads/products/100560_5.jpg",
+    "/uploads/products/100560_6.jpg",
+    "/uploads/products/100560_7.jpg",
+    "/uploads/products/100560_8.jpg",
+    "/uploads/products/100560_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/100560",
+  "generated_at": "2026-03-14T03:54:49.561Z"
+}

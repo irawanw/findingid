@@ -1,0 +1,79 @@
+{
+  "title": "Stop Rontok! Tonic Murah Ini Bestie",
+  "hook_text": "Rambut Rontok Terus?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up rambut rontok atau sikat rambut penuh dengan rambut, transisi cepat ke wajah presenter",
+      "narration": "Rambut rontok terus? --- Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Presenter memegang botol Nr Hair Reactive Tonic di pencahayaan cinematic",
+      "narration": "Kenalin nih, Nr Hair Reactive Tonic. --- Ini treatment harian khusus buat kulit kepala yang bermasalah parah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga muncul besar di layar, lalu transisi ke botol produk",
+      "narration": "Harganya? --- Cuma tujuh puluhan ribuan doang buat volume 200ml. --- Literally murah banget buat kualitas gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Aplikasi tonik ke kulit kepala, close up tekstur cair, dan logo BPOM",
+      "narration": "Bisa bantu kurangi kerontokan rambut secara signifikan. --- Teksturnya cair jadi cepat meresap ke akar. --- Kandungan gizinya bisa masuk lewat pori-pori. --- No cap, udah ber-BPOM dong. --- Which is worth it banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Presenter tersenyum sambil memegang botol, background rumah yang cozy",
+      "narration": "Perfect banget buat kamu yang punya kulit kepala sangat berminyak atau malah kering parah. --- Kalau aktivitas kamu sibuk, ini solusinya buat perawatan harian. --- So cute buat dipake setiap pagi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.93 dan jumlah terjual 100.000+, lalu screenshot komentar pembeli",
+      "narration": "Ratingnya 4.93, udah terjual seratus ribu lebih! --- Yang udah beli bilang, \"kemasannya juga aman banget\". --- Ada yang bilang \"datengnya CEPETT\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana! --- Jangan lupa cek sekarang."
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#NrHairReactive",
+    "#RambutRontok",
+    "#SkincareRambut",
+    "#FindingID",
+    "#TipsRambut",
+    "#GenZIndonesia",
+    "#ProdukViral",
+    "#SkincareMurah"
+  ],
+  "product_id": 4828,
+  "product_title": "Nr Hair Reactive Tonic 200ml",
+  "product_price": "67500.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/4828.jpg",
+    "/uploads/products/4828_1.jpg",
+    "/uploads/products/4828_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/4828",
+  "generated_at": "2026-03-13T21:44:26.624Z"
+}

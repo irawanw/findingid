@@ -1,0 +1,75 @@
+{
+  "title": "Stroller 30 Tahun Garansi Cuma 500 Ribu?",
+  "hook_text": "Stroller 30 Tahun Garansi?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah host yang terkejut sambil menunjuk produk stroller di belakangnya.",
+      "narration": "Gila sih, stroller bayi bisa garansi tiga puluh tahun?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Wide shot menampilkan stroller Beige Stroller 2in1 yang sedang dilipat dan dibuka kembali dengan mulus.",
+      "narration": "Kenalin nih, Beige Stroller 2in1 yang lagi viral banget di kalangan orang tua."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan animasi uang terbang keluar dari kotak.",
+      "narration": "Harganya? Cuma lima ratus delapan puluh ribuan, which is super affordable buat kantong mahasiswa yang punya anak."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat fitur: rangka baja, kursi adjust, bahan linen, lalu close-up detail sisi tempat tidur.",
+      "narration": "Fiturnya no cap, rangka high carbon steel yang kuat banget. Kursinya bisa disesuaikan dan bisa dua arah. Bahan linen yang adem juga. --- Hati-hati ya, buat yang pakai di sisi tempat tidur, bahannya agak tipis jadi usahain jangan terlalu kasar."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu muda mendorong stroller di taman dengan suasana cerah dan bahagia.",
+      "narration": "Ini perfect banget buat kalian yang butuh stroller praktis buat jalan-jalan dekat."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.81 dan angka penjualan 30.000+ yang beranimasi.",
+      "narration": "Ratingnya empat koma delapan satu bintang, sudah tiga puluh ribu lebih terjual. Yang sudah beli bilang 'packing aman, barang bagus sesuai permintaan'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar hitam dengan logo finding.id dan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#strollerbayi",
+    "#parentingindonesia",
+    "#barangmurah",
+    "#garansilengkap",
+    "#caribaby",
+    "#strollermurah",
+    "#parentinghacks",
+    "#babyessentials"
+  ],
+  "product_id": 18169,
+  "product_title": "[Garansi 30 Tahun] BEIGE Stroller Bayi ​​Kereta 2in1 Lipat Bisa Dua Arah Kursi Adjustable newborn",
+  "product_price": "581030.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/18169",
+  "generated_at": "2026-03-13T16:23:12.827Z"
+}

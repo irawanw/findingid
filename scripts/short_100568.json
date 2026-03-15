@@ -1,0 +1,92 @@
+{
+  "title": "Glowing Murah? Glad2Glow 7in1!",
+  "hook_text": "Skincare glowing tanpa bikin dompet boncos?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan wajah glowing cerah dengan efek cahaya berkilau, teks besar muncul di tengah layar.",
+      "narration": "Skincare glowing tanpa bikin dompet boncos? Ada bestie, dengerin dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close-up produk Glad2Glow 7in1 dijejer rapi, kamera zoom in perlahan ke kemasan.",
+      "narration": "Kenalin nih, Glad2Glow Glowing & Renew bundle 7in1. --- Lengkap dari cleanser, toner, sampai serum."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh atau uang terbang.",
+      "narration": "Bayangin, paket lengkap ini cuma seratus empat puluh ribuan. --- Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo tekstur produk di tangan, olesan gel yang cepat meresap, dan logo BPOM.",
+      "narration": "Dua bahan aktif Niacinamide plus Retinol, literally next level mencerahkan. --- Tekstur gel ringan, cepet meresap, no sticky. --- Ada izin BPOM juga, jadi aman banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Kulit wajah before after yang halus, model tersenyum puas sambil memegang produk.",
+      "narration": "Perfect buat kamu yang punya budget terbatas tapi pengen kulit halus dan bebas bruntusan. --- Mulai hari pertama udah kerasa efeknya, wanginya juga fresh."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.87 dan angka penjualan, teks kutipan pembeli muncul pop-up.",
+      "narration": "Rating 4.87, udah laku lima puluh ribu! --- Yang udah beli bilang 'bruntusan d wajah perlahan hilang'. --- Official authorized jadi nggak perlu khawatir barang kurang."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke bawah atau logo Finding.id dengan background produk.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#skincaremurah",
+    "#glad2glow",
+    "#skincareg2g",
+    "#kulitcerah",
+    "#skincareroutine",
+    "#bruntusanhilang",
+    "#skincareindonesia",
+    "#budgetskincare"
+  ],
+  "product_id": 100568,
+  "product_title": "Glad2Glow Glowing & Renew bundle 7in1 7pcs-Brightening toner+Brightening Moisturizer+Milk Cleanser+Brightening Serum+Retinol moisturizer Pomegranate Niacinamide Mencerahkan Wajah Mencerahkan Melembabkan Kulit skin skincare G2G",
+  "product_price": "141000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100568.jpg",
+    "/uploads/products/100568_1.jpg",
+    "/uploads/products/100568_2.jpg",
+    "/uploads/products/100568_3.jpg",
+    "/uploads/products/100568_4.jpg",
+    "/uploads/products/100568_5.jpg",
+    "/uploads/products/100568_6.jpg",
+    "/uploads/products/100568_7.jpg",
+    "/uploads/products/100568_8.jpg",
+    "/uploads/products/100568_9.jpg",
+    "/uploads/products/100568_10.jpg",
+    "/uploads/products/100568_11.jpg",
+    "/uploads/products/100568_12.jpg",
+    "/uploads/products/100568_13.jpg",
+    "/uploads/products/100568_14.jpg",
+    "/uploads/products/100568_15.jpg"
+  ],
+  "product_link": "https://finding.id/p/100568",
+  "generated_at": "2026-03-13T18:18:14.711Z"
+}

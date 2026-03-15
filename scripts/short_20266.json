@@ -1,0 +1,83 @@
+{
+  "title": "Hairdryer 100-an? Gila sih! 😱💨",
+  "hook_text": "Hairdryer 100-an? Gila sih!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat close-up hairdryer hitam di depan wajah model dengan ekspresi terkejut sambil tunjuk harga.",
+      "narration": "Stop scroll dulu bestie! Kamu nggak bakal percaya kalau bisa dapat hairdryer segini bagus cuma seratus delapan puluhan ribu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk berputar 360 derajat menampilkan warna hitam elegan dengan efek cahaya kilauan.",
+      "narration": "Ini dia HAN RIVER HRHD01BK, hairdryer 800 watt yang literally next level untuk budget pelajar. Daya tinggi banget guys, nggak main-main."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay besar muncul: 'Hanya 100-an!' dengan efek confetti, lalu transisi cepat ke tumpukan barang mahal.",
+      "narration": "Harga pas di seratus delapan puluhan ribu, bahkan pernah turun ke seratus lima puluh ribu. Ini worth it banget dibandingin hairdryer merek lain yang harganya dua juta!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjuk tombol atas, kanan tunjuk tombol bawah. Lalu shot rambut kering kilap.",
+      "narration": "Pertama, kontrolnya super jelas: tombol atas buat suhu, tombol bawah buat angin. Nggak bingung! Plus, dia ringan banget jadi nggak pegel waktu ngerjain. Rambut jadi halus dan nggak kusut, basically smooth banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: sisir rambut di kamar mandi, pakai di kantor, dan di perjalanan naik kendaraan.",
+      "narration": "Perfect buat kamu yang sering butuh fix rambut sebelum meeting atau kuliah. Kalau aktivitas kamu serba cepat dan butuh hasil instan, ini definitely the one!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.82 dan angka 400.000+ dengan efek zoom in cepat.",
+      "narration": "Nggak perlu ragu, dia udah terjual empat ratus ribu lebih! Dan yang udah beli bilang fitur dan dayanya mantap banget, nggak main-main!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi teks besar 'CEK DI FINDING.DOT.ID' dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#hairdryermurah",
+    "#hanriver",
+    "#rambutindah",
+    "#skincareindonesia",
+    "#findingid",
+    "#budgetfriendly",
+    "#belianget",
+    "#gadgetmurah"
+  ],
+  "product_id": 20266,
+  "product_title": "HAN RIVER HRHD01BK Hair dryer 800W Pengering Rambut Termurah Daya tinggi",
+  "product_price": "88999.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/20266.jpg",
+    "/uploads/products/20266_1.jpg",
+    "/uploads/products/20266_2.jpg",
+    "/uploads/products/20266_3.jpg",
+    "/uploads/products/20266_4.jpg",
+    "/uploads/products/20266_5.jpg",
+    "/uploads/products/20266_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/20266",
+  "generated_at": "2026-03-14T14:33:23.728Z"
+}

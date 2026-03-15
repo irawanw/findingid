@@ -1,0 +1,96 @@
+{
+  "title": "Sofa Bayi Jumbo! Free Tas Serut & Bantal, Worth It Banget",
+  "hook_text": "Gak percaya? Sofa bayi jumbo ini ternyata ada plus tas!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up cepat tangan membuka tas packing serut yang lucu sambil menunjuk ke sofa bayi di bawahnya dengan efek zoom in dramatis.",
+      "narration": "Gak percaya? Sofa bayi jumbo ini ternyata ada plus tas serut gratis!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat warna-warni sofa: Happy Safari Brown, Pink Swan, dan Gray Astronaut. Transisi smooth saat sofa diletakkan di ruang tamu.",
+      "narration": "Ini literally next level buat nge-dress room bayi! Bahan katun lembut yang adem, plus desainnya super aesthetic. Cocok banget buat di ruang tamu atau kamar tidur."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri harga coret yang besar, kanan harga asli yang bersinar dengan efek confetti jatuh.",
+      "narration": "Tebak deh harganya? Mending beli barang biasa kan? Nah, ini cuma seratus puluhan ribu, bahkan bisa enam puluhan ribu! Which is worth it banget buat budget bunda."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail sabuk pengaman dikaitkan, lalu close-up tekstur katun yang dielus, terakhir tas packing serut ditaruh di bagasi koper.",
+      "narration": "Fiturnya basic tapi essential ya, bestie. Pertama, ada sabuk pengaman biar si kecil nggak jatuh dari sofa. Kedua, teksturnya halus dan nggak panas saat digunakan. Dan yang paling keren, gratis tas packing serut jadi mudah dibawa traveling atau jalan keluar rumah tanpa repot!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: bunda duduk santai sambil bayi tidur di sofa, lalu cut ke adegan packing barang bayi ke tas serut untuk jalan-jalan.",
+      "narration": "Perfect buat kamu yang sering ngerantau bayi di ruang tamu atau mau bawa si kecil traveling. Kalau aktivitas kamu sering ngebut tapi butuh kenyamanan, ini solusi banget!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.7 besar dengan animasi angka terjual 100.000+ melompat-lompat, lalu muncul text bubble ucapan pembeli.",
+      "narration": "Nggak main-main, sudah seratus ribuan terjual dengan rating empat koma tujuh. Yang udah beli bilang 'pengirimannya cepet bgt' dan 'cocok buat kado jenguk bayi'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id besar muncul di layar dengan animasi 'tap to find' yang menarik.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SofaBayi",
+    "#ParentingHacks",
+    "#FreeTasSerut",
+    "#KamarBayiAesthetic",
+    "#BudgetFriendly",
+    "#MomLife",
+    "#ShoppingHacks",
+    "#FindingId"
+  ],
+  "product_id": 22792,
+  "product_title": "[FREE TAS PACKING SERUT] Sofa Bayi Jumbo Multifungsi Kasur bayi Dengan Gesper Sabuk Pengaman Free Bantal Peyang Baby",
+  "product_price": "61446.00",
+  "product_rating": "4.74",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/22792.jpg",
+    "/uploads/products/22792_1.jpg",
+    "/uploads/products/22792_2.jpg",
+    "/uploads/products/22792_3.jpg",
+    "/uploads/products/22792_4.jpg",
+    "/uploads/products/22792_5.jpg",
+    "/uploads/products/22792_6.jpg",
+    "/uploads/products/22792_7.jpg",
+    "/uploads/products/22792_8.jpg",
+    "/uploads/products/22792_9.jpg",
+    "/uploads/products/22792_10.jpg",
+    "/uploads/products/22792_11.jpg",
+    "/uploads/products/22792_12.jpg",
+    "/uploads/products/22792_13.jpg",
+    "/uploads/products/22792_14.jpg",
+    "/uploads/products/22792_15.jpg",
+    "/uploads/products/22792_16.jpg",
+    "/uploads/products/22792_17.jpg",
+    "/uploads/products/22792_18.jpg",
+    "/uploads/products/22792_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/22792",
+  "generated_at": "2026-03-14T18:29:24.125Z"
+}

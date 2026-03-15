@@ -1,0 +1,96 @@
+{
+  "title": "Wardah Cushion Ini Bikin Glowing Auto Fit!",
+  "hook_text": "Glowing Auto Fit 12 Jam?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing natural dengan filter soft light, tangan menyentuh pipi.",
+      "narration": "Mau kulit glowing auto fit seharian tanpa crack? Stop scroll dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Wardah Cushion di atas meja dengan background blur, zoom in ke tekstur.",
+      "narration": "Nih Wardah Colorfit Perfect Glow Cushion. High coverage, skincare infused, literally worth it banget buat kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul besar 'Rp 100rb-an' dengan efek koin jatuh.",
+      "narration": "Harga seratus ribuan saja? Bandingin sama coverage full yang bisa nutup noda hitam."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo aplikasi cushion di pipi, split screen SPF icon dan kelembapan.",
+      "narration": "Fiturnya? SPF 40 buat perlindungan UV, CICA plus Hydra Glucan buat lembap. Teksturnya ringan banget, gampang blend. --- Finish glow-nya tahan 12 jam, nggak berminyak. Tersedia 31 warna buat pasin sama tone kulitmu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita tersenyum pakai makeup hasil cushion, berjalan di luar ruangan.",
+      "narration": "Perfect buat kamu yang kulitnya normal sampai kering dan butuh makeup daily yang aman di kulit."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Popup rating bintang 5 dan bubble komentar dari pembeli.",
+      "narration": "Rating 4,9, udah terjual 300 ribu. Yang udah beli bilang 'Coveragenya okee banget, packaging nya juga lucuu'. No cap, ini beneran worth it."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Produk di tengah layar dengan teks 'Cek di finding dot id'.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#wardahcushion",
+    "#makeupindonesia",
+    "#foundationmurah",
+    "#glowingskin",
+    "#beautytips",
+    "#wardah",
+    "#cushionfoundation",
+    "#skincaremakeup"
+  ],
+  "product_id": 100903,
+  "product_title": "Wardah Cushion Glow Colorfit Perfect Glow Cushion 15 g - Medium-High Coverage Hingga 12 Jam Dengan SPF 40 PA - Dilengkapi Dengan Glow Perfecting Pigment & Skincare-infused CICA + Hydra ß-Glucan - Hasil Akhir Glowing - Makeup",
+  "product_price": "100470.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100903.jpg",
+    "/uploads/products/100903_1.jpg",
+    "/uploads/products/100903_2.jpg",
+    "/uploads/products/100903_3.jpg",
+    "/uploads/products/100903_4.jpg",
+    "/uploads/products/100903_5.jpg",
+    "/uploads/products/100903_6.jpg",
+    "/uploads/products/100903_7.jpg",
+    "/uploads/products/100903_8.jpg",
+    "/uploads/products/100903_9.jpg",
+    "/uploads/products/100903_10.jpg",
+    "/uploads/products/100903_11.jpg",
+    "/uploads/products/100903_12.jpg",
+    "/uploads/products/100903_13.jpg",
+    "/uploads/products/100903_14.jpg",
+    "/uploads/products/100903_15.jpg",
+    "/uploads/products/100903_16.jpg",
+    "/uploads/products/100903_17.jpg",
+    "/uploads/products/100903_18.jpg",
+    "/uploads/products/100903_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/100903",
+  "generated_at": "2026-03-13T19:59:17.737Z"
+}

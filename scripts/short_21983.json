@@ -1,0 +1,83 @@
+{
+  "title": "ASI Seret? Solusi Alami Bestie! 🥜✨",
+  "hook_text": "ASI kurang lancar? STOP!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Wajah panik ibu muda di depan bayi nangis sambil pegang botol kosong, transisi cepat ke senyum lega.",
+      "narration": "Lagi galau banget sama ASI yang nggak lancar dan baby nangis minta minum terus?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close-up kemasan Susu Almond ASI Booster Mama's Choice dengan efek cahaya emas, teks 'Natural & Klinis' muncul.",
+      "narration": "Tenang bestie, ini beneran solusinya! Susu Almond ASI Booster Mama's Choice, yang bikin kualitas dan kuantitas ASI naik level banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga turun drastis menampilkan angka 'seratus tujuh puluhan ribuan' dengan efek confetti warna pastel.",
+      "narration": "Gila sih, harganya cuma seratus tujuh puluhan ribuan, which is worth it banget untuk kesehatan buah hati kamu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Ikon Fenugreek, DHA, dan bahan alami muncul satu per satu dengan animasi smooth, diikuti ibu tersenyum minum susu.",
+      "narration": "First of all, ini murni bahan alami plus DHA, no cap! Kandungan Fenugreek-nya ampuh banget melancarkan produksi ASI, jadi nggak perlu khawatir lagi kalau ASI seret. Basically next level untuk ibu menyusui!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu hamil muda dan ibu menyusui baru memegang produk ini dengan penuh harap.",
+      "narration": "Perfect buat kamu yang baru hamil atau lagi menyusui dan butuh dorongan alami biar baby makin kenyang dan gemoy."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.9 bintang besar dan counter penjualan 50.000+, kutipan teks muncul: 'baby makin gemoy'.",
+      "narration": "Pembelinya pada ngomong 'baby makin gemoy' dan selalu repeat order, plus rating empat koma sembilan ya guys!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul jelas dengan panah menunjuk ke bawah atau tombol 'Cek Sekarang'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#ASIBoster",
+    "#IbuHamil",
+    "#ASIAlami",
+    "#MamasChoice",
+    "#BabyGemoy",
+    "#IbuSusui",
+    "#ProdukViral",
+    "#FindingDotID"
+  ],
+  "product_id": 21983,
+  "product_title": "Susu Almond ASI BOOSTER | Almond Milk Powder Mama's Choice - Pelancaran ASI Terdaftar BPOM, Halal MUI, dan Natural",
+  "product_price": "73999.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21983.jpg",
+    "/uploads/products/21983_1.jpg",
+    "/uploads/products/21983_2.jpg",
+    "/uploads/products/21983_3.jpg",
+    "/uploads/products/21983_4.jpg",
+    "/uploads/products/21983_5.jpg",
+    "/uploads/products/21983_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/21983",
+  "generated_at": "2026-03-14T21:26:16.332Z"
+}

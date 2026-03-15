@@ -1,0 +1,83 @@
+{
+  "title": "Angin Dingin Tanpa Listrik? Gila Bestie! 🌬️❄️",
+  "hook_text": "Stop scroll! Anginnya kenceng banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tangan memegang fan kecil, tiup ke wajah kamera dengan ekspresi kaget sambil melihat termometer udara panas.",
+      "narration": "Stop scroll dulu bestie! Gue baru nemuin senjata rahasia biar nggak pait pas cuaca lagi nggak menentu."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot close-up produk Goojodoq Solar Power Mini Fan GFS014 sedang berputar kencang dengan latar belakang outdoor.",
+      "narration": "Ini dia Goojodoq Solar Power Mini Fan model GFS014, yang bisa jadi solusi sejuk literalnya next level buat kamu yang sering outdoor atau lagi macet di jalan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri harga coret Rp 132.999, kanan stiker besar 'Cuma Seratus Tiga Puluh-an Ribuan' dengan efek confetti.",
+      "narration": "Gila sih, fitur sekuat ini harganya cuma seratus tiga puluahan ribu? Nggak percaya dong? Tapi ini beneran, worth it banget buat budget pas-pasan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: 1. Fan dilipat kecil masuk tas, 2. Layar HP muncul logo solar panel, 3. Tombol turbo ditekan dan angin bertiup deras.",
+      "narration": "First, dia foldable banget, jadi gampang banget masuk tas jinjing tanpa占地. Second, dia bisa di-charge pakai panel surya matahari, which is super convenient kalau lagi out of charge. Third, angin turbonya kenceng banget, basically bikin keringat langsung hilang no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase aktivitas: orang jogging di pagi hari, anak kost belajar di kamar panas, dan pekerja lapangan di bawah terik.",
+      "narration": "Perfect buat yang aktivitasnya sering di bawah terik matahari atau yang suka jogging pagi-pagi buta. Kalau kamu sering kelamaan di panas, ini wajib banget ada di tanganmu bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.9 dan angka terjual 30.000, lalu transisi ke foto pembeli tersenyum memegang fan.",
+      "narration": "Pembelinya pada ngomong kalau anginnya beneran dingin dan baterainya awet. Jadi kalau kamu ragu, 30 ribuan orang udah membuktikan ini top!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan logo finding.id besar dengan tombol 'Cek Sekarang' berkedip, teks di bawah: 'Cek di finding dot id ya!'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya!",
+  "hashtags": [
+    "#Goojodoq",
+    "#MiniFan",
+    "#HacksGakBisaDitolak",
+    "#ReviewKekinian",
+    "#BarangMurah",
+    "#SolusiPanas",
+    "#GenZVibes",
+    "#FindingId"
+  ],
+  "product_id": 145929,
+  "product_title": "GOOJODOQ Solar Power Mini Fan 4000 mAh Foldable Handheld Turbo Jet Rechargeable Strong Wind GFS014",
+  "product_price": "132999.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/145929.jpg",
+    "/uploads/products/145929_1.jpg",
+    "/uploads/products/145929_2.jpg",
+    "/uploads/products/145929_3.jpg",
+    "/uploads/products/145929_4.jpg",
+    "/uploads/products/145929_5.jpg",
+    "/uploads/products/145929_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/145929",
+  "generated_at": "2026-03-14T07:21:39.459Z"
+}

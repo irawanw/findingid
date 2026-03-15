@@ -1,0 +1,80 @@
+{
+  "title": "Hairdryer Philips HP8108 Bestie! ✨",
+  "hook_text": "Rambut rusak karena angin keras? STOP!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah panik memegang rambut berantakan lalu transisi cepat ke rambut mulus berkilau.",
+      "narration": "Stop langsung kalau kamu takut rambut rusak gara-gara angin hairdryer yang terlalu kencang banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Philips HP8108-02 berputar di tangan dengan lighting studio yang cantik dan elegan.",
+      "narration": "Kenalan dulu sama Philips HP8108 ini bestie, pengering rambut yang literally so cute dan super worth it buat kamu!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek 'pop' yang menarik perhatian mata.",
+      "narration": "Nggak perlu nyari jauh-jauh, harganya cuma seratus delapan puluhan ribu rupiah doang!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan filter debu, kanan tunjukkan speed setting, bawah tunjukkan bentuk compact.",
+      "narration": "Pertama, dia punya filter debu yang bikin udara keluar lebih bersih dan nggak kotor. Kedua, ada tiga pengaturan kecepatan angin plus panas yang bisa diatur sesuai kebutuhan rambut kamu. Ketiga, bentuknya compact banget dan ringan, basically next level buat dibawa kemana-mana tanpa bikin tangan pegal!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene lifestyle: gadis sibuk makeup di meja kerja, lalu scene lagi di kamar hotel saat traveling.",
+      "narration": "Perfect buat yang sering sibuk banget di rumah atau kamu yang suka traveling dan butuh teman setia buat perawatan rambut di mana aja!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan angka terjual 50.000 dengan overlay teks kutipan pembeli.",
+      "narration": "Pembelinya pada ngomong 'bagus bangt Philips emg ok ga prnh gagal', nggak cuma kata-kata manis doang lho!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol animasi 'Cek Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#PhilipsHP8108",
+    "#HairCareIndo",
+    "#BeautyGadget",
+    "#HairDryer",
+    "#GenZStyle",
+    "#WorthIt",
+    "#ReviewKecantikan",
+    "#FindingId"
+  ],
+  "product_id": 20268,
+  "product_title": "PHILIPS HP8108-02 Drycare Hair Dryer -  Pengering Rambut Garansi Resmi HP 8108",
+  "product_price": "189900.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/20268.jpg",
+    "/uploads/products/20268_1.jpg",
+    "/uploads/products/20268_2.jpg",
+    "/uploads/products/20268_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/20268",
+  "generated_at": "2026-03-14T13:39:48.850Z"
+}

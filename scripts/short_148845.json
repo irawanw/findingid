@@ -1,0 +1,91 @@
+{
+  "title": "Reed Diffuser Wangi Bioskop? Cek Ini!",
+  "hook_text": "Wangi kayak popcorn bioskop?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan membuka tutup botol diffuser dengan efek suara 'pop' dan ekspresi kaget.",
+      "narration": "Ada yang bilang 'Wanginya kayak popcorn bioskop!'? No cap, ini beneran!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Summerspring 40ml berkilau di meja kayu, transisi cepat ke wangi-wangi lainnya.",
+      "narration": "Ini Reed Diffuser Summerspring, aromaterapi natural yang literally next level buat nambah mood ruangan kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul menunjukkan harga terendah, lalu efek uang melayang turun.",
+      "narration": "Harganya cuma enam puluhan ribu! Enak banget dapet wangi premium seharga semangkuk mie instan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Reeds ditaruh, 2. Tampilan botol cantik, 3. Area ruangan yang bersih.",
+      "narration": "Fiturnya gila bestie: reed stick alami buat penyebaran wangi, desain botol aesthetic banget buat dekorasi, plus bikin ruangan makin fresh dan bersih secara visual."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Klip video seseorang duduk santai di kamar atau ruang kerja dengan ekspresi rileks.",
+      "narration": "Perfect buat kamu yang sering ngantor atau lagi ngerjain tugas tapi butuh ketenangan biar nggak stres."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan angka rating 4.86 dan jumlah terjual 60.000 dengan animasi naik.",
+      "narration": "Rating empat koma delapan enam dan enam puluh ribu udah dibeli. Pembelinya pada bilang 'Ternyata mantul nih, recomended'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke arah link.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#ReedDiffuser",
+    "#Summerspring",
+    "#WangiBioskop",
+    "#HomeDecor",
+    "#Aromaterapi",
+    "#GenZLife",
+    "#MurahMeriah",
+    "#FindingId"
+  ],
+  "product_id": 148845,
+  "product_title": "Pengharum Ruangan / Pengharum Toilet / Aromaterapi / Reed Diffuser - Summerspring - Pengharum 40ml",
+  "product_price": "62000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/148845.jpg",
+    "/uploads/products/148845_1.jpg",
+    "/uploads/products/148845_2.jpg",
+    "/uploads/products/148845_3.jpg",
+    "/uploads/products/148845_4.jpg",
+    "/uploads/products/148845_5.jpg",
+    "/uploads/products/148845_6.jpg",
+    "/uploads/products/148845_7.jpg",
+    "/uploads/products/148845_8.jpg",
+    "/uploads/products/148845_9.jpg",
+    "/uploads/products/148845_10.jpg",
+    "/uploads/products/148845_11.jpg",
+    "/uploads/products/148845_12.jpg",
+    "/uploads/products/148845_13.jpg",
+    "/uploads/products/148845_14.jpg"
+  ],
+  "product_link": "https://finding.id/p/148845",
+  "generated_at": "2026-03-14T10:27:47.720Z"
+}

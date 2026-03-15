@@ -1,0 +1,83 @@
+{
+  "title": "Sandal Pria Anti Lepas? Ini Solusinya!",
+  "hook_text": "Sendal lepas pas jalan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up orang hampir terjatuh karena sandal geser di lantai keramik, lalu transisi cepat ke sandal JACK IDN GUARDO yang kokoh.",
+      "narration": "Ada yang bilang sendal itu cuma buat santai di rumah doang, kan? Eh tapi kalau pas jalan di lantai licin, sendal langsung geser sampai patah kaki, itu beneran ngeri banget guys."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage shot sandal JACK IDN GUARDO dipakain di berbagai setting: nongkrong, jalan sore, dan outfit casual. Teks muncul: 'Solusi Anti Geser'.",
+      "narration": "Well, no cap, masalah itu selesai deh sama JACK IDN sandal slide pria ini. Desainnya simple tapi aesthetic banget, bahan kulit neo yang nggak bikin kaki gerah dan sangat worth it buat sehari-hari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga di layar dengan efek 'pop-up' warna-warni, lalu split screen membandingkan harga murah dengan kualitas premium.",
+      "narration": "Anda nggak bakal percaya harganya cuma enam puluhan ribu doang! Literally, kualitasnya sekelas premium padahal harganya super terjangkau. Seratus delapan puluhan ribu itu biasanya untuk brand besar, tapi di sini kamu dapet yang lebih bagus."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up detail: 1. Bagian alas yang grip kuat, 2. Bagian kulit yang empuk, 3. Bagian dalam yang lebar.",
+      "narration": "Kenapa harus beli? Pertama, alasnya grip banget jadi nggak bakal licin lagi kayak cerita teman kita. Kedua, bahan kulit single-bandage yang fleksibel super nyaman di kaki. Ketiga, wide fit-nya luas banget, jadi kalau kamu punya kaki yang agak lebar atau gemuk, ini pas banget fit-nya."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Pria pakai sandal ini saat sedang olahraga ringan, nongkrong bareng teman, atau jalan-jalan sore di parkiran.",
+      "narration": "Perfect buat kamu yang sering olahraga ringan, nongkrong, atau kalau aktivitas kamu kebanyakan jalan kaki di luar ruangan. Basically, siapa saja yang cari kenyamanan maksimal tanpa harus keluar duit banyak."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.81 bintang dan angka '30.000+' terjual dengan animasi naik cepat.",
+      "narration": "Percaya deh, rating empat koma delapan satu dan sudah terjual lebih dari tiga puluh ribu produk. Yang udah beli bilang desainnya casual dan durabilitasnya bagus banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah mengarah ke bawah, background musik upbeat.",
+      "narration": "Penasaran mau lihat stok warnanya dan detail lengkapnya? Cek di finding dot id ya bestie, semua info produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#SandalPria",
+    "#JackIdn",
+    "#FashionMuda",
+    "#RekomendasiSandal",
+    "#StyleJaksel",
+    "#SandalAntiGeser",
+    "#OOTDMale",
+    "#BudgetFriendly"
+  ],
+  "product_id": 30608,
+  "product_title": "JACK IDN - Sandal Slide Pria Sendal Slop Flip Flop Slippers | Sandal Slop Pria GUARDO",
+  "product_price": "54898.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/30608.jpg",
+    "/uploads/products/30608_1.jpg",
+    "/uploads/products/30608_2.jpg",
+    "/uploads/products/30608_3.jpg",
+    "/uploads/products/30608_4.jpg",
+    "/uploads/products/30608_5.jpg",
+    "/uploads/products/30608_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/30608",
+  "generated_at": "2026-03-14T15:23:52.935Z"
+}

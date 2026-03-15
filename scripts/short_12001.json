@@ -1,0 +1,81 @@
+{
+  "title": "Celana Gym Murah Tapi Ganteng?",
+  "hook_text": "Celana Gym Murah Tapi Ganteng?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up celana jogger dengan gerakan cepat yang menarik perhatian.",
+      "narration": "Kata siapa celana gym murah pasti jelek? No cap, ini bukti!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model pria memakai celana jogger sambil berjalan santai di gym.",
+      "narration": "Kenalin, jogger training slim fit yang lagi viral banget nih bestie. Modelnya ganteng banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek boom.",
+      "narration": "Harganya cuma tujuh puluhan ribu doang! --- Padahal kualitasnya sebanding sama harga seratus ribuan!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail close-up bahan elastis, saku samping, dan potongan slim fit pada celana.",
+      "narration": "Bahan elastis dan super nyaman dipake, literally nggak bikin gerah. Potongan slim fit bikin kaki keliatan jenjang. Stylish banget buat gym atau nongkrong. Ada saku samping juga buat HP aman. Which is worth it banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model menunjukkan ukuran XL dengan gestur tangan mengindikasikan ukuran pas.",
+      "narration": "Buat kamu yang TB 178 BB 80, ambil XL dong biar pas. Nggak perlu khawatir kekecilan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.83 dan jumlah penjualan 40k di layar.",
+      "narration": "Sudah empat puluh ribuan terjual dengan rating empat koma delapan tiga bintang. --- Yang udah beli bilang, 'Di harga segini dapet lebih dari ekspektasi'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah mengarah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#joggerpants",
+    "#celanagym",
+    "#fashionpria",
+    "#murahmeriah",
+    "#gymoutfit",
+    "#ootdindonesia",
+    "#viral",
+    "#findingid"
+  ],
+  "product_id": 12001,
+  "product_title": "jogger pants training pria gym model slim",
+  "product_price": "72997.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/12001.jpg",
+    "/uploads/products/12001_1.jpg",
+    "/uploads/products/12001_2.jpg",
+    "/uploads/products/12001_3.jpg",
+    "/uploads/products/12001_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/12001",
+  "generated_at": "2026-03-13T21:23:45.292Z"
+}

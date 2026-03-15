@@ -1,0 +1,83 @@
+{
+  "title": "Set MPASI Kaca Lucu Banget! Worth It Gak Bestie?",
+  "hook_text": "Kado Lahiran Paling Impian!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up cepat set hampers dengan efek zoom in ke wadah kaca yang berkilau.",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?' Ada yang bilang 'Ketiak jadi kering!' --- Tenang bestie, oles tipis saja ya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage produk Momsun dibuka satu per satu menampilkan 6 isinya dengan pencahayaan soft.",
+      "narration": "Ini nih Momsun Six in One, literally so cute dan lengkap banget buat hampers bayi. Basically next level karena ada enam isinya langsung, which is worth it banget buat kado lahiran."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan harga Rp 74.000-an dengan efek confetti.",
+      "narration": "No cap, harganya cuma seratus delapan puluhan ribu doang! Ya ampun, dapet enam barang seharga segini adalah deal yang nggak bisa ditolak sama sekali."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menunjukkan wadah kaca, sendok silikon lembut, dan tutup yang aman saat dibuka tutup.",
+      "narration": "Fiturnya super spesifik: pertama wadah kaca tebal yang aman dipanaskan, kedua sendok silikon yang super lembut di mulut si kecil, dan ketiga tutupnya super pas biar makanan nggak tumpah. All killer, no filler!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage ibu baru sedang merapikan barang bayi sambil tersenyum bahagia memegang set ini.",
+      "narration": "Perfect buat yang lagi sibuk nyari kado praktis atau kamu yang sering bingung mau ngasih apa buat teman baru jadi orang tua."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.91 bintang emas dan angka 20.000 terjual dengan latar belakang positif.",
+      "narration": "Pembelinya pada ngomong 'Bahan rapih dan warna menarik', plus rating empat koma sembilan satu dari dua puluh ribu orang yang udah beli bilang ini top!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh dengan logo finding.id dan teks 'Cek Detail Sekarang' dengan animasi panah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#kadolahiran",
+    "#mpasikeren",
+    "#hampersbayi",
+    "#momsun",
+    "#idehadiah",
+    "#parenting",
+    "#kadosuperlengkap",
+    "#findingid"
+  ],
+  "product_id": 21629,
+  "product_title": "Momsun 6 in 1 Set Tempat MPASI Kaca Hampers Baby Gift Set Wadah MPASI Kaca Kado Lahiran Bayi + Sendok MPASI Silicon Bayi",
+  "product_price": "74796.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21629.jpg",
+    "/uploads/products/21629_1.jpg",
+    "/uploads/products/21629_2.jpg",
+    "/uploads/products/21629_3.jpg",
+    "/uploads/products/21629_4.jpg",
+    "/uploads/products/21629_5.jpg",
+    "/uploads/products/21629_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/21629",
+  "generated_at": "2026-03-14T23:25:02.640Z"
+}

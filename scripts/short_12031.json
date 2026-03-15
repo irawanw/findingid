@@ -1,0 +1,80 @@
+{
+  "title": "Paket 2 Celana Cuma 130 Ribu? Gak Masuk Akal!",
+  "hook_text": "2 Celana Cuma 130 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up celana dilipat dua, tangan menunjuk harga dengan ekspresi kaget.",
+      "narration": "Bestie, lo kira ini harga satu celana? --- Nope, ini paket DUA celana!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Menunjukkan celana dipakai, gerakan lari/jalan santai di luar ruangan.",
+      "narration": "Celana running training bahan Misty elastis tebal yang literally nggak gampang robek."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar di layar, transisi cepat menunjukkan dua celana.",
+      "narration": "Harga seratus tiga puluh ribuan doang. --- Itu harga DUA pcs! which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail sleting, tali pinggang, bahan ditarik elastis, variasi model ziper dan joger.",
+      "narration": "Ada sleting dan tali pinggang, desain unisex buat kamu dan pasangan. --- Bahannya adem banget, nggak gerah pas gym. Ada varian model ziper dan joger, jadi pasti sesuai selera."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang lari di pagi hari atau gym, lalu tunjuk ukuran.",
+      "narration": "Perfect buat yang sering olahraga tapi budget pas-pasan. --- Ukuran M-XXL cocok buat berat 40 sampai 90 kilo. Ideal buat kamu yang mau beli stok ganda buat keluarga juga."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4,81, angka 70rb terjual, teks kutipan pembeli.",
+      "narration": "Rating 4,81 dari 70 ribu produk udah terjual. --- Yang udah beli bilang, 'adem pokoknya istimewa'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id, panah ke arah link.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya",
+  "hashtags": [
+    "#celanarunning",
+    "#paketmurah",
+    "#gymwear",
+    "#fitnesstips",
+    "#fashionpria",
+    "#murahmeriah",
+    "#viralproduct",
+    "#findingid"
+  ],
+  "product_id": 12031,
+  "product_title": "Paket 120rb dapat 2pcs celana ruuning pria training panjang gym jogging senam",
+  "product_price": "139999.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/12031.jpg",
+    "/uploads/products/12031_1.jpg",
+    "/uploads/products/12031_2.jpg",
+    "/uploads/products/12031_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/12031",
+  "generated_at": "2026-03-13T18:20:41.173Z"
+}

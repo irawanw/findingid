@@ -1,0 +1,83 @@
+{
+  "title": "Sabun Cuci Muka Pria No. 1 Ini Kena!",
+  "hook_text": "Wajah glowing instan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah pria terlihat kusam lalu transisi cepat jadi wajah bersih dan bersinar saat menyentuh air.",
+      "narration": "Stop scroll bestie! Mau wajah glowing tanpa harus pake skincare mahal-mahal?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Clorismen 3 IN One Cleansing Power Face Wash diputar-putar dengan background neon cerah.",
+      "narration": "Kenalan sama Paris PERNANDES APPROVED Clorismen tiga in one cleansing power face wash. Basically next level buat guys yang males ribet pake skincare."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek uang jatuh, lalu muncul stiker 'Best Price Ever'.",
+      "narration": "Gila sih harganya cuma delapan puluh tujuh ribuan. Which is worth it banget buat hasil yang dapet."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Teks 'Krim' dengan visual tekstur lembut, 2. Wajah tersenyum segar, 3. Ikon matahari bersinar.",
+      "narration": "Pertama, teksturnya kayak krim yang lembut nggak bikin perih. Kedua, wanginya harum bikin mood naik langsung. Ketiga, fungsinya tiga serangkai sekaligus mencerahkan dan ngilangin kusam. No cap, ini bikin kulit kerasan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Pria sedang olahraga keluar keringetan, lalu langsung cuci muka dan senyum lebar.",
+      "narration": "Perfect buat kamu yang baru bangun tidur muka masih lemas atau habis olahraga pengen langsung fresh. Kalau aktivitas kamu banyak di luar, ini wajib!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar penuh dengan rating bintang 4.86 dan angka 20.000 terjual yang berdenyut.",
+      "narration": "Pembelinya pada bilang muka langsung glowing dan wangi banget pas dicium. Rating empat koma delapan enam dari dua puluh ribu orang udah nyobain."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id besar dengan panah menunjuk ke bawah, text 'Cek Sekarang' berkedip.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#skincarepria",
+    "#glowingskin",
+    "#parisbrand",
+    "#facialwash",
+    "#skincareindonesia",
+    "#murahbanget",
+    "#skincarewanita",
+    "#findingid"
+  ],
+  "product_id": 107282,
+  "product_title": "[PARIS PERNANDES APPROVED] Clorismen 3 IN One Cleansing Power Face Wash - Sabun Cuci Muka Pria",
+  "product_price": "87000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/107282.jpg",
+    "/uploads/products/107282_1.jpg",
+    "/uploads/products/107282_2.jpg",
+    "/uploads/products/107282_3.jpg",
+    "/uploads/products/107282_4.jpg",
+    "/uploads/products/107282_5.jpg",
+    "/uploads/products/107282_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/107282",
+  "generated_at": "2026-03-14T16:17:40.568Z"
+}

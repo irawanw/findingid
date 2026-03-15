@@ -1,0 +1,83 @@
+{
+  "title": "Lampu Arsitek MT-811: Bestie Wajib Punya!",
+  "hook_text": "Stop scroll! Lampu belajar favoritmu salah satu ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tangan menunjuk lampu meja arsitek yang menyalam di atas meja belajar yang berantakan tapi tetap estetik.",
+      "narration": "Stop scroll dulu bestie! Gak nyangka ya, lampu belajar favoritku ternyata yang ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat menampilkan variasi warna (putih dan hitam) dan bentuk (jepit serta dudukan), dengan text overlay 'MT-811'.",
+      "narration": "Ini dia Lampu Meja Arsitek MT-811 dari Goldcrystal. Basically next level buat ngerjain tugas atau ngopi malem, dan which is worth it banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Efek visual harga muncul besar-besar, lalu berubah menjadi emoji hati dan tanda centang hijau.",
+      "narration": "Gila sih harganya cuma enam puluhan ribu, nggak sampai seratusan. For the money? This is literally so cute and super worth it!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail besi lampu yang kokoh, lalu tunjukkan fitur jepit yang kuat dan pencahayaan yang terang tanpa silau.",
+      "narration": "Pertama, material besinya kokoh banget, nggak gampang goyang. Kedua, ada versi jepit buat meja sempit dan versi dudukan buat meja lebar. Ketiga, cahayanya terang dan fokus, jadi mata nggak cepat lelah pas nulis skripsi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang sedang belajar di kamar gelap, lalu menyalakan lampu dan wajahnya jadi cerah dan fokus.",
+      "narration": "Perfect buat kamu yang sering begadang belajar atau butuh cahaya pasif buat kerja WFH. Kalau aktivitas kamu sering di meja sempit, ambil varian jepit dong!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.85 dan angka '50.000 Terjual' dengan animasi angka naik.",
+      "narration": "Rating empat koma delapan lima dan udah terjual lima puluh ribu unit. Yang udah beli bilang lampu ini sesuai ekspektasi dan termurah dari semua produk lampu arsite!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#LampuMeja",
+    "#BelajarSeru",
+    "#RacunShopee",
+    "#MT811",
+    "#Goldcrystal",
+    "#StudyVibes",
+    "#HematJajan",
+    "#KamarEstetik"
+  ],
+  "product_id": 157332,
+  "product_title": "Lampu Meja Arsitek / Lampu Belajar / Lampu Duduk / Duduk MT-811",
+  "product_price": "68900.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/157332.jpg",
+    "/uploads/products/157332_1.jpg",
+    "/uploads/products/157332_2.jpg",
+    "/uploads/products/157332_3.jpg",
+    "/uploads/products/157332_4.jpg",
+    "/uploads/products/157332_5.jpg",
+    "/uploads/products/157332_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/157332",
+  "generated_at": "2026-03-14T21:34:29.162Z"
+}

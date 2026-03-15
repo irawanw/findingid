@@ -1,0 +1,90 @@
+{
+  "title": "Jas Hujan Anak Jumpsuit Anti Kaku, Bestie!",
+  "hook_text": "Jas Hujan Anak Anti Kaku?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up anak tersenyum memakai jumpsuit jas hujan warna cerah sambil meneduh hujan rintik.",
+      "narration": "Bingung cari jas hujan anak yang nggak bikin kaku dan gerah? Bestie, ini solusinya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot lebar menunjukkan model jumpsuit APD lengkap dari kepala sampai kaki dengan detail bahan PVC yang mengkilap.",
+      "narration": "Kenalin, Jas Hujan Jumpsuit Anak dari Laksana buat umur satu sampai enam tahun. Modelnya super warm dan anti angin, jadi main hujan nggak takut kedinginan lagi!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik animasi harga Rp 51.000 muncul besar di layar dengan efek koin jatuh dan teks 'WORTH IT BANGET'.",
+      "narration": "Dan yang bikin ngiler, harganya cuma di bawah enam puluh ribuan! Literally, buat APD setebal ini, which is worth it banget sih no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat tiga adegan: tangan meremas bahan PVC (elastis), tangan menutup resleting dan kancing snap, dan close-up jahitan rapi.",
+      "narration": "Fiturnya next level banget, Bestie. Pertama, bahannya PVC tebal tapi elastis, nggak kaku sama sekali. Kedua, sistem double protection pakai resleting dan kancing snap biar angin nggak masuk. Ketiga, jahitannya rapi dan kuat sesuai standar APD, jadi awet dipakai berlama-lama!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Anak kecil berlari di halaman basah, lalu adegan orang tua membawa anak naik motor dengan jas hujan terpasang rapi.",
+      "narration": "Perfect buat kamu yang punya anak beratnya di bawah sebelas kilo. Kalau aktivitas kamu sering jalan-jalan outdoor atau ke sekolah pas hujan, ini wajib punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.86 dan teks '30.000 TERJUAL' dengan background toko ramai.",
+      "narration": "Sudah laku tiga puluh ribu pasang dengan rating empat koma delapan enam!"
+    },
+    {
+      "id": "proof_detail",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Sambungan visual dari segmen sebelumnya, menampilkan screenshot chat pembeli yang memuji jahitan rapi.",
+      "narration": "Pembelinya pada ngomong kalau jahitannya rapi banget dan bahannya nggak kaku, literally so comfortable!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke kanan atas dengan teks 'Cek di finding dot id' dan logo produk.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#JasHujanAnak",
+    "#ObralAnak",
+    "#ParentingIndonesia",
+    "#BarangViral",
+    "#JumpsuitAnak",
+    "#MomsIndo",
+    "#RekomendasiAnak",
+    "#CariBarang"
+  ],
+  "product_id": 14796,
+  "product_title": "JAS HUJAN ANAK JAS HUJAN JUMPSUIT ANAK JAS HUJAN USIA 1 TAHUN -6 TAHUN JAS HUJAN ANAK BAHAN PVC TEBAL",
+  "product_price": "51000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/14796.jpg",
+    "/uploads/products/14796_1.jpg",
+    "/uploads/products/14796_2.jpg",
+    "/uploads/products/14796_3.jpg",
+    "/uploads/products/14796_4.jpg",
+    "/uploads/products/14796_5.jpg",
+    "/uploads/products/14796_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/14796",
+  "generated_at": "2026-03-15T16:56:50.503Z"
+}

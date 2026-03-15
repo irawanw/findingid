@@ -1,0 +1,92 @@
+{
+  "title": "Popok Tipis Banget! Makuku Comfort Fit Mini Review",
+  "hook_text": "Popok tipis tapi nggak bocor?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tangan menggosokkan popok Makuku yang terlihat sangat tipis dan transparan di depan cahaya.",
+      "narration": "Popok tipis tapi nggak bocor? Nggak percaya? Makuku Comfort Fit Mini bakal bikin mata kamu bulat bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat bayi tertawa lepas sambil digendong, transisi ke kemasan produk Makuku yang cerah dan lucu.",
+      "narration": "Ini seri Comfort Fit Mini dari Makuku, literally so cute banget pakennya. Teksturnya ultra lembut dan tipis, basically next level untuk kenyamanan maksimal si Kecil."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, lalu muncul ilustrasi perbandingan harga vs kualitas yang bagus.",
+      "narration": "Gila sih harganya, cuma seratusan ribu perak buat satu pack isi banyak. Kualitasnya premium, which is worth it banget dibandingin popok lain yang mahal tapi nggak sekenyal ini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Visual 3D atau split screen menunjukkan 3 ikon: 1. Air menguap (dry), 2. Bola-bola kecil (no lumps), 3. Kulit bayi halus (soft).",
+      "narration": "Tech-nya ada tiga poin utama nih. Pertama, extra dry dan cepat kering setelah buang air. Kedua, anti gumpal, jadi kulit bayi nggak panas dan iritasi. Ketiga, super lembut banget, makanya nggak ada rasa gesekan sama sekali."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu sibuk masak atau main HP sambil lihat bayi yang tenang dan bersih popoknya.",
+      "narration": "Perfect buat yang aktivitasnya hectic banget, perlu popok yang bisa diandalkan seharian tanpa takut bocor. Kalau kamu sering ganti popok, ini bakal jadi penyelamat banget!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.9 bintang besar, jumlah terjual 100 ribu, dan quote muncul dengan efek highlight.",
+      "narration": "Rating 4.9 koma nol dan sudah terjual 100 ribu paket! Yang udah beli bilang kualitasnya bagus banget dan Makuku emang paling lembut!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah menunjuk ke bawah, teks 'Cek Detail Disini'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#makuku",
+    "#popokbayi",
+    "#comfortfitmini",
+    "#bestmom",
+    "#parentinghacks",
+    "#reviewproduk",
+    "#bayiunik",
+    "#parentingid"
+  ],
+  "product_id": 166190,
+  "product_title": "[1 PACK] MAKUKU SAP Diapers Comfort Fit Pants/Tape NB/S/M/L/XL/XXL Popok Bayi Tipis Extra Dry Anti Gumpal Mengunci Cairan Cepat Kering Type Celana/Perekat",
+  "product_price": "50100.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/166190.jpg",
+    "/uploads/products/166190_1.jpg",
+    "/uploads/products/166190_2.jpg",
+    "/uploads/products/166190_3.jpg",
+    "/uploads/products/166190_4.jpg",
+    "/uploads/products/166190_5.jpg",
+    "/uploads/products/166190_6.jpg",
+    "/uploads/products/166190_7.jpg",
+    "/uploads/products/166190_8.jpg",
+    "/uploads/products/166190_9.jpg",
+    "/uploads/products/166190_10.jpg",
+    "/uploads/products/166190_11.jpg",
+    "/uploads/products/166190_12.jpg",
+    "/uploads/products/166190_13.jpg",
+    "/uploads/products/166190_14.jpg",
+    "/uploads/products/166190_15.jpg"
+  ],
+  "product_link": "https://finding.id/p/166190",
+  "generated_at": "2026-03-15T08:57:06.606Z"
+}

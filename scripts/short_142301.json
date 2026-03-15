@@ -1,0 +1,80 @@
+{
+  "title": "Cuci Wajah Murah Banget? Cosrx Low pH!",
+  "hook_text": "Stop scroll! Kulit sensitif butuh ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Teks besar 'STOP SCROLL' muncul di layar sambil menunjuk ke produk di depan wajah.",
+      "narration": "Stop scroll! Kulit sensitif butuh ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close up botol Cosrx Low pH Good Morning Gel Cleanser berputar pelan.",
+      "narration": "Ini Cosrx Low pH Good Morning Gel Cleanser seratus lima puluh mil. --- Pembersih wajah yang super gentle. --- Rumahnya skincare Korea, basic banget sih."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul dengan efek 'explosion' dan tanda centang hijau.",
+      "narration": "Hanya seratus delapan puluhan ribuan, --- worth it banget buat perawatan harian yang nggak bikin iritasi."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menunjukkan tekstur gel, pH meter, dan kulit bersih setelah cuci.",
+      "narration": "Pertama pH rendah mirip kulit asli. --- Kedua lembut banget nggak bikin kering. --- Ketiga ada eksfoliasi ringan untuk kulit yang kerasa bersih. --- Basically next level! --- Kandungan yang mantap banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang merapikan makeup di pagi hari dengan cermin.",
+      "narration": "Perfect buat yang punya kulit sensitif atau buat pagi hari sebelum skincare lainnya. --- Khusus buat kamu yang rajin skincare."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.95 bintang dan angka 70.000 terjual.",
+      "narration": "Rating 4.95, tujuh puluh ribu terjual! --- Yang udah beli bilang 'ngga secair waktu beli di store watsonsnya langsung'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah yang menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana! --- No cap, worth it!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#skincareindonesia",
+    "#cosrx",
+    "#cleanser",
+    "#glowingskin",
+    "#reviewskincare",
+    "#findingid",
+    "#skincarekorea",
+    "#glowup"
+  ],
+  "product_id": 142301,
+  "product_title": "Cosrx Low pH Good Morning Gel Cleanser 150ml",
+  "product_price": "98200.00",
+  "product_rating": "4.95",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/142301.jpg",
+    "/uploads/products/142301_1.jpg",
+    "/uploads/products/142301_2.jpg",
+    "/uploads/products/142301_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/142301",
+  "generated_at": "2026-03-14T02:36:02.158Z"
+}

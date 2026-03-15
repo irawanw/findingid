@@ -1,0 +1,84 @@
+{
+  "title": "Jaket Gunung Murah 180 Ribu? Bestie!",
+  "hook_text": "Jaket Gunung Cuma 180 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up jaket disiram air dan ditiup angin kencang, text overlay muncul cepat",
+      "narration": "Gila, jaket gunung premium cuma seratus delapan puluhan ribu? Literally gila sih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai jaket berputar pelan, tunjukkan detail bahan Taslan JN",
+      "narration": "Ini Freestyle Jaket v2, bahan Taslan JN yang ringan tapi nahan angin. Ada inner mesh biar nggak gerah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul besar, lalu transisi ke gambar jaket utuh",
+      "narration": "Padahal kualitasnya next level, harganya cuma seratus delapan puluhan ribu doang. Which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Zoom ke saku, kerah cowl neck, dan demonstrasi windproof",
+      "narration": "Fiturnya gila, bestie. Banyak saku, windproof beneran, sama kerah cowl neck. Bahannya tebel tapi nggak bikin capek --- Desain multifungsi cocok buat hiking, camping, atau harian. No cap, quality di atas harga."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video split screen: satu orang hiking, satu orang naik motor malam hari",
+      "narration": "Perfect buat kamu yang suka hiking pagi, atau sering macet naik motor malam hari. Kalau aktivitas kamu di luar ruangan, ini wajib punya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.84 dan angka penjualan 40K, lalu quote review muncul",
+      "narration": "Sudah 40 ribu terjual dengan rating 4,84. Yang udah beli bilang, 'Ukuran pas, waterproof lagi, windproof pas di cuaca dingin'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke bawah atau arah finding.id, teks besar muncul",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#JaketOutdoor",
+    "#FreestyleJaket",
+    "#HikingMurah",
+    "#JaketWaterproof",
+    "#GayaOutdoor",
+    "#RekomendasiProduk",
+    "#JaketMotor",
+    "#ViralProduct"
+  ],
+  "product_id": 10706,
+  "product_title": "Freestyle Jaket Gunung Pria Waterproof Anti Air Taslan Jaket Outdoor Hiking Windproof",
+  "product_price": "184999.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/10706.jpg",
+    "/uploads/products/10706_1.jpg",
+    "/uploads/products/10706_2.jpg",
+    "/uploads/products/10706_3.jpg",
+    "/uploads/products/10706_4.jpg",
+    "/uploads/products/10706_5.jpg",
+    "/uploads/products/10706_6.jpg",
+    "/uploads/products/10706_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/10706",
+  "generated_at": "2026-03-13T17:22:12.589Z"
+}

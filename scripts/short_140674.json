@@ -1,0 +1,96 @@
+{
+  "title": "Karpet Eropa Mewah Harga Kaki Lima Bestie",
+  "hook_text": "Karpet Eropa Mewah Harga Kaki Lima?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up karpet dengan motif mewah, transisi cepat ke wajah kaget",
+      "narration": "Karpet Eropa Mewah Harga Kaki Lima? --- Liat deh, Karpet Eropa Import Polyester ini."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot lebar karpet di ruang tamu modern, tangan menyentuh permukaan",
+      "narration": "Ukuran 100x150cm, motifnya fresh banget bikin ruangan jadi modern banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, tangan memegang dompet",
+      "narration": "Harganya? Mulai delapan puluhan ribu doang! --- Which is worth it banget buat dapetin tampilan mewah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail anti slip, tekstur halus, dan perbandingan warna",
+      "narration": "Fitur no cap. --- Bahan 100 persen polyester, anti slip biar nggak licin, alus banget di kaki, warna 90 persen mirip gambar asli. --- Tapi inget ya, teksturnya tipis halus, bukan karpet tebal."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang duduk santai di atas karpet, suasana cozy",
+      "narration": "Perfect buat yang suka ganti gaya kamar, --- atau buat nambah cozy vibes di ruang tamu tanpa bokek."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.76 dan jumlah pembelian 70rb+",
+      "narration": "Rating 4.76 bintang, udah laku 70 ribu lebih. --- Ada yang udah beli bilang 'Karpetnya bagus, bahannya juga alus. --- Worth it harga segitu, nggak mengecewakan'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul di layar dengan animasi klik",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#KarpetEropa",
+    "#DecorMurah",
+    "#RuangTamu",
+    "#ViralProduct",
+    "#FindingID",
+    "#GenZIndonesia",
+    "#DecorRoom",
+    "#HomeDecor"
+  ],
+  "product_id": 140674,
+  "product_title": "Karpet Eropa Import Polyester 100x150cm (Motif Baru)",
+  "product_price": "84000.00",
+  "product_rating": "4.76",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/140674.jpg",
+    "/uploads/products/140674_1.jpg",
+    "/uploads/products/140674_2.jpg",
+    "/uploads/products/140674_3.jpg",
+    "/uploads/products/140674_4.jpg",
+    "/uploads/products/140674_5.jpg",
+    "/uploads/products/140674_6.jpg",
+    "/uploads/products/140674_7.jpg",
+    "/uploads/products/140674_8.jpg",
+    "/uploads/products/140674_9.jpg",
+    "/uploads/products/140674_10.jpg",
+    "/uploads/products/140674_11.jpg",
+    "/uploads/products/140674_12.jpg",
+    "/uploads/products/140674_13.jpg",
+    "/uploads/products/140674_14.jpg",
+    "/uploads/products/140674_15.jpg",
+    "/uploads/products/140674_16.jpg",
+    "/uploads/products/140674_17.jpg",
+    "/uploads/products/140674_18.jpg",
+    "/uploads/products/140674_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/140674",
+  "generated_at": "2026-03-13T22:08:49.912Z"
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Sabun Cuci Muka Glowing Bestie, Worth It Banget!",
+  "hook_text": "Kulit Glowing Tanpa Clinik?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah model bersinar dengan efek sparkles, lalu transisi cepat ke wajah kusam.",
+      "narration": "Stop! Kamu masih keluar duit ratusan juta buat perawatan wajah di klinik padahal solusinya ada di rumah, literally next level!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilan produk Kusuma Beauty Facial Wash Reviving berputar 360 derajat di atas meja kayu estetik dengan background cahaya hangat.",
+      "narration": "Kenalan sama Kusuma Beauty Facial Wash Reviving, sabun cuci muka yang bikin kulitmu fresh banget, which is basically skin glow up!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek pop-up, diikuti animasi tanda centang hijau dan ikon 'BPOM' berkedip.",
+      "narration": "Gila sih, harganya cuma seratus delapan puluhan ribu aja, dan udah dilengkapi izin edar BPOM resmi, no cap worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menunjukkan busa lembut di wajah, kanan menunjukkan tekstur wajah yang bersih dan tidak kering.",
+      "narration": "Pertama, dia ngebersihin kotoran, minyak berlebih, dan sisa makeup dengan sempurna tanpa bikin kulit kering. Kedua, teksturnya lembut banget, super gentle buat kamu yang punya kulit sensitif atau lagi berjerawat. Ketiga, aromanya lembut dan gampang banget dibilasin, so cute!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas: orang sedang olahraga, orang makeup, dan orang kerja di kantor, semua tersenyum bahagia.",
+      "narration": "Perfect buat kamu yang aktivitasnya padat, sering makeup seharian, atau cuma cari solusi pembersih wajah terjangkau tapi kualitasnya premium, basically must have!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.93 dan angka 20.000 terjual, lalu muncul teks kutipan ulasan di layar.",
+      "narration": "Pembelinya pada ngomong barang oroginal memudahkan bgt ak ga perlu dtg langsung ke klinik, jadi langganan aku!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul jelas dengan panah menunjuk ke bawah, warna background cerah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id ya!",
+  "hashtags": [
+    "#KusumaBeauty",
+    "#SabunCuciMuka",
+    "#SkincareIndo",
+    "#GlowUp",
+    "#SkincareMurah",
+    "#SkincareBPOM",
+    "#SkincareWajahBerminyak",
+    "#SkincareSensitif"
+  ],
+  "product_id": 142295,
+  "product_title": "Kusuma Beauty - Facial Wash Reviving 100ml - Sabun Cuci Muka Glowing",
+  "product_price": "110200.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/142295.jpg",
+    "/uploads/products/142295_1.jpg",
+    "/uploads/products/142295_2.jpg",
+    "/uploads/products/142295_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/142295",
+  "generated_at": "2026-03-14T04:25:38.954Z"
+}

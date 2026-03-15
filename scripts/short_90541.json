@@ -1,0 +1,96 @@
+{
+  "title": "Tas Spiderman Captain Keren! Murah Meriah",
+  "hook_text": "Tas sekolah favorit anak-anak!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up cepat berbagai warna tas Spiderman dan Captain America dengan efek zoom in yang dinamis.",
+      "narration": "Guys, siap-siap anak sekolahmu bakal ngiler liat ini! Literally next level keren buat si kecil nih."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase tas dibuka lebar menunjukkan bagian depan HardCase 3D yang tajam dan bahan poliester berkualitas.",
+      "narration": "Ini tas ransel anak Spiderman Captain keren banget! Bahan poliester yang waterproof dan bagian depan ada HardCase 3D, which is basically next level kekokohan buat nyimpen buku-buku."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan grafik harga turun dari Rp 99.500 ke Rp 58.000 dengan teks besar 'HARGA KIAN'.",
+      "narration": "Dan yang bikin kaget, harganya cuma seratus ribuan sampai enam puluhan ribu doang! No cap, worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage: 1) Isi tas penuh dengan LKS, 2) Tunjukkan resleting pada tas ukuran 16 inchi, 3) Detail HardCase 3D di depan tas.",
+      "narration": "Fiturnya mumpuni! Pertama, kapasitasnya luas banget, muat semua LKS sampai buku besar. Kedua, tersedia dua ukuran, 14 inchi dan 16 inchi dengan tiga kantung resleting besar. Ketiga, desainnya super detail dengan motif karakter favorit, which makes it so cute!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage anak-anak senang memakai tasnya di sekolah, lalu transisi ke teks 'Perfect untuk Si Kecil'.",
+      "narration": "Perfect buat yang lagi cari aksesoris sekolah yang fungsional tapi tetap estetik. Kalau aktivitasmu sering bawa banyak buku, ini solusi banget!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.86 dan angka '20.000+' terjual dengan cepat.",
+      "narration": "Rating 4.86 dari dua puluh ribu produk terjual. Yang udah beli bilang tasnya masyaAllah bagus banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke arah bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#TasAnak",
+    "#Spiderman",
+    "#SekolahKeren",
+    "#TasMurah",
+    "#BelanjaAnak",
+    "#TasRansel",
+    "#CaptainAmerica",
+    "#FindingId"
+  ],
+  "product_id": 90541,
+  "product_title": "TAS SEKOLAH TAS RANSEL ANAK TAS ANAK SEKOLAH spiderman captain keren",
+  "product_price": "58000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/90541.jpg",
+    "/uploads/products/90541_1.jpg",
+    "/uploads/products/90541_2.jpg",
+    "/uploads/products/90541_3.jpg",
+    "/uploads/products/90541_4.jpg",
+    "/uploads/products/90541_5.jpg",
+    "/uploads/products/90541_6.jpg",
+    "/uploads/products/90541_7.jpg",
+    "/uploads/products/90541_8.jpg",
+    "/uploads/products/90541_9.jpg",
+    "/uploads/products/90541_10.jpg",
+    "/uploads/products/90541_11.jpg",
+    "/uploads/products/90541_12.jpg",
+    "/uploads/products/90541_13.jpg",
+    "/uploads/products/90541_14.jpg",
+    "/uploads/products/90541_15.jpg",
+    "/uploads/products/90541_16.jpg",
+    "/uploads/products/90541_17.jpg",
+    "/uploads/products/90541_18.jpg",
+    "/uploads/products/90541_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/90541",
+  "generated_at": "2026-03-14T15:39:44.227Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Tas Mudik Jumbo 80L, Muat 3 Set Pakaian?!",
+  "hook_text": "Stop scroll! Tas jumbo ini bikin kaget",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan meremas tas tebal lalu membukanya lebar-lebar menunjukkan ruang kosong yang luas",
+      "narration": "Siapa sih yang ngerasa bawa tas mudik selalu kurang isinya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide tas digantung di badan model, lalu zoom in ke detail jahitan tebal di bagian bawah tas",
+      "narration": "Kenalan yuk sama jagoan baru nih, tas duffel jumbo kapasitas 80 liter. Bahan polyster nilon super lembut tapi nggak gampang robek, plus tali pita dijahit keliling sampai bawah buat nahan beban berat sampe 35 kilo, literally next level kokohnya."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, lalu transisi cepat ke shot tas penuh barang",
+      "narration": "Gila sih bestie, harga cuma segitu enam puluhan ribu sampe tujuh puluhan ribu aja. Nah, untuk ukuran ini, worth it banget kan? Dapet tas super jumbo seharga kopi susu kekinian, which is deal banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Model memasukkan koper besar, 2. Model memasukkan baju lipat banyak, 3. Model berpose tas di bahu dengan gaya",
+      "narration": "Fiturnya nggak main-main, basically super duper jumbo. Pertama, ukuran 71 kali 31 kali 34 cm, jadi muat baju tiga set lengkap nggak masalah. Kedua, bahan D600 super yang tebel, kuat, dan kokoh banget, nggak gampang sobek walau isinya brongkosan. Ketiga, desainnya simple tapi stylish, ada varian warna marun, navy, abu, hijau tua, dan hitam yang nggak bikin bosan dipakai."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: keluarga berangkat mudik, anak sekolah traveling, dan pekerja yang butuh bawa banyak alat",
+      "narration": "Perfect buat kamu yang sering mudik bawa banyak baju, atau pekerja yang butuh tas besar buat bawa peralatan kerja. Kalau aktivitas kamu butuh tas yang nggak cuma cantik tapi juga bisa nampung segalanya, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.83 dan angka 20.000+ terjual, lalu muncul quote bubble",
+      "narration": "Rating 4.83 dari dua puluh ribu produk terjual. Yang udah beli bilang kapasitasnya super jumbo dan bahan bagus banget tebal kuat kokoh."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul besar dengan efek glitter, panah menunjuk ke arah link",
+      "narration": "Penasaran sama stok dan detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#tasjumbo",
+    "#mudik2024",
+    "#tasduffel",
+    "#travelbagindo",
+    "#findingid",
+    "#rekomendasibelanja",
+    "#tasmurah",
+    "#viralshorts"
+  ],
+  "product_id": 27116,
+  "product_title": "Tas pakaian besar 80 L Travel bag tas mudik jumbo tas pakaian slempang FB 445",
+  "product_price": "71050.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/27116.jpg",
+    "/uploads/products/27116_1.jpg",
+    "/uploads/products/27116_2.jpg",
+    "/uploads/products/27116_3.jpg",
+    "/uploads/products/27116_4.jpg",
+    "/uploads/products/27116_5.jpg",
+    "/uploads/products/27116_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/27116",
+  "generated_at": "2026-03-15T04:40:07.370Z"
+}

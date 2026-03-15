@@ -1,0 +1,81 @@
+{
+  "title": "Baju Kerja Adem & Anti Luntur? Cek Ini!",
+  "hook_text": "Baju kerja nggak panas!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah model berkeringat di terik matahari lalu tiba-tiba ganti pakai coverall Tommy yang bersih dan segar.",
+      "narration": "Stop scroll bestie, siapa bilang baju kerja bikin kita kayak oven? Nggak bisa dong!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide memperlihatkan model memakai Safety Coverall Tommy di lokasi proyek, lalu zoom in ke detail jahitan dan bahan.",
+      "narration": "Kenalan yuk sama Wearpack Safety Coverall dari Tommy, which is basically next level buat kamu yang sering ngadain proyek di lapangan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek 'pop' bersamaan dengan model berpose bangga.",
+      "narration": "Gila sih, semua fitur pro ini cuma seharga seratus lima puluh tiga ribuan, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: model menggosok baju, lalu membiarkan air jatuh di baju, dan model tersenyum sambil menunjuk label Tommy.",
+      "narration": "Kainnya adem, nggak bikin gerah sama sekali, plus anti luntur jadi warna tetap cerah. Oh iya, tahan air juga, which is super penting kalau lagi hujan deras."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: kiri pekerja konstruksi, kanan tukang servis AC, kanan bawah tukang kebun.",
+      "narration": "Perfect buat yang aktivitasnya sering kena debu, air, atau panas terik, no cap ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.8 dan angka 30.000 terjual dengan cepat di layar.",
+      "narration": "Dibandingin sama tiga puluh ribu produk yang udah terjual, yang udah beli bilang barangnya sesuai dan pengiriman super cepat."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi fun dan tombol beli berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#BajuKerjaAdem",
+    "#Wearpack",
+    "#SafetyCoverall",
+    "#ProyekKeren",
+    "#PakaianLapangan",
+    "#TommyBrand",
+    "#HematBuatKerja",
+    "#FashionBekerja"
+  ],
+  "product_id": 64263,
+  "product_title": "Wearpack Safety Coverall Baju Kerja Proyek Tommy",
+  "product_price": "153000.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64263.jpg",
+    "/uploads/products/64263_1.jpg",
+    "/uploads/products/64263_2.jpg",
+    "/uploads/products/64263_3.jpg",
+    "/uploads/products/64263_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/64263",
+  "generated_at": "2026-03-14T07:38:01.437Z"
+}

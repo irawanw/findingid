@@ -1,0 +1,80 @@
+{
+  "title": "Coklat Dark Murah Meriah! Worth It Gak Sih?",
+  "hook_text": "Suka Coklat Tapi Takut Mahal?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up shot wajah kaget lihat harga coklat mahal di layar HP.",
+      "narration": "Suka coklat tapi takut mahal? Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product shot Hush Chocolate dibuka pelan dengan lighting cinematic yang elegan.",
+      "narration": "Ini Hush Chocolate Dark, varian premium buat kamu yang cari sensasi beda. Beneran deh."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar sambil pegang produk di tangan.",
+      "narration": "Harganya? Cuma seratus tiga puluh ribuan doang. Seriusan. Worth it banget kan? Nggak perlu mahal buat rasa premium."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up tekstur coklat yang lembut, lalu shot orang makan dengan ekspresi puas.",
+      "narration": "Teksturnya lembut banget, nggak keras sama sekali. Rasanya authentic dark chocolate, emang agak pahit khas cokelat hitam. --- Jadi jangan kaget kalau kamu nggak biasa. Bukan overclaim, ini murni rasa asli yang terjamin banget. No cap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot orang sedang kerja atau santai sambil ngemil coklat di meja kerja.",
+      "narration": "Perfect buat yang lagi diet sehat atau cuma mau ngemil enak tapi nggak bikin guilty feeling. Next level snack!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4.72 dan jumlah terjual muncul, lalu screenshot chat pengiriman yang cepat.",
+      "narration": "Udah laku 40 ribu produk dengan rating 4.72. Yang udah beli bilang, literally pengiriman cepet banget, order dua hari lalu hari ini udah sampai di depan rumah."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah menunjuk ke bawah atau layar penuh.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#chocolate",
+    "#darkchocolate",
+    "#hushchocolate",
+    "#snack",
+    "#viral",
+    "#genz",
+    "#rekomendasi",
+    "#findingid"
+  ],
+  "product_id": 139168,
+  "product_title": "Payday SALE Hush chocolate Dark Chocolate 4 pcs 32 gram",
+  "product_price": "136000.00",
+  "product_rating": "4.72",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/139168.jpg",
+    "/uploads/products/139168_1.jpg",
+    "/uploads/products/139168_2.jpg",
+    "/uploads/products/139168_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/139168",
+  "generated_at": "2026-03-13T20:13:26.682Z"
+}

@@ -1,0 +1,82 @@
+{
+  "title": "9 Dot Patch Buat Acne + Dark Spot? Worth It!",
+  "hook_text": "STOP! Jangan Beli Ini Kalau...",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Wajah close-up dengan jerawat muncul tiba-tiba lalu di-cover patch, ekspresi panik lucu.",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?' Tenang bestie, kita bakal bedah sama sekali nggak bohong!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close-up tekstur patch Laviola 2914 LSH yang berkilau dan dotnya yang unik di tangan.",
+      "narration": "Perkenalkan KALEIDO Acne Patch Rescue Series, which is literally next level buat jerawat sama dark spot!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 83.900 membesar lalu berubah menjadi teks 'Hemat 9 Dot!'.",
+      "narration": "Nggak percaya? Kamu dapat sembilan dot tekstur jadi cuma delapan puluhan ribu rupiah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Patch menempel rapat, 2. Toner di atas patch tidak lari, 3. Hasil jerawat kering bersih.",
+      "narration": "Pertama, teksturnya super rapat jadi toner nggak lari ke mana-mana. Kedua, daya serapnya mantap banget buat tarik nanah. Dan ketiga, hasil akhirnya bikin dark spot pudar duluan, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase berbagai situasi: skincare routine malam, nonton film, atau kerja di depan komputer.",
+      "narration": "Perfect buat kamu yang sering begadang atau aktivitasnya nggak boleh keluar. Kalau kamu punya jerawat batu atau bekas jerawat, ini solusinya dong!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.90 dan angka 40.000 terjual dengan latar belakang bintang-bintang.",
+      "narration": "Pembelinya pada ngomong 'Tekstur patchnya bagus dan cocok buat kulit ga', dan udah ada empat puluh ribu produk terjual dengan rating empat koma sembilan!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan efek glitter dan tombol beli berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#KALEIDO",
+    "#AcnePatch",
+    "#SkincareHacks",
+    "#DarkSpotFix",
+    "#GenZBeauty",
+    "#WorthIt",
+    "#FindingId",
+    "#GlowUp"
+  ],
+  "product_id": 143742,
+  "product_title": "KALEIDO Acne Patch Rescue Series - Texturized Patch for Acne and Dark Spots [9 Texturized Dots]",
+  "product_price": "83900.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/143742.jpg",
+    "/uploads/products/143742_1.jpg",
+    "/uploads/products/143742_2.jpg",
+    "/uploads/products/143742_3.jpg",
+    "/uploads/products/143742_4.jpg",
+    "/uploads/products/143742_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/143742",
+  "generated_at": "2026-03-14T03:53:48.159Z"
+}

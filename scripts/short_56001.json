@@ -1,0 +1,83 @@
+{
+  "title": "Celana Lari Murah, Performa Gila?",
+  "hook_text": "Jangan dulu scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kreator dengan ekspresi kaget menunjuk ke kamera",
+      "narration": "Jangan dulu scroll! Ada celana lari harga sepele, performa gila."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk celana olahraga Terrel dipegang dan diregangkan untuk menunjukkan bahan",
+      "narration": "Ini Terrel Sportswear Performance Base Layer Bawahan. Bahan stretch banget, literally next level buat gerak."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kilat",
+      "narration": "Harganya? Cuma seratus tiga puluhan ribu doang. Which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Kreator memakai celana dan menunjukkan saku serta gerakan lari",
+      "narration": "Fit-nya oke banget di tinggi seratus tujuh puluh satu berat enam puluh pakai ukuran M. Ada yang bilang jahitan kurang simetris, tapi no cap, buat olahraga udah lebih dari cukup. --- Sakunya muat buat simpen kunci dan hp, literally nyaman banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat orang lari pagi dan angkat beban di gym",
+      "narration": "Perfect buat kamu yang sering lari pagi atau gym session berat."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.91 dan jumlah terjual di layar",
+      "narration": "Rating 4.91, udah terjual tiga puluh ribu unit. Yang udah beli bilang, performanya bagus banget buat lari."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#TerrelSportswear",
+    "#CelanaLari",
+    "#OlahragaMurah",
+    "#RunningGear",
+    "#GymLife",
+    "#FindingID",
+    "#ViralProduct",
+    "#GenZIndonesia"
+  ],
+  "product_id": 56001,
+  "product_title": "Terrel sportswear Performance Base Layer Bawahan celana olahraga stretch pria lari running gym",
+  "product_price": "103285.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/56001.jpg",
+    "/uploads/products/56001_1.jpg",
+    "/uploads/products/56001_2.jpg",
+    "/uploads/products/56001_3.jpg",
+    "/uploads/products/56001_4.jpg",
+    "/uploads/products/56001_5.jpg",
+    "/uploads/products/56001_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/56001",
+  "generated_at": "2026-03-13T19:49:10.372Z"
+}

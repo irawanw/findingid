@@ -1,0 +1,90 @@
+{
+  "title": "Jaket Fleece Diamond Murah Banget!",
+  "hook_text": "Gak bakal percaya sama harganya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kaget sambil pegang jaket motif diamond dengan ekspresi excited",
+      "narration": "Guys, stop scroll sejenak! Gak bakal percaya sama harga jaket kualitas premium kayak gini."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat model pria berbagai warna (Biru Navy, CAMEL, SageGreen) yang sedang jalan santai",
+      "narration": "Ini JAKET COMFY PRIA dengan bahan Fleece Diamond yang super lembut. Bahan ini nggak tebal banget pas lagi panas, tapi tetep hangat kalau udah dingin, which is basically next level comfort!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar di layar muncul angka harga terendah dengan efek confetti, lalu transisi ke tampilan harga tertinggi",
+      "narration": "Dijual cuma empat puluhan sampai dua ratus ribuan. Dibanding jaket lain yang ratusan ribuan, ini worth it banget dong bestie!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail tekstur kain yang dioles air (waterproof), lalu zoom-in ke desain diamond yang rapi, terakhir model memegang kerah jaket yang empuk",
+      "narration": "Pertama, bahannya Fleece Diamond yang anti air dan anti angin. Kedua, motif diamondnya nggak gampang luntur dan tetap rapi. Ketiga, kerah dan jahitannya super nyaman di kulit, nggak bikin gatal sama sekali."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: kiri anak kuliah naik motor pakai jaket, kanan anak kos ngerjain tugas bareng jaket",
+      "narration": "Perfect buat kamu yang sering naik motor pagi buta atau anak kos yang butuh gaya simpel tapi tetap terlihat oke setiap hari. Ukuran juga lengkap dari S sampai 3XL."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.82 bintang dan angka 20.000+, dengan teks kutipan muncul perlahan",
+      "narration": "Rating empat koma delapan dua dari dua puluh ribu produk terjual. Yang udah beli bilang bahan lembut dan sesuai harga insyallah!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi arrow pointer mengarah ke pojok kanan bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek stok dan harga di finding dot id sekarang!",
+  "hashtags": [
+    "#JaketPria",
+    "#FleeceDiamond",
+    "#OutfitKuliah",
+    "#FashionAnakKos",
+    "#ViralShorts",
+    "#TemukanMurah",
+    "#OOTDKinian",
+    "#StokReady"
+  ],
+  "product_id": 144437,
+  "product_title": "JAKET COMFY PRIA / COMFY JACKET / JAKET MOTIF DIAMOND / JAKET PRIA",
+  "product_price": "46075.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/144437.jpg",
+    "/uploads/products/144437_1.jpg",
+    "/uploads/products/144437_2.jpg",
+    "/uploads/products/144437_3.jpg",
+    "/uploads/products/144437_4.jpg",
+    "/uploads/products/144437_5.jpg",
+    "/uploads/products/144437_6.jpg",
+    "/uploads/products/144437_7.jpg",
+    "/uploads/products/144437_8.jpg",
+    "/uploads/products/144437_9.jpg",
+    "/uploads/products/144437_10.jpg",
+    "/uploads/products/144437_11.jpg",
+    "/uploads/products/144437_12.jpg",
+    "/uploads/products/144437_13.jpg"
+  ],
+  "product_link": "https://finding.id/p/144437",
+  "generated_at": "2026-03-15T11:40:27.022Z"
+}

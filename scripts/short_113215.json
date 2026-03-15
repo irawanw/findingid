@@ -1,0 +1,83 @@
+{
+  "title": "Koper Makin Muat! Paket Vakum Murah Banget",
+  "hook_text": "STOP! Koper kamu kekecilan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up koper yang terbuka penuh sesak dengan pakaian, lalu transisi cepat ke koper yang sama terlihat rapi dan tertutup dengan mudah.",
+      "narration": "Stop bestie! Koper kamu masih kekecilan padahal udah isi baju banyak-banyak? Tenang, solusinya ada nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: tangan memasukkan baju tebal ke dalam plastik transparan, lalu menekan pompa angin listrik berwarna cerah.",
+      "narration": "Kenalan aja sama paket traveling lima plastik vakum plus pompa angin listrik. Ini basically next level buat nyelametin baju biar nggak kusut dan hemat tempat di koper, which is worth it banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan angka harga, lalu muncul icon centang hijau besar di sampingnya.",
+      "narration": "Nah yang paling gila, harganya cuma seratusan ribu! Gila sih, dapet lima plastik vacuum plus pompa angin listrik cuma seharga seratusan ribu? Ini deal yang nggak bisa ditolak dong!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menunjukkan detail desain minimalis, tengah menunjukkan baju terpasang rapi, kanan menunjukkan pompa bekerja dengan cepat.",
+      "narration": "Dulu ada yang bilang desainnya simple, tapi jujur ini elegan banget dengan gaya minimalis yang bikin koper terlihat rapi. Peralatannya juga berfungsi dengan baik, langsung ngepres padahal pakaian yang dimasukkan banyak. Plus ukurannya pas, jadi di koper bisa muat banyak barang sekaligus, nggak perlu ribet lagi!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot seseorang sedang packing koper untuk liburan, tersenyum lega karena koper ringan dan tertutup sempurna.",
+      "narration": "Perfect buat yang sering travel atau punya gaya hidup on-the-go banget. Kalau aktivitas kamu sering keluar kota atau liburan, produk ini wajib banget ada di tas kamu biar packing jadi lebih efisien dan stylish!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up grafik rating 4.9 bintang, angka 30.000 terjual, dan bubble chat muncul dengan teks kutipan.",
+      "narration": "Nggak percaya? Lihat deh rating empat koma sembilan dari tiga puluh ribuan pembeli. Yang udah beli bilang plastik oke langsung ngepres padahal pakaian yang dimasukkan banyak, jadinya di koper bisa muat banyak!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol animasi besar dengan tulisan 'Cek Finding Dot ID' berdenyut, background warna-warni ceria.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#TravelHack",
+    "#PackingTips",
+    "#GenZTravel",
+    "#BudgetFriendly",
+    "#WajibBeli",
+    "#FindingDotID",
+    "#ViralProduk",
+    "#HematTempat"
+  ],
+  "product_id": 113215,
+  "product_title": "Paket Traveling 5 Plastik Vacuum Vakum Baju Vacuum Bag + NEW Pompa Angin listrik Travel Bag",
+  "product_price": "100000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/113215.jpg",
+    "/uploads/products/113215_1.jpg",
+    "/uploads/products/113215_2.jpg",
+    "/uploads/products/113215_3.jpg",
+    "/uploads/products/113215_4.jpg",
+    "/uploads/products/113215_5.jpg",
+    "/uploads/products/113215_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/113215",
+  "generated_at": "2026-03-14T04:16:31.202Z"
+}

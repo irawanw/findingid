@@ -1,0 +1,96 @@
+{
+  "title": "Foundation Tahan 24 Jam Cuma Dua Ratus Ribu?",
+  "hook_text": "Makeup Luntur Gara-Gara Panas?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah berkilau lalu cut ke wajah matte sempurna dengan efek transisi cepat",
+      "narration": "Makeup luntur gara-gara panas? --- No cap, foundation ini bakal ngeyel banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan botol Make Over Powerstay, tuangkan sedikit ke tangan lalu oles ke pipi",
+      "narration": "Ini Make Over Powerstay. Teksturnya literally ringan, nggak bikin muka berat kayak topeng."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga Rp 201.000 dengan efek teks besar, lalu bandingkan dengan harga mahal",
+      "narration": "Harganya cuma dua ratus nol-an aja. --- Worth it banget buat coverage semewah ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: show SPF icon, shade range swatch, dan test keringat",
+      "narration": "Coverage-nya medium, bisa di-build biar natural banget. Ada SPF 30 PA+++ buat protect kulit dari UV. Oily control-nya ngebut! Plus, ada 20 shade khusus kulit Indonesia!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model pergi ke acara outdoor atau jalan-jalan sambil membawa tas travel",
+      "narration": "Perfect buat kulit kombinasi atau berminyak. Kalau kamu sering traveling atau acara lama, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.91, teks '100.000+ Terjual', dan screenshot chat pembeli",
+      "narration": "Sudah laku 100 ribu kali, rating 4,91. --- Yang udah beli bilang, 'Teksturnya halus, ringan, coverage-nya oke banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah bawah atau layar HP yang menampilkan finding.id",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#MakeOver",
+    "#FoundationViral",
+    "#MakeupIndonesia",
+    "#SkincareHacks",
+    "#GenZBeauty",
+    "#MakeupMurah",
+    "#FindYourMakeup",
+    "#BeautyReview"
+  ],
+  "product_id": 102210,
+  "product_title": "[SPECIAL MASTERSHADE] MAKE OVER Powerstay 24H Weightless Liquid Foundation - High Coverage Wajah Flawless Ringan Poreless Oil Control Make Up Tahan Lama 24 Jam BEST SELLER Somethin Time Less w Maybe Euphoria",
+  "product_price": "201000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/102210.jpg",
+    "/uploads/products/102210_1.jpg",
+    "/uploads/products/102210_2.jpg",
+    "/uploads/products/102210_3.jpg",
+    "/uploads/products/102210_4.jpg",
+    "/uploads/products/102210_5.jpg",
+    "/uploads/products/102210_6.jpg",
+    "/uploads/products/102210_7.jpg",
+    "/uploads/products/102210_8.jpg",
+    "/uploads/products/102210_9.jpg",
+    "/uploads/products/102210_10.jpg",
+    "/uploads/products/102210_11.jpg",
+    "/uploads/products/102210_12.jpg",
+    "/uploads/products/102210_13.jpg",
+    "/uploads/products/102210_14.jpg",
+    "/uploads/products/102210_15.jpg",
+    "/uploads/products/102210_16.jpg",
+    "/uploads/products/102210_17.jpg",
+    "/uploads/products/102210_18.jpg",
+    "/uploads/products/102210_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/102210",
+  "generated_at": "2026-03-13T17:08:42.670Z"
+}

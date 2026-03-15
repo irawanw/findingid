@@ -1,0 +1,26 @@
+{
+  "name": "video",
+  "version": "1.0.0",
+  "main": "index.js",
+  "remotion": {
+    "entryPoint": "src/Root.tsx"
+  },
+  "scripts": {
+    "preview": "npx remotion studio src/Root.tsx",
+    "render": "npx remotion render src/Root.tsx ShortVideo ../scripts/output_86558.mp4 --codec=h264"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@remotion/bundler": "^4.0.434",
+    "@remotion/cli": "^4.0.434",
+    "@remotion/renderer": "^4.0.434",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.434"
+  }
+}

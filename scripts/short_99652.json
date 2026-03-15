@@ -1,0 +1,96 @@
+{
+  "title": "Palette Focallure Murah Meriah? Worth It?",
+  "hook_text": "Eyeshadow Murah Worth It Gak Sih?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up mata dengan eyeshadow natural, transisi cepat ke produk palette.",
+      "narration": "Eyeshadow murah, hasil bisa sekelas profesional?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase produk Focallure palette dibuka, tunjukkan 8 warna di dalam.",
+      "narration": "Ini dia Focallure 8-color palette yang lagi viral banget nih. Ada varian matte sama shimmer yang teksturnya silky banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga di layar dengan efek uang koin jatuh atau sticker harga.",
+      "narration": "Harganya bikin kaget bestie, mulai dari empat puluhan ribuan aja. Untuk varian lengkap mungkin sekitar dua ratusan ribuan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi swatch warna di tangan, tunjukkan tekstur creamy dan magnet tutup.",
+      "narration": "Pigmentasi high banget, satu sapuan langsung nongol. Blendable parah, nggak dempul di mata. Ada BPOMnya juga, jadi aman. Tekstur lembut, gampang dibaur. Kemasan mewah tutup magnetik, bikin mewah banget di tas kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot pelajar atau pekerja sedang makeup cepat di depan cermin kecil.",
+      "narration": "Perfect buat pelajar atau kamu yang lagi hemat tapi mau tampil glamor. Buat pemula juga aman banget karena aplikasinya gampang."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.93 dan jumlah terjual 40 ribu dengan teks besar.",
+      "narration": "Rating 4.93, laku 40 ribu pcs. Yang udah beli bilang 'kalem kok' --- Hati-hati cerminnya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah atau layar.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#Focallure",
+    "#EyeshadowMurah",
+    "#MakeupPemula",
+    "#WorthIt",
+    "#Findings.id",
+    "#KosmetikMurah",
+    "#MakeupViral",
+    "#BudgetFriendly"
+  ],
+  "product_id": 99652,
+  "product_title": "[NEW]FOCALLURE 8-color Eyeshadow Palette Matte Shimmer High Pigment Silky Texture",
+  "product_price": "40900.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/99652.jpg",
+    "/uploads/products/99652_1.jpg",
+    "/uploads/products/99652_2.jpg",
+    "/uploads/products/99652_3.jpg",
+    "/uploads/products/99652_4.jpg",
+    "/uploads/products/99652_5.jpg",
+    "/uploads/products/99652_6.jpg",
+    "/uploads/products/99652_7.jpg",
+    "/uploads/products/99652_8.jpg",
+    "/uploads/products/99652_9.jpg",
+    "/uploads/products/99652_10.jpg",
+    "/uploads/products/99652_11.jpg",
+    "/uploads/products/99652_12.jpg",
+    "/uploads/products/99652_13.jpg",
+    "/uploads/products/99652_14.jpg",
+    "/uploads/products/99652_15.jpg",
+    "/uploads/products/99652_16.jpg",
+    "/uploads/products/99652_17.jpg",
+    "/uploads/products/99652_18.jpg",
+    "/uploads/products/99652_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/99652",
+  "generated_at": "2026-03-13T23:06:18.421Z"
+}

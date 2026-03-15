@@ -1,0 +1,80 @@
+{
+  "title": "Celana Running Misty 7/8 Viral? Harga Cuman 60 Ribu!",
+  "hook_text": "Celana Running Cuma 60 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up celana Misty di pinggang, lalu shot full body model jalan santai.",
+      "narration": "Gila sih, celana running 7/8 ini harganya cuma enam puluhan ribu aja bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Zoom in material elastis yang ditarik, lalu tunjukkan saat dipakai lari.",
+      "narration": "Ini tuh celana Misty elastis tebal, cocok buat gym atau santai --- Bahannya comfort banget, nggak bikin gerah"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan layar harga Rp 67.999 dengan efek koin jatuh.",
+      "narration": "Harga termurah lima puluh delapan ribuan, sekarang stabil di enam puluhan ribu --- Worth it banget buat kualitas sekelas ini"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Show saku belakang, detail jahitan, dan bahan yang tebal.",
+      "narration": "Fiturnya next level --- Elastis banget, gerak leluasa --- Saku belakang aman buat nyimpen hp --- Bahan tebal nggak tembus pandang, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model jogging di taman pagi hari lalu duduk santai di rumah.",
+      "narration": "Perfect buat yang sering lari pagi atau nge-gym --- Kalau butuh celana olahraga fleksibel dan nggak ribet, ini solusinya"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan bintang rating 4.85, angka 30.000, dan screenshot chat pembeli.",
+      "narration": "Rating empat koma delapan lima dan sudah laku tiga puluh ribu! --- Yang udah beli bilang 'Bahan dan model sangat bagus' --- Ada yang bilang coretan dikit, mending cek barang dulu ya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pointing ke arah logo finding.id yang muncul di layar.",
+      "narration": "Penasaran detailnya? --- Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#CelanaRunning",
+    "#OlahragaMurah",
+    "#Misty78",
+    "#GymOutfit",
+    "#ViralIndonesia",
+    "#FindingID",
+    "#RekomendasiOlahraga",
+    "#GayaGenZ"
+  ],
+  "product_id": 55988,
+  "product_title": "Celana running pria celana 7/8 olahraga gym fitnes Misty elastis tebal",
+  "product_price": "67999.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/55988.jpg",
+    "/uploads/products/55988_1.jpg",
+    "/uploads/products/55988_2.jpg",
+    "/uploads/products/55988_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/55988",
+  "generated_at": "2026-03-13T21:40:40.641Z"
+}

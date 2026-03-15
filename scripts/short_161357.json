@@ -1,0 +1,83 @@
+{
+  "title": "Jam Tangan Kulit Wanita Cantik Banget! Worth It?",
+  "hook_text": "STOP! Jam tanganmu jelek?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up cepat jam tangan terlihat kusam di pergelangan tangan sambil menggelengkan kepala dengan ekspresi tidak percaya.",
+      "narration": "Gila sih bestie, kamu masih pakai jam tangan yang bikin tangan kelihatan nggak pede banget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi smooth ke jam tangan Berrybenka Bitha Janice Classic Watch yang berkilau di bawah cahaya matahari, diputar perlahan untuk menunjukkan detail kulitnya.",
+      "narration": "Hadirin the one! Berrybenka Bitha Janice Classic Watch. Desainnya literally so elegant, kulitnya premium dan nggak bikin tangan kering, which is worth it banget buat gaya kasual atau formal."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek 'pop', diikuti shot paket yang terlihat aman dan mewah.",
+      "narration": "Anda nggak perlu ngeluarin satu jutaan! Cukup seratus dua puluhan ribuan doang ya. Plus bungkus paketnya extra dablle, jadi nggak perlu takut pecah atau penyok waktu dikirim."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail tekstur kulit jam tangan, lalu transisi ke jam dipakai di lengan baju kerja yang rapi, terakhir shot jam dipakai saat nongkrong santai.",
+      "narration": "Tiga fitur juara nih: pertama kulit asli yang lembut nggak bikin iritasi, kedua desain timeless yang nggak akan outdated, dan ketiga strap-nya nyaman dipakai seharian nggak bikin pegel. Basically next level comfort!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: di kiri wanita pakai baju kantor, di kanan wanita pakai baju santai, keduanya memakai jam tangan yang sama dengan senyum percaya diri.",
+      "narration": "Perfect buat kamu yang kerjaan serba-serbi atau suka ganti-ganti outfit tiap hari. Kalau kamu sering cari aksesoris yang multifungsi dan bikin tampilan makin sophisticated, ini jawabannya dong."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.87 dan angka 20.000+ terjual dengan cepat, lalu teks kutipan muncul.",
+      "narration": "No cap, dua puluh ribuan udah terjual dan rating hampir lima bintang. Yang udah beli bilang wajib beli disiniii duh jamtangannya cantik sekaliii gemes lucuuu."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol 'Cek di finding.id' muncul dengan animasi menarik, latar belakang jam tangan yang berdenyut.",
+      "narrataion": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id sekarang!",
+  "hashtags": [
+    "#JamTanganWanita",
+    "#Berrybenka",
+    "#AksesorisKeren",
+    "#FashionIndonesia",
+    "#WorthIt",
+    "#OOTD",
+    "#ShoppingHacks",
+    "#FindingId"
+  ],
+  "product_id": 161357,
+  "product_title": "Berrybenka - Jam Tangan Kulit Wanita Bitha Janice Classic Watch",
+  "product_price": "122220.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/161357.jpg",
+    "/uploads/products/161357_1.jpg",
+    "/uploads/products/161357_2.jpg",
+    "/uploads/products/161357_3.jpg",
+    "/uploads/products/161357_4.jpg",
+    "/uploads/products/161357_5.jpg",
+    "/uploads/products/161357_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/161357",
+  "generated_at": "2026-03-15T02:24:38.177Z"
+}

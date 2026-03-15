@@ -1,0 +1,77 @@
+{
+  "title": "Dress Premium Cuma 140 Ribu? 😱",
+  "hook_text": "Harga dress ini beneran segini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget memegang dress, efek zoom in cepat",
+      "narration": "Asli bestie, dress premium ini harganya cuma segini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memutar badan pakai dress, tunjukkan detail bahan",
+      "narration": "Nomitee’s Vania Dress tanpa lengan ini literally so comfy banget di kulit."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, transisi cepat",
+      "narration": "Harga termurah di kisaran seratus empat puluhan ribu saja."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail tekstur kain stretch dan model A-Line, show fit",
+      "narration": "Bahannya premium knitted yang stretch, jadi pas banget di badan tanpa ngejegal --- Model A-Line ini flattering banget buat semua bentuk tubuh. Panjangnya maxi yang elegan, tapi tetap adem buat aktivitas seharian. Bahan stretch-nya nyaman dipakai."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model pakai dress ke cafe dan kantor, variasi gaya",
+      "narration": "Kalau kamu sering ke kantor atau mau jalan-jalan, ini jadi outfit andalan --- Bisa dipadukan blazer buat gaya lebih rapi dan stylish. Cocok banget buat kamu yang suka gaya minimalis."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tombol rating bintang 4.89 dan jumlah sold 30.000",
+      "narration": "Ratingnya tinggi banget, 4.89 dari 30.000 pembeli --- Yang udah beli bilang, \"nggak ngeletek kok, size large masih longgar buat BB 70kg\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie --- Review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#Nomitee",
+    "#VaniaDress",
+    "#DressMurah",
+    "#OOTDIndonesia",
+    "#FashionViral",
+    "#MaxiDress",
+    "#PromoFashion",
+    "#FindingID"
+  ],
+  "product_id": 83618,
+  "product_title": "Nomitee's Vania Dress Tanpa Lengan Premium Knitted",
+  "product_price": "147000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/83618.jpg"
+  ],
+  "product_link": "https://finding.id/p/83618",
+  "generated_at": "2026-03-13T18:07:27.535Z"
+}

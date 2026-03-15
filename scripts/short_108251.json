@@ -1,0 +1,83 @@
+{
+  "title": "Sabun Wangi Wangi Banget Bestie! ✨",
+  "hook_text": "Mandi biasa atau mandi mewah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah tersenyum lebar sambil memegang botol sabun Madame Gie di kamar mandi yang estetik dengan lampu neon",
+      "narration": "Stop scroll dulu dong bestie! Kamu mau mandi biasa aja atau mandi yang wangi dan bikin badan glowing?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Bundle 3 PCS Madame Gie diputar perlahan meneteskan air sabun yang creamy di atas keramik putih bersih",
+      "narration": "Nah ini dia jawabannya! Madame Gie Shower Glow, sabun mandi hypoallergenic yang aman banget buat kulit sensitif, literally so worth it!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar: 'Hanya Seratus Delapan Puluh-an Ribu' dengan efek confetti warna-warni meledak",
+      "narration": "Gila sih, bundle 3 pcs cuma seratus delapan puluh-an ribu, which is basically murah meriah banget untuk kualitas premium seperti ini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan tekstur sabun, kanan tunjukkan label hypoallergenic, lalu zoom in ke wangiannya",
+      "narration": "Pertama, teksturnya creamy dan lembut nggak bikin kulit kering sama sekali. Kedua, hypoallergenic jadi cocok buat seluruh jenis kulit tanpa iritasi. Ketiga, aromanya elegan dan pure rasa teh yang super fresh!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat: seseorang mandi sore setelah kerja, lalu langsung makeup ulang dengan hasil yang masih awet",
+      "narration": "Perfect buat kamu yang sering merasa kulit lengket atau butuh wangi tahan lama buat aktivitas seharian, basically next level!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.87 dan angka 20.000 terjual dengan quote bubble muncul di pojok",
+      "narration": "Rating empat koma delapan tujuh dengan dua puluh ribu produk terjual, pembelinya pada ngomong kemasannya oke aman dan suka banget sama wanginya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol animasi 'Cek Sekarang' mengarah ke logo finding.id dengan background warna cerah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#SabunMandi",
+    "#MadameGie",
+    "#SkincareRoutine",
+    "#WangiMewah",
+    "#Hipoalergenic",
+    "#SkincareIndonesia",
+    "#BeautyHack",
+    "#FindingId"
+  ],
+  "product_id": 108251,
+  "product_title": "[BUNDLE 3 PCS] Madame Gie Shower Glow - Hypoallergenic Sabun Mandi",
+  "product_price": "50000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/108251.jpg",
+    "/uploads/products/108251_1.jpg",
+    "/uploads/products/108251_2.jpg",
+    "/uploads/products/108251_3.jpg",
+    "/uploads/products/108251_4.jpg",
+    "/uploads/products/108251_5.jpg",
+    "/uploads/products/108251_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/108251",
+  "generated_at": "2026-03-14T11:16:01.164Z"
+}

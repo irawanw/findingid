@@ -1,0 +1,83 @@
+{
+  "title": "Sepatu 200 Ribu Bisa Keren Banget?",
+  "hook_text": "Mau sneakers branded tapi budget pas-pasan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up sepatu dengan text overlay harga besar di tengah layar",
+      "narration": "Mau sneakers branded tapi budget pas-pasan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan membuka kotak sepatu, lalu shot produk utuh dari samping",
+      "narration": "Panarybody QN351 ini solusinya, bestie. --- Desain matte elegan, literally macho banget buat cowok kekinian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay angka harga besar muncul di layar dengan efek zoom",
+      "narration": "Harga aslinya pernah seratus tujuh puluh ribuan dong. --- Worth it banget buat kamu cari kualitas mirip branded tanpa bikin kantong bolong."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase orang jalan santai, fokus ke sol dan material sepatu",
+      "narration": "Fiturnya no cap, pertama super ringan banget dipakai seharian. --- Kedua, bahannya nyaman dan adem. --- Ketiga, desainnya modern dan keren."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang pakai sepatu ke kampus atau kantor dengan gaya santai",
+      "narration": "Cocok banget buat aktivitas harian, sekolah, atau ngelamar kerja. --- Cuma intip fisik barangnya dulu ya, biar nggak ada cacat produksi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 5 dan jumlah terjual muncul di layar",
+      "narration": "Rating 4,89, terjual 30.000 unit. --- Yang udah beli bilang 'Mending beli ini ORI daripada beli branded mahal'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah menunjuk ke bawah layar",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SneakersMurah",
+    "#OOTD Pria",
+    "#Panarybody",
+    "#SepatuKeren",
+    "#ViralIndonesia",
+    "#RekomendasiProduk",
+    "#FindingId",
+    "#GayaKekinian"
+  ],
+  "product_id": 21326,
+  "product_title": "PANARYBODY Sepatu Pria Sneakers Kasual Santai Sepatu QN351  Sneakers Cowok Bertali  Men Sneakers Casual Hangout Traveling",
+  "product_price": "203000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21326.jpg",
+    "/uploads/products/21326_1.jpg",
+    "/uploads/products/21326_2.jpg",
+    "/uploads/products/21326_3.jpg",
+    "/uploads/products/21326_4.jpg",
+    "/uploads/products/21326_5.jpg",
+    "/uploads/products/21326_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/21326",
+  "generated_at": "2026-03-13T17:07:13.028Z"
+}

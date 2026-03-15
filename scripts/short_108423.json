@@ -1,0 +1,83 @@
+{
+  "title": "Tas Lari Anti Ribet Bestie!",
+  "hook_text": "Gak Pake Gendong Lagi?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah pelari yang terlihat lega tanpa tas besar.",
+      "narration": "Lari bawa HP ribet? Stop scroll bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tas Nu Fit berwarna hitam dan abu ditampilkan di pinggang model.",
+      "narration": "Kenalin, ini Nu Fit Running Belt. Tas pinggang warna hitam dan abu. Nggak perlu lagi tas besar yang bikin gerah. Bebas gerak maksimal."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar dengan efek animasi seru.",
+      "narration": "Harga cuma lima puluhan ribu aja. literally worth it banget buat fitur selevel ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo memasukkan HP dan power bank, lalu menarik elastisitas bahan.",
+      "narration": "Bahan Lycra adem banget dan elastis tinggi --- Desainnya nggak bergelantungan pas lari. Muat HP, power bank, kunci, bahkan botol 300ml."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model lari santai di taman sambil tersenyum.",
+      "narration": "Cocok buat kamu yang sering jogger atau gym --- Perfect buat yang nggak mau ribet pegang barang. Tapi inget, bahan agak tebal. Pastikan ukurannya pas ya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 5 dan teks 50.000 terjual.",
+      "narration": "Sudah laku 50 ribu item. Rating 4,94. Yang udah beli bilang, 'Berasa nggak pakai apa-apa tapi HP aman semua. Gak goyang-goyang'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id dan panah menunjuk ke arah pencarian.",
+      "narration": "Mau tau detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana! Jangan sampai kehabisan."
+    }
+  ],
+  "cta": "Mau tau detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana! Jangan sampai kehabisan.",
+  "hashtags": [
+    "#taslari",
+    "#runningbelt",
+    "#nuFit",
+    "#olahraga",
+    "#fyp",
+    "#produkviral",
+    "#jaksel",
+    "#findingid"
+  ],
+  "product_id": 108423,
+  "product_title": "Nu Fit - (HITAM dan ABU) Tas Lari Pria - Tas Pinggang Olahraga - Tas Pinggang Multi Fungsi - Running Belt High Elasticity - Tas Running Pria",
+  "product_price": "48900.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/108423.jpg",
+    "/uploads/products/108423_1.jpg",
+    "/uploads/products/108423_2.jpg",
+    "/uploads/products/108423_3.jpg",
+    "/uploads/products/108423_4.jpg",
+    "/uploads/products/108423_5.jpg",
+    "/uploads/products/108423_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/108423",
+  "generated_at": "2026-03-13T23:01:01.251Z"
+}

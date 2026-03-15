@@ -1,0 +1,86 @@
+{
+  "title": "Sepatu Pantofel Pria Murah Banget! Worth It?",
+  "hook_text": "Hitam premium cuma seratusan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up slow motion sepatu pantofel hitam yang mengkilap dengan efek zoom in dramatis.",
+      "narration": "Guys, siap-siap stop scrolling! Kira-kira sepatu kantor kulit asli bisa dapet di harga seratusan aja?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide menampilkan model pria memakai sepatu tersebut di kantor dengan gaya confident, transisi cepat ke detail tekstur kulit.",
+      "narration": "Nggak main-main, ini Zeintin pantofel kulit sintetis premium! Tampilannya literally next level, rapi banget buat meeting atau outfit formal."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul menampilkan angka harga rendah dengan efek confetti, diikuti shot produk di atas meja kayu.",
+      "narration": "Beneran worth it banget guys, harganya cuma seratus dua puluhan ribu aja! Mulai dari seratus dua puluh empat ribu, nggak perlu seratus empat puluh atau lebih!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menunjukkan kaki melangkah nyaman (wide fit), kanan menapak di aspal/licin (outsole TPR), dan close up finishing rapi.",
+      "narration": "First, wide fit friendly banget buat kaki lebar, nggak sempit! Second, outsole TPR-nya nggak licin woi, aman banget jalan di lantai marmer atau aspal. Third, finishingnya rapih dan nggak ada cacet!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat: pria mengetik di laptop, pria sedang presentasi, dan pria bersalaman di kantor.",
+      "narration": "Perfect buat kamu yang kerjaan kantor setiap hari! Atau kalau aktivitasmu sering rapat dan butuh sepatu yang bikin percaya diri seketika, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang lima dan angka terjual 30 ribuan muncul di layar dengan efek pop-up.",
+      "narration": "No cap, rating empat koma delapan dan tiga puluh ribu produk udah terjual! Yang udah beli bilang packingnya aman dan pengiriman super cepet!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah mengarah ke bawah atau teks besar 'CEK DI FINDING DOT ID' dengan background warna brand.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya!",
+  "hashtags": [
+    "#Zeintin",
+    "#SepatuPantofel",
+    "#OOTD",
+    "#KantorStyle",
+    "#SepatuPriaMurah",
+    "#FashionIndonesia",
+    "#ShoppingHacks",
+    "#WorthIt"
+  ],
+  "product_id": 23961,
+  "product_title": "Zeintin - Sepatu Pantofel Hitam Pria Formal Kantor Leather Swedian Premium BJ",
+  "product_price": "174965.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/23961.jpg",
+    "/uploads/products/23961_1.jpg",
+    "/uploads/products/23961_2.jpg",
+    "/uploads/products/23961_3.jpg",
+    "/uploads/products/23961_4.jpg",
+    "/uploads/products/23961_5.jpg",
+    "/uploads/products/23961_6.jpg",
+    "/uploads/products/23961_7.jpg",
+    "/uploads/products/23961_8.jpg",
+    "/uploads/products/23961_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/23961",
+  "generated_at": "2026-03-14T12:04:47.900Z"
+}

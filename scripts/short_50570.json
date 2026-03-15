@@ -1,0 +1,83 @@
+{
+  "title": "Karpet Masjid Viral 100 Ribuan! Worth It Banget",
+  "hook_text": "Karpet Masjid 100 Ribuan? Worth It?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Zoom in cepat ke karpet dengan efek cahaya dramatis, teks besar muncul",
+      "narration": "Karpet masjid 100 ribuan? --- No cap, ini viral banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase produk roll digulung dan dibuka, tunjukkan tekstur permukaan",
+      "narration": "Ini MEDGRA SHABEL, tebal 9mm, roll gampang dibawa kemana-mana."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga di layar dengan efek koin jatuh, ekspresi kaget",
+      "narration": "Harganya cuma seratus lima ribuan, --- which is worth it banget buat kualitas gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close-up kaki di atas karpet, demonstrasi pembersihan debu",
+      "narration": "Fiturnya literally next level: --- bahan gak licin, gampang dibersihin, dan empuk banget buat sujud tanpa bikin lutut sakit. --- Beneran nyaman, which is super worth it."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario mushola rumah sepi dengan orang sujud nyaman",
+      "narration": "Perfect buat kamu yang punya mushola rumah --- atau butuh tambahan shaf buat acara spesial."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating 4.9 dan jumlah terjual 30k, teks kutipan pembeli",
+      "narration": "Udah laku 30 ribuan, rating 4.9! --- Yang udah beli bilang 'Alhamdulillah puas banget, mau order lagi'. --- Tapi hati-hati, ada yang bilang ukurannya dikit kurang presisi sama lainnya. --- Jadi pastikan pas ya di mushola biar nggak gatel mata."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke tombol",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#KarpetMasjid",
+    "#Viral",
+    "#Alhadi",
+    "#Mushola",
+    "#Furnitur",
+    "#GenZ",
+    "#FindingId",
+    "#Rekomendasi"
+  ],
+  "product_id": 50570,
+  "product_title": "Alhadi Karpet Masjid MEDGRA SHABEL METERAN Uk. 100 x 115cm Tebal 9mm Sajadah Roll Mushola Bestseller",
+  "product_price": "105000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/50570.jpg",
+    "/uploads/products/50570_1.jpg",
+    "/uploads/products/50570_2.jpg",
+    "/uploads/products/50570_3.jpg",
+    "/uploads/products/50570_4.jpg",
+    "/uploads/products/50570_5.jpg",
+    "/uploads/products/50570_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/50570",
+  "generated_at": "2026-03-13T19:41:01.186Z"
+}

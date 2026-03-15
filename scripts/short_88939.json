@@ -1,0 +1,110 @@
+{
+  "title": "Sandal Tinggi 50ribuan! Worth it Banget",
+  "hook_text": "Mau Tinggi Instan Tapi Nggak Sakit Kaki?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up kaki memakai sandal wedges dengan efek zoom cepat dan teks overlay besar",
+      "narration": "Kamu sering ngeles kalau mau terlihat tinggi tapi takut sakit kaki seharian? --- Tenang bestie, ini solusinya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Showcase produk ELFELDE Sandal Kodok Wantia dari berbagai angle dengan musik upbeat",
+      "narration": "Tenang bestie, ELFELDE Sandal Kodok Wantia ini jawabannya, design wedges Korea yang literally super cute dan bikin gaya kamu jadi next level banget. --- Bahan EVA-nya ringan banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks harga muncul besar di layar dengan efek 'Wow' dan uang koin jatuh",
+      "narration": "Harganya mulai dari lima puluh ribu rupiah sampai tujuh puluh dua ribu rupiah aja, which is literally murah banget for quality seini. --- Murah tapi kualitasnya nggak murahan ya!"
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Demo fitur: sol anti slip, bahan empuk, dan sol dalam dilepas",
+      "narration": "Sol out-sole anti slip bikin nggak gampang terpeleset, bahan EVA yang ringan dan empuk banget, plus sol dalam bisa dilepas supaya nggak nahan air dan berbau di kaki. --- Kamu bisa bersihin gampang banget ya. --- Fitur anti slip ini no cap aman!"
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "List poin-poin keunggulan muncul satu per satu dengan efek checkmark hijau",
+      "narration": "Pertama, bahan EVA yang ringan banget dan empuk di kaki. Kedua, desain wedges tinggi yang ngangkat postur kamu biar kelihatan lebih anggun. Ketiga, sol dalam bisa dilepas untuk kebersihan maksimal. Keempat, fitur anti slip yang no cap aman banget buat jalan. --- Bonus lagi ada Jibbitz gratis, which is so cool."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Wanita sedang beraktivitas santai di luar rumah dan tersenyum senang",
+      "narration": "Perfect buat kamu yang sering aktivitas di luar rumah dan butuh tinggi instan. Oh iya, kalau review bilang kegedean, saranin turunin setengah ukuran ya biar pas di kaki. --- Jadi jangan salah pilih ukuran ya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Tampilan rating bintang 4.83 dan angka 40.000 terjual dengan efek animasi naik",
+      "narration": "Ratingnya empat koma delapan tiga dari lima bintang dengan total penjualan empat puluh ribu produk. Ada yang bilang 'bahan nyaman untuk dipakai' dan 'pengiriman cepat' banget. --- Buktinya nggak bohong ya!"
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Grid 4 gambar varian warna (Hitam, Putih, Kuning, Putih Bintang)",
+      "narration": "Varian warnanya ada hitam, putih, kuning, dan putih bintang, pilih sesuai mood kamu hari ini. --- Semua warnanya aesthetic banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tombol klik di layar dan panah menunjuk ke arah link di deskripsi",
+      "narration": "Klik link di deskripsi sekarang dan dapatkan promo terbaiknya sebelum kehabisan. --- Gas sekarang bestie!"
+    }
+  ],
+  "cta": "Klik link di deskripsi untuk beli sekarang!",
+  "hashtags": [
+    "#SandalWanita",
+    "#ELFELDE",
+    "#SepatuViral",
+    "#OOTDIndonesia",
+    "#SandalKodok",
+    "#WedgesCantik",
+    "#RekomendasiSepatu",
+    "#PromoMurah"
+  ],
+  "product_id": 88939,
+  "product_title": "ELFELDE Sandal Kodok Wantia Dewasa Sandal Baim EVA Wanita Sandal Fuji Korea Sepatu Jelly Wanita",
+  "product_price": "50001.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/88939.jpg",
+    "/uploads/products/88939_1.jpg",
+    "/uploads/products/88939_2.jpg",
+    "/uploads/products/88939_3.jpg",
+    "/uploads/products/88939_4.jpg",
+    "/uploads/products/88939_5.jpg",
+    "/uploads/products/88939_6.jpg",
+    "/uploads/products/88939_7.jpg",
+    "/uploads/products/88939_8.jpg",
+    "/uploads/products/88939_9.jpg",
+    "/uploads/products/88939_10.jpg",
+    "/uploads/products/88939_11.jpg",
+    "/uploads/products/88939_12.jpg",
+    "/uploads/products/88939_13.jpg",
+    "/uploads/products/88939_14.jpg",
+    "/uploads/products/88939_15.jpg",
+    "/uploads/products/88939_16.jpg",
+    "/uploads/products/88939_17.jpg",
+    "/uploads/products/88939_18.jpg",
+    "/uploads/products/88939_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/88939",
+  "generated_at": "2026-03-12T19:24:38.912Z"
+}

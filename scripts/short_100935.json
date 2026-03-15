@@ -1,0 +1,94 @@
+{
+  "title": "Foundation Korea Viral: Flawless 72 Jam!",
+  "hook_text": "Wajah Flawless Tanpa Filter?",
+  "estimated_duration": 75,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing tanpa filter, teks JENG JENG 🎉 muncul",
+      "narration": "Gimana kalau bilang wajah glowing tanpa filter itu nyata?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk TIRTIR Mask Fit Red Cushion dipegang tangan dengan background estetik",
+      "narration": "Kalian wajib tau nih, TIRTIR Mask Fit Red Cushion. Ini dia foundation Korea yang literally next level."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga dua ratus empat puluh sembilan ribu sembilan ratus saja muncul besar",
+      "narration": "Harganya bisa dapet di dua ratus empat puluh sembilan ribu sembilan ratus saja, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 20,
+      "visual": "Video aplikasi cushion di wajah dengan efek semi matte terlihat jelas",
+      "narration": "Tahan tujuh puluh dua jam, finish semi matte yang flawless, and basically cocok buat semua jenis kulit kalian."
+    },
+    {
+      "id": "proof",
+      "start_s": 45,
+      "duration_s": 15,
+      "visual": "Rating bintang empat koma sembilan enam dan screenshot review asli muncul",
+      "narration": "Rating empat koma sembilan enam, sudah jual seratus ribu produk. Review bilang 'Berat: ringan kalo makenya tipis' plus 'auto glowing & flawless'. Ada yang komplain crack? Tenang, kuncinya di prep dan set complexion yang benar ya, bestie."
+    },
+    {
+      "id": "colors",
+      "start_s": 60,
+      "duration_s": 10,
+      "visual": "Swatch warna 21N dan 23N di lengan, tunjukkan perbandingan",
+      "narration": "Varian warnanya banyak banget, 21N buat yang fair, 23N buat yang medium. Tips buat yang merasa 21N agak keterangan bisa pilih shade lebih gelap ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 70,
+      "duration_s": 5,
+      "visual": "Tangan menunjuk ke bawah, teks KLIK LINK SEKARANG",
+      "narration": "Mau coba? Klik link di bawah sekarang, sebelum kehabisan stok!"
+    }
+  ],
+  "cta": "Klik link di bawah sekarang, sebelum kehabisan stok!",
+  "hashtags": [
+    "#TIRTIR",
+    "#FoundationKorea",
+    "#MakeupViral",
+    "#SkincareIndonesia",
+    "#CushionFoundation",
+    "#BeautyHacks",
+    "#ViralShorts",
+    "#MakeupTips"
+  ],
+  "product_id": 100935,
+  "product_title": "TIRTIR Mask Fit Red Cushion 18g",
+  "product_price": "249900.00",
+  "product_images": [
+    "/uploads/products/100935.jpg",
+    "/uploads/products/100935_1.jpg",
+    "/uploads/products/100935_2.jpg",
+    "/uploads/products/100935_3.jpg",
+    "/uploads/products/100935_4.jpg",
+    "/uploads/products/100935_5.jpg",
+    "/uploads/products/100935_6.jpg",
+    "/uploads/products/100935_7.jpg",
+    "/uploads/products/100935_8.jpg",
+    "/uploads/products/100935_9.jpg",
+    "/uploads/products/100935_10.jpg",
+    "/uploads/products/100935_11.jpg",
+    "/uploads/products/100935_12.jpg",
+    "/uploads/products/100935_13.jpg",
+    "/uploads/products/100935_14.jpg",
+    "/uploads/products/100935_15.jpg",
+    "/uploads/products/100935_16.jpg",
+    "/uploads/products/100935_17.jpg",
+    "/uploads/products/100935_18.jpg",
+    "/uploads/products/100935_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/100935",
+  "generated_at": "2026-03-11T19:35:09.323Z"
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Termometer Bayi Akurat? Cek Ini Dulu!",
+  "hook_text": "Suhu nggak akurat?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah panik pegang termometer lalu zoom out ke produk OMRON MC-343F di atas meja kayu",
+      "narration": "Kamu pernah ketemu termometer yang hasil ukurannya selisih banget, which is bikin panik banget pas lagi demam?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Show produk OMRON MC-343F diputar-putar menunjukkan desainnya yang compact dan ujungnya yang unik",
+      "narration": "Stop stressing, bestie! Ini OMRON MC-343F, termometer digital yang nggak cuma cepat tapi juga super akurat, literally worth it banget buat kesehatan keluarga kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan angka 102 ribuan dengan efek getar dan tanda seru",
+      "narration": "Gila, kamu bisa dapat fitur premium ini cuma sekitar seratus dua puluhan ribuan doang? Basically next level value for money!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Teks '1 Detik' muncul saat simulasi pengukuran cepat, 2. Close up ujung fleksibel melengkung, 3. Layar LCD besar dan terang",
+      "narration": "Pertama, hasil suhu muncul dalam hitungan detik, nggak perlu nunggu lama-lama. Kedua, ujungnya fleksibel banget, jadi pas buat ukur rektal atau bayi yang rewel, nggak ngeri. Dan ketiga, layarnya super terang dan jelas, which is super helpful buat baca di kamar gelap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage ibu memegang bayi lucu, lalu transisi ke orang dewasa cek suhu di kantor",
+      "narration": "Perfect buat yang baru punya new born atau keluarga yang sering ada anggota sakit-sakitan. Kalau kamu sering khawatir soal demam mendadak, alat ini wajib ada di dompetmu!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.93 dan angka 30.000 terjual, plus teks quote muncul di samping",
+      "narration": "Nggak percaya? Lihat sendiri, rating 4.93 dan sudah terjual tiga puluh ribuan unit! Yang udah beli bilang alatnya berfungsi dengan baik dan cocok untuk semua usia."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah menunjuk ke bawah, musik naik tempo",
+      "narration": "Penasaran mau cek detail lengkap dan stoknya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#OMRONMC343F",
+    "#TermometerAkurat",
+    "#ViralShorts",
+    "#ReviewProduk",
+    "#HealthTips",
+    "#HematDuit",
+    "#IbuBunda",
+    "#KesehatanKeluarga"
+  ],
+  "product_id": 19294,
+  "product_title": "OMRON Digital Thermometer MC-343F",
+  "product_price": "102000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/19294.jpg",
+    "/uploads/products/19294_1.jpg",
+    "/uploads/products/19294_2.jpg",
+    "/uploads/products/19294_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/19294",
+  "generated_at": "2026-03-14T06:44:53.591Z"
+}

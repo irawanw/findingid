@@ -1,0 +1,96 @@
+{
+  "title": "Kompor Camping Murah Meriah? Cuma 15 Ribu!",
+  "hook_text": "Kompor camping cuma seharga seblak?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up kompor mini dengan api menyala di tengah alam terbuka sambil teks besar muncul di layar.",
+      "narration": "Kompor camping cuma seharga seblak?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Rotasi 360 derajat produk Kompor KP8301 dari berbagai sisi dengan pencahayaan cinematic.",
+      "narration": "Kenalin nih, Kompor KP8301 Windproof Portable Gas Stove Mini. Alat masak gunung yang next level banget buat kalian!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar bersamaan dengan animasi uang koin jatuh ke kompor.",
+      "narration": "Harganya? Mulai dari lima belas ribuan doang. Literally murah meriah, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: api stabil di angin, kompor dilipat kecil, dan kompor diletakkan di atas batu.",
+      "narration": "Fiturnya apa? Pertama, windproof alias tahan angin. --- Kedua, ukurannya kecil simple gampang dibawa kemana saja. --- Ketiga, bahan kokoh yang worth it banget buat outdoor adventure."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang memasak mie instan di tenda atau di pinggir jalan saat hiking.",
+      "narration": "Perfect buat yang suka hiking, berkemah, atau cuma mau masak mie instan di kosan. Nggak ribet banget, bestie!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.8 dan angka 40.000 terjual dengan animasi confetti.",
+      "narration": "Rating 4.8 dari 40.000-an pembeli! --- Yang sudah beli bilang 'kecil simple dan bagus banget'. --- Ada yang bilang penyok dikit di tempat masang, tapi tetep fungsional kok."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke bawah dengan teks 'Cek di Finding ID' dan logo website.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#komporcamping",
+    "#alatmasak",
+    "#hikingindonesia",
+    "#campingmurah",
+    "#outdoorgear",
+    "#lifehack",
+    "#findingid",
+    "#viral"
+  ],
+  "product_id": 140118,
+  "product_title": "Kompor Camping KP8301 Windproof Portable Gas Stove Mini Alat Masak Camping Gunung Hiking Outdoor",
+  "product_price": "15000.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/140118.jpg",
+    "/uploads/products/140118_1.jpg",
+    "/uploads/products/140118_2.jpg",
+    "/uploads/products/140118_3.jpg",
+    "/uploads/products/140118_4.jpg",
+    "/uploads/products/140118_5.jpg",
+    "/uploads/products/140118_6.jpg",
+    "/uploads/products/140118_7.jpg",
+    "/uploads/products/140118_8.jpg",
+    "/uploads/products/140118_9.jpg",
+    "/uploads/products/140118_10.jpg",
+    "/uploads/products/140118_11.jpg",
+    "/uploads/products/140118_12.jpg",
+    "/uploads/products/140118_13.jpg",
+    "/uploads/products/140118_14.jpg",
+    "/uploads/products/140118_15.jpg",
+    "/uploads/products/140118_16.jpg",
+    "/uploads/products/140118_17.jpg",
+    "/uploads/products/140118_18.jpg",
+    "/uploads/products/140118_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/140118",
+  "generated_at": "2026-03-13T21:21:37.071Z"
+}

@@ -1,0 +1,1093 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cemilan Snack Mix 4 Rasa – Analisis AI | finding.id</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --orange:    #F97316;
+  --orange-d:  #EA580C;
+  --orange-l:  #FFF8F3;
+  --orange-m:  #FED7AA;
+  --ink-1:     #0F172A;
+  --ink-2:     #1E293B;
+  --ink-3:     #475569;
+  --ink-4:     #94A3B8;
+  --bg:        #FAFAFA;
+  --bg-card:   #FFFFFF;
+  --line:      #E2E8F0;
+  --ok:        #10B981;
+  --radius:    12px;
+  --shadow:    0 2px 12px rgba(0,0,0,.07);
+  --shadow-lg: 0 8px 32px rgba(0,0,0,.10);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'JetBrains Mono', monospace;
+  background: var(--bg);
+  color: var(--ink-2);
+  min-height: 100vh;
+}
+
+/* ── Nav ───────────────────────────────────────────────────── */
+.nav {
+  background: #fff;
+  border-bottom: 1px solid var(--line);
+  padding: 14px 24px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.nav-logo {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--orange);
+  text-decoration: none;
+  letter-spacing: -0.5px;
+}
+.nav-logo span { color: var(--ink-1); }
+.nav-sep { color: var(--ink-4); font-size: 12px; }
+.nav-crumb { font-size: 11px; color: var(--ink-3); }
+.nav-badge {
+  margin-left: auto;
+  background: var(--orange-l);
+  color: var(--orange-d);
+  font-size: 10px;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 20px;
+  border: 1px solid var(--orange-m);
+  letter-spacing: 0.5px;
+}
+
+/* ── Layout ────────────────────────────────────────────────── */
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 32px 20px 64px;
+}
+
+/* ── Product hero ──────────────────────────────────────────── */
+.hero {
+  display: grid;
+  grid-template-columns: 420px 1fr;
+  gap: 32px;
+  margin-bottom: 40px;
+}
+
+.hero-img-wrap {
+  position: relative;
+}
+.hero-img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: var(--radius);
+  background: var(--orange-l);
+  display: block;
+}
+.hero-badge-hot {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  background: var(--orange);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 20px;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+}
+
+.hero-info {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-top: 4px;
+}
+
+.category-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--orange-l);
+  color: var(--orange-d);
+  font-size: 11px;
+  font-weight: 600;
+  padding: 4px 12px;
+  border-radius: 20px;
+  border: 1px solid var(--orange-m);
+  width: fit-content;
+}
+
+.product-title {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.45;
+  color: var(--ink-1);
+  letter-spacing: -0.3px;
+}
+
+.meta-row {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.stars {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.star-filled { color: #F59E0B; font-size: 15px; }
+.star-empty  { color: var(--line); font-size: 15px; }
+.rating-num  { font-weight: 700; font-size: 14px; color: var(--ink-1); margin-left: 2px; }
+.rating-sep  { color: var(--line); }
+.sold-count  { font-size: 12px; color: var(--ink-3); }
+.halal-badge {
+  background: #ECFDF5;
+  color: #059669;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 20px;
+  border: 1px solid #A7F3D0;
+  letter-spacing: 0.5px;
+}
+
+.price-row {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+.price-main {
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--orange);
+  letter-spacing: -1px;
+}
+.price-per {
+  font-size: 11px;
+  color: var(--ink-3);
+}
+
+.variants {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.variant-chip {
+  padding: 6px 14px;
+  border-radius: 8px;
+  border: 1.5px solid var(--line);
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--ink-2);
+  cursor: default;
+  transition: all .15s;
+}
+.variant-chip.active,
+.variant-chip:hover {
+  border-color: var(--orange);
+  color: var(--orange);
+  background: var(--orange-l);
+}
+
+.spec-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.spec-item {
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 10px 14px;
+}
+.spec-label { font-size: 10px; color: var(--ink-4); margin-bottom: 3px; letter-spacing: 0.5px; text-transform: uppercase; }
+.spec-value { font-size: 13px; font-weight: 600; color: var(--ink-1); }
+
+/* ── CTA Button ────────────────────────────────────────────── */
+.cta-wrap {
+  margin-top: 4px;
+}
+.cta-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  padding: 16px 24px;
+  background: linear-gradient(135deg, var(--orange) 0%, var(--orange-d) 100%);
+  color: #fff;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px;
+  font-weight: 700;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  text-decoration: none;
+  letter-spacing: 0.3px;
+  box-shadow: 0 4px 16px rgba(249,115,22,.35);
+  transition: all .2s;
+}
+.cta-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(249,115,22,.45);
+}
+.cta-btn svg { flex-shrink: 0; }
+.cta-sub {
+  text-align: center;
+  font-size: 10px;
+  color: var(--ink-4);
+  margin-top: 8px;
+}
+
+/* ── AI Analysis ────────────────────────────────────────────── */
+.section {
+  margin-bottom: 40px;
+}
+.section-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.section-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--ink-1);
+  letter-spacing: -0.3px;
+}
+.ai-badge {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  background: linear-gradient(135deg, #667EEA, #764BA2);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 20px;
+  letter-spacing: 0.5px;
+}
+.ai-badge::before {
+  content: '';
+  width: 6px;
+  height: 6px;
+  background: #fff;
+  border-radius: 50%;
+  animation: pulse-dot 1.5s ease-in-out infinite;
+}
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: .5; transform: scale(.8); }
+}
+
+.ai-card {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.ai-section {
+  padding: 20px 24px;
+  border-bottom: 1px solid var(--line);
+}
+.ai-section:last-child { border-bottom: none; }
+
+.ai-section-label {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--orange);
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.ai-section-label::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--orange-m);
+}
+
+.ai-text {
+  font-size: 13px;
+  line-height: 1.75;
+  color: var(--ink-2);
+}
+.ai-text strong { color: var(--ink-1); font-weight: 600; }
+
+.pros-cons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+.pros-list, .cons-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.pro-item, .con-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--ink-2);
+}
+.pro-icon { color: var(--ok); font-size: 14px; flex-shrink: 0; margin-top: 1px; }
+.con-icon { color: #EF4444; font-size: 14px; flex-shrink: 0; margin-top: 1px; }
+
+.verdict-box {
+  background: linear-gradient(135deg, #FFF8F3 0%, #FEF3C7 100%);
+  border: 1px solid var(--orange-m);
+  border-radius: 10px;
+  padding: 16px 20px;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--ink-2);
+}
+.verdict-box strong { color: var(--orange-d); }
+
+/* ── Score bar ──────────────────────────────────────────────── */
+.score-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.score-item { display: flex; flex-direction: column; gap: 6px; }
+.score-label-row { display: flex; justify-content: space-between; align-items: center; }
+.score-label { font-size: 11px; color: var(--ink-3); font-weight: 500; }
+.score-num   { font-size: 12px; font-weight: 700; color: var(--ink-1); }
+.score-bar   { height: 6px; background: var(--line); border-radius: 99px; overflow: hidden; }
+.score-fill  {
+  height: 100%;
+  border-radius: 99px;
+  background: linear-gradient(90deg, var(--orange), var(--orange-d));
+  transition: width 1s ease;
+}
+
+/* ── Reviews ────────────────────────────────────────────────── */
+.review-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+.review-col-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+}
+.review-col-head.good { color: var(--ok); }
+.review-col-head.bad  { color: #EF4444; }
+.review-col-head svg  { flex-shrink: 0; }
+
+.review-card {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  transition: box-shadow .15s;
+}
+.review-card:hover { box-shadow: var(--shadow); }
+.review-card.good  { border-left: 3px solid var(--ok); }
+.review-card.bad   { border-left: 3px solid #EF4444; }
+
+.review-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+.review-user {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--ink-2);
+}
+.review-stars {
+  display: flex;
+  gap: 1px;
+  font-size: 11px;
+}
+.r-star-on  { color: #F59E0B; }
+.r-star-off { color: var(--line); }
+
+.review-text {
+  font-size: 12px;
+  line-height: 1.65;
+  color: var(--ink-3);
+}
+.review-tag {
+  display: inline-block;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 2px 8px;
+  font-size: 10px;
+  color: var(--ink-3);
+  font-weight: 500;
+}
+.review-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 2px;
+}
+.review-summary-bar {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 18px 24px;
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  margin-bottom: 20px;
+  box-shadow: var(--shadow);
+}
+.review-big-rating {
+  text-align: center;
+  flex-shrink: 0;
+}
+.review-big-num {
+  font-size: 40px;
+  font-weight: 700;
+  color: var(--ink-1);
+  line-height: 1;
+  letter-spacing: -2px;
+}
+.review-big-stars {
+  display: flex;
+  justify-content: center;
+  gap: 2px;
+  margin: 6px 0 4px;
+  font-size: 16px;
+}
+.review-big-count { font-size: 11px; color: var(--ink-4); }
+.review-sep { width: 1px; background: var(--line); align-self: stretch; }
+.review-dist { flex: 1; display: flex; flex-direction: column; gap: 5px; }
+.review-dist-row { display: flex; align-items: center; gap: 8px; }
+.review-dist-label { font-size: 10px; color: var(--ink-3); width: 32px; flex-shrink: 0; }
+.review-dist-bar { flex: 1; height: 5px; background: var(--line); border-radius: 99px; overflow: hidden; }
+.review-dist-fill { height: 100%; border-radius: 99px; background: #F59E0B; }
+.review-dist-count { font-size: 10px; color: var(--ink-4); width: 16px; text-align: right; flex-shrink: 0; }
+
+@media (max-width: 768px) {
+  .review-grid { grid-template-columns: 1fr; }
+  .review-summary-bar { flex-direction: column; gap: 16px; }
+  .review-sep { width: 100%; height: 1px; }
+}
+
+/* ── Related slider ─────────────────────────────────────────── */
+.slider-wrap {
+  position: relative;
+}
+.slider-track-outer {
+  overflow: hidden;
+  border-radius: var(--radius);
+}
+.slider-track {
+  display: flex;
+  gap: 16px;
+  transition: transform .4s cubic-bezier(.25,.8,.25,1);
+  will-change: transform;
+}
+
+.product-card {
+  flex: 0 0 200px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  transition: all .2s;
+  cursor: pointer;
+  text-decoration: none;
+  display: block;
+}
+.product-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--orange-m);
+}
+.card-img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  background: var(--orange-l);
+  display: block;
+}
+.card-body {
+  padding: 12px;
+}
+.card-title {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--ink-1);
+  line-height: 1.45;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-bottom: 8px;
+}
+.card-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card-price {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--orange);
+}
+.card-rating {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 10px;
+  color: var(--ink-3);
+}
+.card-star { color: #F59E0B; font-size: 11px; }
+
+.slider-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 38px;
+  height: 38px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  z-index: 10;
+  transition: all .15s;
+  color: var(--ink-2);
+}
+.slider-btn:hover {
+  background: var(--orange);
+  color: #fff;
+  border-color: var(--orange);
+}
+.slider-btn.prev { left: -18px; }
+.slider-btn.next { right: -18px; }
+.slider-btn:disabled { opacity: .35; pointer-events: none; }
+
+/* ── Responsive ─────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .hero { grid-template-columns: 1fr; gap: 20px; }
+  .hero-img { aspect-ratio: 4/3; }
+  .score-grid { grid-template-columns: 1fr; }
+  .pros-cons { grid-template-columns: 1fr; }
+  .product-card { flex: 0 0 160px; }
+  .price-main { font-size: 26px; }
+}
+</style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav class="nav">
+  <a href="/" class="nav-logo">finding<span>.id</span></a>
+  <span class="nav-sep">/</span>
+  <span class="nav-crumb">Makanan & Minuman</span>
+  <span class="nav-sep">/</span>
+  <span class="nav-crumb">Snack</span>
+  <span class="nav-badge">AI REVIEW</span>
+</nav>
+
+<div class="container">
+
+  <!-- ── Product Hero ── -->
+  <div class="hero">
+    <div class="hero-img-wrap">
+      <img class="hero-img"
+           src="/uploads/products/15376.jpg"
+           alt="Cemilan Snack Mix 4 Rasa"
+           onerror="this.src='https://via.placeholder.com/420x420/FFF8F3/F97316?text=Snack'">
+      <span class="hero-badge-hot">🔥 Terlaris</span>
+    </div>
+
+    <div class="hero-info">
+      <span class="category-tag">
+        <svg width="12" height="12" viewBox="0 0 16 16" fill="currentColor"><path d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zm0 2a5 5 0 1 1 0 10A5 5 0 0 1 8 3z"/></svg>
+        Makanan & Minuman
+      </span>
+
+      <h1 class="product-title">
+        Cemilan Snack Kue 28pcs 280g<br>
+        Mix 4 Rasa Favorit — Premium Halal
+      </h1>
+
+      <div class="meta-row">
+        <div class="stars">
+          <span class="star-filled">★</span>
+          <span class="star-filled">★</span>
+          <span class="star-filled">★</span>
+          <span class="star-filled">★</span>
+          <span class="star-filled">★</span>
+          <span class="rating-num">4.80</span>
+        </div>
+        <span class="rating-sep">|</span>
+        <span class="sold-count">6.000+ terjual</span>
+        <span class="halal-badge">✓ HALAL</span>
+      </div>
+
+      <div class="price-row">
+        <span class="price-main">Rp 26.900</span>
+        <span class="price-per">/ dus · ~Rp 960/pcs</span>
+      </div>
+
+      <div>
+        <div class="spec-label" style="margin-bottom:8px;">Varian Rasa</div>
+        <div class="variants">
+          <span class="variant-chip active">🍓 Strawberry</span>
+          <span class="variant-chip">🍫 Chocolate</span>
+          <span class="variant-chip">🍵 Matcha</span>
+          <span class="variant-chip">🍒 Cranberry</span>
+        </div>
+      </div>
+
+      <div class="spec-grid">
+        <div class="spec-item">
+          <div class="spec-label">Isi per Dus</div>
+          <div class="spec-value">28 pcs</div>
+        </div>
+        <div class="spec-item">
+          <div class="spec-label">Berat Total</div>
+          <div class="spec-value">280g (10g/pcs)</div>
+        </div>
+        <div class="spec-item">
+          <div class="spec-label">Cocok Untuk</div>
+          <div class="spec-value">Semua Usia</div>
+        </div>
+        <div class="spec-item">
+          <div class="spec-label">Tersedia Untuk</div>
+          <div class="spec-value">Hampers & Resell</div>
+        </div>
+      </div>
+
+      <!-- CTA -->
+      <div class="cta-wrap">
+        <a href="https://s.shopee.co.id/40bUAdPLoh"
+           target="_blank" rel="noopener"
+           class="cta-btn"
+           onclick="trackClick()">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/>
+            <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/>
+          </svg>
+          Beli Sekarang di Shopee
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M5 12h14M12 5l7 7-7 7"/>
+          </svg>
+        </a>
+        <p class="cta-sub">Link afiliasi · Tidak ada biaya tambahan untuk kamu</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── AI Score Summary ── -->
+  <div class="section">
+    <div class="section-head">
+      <span class="section-title">Skor Analisis</span>
+      <span class="ai-badge">POWERED BY AI</span>
+    </div>
+    <div class="ai-card" style="padding: 24px;">
+      <div class="score-grid" id="scoreGrid">
+        <div class="score-item">
+          <div class="score-label-row">
+            <span class="score-label">Value for Money</span>
+            <span class="score-num">9.2 / 10</span>
+          </div>
+          <div class="score-bar"><div class="score-fill" style="width:0%" data-w="92%"></div></div>
+        </div>
+        <div class="score-item">
+          <div class="score-label-row">
+            <span class="score-label">Kualitas Produk</span>
+            <span class="score-num">8.8 / 10</span>
+          </div>
+          <div class="score-bar"><div class="score-fill" style="width:0%" data-w="88%"></div></div>
+        </div>
+        <div class="score-item">
+          <div class="score-label-row">
+            <span class="score-label">Variasi Pilihan</span>
+            <span class="score-num">8.5 / 10</span>
+          </div>
+          <div class="score-bar"><div class="score-fill" style="width:0%" data-w="85%"></div></div>
+        </div>
+        <div class="score-item">
+          <div class="score-label-row">
+            <span class="score-label">Kepuasan Pembeli</span>
+            <span class="score-num">9.6 / 10</span>
+          </div>
+          <div class="score-bar"><div class="score-fill" style="width:0%" data-w="96%"></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── AI Analysis ── -->
+  <div class="section">
+    <div class="section-head">
+      <span class="section-title">Analisis AI Mendalam</span>
+      <span class="ai-badge">QWEN3-14B</span>
+    </div>
+
+    <div class="ai-card">
+
+      <div class="ai-section">
+        <div class="ai-section-label">01 — Ringkasan Produk</div>
+        <p class="ai-text">
+          Cemilan Snack makanan kue 28pcs 280g adalah camilan premium yang cocok untuk semua usia.
+          Dus ini berisi 28 kue dengan empat rasa lezat — <strong>Strawberry, Cokelat, Matcha, dan Cranberry/Cherry</strong> —
+          yang renyah di luar dan lembut di dalam. Dijual dengan harga <strong>Rp 26.900</strong>, produk ini
+          ideal untuk hadiah, camilan harian, atau bisnis jualan ulang.
+        </p>
+      </div>
+
+      <div class="ai-section">
+        <div class="ai-section-label">02 — Analisis Mendalam</div>
+        <p class="ai-text">
+          Dari segi <strong>keunggulan</strong>, produk ini menawarkan variasi rasa yang cukup menarik —
+          empat pilihan yang bisa memuaskan berbagai selera. Tekstur renyah di luar dan lembut di dalam
+          menunjukkan kualitas yang tidak hanya enak, tapi juga tahan banting saat dibawa-bawa.
+          Kemasannya praktis dengan 28 pcs dalam satu dus, membuatnya mudah dibagikan.<br><br>
+          Dari segi <strong>kualitas</strong>, rating 4.8 dari 5 dan 6.000+ penjualan adalah bukti nyata
+          kepuasan konsumen. Dengan harga Rp 26.900 untuk 280 gram, setiap kue hanya sekitar
+          <strong>Rp 960 per pcs</strong> — tergolong murah untuk snack premium bersertifikat halal.<br><br>
+          Produk ini ideal untuk <strong>siapapun yang mencari camilan enak, praktis, dan cocok berbagai situasi</strong>
+          — dari camilan pribadi, isi hampers, hingga modal jualan kembali dengan margin yang kompetitif.
+        </p>
+      </div>
+
+      <div class="ai-section">
+        <div class="ai-section-label">03 — Kelebihan & Kekurangan</div>
+        <div class="pros-cons">
+          <div class="pros-list">
+            <div class="pro-item"><span class="pro-icon">✓</span><span>4 varian rasa dalam 1 dus — pilihan lengkap</span></div>
+            <div class="pro-item"><span class="pro-icon">✓</span><span>Tekstur renyah luar, lembut dalam — unik dan enak</span></div>
+            <div class="pro-item"><span class="pro-icon">✓</span><span>Kemasan praktis, cocok dibawa & dijadikan hadiah</span></div>
+            <div class="pro-item"><span class="pro-icon">✓</span><span>Bersertifikasi Halal — aman semua kalangan</span></div>
+            <div class="pro-item"><span class="pro-icon">✓</span><span>Harga sangat terjangkau ~Rp 960/pcs</span></div>
+            <div class="pro-item"><span class="pro-icon">✓</span><span>Cocok segala usia — anak-anak hingga dewasa</span></div>
+            <div class="pro-item"><span class="pro-icon">✓</span><span>Potensi margin resell yang baik</span></div>
+          </div>
+          <div class="cons-list">
+            <div class="con-item"><span class="con-icon">✕</span><span>Tanggal kedaluwarsa tidak selalu tertera jelas</span></div>
+            <div class="con-item"><span class="con-icon">✕</span><span>Pilihan rasa tidak bisa dikustomisasi per dus</span></div>
+            <div class="con-item"><span class="con-icon">✕</span><span>Kurang cocok untuk yang diet rendah gula/kalori</span></div>
+            <div class="con-item"><span class="con-icon">✕</span><span>Belum tersedia dalam ukuran yang lebih besar</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="ai-section">
+        <div class="ai-section-label">04 — Rekomendasi Akhir</div>
+        <div class="verdict-box">
+          Produk ini <strong>sangat worth it!</strong> Cocok untuk kamu yang sedang mencari camilan premium
+          dengan variasi rasa menarik, harga terjangkau, dan sertifikasi halal. Ideal untuk
+          <strong>pribadi yang ingin menikmati camilan enak</strong>, orang tua yang ingin memberi hadiah berkualitas,
+          atau <strong>pemilik bisnis camilan kecil</strong> yang ingin menawarkan produk dengan margin kompetitif.
+          Dengan track record 6.000+ penjualan dan rating 4.8, ini adalah pilihan yang sudah terbukti
+          disukai pasar Indonesia.
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ── Reviews ── -->
+  <div class="section">
+    <div class="section-head">
+      <span class="section-title">Ulasan Pembeli</span>
+    </div>
+
+    <div class="review-grid">
+
+      <!-- Good reviews -->
+      <div>
+        <div class="review-col-head good">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+          Ulasan Positif
+        </div>
+
+        <div style="display:flex;flex-direction:column;gap:12px;">
+
+          <div class="review-card good">
+            <div class="review-header">
+              <span class="review-user">j*****8</span>
+              <div class="review-stars">
+                <span class="r-star-on">★</span><span class="r-star-on">★</span>
+                <span class="r-star-on">★</span><span class="r-star-on">★</span>
+                <span class="r-star-on">★</span>
+              </div>
+            </div>
+            <div class="review-tags">
+              <span class="review-tag">Rasa: enak</span>
+              <span class="review-tag">Tekstur: lembut</span>
+              <span class="review-tag">Exp: panjang</span>
+            </div>
+            <p class="review-text">
+              Terimakasih pesanan saya sudah sampai dan sesuai dengan ekspektasi.
+              Kadaluarsa masih panjang, tekstur lembut, rasa enak. Puas!
+            </p>
+          </div>
+
+          <div class="review-card good">
+            <div class="review-header">
+              <span class="review-user">yeah.doank</span>
+              <div class="review-stars">
+                <span class="r-star-on">★</span><span class="r-star-on">★</span>
+                <span class="r-star-on">★</span><span class="r-star-on">★</span>
+                <span class="r-star-on">★</span>
+              </div>
+            </div>
+            <div class="review-tags">
+              <span class="review-tag">Rasa: enak lezat</span>
+              <span class="review-tag">Tekstur: bagus</span>
+              <span class="review-tag">Isi: 28 sesuai</span>
+            </div>
+            <p class="review-text">
+              Memiliki tekstur yang bagus, isi 28 pcs sesuai deskripsi. <strong>Rekomended!</strong>
+            </p>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Bad reviews -->
+      <div>
+        <div class="review-col-head bad">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+          Perlu Diperhatikan
+        </div>
+
+        <div style="display:flex;flex-direction:column;gap:12px;">
+
+          <div class="review-card bad">
+            <div class="review-header">
+              <span class="review-user">gemaynation</span>
+              <div class="review-stars">
+                <span class="r-star-on">★</span><span class="r-star-on">★</span>
+                <span class="r-star-on">★</span><span class="r-star-off">★</span>
+                <span class="r-star-off">★</span>
+              </div>
+            </div>
+            <div class="review-tags">
+              <span class="review-tag">Tekstur: bagus</span>
+              <span class="review-tag">Rasa: enak</span>
+              <span class="review-tag">Isi: tidak sesuai</span>
+            </div>
+            <p class="review-text">
+              Rasanya enak dan tekstur bagus, tapi <strong>isi hanya 14 pcs, bukan 28</strong>
+              seperti yang dijanjikan. Harap periksa isi saat menerima paket.
+            </p>
+          </div>
+
+          <!-- AI insight from negative -->
+          <div style="background:var(--orange-l);border:1px solid var(--orange-m);border-radius:10px;padding:14px 16px;">
+            <div style="font-size:10px;font-weight:700;color:var(--orange-d);letter-spacing:0.5px;margin-bottom:8px;">INSIGHT AI DARI ULASAN NEGATIF</div>
+            <p style="font-size:12px;line-height:1.65;color:var(--ink-2);">
+              Satu ulasan menyebut jumlah isi tidak sesuai. Ini bisa terjadi akibat
+              kesalahan packing seller atau variasi produk. Saran: <strong>konfirmasi ke penjual
+              saat memesan</strong> dan periksa isi saat paket diterima sebelum digunakan.
+            </p>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ── Related Products ── -->
+  <div class="section">
+    <div class="section-head">
+      <span class="section-title">Produk Serupa</span>
+    </div>
+    <div class="slider-wrap">
+      <button class="slider-btn prev" id="sliderPrev" disabled>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+      </button>
+      <div class="slider-track-outer">
+        <div class="slider-track" id="sliderTrack">
+
+          <a class="product-card" href="/go/kurma-ajwa-1kg" target="_blank">
+            <img class="card-img" src="/uploads/products/3237.jpg" alt="Kurma Ajwa" onerror="this.src='https://via.placeholder.com/200x200/FFF8F3/F97316?text=Produk'">
+            <div class="card-body">
+              <div class="card-title">Kurma Ajwa 1kg Asli Madinah Premium Original</div>
+              <div class="card-meta">
+                <span class="card-price">Rp 54.224</span>
+                <span class="card-rating"><span class="card-star">★</span> 4.75</span>
+              </div>
+            </div>
+          </a>
+
+          <a class="product-card" href="https://s.shopee.co.id/9pZFAZeD7q" target="_blank">
+            <img class="card-img" src="/uploads/products/3248.jpg" alt="Kurma Ajwa" onerror="this.src='https://via.placeholder.com/200x200/FFF8F3/F97316?text=Produk'">
+            <div class="card-body">
+              <div class="card-title">Kurma Ajwa 1 Kg Asli Madinah Super Premium</div>
+              <div class="card-meta">
+                <span class="card-price">Rp 101.900</span>
+                <span class="card-rating"><span class="card-star">★</span> 4.84</span>
+              </div>
+            </div>
+          </a>
+
+          <a class="product-card" href="https://s.shopee.co.id/9AJYNLgkTe" target="_blank">
+            <img class="card-img" src="/uploads/products/3244.jpg" alt="Kurma Ajwa Safiya" onerror="this.src='https://via.placeholder.com/200x200/FFF8F3/F97316?text=Produk'">
+            <div class="card-body">
+              <div class="card-title">Kurma Ajwa Madinah 1 Kg Safiya Kurma Nabi Legit</div>
+              <div class="card-meta">
+                <span class="card-price">Rp 101.900</span>
+                <span class="card-rating"><span class="card-star">★</span> 4.88</span>
+              </div>
+            </div>
+          </a>
+
+          <a class="product-card" href="https://s.shopee.co.id/50TzPgWh4l" target="_blank">
+            <img class="card-img" src="/uploads/products/3243.jpg" alt="Kurma Ajwa Safiya" onerror="this.src='https://via.placeholder.com/200x200/FFF8F3/F97316?text=Produk'">
+            <div class="card-body">
+              <div class="card-title">Kurma Ajwa 1 Kg Safiya Kurma Nabi Azwa Premium</div>
+              <div class="card-meta">
+                <span class="card-price">Rp 101.900</span>
+                <span class="card-rating"><span class="card-star">★</span> 4.86</span>
+              </div>
+            </div>
+          </a>
+
+          <a class="product-card" href="https://s.shopee.co.id/Li9r6oSXn" target="_blank">
+            <img class="card-img" src="/uploads/products/3239.jpg" alt="Kurma Ajwa Kaleng" onerror="this.src='https://via.placeholder.com/200x200/FFF8F3/F97316?text=Produk'">
+            <div class="card-body">
+              <div class="card-title">Kurma Ajwa 1kg Kaleng Duha Premium Exclusive</div>
+              <div class="card-meta">
+                <span class="card-price">Rp 72.000</span>
+                <span class="card-rating"><span class="card-star">★</span> 4.85</span>
+              </div>
+            </div>
+          </a>
+
+          <a class="product-card" href="https://s.shopee.co.id/W1a3PnpCo" target="_blank">
+            <img class="card-img" src="/uploads/products/3238.jpg" alt="Kurma Ajwa Kaleng" onerror="this.src='https://via.placeholder.com/200x200/FFF8F3/F97316?text=Produk'">
+            <div class="card-body">
+              <div class="card-title">Kurma Ajwa Premium Al Madina Kaleng 1 Kg Original</div>
+              <div class="card-meta">
+                <span class="card-price">Rp 73.050</span>
+                <span class="card-rating"><span class="card-star">★</span> 4.87</span>
+              </div>
+            </div>
+          </a>
+
+          <a class="product-card" href="https://s.shopee.co.id/BOjenp5si" target="_blank">
+            <img class="card-img" src="/uploads/products/3236.jpg" alt="Kurma Ajwa Madinah" onerror="this.src='https://via.placeholder.com/200x200/FFF8F3/F97316?text=Produk'">
+            <div class="card-body">
+              <div class="card-title">Kurma Ajwa Madinah 1 kg Favorit Nabi Safiya Premium</div>
+              <div class="card-meta">
+                <span class="card-price">Rp 99.400</span>
+                <span class="card-rating"><span class="card-star">★</span> 4.84</span>
+              </div>
+            </div>
+          </a>
+
+          <a class="product-card" href="https://s.shopee.co.id/4qAZDNXKPg" target="_blank">
+            <img class="card-img" src="/uploads/products/3240.jpg" alt="Kurma Ajwa Karramah" onerror="this.src='https://via.placeholder.com/200x200/FFF8F3/F97316?text=Produk'">
+            <div class="card-body">
+              <div class="card-title">Kurma Ajwa Al Karramah 1 Kg Premium Kurma Nabi</div>
+              <div class="card-meta">
+                <span class="card-price">Rp 71.242</span>
+                <span class="card-rating"><span class="card-star">★</span> 4.82</span>
+              </div>
+            </div>
+          </a>
+
+        </div>
+      </div>
+      <button class="slider-btn next" id="sliderNext">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+      </button>
+    </div>
+  </div>
+
+</div><!-- /container -->
+
+<script>
+// ── Score bar animation ──────────────────────────────────────
+function animateScores() {
+  document.querySelectorAll('.score-fill').forEach(el => {
+    const target = el.dataset.w;
+    setTimeout(() => { el.style.width = target; }, 200);
+  });
+}
+const obs = new IntersectionObserver(entries => {
+  entries.forEach(e => { if (e.isIntersecting) { animateScores(); obs.disconnect(); } });
+}, { threshold: 0.3 });
+obs.observe(document.getElementById('scoreGrid'));
+
+// ── Slider ───────────────────────────────────────────────────
+const track    = document.getElementById('sliderTrack');
+const btnPrev  = document.getElementById('sliderPrev');
+const btnNext  = document.getElementById('sliderNext');
+const CARD_W   = 200 + 16; // card width + gap
+let   pos      = 0;
+
+function updateSlider() {
+  const cards    = track.querySelectorAll('.product-card');
+  const visible  = Math.floor(track.parentElement.offsetWidth / CARD_W);
+  const maxPos   = Math.max(0, cards.length - visible);
+  pos = Math.min(Math.max(pos, 0), maxPos);
+  track.style.transform = `translateX(-${pos * CARD_W}px)`;
+  btnPrev.disabled = pos === 0;
+  btnNext.disabled = pos >= maxPos;
+}
+
+btnPrev.addEventListener('click', () => { pos--; updateSlider(); });
+btnNext.addEventListener('click', () => { pos++; updateSlider(); });
+window.addEventListener('resize', updateSlider);
+updateSlider();
+
+// ── Variant chips ────────────────────────────────────────────
+document.querySelectorAll('.variant-chip').forEach(chip => {
+  chip.addEventListener('click', () => {
+    document.querySelectorAll('.variant-chip').forEach(c => c.classList.remove('active'));
+    chip.classList.add('active');
+  });
+});
+
+// ── Click tracking ───────────────────────────────────────────
+function trackClick() {
+  fetch('/api/click', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ product_id: 15376, type: 'cta' }),
+  }).catch(() => {});
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,84 @@
+{
+  "title": "Celana Cargo Murah Banget! Wajib Cek 👖✨",
+  "hook_text": "Bahan ini nggak panas!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tekstur celana di bawah sinar matahari dengan efek heat-map atau uap air untuk menyorot kelembutan bahan.",
+      "narration": "Gue tau banget panasnya hari ini bikin capek banget kan bestie?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide menampilkan model memakai celana cargo sedang jalan santai atau naik motor di jalan beraspal.",
+      "narration": "Tapi tenang, shortcut dot id ini bakal jadi penyelamat kamu dengan bahan desvo stretch yang ringan, elastis, dan nggak bikin keringetan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga turun dengan animasi seru, lalu muncul stiker harga besar di layar.",
+      "narration": "Gila sih, harga cuma seratus dua puluhan ribu saja, which is worth it banget untuk kualitas jahitan yang rapih dan kuat."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: model mengibas kaki untuk tunjukkan quickdry, zoom ke kantong-kantong, lalu model berjongkok dengan mudah.",
+      "narration": "Fitur quickdry nya bikin keringetan cepet kering, plus lima kantong fungsional buat simpen barang, dan karet di pinggang jadi nyaman walau nggak pakai ikat pinggang."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Kolase video: orang hiking di gunung, jalan camping di tenda, dan bekerja di lapangan.",
+      "narration": "Perfect buat yang suka hiking, trekking, camping, atau cuma jalan santai sehari-hari, karena desainnya simple tapi stylish."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.88 dan angka 40.000 terjual dengan cepat berputar.",
+      "narration": "Pembelinya pada ngomong bahwasanya bahannya lentur dan nyaman banget dipake, nggak heran udah laku empat puluh ribuan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding id muncul dengan animasi panah menunjuk ke bawah, latar belakang warna cerah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, diskonnya terbatas lho!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#CelanaCargo",
+    "#FashionGenZ",
+    "#OutfitHarian",
+    "#MurahMeriah",
+    "#ShortsViral",
+    "#OOTDIndonesia",
+    "#PriaKeren",
+    "#WanitaGaul"
+  ],
+  "product_id": 20451,
+  "product_title": "Shortcut.ID Celana Cargo Panjang Outdoor Pria Wanita Jumbo M L XL XXL 3XL Quickdry Stretch Murah",
+  "product_price": "120163.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/20451.jpg",
+    "/uploads/products/20451_1.jpg",
+    "/uploads/products/20451_2.jpg",
+    "/uploads/products/20451_3.jpg",
+    "/uploads/products/20451_4.jpg",
+    "/uploads/products/20451_5.jpg",
+    "/uploads/products/20451_6.jpg",
+    "/uploads/products/20451_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/20451",
+  "generated_at": "2026-03-14T04:23:00.275Z"
+}

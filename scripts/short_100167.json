@@ -1,0 +1,85 @@
+{
+  "title": "Pelembab Kulit Kering Terbaik, Teksturnya Banget!",
+  "hook_text": "Kulit kering? Ini solusinya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kulit terlihat kusam lalu transisi cepat ke tawanya model sambil memegang produk.",
+      "narration": "Rasa ngelus keringet terus karena kulit nggak lembab? Stop scroll bestie, kita punya solusinya nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk ELFORMULA Intensive CeraHydro Barrier Repair Moisture Gel diputar pelan menunjukkan dispenser pump-nya.",
+      "narration": "Kenalin, ELFORMULA Intensive CeraHydro Barrier Repair Moisture Gel. Ini bukan sekadar pelembab biasa, tapi *skin barrier* repairer yang *literally* next level buat kamu yang kulitnya lagi *dehydrated* parah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 125.000 muncul di layar dengan efek *pop-up* seru sambil menunjukkan botol 50ml.",
+      "narration": "Gila sih harganya cuma seratus dua puluhan ribu untuk volume lima puluh mililiter. *No cap*, harga begini udah *worth it banget* buat investasi kulit sehatmu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: close up tekstur gel di tangan, infografis sederhana tentang Ceramide dan Anti Blue Light, lalu shot pump dispenser yang ditekan.",
+      "narration": "Pertama, teksturnya itu gel ringan yang meresap seketika, nggak bikin lengket sama sekali. Kedua, isinya ada CeraHydro dan Ceramide yang ampuh perbaiki skin barrier yang rusak. Ketiga, ada fitur *anti blue light agent* jadi cocok buat kamu yang sering *scroll* di layar HP. Dan yang paling *cute*, dilengkapi dispenser pump jadi higienis, nggak perlu *touch* jar terus-terusan. Plus sudah lulus uji dermatologi dan berizin BPOM, amanah banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang bekerja di depan laptop lalu berganti ke situasi tidur malam hari, kulit terlihat bercahaya.",
+      "narration": "Perfect buat yang aktivitasnya banyak di depan layar atau punya kulit sensitif dan kering. Kalau kamu sering merasa wajah terasa ketarik setelah *makeup*, atau bangun pagi kulitnya lagi *red* dan *rough*, ini *must-have* buat routine skinkinamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.92 bintang dan angka 300.000 terjual, lalu muncul teks kutipan pembeli.",
+      "narration": "Rating empat koma sembilan dua dengan tiga ratus produk udah terjual, pembelinya pada bilang *'Teksturnya cream gel, cocok buat pelembab dan memperbaiki skin barrier'*, nggak ada yang komplain kok!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul besar dengan panah menunjuk ke bawah, model mengacungkan jempol.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#SkincareIndonesia",
+    "#KulitKering",
+    "#Elformula",
+    "#SkinBarrier",
+    "#PelembabWajah",
+    "#GenZSkincare",
+    "#BeautyHacks",
+    "#Cerahydro"
+  ],
+  "product_id": 100167,
+  "product_title": "ELFORMULA Intensive CeraHydro Barrier Repair Moisture Gel - Moisturizer Calming Pelembab Wajah Pagi Malam Kulit Cerah Skin Barrier Hyaluronic Acid with CeraHydro + Plant Extract & Ceramide Skincare Oil Control Kulit Kering",
+  "product_price": "125000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100167.jpg",
+    "/uploads/products/100167_1.jpg",
+    "/uploads/products/100167_2.jpg",
+    "/uploads/products/100167_3.jpg",
+    "/uploads/products/100167_4.jpg",
+    "/uploads/products/100167_5.jpg",
+    "/uploads/products/100167_6.jpg",
+    "/uploads/products/100167_7.jpg",
+    "/uploads/products/100167_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/100167",
+  "generated_at": "2026-03-14T04:02:49.520Z"
+}

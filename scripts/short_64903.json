@@ -1,0 +1,96 @@
+{
+  "title": "Lulur Hitam Mabello Bikin Kulit Glowing! 😱✨",
+  "hook_text": "Stop! Kulit belang jangan diabaikan!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot kulit tampak kusam lalu transisi cepat ke kulit glowing bercahaya dengan efek cahaya matahari.",
+      "narration": "Stop bestie! Kalau kulitmu sering belang gara-gara matahari, kamu wajib banget liat ini sekarang."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing produk Lulur Hitam Bedda Lotong, tunjukkan botol 400ml besar dan tekstur lulurnya yang lembut.",
+      "narration": "Ini Lulur Hitam Bedda Lotong dari Mabello, literally scrub body ultimate buat ngilangin sel kulit mati dan ngecerahkan kulit secara instan, which is worth it banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan teks harga besar di layar dengan efek confetti, bandingkan ukuran botol dengan harga murah.",
+      "narration": "Gila sih harga cuma enam puluhan ribu untuk satu botol empat ratus mililiter, basically harga segelas kopi tapi dapet perawatan body seumur hidup!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Logo BPOM & Halal berkedip, 2. Daun alami melayang, 3. Kulit tangan menjadi halus dan kenyal.",
+      "narration": "No cap, ini aman banget karena udah bersertifikat BPOM dan Halal, terbuat dari bahan alami organik yang nggak bikin iritasi. Kalau pakai varian Shea Butter, kulit jadi makin lembab dan kenyal, plus ampuh meratakan belang kulit gara-gara panas matahari!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Cowok cewek sedang olahraga di gym atau kerja outdoor, lalu memakai lulur ini di kamar mandi.",
+      "narration": "Perfect buat kamu yang sering outdoor, suka olahraga, atau kerja di bawah terik matahari, karena aktivitas kamu pasti bikin kulit kusam dan belang."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan angka rating 4.82 dan jumlah terjual 40.000 dengan animasi naik cepat.",
+      "narration": "Pembelinya pada ngomong wangi nya ke tradisional gitu deh pokonya, dan bikin kulit jadi cerahan terus lembut samaa, nggak bikin perih sama sekali!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pencarian besar di layar dengan tulisan 'finding dot id' dan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stoknya terbatas!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id sekarang!",
+  "hashtags": [
+    "#LulurHitamMabello",
+    "#SkincareAlami",
+    "#KulitGlowing",
+    "#ScrubTubuh",
+    "#BPOMHalal",
+    "#SkincareMurah",
+    "#GlowUpBody",
+    "#SkincareIndonesia"
+  ],
+  "product_id": 64903,
+  "product_title": "MABELLO paket hemat/  Lulur hitam bedda lotong bpom & halal/aman dan terbuat dari bahan alami",
+  "product_price": "64020.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64903.jpg",
+    "/uploads/products/64903_1.jpg",
+    "/uploads/products/64903_2.jpg",
+    "/uploads/products/64903_3.jpg",
+    "/uploads/products/64903_4.jpg",
+    "/uploads/products/64903_5.jpg",
+    "/uploads/products/64903_6.jpg",
+    "/uploads/products/64903_7.jpg",
+    "/uploads/products/64903_8.jpg",
+    "/uploads/products/64903_9.jpg",
+    "/uploads/products/64903_10.jpg",
+    "/uploads/products/64903_11.jpg",
+    "/uploads/products/64903_12.jpg",
+    "/uploads/products/64903_13.jpg",
+    "/uploads/products/64903_14.jpg",
+    "/uploads/products/64903_15.jpg",
+    "/uploads/products/64903_16.jpg",
+    "/uploads/products/64903_17.jpg",
+    "/uploads/products/64903_18.jpg",
+    "/uploads/products/64903_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/64903",
+  "generated_at": "2026-03-14T04:11:47.194Z"
+}

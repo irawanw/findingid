@@ -1,0 +1,77 @@
+{
+  "title": "Sepatu Leedoo MR704 Murah Banget!",
+  "hook_text": "Nggak Masuk Akal Buat Harga Seini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up sepatu Leedoo MR704 dengan pencahayaan dramatis.",
+      "narration": "Nggak Masuk Akal Buat Harga Seini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilkan sepatu dari berbagai sudut sambil model mengenakannya di jalanan.",
+      "narration": "Ini nih Leedoo MR704, sneakers cowok yang literally next level buat outfit harian lo."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Zoom in ke label harga yang tertera di layar.",
+      "narration": "Padahal harganya cuma seratus tiga puluhan ribu aja, which is worth it banget buat kantong pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail close-up material Ice Silk dan sol karet sepatu.",
+      "narration": "Pakai material Ice Silk yang ringan banget. --- Ada fitur Wide Fit biar kaki nggak sempit. --- Sol karet anti slip juga no cap. --- Buat yang khawatir soal berat, tenang aja, nyaman kok dipakai seharian tanpa sakit kaki."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model berjalan santai di kampus atau kantor sambil tersenyum.",
+      "narration": "Perfect buat yang suka sekolah atau kerja tapi tetap mau tampil kece. --- Nggak perlu mahal biar kelihatan stylish setiap hari dan tetap santai."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang empat koma tujuh delapan dan jumlah penjualan di layar.",
+      "narration": "Sudah laku empat puluh ribu pasang dengan rating empat koma tujuh delapan. --- Yang udah beli bilang 'kualitas barang dijamin sama dengan yang di etalase'. --- Nggak perlu ragu lagi."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilkan logo finding.id dan tombol follow.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#Leedoo",
+    "#SepatuCowok",
+    "#SneakersMurah",
+    "#OotdCowok",
+    "#RekomendasiSepatu",
+    "#FashionPria",
+    "#ViralIndonesia",
+    "#CariCuan"
+  ],
+  "product_id": 21443,
+  "product_title": "Leedoo Sepatu Olahraga Pria Sepatu Pria Casual Sneakers Fashion Cowok Kekinian Sport Shoes MR704",
+  "product_price": "113900.00",
+  "product_rating": "4.78",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21443.jpg"
+  ],
+  "product_link": "https://finding.id/p/21443",
+  "generated_at": "2026-03-13T19:19:38.361Z"
+}

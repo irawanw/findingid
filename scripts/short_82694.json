@@ -1,0 +1,83 @@
+{
+  "title": "Hampers Lebaran Mewah Cuma 100 Ribu?! 😱",
+  "hook_text": "Hampers Lebaran Mewah Cuma 100 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up cepat mangkok set berkilau dengan efek cahaya mewah, transisi cepat ke wajah kreator yang terkejut.",
+      "narration": "Gak nyangka banget, hampers Lebaran mewah bisa dapet cuma harga seratus ribuan aja, which is literally no cap!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk LUXURY Hampers Lebaran di atas meja elegan, kamera zoom in ke detail motif emas pada mangkok.",
+      "narration": "Ini dia LUXURY Hampers Lebaran Idul Fitri yang lagi viral banget! Set mangkok ini tampilannya super cantik dan elegan, perfect banget buat jadi oleh-oleh atau hadiah spesial buat keluarga kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek 'pop', diselingi visual tumpukan uang mainan yang sedikit lalu berganti jadi produk.",
+      "narration": "Dan tebak harganya? Cuma seratus delapan puluhan ribu doang! That is super worth it banget kalau dibandingkan dengan kualitas dan kemewahan yang kamu dapetin, which is basically next level!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1) Menunjukkan set lengkap 5 mangkok, 2) Menunjukkan tekstur halus, 3) Menampilkan desain motif emas yang detail.",
+      "narration": "Fiturnya itu literally no cap, bestie! Pertama, dapet set lengkap lima mangkok yang ukurannya pas banget buat saji makanan atau teh manis. Kedua, desainnya super detail dengan motif emas yang bikin rumah kamu kelihatan lebih mahal. Ketiga, bahannya kokoh dan aman buat dicuci ulang berkali-kali."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Seseorang sedang menyiapkan kotak hampers dengan rapi, lalu memberikan kepada tetangga atau keluarga dengan senyum lebar.",
+      "narration": "Ini perfect banget buat kamu yang sering bingung nyari kado Lebaran yang elegan tapi nggak bikin dompet jebol. Kalau aktivitas kamu sering nge-hampers teman atau keluarga besar, barang ini pasti jadi solusi terbaik kamu!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.8, angka 20.000 terjual, dan screenshot teks ulasan pelanggan yang menonjol.",
+      "narration": "Ratingnya 4.8 bintang dengan dua puluh ribu produk udah ludes! Yang udah beli bilang packingnya super aman banget dan barangnya cantik-cantik."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Kreator menunjuk ke arah bawah layar dengan gaya fun, teks 'finding dot id' muncul besar di tengah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#HampersLebaran",
+    "#KadoLebaranMurah",
+    "#MangkukSet",
+    "#IdeHadiah",
+    "#ViralIndonesia",
+    "#RacunShopee",
+    "#Lebaran2024",
+    "#FindingID"
+  ],
+  "product_id": 82694,
+  "product_title": "LUXURY Hampers Lebaran Idul Fitri Mangkok Set Lebaran Hampers Mangkok Set Lebaran",
+  "product_price": "99900.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/82694.jpg",
+    "/uploads/products/82694_1.jpg",
+    "/uploads/products/82694_2.jpg",
+    "/uploads/products/82694_3.jpg",
+    "/uploads/products/82694_4.jpg",
+    "/uploads/products/82694_5.jpg",
+    "/uploads/products/82694_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/82694",
+  "generated_at": "2026-03-15T17:24:10.795Z"
+}

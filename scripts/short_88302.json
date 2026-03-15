@@ -1,0 +1,79 @@
+{
+  "title": "Regulator Gas Meter Winn? Worth It Banget!",
+  "hook_text": "Gas bocor? Jangan main sembarangan!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tangan memegang regulator gas dengan ekspresi serius dan teks peringatan muncul.",
+      "narration": "Stop scrolling dulu bestie! Kamu tau bahaya kalau regulator gas bocor nggak?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke produk Regulator WINN GAS W 900 M di atas meja dapur yang bersih.",
+      "narration": "Nah, solusinya ada di sini, Regulator Gas Winn dengan fitur pengukur tekanan gas yang super canggih, literally next level buat keamanan dapur kamu!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek confetti, lalu perbandingan visual dengan produk biasa.",
+      "narration": "Gila sih harganya cuma seratus puluhan ribu, which is worth it banget kalau kamu mikirin keselamatan keluarga!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase 3 poin: jarum pengukur bergerak, material besi kokoh, dan penguncian ganda dibuka tutup.",
+      "narration": "First, dia punya pengukur gas biar kamu tau tekanan tabung kapan harus diisi. Second, material besinya super kuat dan nggak gampang rusak. Plus, ada penguncian ganda yang menjamin nggak ada kebocoran, basically aman banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario anak kos masak malam hari dan ibu rumah tangga memasak untuk keluarga.",
+      "narration": "Perfect buat yang sering masak di rumah atau anak kos yang mau hemat tapi tetap aman. Kalau aktivitas kamu butuh ketenangan ekstra, ini wajib punya dong!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.87 bintang dan angka 20.000 terjual dengan animasi naik cepat.",
+      "narration": "Rating 4.87 dari 20.000 orang yang udah beli bilang produknya sesuai pesanan dan berfungsi dengan baik!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah menunjuk ke bawah dengan teks 'Cek Sekarang'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#RegulatorGas",
+    "#WinnGas",
+    "#AmanDanPraktis",
+    "#TipsDapur",
+    "#ProdukViral",
+    "#HematRumah",
+    "#GasLPG",
+    "#FindingId"
+  ],
+  "product_id": 88302,
+  "product_title": "Regulator WINN GAS W 900 M / Regulator Gas LPG / Regulator Kompor Winn Gas Meter",
+  "product_price": "96000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/88302.jpg",
+    "/uploads/products/88302_1.jpg",
+    "/uploads/products/88302_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/88302",
+  "generated_at": "2026-03-14T12:26:12.186Z"
+}

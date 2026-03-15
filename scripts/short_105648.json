@@ -1,0 +1,83 @@
+{
+  "title": "Sunscreen Wajah Anti Lengket Cuma 79 Ribu?",
+  "hook_text": "Gak percaya sunscreen cuma segini harga!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah berminyak lalu transisi ke wajah fresh bercahaya",
+      "narration": "Gak percaya ada sunscreen wajah segini bagusnya cuma segini harga, no cap!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Facetology Triple Care Sunscreen di tangan, rotasi 360 derajat",
+      "narration": "Ini dia Facetology Triple Care Sunscreen --- solusi buat kamu yang kulitnya berminyak atau lagi jerawatan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek suara 'cha-ching'",
+      "narration": "Harganya cuma tujuh puluh sembilan ribuan, which is literally worth it banget buat kualitasnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tekstur sunscreen dioleskan di tangan, close up wajah dengan finish semi-matte",
+      "narration": "Formula powder oil absorbent bikin finish semi-matte --- gak bikin wajah kayak panci gorengan. Teksturnya ringan, basically next level. Ada Centella Asiatica buat nge-tenangin, plus SPF 40 PA+++ anti Blue Light."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang sedang beraktivitas di luar ruangan atau di bawah sinar matahari",
+      "narration": "Jadi kalau kamu sering ketemu sinar matahari --- ini wajib banget. Malah ada yang bilang semua tipe kulit cocok, bukan cuma yang berjerawat."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.9 dan angka penjualan 300.000 di layar",
+      "narration": "Ratingnya 4,9 dari 5 --- udah terjual tiga ratus ribu produk. Yang udah beli bilang, \"Kemasannya lucu ada gambar mataharinya\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding ID dengan panah mengarah ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie --- review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie --- review produk-nya ada di sana!",
+  "hashtags": [
+    "#Facetology",
+    "#Sunscreen",
+    "#Skincare",
+    "#KulitBerminyak",
+    "#Viral",
+    "#CantikAlami",
+    "#GlowUp",
+    "#TipsKulit"
+  ],
+  "product_id": 105648,
+  "product_title": "[New Matte Formula] Facetology Triple Care Sunscreen For Acne & Oily Skin SPF 40 PA+++ 40ML",
+  "product_price": "79900.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/105648.jpg",
+    "/uploads/products/105648_1.jpg",
+    "/uploads/products/105648_2.jpg",
+    "/uploads/products/105648_3.jpg",
+    "/uploads/products/105648_4.jpg",
+    "/uploads/products/105648_5.jpg",
+    "/uploads/products/105648_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/105648",
+  "generated_at": "2026-03-13T21:02:11.646Z"
+}

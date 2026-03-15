@@ -1,0 +1,83 @@
+{
+  "title": "Pelancar ASI Natural? Cek Ini Bestie!",
+  "hook_text": "Asi makin melimpah gak pake obat!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah ibu menyusui yang sedang tersenyum lebar sambil memegang bayi yang terlihat sehat dan gemuk.",
+      "narration": "Stop scroll bestie! Lagi pusing sama ASI yang gak lancar? Tenang, ada solusinya nih yang ampuh banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk MOMSY Asi Booster dengan efek zoom in ke kemasan dan logo BPOM serta Halal yang jelas.",
+      "narration": "Ini MOMSY Asi Booster Pelancar ASI! Produk yang udah teruji klinis dan legal banget, lengkap dengan sertifikat BPOM dan Halal."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga besar di layar dengan efek transisi cepat, lalu muncul tulisan 'Murah Meriah'.",
+      "narration": "Gila sih harganya cuma seratusan lima puluh ribuan, which is worth it banget untuk kualitasnya yang super premium!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: daun salam, daun mint, daun sirih, dan daun mengkudu dengan teks '4 Bahan Alami' muncul satu per satu.",
+      "narration": "Bahan bakunya four natural ingredients aja udah next level! Ada daun salam, daun mint, daun sirih, dan daun mengkudu. Bahan-bahan yang udah dipercaya turun-temurun untuk nge-boost produksi ASI kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ilustrasi ibu muda yang sedang beraktivitas ringan sambil tersenyum, lalu transisi ke bayi yang sedang makan ASI dengan lahap.",
+      "narration": "Perfect buat kamu yang baru pertama kali menyusui atau lagi merasa produksi asinya kurang melimpah. Biar buah hati kamu makin montok dan kenyang terus."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan angka 4.88 bintang dan counter penjualan 100rb+, lalu muncul teks kutipan pembeli.",
+      "narration": "Pembelinya pada ngomong 'Semoga buat asinya makin berkualitas biar bayi makin montok'. No cap, rating 4.88 dari satu ratus ribu terjual!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan tombol 'Cek Sekarang' berkedip, teks besar di layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id sekarang!",
+  "hashtags": [
+    "#ASIBooster",
+    "#IbuMenyusui",
+    "#Momsy",
+    "#PelancarASI",
+    "#VitaminIbu",
+    "#BabyFood",
+    "#SuplemenAlami",
+    "#FindingID"
+  ],
+  "product_id": 21987,
+  "product_title": "MOMSY Asi Booster Pelancar ASI 30 kapsul BPOM & Halal",
+  "product_price": "65000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21987.jpg",
+    "/uploads/products/21987_1.jpg",
+    "/uploads/products/21987_2.jpg",
+    "/uploads/products/21987_3.jpg",
+    "/uploads/products/21987_4.jpg",
+    "/uploads/products/21987_5.jpg",
+    "/uploads/products/21987_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/21987",
+  "generated_at": "2026-03-14T21:09:04.559Z"
+}

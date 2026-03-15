@@ -1,0 +1,83 @@
+{
+  "title": "Bantal Travel Murah Bikin Leher Enak!",
+  "hook_text": "Gak percaya leher sakit pas travel?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah orang pegang leher sakit lalu senyum lega melihat bantal OHSOME",
+      "narration": "Gak percaya leher sakit pas travel cuma gara-gara bantal salah? Nih solusinya bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Rotasi produk OHSOME Solo Corner Snail Neck Pillow dengan pencahayaan cinematic",
+      "narration": "Ini nih OHSOME Solo Corner Snail Neck Pillow, bentuknya unik banget kayak ular melingkar. Dark grey nya super keren banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh",
+      "narration": "Harganya? Seratus ribuan aja! Literally murah banget buat kualitas gini. Worth it no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi tangan memencet bantal dan menunjukkan sarung yang bisa dilepas",
+      "narration": "Bahannya super lembut, headrest-nya pas banget di kepala --- yang paling penting sarung-nya bisa dicuci. Nggak ribet, nggak gerah. Materialnya premium. Bentuknya ergonomis jadi leher nggak sakit."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang memakai bantal ini di dalam pesawat dan di kantor",
+      "narration": "Buat kamu yang sering naik pesawat, bus, atau cuma mau tidur enak di kantor sambil rebahan --- Travel jadi jauh lebih nyaman."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4.92 dan angka 20.000 terjual dengan animasi bintang",
+      "narration": "Ratingnya 4.92, udah terjual 20 ribu produk! Yang udah beli bilang, \"Lembut dan empuk banget, thank you seller\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah menunjuk ke arah tombol",
+      "narration": "Penasaran? Cek detail lengkapnya di finding dot id ya bestie, literally review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#OHSOME",
+    "#BantalLeher",
+    "#TravelGear",
+    "#ProductViral",
+    "#GenZIndonesia",
+    "#RekomendasiBarang",
+    "#TipsTravel",
+    "#FindingID"
+  ],
+  "product_id": 113438,
+  "product_title": "OHSOME - Solo Corner Snail Neck Pillow / Bantal Travel Friendly - Dark Grey / Blue / Light Grey Bantal Leher Tanpa Zipper",
+  "product_price": "99900.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/113438.jpg",
+    "/uploads/products/113438_1.jpg",
+    "/uploads/products/113438_2.jpg",
+    "/uploads/products/113438_3.jpg",
+    "/uploads/products/113438_4.jpg",
+    "/uploads/products/113438_5.jpg",
+    "/uploads/products/113438_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/113438",
+  "generated_at": "2026-03-13T16:56:45.616Z"
+}

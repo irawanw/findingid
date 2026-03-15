@@ -1,0 +1,83 @@
+{
+  "title": "Botol 1 Liter Cuma 75 Ribuan?! Gila Banget!",
+  "hook_text": "Stop scroll! Botol ini murah meriah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan memegang termos pink lalu mengangkatnya dengan ekspresi kaget sambil teks overlay besar muncul.",
+      "narration": "Guys, no cap, kalian pasti nggak bakal percaya sama harga botol minum satu liter ini."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot slow-motion termos stainless steel berputar-putar menampilkan warna pink yang estetik dan logo CucuLemon.",
+      "narration": "Ini lho CucuLemon Termos Stainless Steel, bestie. Tahan panas sama dingin, bisa simpan air selamanya, which is basically next level buat harian kalian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Transisi cepat dari botol kosong ke penuh dengan efek confetti emas, teks harga muncul besar di layar.",
+      "narration": "Nah, yang bikin kaget nih. Harga aslinya cuma seratus delapan puluhan ribu doang! Sixty-nine thousand rupiah, guys. Seratus delapan puluhan ribu buat satu liter! Worth it banget, dong."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: air panas dituang masuk, tutup dikunci, dan botol digoyang-goyang keras tanpa tumpah.",
+      "narration": "Speknya nggak main-main, guys. Pertama, bahan stainless steel jadi nggak berbau sama sekali. Kedua, tutupnya tersegel rapat banget, air nggak bakal tumpah mana-mana. Ketiga, kapasitas satu liter pas banget buat yang suka minum banyak, basically all day hydration!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario anak kos sedang belajar di kamar dengan botol di samping, lalu skena di kantor sambil meeting.",
+      "narration": "Perfect buat anak kos yang gak mau pusing beli air terus, atau kalian yang sibuk kerjaan seharian. Kalau aktivitas kamu sering begadang atau jalan-jalan jauh, botol ini wajib ada di tas!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.89 dan notifikasi '30.000 terjual' muncul dengan animasi bintang berkilau.",
+      "narration": "Pembelinya pada ngomong, desainnya simpel dan pengiriman super cepat. Jadi, kalau kamu ragu, cek ratingnya dulu ya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol 'Cek di Finding' muncul di layar dengan animasi panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#CucuLemon",
+    "#BotolMinumMurah",
+    "#HematKuliner",
+    "#AnakKos",
+    "#StudentLife",
+    "#HydrationStation",
+    "#ViralShorts",
+    "#TemukanBaru"
+  ],
+  "product_id": 153918,
+  "product_title": "CucuLemon Termos Stainless Steel Tumbler Tahan Panas Dingin Botol Minum 1 Liter Air Bottles",
+  "product_price": "75000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/153918.jpg",
+    "/uploads/products/153918_1.jpg",
+    "/uploads/products/153918_2.jpg",
+    "/uploads/products/153918_3.jpg",
+    "/uploads/products/153918_4.jpg",
+    "/uploads/products/153918_5.jpg",
+    "/uploads/products/153918_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/153918",
+  "generated_at": "2026-03-14T17:15:25.150Z"
+}

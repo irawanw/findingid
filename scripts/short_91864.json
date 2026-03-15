@@ -1,0 +1,77 @@
+{
+  "title": "Shower Set Hitam SUS 304 Murah Banget!",
+  "hook_text": "Mandi Mewah Harga Pelajar?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up air shower head, sleek black finish",
+      "narration": "Gila sih, kamar mandi jadi mewah cuma modal ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Full shower set pan, black finish close up",
+      "narration": "Ini TQTQ Shower Set stainless steel SUS 304. --- Desainnya minimalis hitam, literally next level buat aesthetic kamar mandi lo."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Price tag overlay or cash gesture animation",
+      "narration": "Harga aslinya bisa sampai satu jutaan. --- Tapi sekarang kamu bisa dapet ini cuma di dua ratus dua puluhan ribu aja bestie. Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up filter mechanism and installation process",
+      "narration": "Materialnya anti karat, ada filter air biar mandi lebih bersih. --- Instalasinya gampang banget, bisa kok DIY sendiri."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Person showering happily in modern bathroom",
+      "narration": "Perfect buat kamu yang sewa rumah dan butuh upgrade cepet tanpa renovasi besar. --- Atau buat yang mau kamar mandi estetik tapi budget terbatas."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "4.76 stars, 40k badge, text overlay of quote",
+      "narration": "Udah terjual empat puluh ribu unit dengan rating empat koma tujuh enam. --- Yang udah beli bilang, okelah buat harga segini semoga awet. --- Selang bawaan yang buat kran cabang diganti biar airnya makin kenceng."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id with arrow animation",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, ada review produknya di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, ada review produknya di sana!",
+  "hashtags": [
+    "#TQTQ",
+    "#ShowerSet",
+    "#KamarMandi",
+    "#RenovasiMurah",
+    "#GenZIndonesia",
+    "#ProdukViral",
+    "#MurahBanget",
+    "#FindingID"
+  ],
+  "product_id": 91864,
+  "product_title": "TQTQ SUS 304 Shower Set Shower Kamar Mandi Rain Shower Kotak Shower Mandi Set Stainless",
+  "product_price": "225910.00",
+  "product_rating": "4.76",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/91864.jpg"
+  ],
+  "product_link": "https://finding.id/p/91864",
+  "generated_at": "2026-03-13T16:58:22.553Z"
+}

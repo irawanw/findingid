@@ -1,0 +1,94 @@
+{
+  "title": "Foundation Serum Murah 90 Ribuan Doang Bestie!",
+  "hook_text": "Foundation mewah cuma harga kopi?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wajah dengan foundation flawless sambil memegang botol serum foundation SKINTIFIC.",
+      "narration": "Foundation mewah cuma harga secangkir kopi? Gak percaya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Host memegang produk SKINTIFIC dengan background cerah dan estetik.",
+      "narration": "Kenalin nih SKINTIFIC All Day Perfect Serum Foundation --- makeup yang rasanya kayak skincare."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar harga '90 RIBUAN' muncul di layar dengan efek koin jatuh.",
+      "narration": "Harga awal sih bisa sampai tiga ratus ribuan --- tapi sekarang dapet varian favoritnya cuma sembilan puluh ribuan doang!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi tekstur foundation di tangan lalu diaplikasikan ke wajah dengan cepat.",
+      "narration": "Teksturnya super ringan dan gampang banget di-blend --- tahan lama sampai sepuluh jam tanpa creasing. Plus ada kandungan skincare kayak hyaluronic acid --- jadi kulit tetep lembab."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wajah terlihat natural di pagi dan malam hari, menunjukkan ketahanan makeup.",
+      "narration": "Perfect buat kamu yang punya kulit oily tapi pengen finish natural. Tipsnya --- kalau susah di-blend, pastikan wajah bersih dan pake tipis tipis aja ya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.93 dan ikon keranjang belanja dengan angka 50k.",
+      "narration": "Total udah lima puluh ribu produk terjual dengan rating 4.93. Yang udah beli bilang --- performa baguss dan worth it banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol 'Cek Sekarang' muncul ke arah logo finding.id.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie --- review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#SKINTIFIC",
+    "#FoundationMurah",
+    "#MakeupViral",
+    "#BeautyIndonesia",
+    "#SkincareRoutine",
+    "#MakeupTips",
+    "#FindingID",
+    "#GenZBeauty"
+  ],
+  "product_id": 102194,
+  "product_title": "SKINTIFlC -ALL DAY PERFECT SERUM FOUNDATION | Perfect Coverage Blurring Skin Tint |make up foundation skin tinted bb cream corrector Blur Perfect  Breathable Flawless Coverage Healthy Finish Long-lasting oil-control",
+  "product_price": "92000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/102194.jpg",
+    "/uploads/products/102194_1.jpg",
+    "/uploads/products/102194_2.jpg",
+    "/uploads/products/102194_3.jpg",
+    "/uploads/products/102194_4.jpg",
+    "/uploads/products/102194_5.jpg",
+    "/uploads/products/102194_6.jpg",
+    "/uploads/products/102194_7.jpg",
+    "/uploads/products/102194_8.jpg",
+    "/uploads/products/102194_9.jpg",
+    "/uploads/products/102194_10.jpg",
+    "/uploads/products/102194_11.jpg",
+    "/uploads/products/102194_12.jpg",
+    "/uploads/products/102194_13.jpg",
+    "/uploads/products/102194_14.jpg",
+    "/uploads/products/102194_15.jpg",
+    "/uploads/products/102194_16.jpg",
+    "/uploads/products/102194_17.jpg"
+  ],
+  "product_link": "https://finding.id/p/102194",
+  "generated_at": "2026-03-13T20:30:54.342Z"
+}

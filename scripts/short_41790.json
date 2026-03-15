@@ -1,0 +1,84 @@
+{
+  "title": "Deodoran Pierre Cardin Murah Wangi Tahan Lama",
+  "hook_text": "Mau Wangi Mahal tapi Budget Pelajar?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah host yang terlihat terkejut sambil menunjuk ke kamera",
+      "narration": "Punya budget pas-pasan tapi mau wangi mahal? Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Pierre Cardin Body Spray di tangan dengan background studio bersih",
+      "narration": "Kenalin nih, Pierre Cardin Body Spray Deodorant! --- Wanginya fresh banget, nggak bikin pusing, literally next level."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay besar menampilkan harga '60 Ribuan' dengan animasi efek uang",
+      "narration": "Harganya cuma enam puluhan ribu aja! --- Worth it banget dibanding beli di toko offline."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: orang menyemprot, sabun mandi, dan orang tertawa di luar ruangan",
+      "narration": "Tahan lama seharian, cocok buat semua kulit dan gender. Plus, beli tiga pcs dapet gratis sabun mandi cair. Ada yang bilang wanginya gampang ilang setelah kering? --- Tenang, reapply dikit aja jadi awet kok."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Host berpakaian santai sedang berjalan di kampus atau area perkantoran",
+      "narration": "Perfect buat kamu pelajar, mahasiswa, atau pekerja kantoran yang butuh wangi segar tapi budget ramah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan angka terjual dengan efek confetti",
+      "narration": "Rating empat koma sembilan bintang, udah terjual tiga puluh ribu produk. --- Yang udah beli bilang 'harga cukup murah, pengiriman juga cepatt'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke bawah atau teks besar 'finding dot id'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#PierreCardin",
+    "#DeodoranMurah",
+    "#Rekomendasi",
+    "#GenZStyle",
+    "#WangiTahanLama",
+    "#LifeHack",
+    "#CariProduk",
+    "#FindingID"
+  ],
+  "product_id": 41790,
+  "product_title": "Pierre Cardin Body Spray Deodorant 150ml Aroma Menyegarkan",
+  "product_price": "65340.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/41790.jpg",
+    "/uploads/products/41790_1.jpg",
+    "/uploads/products/41790_2.jpg",
+    "/uploads/products/41790_3.jpg",
+    "/uploads/products/41790_4.jpg",
+    "/uploads/products/41790_5.jpg",
+    "/uploads/products/41790_6.jpg",
+    "/uploads/products/41790_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/41790",
+  "generated_at": "2026-03-13T21:50:51.983Z"
+}

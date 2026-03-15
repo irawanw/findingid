@@ -1,0 +1,96 @@
+{
+  "title": "Tas Sekolah Anak Cowok Bestie! Worth It Banget",
+  "hook_text": "Stop Scrolling! Tas Anak Cowok Worth It",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tas YH143 dipegang erat dengan ekspresi wajah shock dan mata membesar.",
+      "narration": "Emang boleh beli empat tas buat anak sekolah?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan tas YH143 dari berbagai sudut dengan pencahayaan cerah yang menyoroti detail jahitan.",
+      "narration": "Tenang bestie, ini tas ransel YH143 which is literally so cute dan beneran next level buat anak cowok!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan angka harga rendah, disusul cuplikan tas terisi penuh buku dan alat tulis.",
+      "narration": "Harga mulai enam puluhan ribu aja udah dapet tas yang super kokoh dan isinya muat banget buat semua alat tulisnya, worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: tangan memegang bahan nylon untuk tunjukkan ketebalannya, zoom in ke kancing yang berkilau, lalu shot tas dipakai di punggung anak sedang berlari.",
+      "narration": "Pertama bahannya Nylon yang tebal dan nggak gampang robek, kancingnya juga bagus dan aman semua, plus desainnya nggak bikin anakmu males masuk sekolah karena so cute!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene anak SD kelas dua sedang membawa tas tersebut dengan mudah sambil tersenyum, lalu transisi ke anak SMP membawa tas besar.",
+      "narration": "Perfect buat yang lagi cari tas buat anak SD kelas dua sampai SMA, ukurannya pas nggak kebesaran dan nggak terlalu kecil juga."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.86 dan angka 20.000 terjual dengan font yang jelas dan tegas.",
+      "narration": "Pembelinya pada ngomong tasnya bagus banget bahannya kokoh dan pengemasannya rapi, nggak dilipat-lipat sama sekali."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul di tengah layar dengan animasi arrow yang menunjuk ke bawah, background berwarna cerah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#TasAnakCowok",
+    "#TasSekolah",
+    "#ShopeeFinds",
+    "#TasSDSMP",
+    "#MomHacks",
+    "#TasAnakLaki",
+    "#Parenting",
+    "#TasMurah"
+  ],
+  "product_id": 90184,
+  "product_title": "[Y&H] Tas Ransel Anak Sekolah Tas Ransel Anak Laki-laki Tas Cowok Tas Anak SD SMP SMA - YH143",
+  "product_price": "69900.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/90184.jpg",
+    "/uploads/products/90184_1.jpg",
+    "/uploads/products/90184_2.jpg",
+    "/uploads/products/90184_3.jpg",
+    "/uploads/products/90184_4.jpg",
+    "/uploads/products/90184_5.jpg",
+    "/uploads/products/90184_6.jpg",
+    "/uploads/products/90184_7.jpg",
+    "/uploads/products/90184_8.jpg",
+    "/uploads/products/90184_9.jpg",
+    "/uploads/products/90184_10.jpg",
+    "/uploads/products/90184_11.jpg",
+    "/uploads/products/90184_12.jpg",
+    "/uploads/products/90184_13.jpg",
+    "/uploads/products/90184_14.jpg",
+    "/uploads/products/90184_15.jpg",
+    "/uploads/products/90184_16.jpg",
+    "/uploads/products/90184_17.jpg",
+    "/uploads/products/90184_18.jpg",
+    "/uploads/products/90184_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/90184",
+  "generated_at": "2026-03-14T14:26:42.011Z"
+}

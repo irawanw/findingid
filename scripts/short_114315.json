@@ -1,0 +1,83 @@
+{
+  "title": "Setelan Koko Anak Bestie! Murah Meriah 99-an",
+  "hook_text": "STOP! Koko anak 99-an?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up setelan koko anak putih yang sedang dipakai main atau berpose lucu dengan teks overlay besar",
+      "narration": "Stop bestie! Kamu tau nggak kalau ada setelan koko anak seharga seratus delapan puluhan ribu aja?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat anak-anak memakai model HASBI SERIES sambil senyum dan berputar-putar",
+      "narration": "Ini ALHANS Setelan Koko Anak HASBI SERIES, cocok buat si kecil usia satu sampai sepuluh tahun, literally so cute dan kualitasnya nggak main-main!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan grafis harga Rp 99.000 muncul dengan efek 'pop' dan background uang atau simbol hemat",
+      "narration": "Wah, harganya cuma seratus delapan puluhan ribu doang, which is worth it banget untuk kualitas kain yang sekelas kain koko asli!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Zoom ke tekstur kain tebal, 2. Anak pakai koko lengan panjang yang rapi, 3. Tampilan detail jahitan dan model",
+      "narration": "No cap, bahannya tebal dan adem halus banget, nggak gampang tembus cahaya. Lengan panjangnya bikin anak lebih rapi saat keluar rumah, plus desainnya menarik banget, cocok buat acara formal maupun santai!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario anak memakai koko putih untuk acara manasik atau sekolah dengan latar belakang masjid atau kelas",
+      "narration": "Perfect buat yang sering ngikut manasik haji atau sekolah, juga kalau kamu cari baju seragam yang nyaman dipakai seharian tanpa bikin anak gerah!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.86 bintang dan angka 20.000 terjual dengan quote bubble muncul",
+      "narration": "Pembelinya pada bilang kainnya tebal tidak mengecewakan sama sekali dan pelayanan ramah, ratingnya 4.86 dari dua puluh ribu produk terjual!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi logo finding.id muncul dengan panah menunjuk ke bawah atau tombol beli",
+      "narration": "Penasaran sama stok lengkapnya? Cek di finding dot id ya bestie, diskonnya cuma hari ini!"
+    }
+  ],
+  "cta": "Cek stok di finding dot id sekarang!",
+  "hashtags": [
+    "#fashionanak",
+    "#kokoanak",
+    "#hasbiseries",
+    "#parentingindonesia",
+    "#bajusanakmurah",
+    "#manasikhaji",
+    "#styleanak",
+    "#findingid"
+  ],
+  "product_id": 114315,
+  "product_title": "ALHANS Setelan Koko Anak Usia 1-10 Tahun Lengan Panjang Model HASBI SERIES",
+  "product_price": "99000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "https://down-id.img.susercontent.com/file/id-11134207-7r98s-ly7902iu4w6670@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7r992-ly4d33xk7ia62e@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7r991-ly4gfhw9l3ymfe@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7r98s-ly4d33xk63pqb2@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7r98q-ly4gfhvzlj5bff@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7r98t-ly7902itwgx953@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7r990-ly7902iu3hlq5a@resize_w720_nl"
+  ],
+  "product_link": "https://finding.id/p/114315",
+  "generated_at": "2026-03-14T16:25:24.810Z"
+}

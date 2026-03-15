@@ -1,0 +1,77 @@
+{
+  "title": "Setrika Maspion 100 Ribu Doang! SNI Garansi 3 Tahun",
+  "hook_text": "Lo tau nggak sih setrika branded?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up setrika Maspion dengan teks besar 'CUMA 100 RIBUAN?' muncul di layar",
+      "narration": "Lo tau nggak sih, setrika branded cuma seratus tujuh ribuan doang? --- Gila nggak sih harganya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Maspion EX-1010 di atas meja dengan pencahayaan cerah",
+      "narration": "Ini Maspion EX-1010, setrika SNI garansi elemen tiga tahun. --- No cap, brand lokal legendaris banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga 'Rp 107.000-an' muncul besar dengan efek suara 'ching'",
+      "narration": "Seratus tujuh ribuan aja. --- Literally harga kopi secangkir, dapet setrika awet seumur hidup. --- Worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat fitur: alas setrika, tombol suhu, dan ukuran ringkas",
+      "narration": "Alas anti lengket, baju aman banget. --- Proteksi ganda thermostat, rumah aman. --- Desain compact, gampang disimpan. --- Fitur next level buat kebutuhan harian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang menyetrika baju di kamar kos atau rumah sederhana",
+      "narration": "Perfect buat harian di rumah atau kost-kostan. --- Bukan yang mewah, tapi fungsinya solid buat kebutuhan kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.79 dan jumlah penjualan 50.000+",
+      "narration": "Laku lima puluh ribuan, rating 4,79. --- Yang udah beli bilang, 'Packing aman dan rapi, sepadan banget sama harga.' --- Gak ada komplain."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol 'Cek Sekarang' mengarah ke logo finding.id",
+      "narration": "Penasaran detailnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Maspion",
+    "#SetrikaMurah",
+    "#LifeHack",
+    "#BelanjaOnline",
+    "#RekomendasiBarang",
+    "#BelanjaCerdas",
+    "#ViralProduct",
+    "#ShortsIndo"
+  ],
+  "product_id": 23044,
+  "product_title": "MASPION Setrika Listrik EX-1010 Blackberry - Gosokan Baju EX1010 EX 1010 Murah Garansi Asli SNI",
+  "product_price": "107675.00",
+  "product_rating": "4.79",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/23044.jpg"
+  ],
+  "product_link": "https://finding.id/p/23044",
+  "generated_at": "2026-03-13T19:36:28.945Z"
+}

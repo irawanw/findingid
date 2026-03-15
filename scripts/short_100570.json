@@ -1,0 +1,83 @@
+{
+  "title": "Rahasia Muka Glowing Ala Gen Z",
+  "hook_text": "Mau muka glowing tanpa ribet?",
+  "estimated_duration": 75,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wajah glowing dengan efek cahaya, lalu transisi cepat ke produk di atas meja",
+      "narration": "Mau punya kulit glowing tanpa ribet? Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing produk Glowsicha, tampilkan Day Cream dan Night Jelly Booster dengan jelas",
+      "narration": "Kenalin nih Glowsicha Bundle 2in1. Ada Day Cream dan Night Jelly Booster. Paket lengkap buat kamu yang mau wajah cerah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan animasi 'HARGA TURUN', background produk",
+      "narration": "Harga aslinya bisa sampai seratus lima puluh tiga ribu, tapi sekarang cuma seratus ribu sembilan ratus rupiah saja. Literally harga miring!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 20,
+      "visual": "Aplikasi krim di tangan, tunjukkan tekstur jelly dan cream yang lembut",
+      "narration": "Kandungan Niacinamide dan Pearl Extractnya literally next level. Bikin kulit lembab dan cerah seharian full. So cute banget packag-nya. No cap, ini skincare wajib punya. Worth it banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 45,
+      "duration_s": 15,
+      "visual": "Screenshot rating 4.83 dan jumlah pembelian 100.000, lalu teks review muncul",
+      "narration": "Sudah terjual seratus ribu produk dengan rating empat koma delapan tiga. Reviewnya bilang, tekstur CREAMNYA begitu lembuttt. Ada yang bilang tekstur padet? Tenang, aplikasikan tipis-tipis saja, hasilnya kokoh banget nahan kelembaban."
+    },
+    {
+      "id": "colors",
+      "start_s": 60,
+      "duration_s": 10,
+      "visual": "Tampilan varian warna produk yang tersedia, pilih-pilih varian",
+      "narration": "Pilih varian D&N Cream atau paket lengkap tiga varian. Ada yang cocok buat kamu?"
+    },
+    {
+      "id": "cta",
+      "start_s": 70,
+      "duration_s": 5,
+      "visual": "Tombol klik link di bawah layar, panah menunjuk ke arah link",
+      "narration": "Klik link di bawah sekarang, sebelum kehabisan!"
+    }
+  ],
+  "cta": "Klik link di bawah sekarang, sebelum kehabisan!",
+  "hashtags": [
+    "#skincareglowing",
+    "#glowsicha",
+    "#skincaremurah",
+    "#ramahkanteng",
+    "#glowingnatural",
+    "#skincareindonesia",
+    "#dayandnightcream",
+    "#racunshopee"
+  ],
+  "product_id": 100570,
+  "product_title": "Glowsicha Bundle 2in1 Bright Day Cream Night Cream Jelly Booster - Paket Lengkap Krim Mencerahkan Wajah Siang dan Malam Dengan Niacinamide tone up cerah moisturizer Pelembab Bercahaya brightening wajah cream whitening skincare glowing Membantu moist",
+  "product_price": "100900.00",
+  "product_images": [
+    "/uploads/products/100570.jpg",
+    "/uploads/products/100570_1.jpg",
+    "/uploads/products/100570_2.jpg",
+    "/uploads/products/100570_3.jpg",
+    "/uploads/products/100570_4.jpg",
+    "/uploads/products/100570_5.jpg",
+    "/uploads/products/100570_6.jpg",
+    "/uploads/products/100570_7.jpg",
+    "/uploads/products/100570_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/100570",
+  "generated_at": "2026-03-11T20:06:54.689Z"
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Flek Hitam Hilang? Toner Ini Gila Banget!",
+  "hook_text": "Stop pakai toner biasa dong!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah dengan flek hitam di pipi, lalu transisi cepat ke tawaran senyum lebar sambil memegang botol SKINTIFIC.",
+      "narration": "Pernah gak sih ngerasa makeup nempel di flek hitam gak bakal ilang, padahal udah rutin skincare? Nggak percaya dong, tapi ini solusinya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk SKINTIFIC 377 Pro Dark Spot Essence Toner berputar pelan dengan cahaya golden hour menyinari tekstur cairnya.",
+      "narration": "Kenalan sama SKINTIFIC 377 Pro Dark Spot Essence Toner, which is basically next level buat kamu yang mau kulit glowing tanpa pusing. Formula ini punya 6-in-1 efficacy, literally so powerful untuk nangani flek hitam, bintik hitam, plus hidrasi intensif sekaligus."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek confetti, lalu split screen menampilkan stok habis vs stok aman.",
+      "narration": "Kamu pasti shock banget kalau tahu harganya cuma seratus delapan puluhan ribuan aja, nggak perlu mahal-mahal. Buat kamu yang mau upgrade skincare rutin, ini worth it banget, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Tekstur cair diteteskan di tangan, 2. Skin care di wajah terlihat lembap, 3. Grafik polusi di luar jendela vs kulit bersih.",
+      "narration": "Pertama, teksturnya cair dan cepat meresap, nggak lengket sama sekali, perfect buat kulit berminyak. Kedua, dia melindungi dari polusi kota yang bikin kusam, basically skincare shield alami. Ketiga, hidrasinya mendalam tapi ringan, jadi wajah nggak jadi berat setelah diaplikasi. Plus ada optical scattering technology untuk nyamarkan noda secara instan!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario remaja sekolah yang lagi panik karena bekas jerawat terlihat di bawah lampu kelas.",
+      "narration": "Perfect buat yang sering kena polusi berat atau punya masalah bekas jerawat yang susah ilang. Kalau aktivitas kamu banyak keluar masuk ruangan ber-AC atau kena matahari, ini bakal jadi best friend kamu buat meratakan warna kulit."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang empat koma sembilan tiga dan angka dua puluh ribuan terjual yang berkedip-kedip.",
+      "narration": "Rating empat koma sembilan tiga dari dua puluh ribu produk terjual, dan yang udah beli bilang teksturnya sangat cocok dan pengiriman aman serta cepat, pokoknya terpercaya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Arrow besar menunjuk ke bawah dengan tulisan 'Cek Finding Dot ID' yang animatif.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#SKINTIFIC",
+    "#FlekHitam",
+    "#GlowUp",
+    "#SkincareIndonesia",
+    "#GenZBeauty",
+    "#TonerWajah",
+    "#SkinCareRoutine",
+    "#FindingId"
+  ],
+  "product_id": 106010,
+  "product_title": "SKINTIFIC - 377 Pro Dark Spot Essence Toner 80ml | Flek Hitam Brightening Whitening 6-In-1 Efficacy Acne Spot Hidrasi Intensif 377 Pro Menyamarkan Noda Hitam Bintik Hitam Meratakan Warna Kulit",
+  "product_price": "108900.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/106010.jpg",
+    "/uploads/products/106010_1.jpg",
+    "/uploads/products/106010_2.jpg",
+    "/uploads/products/106010_3.jpg",
+    "/uploads/products/106010_4.jpg",
+    "/uploads/products/106010_5.jpg",
+    "/uploads/products/106010_6.jpg",
+    "/uploads/products/106010_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/106010",
+  "generated_at": "2026-03-14T05:01:19.574Z"
+}

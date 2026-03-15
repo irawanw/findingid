@@ -1,0 +1,77 @@
+{
+  "title": "Sunscreen Murah SPF 50+ Worth It Banget?",
+  "hook_text": "SPF 50+ Cuma 50 Ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing dengan teks overlay besar",
+      "narration": "Siap-siap kaget, sunscreen SPF 50 plus cuma lima puluh tiga ribuan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Botol produk berputar di tengah meja",
+      "narration": "Ini dia Ponds UV Miracle Bright SPF 50+ 25G. Solusi wajah glowing tanpa takut terbakar matahari seharian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul dan uang berhitung",
+      "narration": "Harganya cuma lima puluh tiga ribuan doang bestie. Bayangin dapet perlindungan maksimal dan hasil cerah. Which is worth it banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tekstur sunscreen di tangan dan efek sinar UV",
+      "narration": "Ada SPF 50 plus PA+++ buat nutupin sinar UVA dan UVB. --- Noda hitam perlahan pudar, kulit jadi lebih cerah dan bercahaya. Teksturnya cair, nggak bikin white cast di wajah, jadi kulit adem banget dan nyaman."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita berjalan di luar ruangan lalu close up bawah mata",
+      "narration": "Perfect buat kamu yang sering di luar rumah tapi takut noda makin gelap di area bawah mata. --- Atau kamu yang nggak suka wajah lecek dan lengket."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 5 dan counter penjualan naik",
+      "narration": "Udah dijual 20.000 produk sama rating 4.9. --- Yang udah beli bilang 'teksturnya cair dan cepat menyerap di kulit wajah'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Produk dengan logo finding.id di pojok kanan",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana."
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana.",
+  "hashtags": [
+    "#skincare",
+    "#sunscreen",
+    "#ponds",
+    "#skincaremurah",
+    "#glowingskin",
+    "#spf50",
+    "#beautyindonesia",
+    "#findingid"
+  ],
+  "product_id": 74588,
+  "product_title": "PONDS UV MIRACLE BRIGHT SPF 50+ 25G",
+  "product_price": "53700.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/74588.jpg"
+  ],
+  "product_link": "https://finding.id/p/74588",
+  "generated_at": "2026-03-13T22:41:14.603Z"
+}

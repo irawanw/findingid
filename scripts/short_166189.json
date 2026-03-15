@@ -1,0 +1,83 @@
+{
+  "title": "Popok Bayi Anti Ruam & Murah Banget! 🍑✨",
+  "hook_text": "Bayi ruam gara-gara popok?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah bayi yang sedang rewel digendong, lalu transisi cepat ke bayi tersenyum ceria",
+      "narration": "Stop bestie, jangan sampai kulit bayi kamu merah meradang gara-gara popok yang salah pilih, literally bikin nangis terus!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product shot Merries Good Skin Pants Popok Bayi NB-S Twin Pack berkilau di atas selimut, zoom in ke tekstur lembut",
+      "narration": "Solusinya nih, Merries Good Skin Pants Popok Bayi ukuran New Born sampai S, isinya 40 buah twin pack yang literally next level lembut banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 117.500 muncul dengan efek uang terbang, lalu muncul teks 'Worth It!' di layar",
+      "narration": "Gila sih harganya cuma seratus tujuh belas ribuan doang ya? Which is worth it banget kalau liat kualitasnya sepremium ini, nggak perlu mahal-mahal."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Tetesan air hujan jatuh tidak meresap ke kulit bayi, 2. Animasi ekstrak witch hazel bekerja, 3. Ikon klinis teruji",
+      "narration": "Pertama, teknologi penyerapnya super cepat jadi kulit nggak lembab. Kedua, ada ekstrak alami witch hazel yang bikin kulit aman dari iritasi. Ketiga, sudah teruji klinis dan bebas alergi, which is basically peace of mind buat mamah."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage: Bayi baru lahir disekelilingi peralatan bayi, lalu bayi yang baru saja mandi dan dibalut popok ini",
+      "narration": "Perfect buat yang lagi persiapan baby shower atau yang anaknya baru lahir. Kalau aktivitas kamu sering ganti popok tapi takut bikin ruam, ini definitely the one!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Skrin shot rating 4.90/5 dan angka 20.000 terjual, muncul quote bubble dari pembeli",
+      "narration": "Yang udah beli bilang kualiatnya lembut di kulit bayi dan gak bikin ruam sama sekali, plus packingnya aman banget ya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi klik, lalu tombol 'Cek Sekarang' berdenyut",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stok terbatas lho sebelum ludes!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#PopokBayi",
+    "#Merries",
+    "#ParentingHacks",
+    "#BabyEssentials",
+    "#IbuBunda",
+    "#NewbornCare",
+    "#ViralShopee",
+    "#FindingId"
+  ],
+  "product_id": 166189,
+  "product_title": "Merries Good Skin Pants Popok Bayi NB-S (3- 8kg) Isi 40 Buah Twin Pack",
+  "product_price": "117500.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/166189.jpg",
+    "/uploads/products/166189_1.jpg",
+    "/uploads/products/166189_2.jpg",
+    "/uploads/products/166189_3.jpg",
+    "/uploads/products/166189_4.jpg",
+    "/uploads/products/166189_5.jpg",
+    "/uploads/products/166189_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/166189",
+  "generated_at": "2026-03-15T10:25:37.147Z"
+}

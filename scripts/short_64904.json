@@ -1,0 +1,88 @@
+{
+  "title": "Koper 20 Inch Cuma 200 Ribu? Bestie Wajib Tau!",
+  "hook_text": "Koper 20 Inch Cuma Ratusan Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up koper dibuka dramatis dengan cahaya terang",
+      "narration": "Kalian tahu nggak sih, sekarang bisa dapet koper kabin cuma seharga dua ratus ribuan? --- Tonton sampai habis!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tas Koper Polo City diputar di tengah layar",
+      "narration": "Kenalin nih, Tas Koper Polo City Hardcase 20 inch. Material ABS Fiber ringan kokoh, literally next level buat traveling!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul besar dengan efek kaget",
+      "narration": "Yang bikin shock, harga cuma dua ratus ribuan aja! Bandingin sama kualitasnya yang super worth it, no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up roda berputar, kunci, dan perbandingan ukuran dengan pesawat",
+      "narration": "Roda 360 derajat mulus, kunci kombinasi aman, ukuran 20 inch pas buat masuk kabin. --- Kalau gagang baret dikit, itu cuma goresan ringan, jangan panik!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang packing baju dan tersenyum di depan pintu",
+      "narration": "Perfect buat budget terbatas yang pengen gaya pas jalan domestik. Warna-warninya on point, especially Pink sama Mint, so cute!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Overlay bintang rating 4.8 dan jumlah terjual 60rb",
+      "narration": "Sudah laku 60 ribu pasang rating 4,8 bintang. Yang udah beli bilang, 'Lucu banget buat traveling, tinggal tambahin stiker.' Valid!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah mengarah ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#KoperMurah",
+    "#TravelingIndonesia",
+    "#PoloCity",
+    "#KoperKabin",
+    "#TipsTravel",
+    "#GenZTravel",
+    "#Koper20Inch",
+    "#FindingID"
+  ],
+  "product_id": 64904,
+  "product_title": "Tas Koper Polo City Hardcase size 20 inch - 073",
+  "product_price": "219000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64904.jpg",
+    "/uploads/products/64904_1.jpg",
+    "/uploads/products/64904_2.jpg",
+    "/uploads/products/64904_3.jpg",
+    "/uploads/products/64904_4.jpg",
+    "/uploads/products/64904_5.jpg",
+    "/uploads/products/64904_6.jpg",
+    "/uploads/products/64904_7.jpg",
+    "/uploads/products/64904_8.jpg",
+    "/uploads/products/64904_9.jpg",
+    "/uploads/products/64904_10.jpg",
+    "/uploads/products/64904_11.jpg"
+  ],
+  "product_link": "https://finding.id/p/64904",
+  "generated_at": "2026-03-13T17:02:08.877Z"
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Jam Tangan Murah Mahal Banget! 🤯 Aolon Curve",
+  "hook_text": "STOP! Jangan beli jam dulu!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tangan memegang jam Aolon Curve di depan layar, background blurr dengan efek zoom-in cepat.",
+      "narration": "Emang boleh beli empat? Ada yang bilang 'melebihu ekspektasi pribadi' dan 'kinclong'!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi smooth menampilkan jam Aolon Curve berkilau, highlight fitur layar melengkung 2,01 inci.",
+      "narration": "This is the Aolon Curve smartwatch nih bestie, dengan layar melengkung IPS super jernih dan tahan air IP68, which is basically next level!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek confetti, lalu muncul angka terjual dan rating.",
+      "narration": "Guess what? Harganya cuma di dua ratus empat puluh sembilan ribuan sampai satu jutaan! No cap, worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunas running pace, kanan tunas detak jantung, bawah tunas wallpaper custom.",
+      "narration": "Fiturnya serba lengkap: monitor running pace biar lari makin oke, pelacak detak jantung untuk kesehatan, plus wallpaper custom biar estetik!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: cowok lari pagi, cowok gym, cowok jalan santai, jam di pergelangan tangan terlihat pas.",
+      "narration": "Perfect buat kamu yang sering olahraga atau cuma mau gaya hidup sehat tanpa ribet, especially kalau tangan sedang!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.86 bintang dan angka 70.000 terjual, teks kutipan muncul di bawah.",
+      "narration": "Pembelinya pada ngomong 'layarnya sejauh ini tahan goresan ringan' setelah beberapa hari pake masih kinclong!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul besar dengan tombol animasi 'Cek Sekarang', background warna brand.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#AolonCurve",
+    "#SmartwatchMurah",
+    "#GadgetViral",
+    "#FitnessTracker",
+    "#HematCuan",
+    "#GenZStyle",
+    "#TechReview",
+    "#FindingId"
+  ],
+  "product_id": 167462,
+  "product_title": "Aolon Curve Jam Tangan Smartwatch Tahan Air IP68 Layar IPS Melengkung 2,01 inci Telepon Bluetooth Running Pace Wallpaper Kustom Jam Pintar Pria Pemantauan Kesehatan",
+  "product_price": "249000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/167462.jpg",
+    "/uploads/products/167462_1.jpg",
+    "/uploads/products/167462_2.jpg",
+    "/uploads/products/167462_3.jpg",
+    "/uploads/products/167462_4.jpg",
+    "/uploads/products/167462_5.jpg",
+    "/uploads/products/167462_6.jpg",
+    "/uploads/products/167462_7.jpg",
+    "/uploads/products/167462_8.jpg",
+    "/uploads/products/167462_9.jpg",
+    "/uploads/products/167462_10.jpg",
+    "/uploads/products/167462_11.jpg",
+    "/uploads/products/167462_12.jpg",
+    "/uploads/products/167462_13.jpg",
+    "/uploads/products/167462_14.jpg",
+    "/uploads/products/167462_15.jpg",
+    "/uploads/products/167462_16.jpg",
+    "/uploads/products/167462_17.jpg",
+    "/uploads/products/167462_18.jpg"
+  ],
+  "product_link": "https://finding.id/p/167462",
+  "generated_at": "2026-03-15T11:03:28.778Z"
+}

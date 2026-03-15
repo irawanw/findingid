@@ -1,0 +1,80 @@
+{
+  "title": "Lucas Lipbalm Viral Worth It No Cap!",
+  "hook_text": "Bibir kering parah? Bikin melempem kayak bayi!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up bibir kering yang sedang mengelupas dengan efek dramatis, lalu transisi cepat ke produk.",
+      "narration": "Bibir kamu yang super kering, bakal langsung lembutin dalam hitungan detik. --- Ini dia si ajaib yang kamu cari nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk di atas meja estetik dengan pencahayaan hangat, tangan memegang lipbalm.",
+      "narration": "Ini Pure Pawpaw Lucas Lipbalm, si legendaris bebas lilin dan pewangi. Literally no cap, wajib banget punya buat kamu semua."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga besar muncul di layar dengan efek koin jatuh, lalu cut ke wajah ekspresif senang.",
+      "narration": "Harga cuma lima puluh tiga ribuan doang! --- Which is worth it banget buat kantong pelajar sekarang."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi olesan lipbalm di tangan menunjukkan tekstur berminyak, lalu close up botol produk.",
+      "narration": "Tekstur berminyak tapi ngelembabin, wangi strawberry enak banget. --- Bebas lilin aman buat kulit sensitif, literally jadi lebih nyaman dipakai seharian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang di dalam ruangan ber-AC dan di luar ruangan terkena matahari.",
+      "narration": "Perfect buat kamu yang sering bibir kering kena AC. --- Kalau aktivitas kamu di luar, ini solusinya banget buat kamu semua."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 5 dan angka penjual 20.000 dengan overlay teks testimoni.",
+      "narration": "Rating 4,91 dari dua puluh ribu pembeli! --- Yang udah beli bilang wanginya beneran enak bangetttt, bikin bibir lembut."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan akhir dengan logo finding.id dan tombol panah mengarah ke layar.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, produk-nya ada di sana sekarang!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, produk-nya ada di sana sekarang!",
+  "hashtags": [
+    "#LucasLipbalm",
+    "#LipbalmMurah",
+    "#SkincareViral",
+    "#GenZIndonesia",
+    "#FindingId",
+    "#ReviewSkincare",
+    "#BibirSehat",
+    "#WorthIt"
+  ],
+  "product_id": 119883,
+  "product_title": "Pure Pawpaw Lucas Lipbalm 25gr - Bebas Lilin & Pewangi",
+  "product_price": "53980.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/119883.jpg",
+    "/uploads/products/119883_1.jpg",
+    "/uploads/products/119883_2.jpg",
+    "/uploads/products/119883_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/119883",
+  "generated_at": "2026-03-13T19:43:03.088Z"
+}

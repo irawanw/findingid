@@ -1,0 +1,84 @@
+{
+  "title": "Celana Cargo Viral Ini Gila Banget! 🔥",
+  "hook_text": "Gila sih, ini celana cargo paling hype tahun ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah presenter atau produk celana yang diputar cepat dengan efek zoom in dramatis",
+      "narration": "Gila sih, ini celana cargo paling hype tahun ini nih, literally so cute!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase detail bahan katun twill, karet pinggang, dan model memakai celana dengan gaya kasual",
+      "narration": "Produk asli FOLKSYSTEM Original, bahan katun twill yang stretch banget, no cap."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek uang jatuh atau harga coret",
+      "narration": "Harganya cuma sembilan puluh tujuh ribuan, worth it banget untuk kualitasnya di pasar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menampilkan 3 fitur: karet pinggang, potongan kaki, dan varian warna",
+      "narration": "Pertama karet pinggangnya nyaman dipakai seharian, nggak bikin gerah sama sekali pas jalan-jalan. --- Kedua potongan skinny bikin kaki kelihatan panjang, which is worth it banget buat outfit. --- Ketiga warnanya banyak banget pilihan, ada yang army dan abu-abu original, bahan kanvas twill stretch."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Presenter lagi jalan-jalan di mall atau kafe, tunjukkan gaya casual yang rapi",
+      "narration": "Perfect buat kamu yang suka gaya kasual tapi tetap rapi setiap hari, bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.8 dan angka 60.000 terjual muncul di layar",
+      "narration": "Rating empat koma delapan dan enam puluh ribu terjual. --- Yang udah beli bilang kualitas bahan lumayan bagus, ukuran L pas buat 165cm."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul di layar dengan animasi klik",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#CelanaCargo",
+    "#Folksystem",
+    "#OutfitKasual",
+    "#PriaIndonesia",
+    "#FashionViral",
+    "#StyleDaily",
+    "#FindingId",
+    "#HaulFashion"
+  ],
+  "product_id": 142079,
+  "product_title": "Celana Pria Jogger Cargo Gesper Panjang FOLKSYSTEM Original",
+  "product_price": "97020.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/142079.jpg",
+    "/uploads/products/142079_1.jpg",
+    "/uploads/products/142079_2.jpg",
+    "/uploads/products/142079_3.jpg",
+    "/uploads/products/142079_4.jpg",
+    "/uploads/products/142079_5.jpg",
+    "/uploads/products/142079_6.jpg",
+    "/uploads/products/142079_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/142079",
+  "generated_at": "2026-03-14T02:07:50.527Z"
+}

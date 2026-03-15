@@ -1,0 +1,83 @@
+{
+  "title": "Sandal 100 Ribu? Worth It Banget!",
+  "hook_text": "Sandal 100 Ribu? No Cap!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up shot sandal Christian Bale Jessica dengan pencahayaan cinematic, lalu transisi cepat ke wajah kreator yang terlihat takjub.",
+      "narration": "Gila sih, sandal model gemes gini harganya cuma seratus ribuan? Literally no cap bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk berputar perlahan menampilkan detail tali silang dan sol tebal, diselingi footage kaki memakai sandal jalan santai.",
+      "narration": "Ini dia Christian Bale Jessica, sandal flat platform yang lagi viral banget. Modelnya super trendi dengan warna yang dipaduin pas banget, jadi outfit casual kamu langsung naik level!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay besar 'Rp 100.000-an' muncul di tengah layar dengan efek kilat, lalu muncul ikon tas belanja yang penuh.",
+      "narration": "Bayangin, harga cuma seratus ribuan an, tapi dapet barang yang kualitasnya jauh di atas harganya. Which is worth it banget kalau kamu cari barang bagus tapi nggak mau boncos!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: jari menekan sol untuk menunjukkan empuk, zoom in jahitan, dan kaki berjalan di permukaan kasar.",
+      "narration": "Fiturnya next level, bestie. Pertama, solnya an tebal dan empuk banget, jadi kaki nggak bakal sakit walau dipakai seharian. Kedua, jahitannya rapi dan kuat, nggak bakal gampang copot. Ketiga, bahannya elastis, jadi pas di kaki dan nyaman banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Kreator sedang berjalan santai di taman atau nongkrong di kafe dengan teman, mengenakan sandal tersebut.",
+      "narration": "Produk ini perfect banget buat kalian yang sering jalan jauh, mau nongkrong santai, atau sekadar outfit casual harian. Kalau kamu suka gaya simpel tapi tetep kece, ini wajib punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.80 bintang dan angka 20.000 terjual dengan animasi angka berputar, lalu teks kutipan muncul.",
+      "narration": "Sudah 20.000 produk terjual dengan rating 4.80! Yang udah beli bilang kalau kualitasnya sesuai harga dan solnya empuk banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Kreator menunjuk ke arah layar atau logo finding.id muncul besar di layar dengan background yang cerah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#ChristianBaleJessica",
+    "#SandalMurah",
+    "#OotdCasual",
+    "#SepatuWanita",
+    "#ViralProduct",
+    "#FashionIndonesia",
+    "#BelanjaHemat",
+    "#FindingID"
+  ],
+  "product_id": 86848,
+  "product_title": "Christian Bale Jessica Sendal flat platform Cewek silang cantik sandal Wanita",
+  "product_price": "100000.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/86848.jpg",
+    "/uploads/products/86848_1.jpg",
+    "/uploads/products/86848_2.jpg",
+    "/uploads/products/86848_3.jpg",
+    "/uploads/products/86848_4.jpg",
+    "/uploads/products/86848_5.jpg",
+    "/uploads/products/86848_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/86848",
+  "generated_at": "2026-03-15T15:48:41.184Z"
+}

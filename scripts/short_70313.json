@@ -1,0 +1,79 @@
+{
+  "title": "Korset Momiasi Bikin Perut Datar Banget!",
+  "hook_text": "Perut Datar Pasca Melahirkan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up ibu memegang perut, transisi cepat ke produk Momiasi",
+      "narration": "Mau perut datar lagi tapi takut nggak nyaman?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Momiasi diputar dari berbagai sudut, tunjukkan warna beige dan black",
+      "narration": "Kenalin nih, Momiasi! Korset stagen gurita yang jadi favorit banget buat Momi pasca melahirkan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kilau",
+      "narration": "Dan harganya? Delapan puluhan ribu aja! Which is worth it banget buat kualitas kayak gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo velcro ditarik, tunjukkan tekstur bahan halus, ibu berjalan nyaman",
+      "narration": "Bahan halus nggak panas, literally nyaman banget. Ada velcro buat atur kekencangan, jadi pas di badan --- Ukuran all size 40 sampai 60 kilogram, jadi nggak perlu khawatir kekecilan. Plus, bantu kurangi nyeri punggung, which is next level banget buat pemulihan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu sedang menggendong bayi sambil senyum, terlihat nyaman",
+      "narration": "Perfect buat kamu yang baru lahiran normal atau caesar. Kalau aktivitas kamu banyak gerak, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.8 bintang dan teks 60.000 terjual",
+      "narration": "Rating 4,8 bintang, udah terjual 60.000 unit! Yang udah beli bilang bahannya halus dan warnanya netral."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan layar HP dengan tulisan finding dot id",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#Momiasi",
+    "#KorsetPascaMelahirkan",
+    "#TipsIbu",
+    "#BodyRecovery",
+    "#ProdukViral",
+    "#CekDulu",
+    "#IbuSehat",
+    "#FindID"
+  ],
+  "product_id": 70313,
+  "product_title": "Momiasi - Korset Stagen Gurita Bengkung Pelangsing Pecngecil Perut Pasca Melahirkan Wanita Premium",
+  "product_price": "84900.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/70313.jpg",
+    "/uploads/products/70313_1.jpg",
+    "/uploads/products/70313_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/70313",
+  "generated_at": "2026-03-13T20:49:26.926Z"
+}

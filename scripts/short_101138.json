@@ -1,0 +1,92 @@
+{
+  "title": "Tas Laptop Anti Air & Estetik! Cek Harga Gila Ini 😱",
+  "hook_text": "Stop! Jangan beli tas laptop sembarangan!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tas laptop berwarna Biru-Tas yang disiram air langsung, air menetes di permukaan tapi tidak meresap, dengan teks overlay besar 'ANTI AIR BANGET!'",
+      "narration": "Stop! Jangan asal pilih tas laptop buat nganterin gadget mahal lo kayak gitu dong bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: model wanita pakai tas gaya bisnis di kantor, lalu zoom in ke tekstur kulit PU yang halus dan elegan.",
+      "narration": "Ini dia solusi next level buat kamu! Tas laptop gaya bisnis dengan bahan kulit PU berkualitas tinggi yang nggak cuma estetik, tapi juga tahan banting."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga muncul di layar dengan efek 'pop up' merah, disandingkan dengan ikon laptop mahal, lalu transisi ke model senyum di depan tas.",
+      "narration": "Bayar ratusan ribu buat tas anti air kayak ini? Gak perlu deh! Harga awalnya cuma seratus delapan puluhan ribuan doang, which is worth it banget buat kualitasnya!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Model memasukkan laptop 15.4 inch ke dalam. 2. Close up tekstur kanvas/kulit PU. 3. Model membuka kompartemen kecil untuk charger.",
+      "narration": "Pertama, ukurannya super fleksibel, bisa nemenin laptop 13.3 sampai 15.4 inch, basically next level capacity-nya! Kedua, bahannya lembut banget di sentuhan tapi kokoh, nggak gampang aus. Ketiga, desainnya bisa kamu pilih warna Star Black atau Abu Galxy yang super cute, cocok sama outfit kerja lo."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas: wanita berjalan cepat jalanan hujan, lalu duduk di meeting online sambil memegang tas tersebut.",
+      "narration": "Perfect buat yang aktivitasnya sering macet-macetan atau harus nyetir di cuaca nggak menentu, kayak kalau kamu sering lembur atau ngantor di Jakarta yang动不动 hujan. Gak perlu takut laptop rusak karena air!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Graphic besar menampilkan rating 4.82/5 dan angka 20.000+ terjual, dengan quote bubble muncul di samping.",
+      "narration": "Kata pembelinya, 'Bahan nya lembut dan nyaman' dan desainnya estetik banget. Jadi, no cap, produk ini udah terjual lebih dari dua puluh ribu unit!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul jelas dengan tombol 'Cek Sekarang' yang berdenyut, latar belakang warna brand yang cerah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#TasLaptop",
+    "#AntiAir",
+    "#GayaBisnis",
+    "#ViralShorts",
+    "#GenZIndonesia",
+    "#ShoppingHacks",
+    "#FindingId",
+    "#TasEstetik"
+  ],
+  "product_id": 101138,
+  "product_title": "Tas laptop Tahan air kulit PU berkualitas tinggi gaya bisnis untuk 13.3 M1 M2 14.1 15.4inch",
+  "product_price": "29999.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/101138.jpg",
+    "/uploads/products/101138_1.jpg",
+    "/uploads/products/101138_2.jpg",
+    "/uploads/products/101138_3.jpg",
+    "/uploads/products/101138_4.jpg",
+    "/uploads/products/101138_5.jpg",
+    "/uploads/products/101138_6.jpg",
+    "/uploads/products/101138_7.jpg",
+    "/uploads/products/101138_8.jpg",
+    "/uploads/products/101138_9.jpg",
+    "/uploads/products/101138_10.jpg",
+    "/uploads/products/101138_11.jpg",
+    "/uploads/products/101138_12.jpg",
+    "/uploads/products/101138_13.jpg",
+    "/uploads/products/101138_14.jpg",
+    "/uploads/products/101138_15.jpg"
+  ],
+  "product_link": "https://finding.id/p/101138",
+  "generated_at": "2026-03-15T06:53:46.216Z"
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Handuk Bayi Bamboo Paling Lembut! ✨",
+  "hook_text": "Bayi sensitif punya handuk kayak gini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot tangan bayi menyentuh handuk dengan ekspresi puas sambil zoom in ke tekstur serat bamboo.",
+      "narration": "Eits stop dulu bestie! Kamu nggak bakal percaya kalau kulit sensitif bayi kamu bisa langsung nyaman banget sama handuk ini."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat menampilkan handuk BAMBOO LITTLE PALMERHAUS di berbagai warna cerah, lalu transisi ke shot air dituangkan dan langsung diserap.",
+      "narration": "Ini handuk bayi dari seri BAMBOO LITTLE PALMERHAUS by TERRY PALMER! Basically next level lembut, hypoallergenic, plus super absorbent banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek 'pop', diikuti shot tumpukan handuk dengan label harga.",
+      "narration": "Gila sih, kamu cuma perlu keluarkan uang sekitar enam puluhan ribu sampai seratus dua puluhan ribu rupiah aja, which is worth it banget untuk kualitas segini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan detail bahan bambu, kanan tunjukkan handuk dikeringkan di udara dalam hitungan detik.",
+      "narration": "Pertama, bahannya campuran tujuh puluh persen bamboo dan tiga puluh persen katun, super hypoallergenic. Kedua, dia penyerap air paling cepat di kelasnya, nggak perlu waktu lama buat kering. Ketiga, dia punya perlindungan antibakteri, jadi nggak bakal bau atau berjamur walaupun udah dicuci berkali-kali, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario live: ibu muda sedang mengganti popok bayi yang rewel, lalu tersenyum lega setelah pakai handuk ini.",
+      "narration": "Perfect buat yang punya bayi baru lahir atau kulit sensitif banget. Kalau aktivitas kamu sering ganti popok di pagi hari yang dingin, ini bakal jadi penyelamat banget buat kenyamanan si kecil."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan screenshot rating 4.85 bintang dan angka 40 ribu terjual, lalu muncul bubble chat pembeli.",
+      "narration": "Pembelinya pada ngomong 'Masya Allah handuknya lembut kwalitasnya tidak kaleng kaleng', dan dengan rating empat koma delapan lima dari empat puluh ribu orang, ini bukti nyata!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol 'Shop Now' berdenyut dengan latar belakang semua warna tersedia yang berputar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#HandukBayiBambu",
+    "#TerryPalmer",
+    "#SkincareBayi",
+    "#Mompreneur",
+    "#ProductViral",
+    "#LembutBanget",
+    "#BabyEssentials",
+    "#TemukanKamu"
+  ],
+  "product_id": 166546,
+  "product_title": "Handuk Bayi BAMBOO LITTLE PALMERHAUS by TERRY PALMER  Bahan Super lembut !",
+  "product_price": "59500.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/166546.jpg",
+    "/uploads/products/166546_1.jpg",
+    "/uploads/products/166546_2.jpg",
+    "/uploads/products/166546_3.jpg",
+    "/uploads/products/166546_4.jpg",
+    "/uploads/products/166546_5.jpg",
+    "/uploads/products/166546_6.jpg",
+    "/uploads/products/166546_7.jpg",
+    "/uploads/products/166546_8.jpg",
+    "/uploads/products/166546_9.jpg",
+    "/uploads/products/166546_10.jpg",
+    "/uploads/products/166546_11.jpg",
+    "/uploads/products/166546_12.jpg",
+    "/uploads/products/166546_13.jpg",
+    "/uploads/products/166546_14.jpg",
+    "/uploads/products/166546_15.jpg",
+    "/uploads/products/166546_16.jpg",
+    "/uploads/products/166546_17.jpg",
+    "/uploads/products/166546_18.jpg",
+    "/uploads/products/166546_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/166546",
+  "generated_at": "2026-03-15T10:03:44.874Z"
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Toples Sultan Mewah Hias Rumah, Worth It Banget!",
+  "hook_text": "Stop scroll! Toples ini gila banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up toples berkilauan di atas meja kayu dengan musik upbeat yang tiba-tiba berhenti saat toples muncul",
+      "narration": "Stop scroll! Kamu bakal nyesel kalau nggak punya toples kayak ini buat hias rumah, literally next level!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat 3 toples berbeda ukuran dibuka tutupnya sambil zoom in ke detail aksen emas dan motif kristal bening",
+      "narration": "Ini Toples Sultan Set, terdiri dari tiga ukuran beda lima ratus, delapan ratus, dan seribu mililiter. Desainnya mewah banget dengan aksen emas dan motif kristal bening yang estetik, basically bikin meja makan kamu langsung naik kelas."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar di layar menunjukkan angka harga, lalu transisi ke shot 3 toples diiringi efek uang digital atau ikon centang hijau",
+      "narration": "Coba deh bandingkan, kualitas hiasan premium kayak gini biasanya mahal banget, tapi di sini cuma lima puluh hingga seratus tujuh puluh lima ribuan ya bestie. No cap, worth it banget sih buat set tiga buah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan isi kue kering di dalam toples, kanan tunjukkan toples kosong jadi dekorasi ruang tamu yang rapi",
+      "narration": "Pertama, bahan plastiknya aman BPA free dan transparan jadi isinya langsung kelihatan. Kedua, serbaguna banget bisa buat simpen kue kering Lebaran, permen, atau dekorasi ruang tamu. Ketiga, packingnya aman banget pakai bubble wrap tebal, jadi anti pecah sampai ke tangan kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage ibu rumah tangga tersenyum sambil menata ulang kue di meja makan yang terlihat elegan dan mewah",
+      "narration": "Perfect buat kamu yang sering bikin kue kering atau butuh wadah penyimpanan yang elegan buat acara spesial kayak Lebaran. Kalau kamu mau tampilan premium tapi budget tetap terbatas, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.83 dan jumlah terjual 30.000+ dengan teks kutipan muncul di layar",
+      "narration": "Rating empat koma delapan tiga dari tiga puluh ribu produk terjual. Yang udah beli bilang barang datang aman ga ada yang pecah dan semewah ini."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host menunjuk ke arah bawah layar dengan ekspresi senang sambil teks 'finding dot id' muncul jelas",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#ToplesSultan",
+    "#HiasRumahMewah",
+    "#IdeHadiahLebaran",
+    "#StorageHacks",
+    "#GenZShopping",
+    "#AestheticDecor",
+    "#BestieMustHave",
+    "#FindingId"
+  ],
+  "product_id": 87038,
+  "product_title": "(SR) Toples Sultan Set Toples Hias Mewah (Toples Sultan) Desain Kristal Bening Tutup Emas/ Isi 3 Pcs",
+  "product_price": "60999.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/87038.jpg",
+    "/uploads/products/87038_1.jpg",
+    "/uploads/products/87038_2.jpg",
+    "/uploads/products/87038_3.jpg",
+    "/uploads/products/87038_4.jpg",
+    "/uploads/products/87038_5.jpg",
+    "/uploads/products/87038_6.jpg",
+    "/uploads/products/87038_7.jpg",
+    "/uploads/products/87038_8.jpg",
+    "/uploads/products/87038_9.jpg",
+    "/uploads/products/87038_10.jpg",
+    "/uploads/products/87038_11.jpg",
+    "/uploads/products/87038_12.jpg",
+    "/uploads/products/87038_13.jpg",
+    "/uploads/products/87038_14.jpg",
+    "/uploads/products/87038_15.jpg",
+    "/uploads/products/87038_16.jpg",
+    "/uploads/products/87038_17.jpg",
+    "/uploads/products/87038_18.jpg",
+    "/uploads/products/87038_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/87038",
+  "generated_at": "2026-03-14T04:29:24.338Z"
+}

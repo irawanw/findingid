@@ -1,0 +1,83 @@
+{
+  "title": "Sepatu Stonger Murah Banget? Cuma 100 Ribu!",
+  "hook_text": "Sepatu import cuma seratus ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up sepatu Stonger dengan efek zoom in cepat",
+      "narration": "Gila sih, sepatu import harga cuma seratus ribuan? Emang boleh!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model jalan santai pakai sepatu di jalanan kota",
+      "narration": "Kenalin nih, Sepatu Stonger Sneakers. Desainnya kece, kualitasnya import, literally next level banget buat kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan layar HP menunjukkan harga dan tombol beli",
+      "narration": "Harganya? Biasanya seratus sembilan puluh ribuan, tapi kalau lagi promo bisa dapet di angka delapan puluh lima ribuan. Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail sol sepatu dan bahan yang lentur",
+      "narration": "Fiturnya juara: bahan fleksibel, sol empuk banget buat lari, dan modelnya bikin kaki kelihatan tinggi --- Jadi nggak perlu keluar banyak duit buat tampil kece setiap hari, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang pakai sepatu buat olahraga ringan",
+      "narration": "Kalau kamu sering olahraga atau nongkrong seharian, ini cocok banget. Gak bakal bikin kaki pegel, no cap!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 5 dan jumlah terjual",
+      "narration": "Rating empat koma tujuh lima, udah terjual tiga puluh ribu pasang. Yang udah beli bilang modelnya bagus, rapi, dan nyaman dipakai."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks overlay besar 'Cek di finding dot id'",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#SepatuStonger",
+    "#SneakersMurah",
+    "#OOTD",
+    "#RekomendasiProduk",
+    "#ViralProduct",
+    "#CariBarang",
+    "#PromoMurah",
+    "#FashionIndonesia"
+  ],
+  "product_id": 21588,
+  "product_title": "SEPATU STONGER SNEAKERS IMPORT TERBARU COD GRATIS ONGKIR",
+  "product_price": "109000.00",
+  "product_rating": "4.75",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21588.jpg",
+    "/uploads/products/21588_1.jpg",
+    "/uploads/products/21588_2.jpg",
+    "/uploads/products/21588_3.jpg",
+    "/uploads/products/21588_4.jpg",
+    "/uploads/products/21588_5.jpg",
+    "/uploads/products/21588_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/21588",
+  "generated_at": "2026-03-13T19:31:48.796Z"
+}

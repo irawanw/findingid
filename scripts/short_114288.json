@@ -1,0 +1,84 @@
+{
+  "title": "Baju Koko Anak Adem Cuma 60 Ribu? Bestie Wajib Tau!",
+  "hook_text": "Cari Baju Koko Anak Adem? Cek Ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah presenter bingung pegang dompet lalu tersenyum ceria sambil tunjuk produk.",
+      "narration": "Cari baju koko anak yang adem tapi gak bikin dompet jebol? --- Kenalin nih, Athla by Rainan Ori!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk digantung lalu dipakein anak, transisi cepat ke detail bahan.",
+      "narration": "Ini setelan koko anak laki-laki yang literally next level. --- Bahan Soft Poly Premium yang super lembut, gak bikin gerah. Biar si kecil tampil keren setiap hari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga besar muncul dengan efek kaget, lalu transisi ke produk utuh.",
+      "narration": "Harganya bikin kaget, cuma enam puluhan ribu aja! --- Worth it banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Macro shot jahitan rapi, lalu kerah Mandarin, terakhir bahan ditarik sedikit untuk tunjuk elastisitas.",
+      "narration": "Jahitannya rapi no benang berantakan sama sekali. --- Desain Kurta modern dengan kerah Mandarin yang stylish. --- Meski Soft Poly, tapi adem banget kok gak bikin gerah."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage anak-anak dari usia kecil sampai besar pakai baju ini di berbagai warna.",
+      "narration": "Perfect buat Ayah Bunda yang anaknya aktif banget dari umur satu sampe dua belas tahun. --- Pilihan warnanya lengkap banget ada yang hijau sampe putih."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan teks jumlah terjual besar di layar.",
+      "narration": "Ratingnya empat koma delapan tiga, udah laku empat puluh ribu unit. --- Yang udah beli bilang 'Bahan halus adem, jahitan rapi gada benang brudul'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah atau layar.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#BajuAnak",
+    "#KokoAnak",
+    "#RainanOri",
+    "#FaziaStore",
+    "#OOTDAnak",
+    "#MuslimKids",
+    "#Cuma60Ribu",
+    "#FindID"
+  ],
+  "product_id": 114288,
+  "product_title": "FAZIA STORE - Athla by Rainan Ori Setelan Koko Anak Laki Laki - Adem, Lembut, Nyaman Dipakai, Usia 1–12 Tahun",
+  "product_price": "62900.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/114288.jpg",
+    "/uploads/products/114288_1.jpg",
+    "/uploads/products/114288_2.jpg",
+    "/uploads/products/114288_3.jpg",
+    "/uploads/products/114288_4.jpg",
+    "/uploads/products/114288_5.jpg",
+    "/uploads/products/114288_6.jpg",
+    "/uploads/products/114288_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/114288",
+  "generated_at": "2026-03-13T22:00:24.031Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Kaos Lengan Panjang Anti Bakteri? Worth It Banget!",
+  "hook_text": "STOP SCROLL! Kaos ini gila banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget sambil pegang kaos hitam yang sedang dipakai atau diayunkan ke kamera dengan musik upbeat",
+      "narration": "Stop scrolling bestie! Kamu nggak bakal percaya sama kaos lengan panjang murah meriah yang bakal jadi langganan lo."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: kaos dijemur di bawah matahari, kemudian close up tekstur kain bambu yang lembut saat disentuh tangan",
+      "narration": "Ini Longsleeve Kaos Polos Katun Bambu dua puluh empat S dengan fitur anti bakteri yang literally next level buat kesehatan kulit lo."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan animasi 'WOAH', diikuti shot kaos digantung rapi di rak minimalis",
+      "narration": "Tapi harga kerennya cuma seratus delapan puluhan ribu perak dong! Nah ini worth it banget sama kualitas yang lo dapet."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Model senyum di dalam ruangan, 2. Model lari di luar ruangan, 3. Close up kain yang menyerap air",
+      "narration": "Pertama, bahannya super adem dan nggak bikin gerah meskipun dipakai seharian. Kedua, anti bakteri jadi wangi terus nggak ada bau badan. Ketiga, katun bambu dua puluh empat S ini lembut banget di kulit, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: seseorang bekerja dari rumah pakai kaos, lalu langsung ganti baju untuk olahraga tanpa perlu ganti banyak",
+      "narration": "Perfect buat yang sering kerja dari rumah atau seneng olahraga barengan. Kalau aktivitas kamu butuh baju praktis yang nyaman tapi tetap stylish, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan angka 40.000 terjual dengan cepat, lalu transisi ke testimoni tertulis di layar",
+      "narration": "Rating empat koma sembilan dan sudah empat puluh ribu produk terjual! Yang udah beli bilang selalu jadi toko langganan dan barangnya sangat memuaskan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Screen recording animasi mengarah ke finding.id dengan panah besar dan tombol 'Beli Sekarang' yang berdenyut",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#kaosbambu",
+    "#fashionviral",
+    "#antiakteri",
+    "#wardrobeessentials",
+    "#murahmeriah",
+    "#skintek",
+    "#findingid",
+    "#ootd"
+  ],
+  "product_id": 147006,
+  "product_title": "[ ANTI BAKTERI ] Longsleeve Kaos Polos Lengan Panjang Katun Bambu 24S / Kaos Polos Cotton Bamboo",
+  "product_price": "74500.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/147006.jpg",
+    "/uploads/products/147006_1.jpg",
+    "/uploads/products/147006_2.jpg",
+    "/uploads/products/147006_3.jpg",
+    "/uploads/products/147006_4.jpg",
+    "/uploads/products/147006_5.jpg",
+    "/uploads/products/147006_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/147006",
+  "generated_at": "2026-03-14T08:22:05.542Z"
+}

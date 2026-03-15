@@ -1,0 +1,81 @@
+{
+  "title": "Mixer Philips Merah, Worth It Banget!",
+  "hook_text": "Stop scroll! Mixer ini next level.",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot mixer Philips merah berdenyut dengan efek zoom in cepat ke tombol power",
+      "narration": "Eits, stop dulu bestie! Kamu gak bakal percaya sama kekuatan mixer ini."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide menampilkan mixer Philips HR1559/10 di meja dapur bersama bahan kue",
+      "narration": "Ini Philips Stand Mixer kapasitas dua liter, literally bikin adonan kue jadi super cepet dan mengembang maksimal tanpa pusing."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan angka harga, lalu transisi ke gambar produk dengan efek confetti",
+      "narration": "Gak perlu nunggu momen, kamu bisa dapet ini cuma dengan seratus enam puluhan ribu, which is harga banget buat kualitas Philips."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan pengocok kerucut mengaduk, kanan tunjukkan kaki penghisap mengunci mixer ke meja",
+      "narration": "Fiturnya no cap, ada lima kecepatan plus mode turbo buat semua jenis adonan. Pasangannya pengocok kerucut buat ngocok udara maksimal, plus kaki penghisap bikin stabil banget pas nyala."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: ibu rumah tangga bahagia, pemula baking yang bingung, dan hobiis kue yang senang",
+      "narration": "Perfect buat kamu yang sering bikin kue di rumah, pemula yang mau mulai baking, atau hobiis kue yang butuh alat bantu biar gak capek."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.89 bintang dan jumlah terjual 20 ribu produk dengan teks kutipan pembeli",
+      "narration": "Emang beneran bagus, yang udah beli bilang packagingnya aman dan semua berfungsi dengan baik, plus rating empat koma delapan sembilan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol panah mengarah ke bawah/kanan",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#MixerPhilips",
+    "#BakingIndonesia",
+    "#RekomendasiKue",
+    "#FindingDotId",
+    "#ViralShorts",
+    "#IbuRumahTangga",
+    "#HobiBaking",
+    "#ProdukViral"
+  ],
+  "product_id": 21130,
+  "product_title": "Mixer Philips - 2 Liter -  HR1559/10 - Stand Mixer -  Mikser Philips - Mixer Pencampur - Mixer Kue - Merah",
+  "product_price": "617000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21130.jpg",
+    "/uploads/products/21130_1.jpg",
+    "/uploads/products/21130_2.jpg",
+    "/uploads/products/21130_3.jpg",
+    "/uploads/products/21130_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/21130",
+  "generated_at": "2026-03-14T16:58:00.727Z"
+}

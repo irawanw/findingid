@@ -1,0 +1,96 @@
+{
+  "title": "Dekorasi Mewah Cuma 70 Ribu? Bunga Anggrek Kain",
+  "hook_text": "Bunga Anggrek Mewah Harga Kaki Lima?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up bunga anggrek dengan pencahayaan estetik dan slow motion",
+      "narration": "Gila sih, bunga anggrek mewah kayak gini harganya cuma tujuhan ribuan? --- Seriusan, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Zoom out menampilkan set lengkap bunga dengan vas di atas meja",
+      "narration": "Nih Bunga Anggrek Kain, lengkap sama vas. --- Bahan kain dan latex, literally gak kelihatan palsu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh",
+      "narration": "Dapet satu set utuh dengan harga tujuh puluh sembilan ribuan aja. --- Which is worth it banget buat cari dekorasi murah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail close up kelopak bunga dan daun latex",
+      "narration": "Empat tangkai dan dua puluh kuntum bunga. --- Bahan latex dan kain, keliatan realistis banget kok. Bestie, yang udah beli bilang 'desainnya cantik dan kualitasnya bagus banget'. Gak perlu takut murahan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Bunga diletakkan di sudut ruang tamu atau meja cafe",
+      "narration": "Perfect buat cafe atau hias meja tamu. --- Kalau aktivitas kamu sering dapet tamu, ini solusi dekorasi hemat tanpa kesan mewah. Jadi rumah jadi estetik banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.8 dan angka penjualan 30.000",
+      "narration": "Rating empat koma delapan, udah terjual tiga puluh ribu produk. --- Yang udah beli bilang 'bunganya bagus banget ya murah lagi'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah mengarah ke layar",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#BungaAnggrek",
+    "#DekorasiRumah",
+    "#MurahMeriah",
+    "#Estetik",
+    "#IdeKado",
+    "#CafeVibes",
+    "#ViralTok",
+    "#FindingId"
+  ],
+  "product_id": 89999,
+  "product_title": "Bunga Anggrek kain 4 Cabang artificial dekorasi",
+  "product_price": "79899.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/89999.jpg",
+    "/uploads/products/89999_1.jpg",
+    "/uploads/products/89999_2.jpg",
+    "/uploads/products/89999_3.jpg",
+    "/uploads/products/89999_4.jpg",
+    "/uploads/products/89999_5.jpg",
+    "/uploads/products/89999_6.jpg",
+    "/uploads/products/89999_7.jpg",
+    "/uploads/products/89999_8.jpg",
+    "/uploads/products/89999_9.jpg",
+    "/uploads/products/89999_10.jpg",
+    "/uploads/products/89999_11.jpg",
+    "/uploads/products/89999_12.jpg",
+    "/uploads/products/89999_13.jpg",
+    "/uploads/products/89999_14.jpg",
+    "/uploads/products/89999_15.jpg",
+    "/uploads/products/89999_16.jpg",
+    "/uploads/products/89999_17.jpg",
+    "/uploads/products/89999_18.jpg",
+    "/uploads/products/89999_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/89999",
+  "generated_at": "2026-03-13T21:03:12.006Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "BB Turun 5kg Tanpa Diet Ribet? 🤯 Nitasan Viral!",
+  "hook_text": "Stop makan nasi tiap hari! 🍚❌",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tangan menjepret piring kosong berisi nasi lalu ganti tunjuk timbangan digital yang turun drastis dengan efek zoom-in cepat.",
+      "narration": "Eits, jangan langsung skip! Kalau kamu sering ngemil terus padahal udah makan tanpa nasi, coba deh lihat ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close-up botol Nitasan berkilau di atas meja kayu, teks 'HERBAL ALAMI' muncul besar di layar dengan animasi pop-up.",
+      "narration": "Ini Nitasan Pelangsing, suplemen herbal alami yang udah jadi primadona sejak tahun 2000-an. basically next level buat bantu kurangi berat badan dan lemak tubuh secara aman."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan harga Rp 91.500 dengan efek stiker uang jatuh, lalu muncul ikon BPOM dan Halal berdenyut.",
+      "narration": "Gila, harganya cuma seratus sembilan puluh ribuan deh! Dan yang paling penting, produk ini aman banget karena sudah terdaftar BPOM dan bersertifikat Halal."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjuk perut pipih, kanan tunjuk piring makanan kecil, lalu tunjuk label kemasan 'FREE METERAN'.",
+      "narration": "Nah, ada tiga kelebihannya nih yang wajib kamu tahu. Pertama, dia bantu ngefektifkan nafsu makan jadi nggak ngiler terus. Kedua, bantu kontrol craving makanan berlemak tanpa harus diet ketat. Ketiga, paketannya ada free meteran untuk ukur progress kamu langsung!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase pendek: seseorang sedang bekerja di kantor lalu melihat jam tangan, kemudian makan siang secukupnya dengan senyum puas.",
+      "narration": "Perfect buat yang aktivitasnya sering numpuk atau busy banget tapi masih pengen badan tetap langsing dan sehat. Kalau kamu sering begadang dan gampang lapar, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar penuh dengan angka besar '4.82/5' dan '20.000+ Terjual', muncul bubble chat dengan teks asli dari pembeli.",
+      "narration": "Yang udah beli bilang hasilnya ok banget, BB turun lima kilo tanpa ribet. Sudah dua puluh ribu produk terjual dengan rating empat koma delapan dua!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar 'CEK DI FINDING DOT ID' dengan panah menunjuk ke bawah, background warna-warni ceria.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Nitasan",
+    "#ObatDiet",
+    "#BBTurun",
+    "#DietHerbal",
+    "#BikinLangsing",
+    "#TanpaEfekSamping",
+    "#HalalBPOM",
+    "#ViralProduk"
+  ],
+  "product_id": 95963,
+  "product_title": "Nitasan Pelangsing 50 Kapsul FREE METERAN PERUT - Obat Diet Herbal Ampuh Penurun Berat Badan dan Lemak Tubuh Alami Tanpa Efek Samping BPOM Halal Aman",
+  "product_price": "91500.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/95963.jpg",
+    "/uploads/products/95963_1.jpg",
+    "/uploads/products/95963_2.jpg",
+    "/uploads/products/95963_3.jpg",
+    "/uploads/products/95963_4.jpg",
+    "/uploads/products/95963_5.jpg",
+    "/uploads/products/95963_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/95963",
+  "generated_at": "2026-03-15T06:28:39.948Z"
+}

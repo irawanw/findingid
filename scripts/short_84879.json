@@ -1,0 +1,93 @@
+{
+  "title": "Pianika Yamada Koper Murah, Worth It Banget!",
+  "hook_text": "Pianika Anak Murah Banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up casing pianika dibuka dengan efek kilat",
+      "narration": "Sumpah bestie, ini bisa jadi mainan favorit anak kamu! --- Gak bohong!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilan keseluruhan pianika Yamada dengan casing hardcase",
+      "narration": "Ini dia Pianika Yamada Koper Hardcase. Bahan plastiknya kokoh banget, nggak gampang pecah walau jatuh. --- Ada casing-nya, aman buat sekolah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan animasi kaget",
+      "narration": "Harga? Gila sih. Mulai dari delapan puluhan ribu doang. --- Seratus lima puluh ribuan udah dapet yang lengkap. Worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Zoom in not angka, selang tiup, dan bubble wrap tebal",
+      "narration": "Pertama, ada cetakan not angka biar anak gampang belajar. --- Kedua, paket lengkap ada selang sama mouthpiece. --- Ketiga, packingnya tebal. No cap, aman sampai tujuan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Anak kecil sedang belajar main pianika dengan senyum",
+      "narration": "Perfect buat orang tua yang cari alat musik murah tapi awet. --- Buat anak yang baru mau belajar musik, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan counter 50.000 terjual",
+      "narration": "Sudah laku lima puluh ribuan, rating 4,87 bintang. --- Yang udah beli bilang, 'Barang mendarat mulus. Tombol berfungsi semua'. Solid banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding ID dan teks cek di sana",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#PianikaMurah",
+    "#AlatMusikAnak",
+    "#YamadaPianika",
+    "#RekomendasiOrtu",
+    "#BelajarMusik",
+    "#ViralIndonesia",
+    "#Shorts",
+    "#FindingID"
+  ],
+  "product_id": 84879,
+  "product_title": "Pianika Yamada Koper Hardcase Original Murah Bagus",
+  "product_price": "88000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/84879.jpg",
+    "/uploads/products/84879_1.jpg",
+    "/uploads/products/84879_2.jpg",
+    "/uploads/products/84879_3.jpg",
+    "/uploads/products/84879_4.jpg",
+    "/uploads/products/84879_5.jpg",
+    "/uploads/products/84879_6.jpg",
+    "/uploads/products/84879_7.jpg",
+    "/uploads/products/84879_8.jpg",
+    "/uploads/products/84879_9.jpg",
+    "/uploads/products/84879_10.jpg",
+    "/uploads/products/84879_11.jpg",
+    "/uploads/products/84879_12.jpg",
+    "/uploads/products/84879_13.jpg",
+    "/uploads/products/84879_14.jpg",
+    "/uploads/products/84879_15.jpg",
+    "/uploads/products/84879_16.jpg"
+  ],
+  "product_link": "https://finding.id/p/84879",
+  "generated_at": "2026-03-13T20:41:51.413Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Hair Dryer Hemat Listrik? Ini NVMEE Luna!",
+  "hook_text": "Rambut halus cuma 5 menit?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah bingung lalu mata melotot saat melihat hair dryer.",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?' Ada yang bilang 'Ketiak jadi kering!' --- Tenang bestie, oles tipis saja ya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilkan NVMEE Luna dengan warna Lime yang cerah berputar pelan.",
+      "narration": "Perkenalkan NVMEE Luna, the newbie friendly hair dryer! Ini literally so cute dengan warna Sky, Lilac, Lime, dan Oat. Which basically next level buat kamu yang nggak mau ribet catokan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 360.000 dengan efek stiker 'Hemat Listrik' melambai.",
+      "narration": "Bayangkan kamu dapat performa strong wind cuma dengan tiga ratus enam puluh ribuan! No cap, ini worth it banget buat hemat listrik di rumah. Basically, low watt tapi anginnya keras banget, guys."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: indikator watt rendah, timer 5 menit, dan tangan memegang dryer yang ringan.",
+      "narration": "Pertama, konsumsinya rendah tapi angin kenceng! Kedua, pengeringan super cepet, cuma sekitar lima menit aja. Ketiga, desainnya super ringan nggak bikin pegal tangan. Dan yang paling penting, suaranya nggak terlalu bising sampe nyebelin."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario mahasiswa tidur siang lalu bangun cepat untuk kerja atau kuliah.",
+      "narration": "Perfect buat yang aktivitasnya padat, kayak mahasiswa atau pekerja pemula. Kalau kamu sering buru-buru pagi tapi mau rambut halus, ini solusi banget. Plus lengkap sama diffuser dan styling nozzle juga."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.94 dan angka 50.000 terjual dengan cepat.",
+      "narration": "Pembelinya pada ngomong 'rambut jadi lebih alusss' dan 'kemasan lucu gemes'. No cap, produk udah terjual lima puluh ribu dengan rating empat koma sembilan empat."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul dengan animasi panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#NVMEE",
+    "#HairDryer",
+    "#HematListrik",
+    "#GenZStyle",
+    "#SkincareRoutine",
+    "#BeautyHacks",
+    "#ViralShopee",
+    "#MorningRoutine"
+  ],
+  "product_id": 18705,
+  "product_title": "NVMEE - Luna Hair Dryer Strong Wind & Low Watt",
+  "product_price": "360000.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/18705.jpg",
+    "/uploads/products/18705_1.jpg",
+    "/uploads/products/18705_2.jpg",
+    "/uploads/products/18705_3.jpg",
+    "/uploads/products/18705_4.jpg",
+    "/uploads/products/18705_5.jpg",
+    "/uploads/products/18705_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/18705",
+  "generated_at": "2026-03-14T14:51:23.308Z"
+}

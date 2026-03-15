@@ -1,0 +1,83 @@
+{
+  "title": "Paket Hemat 100 Ribuan Dapat 2pcs Jeans!",
+  "hook_text": "100 ribu dapat dua celana?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah terkejut sambil pegang dua pasang celana jeans pendek sobek di depan kamera",
+      "narration": "Eits stop scroll dulu bestie! Mau punya dua pasang celana jeans pendek premium cuma seratus ribuan? Nggak percaya? Ayo kita buktikan sekarang!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat model jeans sobek dipakai dari berbagai angle, tunjukkan detail jahitan dan tekstur bahan",
+      "narration": "Ini dia Laviola 2914 LSH, celana jeans pendek pria sobek premium dengan bahan denim 12oz yang tebel banget. Nggak cuma stylish, bahannya adem dan nyaman dipakai seharian, which is basically next level!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan grafis harga besar dengan efek ledakan, lalu transisi ke tumpukan uang atau ikon hati",
+      "narration": "Coba deh bandingin, biasanya satu pasang udah ratusan ribu. Tapi buat dua pasang? Cuma seratus delapan puluhan ribu doang! Itu artinya hemat setengah harga, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan detail sobekan rapi (feature 1), kanan tunjukkan bahan tebal saat ditarik (feature 2), bawah tunjukkan ukuran besar 39 (feature 3)",
+      "narration": "Pertama, desain sobeknya premium banget, nggak norak sama sekali. Kedua, bahannya denim 12oz yang tebal dan adem. Ketiga, ukuran tersedia sampe 39 buat kamu yang butuh ukuran jumbo. Jadi kalau kamu cari gaya kasual yang kekinian, ini jawabannya!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase aktivitas pria muda: jalan kaki, nongkrong, atau olahraga ringan dengan memakai jeans tersebut",
+      "narration": "Perfect buat kamu yang sering nginek atau suka gaya street style. Kalau aktivitas kamu aktif dan butuh kenyamanan maksimal, celana ini wajib ada di lemari kamu!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.86 bintang dan angka 40.000 terjual, lalu muncul quote bubble",
+      "narration": "Pembelinya pada ngomong bahannya joss dan nyaman banget dipakai. Dengan rating 4.86 dari empat puluh ribu produk terjual, kualitasnya terjamin ya bestie!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol CTA animasi muncul dengan tulisan 'Cek Finding Dot Id', background cerah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, promo paket hematnya ada di sana sebelum kehabisan!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#jeanspendek",
+    "#fashionpria",
+    "#hemat",
+    "#streetstyle",
+    "#findingid",
+    "#modapria",
+    "#celanajeans",
+    "#promohemat"
+  ],
+  "product_id": 15470,
+  "product_title": "Paket Hemat 100rb Dapat 2pcs!!! Celana Jeans Pendek Pria Sobek Premium Model Tacling Denim",
+  "product_price": "100000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/15470.jpg",
+    "/uploads/products/15470_1.jpg",
+    "/uploads/products/15470_2.jpg",
+    "/uploads/products/15470_3.jpg",
+    "/uploads/products/15470_4.jpg",
+    "/uploads/products/15470_5.jpg",
+    "/uploads/products/15470_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/15470",
+  "generated_at": "2026-03-14T04:14:08.143Z"
+}

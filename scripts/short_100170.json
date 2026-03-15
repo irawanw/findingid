@@ -1,0 +1,83 @@
+{
+  "title": "Skincare Jerawat 8 Jam? Gak Perlu Cemas!",
+  "hook_text": "Jerawat Dadakan Pas Meeting?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah stres melihat cermin dengan cahaya dramatis",
+      "narration": "Jerawat muncul dadakan pas mau ketemu gebetan? Stop scroll dulu, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing produk La Roche Posay dengan lighting cinematic dan slow motion",
+      "narration": "Kenalin nih, La Roche Posay Effaclar Duo+M. Solusi all-in-one buat kulit berminyak."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga besar muncul dengan efek zoom in",
+      "narration": "Harganya? Cuma seratus enam puluhan ribu doang! Literally worth it banget buat kualitas selevel dermatologist."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase tekstur cream di tangan dan aplikasi di wajah",
+      "narration": "Ini dia fitur gila-nya. Pertama, anti jerawat meradang cuma dalam delapan jam. Kedua, teksturnya super ringan, nggak bikin berat. Ketiga, ada Niacinamide buat ngebut ilangin noda bekas jerawat."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model oily skin tersenyum lega sambil memegang produk",
+      "narration": "Perfect buat kamu yang kulitnya oily, sensitif, atau lagi struggle sama jerawat bandel."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan animasi jumlah terjual naik",
+      "narration": "Rating empat koma sembilan satu, sudah terjual seratus ribu produk! --- Yang sudah beli bilang, 'Jerawat kempes, wajah jadi kurang berminyak'. No cap, ini next level!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan background polos",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#LaRochePosay",
+    "#SkincareAcne",
+    "#OilySkin",
+    "#DermatologistApproved",
+    "#SkincareIndonesia",
+    "#CantikAlami",
+    "#AcneTreatment",
+    "#FindingID"
+  ],
+  "product_id": 100170,
+  "product_title": "La Roche Posay Effaclar Duo+M Moisturizer 7.5ml Acne/ Oily Skin - Pelembab Wajah Jerawat/ Berminyak",
+  "product_price": "161600.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100170.jpg",
+    "/uploads/products/100170_1.png",
+    "/uploads/products/100170_2.jpg",
+    "/uploads/products/100170_3.jpg",
+    "/uploads/products/100170_4.jpg",
+    "/uploads/products/100170_5.jpg",
+    "/uploads/products/100170_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100170",
+  "generated_at": "2026-03-13T17:43:24.916Z"
+}

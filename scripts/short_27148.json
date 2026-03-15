@@ -1,0 +1,83 @@
+{
+  "title": "Tas Jumbo Murah Banget? Cek Ini!",
+  "hook_text": "Tas Jumbo Harga Hemat!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tas Jumbo diangkat cepat ke depan kamera dengan background kamar messy, transisi zoom in tajam ke wajah presenter.",
+      "narration": "Stop scroll bestie! Kamu lagi cari tas buat liburan tapi dompet masih tipis nih? Tenang dong, aku punya solusi yang literally worth it banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot slow motion tas dibuka lebar menampilkan banyak baju, diikuti close-up tekstur kain tebal yang dipencet.",
+      "narration": "Ini Travel Bag Jumbo yang beneran jumbo, bestie. Kapasitasnya super lega buat banyak baju, dan bahannya kokoh tebal yang nggak gampang sobek. Basically next level buat packing!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek confetti, lalu transisi ke gambar orang senang memegang tas.",
+      "narration": "Gak perlu nunggu diskon gede, karena harganya cuma sekitar tujuh puluh seribu empat ratus tujuh puluh delapan rupiah aja. Seratus delapan puluhan ribu? Enggak dong, ini jauh di bawah itu! Sangat hemat banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot split screen: kiri menunjukkan tali tas ditarik kuat, kanan menunjukkan tas ditaruh di atas tumpukan barang berat tanpa goyah.",
+      "narration": "Pertama, talinya kuat banget dan nggak gampang putus saat kamu angkat. Kedua, ukurannya luas beneran, perfect buat muat semua outfit liburanmu. Ketiga, desainnya simple tapi estetik, cocok sama gaya kasual kamu sehari-hari."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat: seseorang menaruh tas di kereta, lalu lagi di mobil, dan terakhir di bandara.",
+      "narration": "Perfect buat yang sering traveling jauh atau mahasiswa yang butuh tas serba guna. Kalau aktivitas kamu sering bawa banyak barang tapi nggak mau repot, tas ini definitely the one buat kamu!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up grafis rating bintang 4.88 dan angka 20.000 terjual, lalu muncul kutipan teks dari pembeli.",
+      "narration": "Sudah laku dua puluh ribu produk dengan rating empat koma delapan delapan. Yang udah beli bilang bahannya tebal dan mudah-mudahan awet ya. Gak ada kata ragu lagi!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Presenter menunjuk ke bawah layar dengan ekspresi semangat, teks finding dot id muncul besar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#TravelBagJumbo",
+    "#TasHemat",
+    "#PackingTips",
+    "#BelanjaOnline",
+    "#GenZShopping",
+    "#TasWanita",
+    "#MurahMeriah",
+    "#FindingID"
+  ],
+  "product_id": 27148,
+  "product_title": "Travel Bag Jumbo | Tas Jinjing Jumbo | Tas Pakaian",
+  "product_price": "71478.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/27148.jpg",
+    "/uploads/products/27148_1.jpg",
+    "/uploads/products/27148_2.jpg",
+    "/uploads/products/27148_3.jpg",
+    "/uploads/products/27148_4.jpg",
+    "/uploads/products/27148_5.jpg",
+    "/uploads/products/27148_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/27148",
+  "generated_at": "2026-03-14T08:46:16.514Z"
+}

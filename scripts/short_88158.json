@@ -1,0 +1,84 @@
+{
+  "title": "Sendal Flat Paling Worth It!",
+  "hook_text": "Kaki Lebar Harus Punya Ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up kaki memakai sandal, transisi cepat ke produk full shot",
+      "narration": "Kaki lebar susah cari sepatu pas? --- Nih bestie, solusinya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk diputar 360 derajat, highlight bahan PU",
+      "narration": "Kenalin Aline Michela Sendal Flat ini. Bahan PU premium yang lembut banget di kaki."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan animasi",
+      "narration": "Harga cuma sembilan puluh delapan ribuan doang. Which is worth it banget buat kualitas gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail ujung lancip, sol TPR, dan demo lebar kaki",
+      "narration": "Desain ujung lancip bikin kaki kelihatan ramping. Fit wide aman buat kaki gendut. Sol TPR empuk, literally next level comfort."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita jalan santai, tunjuk sizechart di HP",
+      "narration": "Perfect buat kamu yang sering jalan seharian atau mau outfit simple tapi elegan. Kalau kaki lebar, cek sizechart dulu. --- Jangan COD asal beli!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.85 dan counter penjualan 50.000",
+      "narration": "Sudah terjual lima puluh ribu unit dengan rating empat koma delapan lima. Yang udah beli bilang, 'Kaki jadi ramping dan bagus banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol cek finding id dengan animasi klik",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie. Ada review produk-nya di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie. Ada review produk-nya di sana!",
+  "hashtags": [
+    "#alinemichela",
+    "#sendalflat",
+    "#ootdindonesia",
+    "#fashionmurah",
+    "#sendalwomenshoes",
+    "#widfeet",
+    "#findings.id",
+    "#viralproduct"
+  ],
+  "product_id": 88158,
+  "product_title": "Aline Michela Sendal Flat Wanita PU Leather",
+  "product_price": "98961.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/88158.jpg",
+    "/uploads/products/88158_1.jpg",
+    "/uploads/products/88158_2.jpg",
+    "/uploads/products/88158_3.jpg",
+    "/uploads/products/88158_4.jpg",
+    "/uploads/products/88158_5.jpg",
+    "/uploads/products/88158_6.jpg",
+    "/uploads/products/88158_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/88158",
+  "generated_at": "2026-03-13T20:11:23.722Z"
+}

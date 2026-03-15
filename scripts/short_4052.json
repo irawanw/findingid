@@ -1,0 +1,83 @@
+{
+  "title": "Tas Pinggang Anti Air Harmits Project Murah Banget!",
+  "hook_text": "Nggak percaya ada tas keren seharga segini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas ciprat air dengan efek splash slow motion",
+      "narration": "Nggak percaya ada tas keren seharga segini yang beneran anti air?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot model memakai tas dari berbagai angle, zoom in logo",
+      "narration": "Ini dia Harmits Project PILOT Waistbag, slingbag waterproof yang bikin kamu kelihatan lebih stylish tanpa bikin dompet jebol."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di tengah layar dengan efek pop up",
+      "narration": "Harga aslinya cuma seratus lima belas ribuan dong bestie! --- Dengan kualitas bahan halus yang rasanya jauh lebih mahal."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi buka tutup saku, tunjuk bahan sintetis, putar tas",
+      "narration": "Bahan sintetis waterproof yang tahan banting, ada empat saku utama buat nyimpen HP dan kunci. --- Desainnya simple banget, bahannya halus yang nyaman dipegang, which is worth it banget buat outfit casual maupun formal."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model jalan kaki, naik motor, lalu duduk santai di cafe",
+      "narration": "Perfect buat kamu yang sering ngantor atau nongkrong tapi males bawa dompet tebal. --- Kalau kamu aktif, tas ini practically your best friend yang nemenin seharian."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating 4.89 dan angka 40rb terjual muncul di layar",
+      "narration": "Terjual empat puluh ribu produk dengan rating tinggi. --- Yang udah beli bilang 'Kapasitas muat banyak', resletingnya pastikan pas pasang ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan tombol klik muncul animasi",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#HarmitsProject",
+    "#TasPinggang",
+    "#GadgetsMurah",
+    "#ViralProduct",
+    "#TasPria",
+    "#WaterproofBag",
+    "#PromoMurah",
+    "#FindingID"
+  ],
+  "product_id": 4052,
+  "product_title": "Harmits Project - PILOT Waistbag Slingbag Waterproof Tas Pinggang Selempang Ringan Anti Air Pria",
+  "product_price": "115150.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/4052.jpg",
+    "/uploads/products/4052_1.jpg",
+    "/uploads/products/4052_2.jpg",
+    "/uploads/products/4052_3.jpg",
+    "/uploads/products/4052_4.jpg",
+    "/uploads/products/4052_5.jpg",
+    "/uploads/products/4052_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/4052",
+  "generated_at": "2026-03-13T19:15:28.997Z"
+}

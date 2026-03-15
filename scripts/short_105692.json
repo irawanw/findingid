@@ -1,0 +1,87 @@
+{
+  "title": "Skintific Sunscreen Murah Banget! Worth It",
+  "hook_text": "Nggak percaya ini cuma 90 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up produk, ekspresi kaget saat melihat harga.",
+      "narration": "Nggak percaya, ini sunscreen premium cuma sembilan puluh tiga ribuan saja?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk SKINTIFIC, aplikasikan ke wajah secara slow motion.",
+      "narration": "Ini dia SKINTIFIC 5X Ceramide Serum, solusi buat kamu yang mau protect kulit tapi budget ketat."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar, bandingkan dengan secangkir kopi.",
+      "narration": "Padahal kualitasnya selevel skincare mahal, tapi harga cuma sembilan puluh tiga ribuan saja, which is worth it banget buat kantong."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Texture shot, SPF icon, skin barrier graphic animasi.",
+      "narration": "Ada 5X Ceramide yang benerin skin barrier, SPF 50+ PA++++ plus protect dari Blue Light --- Teksturnya literally ringan, cepat meresap, dan nggak bikin wajah berminyak, which is super hydrating and calming."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Someone with acne/oily skin looking happy and confident.",
+      "narration": "Perfect buat kamu yang punya kulit sensitif atau sering jerawatan, karena non-comedogenic dan aman banget dipakai sehari-hari, no cap dan bikin percaya diri."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.91, count 200k sold.",
+      "narration": "Ratingnya 4,91 plus udah laku dua ratus ribuan produk --- yang udah beli bilang, 'kulit sensitif terbantu banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id, pointing down.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Skintific",
+    "#SunscreenMurah",
+    "#SkincareIndonesia",
+    "#GenZBeauty",
+    "#TipsWajah",
+    "#SkincareRutin",
+    "#ProductViral",
+    "#FindingID"
+  ],
+  "product_id": 105692,
+  "product_title": "SKINTIFIC - 5X Ceramide Serum Sunscreen SPF 50+ wajah PA++++ | Oil Control Non-Comedogenic Sunscreen Ramah Jerawat Melindungi Skin Barrier Sunscreen Wajah Melembapkan Hidrasi Lembap Sunblock Sun-Repair Acne ProneI 2-in-1 Skincare Sunscreen Sunblock Glow",
+  "product_price": "93000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/105692.jpg",
+    "/uploads/products/105692_1.jpg",
+    "/uploads/products/105692_2.jpg",
+    "/uploads/products/105692_3.jpg",
+    "/uploads/products/105692_4.jpg",
+    "/uploads/products/105692_5.jpg",
+    "/uploads/products/105692_6.jpg",
+    "/uploads/products/105692_7.jpg",
+    "/uploads/products/105692_8.jpg",
+    "/uploads/products/105692_9.jpg",
+    "/uploads/products/105692_10.jpg"
+  ],
+  "product_link": "https://finding.id/p/105692",
+  "generated_at": "2026-03-13T20:26:23.111Z"
+}

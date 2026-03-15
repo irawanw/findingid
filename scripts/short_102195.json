@@ -1,0 +1,83 @@
+{
+  "title": "Foundation MUAQ Anti Luntur 20 Jam!",
+  "hook_text": "Foundation pro harga 100-an?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah dengan foundation natural, teks besar muncul di tengah layar.",
+      "narration": "Foundation pro harga cuma 100-an ribu? Emang ada ya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk MUAQ di atas meja dengan pencahayaan cinematic.",
+      "narration": "Kenalin nih MUAQ High Definition Longwear Foundation. Literally so cute!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kilat.",
+      "narration": "Harganya? Cuma seratus empat puluhan ribu doang. Beneran, ini murah banget untuk kualitas pro. Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase aplikasi foundation, tekstur cair, dan logo BPOM.",
+      "narration": "Daya tahan 20 jam, literally nggak luntur. --- Coverage full medium, BPOM certified. Warnanya disesuaikan sama kulit Indonesia."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model dengan kulit berminyak dan kering, menunjukkan perbedaan tekstur.",
+      "narration": "Buat kamu yang punya kulit berminyak atau kombinasi, ini wajib punya. Tapi kalau kulit kering, hasilnya matte banget, jadi perlu prep kulit dulu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tombol rating 4,95 dan jumlah penjualan 100k.",
+      "narration": "Rating 4,95! Udah laku 100 ribu lebih. --- Yang udah beli bilang, \"Suka banget shade Sumatera, uda botol ke tiga\". Basically next level!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar hitam dengan teks 'Cek di finding dot id'.",
+      "narration": "Serius ya, Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#MUAQ",
+    "#Foundation",
+    "#SkincareIndonesia",
+    "#Viral",
+    "#MakeupTips",
+    "#HargaTerjangkau",
+    "#MakeupArtist",
+    "#Shorts"
+  ],
+  "product_id": 102195,
+  "product_title": "MUAQ High Definition Longwear Foundation",
+  "product_price": "149000.00",
+  "product_rating": "4.95",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/102195.jpg",
+    "/uploads/products/102195_1.jpg",
+    "/uploads/products/102195_2.jpg",
+    "/uploads/products/102195_3.jpg",
+    "/uploads/products/102195_4.jpg",
+    "/uploads/products/102195_5.jpg",
+    "/uploads/products/102195_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/102195",
+  "generated_at": "2026-03-13T18:03:38.008Z"
+}

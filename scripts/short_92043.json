@@ -1,0 +1,82 @@
+{
+  "title": "Tas Anti Air Cuma 50 Ribuan? Gak Percaya!",
+  "hook_text": "Cuma 50 Ribuan Saja?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tas dengan teks overlay besar muncul tiba-tiba",
+      "narration": "Gak percaya ini cuma lima puluh ribuan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tas diputar dari berbagai angle, tunjukkan material anti air",
+      "narration": "Ini MAVKA MATERA, slingbag anti air yang lagi viral banget nih."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan layar harga diskon atau harga asli di e-commerce",
+      "narration": "Harganya cuma lima puluh ribuan saja! Padahal keliatan super premium."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tas disiram air, tunjukkan detail jahitan dan desain depan belakang",
+      "narration": "Pertama, beneran waterproof, jadi aman banget pas hujan deras --- Kedua, desainnya super mantap, cocok buat cowok maupun cewek --- Ketiga, jahitannya rapih banget, nggak bakal lepas sembarangan"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang menggunakan tas saat cuaca hujan atau sedang jalan-jalan",
+      "narration": "Kalau kamu sering jalan-jalan mendadak atau takut barang basah terkena hujan, ini perfect buat kamu setiap hari."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan screenshot jumlah terjual 20.000",
+      "narration": "Sudah terjual dua puluh ribuan, ratingnya 4,89 tinggi --- Yang udah beli bilang, 'Pokoknya mantap, tahan air dan harganya terjangkau'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke bawah atau tombol",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#TasViral",
+    "#MAVKA",
+    "#ProdukMurah",
+    "#TasAntiAir",
+    "#RekomendasiTas",
+    "#CekDiFindingId",
+    "#SlingbagPria",
+    "#SlingbagWanita"
+  ],
+  "product_id": 92043,
+  "product_title": "MAVKA - Tas selempang Slingbag Pria Wanita MATERA Anti Air Handbag  Clucth waterproof",
+  "product_price": "55679.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/92043.jpg",
+    "/uploads/products/92043_1.jpg",
+    "/uploads/products/92043_2.jpg",
+    "/uploads/products/92043_3.jpg",
+    "/uploads/products/92043_4.jpg",
+    "/uploads/products/92043_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/92043",
+  "generated_at": "2026-03-13T23:25:52.536Z"
+}

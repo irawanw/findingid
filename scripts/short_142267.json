@@ -1,0 +1,83 @@
+{
+  "title": "Cuci Muka SKINTIFIC Bikin Glowing Bestie",
+  "hook_text": "Stop Scroll! Mau Kulit Glowing Tanpa Ribet?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tangkap layar wajah glowing close up dengan background cerah",
+      "narration": "Stop scroll dulu bestie! --- Mau kulit glowing tanpa ribet?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk SKINTIFIC muncul dengan efek bubble foam",
+      "narration": "Ini SKINTIFIC Amino Acid Ultra Gentle Cleanser. --- Nggak bikin kulit kering, malah lembab seketika."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga besar dengan efek uang jatuh",
+      "narration": "Harganya cuma sembilan puluh ribuan sampai dua ratus seratus ribuan. --- Worth it banget buat skincare kamu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up tekstur foam dan packaging bubble wrap",
+      "narration": "Pakai formula amino acid yang lembut banget. --- Molekul mikro ngusir minyak berlebih. --- Busanya halus kayak sutra. --- Soal pengemasan kadang kurang kardus, tapi aman dibungkus bubble wrap ya guys. --- Basically next level pembersih."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas malam hari dan siang hari",
+      "narration": "Perfect buat kamu yang sering keluar malam atau suka skin oily di siang hari."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang dan angka penjualan",
+      "narration": "Rating empat koma sembilan dua. --- Terjual delapan puluh ribu produk. --- Yang udah beli bilang busa foam nya lembut dan super ri, nggak bikin perih."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah klik",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id ya bestie!",
+  "hashtags": [
+    "#skintific",
+    "#skincareindonesia",
+    "#glowingskin",
+    "#cleansingmousse",
+    "#skintipid",
+    "#viralshorts",
+    "#skintreatment",
+    "#findingdotid"
+  ],
+  "product_id": 142267,
+  "product_title": "SKINTIFIC - Amino Acid Ultra Gentle Cleanser Mousse 100ml | Oil Control Clean Calming Down and Clear Facial Wash Sabun Cuci Muka Glowing Barrier Brightening Whitening Blackhead Removal Dark Spot Sabun Pembersih Muka Untuk Segala Jenis Kulit",
+  "product_price": "93000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/142267.jpg",
+    "/uploads/products/142267_1.jpg",
+    "/uploads/products/142267_2.jpg",
+    "/uploads/products/142267_3.jpg",
+    "/uploads/products/142267_4.jpg",
+    "/uploads/products/142267_5.jpg",
+    "/uploads/products/142267_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/142267",
+  "generated_at": "2026-03-14T02:18:43.886Z"
+}

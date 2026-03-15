@@ -1,0 +1,86 @@
+{
+  "title": "Moist Murah 40RBan Mencerahkan?",
+  "hook_text": "Kulit kusam tapi budget tipis?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kusam lalu transisi ke produk Glowsophy Watermelon Moisturizer dengan efek cahaya",
+      "narration": "Kulit kusam tapi budget tipis? --- Stop scroll sekarang bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Glowsophy di atas meja dengan background estetik, tangan memegang botol",
+      "narration": "Kenalin Glowsophy Watermelon Moisturizer, pelembab favorit buat bikin wajah cerah dan lembab seharian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek 'diskon', lalu transisi ke wajah tersenyum senang",
+      "narration": "Padahal isinya seratus mili, tapi lagi diskon cuma tiga puluhan ribu saja! --- Basically next level banget buat kantong pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi tekstur gel di tangan, dioleskan ke pipi, close up wajah glowing",
+      "narration": "Teksturnya gel watery, cepet banget nyerep, jadi nggak bikin wajah lengket. --- Kandungan Niacinamide dan Symwhite 377-nya kuat banget buat atasi kulit kusam. Wanginya fresh watermelon, adem di kulit, plus BPOM resmi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase orang dengan kulit berminyak dan kombinasi sedang tersenyum percaya diri",
+      "narration": "Kalau kamu punya kulit kombinasi atau berminyak yang butuh hidrasi ringan tapi efektif, ini wajib punya di skincare routine kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang emas 4.87 dan angka penjualan 600.000 di layar",
+      "narration": "Udah dibeli enam ratus ribu orang, ratingnya empat koma delapan tujuh. --- Yang udah beli bilang Worth it banget dengan harga empat puluh ribuan, lembabnya pas dan nggak bikin jerawatan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar hitam dengan teks 'finding.id' dan tombol panah mengarah ke kanan",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, ada review produknya di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, ada review produknya di sana!",
+  "hashtags": [
+    "#SkincareMurah",
+    "#Glowsophy",
+    "#SkincareKulitBerminyak",
+    "#ReviewSkincare",
+    "#PelembabWajah",
+    "#GenZIndonesia",
+    "#GlowUp",
+    "#TipsKecantikan"
+  ],
+  "product_id": 100187,
+  "product_title": "Glowsophy Watermelon Brightening Moisturizer Gel 100ml - Pelembab Wajah Ringan Mencerahkan Kulit dan Meratakan Warna Kulit Kusam Krim Siang dan Malam Perawatan Kulit Ekstrak Watermelon Pelembab Esensi Wajah Perawatan Kulit Pembersih",
+  "product_price": "38000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100187.jpg",
+    "/uploads/products/100187_1.jpg",
+    "/uploads/products/100187_2.jpg",
+    "/uploads/products/100187_3.jpg",
+    "/uploads/products/100187_4.jpg",
+    "/uploads/products/100187_5.jpg",
+    "/uploads/products/100187_6.jpg",
+    "/uploads/products/100187_7.jpg",
+    "/uploads/products/100187_8.jpg",
+    "/uploads/products/100187_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/100187",
+  "generated_at": "2026-03-13T23:07:12.851Z"
+}

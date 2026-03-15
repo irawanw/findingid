@@ -1,0 +1,96 @@
+{
+  "title": "Daster Bumil Adem & Praktis! Harga 60 Ribuan 😱",
+  "hook_text": "Daster Bumil Gak Bikin Gerah?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tekstur kain rayon yang lembut dan gerakan tangan memegang daster.",
+      "narration": "Daster bumil yang nggak bikin gerah itu ada, bestie! Nggak bohong! --- Kenalin nih Mkmikaylaaa Daster Rayon Premium. Motifnya kece, bahannya super lembut kayak awan. Warnanya juga banyak banget."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilkan model memakai daster sambil berputar menunjukkan potongan A-line.",
+      "narration": "Kenalin nih Mkmikaylaaa Daster Rayon Premium. Motifnya kece, bahannya super lembut kayak awan. Warnanya juga banyak banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga muncul di layar dengan efek ledakan atau panah ke bawah.",
+      "narration": "Harga? Namanya daster premium, cuma enam puluh ribuan an doang. Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Zoom in pada resleting busui 20cm dan detail jahitan obras.",
+      "narration": "Resleting busui dua puluh sentimeter yang praktis banget. Warna-warnanya juga on point. Potongan A-line nyantai di perut hamil. Jahitan obras full rapi, nggak gampang sobek meski dipakai seharian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu hamil tersenyum nyaman atau sedang menyusui dengan santai.",
+      "narration": "Perfect buat hamil atau menyusui. Tapi inget, ukurannya jumbo, LD 120 centimeter. Jadi pas buat badan full, no cap."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.87 dan counter 40.000 terjual.",
+      "narration": "Rating 4,87 dari 40 ribu pembelian. Yang udah beli bilang 'bahannya adem lembut banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, ada review lengkapnya di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, ada review lengkapnya di sana!",
+  "hashtags": [
+    "#dasterbumil",
+    "#busuieasy",
+    "#rayonpremium",
+    "#mkmikaylaaa",
+    "#dasternyaman",
+    "#busuihacks",
+    "#motherhood",
+    "#viralproduct"
+  ],
+  "product_id": 83616,
+  "product_title": "Mkmikaylaaa Daster Motif Lengan 3/4 Rayon Premium Bumil Busui Part 1",
+  "product_price": "59999.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/83616.jpg",
+    "/uploads/products/83616_1.jpg",
+    "/uploads/products/83616_2.jpg",
+    "/uploads/products/83616_3.jpg",
+    "/uploads/products/83616_4.jpg",
+    "/uploads/products/83616_5.jpg",
+    "/uploads/products/83616_6.jpg",
+    "/uploads/products/83616_7.jpg",
+    "/uploads/products/83616_8.jpg",
+    "/uploads/products/83616_9.jpg",
+    "/uploads/products/83616_10.jpg",
+    "/uploads/products/83616_11.jpg",
+    "/uploads/products/83616_12.jpg",
+    "/uploads/products/83616_13.jpg",
+    "/uploads/products/83616_14.jpg",
+    "/uploads/products/83616_15.jpg",
+    "/uploads/products/83616_16.jpg",
+    "/uploads/products/83616_17.jpg",
+    "/uploads/products/83616_18.jpg",
+    "/uploads/products/83616_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/83616",
+  "generated_at": "2026-03-13T22:13:45.380Z"
+}

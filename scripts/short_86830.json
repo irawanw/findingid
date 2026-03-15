@@ -1,0 +1,96 @@
+{
+  "title": "Sandal Anti Selip Paling Comel! 😍",
+  "hook_text": "STOP! Jangan beli sandal ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up kaki model melangkah santai lalu berhenti mendadak sambil gestur berhenti ke kamera",
+      "narration": "Stop! Jangan beli sandal ini dulu, bestie. Kenapa? Karena kalau kamu beli, kamu bakal kecanduan banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat sandal dipakai di kamar mandi, dapur, dan ruang tamu dengan musik upbeat",
+      "narration": "Ini dia sandal pantai EVA tebal lima centimeter yang nggak cuma anti selip, tapi juga super nyaman buat di dalam rumah. Bahannya lembut, sol full karet, which is basically next level buat keamanan kamu!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek confetti, perbandingan visual sandal vs harga mahal",
+      "narration": "Gila sih harganya cuma empat puluh lima ribuan sampai enam puluhan ribu aja! Nah, untuk kualitas sebegitu bagus dan aman banget, which is worth it banget dong guys!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail sol karet, lalu close up bahan EVA yang fleksibel, terakhir model lari kecil-kecil di lantai licin",
+      "narration": "Pertama, bahannya EVA yang ringan tapi kokoh nggak gampang pecah. Kedua, sol karet full grip jadi anti selip walau lantai basah, no cap! Ketiga, desainnya klasik dan warna warni super cute cocok buat semua umur. Jadi aman deh kalau lagi bersih-bersih atau mandi!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: wanita memakai sandal di kamar mandi, lalu pindah ke ruang tamu makan",
+      "narration": "Perfect buat kamu yang sering banget lari-rani di rumah atau punya lantai yang kadang licin. Kalau aktivitas kamu butuh sandal yang aman di kamar mandi tapi tetap stylish, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang lima dan jumlah terjual dengan panah menunjuk ke angka",
+      "narration": "Rating empat koma delapan tiga bintang dan sudah terjual dua puluh ribu produk. Yang udah beli bilang, 'Kenyamanan sangat nyaman dipakai dan bahan ringan digunakan, cocok dipake sehari-hari'!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar finding.id dengan animasi klik, model menunjuk layar bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id ya bestie!",
+  "hashtags": [
+    "#SandalAntiSelip",
+    "#SandalEVA",
+    "#SandalDapur",
+    "#ProdukViral",
+    "#FashionIndonesia",
+    "#AntiSelip",
+    "#SandalComel",
+    "#FindingId"
+  ],
+  "product_id": 86830,
+  "product_title": "Sandal Pantai Wanita Sandal EVA Tebal Anti-Selip Dalam Ruangan 5CM Sandal Pantai Wanita",
+  "product_price": "45129.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/86830.jpg",
+    "/uploads/products/86830_1.jpg",
+    "/uploads/products/86830_2.jpg",
+    "/uploads/products/86830_3.jpg",
+    "/uploads/products/86830_4.jpg",
+    "/uploads/products/86830_5.jpg",
+    "/uploads/products/86830_6.jpg",
+    "/uploads/products/86830_7.jpg",
+    "/uploads/products/86830_8.jpg",
+    "/uploads/products/86830_9.jpg",
+    "/uploads/products/86830_10.jpg",
+    "/uploads/products/86830_11.jpg",
+    "/uploads/products/86830_12.jpg",
+    "/uploads/products/86830_13.jpg",
+    "/uploads/products/86830_14.jpg",
+    "/uploads/products/86830_15.jpg",
+    "/uploads/products/86830_16.jpg",
+    "/uploads/products/86830_17.jpg",
+    "/uploads/products/86830_18.jpg",
+    "/uploads/products/86830_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/86830",
+  "generated_at": "2026-03-15T03:57:38.604Z"
+}

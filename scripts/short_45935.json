@@ -1,0 +1,83 @@
+{
+  "title": "Garnier Jumbo 700ml Murah Banget Bestie!",
+  "hook_text": "Skincare mewah dompet tipis?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah berkilau sambil menunjuk kamera dengan ekspresi terkejut",
+      "narration": "Mau punya skincare mewah tapi dompet tipis? Stop scroll dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Garnier Pink Jumbo 700ml ditampilkan dengan efek cahaya cinematic",
+      "narration": "Kenalin, ini Garnier Micellar Cleansing Water 700ml Jumbo Pink edition."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek animasi uang terbang",
+      "narration": "Harganya cuma seratus nolan ribuan doang, which is literally worth it banget buat yang budget pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi tekstur cairan di tangan dan membersihkan makeup dari wajah",
+      "narration": "Teksturnya cair dan super halus di kulit --- aman banget buat penggunaan sehari-hari tanpa iritasi. Pembersih makeup yang ngebut banget. Tapi bestie, packingnya kadang kurang aman, jadi cek barangnya ya pas sampai."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model dengan kulit sensitif sedang merut wajah dengan ekspresi lega",
+      "narration": "Ini cocok banget buat kamu yang punya kulit sensitif atau yang aktif makeup setiap hari."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.77 dan jumlah terjual dengan efek confetti",
+      "narration": "Tiga puluh ribu terjual dengan rating empat koma tujuh tujuh bintang --- Yang udah beli bilang, teksturnya cair dan bersih."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan panah menunjuk",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#garnier",
+    "#skincarerumah",
+    "#micellarwater",
+    "#beautyhacks",
+    "#murahbanget",
+    "#kulitsensitif",
+    "#productviral",
+    "#findingid"
+  ],
+  "product_id": 45935,
+  "product_title": "[JUMBO SIZE] GARNIER Micellar Cleansing Water 700ml Pink Skin Care -  Pembersih Wajah & Make up Untuk Kulit Sensitif Micelar Pembersih Wajah Sabun Cuci Muka Penghapus Makeup Makeup Remover",
+  "product_price": "109900.00",
+  "product_rating": "4.77",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/45935.jpg",
+    "/uploads/products/45935_1.jpg",
+    "/uploads/products/45935_2.jpg",
+    "/uploads/products/45935_3.jpg",
+    "/uploads/products/45935_4.jpg",
+    "/uploads/products/45935_5.jpg",
+    "/uploads/products/45935_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/45935",
+  "generated_at": "2026-03-13T19:28:52.404Z"
+}

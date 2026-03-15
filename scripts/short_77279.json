@@ -1,0 +1,83 @@
+{
+  "title": "Tas Lipat Kapasitas Jumbo! Worth It?",
+  "hook_text": "STOP! Jangan beli tas ini dulu!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan menahan tas lipat yang sedang dilipat kecil lalu meledak terbuka lebar dengan cepat",
+      "narration": "Stop! Jangan beli tas ini dulu, karena kapasitasnya bakal bikin kamu kehabisan barang bawaan!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide menampilkan tas terbuka penuh dengan sepatu, botol minum, dan laptop, lalu zoom in ke tekstur kapas modernnya",
+      "narration": "Kenalan deh sama TSC, tas lipat kapasitas jumbo yang basically next level buat aktivitas sehari-hari atau olahraga."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga besar di layar dengan efek uang yang meledak, diikuti shot tas diletakkan di lantai kamar",
+      "narration": "Gila sih bestie, harganya cuma seratusan lima puluhan ribu rupiah doang, which is worth it banget buat barang sekelas ini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Tangan memasukkan banyak barang, 2. Detail sleting, 3. Tas dilipat kecil masuk saku celana",
+      "narration": "Pertama, kapasitasnya super besar, kamu bisa masukin sepatu, botol, dan dompet tanpa ribet. Kedua, bahannya modern dan kuat, nggak gampang sobek. Ketiga, kalau nggak dipakai bisa dilipat kecil, super praktis buat dibawa kemana-mana!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage: seseorang lari pagi, lalu ganti baju, lalu jalan-jalan belanja dengan tas yang sama",
+      "narration": "Perfect buat yang sering olahraga tapi butuh ganti baju di gym, atau kamu yang suka traveling singkat dan nggak mau bawa koper berat!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.82 dan jumlah terjual 20.000 produk dengan teks kutipan muncul di bawahnya",
+      "narration": "Bintang empat delapan dua dari dua puluh ribu pembeli, dan yang udah beli bilang 'Mantul jumbooooo murmer'!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol besar muncul dengan tulisan 'CEK DI FINDING.DOT.ID' sambil menunjuk ke arah layar",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#taslipat",
+    "#tasolahraga",
+    "#budgetfriendly",
+    "#findingid",
+    "#tasjumbo",
+    "#outfitlegal",
+    "#viraltiktok",
+    "#rekomendasitok"
+  ],
+  "product_id": 77279,
+  "product_title": "TSC - TAS TRAVEL LIPAT TAS KAPASITAS BESAR TAS OLAHRAGA TAS BAHU MODERN",
+  "product_price": "55000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/77279.jpg",
+    "/uploads/products/77279_1.jpg",
+    "/uploads/products/77279_2.jpg",
+    "/uploads/products/77279_3.jpg",
+    "/uploads/products/77279_4.jpg",
+    "/uploads/products/77279_5.jpg",
+    "/uploads/products/77279_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/77279",
+  "generated_at": "2026-03-15T07:29:44.770Z"
+}

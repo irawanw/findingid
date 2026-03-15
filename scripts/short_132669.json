@@ -1,0 +1,83 @@
+{
+  "title": "Oseng Mercon 3 Pack Hemat Banget Bestie!",
+  "hook_text": "Pedesnya Nampol Dompet Aman?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up produk Oseng Mercon dengan efek api pedas dan teks overlay besar.",
+      "narration": "Pedesnya nampol, dompet aman? Nih solusinya bestie! --- Jangan skip dulu, ini penting banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan 3 pack produk di atas meja dengan gerakan cepat dan transisi cinemtic.",
+      "narration": "Oseng Mercon Daging 3 Pack, siap santap. Literally next level banget buat kamu pecinta pedas sejati."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga dengan efek koin atau uang yang jatuh, fokus pada angka harga.",
+      "narration": "Dapet 3 pack cuma seratus dua puluhan ribu aja. Which is worth it banget buat stok darurat rumah atau kantor."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Video makanan dimasak di wajan, daging terlihat empuk dan sambel mengkilap.",
+      "narration": "Dagingnya banyaaak, sambel gurih nampol. Ada varian pedas kayak 3 Reaper, Rawit, sampai Gini. Tinggal panasin doang, no cap! Dagingnya empuk banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang makan di meja kosan atau kantor sambil senyum puas.",
+      "narration": "Perfect buat yang males masak atau butuh stok darurat di kosan. Gak perlu ribet masak dari nol, bisa langsung makan hangat dan kenyang."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.81 dan angka 40.000 terjual di layar.",
+      "narration": "Sudah laku 40 ribu, rating 4.81. Yang udah beli bilang 'Pedes nya nampol, praktis lg'. Ada yang bilang biasa aja sih, tapi jujur sesuai harga banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilkan logo finding.id dengan panah menunjuk ke arah layar.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#OsengMercon",
+    "#MakananPedas",
+    "#MakananSiapSaji",
+    "#HematBanget",
+    "#StokDarurat",
+    "#FindingId",
+    "#ViralFood",
+    "#GenZIndonesia"
+  ],
+  "product_id": 132669,
+  "product_title": "[LEBIH HEMAT] Combo Bertiga  3 Pack Oseng Mercon Daging / Makanan Kaleng Siap Saji / Iga Mercon / Sambel Iga Food Instan Pedas",
+  "product_price": "129000.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/132669.jpg",
+    "/uploads/products/132669_1.jpg",
+    "/uploads/products/132669_2.jpg",
+    "/uploads/products/132669_3.jpg",
+    "/uploads/products/132669_4.jpg",
+    "/uploads/products/132669_5.jpg",
+    "/uploads/products/132669_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/132669",
+  "generated_at": "2026-03-13T18:44:14.863Z"
+}

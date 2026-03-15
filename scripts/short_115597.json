@@ -1,0 +1,83 @@
+{
+  "title": "Celana Cargo Cuma 100 Ribu?!",
+  "hook_text": "Celana Cargo Cuma 100 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget sambil memegang celana cargo dengan latar belakang toko.",
+      "narration": "Celana cargo premium cuma seharga seratus ribuan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk celana cargo KDW dipajang rapi, lalu model memakainya sambil berputar.",
+      "narration": "Ini KDW Celana Cargo Pendek Snow Washing --- Bahan super adem dan teksturnya soft banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh, lalu zoom ke detail kain.",
+      "narration": "Harganya? Seratus dua puluh ribuan doang! --- Which is basically gila banget buat kualitas semewah ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail saku yang besar, lalu model masukin HP dan tangan ke saku sambil tersenyum.",
+      "narration": "Ada tiga saku lega, desain snow washing yang gak gampang pudar --- dan fit-nya relaxed. No cap, ini next level buat gaya kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model jalan santai di trotoar, lalu close up ukuran pinggang celana.",
+      "narration": "Bestie, perfect buat kamu yang suka jalan santai atau nongkrong seharian. --- Tapi inget, size 33 itu agak kecil, jadi naikin satu biar nyaman dikancingin."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.76 dan angka penjualan, lalu teks kutipan muncul di layar.",
+      "narration": "Udah tiga puluh ribu terjual sama rating 4,76. --- Yang udah beli bilang, 'Barang nya bagus rekomended banget pengiriman cepat aman siiip'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#celanacargo",
+    "#kdw",
+    "#fashionpria",
+    "#ootd",
+    "#promo",
+    "#viral",
+    "#tiktokshop",
+    "#findingid"
+  ],
+  "product_id": 115597,
+  "product_title": "KDW - Celana Cargo Pendek Pria Snow Washing",
+  "product_price": "123120.00",
+  "product_rating": "4.76",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/115597.jpg",
+    "/uploads/products/115597_1.jpg",
+    "/uploads/products/115597_2.jpg",
+    "/uploads/products/115597_3.jpg",
+    "/uploads/products/115597_4.jpg",
+    "/uploads/products/115597_5.jpg",
+    "/uploads/products/115597_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/115597",
+  "generated_at": "2026-03-13T18:55:28.058Z"
+}

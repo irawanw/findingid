@@ -1,0 +1,89 @@
+{
+  "title": "Koper Hardcase Anti Guncang, Harga Gila!",
+  "hook_text": "Koper harga segini?! Gila!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan mengocok koper Polo City 072 lalu dibalik cepat dengan musik drop",
+      "narration": "Stop scroll dulu bestie! Kamu mikir koper hardcase kualitas gini harganya pasti mahal banget kan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage koper dibuka lebar memperlihatkan struktur dalam + zoom ke tekstur Fiber ABS",
+      "narration": "Tenang, ini bukan main-main. Koper Polo City City Hardcase seri 072 ini beneran next level. Bahan Fiber ABS plus PVC coated kokoh banget, nggak gampang retak meski ditimpa."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar di layar dengan efek 'buzzer', lalu transisi ke tampilan koper di rak toko",
+      "narration": "Dan yang paling gila, harganya cuma seratus delapan puluhan ribu sampai tujuh ratus dua puluhan ribu! Which is worth it banget kalau dipikirin kualitasnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail 3 poin: roda berputar, handle empuk, dan kunci kombinasi dibuka",
+      "narration": "Fiturnya lengkap banget, no cap. Pertama, empat roda putar besar yang geser mulus ke segala arah, basicnya next level. Kedua, handle padded biar tangan nggak pegel saat ngangkat. Ketiga, ada kunci kombinasi dan trolley aluminium kokoh. Basically, semua fitur wajib udah ada."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage orang muda traveling, naik pesawat, dan liburan ke pantai",
+      "narration": "Perfect buat kamu yang sering travel atau liburan bareng teman. Kalau aktivitas kamu suka macet di bandara atau mau bawa banyak barang, koper ini solusinya. Ukurannya tiga puluh lima kali dua puluh empat kali lima puluh sentimeter, pas banget buat kabin size dua puluh inch."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang empat koma delapan dua dan angka terjual, lalu muncul bubble chat testimoni",
+      "narration": "Percaya nggak bestie? Rating empat koma delapan dua dari dua puluh ribu pembeli. Yang udah beli bilang barangnya aman dan packing bubble wrap-nya super tebal!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah, musik upbeat",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#KoperPoloCity",
+    "#TravelEssentials",
+    "#HardcaseKoper",
+    "#TravelHacks",
+    "#KoperMurah",
+    "#ShoppingHaul",
+    "#GenZStyle",
+    "#FindingId"
+  ],
+  "product_id": 51852,
+  "product_title": "Tas Koper Polo City Hardcase size 20 inch - 072",
+  "product_price": "218999.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/51852.jpg",
+    "/uploads/products/51852_1.jpg",
+    "/uploads/products/51852_2.jpg",
+    "/uploads/products/51852_3.jpg",
+    "/uploads/products/51852_4.jpg",
+    "/uploads/products/51852_5.jpg",
+    "/uploads/products/51852_6.jpg",
+    "/uploads/products/51852_7.jpg",
+    "/uploads/products/51852_8.jpg",
+    "/uploads/products/51852_9.jpg",
+    "/uploads/products/51852_10.jpg",
+    "/uploads/products/51852_11.jpg",
+    "/uploads/products/51852_12.jpg"
+  ],
+  "product_link": "https://finding.id/p/51852",
+  "generated_at": "2026-03-15T07:20:17.481Z"
+}

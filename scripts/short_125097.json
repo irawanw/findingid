@@ -1,0 +1,82 @@
+{
+  "title": "Legging Rp 52-an?! Ini Gila Bestie! 😱",
+  "hook_text": "Rp 52 ribuan doang??",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah ekspresif sambil tunjuk harga di layar dengan efek suara 'whoa'",
+      "narration": "Gila sih, legging kualitas tinggi cuma lima puluh dua ribuan doang?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat model memakai leging Laviola 2914 LSH dari berbagai sudut, highlight tekstur spandex",
+      "narration": "Ini Legging Laviola 2914 LSH, bahan spandex premium yang stretch banget dan nggak gampang kekenyangan. Basically next level comfort!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan 3 pcs di tangan dengan efek confetti, teks besar 'Murah Banget'",
+      "narration": "Bayangin dapet tiga buah cuma lima puluh dua ribuan. Which is worth it banget dibanding beli satu di mall yang harganya bisa satu jutaan!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Tarik pinggang buat tunjuk elastisitas, 2. Tahan air dengan semprotan, 3. Model jalan santai",
+      "narration": "Pertama, bahannya lembut dan nggak bikin gatal di kulit. Kedua, tahan air dan kering cepet, cocok buat olahraga atau hujan. Ketiga, elastisitasnya super tinggi, nggak bikin pinggang kekecilan atau kebesaran pas dipakai."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: wanita olahraga, wanita ke rumah sakit, dan wanita jalan santai",
+      "narration": "Perfect buat kamu yang suka olahraga, mau ke rumah sakit biar nyaman, atau lagi jalan santai tapi butuh gaya. Kalau aktivitas kamu butuh fleksibilitas maksimal, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.82 bintang dan angka 30.000 terjual, teks kutipan muncul",
+      "narration": "Pembelinya pada ngomong bahannya bagus banget dan tekstur lembut, plus nyaman dipakai seharian."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah, teks 'Cek di sini'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#LeggingMurah",
+    "#FashionGenZ",
+    "#ViralShorts",
+    "#BelanjaOnline",
+    "#SpandexLegging",
+    "#OOTDIndonesia",
+    "#TemukanKamu",
+    "#FindingId"
+  ],
+  "product_id": 125097,
+  "product_title": "HEMAT 3 PCS Leging Wanita Dewasa Panjang / Lejing Wanita Spandex / Celana Legging Wanita Polos",
+  "product_price": "52000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/125097.jpg",
+    "/uploads/products/125097_1.jpg",
+    "/uploads/products/125097_2.jpg",
+    "/uploads/products/125097_3.jpg",
+    "/uploads/products/125097_4.jpg",
+    "/uploads/products/125097_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/125097",
+  "generated_at": "2026-03-14T05:00:06.737Z"
+}

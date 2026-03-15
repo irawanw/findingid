@@ -1,0 +1,85 @@
+{
+  "title": "Matras + Tummy Trimmer Murah Banget!",
+  "hook_text": "Matras + Alat Olahraga Cuma 70 Ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up cepat matras ungu dan tummy trimmer ditaruh bersamaan di lantai dengan efek suara 'pop'",
+      "narration": "Gak percaya? Matras olahraga lengkap plus Tummy Trimmer harganya cuma di bawah seratus ribu rupiah!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari atas (top view) memperlihatkan set lengkap matras tebal dan alat trimmer dengan pencahayaan cerah",
+      "narration": "Ini dia VOOVA Bundling, paket lengkap buat kamu yang mau mulai fitness di rumah. Ada matras NBR setebal satu sentimeter yang empuk banget, plus Tummy Trimmer buat latih perut six pack."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks animasi besar muncul di layar menampilkan harga '70 ribuan' dengan efek kilat atau uang terbang",
+      "narration": "Bayangin, kamu dapet matras tebal plus alat olahraga cuma di kisaran tujuh puluh ribuan rupiah. Ini literally worth it banget kalau dibandingin sama kualitas yang kamu dapet."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: 1. Jari menekan matras (bounce effect), 2. Tangan memegang tummy trimmer, 3. Close-up tekstur permukaan matras",
+      "narration": "Fiturnya next level, bestie! Pertama, materialnya 100% NBR yang aman banget karena bebas racun, bebas PVC, dan bebas lateks. Kedua, ketebalan satu sentimeter bikin lutut dan punggung kamu nyaman banget pas olahraga. Ketiga, Tummy Trimmer-nya ini tool wajib buat otot perut yang lebih kencang tanpa ribet."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang muda (Gen Z) sedang melakukan gerakan tummy trimmer di atas matras dengan gaya santai sambil tersenyum",
+      "narration": "Paket ini perfect buat kamu yang aktif ngerjain kerjaan di rumah atau buat kamu yang sering bingung mau mulai olahraga dari mana. Matrasnya juga ada banyak warna favorit kayak pink, ungu, biru, dan abu-abu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.81 dan angka 20.000 terjual dengan background video orang senyum memegang produk",
+      "narration": "Ratingnya 4.81 dari 20.000 produk terjual, yang udah beli bilang barangnya sampai real pict baguss dan mantap pol!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke bawah atau logo finding.id dengan teks 'Cek Detail'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#VOOVA",
+    "#MatrasYoga",
+    "#TummyTrimmer",
+    "#FitnessMurah",
+    "#OlahragaDiRumah",
+    "#ViralIndonesia",
+    "#GenZFitness",
+    "#PromoMurah"
+  ],
+  "product_id": 133208,
+  "product_title": "VOOVA Bundling Matras dan Tummy Trimmer/ Set Olahraga Matras dan Tummy Trimmer/ Matras Olahraga Lengkap dengan Tummy Trimmer/ Yoga Mat/ Paket Olahraga",
+  "product_price": "76145.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/133208.jpg",
+    "/uploads/products/133208_1.jpg",
+    "/uploads/products/133208_2.jpg",
+    "/uploads/products/133208_3.jpg",
+    "/uploads/products/133208_4.jpg",
+    "/uploads/products/133208_5.jpg",
+    "/uploads/products/133208_6.jpg",
+    "/uploads/products/133208_7.jpg",
+    "/uploads/products/133208_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/133208",
+  "generated_at": "2026-03-15T14:31:38.363Z"
+}

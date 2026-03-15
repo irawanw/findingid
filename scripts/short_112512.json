@@ -1,0 +1,83 @@
+{
+  "title": "HOODIE FULLMOON VIRAL HARGA 69 RIBUAN!",
+  "hook_text": "HOODIE 69 RIBUAN? EMANG BISA?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tekstur hoodie premium dengan overlay harga besar di tengah layar",
+      "narration": "Gila sih, hoodie premium bisa dapet seharga 69 ribuan? --- No cap, ini bukan boncos bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot model memakai hoodie sambil tersenyum, zoom in ke logo produk",
+      "narration": "Kenalin nih, Hoodie Fullmoon Unisex. --- Ini bukan hoodie biasa, ini heavy duty banget buat harian kamu setiap hari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tunjukkan dompet kosong atau perbandingan harga coret vs harga sekarang",
+      "narration": "Dulu mahalnya bikin kantong jebol, sekarang cuma 69 ribuan saja. --- Worth it parah, dibanding beli kopi 50 ribu tiap hari."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage detail bahan, tarikan kain, dan variasi warna untuk cewek cowok",
+      "narration": "Bahannya tebal tapi nggak bikin gerah. --- Lembut banget, nggak bikin gatal di kulit. --- Modelnya unisex, cewek cowok bisa pakai bareng-bareng, jadi bisa couple."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot outfit santai di luar ruangan atau saat traveling, ekspresi nyaman",
+      "narration": "Kalau kamu suka outfit santai buat nongkrong atau traveling dingin. --- Ini perfect banget buat kamu yang mau hemat tapi tetap keren."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Overlay rating bintang dan jumlah terjual, teks kutipan ulasan muncul",
+      "narration": "Dua ratus ribu sudah terjual, rating empat koma delapan. --- Yang sudah beli bilang, \"Bahannya tebal tapi nggak panas dan nggak bikin kulit gatal.\""
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan layar HP membuka link finding.id dengan panah animasi",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#HoodieFullmoon",
+    "#OotdGenZ",
+    "#FashionViral",
+    "#MurahMeriah",
+    "#UnisexStyle",
+    "#PromoHariIni",
+    "#RekomendasiProduk",
+    "#FindingId"
+  ],
+  "product_id": 112512,
+  "product_title": "HOODIE FULLMOON CEWEK COWOK UNISEX TEBAL PREMIUM M L XL XXL",
+  "product_price": "69750.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/112512.jpg",
+    "/uploads/products/112512_1.jpg",
+    "/uploads/products/112512_2.jpg",
+    "/uploads/products/112512_3.jpg",
+    "/uploads/products/112512_4.jpg",
+    "/uploads/products/112512_5.jpg",
+    "/uploads/products/112512_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/112512",
+  "generated_at": "2026-03-13T21:34:35.492Z"
+}

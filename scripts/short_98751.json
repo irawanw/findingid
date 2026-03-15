@@ -1,0 +1,83 @@
+{
+  "title": "Rak Besi 5 Susun Cuma 100 Ribu?",
+  "hook_text": "Beneran cuma 100 ribuan buat rak 5 susun?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up produk rak besi dengan teks besar muncul di layar",
+      "narration": "Beneran cuma 100 ribuan buat rak 5 susun? Gak percaya sih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Zoom out menunjukkan rak penuh barang rapi di ruang tamu",
+      "narration": "Ini nih Rak Besi Siku 5 Susun dari Damaindah. Gak percaya, tapi wujudnya beneran ada dan ukurannya pas banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kaget",
+      "narration": "Harganya cuma seratus tiga puluh ribuan doang. Which is literally worth it banget buat dapet 5 tingkat!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Animasi tangan menunjuk tiap tingkat rak dan barang yang ditata",
+      "narration": "Fiturnya keren banget, ada 5 tingkat, bisa buat dapur, gudang, atau aquarium. --- Tapi inget, besinya tipis jadi jangan ditumpuk barang super berat ya bestie, no cap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang merapikan koper dan stok barang di rak",
+      "narration": "Perfect buat kamu yang suka ngerapihin stok barang atau mau simpan koper biar gak berantakan, literally jadi lebih tertata!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang dan jumlah terjual di layar HP",
+      "narration": "Rating 4.76, udah terjual 30.000 produk! Yang udah beli bilang Performa oke, kualitas baik, worth it lah sama harga segitu."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding dot id muncul dengan panah mengarah ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana, jangan ditunggu!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana, jangan ditunggu!",
+  "hashtags": [
+    "#rakbesi",
+    "#rakserbaguna",
+    "#damaindah",
+    "#furnituremurah",
+    "#tipsberumah",
+    "#genzindonesia",
+    "#produkviral",
+    "#findingid"
+  ],
+  "product_id": 98751,
+  "product_title": "Damaindah Rak Besi Siku 5 Susun 100% Besi Rak Gudang Rak Serbaguna Rak Dapur Rak Aquarium Rak Besi Siku Lubang",
+  "product_price": "135000.00",
+  "product_rating": "4.76",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/98751.jpg",
+    "/uploads/products/98751_1.jpg",
+    "/uploads/products/98751_2.jpg",
+    "/uploads/products/98751_3.jpg",
+    "/uploads/products/98751_4.jpg",
+    "/uploads/products/98751_5.jpg",
+    "/uploads/products/98751_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/98751",
+  "generated_at": "2026-03-13T18:26:54.841Z"
+}

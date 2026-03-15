@@ -1,0 +1,81 @@
+{
+  "title": "Jam Tangan Cewek Viral 100 Ribu-an?",
+  "hook_text": "Nggak percaya cuma 100 ribuan doang?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up jam tangan dengan efek cahaya dramatis dan teks besar muncul.",
+      "narration": "Nggak percaya sih ini cuma seratus tiga ribuan doang? --- Nih bestie, REBIRTH jam tangan wanita, desain ovalnya super elegan dan mungil banget."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase jam tangan dipakai di pergelangan tangan wanita dengan outfit kasual.",
+      "narration": "Nih bestie, REBIRTH jam tangan wanita, desain ovalnya super elegan dan mungil banget. --- Harganya? Cuma seratus tiga ribuan, which is literally worth it banget buat kualitas sekeren ini."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh.",
+      "narration": "Harganya? Cuma seratus tiga ribuan, which is literally worth it banget buat kualitas sekeren ini. --- Ada kaca mineral tahan gores, tali kulit yang super nyaman, plus garansi resmi satu tahun."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase fitur: ketahanan air, detail tali kulit, dan logo garansi.",
+      "narration": "Ada kaca mineral tahan gores, tali kulit yang super nyaman, plus garansi resmi satu tahun. --- Anti air juga, jadi aman banget buat aktivitas santai. No cap, fitur lengkap banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita memakai jam tangan sambil bekerja di laptop atau jalan santai.",
+      "narration": "Perfect buat kamu yang suka gaya minimalis, mau tampil simple tapi tetep classy buat kuliah atau kerja harian. --- Nggak perlu ribet, tinggal pakai ke outfit apa saja pasti kece."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan angka 50.000 terjual di layar.",
+      "narration": "Udah terjual 50.000 pasang dengan rating 4,88. --- Yang udah beli bilang cakep sesuai ekspektasi, simpel tapi elegan banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah mengarah ke arah link.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#jamtangankita",
+    "#rebirthwatch",
+    "#rekomendasiproduk",
+    "#fashionwanita",
+    "#murahmeriah",
+    "#viralproduct",
+    "#findingid",
+    "#gayaminimalis"
+  ],
+  "product_id": 24695,
+  "product_title": "REBIRTH Jam Tangan Wanita Anti Air Kuarsa Antik Kasual Tali Kulit Jam Tangan Cewek Original",
+  "product_price": "103000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/24695.jpg",
+    "/uploads/products/24695_1.jpg",
+    "/uploads/products/24695_2.jpg",
+    "/uploads/products/24695_3.jpg",
+    "/uploads/products/24695_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/24695",
+  "generated_at": "2026-03-13T19:51:10.619Z"
+}

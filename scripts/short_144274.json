@@ -1,0 +1,83 @@
+{
+  "title": "Speaker Karaoke Mini Bass Kenceng! 🔊",
+  "hook_text": "STOP! Kamu butuh ini buat karaoke!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tangan memegang speaker mini Winland LS-S117 yang kecil tapi bulat, lalu zoom in cepat ke speaker dengan efek getaran bass.",
+      "narration": "Stop bestie! Kamu nggak akan percaya kalau speaker seukuran ini bisa bikin suasana pesta jadi meledak!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai sudut, tunjukkan logo SNI dan label 'Gaya Eksklusif Winland' di atas speaker.",
+      "narration": "Ini Winland Speaker Bluetooth LS-S117, asli punya sertifikat SNI! Basically gaya eksklusif langsung dari FUJI, nggak main-main quality-nya."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar dengan animasi 'WOW' sambil tunjukkan harga Rp 195.000 dengan efek uang jatuh.",
+      "narration": "Coba rasain deh harganya cuma seratus sembilan puluh lima ribuan! Itu nggak nyambung banget sama kualitas bassnya yang super kenceng!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: Mic dinyalakan, speaker disambungkan bluetooth, dan tunjukkan mic bisa dipecah menjadi suara ganda.",
+      "narration": "Pertama, suaranya kecil kecil cabe rawit tapi bassnya kenceng banget no cap! Kedua, connect bluetoothnya super gampang dan stabil. Ketiga, micnya bisa dipecah jadi beberapa suara sekaligus, lucuu banget pas nyanyi bareng!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Keluarga sedang karaoke di ruang tamu dengan suasana hangat dan ceria.",
+      "narration": "Perfect buat yang sering mau karaoke bareng keluarga di rumah, atau kalau kamu suka bikin suasana gathering jadi lebih fun dan energik!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.88/5 dan angka terjual 20.000 produk dengan teks kutipan muncul di bawahnya.",
+      "narration": "Pembelinya pada ngomong kalau speaker ini worth it banget dan sesuai dengan harganya, literally so cute!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar hitam dengan tulisan besar 'Cek finding dot id' dan tombol download muncul.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, cek stoknya sebelum kehabisan!"
+    }
+  ],
+  "cta": "Cek detail produk di finding dot id sekarang!",
+  "hashtags": [
+    "#SpeakerKaraoke",
+    "#WinlandLS117",
+    "#BassKenceng",
+    "#RamadanFun",
+    "#ProdukViral",
+    "#SpeakerMini",
+    "#KaraokeRumah",
+    "#FindingDotId"
+  ],
+  "product_id": 144274,
+  "product_title": "Winland Speaker Bluetooth Karaoke 2Mic Mini Bluetooth Portabel super bass Keluarga  Karaoke  Full bass LS-S117(SNI)",
+  "product_price": "195000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/144274.jpg",
+    "/uploads/products/144274_1.jpg",
+    "/uploads/products/144274_2.jpg",
+    "/uploads/products/144274_3.jpg",
+    "/uploads/products/144274_4.jpg",
+    "/uploads/products/144274_5.jpg",
+    "/uploads/products/144274_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/144274",
+  "generated_at": "2026-03-14T09:22:02.187Z"
+}

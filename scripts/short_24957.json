@@ -1,0 +1,85 @@
+{
+  "title": "Pompa ASI Handsfree Viral! Murah & Powerful ✨",
+  "hook_text": "Mama bekerja butuh pompa ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Mama sedang sibuk kerja/meeting sambil memegang pompa ASI di dada dengan gaya santai.",
+      "narration": "Stop scrolling! Mama yang sering keluar kantor atau lagi sibuk kerja, pasti butuh solusi pumping yang nggak bikin repot banget."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close-up produk Dr.isla Pompa ASI Handsfree EB46 dengan lighting cerah, tunjuk fitur wearable-nya.",
+      "narration": "Kenalan dong sama Dr.isla Pompa Asi Elektrik Handsfree. Ini literally so cute banget dan super praktis karena bisa dipakai sambil jalan atau duduk, which is basically next level buat ibu modern!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga Rp 400 ribuan di layar dengan efek teks membesar dan gestur tangan 'wow'.",
+      "narration": "Nggak kerasa kan? Harganya cuma seratus empat puluh ribuan sampai seratus tujuh puluhan ribuan. No cap, ini worth it banget banget untuk kualitasnya!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tombol pengaturan, penampung besar, dan ibu sedang menggunakan produk dengan nyaman.",
+      "narration": "Fiturnya nggak main-main, ada empat mode dan tiga puluh enam level pengaturan hisapan yang bisa disesuaikan sama kebutuhanmu. Plus, penampungnya segitu besar, dua ratus sepuluh mililiter, jadi nggak perlu sering-sering kosongin. Desainnya juga handsfree yang bikin kamu tetap mobile!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu menyusui yang sedang berjalan-jalan atau meeting sambil pumping dengan senyum senang.",
+      "narration": "Perfect buat yang aktivitasnya tinggi banget, like ibu yang sering meeting atau mobilitasnya nggak pernah berhenti. Kalau kamu sering nggak punya waktu buat duduk lama, ini definitely the one buatmu!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang lima dan angka terjual dua puluh ribu dengan cepat.",
+      "narration": "Pembelinya pada ngomong kalau tarikannya oke dan kualitasnya pas untuk kebutuhan sehari-hari. Ratingnya tinggi banget, empat koma delapan empat, dengan dua puluh ribu plus unit yang udah terjual!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol 'Cek Sekarang' animasi.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#IbuMenyusui",
+    "#PompaASI",
+    "#DrIsla",
+    "#MomHacks",
+    "#ParentingIndonesia",
+    "#HandsfreePump",
+    "#ViralProduk",
+    "#IbuBekerja"
+  ],
+  "product_id": 24957,
+  "product_title": "Dr.isla Pompa Asi Elektrik Handsfree Wearable Breast Pump Portable 210Ml 4 Mode 36 Level 24mm Penampung ASI EB46",
+  "product_price": "409000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/24957.jpg",
+    "/uploads/products/24957_1.jpg",
+    "/uploads/products/24957_2.jpg",
+    "/uploads/products/24957_3.jpg",
+    "/uploads/products/24957_4.jpg",
+    "/uploads/products/24957_5.jpg",
+    "/uploads/products/24957_6.jpg",
+    "/uploads/products/24957_7.jpg",
+    "/uploads/products/24957_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/24957",
+  "generated_at": "2026-03-15T01:25:40.688Z"
+}

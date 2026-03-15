@@ -1,0 +1,92 @@
+{
+  "title": "Kaos Henley Premium Serba Gak Berasa Mahal!",
+  "hook_text": "Stop scroll! Kaos ini worth it banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tekstur bahan kaos yang terlihat tebal namun adem dengan efek zoom in cepat",
+      "narration": "Siapa yang pikir kaos kancing cuma buat gaya doang? Nggak no cap, bahan ini literally next level!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage model pria dan wanita memakaikan kaos di berbagai posisi dengan warna Dusty Pink dan Dark Grey",
+      "narration": "Ini Kaos Henley Cotton Combed 30S premium, unisex buat kamu dan pasangan. Tebal tapi tetap adem, nggak bikin gerah sama sekali."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar sambil menunjuk stiker diskon, lalu transisi ke tampilan kemasan premium",
+      "narration": "Tebak deh harganya, pasti mahal kan? Gak bakal, cuma empat puluh sembilan ratus-an aja! Nah, worth it banget dong!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menunjukkan detail jahitan overdeck tiga jarum, tes celupan air untuk ketahanan warna, dan model menggosok leher kaos",
+      "narration": "Pertama, jahitan overdeck tiga jarum Dijamin awet nggak gampang sobek. Kedua, garansi tukar baru kalau warnanya luntur, no problem. Ketiga, bahan lembut banget di kulit, cocok buat yang sensitif."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario cepat: orang sedang olahraga ringan, nongkrong santai, dan bekerja di kantor dengan gaya kasual",
+      "narration": "Perfect buat yang aktivitasnya padat tapi butuh kenyamanan maksimal. Kalau kamu cari kaos yang versatile dari nongkrong sampe kerja, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.82 dan angka 20.000 terjual dengan teks kutipan muncul di atasnya",
+      "narration": "Pembelinya pada ngomong bahannya bagus nggak mengecewakan, bahkan bapak-bapak juga suka banged. Rating empat delapan dua dari dua puluh ribu terjual!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah menunjuk ke bawah dengan teks 'finding dot id' dan tombol beli berdenyut",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stok warna-warna menariknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#KaosHenley",
+    "#OOTDKinian",
+    "#FashionUnisex",
+    "#KaosPremium",
+    "#StyleIndonesia",
+    "#WardrobeEssentials",
+    "#GenZFashion",
+    "#FindingId"
+  ],
+  "product_id": 130185,
+  "product_title": "KAOS POLOS KANCING HENLEY COTTON PREMIUM LENGAN PENDEK / KAOS KANCING PRIA/WANITA",
+  "product_price": "49900.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/130185.jpg",
+    "/uploads/products/130185_1.jpg",
+    "/uploads/products/130185_2.jpg",
+    "/uploads/products/130185_3.jpg",
+    "/uploads/products/130185_4.jpg",
+    "/uploads/products/130185_5.jpg",
+    "/uploads/products/130185_6.jpg",
+    "/uploads/products/130185_7.jpg",
+    "/uploads/products/130185_8.jpg",
+    "/uploads/products/130185_9.jpg",
+    "/uploads/products/130185_10.jpg",
+    "/uploads/products/130185_11.jpg",
+    "/uploads/products/130185_12.jpg",
+    "/uploads/products/130185_13.jpg",
+    "/uploads/products/130185_14.jpg",
+    "/uploads/products/130185_15.jpg"
+  ],
+  "product_link": "https://finding.id/p/130185",
+  "generated_at": "2026-03-15T11:25:24.364Z"
+}

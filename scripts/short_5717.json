@@ -1,0 +1,83 @@
+{
+  "title": "Singlet Rider Viral 5XL! Murah Banget Bestie!",
+  "hook_text": "Pernah nggak cari kaos dalam yang nggak bikin panas?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah bingung memegang kaos dalam biasa, lalu transisi ke singlet Rider",
+      "narration": "Pernah nggak cari kaos dalam yang nggak bikin panas --- tapi tetep keren?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Show Rider Vest R224BP putih di pegangan, tunjukkan tekstur bahan dekat kamera",
+      "narration": "This is Rider Vest R224BP, singlet katun 100% yang literally super adem --- dan nggak transparan banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga Rp 55.000-an muncul besar, lalu efek uang koin jatuh",
+      "narration": "Dan harganya cuma lima puluhan ribuan aja. Worth it banget untuk kualitas orisinal!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo tarik bahan (tidak melar), tes tembus cahaya, dan tunjukkan range ukuran S-5XL",
+      "narration": "Bahan nggak melar, nggak licin, dan nggak transparan. Ada ukuran lengkap sampai 5XL --- jadi favorit buat kamu yang postur oke. No cap, ini basic wardrobe wajib!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Cowok pakai vest di bawah kaos putih atau sedang olahraga ringan",
+      "narration": "Perfect buat olahraga ringan atau kerja di kantor. Kalau kamu tinggi 178 cm berat 89 kilo --- mending pilih size XL biar nggak kekecilan dong!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 4.92 muncul, badge 30k sold, lalu bubble chat testimoni",
+      "narration": "Rating 4.92, udah terjual 30.000-an. Yang udah beli bilang --- 'Packaging aman, warna putih cakep, cocok banget buat papah!'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah pointing ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie --- review produknya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#RiderVest",
+    "#KaosDalamPria",
+    "#OotdPria",
+    "#ViralProducts",
+    "#FashionPria",
+    "#FindID",
+    "#GayaGaul",
+    "#MurahMeriah"
+  ],
+  "product_id": 5717,
+  "product_title": "Rider Vest - Singlet Pria R224BP Warna Putih isi 1 Pcs",
+  "product_price": "55117.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/5717.jpg",
+    "/uploads/products/5717_1.jpg",
+    "/uploads/products/5717_2.jpg",
+    "/uploads/products/5717_3.jpg",
+    "/uploads/products/5717_4.jpg",
+    "/uploads/products/5717_5.jpg",
+    "/uploads/products/5717_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/5717",
+  "generated_at": "2026-03-13T22:34:51.304Z"
+}

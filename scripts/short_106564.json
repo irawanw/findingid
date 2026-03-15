@@ -1,0 +1,83 @@
+{
+  "title": "Garnier Micellar Water 400ml Murah Banget!",
+  "hook_text": "Makeup waterproof luntur cuma dalam hitungan detik?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up mata dengan makeup waterproof sedang dihapus menggunakan kapas",
+      "narration": "Makeup waterproof luntur cuma dalam hitungan detik? Gila sih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot botol Garnier Micellar Water 400ml dengan pencahayaan cinematic",
+      "narration": "Ini dia Garnier Micellar Water 400ml yang lagi viral banget di kalangan skincare enthusiast, bestie!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan layar HP menunjukkan harga produk di e-commerce",
+      "narration": "Volumenya gede banget, tapi harganya cuma lima puluhan ribuan doang. --- Which is worth it parah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage tekstur produk dan varian warna Pink, Blue, dan Biphase",
+      "narration": "Teknologi Micellar-nya ampuh angkat makeup waterproof tanpa dibilas. Ada varian Pink buat sensitif, Blue buat oily, dan Biphase buat waterproof. Teksturnya ringan kayak air, nggak lengket, plus tanpa parfum. Original 100% kok. --- Ada yang curiga soal segel? Tenang saja produknya asli."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Gadis sedang membersihkan wajah dengan mudah dan terlihat puas",
+      "narration": "Perfect banget buat kamu yang sering makeup berat atau kulitnya sensitif. Nggak perlu ribet bilas air, literally save time banget!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 5 bintang dan angka penjualan 50 ribu",
+      "narration": "Sudah 50 ribu terjual dengan rating 4.91. Yang udah beli bilang \"Mantap produknya, worth it banget, suka banget sih\"!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah menunjuk ke arah bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#GarnierMicellarWater",
+    "#SkincareMurah",
+    "#MakeupRemover",
+    "#TipsKulit",
+    "#RekomendasiProduk",
+    "#GarnierIndonesia",
+    "#BeautyFinds",
+    "#ViralProduct"
+  ],
+  "product_id": 106564,
+  "product_title": "Garnier Micellar Water 400ml / Pink Biru Kuning Biphase Oil 400 ml Pembersih Make Up Waterproof",
+  "product_price": "58928.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/106564.jpg",
+    "/uploads/products/106564_1.jpg",
+    "/uploads/products/106564_2.jpg",
+    "/uploads/products/106564_3.jpg",
+    "/uploads/products/106564_4.jpg",
+    "/uploads/products/106564_5.jpg",
+    "/uploads/products/106564_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/106564",
+  "generated_at": "2026-03-13T22:20:12.643Z"
+}

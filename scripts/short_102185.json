@@ -1,0 +1,83 @@
+{
+  "title": "Foundation Murah Coverage Full? 😱",
+  "hook_text": "Gak percaya bisa punya wajah flawless?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah flawless dengan efek cahaya, teks overlay muncul cepat",
+      "narration": "Gak percaya bisa punya wajah flawless? Cuma ratusan ribuan aja!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk MAKE OVER dipegang tangan, kemudian swatch di lengan",
+      "narration": "Ini dia MAKE OVER Ultra Cover Liquid Matte. Finish semi matte yang super tahan lama dan bikin kulit kelihatan natural banget. Bikin kulit kamu glowing tanpa terlihat berat."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul besar, ekspresi wajah kaget senang",
+      "narration": "Padahal kualitasnya premium, harganya cuma seratus empat puluhan ribu aja. --- Which is literally worth it banget buat kantong pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase aplikasi foundation, ikon Jojoba dan SPF, variasi warna",
+      "narration": "Teksturnya cair banget kayak primer, coverage tinggi sampai full tanpa kusam. Ada Jojoba Oil biar kulit nggak kering seharian, plus SPF 31 buat perlindungan UV maksimal. Finish satin yang bikin wajah kamu kelihatan healthy."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Gadis siap pergi kerja atau jalan sore dengan makeup natural",
+      "narration": "Perfect buat kamu yang sering butuh kulit flawless tapi budget terbatas. --- Kalau kamu aktivitasnya di luar ruangan seharian, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9, angka 30.000, screenshot chat pembeli",
+      "narration": "Sudah terjual 30.000 produk dengan rating 4,9. --- Yang sudah beli bilang 'teksturnya cair, kayak sudah ada primer nya gt'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar, panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#MakeOver",
+    "#FoundationMurah",
+    "#MakeoverID",
+    "#SkincareTips",
+    "#MakeupViral",
+    "#CantikAlami",
+    "#BelanjaOnline",
+    "#ReviewProduk"
+  ],
+  "product_id": 102185,
+  "product_title": "MAKE OVER Ultra Cover Liquid Matte Foundation",
+  "product_price": "141300.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/102185.jpg",
+    "/uploads/products/102185_1.jpg",
+    "/uploads/products/102185_2.jpg",
+    "/uploads/products/102185_3.jpg",
+    "/uploads/products/102185_4.jpg",
+    "/uploads/products/102185_5.jpg",
+    "/uploads/products/102185_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/102185",
+  "generated_at": "2026-03-13T18:17:18.140Z"
+}

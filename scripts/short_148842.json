@@ -1,0 +1,90 @@
+{
+  "title": "Mobil Wangi Kayak Hotel Bintang 5?!",
+  "hook_text": "Mobil wangi kayak apa?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up mobil interior terlihat kusam lalu tiba-tiba transisi ke mobil bersih wangi dengan efek cahaya emas.",
+      "narration": "Bayangin bestie, numpang mobil orang tapi wanginya kayak basi..."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing produk De'Xandra dengan slow motion, tunjukkan botol kaca estetik dan tutupnya yang premium.",
+      "narration": "Nah, solusinya ada di De'Xandra Air Freshener ini, literally so cute dan wanginya mewah banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri harga mahal, kanan produk ini dengan stiker besar 'Super Murah'.",
+      "narration": "Duh, padahal harganya cuma enam puluhan ribu rupiah doang, which is worth it banget sih!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: 1. Wajah model senyum (aroma hotel), 2. Tunjukkan botol kecil 10ml (awet), 3. Tunjukkan berbagai warna botol.",
+      "narration": "Pertama, wanginya juara, kayak lagi di hotel bintang lima. Kedua, isinya cukup sepuluh mililiter dan awet lebih dari tiga puluh hari. Ketiga, punya banyak pilihan aroma, dari Japanese Melon yang seger sampai Coffee Warm yang cozy!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: orang naik mobil kantor, lalu orang duduk di kamar tidur yang tenang.",
+      "narration": "Perfect buat yang sering bawa mobil atau mau bikin kamar tidur jadi relaks setiap malam."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.89 dan angka 20.000 terjual dengan teks quote muncul di layar.",
+      "narration": "Rating empat koma delapan sembilan dari dua puluh ribu pembeli, yang udah beli bilang wanginya mirip parfum Escada!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan animasi panah menunjuk ke bawah, overlay teks 'Cek di sini'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#DeXandra",
+    "#ParfumMobil",
+    "#WangiMobil",
+    "#HematBudget",
+    "#EssentialOil",
+    "#InteriorMobil",
+    "#TipsMobil",
+    "#FindingDotID"
+  ],
+  "product_id": 148842,
+  "product_title": "Dexandra Parfum Mobil dan Pengharum Ruangan Mewah Tahan Lama Pewangi Aroma Terapi Essential Oil",
+  "product_price": "50000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/148842.jpg",
+    "/uploads/products/148842_1.jpg",
+    "/uploads/products/148842_2.jpg",
+    "/uploads/products/148842_3.jpg",
+    "/uploads/products/148842_4.jpg",
+    "/uploads/products/148842_5.jpg",
+    "/uploads/products/148842_6.jpg",
+    "/uploads/products/148842_7.jpg",
+    "/uploads/products/148842_8.jpg",
+    "/uploads/products/148842_9.jpg",
+    "/uploads/products/148842_10.jpg",
+    "/uploads/products/148842_11.jpg",
+    "/uploads/products/148842_12.jpg",
+    "/uploads/products/148842_13.jpg"
+  ],
+  "product_link": "https://finding.id/p/148842",
+  "generated_at": "2026-03-14T10:51:04.273Z"
+}

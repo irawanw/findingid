@@ -1,0 +1,94 @@
+{
+  "title": "Skincare Murah Ini Bikin Kulit Glow Tanpa Minyakan!",
+  "hook_text": "Muka Jadi Minyak Pas Bangun Tidur?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah berminyak lalu transisi ke produk Minimalist.",
+      "narration": "Duh bestie, muka jadi minyak banget pas bangun tidur? --- Nggak percaya kalau ini bisa berubah total jadi bersih dan sehat?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Shot produk Minimalist 10% Vitamin B5 di atas meja bersih.",
+      "narration": "Tenang bestie, ada Minimalist sepuluh persen Vitamin B5 Moisturizer ini, solusi pelembab wajah bebas minyak yang literally no cap buat kamu semua."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks harga muncul besar di layar dengan efek kilat.",
+      "narration": "Harganya cuma sembilan puluh ribu rupiah doang, which is worth it banget banget buat kualitas skincare sekelas ini."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Textur krim di jari, diaplikasikan ke wajah dengan gerakan ringan.",
+      "narration": "Isinya ada Panthenol tingkat tinggi buat nyembuhin kulit, Zinc buat kontrol minyak berlebih, plus tekstur cream to gel yang super ringan banget, literally kayak air."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Montase cepat: tekstur, packing, aplikasi ke leher.",
+      "narration": "Pertama, nyerap cepet banget di kulit tanpa lengket. --- Kedua, nggak bikin kusam atau berminyak seharian. --- Ketiga, aman buat kulit sensitif yang gampang iritasi. --- Keempat, packingnya rapii dan bubble wrap tebal banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Skenario orang keluar rumah seharian lalu pulang ke rumah.",
+      "narration": "Perfect buat yang sering nongkrong seharian di luar ruangan. --- Kalau kamu kulit kombinasi, ini pas banget. --- Klo kulit kering banget, mungkin kurang cocok ya."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Tampilan rating bintang 4.91 dan jumlah terjual 50.000.",
+      "narration": "Ratingnya empat koma sembilan satu dari lima bintang. --- Ada yang bilang 'Moisturizernya ringan banget, nggak bikin kusam maupun oily'."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Shot produk dari berbagai angle ukuran 50 gram.",
+      "narration": "Varian ukuran lima puluh gram ini udah cukup buat satu bulan pemakaian. --- Siap jadi bestie baru di skincare routine kamu!"
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tombol beli dan link di deskripsi muncul di layar.",
+      "narration": "Buruan klik link di deskripsi sekarang sebelum kehabisan dan stok langka!"
+    }
+  ],
+  "cta": "Klik link di deskripsi untuk beli sekarang!",
+  "hashtags": [
+    "#SkincareMurah",
+    "#MinimalistSkin",
+    "#PelembabWajah",
+    "#RutinitasSkincare",
+    "#KulitSehat",
+    "#RekomendasiSkincare",
+    "#GenZIndonesia",
+    "#ViralProduct"
+  ],
+  "product_id": 100179,
+  "product_title": "Minimalist 10% Vitamin B5 Moisturizer | Pelembab Wajah Panthenol Bebas Minyak dengan Zinc | 50G",
+  "product_price": "90000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100179.jpg",
+    "/uploads/products/100179_1.jpg",
+    "/uploads/products/100179_2.jpg",
+    "/uploads/products/100179_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/100179",
+  "generated_at": "2026-03-12T13:41:09.973Z"
+}

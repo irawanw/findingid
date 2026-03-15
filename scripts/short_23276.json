@@ -1,0 +1,96 @@
+{
+  "title": "Selimut Bayi Premium Murah Banget!",
+  "hook_text": "Stop scroll! Ini selimut bayi?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tangan meraba kain bulu halus di depan kamera dengan ekspresi kaget",
+      "narration": "Gila sih, kalian pikir ini selimut bayi murahan? No cap, ini level premium banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat baby tidur tenang selimut di berbagai warna + text overlay 'Microfiber vs Fleece'",
+      "narration": "Kenalan deh sama M&Dee Babycape, selimut topi satu paket yang bahan microfibernya bikin kulit baby nggak gatal sama sekali, dan sisi satunya fleece yang super hangat tapi nggak bikin gerah, literally worth it!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar: 'Di bawah 83 ribuan!' dengan efek confetti",
+      "narration": "Bayangin aja, kualitas bintang lima ini cuma dijual di harga tujuh puluh sembilan ribu delapan ratus sembilan puluh sembilan hingga delapan puluh tiga ribuan aja, bestie!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri baby nyaman di siang hari, kanan baby tidur nyenyak di malam hari",
+      "narration": "Pertama, bahan microfibernya breathable jadi sirkulasi udaranya lancar, nggak bikin bayi berkeringat. Kedua, desain bolak balik reversible, pagi pakai sisi lembut, malam pakai sisi bulu tebal buat nambah kehangatan. Ketiga, warnanya juga estetik banget, mulai dari Orange Vermilion, Navy Purple, Tortilla White, Tartan Red Navy, Navy Wings, sampai White Grey Flower, which is super cute!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario baby outdoor di kereta atau indoor di kursi makan",
+      "narration": "Perfect buat yang sering bawa bayi outdoor, atau kalau aktivitas kamu suka banget nganter anak ke tempat umum, ini wajib banget punya biar anak nggak kedinginan!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.89 dan angka 20.000 terjual di layar",
+      "narration": "Rating empat koma delapan sembilan dari dua puluh ribu produk yang udah dibeli bilang 'Selimut ini bener-bener premium kualitasnya', nggak ada salahnya coba!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id besar dengan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id sekarang!",
+  "hashtags": [
+    "#SelimutBayi",
+    "#BabyGearIndonesia",
+    "#BestieReview",
+    "#ParentingHacks",
+    "#FindingId",
+    "#MurahBanget",
+    "#BabyComfort",
+    "#ViralProduk"
+  ],
+  "product_id": 23276,
+  "product_title": "M&Dee - BABYCAPE Selimut topi premium blanket bayi murah",
+  "product_price": "79899.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/23276.jpg",
+    "/uploads/products/23276_1.jpg",
+    "/uploads/products/23276_2.jpg",
+    "/uploads/products/23276_3.jpg",
+    "/uploads/products/23276_4.jpg",
+    "/uploads/products/23276_5.jpg",
+    "/uploads/products/23276_6.jpg",
+    "/uploads/products/23276_7.jpg",
+    "/uploads/products/23276_8.jpg",
+    "/uploads/products/23276_9.jpg",
+    "/uploads/products/23276_10.jpg",
+    "/uploads/products/23276_11.jpg",
+    "/uploads/products/23276_12.jpg",
+    "/uploads/products/23276_13.jpg",
+    "/uploads/products/23276_14.jpg",
+    "/uploads/products/23276_15.jpg",
+    "/uploads/products/23276_16.jpg",
+    "/uploads/products/23276_17.jpg",
+    "/uploads/products/23276_18.jpg",
+    "/uploads/products/23276_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/23276",
+  "generated_at": "2026-03-14T18:45:07.293Z"
+}

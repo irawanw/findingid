@@ -1,0 +1,96 @@
+{
+  "title": "Karpet Eropa Anti Slip! Worth it banget nih ✨",
+  "hook_text": "Stop scroll! Karpet murah kualitas oke!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan mencubit karpet menunjukkan ketebalan dan tekstur yang lembut dengan ekspresi wajah yang terkejut.",
+      "narration": "Eits stop scroll dulu! Kamu nggak bakal percaya kalau karpet sekeren ini harganya cuma segelas kopi."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot lebar karpet terpasang rapi di ruang tamu dengan sudut ruangan yang estetik dan pencahayaan hangat.",
+      "narration": "Ini dia Karpet Eropa Polyester ukuran 160 kali 210 sentimeter, anti slip dan bikin ruangan langsung naik level bestie!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul di layar dengan animasi uang berceceran, disusul shot perbandingan karpet dengan meja kopi.",
+      "narration": "Harganya cuma seratus delapan puluhan ribu sampai dua ratus enam puluhan ribu saja, which is worth it banget untuk kualitas sepremium ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail tekstur kain yang halus, lalu transisi cepat ke orang berjalan aman tanpa tergelincir, terakhir transisi ke warna-warna cerah.",
+      "narration": "Pertama, bahannya sintetik yang lembut dan halus di kulit, literally so cute dipakai. Kedua, fitur anti slipnya super aman, nggak perlu takut licin lagi. Ketiga, ada banyak warna estetik kayak A6, A27, atau CRF-76, basically no cap, semua cocok banget sama furnitur kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: orang nonton TV sambil tiduran, anak kecil main di lantai, dan foto selfie estetik di atas karpet.",
+      "narration": "Perfect buat kamu yang sering nonton TV seharian, punya bocil yang suka lari-lari di rumah, atau kalau kamu suka update foto Instagram di ruang tamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan screenshot rating bintang lima dan angka terjual dengan teks overlay kutipan pembeli.",
+      "narration": "Rating empat koma delapan empat dan sudah terjual dua puluh ribu produk! Yang udah beli bilang barangnya sesuai gambar dan kualitasnya oke banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan latar belakang karpet, panah menunjuk ke arah tombol.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#karpetmurah",
+    "#renovasisultan",
+    "#dekorasiRumah",
+    "#karpetantiSlip",
+    "#findingId",
+    "#ideRumah",
+    "#karpetEropa",
+    "#hematBudget"
+  ],
+  "product_id": 140643,
+  "product_title": "Karpet Eropa Polyester 160x210cm Anti Slip",
+  "product_price": "188000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/140643.jpg",
+    "/uploads/products/140643_1.jpg",
+    "/uploads/products/140643_2.jpg",
+    "/uploads/products/140643_3.jpg",
+    "/uploads/products/140643_4.jpg",
+    "/uploads/products/140643_5.jpg",
+    "/uploads/products/140643_6.jpg",
+    "/uploads/products/140643_7.jpg",
+    "/uploads/products/140643_8.jpg",
+    "/uploads/products/140643_9.jpg",
+    "/uploads/products/140643_10.jpg",
+    "/uploads/products/140643_11.jpg",
+    "/uploads/products/140643_12.jpg",
+    "/uploads/products/140643_13.jpg",
+    "/uploads/products/140643_14.jpg",
+    "/uploads/products/140643_15.jpg",
+    "/uploads/products/140643_16.jpg",
+    "/uploads/products/140643_17.jpg",
+    "/uploads/products/140643_18.jpg",
+    "/uploads/products/140643_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/140643",
+  "generated_at": "2026-03-15T02:47:00.799Z"
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Kemko Sultan Murah Meriah? 😱",
+  "hook_text": "Kemeja Koko Kaya Sultan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tekstur kain embos yang terlihat mewah dan detail jahitan rapi.",
+      "narration": "Sumpah, ini bukan kemeja biasa bestie! --- Keren banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Pewarnaan produk lengkap dengan model pria mengenakan kemeja koko di luar ruangan.",
+      "narration": "Kenalin, Kemko Sultan Embos. Bahan katun tebal tapi tetep adem. Cocok banget buat acara formal. Desainnya simpel tapi mewah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan layar HP menunjukkan harga produk dengan efek zoom in ke angka.",
+      "narration": "Dan yang bikin kaget, harganya cuma seratus empat puluhan ribu aja. --- Ngga perlu mahal buat tampil elegan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase detail saku dada, saku pinggir, dan manset kemeja dengan gerakan cepat.",
+      "narration": "Motif emboss elegan beda banget dari pasaran. Ada saku dada sama pinggir, plus manset rapi. Literally next level. Warna lebih kuat dan nggak mudah pudar. Bahan adem banget, nyaman dipake seharian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Pewarnaan pria mengenakan kemeja di acara keagamaan atau acara resmi keluarga.",
+      "narration": "Perfect buat kamu yang sering ke acara formal atau ke masjid. --- Pesen warna hati-hati, jangan sampai salah ya. Ngga perlu bingung mikirin budget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Grafis rating bintang 4.82 dan angka penjualan 40.000 terjual muncul di layar.",
+      "narration": "Rating 4.82 dan 40 ribu terjual. Yang udah beli bilang 'bahannya nyaman banget'. Kata pembelinya pada puji banget soal kualitas."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.ID dan teks ajakan bertindak dengan background produk blur.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#KemkoSultan",
+    "#KemejaKoko",
+    "#OOTD",
+    "#GenZ",
+    "#Viral",
+    "#FindingID",
+    "#FashionMuslim",
+    "#PromoMurah"
+  ],
+  "product_id": 3369,
+  "product_title": "kemko sultan embos kemeja koko kemko koko sultan",
+  "product_price": "148000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/3369.jpg",
+    "/uploads/products/3369_1.jpg",
+    "/uploads/products/3369_2.jpg",
+    "/uploads/products/3369_3.jpg",
+    "/uploads/products/3369_4.jpg",
+    "/uploads/products/3369_5.jpg",
+    "/uploads/products/3369_6.jpg",
+    "/uploads/products/3369_7.jpg",
+    "/uploads/products/3369_8.jpg",
+    "/uploads/products/3369_9.jpg",
+    "/uploads/products/3369_10.jpg",
+    "/uploads/products/3369_11.jpg",
+    "/uploads/products/3369_12.jpg",
+    "/uploads/products/3369_13.jpg",
+    "/uploads/products/3369_14.jpg",
+    "/uploads/products/3369_15.jpg",
+    "/uploads/products/3369_16.jpg",
+    "/uploads/products/3369_17.jpg",
+    "/uploads/products/3369_18.jpg",
+    "/uploads/products/3369_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/3369",
+  "generated_at": "2026-03-13T18:10:08.400Z"
+}

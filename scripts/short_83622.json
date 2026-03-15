@@ -1,0 +1,83 @@
+{
+  "title": "Dress Plisket Viral Rp 60 Ribuan?",
+  "hook_text": "Gak Masuk Akal Harga Semurah Ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up dress spinning cepat dengan efek cahaya, teks pop-up muncul besar.",
+      "narration": "Gak masuk akal, dress viral yang lagi hypes banget ini harganya cuma enam puluhan ribu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Full body shot model mengenakan dress, zoom in tekstur kain plisket.",
+      "narration": "Ini Inner Maxi Dress Plisket Mayung Oneck, model simple tapi looknya next level. Bahan plisketnya jatuh banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga besar muncul di layar, efek uang koin atau sticker.",
+      "narration": "Bayangin dapet kualitas premium cuma enam puluhan ribu? Literally worth it banget, which is basically nggak ada bandingannya!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail leher oneck, gerakan kain, lalu teks overlay panjang 125cm.",
+      "narration": "Desain oneck bikin leher keliatan panjang. Bahan plisket nyaman, nggak nyengat. Panjangnya 125cm, pas buat tinggi 160cm ke atas ya. --- Kalau kamu kurus, cek ukuran biar nggak ngatung!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Lifestyle shot di cafe atau jalan sore, model tersenyum santai.",
+      "narration": "Perfect buat kamu yang suka outfit praktis ke cafe atau jalan sore. Kalau kamu sering butuh baju rapi tapi nggak ribet setrika, ini wajib banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4,86, jumlah terjual 30.000, dan teks kutipan pembeli.",
+      "narration": "Sudah 30 ribu terjual dengan rating 4,86 bintang. Yang sudah beli bilang 'Sesuai foto. Bagus. Aku suka'. No cap, emang worth it!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id besar di tengah layar, panah menunjuk ke arah link.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#DressPlisket",
+    "#OOTDIndonesia",
+    "#FashionViral",
+    "#MurahMeriah",
+    "#DressMayung",
+    "#OOTDCafe",
+    "#FashionIndonesia",
+    "#PromoBaju"
+  ],
+  "product_id": 83622,
+  "product_title": "Inner Maxi Dress Plisket Mayung Oneck / Dress Panjang Polos Plisket  / Inner Plisket / Dress Mayung / Dress Plisket / Inner Pleated Dress",
+  "product_price": "64900.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/83622.jpg",
+    "/uploads/products/83622_1.jpg",
+    "/uploads/products/83622_2.jpg",
+    "/uploads/products/83622_3.jpg",
+    "/uploads/products/83622_4.jpg",
+    "/uploads/products/83622_5.jpg",
+    "/uploads/products/83622_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/83622",
+  "generated_at": "2026-03-13T21:55:52.706Z"
+}

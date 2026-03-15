@@ -1,0 +1,77 @@
+{
+  "title": "Sarung Busa Inoac, Murah & Nyaman Banget!",
+  "hook_text": "Inoac rusak? Jangan panik dulu bestie!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan kasur busa kotor atau bolong dengan efek zoom-in cepat ke wajah panik creator",
+      "narration": "Inoac rusak? Jangan panik dulu bestie, solusinya ada di sini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close-up shot sarung kasur busa warna pastel yang rapi dibalut ke busa, transisi smooth",
+      "narration": "Ini Sarung Kasur Busa Resleting Tebal, cocok banget buat nutup kasur busa Inoac atau lokal. Bikin kasur kamu kelihatan fresh dan rapi lagi, literally next level!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan harga terendah, diiringi animasi uang terbang atau efek 'wow'",
+      "narration": "Bayangin harga cuma seratus lima puluhan ribu, which is super terjangkau untuk kualitas begini. Worth it banget buat budget terbatas!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tangan meraba bahan tebal, resleting dibuka tutup dengan mudah, dan mesin cuci memutar baju",
+      "narration": "Pertama, resletingnya mudah banget pasangnya, nggak perlu pusing. Kedua, pilih ketebalan sesuai kebutuhan, dari lima sampai tiga puluh sentimeter. Ketiga, bahannya Disperse yang halus, lembut, dan tebal, plus bisa dicuci mesin, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang tidur di kasur busa yang bersih dan motif bunga yang cerah",
+      "narration": "Perfect buat kamu yang sering pakai kasur busa di kamar atau ruang tamu. Kalau aktivitas kamu sering duduk atau rebahan, ini bakal bikin tidurmu lebih nyenyak dan kasur nggak gampang kotor."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.82 dan angka 60.000 terjual dengan efek highlight",
+      "narration": "Pembelinya pada ngomong bahannya lumayan tebal dan motif tralis nggak cepat terlihat kotor. Kualitasnya bener-bener meyakinkan!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul dengan tombol panah mengarah ke bawah, latar belakang cerah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#SarungBusa",
+    "#KasurInoac",
+    "#RenovasiKamar",
+    "#HargaMurah",
+    "#RenovasiMurah",
+    "#KasurNyaman",
+    "#HomeDecorIndonesia",
+    "#FindingId"
+  ],
+  "product_id": 64899,
+  "product_title": "Sarung Kasur Busa Resleting Tebal 5,10, 15, 20, 25, 30 cm / Cover Kasur Busa Inoac / Sprei Resleting",
+  "product_price": "51014.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64899.jpg"
+  ],
+  "product_link": "https://finding.id/p/64899",
+  "generated_at": "2026-03-14T03:58:00.017Z"
+}

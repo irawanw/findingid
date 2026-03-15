@@ -1,0 +1,83 @@
+{
+  "title": "Tas Korea Murah Meriah Bestie!",
+  "hook_text": "Tas Korea cuma 60 ribuan?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas cantik, cepat zoom out ke model memakai tas",
+      "narration": "Tas Korea cuma 60 ribuan?! --- Gak percaya kan bestie? Coba dengerin."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tas dipakai model, spin shot 360 derajat",
+      "narration": "Ini ZYHA Hanna, totebag Korea viral. --- Desainnya gemas, warna tan-nya literally so cute banget, which is worth it banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga besar, bandingkan dengan tas mahal",
+      "narration": "Dapet tas bagus cuma enam puluhan ribu. --- Worth it banget kan? Gak perlu nabung sebulan buat punya ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up material, capacity test, strap",
+      "narration": "Bahan kokoh, muat laptop tipis. --- Straps lebar, gak bikin sakit bahu. --- Packing plastik, isian dikit biar gak kelipat. Kualitas sesuai harga no cap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Student/Office setting",
+      "narration": "Perfect buat kuliah atau kerja dengan budget terbatas. --- Kalau aktivitasmu sering keluar kota atau cuma nongkrong, ini wajib punya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating stars, sold count",
+      "narration": "Sudah terjual 30.000 produk! --- Yang udah beli bilang kualitasnya nggak jelek kok. --- Rating 4,9 juga bestie."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Hand holding phone pointing to finding.id",
+      "narration": "Penasaran detail lengkapnya? --- Sini cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Sini cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#TasKorea",
+    "#TasMurah",
+    "#ZYHAHanna",
+    "#TasKuliah",
+    "#TasKerja",
+    "#FashionIndonesia",
+    "#ViralTas",
+    "#OOTD"
+  ],
+  "product_id": 97457,
+  "product_title": "ZYHA | Hanna - Tas Fashion Korea Wanita - Totebag / Shoulder Bag Wanita | Tas Kerja & Kuliah",
+  "product_price": "69000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/97457.jpg",
+    "/uploads/products/97457_1.jpg",
+    "/uploads/products/97457_2.jpg",
+    "/uploads/products/97457_3.jpg",
+    "/uploads/products/97457_4.jpg",
+    "/uploads/products/97457_5.jpg",
+    "/uploads/products/97457_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/97457",
+  "generated_at": "2026-03-13T21:37:01.639Z"
+}

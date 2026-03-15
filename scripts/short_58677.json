@@ -1,0 +1,96 @@
+{
+  "title": "Kursi Camping Murah Banget? Cek Ini Bestie!",
+  "hook_text": "Kursi Camping 20 Ribu? Gila!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tangan membuka kursi lipat dengan cepat di tengah hutan, transisi cepat ke wajah kaget.",
+      "narration": "Eits stop dulu bestie! Kamu beneran percaya kursi camping ini cuma puluhan ribu? No cap, ini beneran ada."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: kursi di bawah hujan, kemudian di atas bukit berpasir, lalu di meja piknik.",
+      "narration": "Ini SPEEDS LX 031-14, kursi lipat outdoor yang literally next level buat perjalanan kamu. Tahan air, anti bocor, dan bahan kain oxfordnya super kuat."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek zoom in, diikuti stiker 'Best Seller' melompat-lompat.",
+      "narration": "Gila sih, harga paling rendah cuma enam puluhan ribu, lho! Dengan fitur segitu, basically worth it banget buat kantong pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menunjukkan kursi dilipat masuk tas kecil, kanan menunjukkan kursi dibuka penuh di tanah berbatu.",
+      "narration": "Pertama, lipatannya super ringan dan gampang masuk tas, no hassle. Kedua, kainnya nggak gampang sobek meski ditaruh di tanah berbatu. Ketiga, bisa dipakai di berbagai kondisi cuaca, dari panas terik sampai hujan deras."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage orang duduk santai di kursi sambil minum kopi di pinggir pantai dan orang lain sedang mendaki gunung.",
+      "narration": "Perfect buat kamu yang sering nengokin matahari terbenam di pantai, atau kalau aktivitas kamu hiking ke gunung. Nggak bakal bikin kamu capek duduk."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.85/5 dan angka '20.000+' terjual dengan background hijau segar.",
+      "narration": "Pembelinya pada ngomong barangnya istimewa dengan harga segitu, jadi nggak perlu ragu lagi deh."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah menunjuk ke bawah dengan logo finding.id dan tombol beli berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya!",
+  "hashtags": [
+    "#KursiCamping",
+    "#OutdoorLife",
+    "#PengenBeli",
+    "#FindingID",
+    "#KoleksiMurah",
+    "#Kampung",
+    "#KursiLipat",
+    "#CampingVibes"
+  ],
+  "product_id": 58677,
+  "product_title": "SPEEDS Kursi Lipat Outdoor Portable Kursi Camping Folding Chair Gunung Kemah Mudah LX 031-14",
+  "product_price": "51700.00",
+  "product_rating": "4.85",
+  "product_sold_display": "20.000",
+  "product_images": [
+    "/uploads/products/58677.jpg",
+    "/uploads/products/58677_1.jpg",
+    "/uploads/products/58677_2.jpg",
+    "/uploads/products/58677_3.jpg",
+    "/uploads/products/58677_4.jpg",
+    "/uploads/products/58677_5.jpg",
+    "/uploads/products/58677_6.jpg",
+    "/uploads/products/58677_7.jpg",
+    "/uploads/products/58677_8.jpg",
+    "/uploads/products/58677_9.jpg",
+    "/uploads/products/58677_10.jpg",
+    "/uploads/products/58677_11.jpg",
+    "/uploads/products/58677_12.jpg",
+    "/uploads/products/58677_13.jpg",
+    "/uploads/products/58677_14.jpg",
+    "/uploads/products/58677_15.jpg",
+    "/uploads/products/58677_16.jpg",
+    "/uploads/products/58677_17.jpg",
+    "/uploads/products/58677_18.jpg",
+    "/uploads/products/58677_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/58677",
+  "generated_at": "2026-03-14T19:15:32.454Z"
+}

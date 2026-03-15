@@ -1,0 +1,96 @@
+{
+  "title": "Kutek Aman Buat Ibu Hamil & Anak",
+  "hook_text": "Kutek Aman Buat Ibu Hamil?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up botol warna-warni TROPE, lalu transisi cepat ke tangan yang sedang melambaikan jari.",
+      "narration": "Pernah denger kutek yang aman buat ibu hamil? --- Nggak, tapi ini beneran!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase botol TROPE Waterbased Nail Colour dengan pencahayaan cinematic, aplikasi kutek di kuku.",
+      "narration": "Ini TROPE Waterbased Nail Colour. Cat kuku berbasis air yang literally no toxic dan nggak berbau."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga muncul besar, tangan memegang dompet dan tersenyum senang.",
+      "narration": "Harganya? Mulai dari lima puluhan ribu aja. Buat varian cat eye, seratus tiga puluh ribuan doang. Worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Time-lapse kuku kering, demonstrasi mengupas kutek, close up hasil kilap.",
+      "narration": "Kering cepet satu menit, finishnya kinclong kayak gel. Tahan tiga sampai tujuh hari tanpa ngelotok. Nggak bakal noda di kuku pas dikupas. Teksturnya ada yang kentel, jadi hati-hati ya."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu sedang memegang bayi, lalu adegan anak kecil mewarnai kuku dengan senyum.",
+      "narration": "Perfect buat kalian yang lagi hamil, menyusui, atau ibu yang pengen mewarnai kuku anak. Nggak perlu takut kena bahan kimia keras."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampil rating bintang 4.93, jumlah terjual, dan screenshot komentar pembeli.",
+      "narration": "Rating 4,93, udah terjual dua puluh ribu. Yang udah beli bilang 'cakep bangeeet' dan gampang dikupas."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah layar, logo finding.id muncul.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#kutekaman",
+    "#tropepolish",
+    "#kutekamanibuhamil",
+    "#makeupindonesia",
+    "#kutekvegan",
+    "#nailpolish",
+    "#tropenails",
+    "#findingshopping"
+  ],
+  "product_id": 109323,
+  "product_title": "TROPE Waterbased Nail Colour",
+  "product_price": "75000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/109323.jpg",
+    "/uploads/products/109323_1.jpg",
+    "/uploads/products/109323_2.jpg",
+    "/uploads/products/109323_3.jpg",
+    "/uploads/products/109323_4.jpg",
+    "/uploads/products/109323_5.jpg",
+    "/uploads/products/109323_6.jpg",
+    "/uploads/products/109323_7.jpg",
+    "/uploads/products/109323_8.jpg",
+    "/uploads/products/109323_9.jpg",
+    "/uploads/products/109323_10.jpg",
+    "/uploads/products/109323_11.jpg",
+    "/uploads/products/109323_12.jpg",
+    "/uploads/products/109323_13.jpg",
+    "/uploads/products/109323_14.jpg",
+    "/uploads/products/109323_15.jpg",
+    "/uploads/products/109323_16.jpg",
+    "/uploads/products/109323_17.jpg",
+    "/uploads/products/109323_18.jpg",
+    "/uploads/products/109323_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/109323",
+  "generated_at": "2026-03-13T21:17:46.532Z"
+}

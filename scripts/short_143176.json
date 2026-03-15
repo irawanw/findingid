@@ -1,0 +1,89 @@
+{
+  "title": "Setelan Revo Movee? Worth It Banget!",
+  "hook_text": "Seratus dua puluhan ribuan doang!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan menunjuk label harga sambil menggoyangkan setelan olahraga dengan irit.",
+      "narration": "Stop scroll bestie! Kamu mikir setelan olahraga premium itu pasti mahal banget kan? Tenang, aku punya temen yang bikin dompetmu senyum!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat dari setelan di rak ke model memakai Revo Void Green sedang melakukan gerakan zumba yang energik.",
+      "narration": "Ini Movee Premium Set REVO! Sepaket top dan legging ini kualitasnya nggak main-main. Bahannya soft banget, stretchnya luwes, literally next level nyaman!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar: 'Hanya Seratus Dua Puluhan Ribuan' dengan background efek confetti.",
+      "narration": "Bayangin deh, cuma Seratus Dua Puluhan Ribuan doang. Kamu dapet full set compression wear yang bikin gerak kamu makin stabil. Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tampilkan bahan spandek yang diregangkan, kanan tampilkan detail jahitan dan berbagai warna tersedia.",
+      "narration": "Pertama, bahannya Spandex tebal banget, nggak gampang tembus cahaya. Kedua, desain compression wear-nya support performa kamu pas lagi zumba atau gym. Terakhir, warnanya super lengkap mulai dari Army, Royal Blue sampai Pumpkin!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: seorang wanita yoga di pagi hari, lalu latihan senam aerobik di studio, dan terakhir jogging ringan di taman.",
+      "narration": "Perfect buat kamu yang suka aktivitas fisik tapi nggak mau ribet cari baju. Kalau aktivitas kamu sering berubah dari yoga jadi cardio, ini solusinya! Ukuran juga lengkap dari XS sampai XXL."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.89 bintang dan angka 30.000+ terjual muncul dengan animasi naik.",
+      "narration": "No cap, ratingnya 4.89 dan udah 30 ribuan terjual! Pembelinya pada ngomong bahannya tebal dan nyaman dipakai seharian. Kebanyakan sih puji kualitasnya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar menampilkan logo finding.id dengan panah besar menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stok terbatas!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#SetelanOlahraga",
+    "#MoveePremium",
+    "#ZumbaOutfit",
+    "#FitnessIndonesia",
+    "#RevoSet",
+    "#WardrobeEssentials",
+    "#GymLife",
+    "#AffordableFashion"
+  ],
+  "product_id": 143176,
+  "product_title": "Setelan REVO SET Setelan olahraga senam aerobic zumba yoga fitness gym",
+  "product_price": "120899.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/143176.jpg",
+    "/uploads/products/143176_1.jpg",
+    "/uploads/products/143176_2.jpg",
+    "/uploads/products/143176_3.jpg",
+    "/uploads/products/143176_4.jpg",
+    "/uploads/products/143176_5.jpg",
+    "/uploads/products/143176_6.jpg",
+    "/uploads/products/143176_7.jpg",
+    "/uploads/products/143176_8.jpg",
+    "/uploads/products/143176_9.jpg",
+    "/uploads/products/143176_10.jpg",
+    "/uploads/products/143176_11.jpg",
+    "/uploads/products/143176_12.jpg"
+  ],
+  "product_link": "https://finding.id/p/143176",
+  "generated_at": "2026-03-14T04:24:52.878Z"
+}

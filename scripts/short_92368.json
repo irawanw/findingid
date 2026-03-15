@@ -1,0 +1,83 @@
+{
+  "title": "Guling yang Bikin Tidur 5x Lezat! 😴✨",
+  "hook_text": "Stop scroll! Gulingnya beneran lembut?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up ekstrem tangan menekan permukaan guling yang terlihat empuk banget sambil teks besar muncul.",
+      "narration": "Stop scroll bestie, siap-siap tidurmu jadi lima kali lebih enak mulai detik ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot cinematic guling Sleepmax Paket 2 dengan bolster putih bersih yang disandingkan di ruang tamu yang cozy.",
+      "narration": "Ini Sleepmax Paket dua guling dan bolster living room, literally the upgrade buat kenyamanan tidurmu yang nggak bisa ditandingin."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Transisi cepat dari guling ke harga Rp 82.946 yang muncul dengan efek uang berjatuhan, lalu kembali ke shot produk.",
+      "narration": "Gila sih, dapetin dua guling plus bolster sekenya ini cuma perlu seratus delapan puluhan ribu aja, which is worth it banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: 1. Tangan memijat leher dengan guling, 2. Bolster menopang bantal sofa, 3. Close up tekstur kain putih bersih.",
+      "narration": "Pertama, teksturnya super lembut, nggak kaku sama sekali. Kedua, bolsternya pas banget buat numpukin bantal di sofa. Ketiga, warnanya putih bersih banget, seputih hati nurani kita, eak!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario nyata: seseorang rebahan santai di sofa sambil membaca buku atau nonton film dengan guling di belakangnya.",
+      "narration": "Perfect buat yang suka rebahan di sofa sambil nonton atau kerja dari rumah, kalau aktivitas kamu butuh kenyamanan ekstra, gini solusinya dong."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar grafis menampilkan rating 4.85/5 dan angka 20.000+ terjual dengan background warna-warni cerah.",
+      "narration": "Enak banget kan? Yang udah beli bilang pengiriman gercep dan rasanya kayak sellernya, sudah terjual lebih dari dua puluh ribu produk!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul di layar dengan animasi panah menunjuk ke bawah, background musik upbeat.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stoknya nggak ada yang abis!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id sekarang!",
+  "hashtags": [
+    "#Sleepmax",
+    "#GulingNyaman",
+    "#FurnitureAnakKost",
+    "#TidurEnak",
+    "#RenovasiRumah",
+    "#LivingRoomHacks",
+    "#BestieShopping",
+    "#HargaMurah"
+  ],
+  "product_id": 92368,
+  "product_title": "Sleepmax Paket 2 Guling Tidur Combo Living Bolster",
+  "product_price": "82946.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/92368.jpg",
+    "/uploads/products/92368_1.jpg",
+    "/uploads/products/92368_2.jpg",
+    "/uploads/products/92368_3.jpg",
+    "/uploads/products/92368_4.jpg",
+    "/uploads/products/92368_5.jpg",
+    "/uploads/products/92368_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/92368",
+  "generated_at": "2026-03-14T20:24:15.405Z"
+}

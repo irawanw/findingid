@@ -1,0 +1,81 @@
+{
+  "title": "Celana Kulot Jumbo Cuma 50 Ribuan? Bestie!",
+  "hook_text": "Emang Boleh Beli Cuma 50 Ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Kamera zoom in ke celana kulot dengan efek kilau, ekspresi kaget",
+      "narration": "Coba deh, emang boleh beli fashion quality mahal cuma modal lima puluh ribuan? --- Nih bestie, celana kulot highwaist wanita bigsize dari bahan scuba premium. Gak nyangka kualitasnya literally next level banget."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memutar badan pake celana, tunjukin detail bahan scuba",
+      "narration": "Nih bestie, celana kulot highwaist wanita bigsize dari bahan scuba premium. Gak nyangka kualitasnya literally next level banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar dengan efek 'wow', tangan menunjuk layar",
+      "narration": "Harganya cuma lima puluh ribuan-an aja, which is super worth it kalau dibandingin sama kualitasnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up detail bahan, tunjukin highwaist dan kaki keliatan panjang",
+      "narration": "Fiturnya lengkap banget, mulai dari desain highwaist yang bikin kaki keliatan tinggi, sampai bahannya yang adem dan nggak ngelotot di paha, which is super comfy."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model duduk santai, lalu berdiri jalan, tunjukin kenyamanan",
+      "narration": "Perfect buat kamu yang suka outfit nyaman buat aktivitas seharian, atau mau tampil stylish tanpa ribet di kantor."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4.8 dan terjual 30k, screenshot chat pembeli",
+      "narration": "Sudah terjual tiga puluh ribu lebih, kata pembelinya pas banget buat bb 68 bikin keliatan jenjang banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul, panah menunjuk ke layar",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, ada review lengkapnya di sana, yuks!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, ada review lengkapnya di sana, yuks!",
+  "hashtags": [
+    "#celanajumbo",
+    "#kulotpremium",
+    "#fashionindonesia",
+    "#produkviral",
+    "#scubapremium",
+    "#ootdwanita",
+    "#findingid",
+    "#rekomendasi"
+  ],
+  "product_id": 126737,
+  "product_title": "CELANA KULOT HIGHWAIST WANITA BIGSAIZ JUMBO 90-110KG  SCUBA PREMIUM,SUPER JUMBO",
+  "product_price": "55350.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/126737.jpg",
+    "/uploads/products/126737_1.jpg",
+    "/uploads/products/126737_2.jpg",
+    "/uploads/products/126737_3.jpg",
+    "/uploads/products/126737_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/126737",
+  "generated_at": "2026-03-13T22:34:04.809Z"
+}

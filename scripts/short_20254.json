@@ -1,0 +1,83 @@
+{
+  "title": "Rambut Tebel Jadi Kering Cepat! 💇‍♀️✨",
+  "hook_text": "Stop ngelus rambut sampe pusing!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan close up rambut basah yang dibiarkan lama-lama, lalu transisi cepat ke rambut kering berkilau dengan musik upbeat.",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?' Ada yang bilang 'Ketiak jadi kering!' --- Tenang bestie, oles tipis saja ya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Senus Hair Dryer diputar-putar menampilkan desainnya yang modern dan tombol on/off yang jelas.",
+      "narration": "Ini Senus Hair Dryer, pengering rambut anion salon grade yang literally next level buat kamu! Nggak perlu lagi ke salon mahal, perawatan haircare profesional langsung di rumah deh."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga muncul dengan efek animasi seru, lalu membandingkan dengan harga salon biasa.",
+      "narration": "Gila sih harganya cuma seratus delapan puluhan ribu, which is worth it banget! Dibanding salon yang bisa jutaan, ini basically hemat kantong dan waktu, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: a) Rambut kering lebih cepat, b) Sinar ionik menghaluskan rambut, c) Dayanya yang kuat.",
+      "narration": "Pertama, dayanya 850 watt yang kenceng banget, rambut super tebal pun langsung kering cepet. Kedua, teknologi ioniknya bikin rambut halus nggak gampang kusut, which is smooth banget. Ketiga, desainnya compact dan ringan, jadi nggak pegel banget kalau dipakai lama."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario seseorang yang sibuk kerja atau olahraga, lalu cepat-cepat mengeringkan rambutnya sebelum jalan.",
+      "narration": "Perfect buat yang aktivitasnya padat dan nggak ada waktu ngeringin rambut lama-lama. Kalau kamu sering buru-buru tapi ingin rambut sehat dan berkilau, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.89 dan angka 30.000+ terjual dengan tulisan tebal.",
+      "narration": "Pembelinya pada ngomong, 'Ga nyesal sama sekali beli ini, rambut ga jadi sapu habis!' Rating tinggi banget ya, bestie!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi klik, latar belakang warna-warni cerah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id sekarang!",
+  "hashtags": [
+    "#SenusHairDryer",
+    "#RambutKeringCepat",
+    "#BeautyHacks",
+    "#Wartawarung",
+    "#KecantikanIndonesia",
+    "#GenZBeauty",
+    "#HairCare",
+    "#FindingDotId"
+  ],
+  "product_id": 20254,
+  "product_title": "Senus Hair Dryer Pengering Rambut Anion Salon Haircare hot wind Ionik 850W",
+  "product_price": "241529.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/20254.jpg",
+    "/uploads/products/20254_1.jpg",
+    "/uploads/products/20254_2.jpg",
+    "/uploads/products/20254_3.jpg",
+    "/uploads/products/20254_4.jpg",
+    "/uploads/products/20254_5.jpg",
+    "/uploads/products/20254_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/20254",
+  "generated_at": "2026-03-14T13:54:51.126Z"
+}

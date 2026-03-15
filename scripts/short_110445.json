@@ -1,0 +1,96 @@
+{
+  "title": "Sarung Batik Murah Adem Banget! Worth It",
+  "hook_text": "Masih bingung cari sarung yang elegan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah host yang penasaran, background blur produk batik",
+      "narration": "Masih bingung cari sarung yang elegan tapi dompet tetap aman? --- Scroll dulu, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampil produk sarung digoyangkan pelan, close up tekstur kain",
+      "narration": "Kenalin nih, Sarung Wadimor Jawa Batik, solusinya bestie! --- Bahan katun rayon yang super halus dan adem di kulit."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh",
+      "narration": "Bayangin, kualitas premium di harga enam puluhan ribuan doang. --- Literally worth it banget buat kamu yang cari murah tapi mewah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase berbagai motif batik, zoom in ke detail corak",
+      "narration": "Motif batiknya tradisional tapi ada sentuhan kontemporer yang kece. --- Adem di kulit, which is perfect banget buat cuaca panas. --- Ada juga kode WD-JB-054 yang lagi hits di pasaran."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Host memakai sarung saat acara santai, lalu gesture tangan tanda waspada",
+      "narration": "Cocok buat acara formal atau santai. --- Kalau buat seragam, hati-hati ya, kadang motifnya beda dikit, so better order satu dulu buat sample."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.8 dan counter penjualan naik",
+      "narration": "Rating 4.8, udah terjual 50 ribu unit! --- Yang udah beli bilang 'Penjualnya amanah dan paket sampai dengan selamat' --- Beneran recommended!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host menunjuk ke arah bawah atau tombol profil, teks finding dot id",
+      "narration": "Mau tahu detail lengkapnya? --- Cek di finding dot id ya, review produk-nya ada di sana! --- Gak bakal nyesel!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SarungBatik",
+    "#Wadimor",
+    "#BatikModern",
+    "#ObralBatik",
+    "#FashionMuslim",
+    "#MurahBanget",
+    "#RekomendasiProduk",
+    "#ViralProduct"
+  ],
+  "product_id": 110445,
+  "product_title": "Sarung Wadimor Jawa Batik | Sarung Batik Gus Iqdam | Sarung Batik Wadimor | Wadimor Primer Batik | Sarung Wadimor Batik Hitam",
+  "product_price": "67207.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/110445.jpg",
+    "/uploads/products/110445_1.jpg",
+    "/uploads/products/110445_2.jpg",
+    "/uploads/products/110445_3.jpg",
+    "/uploads/products/110445_4.jpg",
+    "/uploads/products/110445_5.jpg",
+    "/uploads/products/110445_6.jpg",
+    "/uploads/products/110445_7.jpg",
+    "/uploads/products/110445_8.jpg",
+    "/uploads/products/110445_9.jpg",
+    "/uploads/products/110445_10.jpg",
+    "/uploads/products/110445_11.jpg",
+    "/uploads/products/110445_12.jpg",
+    "/uploads/products/110445_13.jpg",
+    "/uploads/products/110445_14.jpg",
+    "/uploads/products/110445_15.jpg",
+    "/uploads/products/110445_16.jpg",
+    "/uploads/products/110445_17.jpg",
+    "/uploads/products/110445_18.jpg",
+    "/uploads/products/110445_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/110445",
+  "generated_at": "2026-03-13T21:45:12.890Z"
+}

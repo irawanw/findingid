@@ -1,0 +1,81 @@
+{
+  "title": "Setrika Uap Murah Banget? Cek Ini!",
+  "hook_text": "Setrika Uap 800W, Murah Banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up cepat setrika uap sedang bekerja menghilangkan kerutan di baju dengan efek suara 'whoosh' yang keren.",
+      "narration": "Stop scroll dulu bestie! Kamu masih pakai setrika biasa yang bikin tangan pegel dan lama banget kan? Nggak perlu ribet lagi, yuk lihat alternatifnya nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Simplus Setrika Uap Low Watt berwarna merah muda dan putih diputar-putar menunjukkan desainnya yang ringan dan mudah dilipat.",
+      "narration": "Kenalin nih Simplus Setrika Uap Low Watt delapan ratus watt. Desainnya minimalis, portable, dan yang paling penting bisa dilipat jadi kecil banget. Which is perfect buat kamu yang suka travel atau tinggal di kosan sempit!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan harga terendah Rp 184.000 dengan efek animasi 'BAM' berwarna emas, lalu transisi cepat ke tampilan produk di tangan.",
+      "narration": "Tapi mainnya di harga! Literally nggak percaya kalau setrika uap sekeren ini bisa cuma delapan puluhan ribuan. Jadi kamu nggak perlu kelar kelar nyisihkan uang, cukup delapan puluhan ribuan aja untuk dapet kualitas high end!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menunjukkan uap keluar deras (kecepatan), kanan menunjukkan setrika dilipat (portabilitas), lalu close up handle yang ergonomis.",
+      "narration": "Gak cuma murah, fitur barunya next level banget! Pertama, uapnya keluar super deras bikin kerutan ilang instan, nggak perlu dipencet-pencet. Kedua, bobotnya super ringan dan handle-nya nyaman di tangan. Ketiga, bisa dilipat jadi compact banget, basically no cap, jadi gampang banget disimpan di mana saja!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat: seseorang membawa setrika ini dalam tas travel, lalu menyetrika baju di kamar hotel, dan terakhir merapikan baju kerja di rumah.",
+      "narration": "Perfect buat yang sering perjalanan dinas, tinggal di apartemen, atau kalau kamu tipe orang yang nggak mau pake baju berkerut. Jadi nggak peduli di mana kamu, baju selalu rapih dan fresh setiap hari!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang lima besar dengan angka '20.000+' terjual, lalu muncul teks kutipan ulasan.",
+      "narration": "Banyak pembelinya pada ngomong 'Sangat sepadan, worth to buy' dan 'Instan bikin rapih'. Jadi no cap, barang ini emang worth it banget diborong!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol 'finding dot id' membesar dengan animasi klik, background warna cerah dan ceria.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stoknya cepet banget habis lho!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#SetrikaUapMurah",
+    "#Simplus",
+    "#BelanjaOnline",
+    "#GenZShopping",
+    "#TipsKecantikan",
+    "#WanitaModern",
+    "#SetrikaPortable",
+    "#FindingDotID"
+  ],
+  "product_id": 19861,
+  "product_title": "Simplus Setrika Uap low watt 800w Lipat Ringan Steamer Foldable Handheld Portable",
+  "product_price": "189000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/19861.jpg",
+    "/uploads/products/19861_1.jpg",
+    "/uploads/products/19861_2.jpg",
+    "/uploads/products/19861_3.jpg",
+    "/uploads/products/19861_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/19861",
+  "generated_at": "2026-03-14T12:48:41.609Z"
+}

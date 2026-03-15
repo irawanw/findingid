@@ -1,0 +1,96 @@
+{
+  "title": "Karpet Masjid Tebal 11mm, Empuk Banget!",
+  "hook_text": "Sujud jadi lebih nyaman?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up slow motion seseorang sujud di karpet lalu mengangkat wajah dengan ekspresi senang sambil menepuk-nepuk karpet.",
+      "narration": "Stop scroll dulu! Pernah nggak sih pas sujud, rasanya kayak berdiri di atas batu kerikil? Nggak enak banget dong."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk karpet Alhadi MIRGRA DYNABEL sedang digulung lalu dibuka lebar menunjukkan tekstur bulu yang lembut.",
+      "narration": "Tenang bestie, aku nemu penyelamatnya! Ini Alhadi Karpet Masjid MIRGRA DYNABEL, karpet lokal yang literally next level buat kenyamanan sujud kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek suara 'dum', lalu transisi cepat ke tumpukan uang mainan.",
+      "narration": "Gila sih harganya cuma seratus empat puluh empat ribuan! Which is worth it banget buat kualitas sekelas ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot split screen: pertama tangan menekan karpet untuk menunjukkan ketebalan, kedua air disiramkan lalu disapu (simulasi), ketiga close up tekstur serat.",
+      "narration": "Pertama, tebalnya sampai sebelas milimeter, empuk banget di kaki. Kedua, bahannya Polypropylene BCF yang halus dan nggak bakal berjamur. Ketiga, mudah dibersihin dan nggak nempel bau, basicnya super clean."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: pengurus masjid sedang memasang karpet, lalu seorang anak kecil bersujud di musholla rumah.",
+      "narration": "Perfect buat yang sering ngurus masjid atau musholla. Kalau aktivitas kamu butuh tempat sujud yang luas dan nyaman buat banyak jamaah, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.92 dan angka 50.000 terjual dengan animasi bintang berkedip.",
+      "narration": "Rating empat koma sembilan dua dan sudah terjual lima puluh ribu produk. Pembelinya pada ngomong packingnya rapih dan pengiriman super cepat."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah menunjuk ke bawah, musik naik tempo.",
+      "narration": "Penasaran sama varian warnanya? Cek di finding dot id ya bestie, detail lengkapnya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#KarpetMasjid",
+    "#ShopeeFinds",
+    "#MuslimFriendly",
+    "#ProdukLokal",
+    "#SujudNyaman",
+    "#FindingID",
+    "#HomeDecorIndonesia",
+    "#BestSeller"
+  ],
+  "product_id": 50561,
+  "product_title": "Alhadi Karpet Masjid MIRGRA DYNABEL METERAN Ukuran 100 x 120cm Tebal 11mm Alas Sajadah Mushola Empuk",
+  "product_price": "144000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/50561.jpg",
+    "/uploads/products/50561_1.jpg",
+    "/uploads/products/50561_2.jpg",
+    "/uploads/products/50561_3.jpg",
+    "/uploads/products/50561_4.jpg",
+    "/uploads/products/50561_5.jpg",
+    "/uploads/products/50561_6.jpg",
+    "/uploads/products/50561_7.jpg",
+    "/uploads/products/50561_8.jpg",
+    "/uploads/products/50561_9.jpg",
+    "/uploads/products/50561_10.jpg",
+    "/uploads/products/50561_11.jpg",
+    "/uploads/products/50561_12.jpg",
+    "/uploads/products/50561_13.jpg",
+    "/uploads/products/50561_14.jpg",
+    "/uploads/products/50561_15.jpg",
+    "/uploads/products/50561_16.jpg",
+    "/uploads/products/50561_17.jpg",
+    "/uploads/products/50561_18.jpg",
+    "/uploads/products/50561_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/50561",
+  "generated_at": "2026-03-14T03:58:22.829Z"
+}

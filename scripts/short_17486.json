@@ -1,0 +1,77 @@
+{
+  "title": "Boot Hujan Anti Air, Harga Hemat!",
+  "hook_text": "Hujan deras? Kaki aman!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat kaki melangkah masuk genangan air dalam tanpa basah, transisi ke produk close-up.",
+      "narration": "Hujan deras? Jangan panik, kakimu bakal aman banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: sepatu dipakai di tanah basah, lumpur, dan proyek konstruksi dengan efek water droplet.",
+      "narration": "Kenalin AP Boots Terra GP, sepatu boot PVC anti air yang literally next level buat kamu yang sering kecewe gara-gara sepatu rembes."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga besar di layar dengan efek uang jatuh, lalu zoom in ke label harga.",
+      "narration": "Gak percaya? Harganya cuma di enam puluhan ribu, which is worth it banget dibandingin sepatu lain yang bisa tembus seratus ribuan!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: bagian atas tunjukkan bahan PVC tebal, bagian bawah tunjukkan desain slip-on tanpa tali, lalu tunjukkan bagian betis yang tertutup.",
+      "narration": "First, bahannya PVC super kuat, tahan air, lumpur, dan bahkan bahan kimia. Second, desainnya slip-on tanpa tali, jadi praktis banget nggak perlu ribet. Third, tingginya melindungi betis dari percikan, which basically bikin kamu stay dry dari ujung kaki sampai betis."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene pekerja konstruksi, petani di sawah, dan orang tracking gunung memakai sepatu ini dalam berbagai kondisi cuaca.",
+      "narration": "Perfect buat yang aktivitasnya sering di proyek, perkebunan, atau bahkan buat kamu yang suka tracking gunung. Kalau aktivitas kamu sering kena tanah basah, ini wajib punya bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.88 dan angka 40.000 terjual, dengan teks overlay kutipan pembeli.",
+      "narration": "Pembelinya pada ngomong, 'Beli buat tracking gunung, lebih nyaman, ga rembes'. No cap,_ratingnya empat koma delapan delapan dan udah laku empat puluh ribu produk!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi ceklis hijau dan tombol 'Shop Now' yang berkedip.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id!",
+  "hashtags": [
+    "#SepatuHujan",
+    "#APBoots",
+    "#Pricewow",
+    "#TrackerMountain",
+    "#WorkwearIndo",
+    "#BudgetFriendly",
+    "#AntiRembes",
+    "#FindingDotID"
+  ],
+  "product_id": 17486,
+  "product_title": "AP Boots TERRA GP Hitam - Sepatu Boot PVC",
+  "product_price": "72900.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/17486.jpg"
+  ],
+  "product_link": "https://finding.id/p/17486",
+  "generated_at": "2026-03-14T04:09:49.753Z"
+}

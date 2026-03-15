@@ -1,0 +1,81 @@
+{
+  "title": "Noroid 200ml Solusi Kulit Kering & Bayi?",
+  "hook_text": "Kulit Kering & Bruntusan? Ini Solusinya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up kulit kering yang iritasi, lalu transisi cepat ke Noroid Soothing Lotion",
+      "narration": "Kulit Kering & Bruntusan? Ini Solusinya Bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Noroid diputar perlahan, shot tangan mengaplikasikan krim",
+      "narration": "Kenalin, Noroid Soothing Lotion 200ml. --- Fix skin barrier kamu!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek 'wow', lalu shot produk",
+      "narration": "Buat isi 200ml, harganya cuma dua ratus empat puluh ribuan. --- Worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Animasi molekul lipid, tekstur krim di jari, dan shot wajah + bayi",
+      "narration": "Pakai teknologi paten MLE plus Squalane buat perbaikan kulit. --- Teksturnya ringan, cepat meresap, jadi nggak lengket sama sekali. --- Aman buat wajah, badan, bahkan bayi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot ibu memijat bayi, lalu shot orang dewasa dengan kulit berminyak",
+      "narration": "Perfect buat kulit kering, sensitif, atau biang keringat. --- Kalau kamu sering ragu soal keamanan produk, ini pilihan tepat."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4,96 dan angka 50.000 terjual muncul di layar",
+      "narration": "Rating 4,96, udah laku 50 ribu tube! --- Yang udah beli bilang, 'kulit baby ku tuh kering suka bruntutan kecil, pakek Noroid rutin dari umur dua bulan cocok banget'. --- Oles tipis aja ya kalau takut lengket."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar hitam dengan tulisan 'finding dot id' dan panah ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Noroid",
+    "#SkincareBayi",
+    "#KulitKering",
+    "#Pelembab",
+    "#FindingID",
+    "#RekomendasiSkincare",
+    "#BodyLotion",
+    "#TipsKulit"
+  ],
+  "product_id": 100223,
+  "product_title": "Noroid Soothing Lotion Pelembab Kulit Kering Moisturizer Harian Untuk Semua Tipe Kulit (Normal, Kering, Berminyak, Sensitif) 200ml",
+  "product_price": "242498.00",
+  "product_rating": "4.96",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100223.jpg",
+    "/uploads/products/100223_1.jpg",
+    "/uploads/products/100223_2.jpg",
+    "/uploads/products/100223_3.jpg",
+    "/uploads/products/100223_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/100223",
+  "generated_at": "2026-03-13T16:54:12.211Z"
+}

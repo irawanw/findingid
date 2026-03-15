@@ -1,0 +1,96 @@
+{
+  "title": "Blazer Slimfit ARB Murah Meriah! (120rb-an)",
+  "hook_text": "Pengen Mahal Tapi Dompet Tipis?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah host dengan ekspresi kaget memegang dompet tipis",
+      "narration": "Pengen kelihatan mahal tapi dompet tipis? Gak usah mikir panjang, bestie."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk blazer di atas manekin atau model sedang memakai",
+      "narration": "Ini Jas Blazer ARB slimfit yang lagi viral banget. Penampilan kamu literally bakal naik level gila."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kilau",
+      "narration": "Harganya? Ngga nyangka, literally cuma seratus empat puluhan ribu aja. Worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail close-up bahan Valencia dan puring Asahi di dalam",
+      "narration": "Bahan Valencia premium tebal dan adem. Full puring Asahi di dalem biar nggak gerah. --- Model slimfit bikin kamu kelihatan langsing, which is worth it banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase video wisuda, kondangan, dan wawancara kerja",
+      "narration": "Perfect buat kondangan, wisuda, atau wawancara kerja. Kalau badan kamu besar, ada ukuran jumbo custom."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating bintang 5 dan jumlah terjual 50 ribuan",
+      "narration": "Sudah terjual lima puluh ribu lebih. Rating 4.82. Yang udah beli bilang 'pas banget XL'. --- Ada yang mau retur ukuran? Tenang, adminnya komunikatif banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah mengarah ke arah tombol",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#BlazerPria",
+    "#OutfitKondangan",
+    "#Wisuda",
+    "#PakaianFormal",
+    "#ViralIndonesia",
+    "#FashionMurah",
+    "#Slimfit",
+    "#FindingID"
+  ],
+  "product_id": 64567,
+  "product_title": "TERLARIS ! JAS BLAZER PRIA FORMAL TERBARU ORIGINAL ARB MODEL SLIMFIT",
+  "product_price": "110000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64567.jpg",
+    "/uploads/products/64567_1.jpg",
+    "/uploads/products/64567_2.jpg",
+    "/uploads/products/64567_3.jpg",
+    "/uploads/products/64567_4.jpg",
+    "/uploads/products/64567_5.jpg",
+    "/uploads/products/64567_6.jpg",
+    "/uploads/products/64567_7.jpg",
+    "/uploads/products/64567_8.jpg",
+    "/uploads/products/64567_9.jpg",
+    "/uploads/products/64567_10.jpg",
+    "/uploads/products/64567_11.jpg",
+    "/uploads/products/64567_12.jpg",
+    "/uploads/products/64567_13.jpg",
+    "/uploads/products/64567_14.jpg",
+    "/uploads/products/64567_15.jpg",
+    "/uploads/products/64567_16.jpg",
+    "/uploads/products/64567_17.jpg",
+    "/uploads/products/64567_18.jpg",
+    "/uploads/products/64567_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/64567",
+  "generated_at": "2026-03-13T19:27:01.898Z"
+}

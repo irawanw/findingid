@@ -1,0 +1,86 @@
+{
+  "title": "Deorex Spray: Anti Bau Badan 72 Jam!",
+  "hook_text": "Pernah Ngerasa Wangi Ilang Pas Sore?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot wajah yang sedang berkeringat dengan ekspresi khawatir",
+      "narration": "Pernah ngerasa keringetan tapi wanginya ilang pas sore? Ngeri banget kan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Bentuk Deorex Spray dipegang dengan latar belakang bersih dan terang",
+      "narration": "Kamu wajib coba Deorex Spray. Ini solusi anti bau badan yang literally next level buat kamu. Basic banget sih."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek gliter",
+      "narration": "Harganya? Cuma enam puluhan ribuan saja. Worth it banget buat perlindungan maksimal tanpa bikin dompet jebol."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: semprot spray, sapu tangan kering, dan senyum percaya diri",
+      "narration": "Dapet perlindungan 72 jam, wangi Maladour yang segar nggak nyengat --- Cepat kering, nggak meninggalkan noda di baju, dan aman banget buat kulit sensitif. No cap, literally worth it."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang kerja di kantor dan ibu yang sedang menggendong bayi",
+      "narration": "Perfect buat kamu yang kerja kantoran atau ibu baru melahirkan. Aktivitas padat, bau badan nggak bikin malu. You deserve to smell good all day."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan angka 70.000 terjual",
+      "narration": "Rating 4,93 dari 70.000 pembeli. Yang udah beli bilang, 'Awet sepanjang hari'. Nggak bohong!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah menunjuk ke arah link",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana! Jangan sampai kehabisan ya!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#Deorex",
+    "#AntiBauBadan",
+    "#Skincare",
+    "#GenZ",
+    "#Viral",
+    "#BeautyHacks",
+    "#SelfCare",
+    "#FindingID"
+  ],
+  "product_id": 97663,
+  "product_title": "Deorex New Body Odorizer Spray Menghilangkan Bau Badan 60ml  | BPOM / deodorant DryMax Orginal/Gentle/Extra/Clinical AntiPerspirant Deodorant Roll on 30ml",
+  "product_price": "62500.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/97663.jpg",
+    "/uploads/products/97663_1.jpg",
+    "/uploads/products/97663_2.jpg",
+    "/uploads/products/97663_3.jpg",
+    "/uploads/products/97663_4.jpg",
+    "/uploads/products/97663_5.jpg",
+    "/uploads/products/97663_6.jpg",
+    "/uploads/products/97663_7.jpg",
+    "/uploads/products/97663_8.jpg",
+    "/uploads/products/97663_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/97663",
+  "generated_at": "2026-03-13T22:01:16.102Z"
+}

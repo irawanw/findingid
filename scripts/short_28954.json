@@ -1,0 +1,91 @@
+{
+  "title": "Jarik Batik Megafashion: Murah & Elegan",
+  "hook_text": "Kain Jarik Bikin Dompet Nangis?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kreator yang terlihat bingung memegang dompet kosong, lalu transisi cepat ke produk kain jarik.",
+      "narration": "Bestie, masih cari kain jarik elegan tapi nggak bikin dompet nangis?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Slow motion kain jarik digoyangkan menampilkan motif batiknya, lighting cinematic hangat.",
+      "narration": "Ini dia solusinya, Kain Jarik Batik Megafashion. Asli Jawa, kualitas premium yang bikin kamu makin anggun dan estetik banget di mata orang."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks overlay harga besar muncul di layar, kreator menunjuk ke harga dengan ekspresi kaget senang.",
+      "narration": "Ternyata harganya cuma lima puluh lima ribu rupiah doang. Literally murah banget buat dapet kain setebal dan sehalus ini di pasaran sekarang."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Montase cepat: detail motif, sentuhan jari pada kain, dan demonstrasi panjang kain.",
+      "narration": "Fitur utamanya ada tiga nih. Pertama, motif batiknya detail banget dan nggak pasaran. --- Kedua, kainnya lembut banget di kulit. Ketiga, panjangnya pas banget buat jarik ibu. Yang pasti, nggak perlu bingung lagi cari bahan berkualitas tinggi. Ini bakal ngebuat kamu nyaman seharian penuh."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Kreator memegang kain sambil menjelaskan poin-poin dengan jari, ekspresi meyakinkan.",
+      "narration": "Kenapa harus punya? Pertama, bahannya sesuai harga. --- Kedua, desain motifnya bagus banget. Ketiga, warnanya cantik dan nggak gampang luntur. Keempat, bahan halus dan tebal. Buat yang khawatir tipis atau panas, tenang. Ini ringan banget buat iklim tropis. --- No cap, worth it banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Skenario wanita memakai jarik saat acara keluarga dan ibu hamil tersenyum.",
+      "narration": "Sangat cocok buat ibu hamil atau ibu pasca melahirkan. Perfect juga kalau kamu sering ikut acara adat atau acara keluarga besar. Jadi kamu bisa tampil cantik tanpa ragu sedikitpun."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Screenshot rating bintang dan jumlah penjualan di aplikasi, lalu teks kutipan review.",
+      "narration": "Ratingnya tinggi, empat koma delapan lima bintang dari tiga puluh ribu produk terjual. Reviewnya bilang, 'kain jariknya lumayan halus dan tebal sesuai harga'. --- Yang lainnya juga suka banget sama motifnya."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Tampilan grid berbagai warna jarik yang tersedia.",
+      "narration": "Varian warnanya banyak, mulai dari klasik sampai modern. Pilih sesuai selera kamu, bestie, yang mana favoritmu hari ini?"
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tombol keranjang kuning animasi, kreator menunjuk ke arah bawah layar.",
+      "narration": "Jangan lupa klik link di deskripsi buat amankan stokmu sekarang sebelum kehabisan ya!"
+    }
+  ],
+  "cta": "Klik keranjang kuning sekarang!",
+  "hashtags": [
+    "#JarikBatik",
+    "#KainBatikJawa",
+    "#IbuMelahirkan",
+    "#FashionTradisional",
+    "#Megafashion",
+    "#RekomendasiBatik",
+    "#ViralTiktok",
+    "#BelanjaHemat"
+  ],
+  "product_id": 28954,
+  "product_title": "Kain jarik kain batik kain samping jarik jawa asli kain batik panjang samping panjang tebal lembut jarik ibu melahirkan samping kebat panjang kain batu jarik batik kain kebat by megafashion",
+  "product_price": "55000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/28954.jpg"
+  ],
+  "product_link": "https://finding.id/p/28954",
+  "generated_at": "2026-03-13T04:52:28.162Z"
+}

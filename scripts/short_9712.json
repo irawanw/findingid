@@ -1,0 +1,86 @@
+{
+  "title": "Celana Cargo Pria Mocca Paling Bestie! Worth It Banget",
+  "hook_text": "STOP! Celana ini bikin kamu terlihat next level",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah terkejut atau transisi cepat dari celana biasa ke celana cargo Carnos Mocca yang stylish.",
+      "narration": "Stop scrolling! Kamu lagi cari celana cargo yang nggak cuma keren tapi juga nyaman banget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase outfit lengkap dengan celana Carnos Mocca di berbagai warna (Hijau Army, Abu Tua, Hitam) sambil model berpose santai.",
+      "narration": "Nih, kenalan sama Carnos Rivers Cargo Pants. Celana panjang reguler ini literally so cute buat nemenin kamu ke mana aja, dari nongkrong sampe jalan-jalan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek confetti, disandingkan dengan shot detail bahan kain.",
+      "narration": "Dan yang paling gila, harganya cuma seratus tiga puluhan ribu sampe seratus enam puluhan ribu. Which is worth it banget buat kualitas yang kamu dapet!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Zoom in ke tekstur kain, lalu tunjukkan kantong sisi yang luas dan model sedang melangkah dengan ringan.",
+      "narration": "Bahan katun twill-nya halus di kulit tapi kokoh, nggak gampang luntur. Desainnya regular fit yang bikin kaki terlihat lebih panjang, plus kantong sampingnya luas banget buat nyimpen gadget atau kunci motor, basically next level utility!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: kiri model pakai ukuran pas, kanan model sedang beraktivitas harian (nongkrong, jalan kaki, ngopi).",
+      "narration": "Perfect buat kamu yang aktivitasnya suka gerak-gerik atau yang pengen tampil maskulin tapi tetap santai. Kalau kamu tinggi 168 cm dan bobotnya sekitar 55 kg, ambil ukuran S aja, pasti pas banget!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.85 dan angka 20.000 terjual, dengan teks kutipan pembeli muncul di bawah.",
+      "narration": "Nggak percaya? Lihat sendiri! Rating 4.85, udah 20 ribu terjual. Yang udah beli bilang: 'Bagus, sesuai ekspektasi banget, bahan nya juga enakk'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Arrow menunjuk ke arah bawah dengan teks besar 'Cek finding dot id'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stoknya bakal cepat habis!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#CarnosPants",
+    "#CargoPantsPria",
+    "#OutfitPria",
+    "#FashionIndonesia",
+    "#StyleGenZ",
+    "#WardrobeEssentials",
+    "#MaleFashion",
+    "#FindingDotID"
+  ],
+  "product_id": 9712,
+  "product_title": "Carnos | Celana Cargo Panjang Reguler Pria Mocca",
+  "product_price": "139000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/9712.jpg",
+    "/uploads/products/9712_1.jpg",
+    "/uploads/products/9712_2.jpg",
+    "/uploads/products/9712_3.jpg",
+    "/uploads/products/9712_4.jpg",
+    "/uploads/products/9712_5.jpg",
+    "/uploads/products/9712_6.jpg",
+    "/uploads/products/9712_7.jpg",
+    "/uploads/products/9712_8.jpg",
+    "/uploads/products/9712_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/9712",
+  "generated_at": "2026-03-15T00:46:37.716Z"
+}

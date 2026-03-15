@@ -1,0 +1,83 @@
+{
+  "title": "Sepatu Sneaker Murah Gak Murahan! Cek MR157 Ini",
+  "hook_text": "Stop scrolling! Sepatu murah gak murahan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up sepatu MR157 di lantai kayu dengan teks 'STOP SCROLLING!' muncul cepat",
+      "narration": "Stop scrolling! Kamu cari sepatu sneaker yang murah tapi nggak murahan, kan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat model sepatu di kaki cowo sambil jalan santai di jalanan kota",
+      "narration": "Kenalan dulu sama Leedoo MR157, sneakers casual running yang literally next level. Bahan kainnya adem, ringan, dan desainnya bikin outfit kamu langsung fresh."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar 'SERATUS TIGA RIBU AN' muncul dengan efek confetti warna-warni",
+      "narration": "Wah, harga cuma seratus tiga puluh ribuan hingga seratus sembilan ribuan. Which is worth it banget untuk kualitasnya yang original dan kekinian banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Detail bahan kain, 2. Sudut sepatu yang kokoh, 3. Kaos kaki bonus yang dibuang",
+      "narration": "First, bahannya kain yang super nyaman buat lari atau jalan seharian. Second, desainnya wide dan nggak kaku, perfect buat kaki lebar. Third, ada bonus kaos kaki gratis, basically kamu dapat dua barang!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video POV seseorang memakai sepatu ini saat nongkrong di kafe atau olahraga ringan",
+      "narration": "Perfect buat yang aktif banget gerak, suka nongkrong, atau cari sepatu harian yang wajib punya. Kalau kamu sering cari kenyamanan tapi tetap gaya, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.83 dan angka 20.000+ terjual dengan background hijau segar",
+      "narration": "Rating 4.83 dari dua puluh ribu plus terjual, dan yang udah beli bilang tampilan sepatu ini bagus banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar 'CEK DI FINDING DOT ID' dengan panah menunjuk ke bawah",
+      "narration": "Penasaran sama stok dan detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek stok dan review di finding dot id ya!",
+  "hashtags": [
+    "#sneakerindonesia",
+    "#sepatukinian",
+    "#leedoo",
+    "#fashioncowo",
+    "#shoehunter",
+    "#murahbanget",
+    "#stylejaksel",
+    "#findingid"
+  ],
+  "product_id": 21581,
+  "product_title": "Leedoo Sepatu Pria Sneakers Casual Running Sepatu Cowo Bahan Kain Shoe Jogging Lari Kekinian MR157",
+  "product_price": "103550.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21581.jpg",
+    "/uploads/products/21581_1.jpg",
+    "/uploads/products/21581_2.jpg",
+    "/uploads/products/21581_3.jpg",
+    "/uploads/products/21581_4.jpg",
+    "/uploads/products/21581_5.jpg",
+    "/uploads/products/21581_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/21581",
+  "generated_at": "2026-03-15T05:39:32.449Z"
+}

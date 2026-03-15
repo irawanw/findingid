@@ -1,0 +1,83 @@
+{
+  "title": "Cushian High Cover Under 100 Ribuan?!",
+  "hook_text": "Stop scroll! Cushion mahal?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah model dengan makeup flawless lalu zoom out ke produk Glad2Glow Cushion di tangan.",
+      "narration": "Stop scrolling bestie! Kamu masih mikir harus beli cushion jutaan buat dapet coverage tinggi dan yang nggak bikin wajah tebal?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk berputar menampilkan puff unik, lalu transisi cepat ke aplikasi di wajah dengan hasil natural.",
+      "narration": "Kenalan deh sama Glad2Glow Perfect Cover Cushion! Ini dia base makeup yang nggak cuma nembus pori-pori tapi juga super ringan di kulit."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek 'pop' dan stiker centang hijau di sebelahnya.",
+      "narration": "Gila sih, harga cuma seratus tujuh puluhan ribu rupiah! No cap, kualitasnya worth it banget sama cushion high end lainnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Puff unik menjangkau sudut mata, 2. Kulit bercahaya (glowing), 3. Teks 'Mix Berry Extract' muncul.",
+      "narration": "Pertama, puffnya unik banget sehingga menjangkau setiap sudut area wajah lebih mudah dan merata. Kedua, hasil akhir skin care-nya semi matte dan nggak bikin kekusaman karena ada Mix Berry Extract dan Panthenol. Ketiga, coverage-nya tinggi banget tapi teksturnya tetap ringan, literally next level."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas: makeup artist di studio, pekerja kantoran meeting, dan orang pesta malam hari.",
+      "narration": "Perfect buat yang sering makeup seharian atau kamu yang suka base makeup natural tapi takut cepat luntur. Kalau aktivitas kamu padat, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.87 bintang, angka 20.000 terjual, dan bubble chat pembeli.",
+      "narration": "Rating empat koma delapan tujuh dari dua puluh ribu produk terjual. Pembelinya pada ngomong kalau worth it banget dengan harga under seratus ribuan sudah dapat cushion high coverage, ringan, dan ga oksidasi."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol CTA besar mengarah ke finding.id dengan animasi 'tap to buy'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#Glad2Glow",
+    "#CushionIndo",
+    "#MakeupHacks",
+    "#SkincareMakeup",
+    "#Under100Ribuan",
+    "#BaseMakeup",
+    "#GlowingSkin",
+    "#ViralBeauty"
+  ],
+  "product_id": 100946,
+  "product_title": "Glad2Glow Perfect Cover Cushion - Glad2glow Cushion Foundation, Cushion Tahan Lama, Base Makeup Natural",
+  "product_price": "97100.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100946.jpg",
+    "/uploads/products/100946_1.jpg",
+    "/uploads/products/100946_2.jpg",
+    "/uploads/products/100946_3.jpg",
+    "/uploads/products/100946_4.jpg",
+    "/uploads/products/100946_5.jpg",
+    "/uploads/products/100946_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100946",
+  "generated_at": "2026-03-14T10:19:15.817Z"
+}

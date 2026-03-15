@@ -1,0 +1,83 @@
+{
+  "title": "Hair Dryer Murah Tapi Gak Main Main! 😱",
+  "hook_text": "Stop scroll kalau rambutmu gampang rusak!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan memegang rambut yang terlihat kusam lalu transisi cepat ke rambut halus berkilau dengan ekspresi wajah shock",
+      "narration": "Guys, stop scroll dulu dong! Siapa di sini yang tiap ngerjain rambut malah jadi rusak dan kusam?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Han River Hair Dryer di atas meja bersih, zoom in ke fitur negative ions, text overlay muncul: 'Negative Ions Tech'",
+      "narration": "Tenang bestie, solusinya ada nih! Han River Hair Dryer dengan teknologi negative ions yang basically next level buat kesehatan rambut kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Graphic harga besar muncul di layar, lalu efek confetti meledak, teks: 'Di bawah seratus ribuan', shot produk berputar perlahan",
+      "narration": "Gila sih, harganya di bawah seratus ribuan rupiah! Untuk kualitas segini, worth to buy banget sih, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot cepat 1: Tuning airflow, Shot 2: Switch panas/dingin, Shot 3: Body hitam elegan, teks muncul satu per satu",
+      "narration": "Fiturnya lengkap bestie: bisa atur kekuatan angin sesuai kebutuhan, ada pilihan angin panas atau dingin biar aman, plus desainnya super aesthetic dan ringan banget di tangan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage: Gadis sedang styling rambut di kamar, lalu di depan cermin, lalu sebelum berangkat kerja",
+      "narration": "Perfect buat kamu yang sering styling rambut setiap hari atau yang cari alat praktis buat di kamar kost. Kalau aktivitas kamu butuh kecepatan, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.84 bintang besar dan angka 30.000 terjual, text bubble muncul: 'Worth to buy banget'",
+      "narration": "Dibuktikan sama lebih dari tiga puluh ribu orang yang udah beli bilang produknya worth to buy banget dan kualitasnya good quality!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah menunjuk ke bawah, teks: 'Cek finding dot id sekarang'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, info produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#HairDryerMurah",
+    "#RambutKilau",
+    "#HanRiver",
+    "#SkincareRoutine",
+    "#BeautyHacks",
+    "#GenZIndonesia",
+    "#ViralProduk",
+    "#CantikBerkilau"
+  ],
+  "product_id": 18729,
+  "product_title": "HAN RIVER Hair Dryer Negative ions hair dryer low watt 800W Pengering Rambut",
+  "product_price": "88999.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/18729.jpg",
+    "/uploads/products/18729_1.jpg",
+    "/uploads/products/18729_2.jpg",
+    "/uploads/products/18729_3.jpg",
+    "/uploads/products/18729_4.jpg",
+    "/uploads/products/18729_5.jpg",
+    "/uploads/products/18729_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/18729",
+  "generated_at": "2026-03-14T15:10:11.948Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Tas HP Mewah Cuma 98-an Ribu?! 😱✨",
+  "hook_text": "STOP! Gak ngespek kalau sebagus ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tas selempang Laviola 2914 LSH berkilau di tangan, lalu zoom out cepat ke wajah presenter yang terkejut",
+      "narration": "Stop scroll dulu bestie! Gak ngespek kalau tas selempang HP sekecil ini bisa kayak tas mewah di tangan celebrity, which is literally next level!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat: tas dipakai di bahu sambil pegang HP, lalu dibuka bagian dalamnya menunjukkan dompet dan kartu",
+      "narration": "Ini Laviola 2914 LSH dari JIMS Honey Mina! Desainnya elegan banget, bahan tebal dan tahan lama, plus kapasitasnya luas untuk HP dan dompet, basically all-in-one!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar: 98.000-an, diikuti animasi tanda panah naik turun menunjukkan harga history",
+      "narration": "Gila sih harga cuma 98.000-an, padahal harganya pernah naik sampai 99.000-an! Which is worth it banget untuk kualitas yang dapet, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjuk tekstur bahan, kanan tunjuk tali selempang yang empuk, bawah tunuk slot kartu yang rapi",
+      "narration": "Keunggulan nomor satu: bahannya super tebal nggak gampang sobek, tahan banting banget! Nomor dua: tali selempangnya empuk dan nggak bikin bahu pegal, perfect buat dipakai seharian! Nomor tiga: slot kartunya rapi dan nggak macet, gampang banget aksesnya!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: wanita sibuk jalanan kota, lalu transisi ke wanita sekolah/kampus sambil lari-lari santai",
+      "narration": "Perfect buat kamu yang sering keliling kota atau mahasiswa yang butuh tas ringkas tapi tetap stylish! Kalau aktivitas kamu aktif dan nggak mau bawa tas berat, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.91 dan angka 20.000 terjual, lalu popup bubble chat pembeli",
+      "narration": "Rating 4.91 bintang dari 20.000 yang udah beli bilang, 'Sumpah gak ngespek klo sebagus ini, gak rugi... sukaaaa bangeeett!'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Presenter menunjuk ke arah bawah layar dengan ekspresi ramah dan tas di bahu",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#JIMSHoneyMina",
+    "#TasHPMewah",
+    "#ViralShorts",
+    "#GenZStyle",
+    "#TasSelempang",
+    "#ShoppingHacks",
+    "#KekinianBanget",
+    "#FindingID"
+  ],
+  "product_id": 45135,
+  "product_title": "[LIVE EXCLUSIVE] JIMS HONEY MINA MINI BAG - TAS SELEMPANG KECIL PHONE BAG HP WALLET",
+  "product_price": "98990.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/45135.jpg",
+    "/uploads/products/45135_1.jpg",
+    "/uploads/products/45135_2.jpg",
+    "/uploads/products/45135_3.jpg",
+    "/uploads/products/45135_4.jpg",
+    "/uploads/products/45135_5.jpg",
+    "/uploads/products/45135_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/45135",
+  "generated_at": "2026-03-14T04:19:38.563Z"
+}

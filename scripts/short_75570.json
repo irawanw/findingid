@@ -1,0 +1,96 @@
+{
+  "title": "Handuk Anak Viral Ini Murah Banget!",
+  "hook_text": "Stop Scroll! Ada Handuk Viral?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan memegang handuk dengan efek cahaya dramatis.",
+      "narration": "Stop scroll dulu bestie! --- Ada handuk anak yang viral banget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Zoom in detail tekstur kain yang lembut dan mewah.",
+      "narration": "KOTOMORI Wonder nih, handuk mandi anak yang literally next level softness-nya."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di tengah layar dengan efek 'wow'.",
+      "narration": "Harga? Cuma seratus tiga puluhan ribu aja! --- Worth it banget dibandingin kualitasnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat berbagai motif hewan dan warna cerah.",
+      "narration": "Bahannya katun asli, jadi nyerap air banget. Pilihan motifnya banyak, dari TeddyBear sampe Dinosaurus. Bahan katunnya super lembut, nggak bikin gerah. Bisa dipake buat harian juga, which is super practical! Yang paling keren, bisa request nama si kecil, which is super personal!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video anak sedang bermain dengan handuk di kamar mandi.",
+      "narration": "Perfect buat kamu yang butuh kado ulang tahun bayi, atau buat anak yang kulitnya sensitif."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Grafik rating bintang 5 dan angka penjualan naik cepat.",
+      "narration": "Rating empat koma sembilan lima, sudah laku tiga puluh ribu produk! Wajar sih ratingnya tinggi banget. Yang udah beli bilang \"lembut banget, desainnya nggak pasaran\". Cuma buat yang mau bordir, butuh waktu lima hari kerja ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar hitam dengan logo finding.id dan tombol 'click'.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Kotomori",
+    "#HandukAnak",
+    "#KadoBayi",
+    "#GiftIdeas",
+    "#ViralProduct",
+    "#GenZIndonesia",
+    "#CottonHanduk",
+    "#FindingID"
+  ],
+  "product_id": 75570,
+  "product_title": "KOTOMORI Wonder - Gift Set of 1 Handuk Mandi Anak 60x120cm",
+  "product_price": "130569.00",
+  "product_rating": "4.95",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/75570.jpg",
+    "/uploads/products/75570_1.jpg",
+    "/uploads/products/75570_2.jpg",
+    "/uploads/products/75570_3.jpg",
+    "/uploads/products/75570_4.jpg",
+    "/uploads/products/75570_5.jpg",
+    "/uploads/products/75570_6.jpg",
+    "/uploads/products/75570_7.jpg",
+    "/uploads/products/75570_8.jpg",
+    "/uploads/products/75570_9.jpg",
+    "/uploads/products/75570_10.jpg",
+    "/uploads/products/75570_11.jpg",
+    "/uploads/products/75570_12.jpg",
+    "/uploads/products/75570_13.jpg",
+    "/uploads/products/75570_14.jpg",
+    "/uploads/products/75570_15.jpg",
+    "/uploads/products/75570_16.jpg",
+    "/uploads/products/75570_17.jpg",
+    "/uploads/products/75570_18.jpg",
+    "/uploads/products/75570_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/75570",
+  "generated_at": "2026-03-13T18:36:24.179Z"
+}

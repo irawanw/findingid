@@ -1,0 +1,83 @@
+{
+  "title": "Tas Sekolah Anak Cowok Cuma Seratus Ribuan?!?",
+  "hook_text": "Tas Sekolah Cuma 100 Ribuan? No Cap!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tas ransel dengan ekspresi kaget, text overlay besar muncul cepat.",
+      "narration": "Gila sih, tas sekolah anak cowok cuma seratus ribuan? No cap, ini beneran murah banget lo!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai angle, tunjukkan motif timbulnya secara detail.",
+      "narration": "Nih bestie, lihat deh motif timbulnya gede banget, literally so cute banget buat anak SD sekarang!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek pop, background blur produk.",
+      "narration": "Harganya cuma seratus empat puluh ribuan, which is worth it banget kalau dibandingin sama kualitasnya!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tas dibuka, tas dibenturkan pelan, strap diputar.",
+      "narration": "Pertama, space-nya luas banget muat semua buku pelajaran sekolah. --- Kedua, bahannya kuat tahan banting buat anak aktif. --- Ketiga, strap-nya nyaman di pundak, nggak bakal bikin sakit leher lo! --- Warnanya juga nggak gampang luntur!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Anak sekolah sedang memakai tas dengan senyum, shot slow motion jalan.",
+      "narration": "Perfect banget buat kamu yang anaknya aktif sekolah SD, nggak bakal ribet bawa tas berat tiap hari!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan jumlah terjual, lalu screenshot chat pembeli.",
+      "narration": "Rating empat koma sembilan, udah terjual dua puluh ribu tas! --- Yang udah beli bilang 'pokoknya puas banget dan anak saya suka'!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan tombol klik animasi.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya lengkap ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#TasSekolahAnak",
+    "#TasMurah",
+    "#RanselAnak",
+    "#BelanjaMurah",
+    "#SchoolBag",
+    "#AnakSekolah",
+    "#ViralProduct",
+    "#FindingID"
+  ],
+  "product_id": 90169,
+  "product_title": "SALE TERMURAH Tas Ransel Anak Laki - Laki Cowo Sekolah SD Motif Timbul Besar",
+  "product_price": "149000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/90169.jpg",
+    "/uploads/products/90169_1.jpg",
+    "/uploads/products/90169_2.jpg",
+    "/uploads/products/90169_3.jpg",
+    "/uploads/products/90169_4.jpg",
+    "/uploads/products/90169_5.jpg",
+    "/uploads/products/90169_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/90169",
+  "generated_at": "2026-03-13T23:03:02.260Z"
+}

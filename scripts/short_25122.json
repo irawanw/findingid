@@ -1,0 +1,84 @@
+{
+  "title": "Gendongan Bayi Depan Babysultan! Next Level Comfort",
+  "hook_text": "Gendongan bayi sat-set gila!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up bayi tertidur pulas di gendongan depan sambil orang tua tersenyum puas",
+      "narration": "Stop scroll bestie! Siapa bilang gendong bayi itu ribet dan capek beneran?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan Gendongan Bayi Depan M Shape 3in1 Fast Baby Wrap Premium dengan Sash Belt dari berbagai angle",
+      "narration": "Ini dia Gendongan Bayi Depan M Shape 3in1 Fast Baby Wrap Premium dari Babysultan. Dibuat lokal di Bandung, bahannya soft polyester yang nggak bikin panas, literally so cute!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek bintang, diikuti shot sash belt yang elegan",
+      "narration": "Bayangin dapet fitur 3in1 plus sash belt yang mewah, harganya cuma sekitar seratus-an ribu. Which is worth it banget untuk kenyamanan si kecil dan kamu, nggak kerasa kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage: 1. Tangan cepat mengikat gendongan (instan), 2. Bayi tidur tenang (nyaman), 3. Detail jahitan rapi (kualitas)",
+      "narration": "Pertama, cara pakainya instan sat-set, nggak perlu nyari tutorial lama. Kedua, bahannya nyaman banget buat bayi yang suka ngantuk. Ketiga, kualitas jahitannya solid dan rapi, jadi nggak bakal bikin kamu khawatir pas dipakai sehari-hari."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu muda berjalan santai di mall atau taman dengan gendongan ini, terlihat ringan dan praktis",
+      "narration": "Perfect buat kamu yang sering keluar rumah atau kalau aktivitas kamu butuh gendongan yang ringan tapi tetap aman. Kalau kamu sering begadang ngurus bayi, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.86 bintang dan angka 30.000 terjual, lalu muncul teks kutipan pembeli",
+      "narration": "Rating empat koma delapan enam dan sudah terjual lebih dari tiga puluh ribu unit. Yang udah beli bilang gendongannya nyaman banget buat bayiku tidur pulas."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul jelas dengan tombol simulasi 'Cek Sekarang' yang berdenyut",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, cari produk yang paling cocok buat kamu di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#GendonganBayi",
+    "#Babysultan",
+    "#MomHacks",
+    "#ParentingIndonesia",
+    "#LocalBrand",
+    "#BabyCarrier",
+    "#NewMom",
+    "#GendonganDepan"
+  ],
+  "product_id": 25122,
+  "product_title": "Gendongan Bayi Depan M Shape 3in1 Fast Baby Wrap Premium dengan Sash Belt babysultan",
+  "product_price": "72999.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/25122.jpg",
+    "/uploads/products/25122_1.jpg",
+    "/uploads/products/25122_2.jpg",
+    "/uploads/products/25122_3.jpg",
+    "/uploads/products/25122_4.jpg",
+    "/uploads/products/25122_5.jpg",
+    "/uploads/products/25122_6.jpg",
+    "/uploads/products/25122_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/25122",
+  "generated_at": "2026-03-15T08:29:49.905Z"
+}

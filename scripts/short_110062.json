@@ -1,0 +1,83 @@
+{
+  "title": "Baju Ayah Anak Murah Banget, Worth It!",
+  "hook_text": "Gak percaya baju lebaran cuma segini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up produk dengan efek zoom cepat dan teks overlay besar",
+      "narration": "Gak percaya deh, baju ayah anak motif salur cuma segini harganya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot ayah dan anak memakai kemeja serasi sambil tersenyum",
+      "narration": "Ini Minicottons Kemko Lebaran, kemeja koko kembar buat Ayah dan Anak, literally so cute!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek animasi koin jatuh",
+      "narration": "Harganya cuma delapan puluh ribuan doang, which is worth it banget buat lebaran."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail bahan dan jahitan, lalu shot anak bergerak aktif",
+      "narration": "Bahannya adem, nggak bikin gerah pas cuaca panas. Warna menarik dan cerah. Motif salurnya kece, nggak pasaran. --- Tapi hati-hati, ada yang bilang jahitannya di lengan kurang jelas, jadi pastikan ukurannya pas ya bestie. Bahan nyaman banget, anak-anak suka."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Suasana keluarga berkumpul di acara keluarga atau lebaran",
+      "narration": "Kalau kamu sering cari outfit serasi pas Idul Fitri, ini perfect banget buat kamu. Perfect buat kamu yang mau tampil kompak bareng si kecil."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.89 dan counter penjualan 20.000",
+      "narration": "Sudah 20.000 produk terjual, rating 4,89. Yang udah beli bilang 'Masya Allah rezeki banget dapet baju idul fitri yang samaan'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah mengarah ke layar",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya, review produk-nya ada di sana!",
+  "hashtags": [
+    "#lebaran2024",
+    "#bajuayahanak",
+    "#kemkoemakembar",
+    "#findingid",
+    "#ootdlebaran",
+    "#fashionanak",
+    "#viralproduct",
+    "#genzindonesia"
+  ],
+  "product_id": 110062,
+  "product_title": "Minicottons Kemko Lebaran Kemeja Koko Kembar Ayah Anak Motif Salur Striped 1-12 tahun Kids Shirt",
+  "product_price": "79900.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/110062.jpg",
+    "/uploads/products/110062_1.jpg",
+    "/uploads/products/110062_2.jpg",
+    "/uploads/products/110062_3.jpg",
+    "/uploads/products/110062_4.jpg",
+    "/uploads/products/110062_5.jpg",
+    "/uploads/products/110062_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/110062",
+  "generated_at": "2026-03-13T23:45:20.235Z"
+}

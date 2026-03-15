@@ -1,0 +1,84 @@
+{
+  "title": "Stelan Jumbo Murah Adem Banget!",
+  "hook_text": "Bingung cari stelan jumbo?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up kain sedang ditarik untuk tunjukkan elastisitas bahan",
+      "narration": "Bingung cari stelan jumbo yang nggak bikin gerah? --- Ini dia solusinya."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai setelan lengkap sambil berputar menunjukkan potongan",
+      "narration": "Kenalin, Setelan Monalisa Jumbo LD130 --- Bahan VistaTerry premium yang literally adem banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan angka harga",
+      "narration": "Harganya cuma lima puluh enam ribuan --- which is worth it banget buat dapet setelan lengkap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail bahan dekat kamera dan menunjukkan ketebalan kain",
+      "narration": "Bahan tebal nggak tembus pandang --- meski ada yang bilang tipis, no cap, nggak nerawang kok. --- Warna cerah sesuai foto, dan bahannya lembut banget, jadi nyaman dipakai seharian. Teksturnya halus dan menyerap keringat."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang duduk santai di sofa sambil membaca buku atau main HP",
+      "narration": "Perfect buat kamu yang lingkar pinggang 65 sampai 130 sentimeter --- Cocok banget buat santai di rumah atau tidur siang. --- Jadi nggak perlu pusing milih ukuran lagi. Semua badan muat nyaman."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.8 dan angka terjual 30k",
+      "narration": "Sudah laku 30 ribu produk --- Ratingnya tinggi banget 4.8 bintang. --- Yang udah beli bilang, warna sesuai dan nggak menyesal beli stelan ini."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo aplikasi atau panah mengarah ke arah bawah",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#StelanJumbo",
+    "#PiyamaNyaman",
+    "#OutfitRumah",
+    "#Viral",
+    "#MonalisaJumbo",
+    "#MurahBanget",
+    "#FindingID",
+    "#FashionWanita"
+  ],
+  "product_id": 125513,
+  "product_title": "SETELAN ONE SET Wanita MONALISA JUMBO LD130 SANTAI ADEM NYAMAN",
+  "product_price": "56413.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/125513.jpg",
+    "/uploads/products/125513_1.jpg",
+    "/uploads/products/125513_2.jpg",
+    "/uploads/products/125513_3.jpg",
+    "/uploads/products/125513_4.jpg",
+    "/uploads/products/125513_5.jpg",
+    "/uploads/products/125513_6.jpg",
+    "/uploads/products/125513_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/125513",
+  "generated_at": "2026-03-13T22:26:12.173Z"
+}

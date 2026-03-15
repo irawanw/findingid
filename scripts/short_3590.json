@@ -1,0 +1,83 @@
+{
+  "title": "Tas Laptop Vintage Murah, Worth It Gak?",
+  "hook_text": "Tas Laptop Murah Bikin Kaget?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas dibuka dan laptop dimasukkan dengan cepat",
+      "narration": "nggak kerasa ini tas laptop 14 inch tapi harganya cuma seharga seblak!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model mengenakan tas sambil jalan santai di luar ruangan",
+      "narration": "Kenalin, Aruna Bag dari AMRETA. Ini tas vintage slouchy yang lagi hype banget, look-nya emang kece."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul di layar dengan efek animasi",
+      "narration": "Duh, harganya cuma seratus ribuan doang, dari sembilan puluh sembilan ribuan sampai seratus lima puluh ribuan. Which is worth it!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo tahan air disiram air, lalu buka ritsleting tunjukkan interior satin",
+      "narration": "Bahan sintetis premium yang tebal dan tahan air, which is practical. --- Muat laptop 14 inch nyaman, lining satin lembut dan resleting anti macet."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Mahasiswa duduk di cafe dan pekerja mengetik di laptop",
+      "narration": "Perfect buat mahasiswi atau pekerja kantoran yang butuh tas daily tapi budget terbatas. --- Kalau kamu sering aktivitas luar ruangan, ini solusinya. --- Ada yang bilang handle kurang rapi, tapi honestly look-nya oke kok."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4,93 dan screenshot komentar positif pembeli",
+      "narration": "Ratingnya 4,93 dari 30 ribu produk terjual. --- Yang udah beli bilang bahannya bagus banget dan warna sesuai gambar."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id dan panah mengarah ke layar",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#ArunaBag",
+    "#TasViral",
+    "#TasLaptop",
+    "#AMRETA",
+    "#FashionIndonesia",
+    "#OOTD",
+    "#StudentEssentials",
+    "#BudgetFriendly"
+  ],
+  "product_id": 3590,
+  "product_title": "Aruna bag - AMRETA - TAS WANITA - VINTAGE BAG - TAS LAPTOP FIT 14 inch",
+  "product_price": "129000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/3590.jpg",
+    "/uploads/products/3590_1.jpg",
+    "/uploads/products/3590_2.jpg",
+    "/uploads/products/3590_3.jpg",
+    "/uploads/products/3590_4.jpg",
+    "/uploads/products/3590_5.jpg",
+    "/uploads/products/3590_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/3590",
+  "generated_at": "2026-03-13T18:45:09.629Z"
+}

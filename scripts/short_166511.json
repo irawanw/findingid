@@ -1,0 +1,83 @@
+{
+  "title": "Handuk Bayi Palmerhaus? Worth It Banget Bestie!",
+  "hook_text": "Handuk Bayi Lemebut Gila-gilaan!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up handuk bayi dipegang dekat kamera sambil ekspresi kaget senang",
+      "narration": "Stop scrolling sejenak bestie! Kamu bakal nyesel kalau gak punya handuk ini buat baby-nya."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan tekstur handuk Little Terry yang super lembut dan motif bambu",
+      "narration": "Ini Palmerhaus Little Terry Extra Soft, ukurannya lima puluh kali seratus, bahan bambu yang literally next level lembut banget di kulit bayi."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar di layar sambil tunjukkan handuk yang bisa dibalut bayi",
+      "narration": "Gak perlu ribet mikir harga, cuma lima puluh tujuh ribuan aja udah dapet kualitas premium seperti ini, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase: tangan meremas handuk (air keluar), detail jahitan rapi, dan bayi tertawa di dalam handuk",
+      "narration": "Pertama, serap airnya super cepet dan nggak bikin kulit bayi berair. Kedua, bahannya adem dan nggak bikin panas, plus jahitannya rapi aman buat kulit sensitif. Ketiga, motifnya lucu-lucu banget kayak little T bicycle yang super cute buat ngajak tidur bayi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario bayi bangun tidur digendong dengan handuk, lalu scene ganti baju dengan handuk",
+      "narration": "Perfect buat yang sering ngerjain baby-nya tiap pagi atau kalau aktivitasnya suka nyamperin kamar mandi sama si kecil. Gak perlu ragu lagi!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang dan angka penjualan di layar dengan efek animasi",
+      "narration": "Pembelinya pada ngomong cattonnya superr lembut cocok untuk kulit bayi, udah dapet empat koma delapan sembilan dari seratus ribuan orang!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul dengan animasi klik, latar belakang bahagia",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#Palmerhaus",
+    "#HandukBayi",
+    "#LittleTerry",
+    "#MomTokIndonesia",
+    "#BestieRekomendasi",
+    "#BabyEssentials",
+    "#ShoppingFinds",
+    "#WorthIt"
+  ],
+  "product_id": 166511,
+  "product_title": "Handuk Bayi Little Terry EXTRA SOFT Palmerhaus uk 50 x 100cm / Bamboo / Tottori Towel CBKS SO bamboo@100",
+  "product_price": "57500.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/166511.jpg",
+    "/uploads/products/166511_1.jpg",
+    "/uploads/products/166511_2.jpg",
+    "/uploads/products/166511_3.jpg",
+    "/uploads/products/166511_4.jpg",
+    "/uploads/products/166511_5.jpg",
+    "/uploads/products/166511_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/166511",
+  "generated_at": "2026-03-15T09:39:30.664Z"
+}

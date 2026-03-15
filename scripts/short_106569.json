@@ -1,0 +1,83 @@
+{
+  "title": "Micellar Water Seharga Jajan Bakso? Gak Percaya!",
+  "hook_text": "Micellar Water Seharga Jajan Bakso? Gak Percaya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah bingung sambil memegang botol micellar water yang lucu",
+      "narration": "Micellar water seharga jajan bakso? --- Nggak percaya deh!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk NPURE Acne Power Clear ditampilkan dengan pencahayaan cinematic",
+      "narration": "Kenalin nih, NPURE Acne Power Clear. --- Solusi bersihin makeup tebel tanpa dibilas!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga 'Rp 27.000-an' muncul besar dengan efek pop-up",
+      "narration": "Harganya cuma dua puluh tujuh ribuan doang! --- Literally worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase tekstur produk, Centella Asiatica, dan demo 1 usap",
+      "narration": "Bebas alkohol dan SLS, jadi aman banget buat kulit sensitif. --- Ada Centella Asiatica yang soothing banget buat kulitmu. --- Teknologi 5-in-1 ngangkat kotoran dalam 1 usap aja. --- Nggak perlu dibilas juga, praktis banget buat kamu yang sibuk!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model dengan kulit berjerawat tersenyum puas, lalu teks tips packing",
+      "narration": "Perfect buat kamu yang punya jerawat atau kulit kombinasi. --- Oh ya, packingnya kadang agak tipis, tapi jangan khawatir. --- Kulit berminyak juga cocok banget loh!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4,9 dan jumlah terjual 40k muncul di layar",
+      "narration": "Udah terjual 40 ribu produk dengan rating 4,9. --- Yang udah beli bilang \"cocok banget di kulit sensitif\". --- Emang worth it banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke teks 'finding dot id'",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana! --- Jangan sampai kehabisan stok ya!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#NPURE",
+    "#MicellarWater",
+    "#KulitSensitif",
+    "#SkincareMurah",
+    "#NPureAcne",
+    "#CekFindingID",
+    "#BeautyTips",
+    "#SkincareIndonesia"
+  ],
+  "product_id": 106569,
+  "product_title": "NPURE ACNE POWER CLEAR MICELLAR WATER | Micellar GENTLE & HYDRATE | Micellar No Alcohol / SLS Free | BPOM/ 100ml",
+  "product_price": "27250.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/106569.jpg",
+    "/uploads/products/106569_1.jpg",
+    "/uploads/products/106569_2.jpg",
+    "/uploads/products/106569_3.jpg",
+    "/uploads/products/106569_4.jpg",
+    "/uploads/products/106569_5.jpg",
+    "/uploads/products/106569_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/106569",
+  "generated_at": "2026-03-13T23:09:29.719Z"
+}

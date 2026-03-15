@@ -1,0 +1,96 @@
+{
+  "title": "Legging Murah Tapi Premium? Bestie Wajib Tau!",
+  "hook_text": "Legging harga kentang tapi kelihatan mahal?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up celana yoga sedang dipegang dengan background blur, teks besar muncul di tengah layar",
+      "narration": "Legging harga kentang tapi kelihatan mahal? Bestie, ini sih no cap! --- Cek dulu deh!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai celana COSI COZY sambil melakukan peregangan yoga di ruangan terang",
+      "narration": "Kenalin COSI COZY Legging Highwaist yang lagi viral banget di kalangan wanita aktif."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga diskon dengan efek kilat, tangan menunjuk ke layar ponsel yang menampilkan harga",
+      "narration": "Harganya? Mulai dari enam puluh delapan ribuan aja. --- Which is worth it banget buat bahan premium."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail close up bahan keringat menyerap, lalu model melompat dan tarik selat badan",
+      "narration": "Dry fitnya ngeresap keringat, highwaist bikin badan kelihatan lebih ramping, --- dan elastisitasnya next level banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model menunjukkan ukuran pita ukur dan membandingkan dengan tabel size chart di layar",
+      "narration": "Cocok buat kamu yang suka yoga atau gym. --- Tapi inget, kalau mau pas di badan, cek size chart ya. Kadang cutting anya perlu perhatian ekstra biar nggak miring."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan angka penjualan 40.000 dengan animasi naik",
+      "narration": "Ratingnya 4,9 dari 40 ribuan orang. --- Yang udah beli bilang, 'Jujur nggak ekspek sebagus ini, harga murah tapi kualitas premium.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar hitam dengan logo finding.id dan panah menunjuk ke arah link di layar",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#LeggingViral",
+    "#YogaWanita",
+    "#OlahragaMurah",
+    "#COSICOZY",
+    "#FitGirl",
+    "#GymOutfit",
+    "#FashionIndonesia",
+    "#ViralProduct"
+  ],
+  "product_id": 7695,
+  "product_title": "COSI COZY Celana Yoga Legging Highwaist Training Wanita Celana Olahraga Wanita",
+  "product_price": "68900.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/7695.jpg",
+    "/uploads/products/7695_1.jpg",
+    "/uploads/products/7695_2.jpg",
+    "/uploads/products/7695_3.jpg",
+    "/uploads/products/7695_4.jpg",
+    "/uploads/products/7695_5.jpg",
+    "/uploads/products/7695_6.jpg",
+    "/uploads/products/7695_7.jpg",
+    "/uploads/products/7695_8.jpg",
+    "/uploads/products/7695_9.jpg",
+    "/uploads/products/7695_10.jpg",
+    "/uploads/products/7695_11.jpg",
+    "/uploads/products/7695_12.jpg",
+    "/uploads/products/7695_13.jpg",
+    "/uploads/products/7695_14.jpg",
+    "/uploads/products/7695_15.jpg",
+    "/uploads/products/7695_16.jpg",
+    "/uploads/products/7695_17.jpg",
+    "/uploads/products/7695_18.jpg",
+    "/uploads/products/7695_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/7695",
+  "generated_at": "2026-03-13T21:38:49.078Z"
+}

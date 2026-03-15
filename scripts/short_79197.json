@@ -1,0 +1,83 @@
+{
+  "title": "Korset Postpartum Viral, Worth It Gak Sih?",
+  "hook_text": "Perut Buncit Pasca Lahiran?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah ibu yang tampak lelah memegang perut, lalu transisi cepat ke produk Mooimom.",
+      "narration": "Ibu baru lahiran, perut buncit gak ilang-ilang? --- Stop scroll!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Mooimom di atas meja bersih dengan cahaya soft, highlight logo Kemenkes.",
+      "narration": "Bestie, ini solusinya! Mooimom Korset Nano Bamboo Medis. Udah resmi approved sama Kemenkes, no cap!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar bersamaan dengan visual kotak hadiah day pad gratis.",
+      "narration": "Harga mulai dari empat ratusan ribuan aja buat varian single. Dapet day pad gratis pula! Worth it banget dibanding kompetitor."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage bahan bamboo yang lentur, ibu memakainya dengan senyum, dan teks fitur muncul satu per satu.",
+      "narration": "Bahan arang bambu anti bakteri, jadi gak bau keringat. Aman dipakai segera pasca Caesar. Bantu pemulihan posisi rahim plus langsingin perut. No cap, super nyaman! --- Teksturnya lembut banget, gak bikin gerah meski dipake seharian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu sedang duduk santai sambil menyusui, lalu teks tips ukuran muncul di pojok layar.",
+      "narration": "Cocok buat ibu melahirkan normal maupun Caesar. Kalau salah size? Gak pa-pa, bisa tukar ukuran kok."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 4.9 dan angka 30.000 terjual muncul besar di tengah layar.",
+      "narration": "Rating 4,9, udah 30 ribu produk terjual. Yang udah beli bilang 'Singset banget, sangat nyaman'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pencarian finding.id dengan animasi panah mengarah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#Mooimom",
+    "#KorsetPostpartum",
+    "#MomHacks",
+    "#Viral",
+    "#FindingID",
+    "#IbuBarulahir",
+    "#KemenkesApproved",
+    "#PascaMelahirkan"
+  ],
+  "product_id": 79197,
+  "product_title": "[KEMENKES APPROVED] MOOIMOM Korset Nano Bamboo Medis Postpartum / Korset Pasca Melahirkan Normal Caesar / Far Infrared / Anti Bakteri",
+  "product_price": "434000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/79197.jpg",
+    "/uploads/products/79197_1.jpg",
+    "/uploads/products/79197_2.jpg",
+    "/uploads/products/79197_3.jpg",
+    "/uploads/products/79197_4.jpg",
+    "/uploads/products/79197_5.jpg",
+    "/uploads/products/79197_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/79197",
+  "generated_at": "2026-03-13T16:25:09.751Z"
+}

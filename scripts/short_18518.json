@@ -1,0 +1,83 @@
+{
+  "title": "Baterai Sepeda Listrik Uwinfly 12AH! Worth It Banget?",
+  "hook_text": "STOP! Baterai kamu bisa lebih awet!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tangan membuka baterai lama yang kempes vs baterai baru Uwinfly yang tebal dan kencang dengan efek zoom in cepat.",
+      "narration": "Stop scroll! Kamu pernah ngerasain baterai sepeda listrik kamu tiba-tiba mati pas lagi naik tanjakan, kan? Ngeselin banget kan!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat: Baterai Uwinfly 12AH Original dipegang tangan, lalu dipasangkan rapi ke frame sepeda listrik dengan efek sparkles.",
+      "narration": "Intip nih bestie, aku nemu baterai sepeda listrik Uwinfly 12AH Original yang beneran bisa jadi game changer buat harian kamu, literally next level!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: Kiri ada harga mahal, kanan muncul harga Rp 225.000 dengan efek uang jatuh atau stiker 'Murah Meriah' yang membesar.",
+      "narration": "Gila sih harganya cuma seratus dua puluh lima ribuan sampai seratus delapan puluhan ribu aja! Which is worth it banget kalau dipikirin kapasitasnya segede ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot 1: Menunjukkan layar digital baterai yang stabil. Shot 2: Grafik baterai yang turun perlahan (animasi). Shot 3: Baterai diangin-angin atau dibersihkan.",
+      "narration": "Pertama, dayanya tahan lama banget, nggak gampang drop pas lagi dipakai. Kedua, fungsi olesan tipis biar maksimal dan nggak bikin baterai bengkak. Ketiga, kondisi barangnya sangat baik, langsung siap pasang tanpa perlu ribet bongkar pasang lama-lama."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario nyata: Cowok ceking pakai sepeda listrik lewat jalanan macet, lalu wanita muda骑着 sepeda lewat trotoar ramai dengan senyum bahagia.",
+      "narration": "Perfect buat kamu yang sering bolak balik kantor atau kuliah pakai sepeda listrik, dan kalau aktivitas kamu butuh tenaga ekstra biar nggak pusing nginjak terus."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.83 bintang besar dengan angka 20.000 produk terjual, lalu muncul teks kutipan pembeli yang muncul dari bawah.",
+      "narration": "Yang udah beli bilang 'Sudah di pasang di sepeda oke josss' dan pembelinya pada ngomong barangnya ramah admin dan gercep banget! Rating 4.83 dan dua puluh ribu terjual!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar 'CEK DI FINDING.DOT.ID' dengan animasi panah menunjuk ke arah teks tersebut, background cerah dan ceria.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, cari produk-nya di sana biar nggak salah pilih!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#sepedalistrik",
+    "#baterailaptop",
+    "#motoviral",
+    "#hematlistrik",
+    "#findingid",
+    "#reviewproduk",
+    "#urahprahat",
+    "#jakarta"
+  ],
+  "product_id": 18518,
+  "product_title": "Baterai Sepeda Listrik Uwinfly 12AH Original",
+  "product_price": "251000.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/18518.jpg",
+    "/uploads/products/18518_1.jpg",
+    "/uploads/products/18518_2.jpg",
+    "/uploads/products/18518_3.jpg",
+    "/uploads/products/18518_4.jpg",
+    "/uploads/products/18518_5.jpg",
+    "/uploads/products/18518_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/18518",
+  "generated_at": "2026-03-15T05:24:10.146Z"
+}

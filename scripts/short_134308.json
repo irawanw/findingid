@@ -1,0 +1,83 @@
+{
+  "title": "Culote Cargo Stretch Bestie! Worth It Banget!",
+  "hook_text": "Stop Scroll! Celana Ini Gila Nyaman!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah ekspresif sambil memegang celana cargo dengan gaya dramatis, background dinamis.",
+      "narration": "Stop scroll bestie! Kamu bakal nyesel kalau nggak coba celana cargo stretch ini, literally next level!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat dari packing box ke model memakai celana sambil lompat-lompat energik.",
+      "narration": "Ini dia celana olahraga training yang bahannya despo banget, stretch elastis, nggak kaku sama sekali."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek confetti, model tersenyum lebar menunjuk ke harga.",
+      "narration": "Gila sih harganya cuma seratus delapan puluhan ribu, padahal kualitasnya nggak main-main dong!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot split screen: kiri tunjukkan detail jahitan, kanan tunjukkan model sedang berolahraga ringan dan duduk santai.",
+      "narration": "Pertama, bahan despo stretchnya bikin gerak bebas tanpa bikin kesepitan. Kedua, potongan jogger cargo-nya super practical buat nyimpen barang. Ketiga, fit-nya pas buat semua kalangan, nggak ketat di paha dan nyaman di pinggang, which is worth it banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage kegiatan: jogging pagi, gym sore, dan nongkrong santai dengan outfit sama.",
+      "narration": "Perfect buat kamu yang sering olahraga rutin atau suka gaya kasual tapi tetap mau kelihatan kece dan sporty, no cap!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.83 dan angka 20.000 terjual dengan animasi naik cepat.",
+      "narration": "Rating empat koma delapan tiga dari dua puluh ribuan pembeli, yang udah beli bilang bahannya bagus ga tipis tapi ga tebel juga!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Model menunjuk ke arah kamera dengan tanda panah, teks 'finding dot id' muncul jelas.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stoknya terbatas!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#CelanaCargo",
+    "#OutfitSantai",
+    "#GymStyle",
+    "#FashionWanita",
+    "#FashionPria",
+    "#StretchPants",
+    "#BudgetFriendly",
+    "#FindingId"
+  ],
+  "product_id": 134308,
+  "product_title": "celana olahraga cargo training sweatpants jogger pria wanita bahan despo stretch (melar/elastis)",
+  "product_price": "58972.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/134308.jpg",
+    "/uploads/products/134308_1.jpg",
+    "/uploads/products/134308_2.jpg",
+    "/uploads/products/134308_3.jpg",
+    "/uploads/products/134308_4.jpg",
+    "/uploads/products/134308_5.jpg",
+    "/uploads/products/134308_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/134308",
+  "generated_at": "2026-03-15T04:54:07.185Z"
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Tas MOSSDOOM Cuma Seratus Ribuan? Worth It Banget!",
+  "hook_text": "Tas Branded Cuma Seratus Ribuan?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up produk dengan efek cahaya dramatis dan teks besar di tengah layar",
+      "narration": "Bikin nagih, tas branded cuma seharga makanan siang? No cap!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai angle menunjukkan desain elegan dan warna netral",
+      "narration": "Kenalin nih MOSSDOOM Aely Bag, volume tinggi tapi tampilan super mewah. --- Desainnya simpel banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh, lalu transisi ke tas",
+      "narration": "Seratus delapan puluh ribuan doang, which is worth it banget buat kualitas begini. --- Gak perlu mahal biar kelihatan premium."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail tekstur bahan, timbangan bobot, dan demonstrasi isi barang dalam kompartemen",
+      "narration": "Bahan kulit PU matte, teksturnya halus banget. --- Bobotnya cuma dua ratus gram, ringan banget dibawa seharian. --- Ada kompartemen besar plus saku ritsleting buat barang penting."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model wanita muda sedang beraktivitas di kampus atau kantor dengan tas ini",
+      "narration": "Khusus buat kamu pelajar atau pekerja muda yang cari gaya elegan tapi tetap hemat. --- Warna hitam dan putihnya gampang dipaduan sama outfit kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan angka penjualan 30.000+ di layar",
+      "narration": "Sudah terjual tiga puluh ribu produk, rating 4,87. --- Yang sudah beli bilang 'desainnya elegan, nggak nyesel, emang bagus tasnya simpel'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah mengarah ke arah pencarian",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#MOSSDOOM",
+    "#TasSelempang",
+    "#TasMurah",
+    "#OOTD",
+    "#TasWanita",
+    "#Viral",
+    "#FindingId",
+    "#TasKulit"
+  ],
+  "product_id": 77806,
+  "product_title": "MOSSDOOM Tas Selempang Wanita Aely Bag Volume Tinggi Shoulder Bag- MDB414",
+  "product_price": "178999.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/77806.jpg",
+    "/uploads/products/77806_1.jpg",
+    "/uploads/products/77806_2.jpg",
+    "/uploads/products/77806_3.jpg",
+    "/uploads/products/77806_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/77806",
+  "generated_at": "2026-03-13T17:31:03.393Z"
+}

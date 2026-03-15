@@ -1,0 +1,83 @@
+{
+  "title": "Sneakers Kulit D04 Worth It Banget! 😱",
+  "hook_text": "Sepatu kulit cuma 100-an?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah host ekspresi shock sambil pegang sepatu, teks besar muncul di layar",
+      "narration": "Nggak kerasa kan kalau sneakers kulit asli bisa cuma seratus tiga puluhan ribu? No cap, ini gila banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat sepatu dipakai jalan di jalan setapak dan suasana kafe, transisi smooth",
+      "narration": "Ini Khamzo D04, sneakers pria outdoor adventure original import. Didesain buat kamu yang cari kenyamanan dan gaya serba satu, literally worth it banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tombol minus harga muncul dengan efek suara 'pop', lalu muncul teks harga final dengan warna emas",
+      "narration": "Biasanya sepatu kulit harga enam ratus ribuan, eh ini cuma seratus tiga puluhan ribu sampai seratus tujuh puluhan ribu. Basicly next level deal!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunas tekstur kulit close up, kanan tunas sol tebal, bawah tunas bagian dalam sepatu",
+      "narration": "Pertama, bahan kulit asli yang kualitasnya nggak main-main, tahan lama banget. Kedua, solnya tebal dan empuk, cocok buat aktivitas outdoor yang keras. Ketiga, fitur wide fit dan tinggi hak sedang, jadi kaki nggak terlalu naik dan nyaman dipakai seharian tanpa sakit."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video POV seseorang berjalan santai dari kantor langsung ke kafe atau kampus",
+      "narration": "Perfect buat kamu yang sering travel atau kuliah, jadi nggak perlu ganti-ganti sepatu. Kalau aktivitas kamu dari pagi sampai sore, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.67 bintang dan angka 30.000 terjual, lalu muncul bubble chat pembeli",
+      "narration": "Pembelinya pada ngomong barangnya muantull dan sesuai foto, jadi nggak perlu ragu lagi ya bestie."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host menunjuk ke arah bawah layar dengan senyum lebar dan efek panah melompat",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#KhamzoD04",
+    "#SneakersPria",
+    "#SepatuKulit",
+    "#OutfitKasual",
+    "#ShopeeHaul",
+    "#GenZStyle",
+    "#WorthIt",
+    "#OriginalImport"
+  ],
+  "product_id": 21571,
+  "product_title": "Khamzo Sepatu Sneakers Pria Outdoor Adventure D04 Original Import Kasual Kulit Terbaru",
+  "product_price": "130000.00",
+  "product_rating": "4.67",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21571.jpg",
+    "/uploads/products/21571_1.jpg",
+    "/uploads/products/21571_2.jpg",
+    "/uploads/products/21571_3.jpg",
+    "/uploads/products/21571_4.jpg",
+    "/uploads/products/21571_5.jpg",
+    "/uploads/products/21571_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/21571",
+  "generated_at": "2026-03-14T18:23:17.410Z"
+}

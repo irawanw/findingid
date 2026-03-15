@@ -1,0 +1,79 @@
+{
+  "title": "Minyak Telon 3 Botol Cuman 100-an?! Worth It Banget!",
+  "hook_text": "Gak percaya? Cek harganya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan mengocok paket minyak telon MY BABY dengan efek suara 'pop' dan teks besar muncul.",
+      "narration": "Gak percaya? Minyak telon plus anti nyamuk isi tiga botol, harganya cuma seratus an bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke botol minyak ditunjukkan satu per satu dengan lighting hangat, teks overlay '100% Original BPOM'.",
+      "narration": "Ini MY BABY Minyak Telon Plus, yang nggak cuma nghangatin badan si kecil tapi juga ngecegah digigit nyamuk selama delapan jam, which is literally next level!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 100.100 dengan stiker coret harga mahal, lalu muncul ikon 'Hemat' dan tumpukan 3 botol.",
+      "narration": "Nah buat stok keluarga, kamu dapet tiga botol dengan harga seratus delapan puluhan ribu aja, which is worth it banget dong!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan botol di tas (praktis), tengah tunjukkan logo BPOM/Halal, kanan tunjukkan bayi tidur nyenyak.",
+      "narration": "No cap, ini semua bahan alami eucalyptus dan chamomile yang aromanya menenangkan. Kemasan praktis bisa dibawa kemana aja, plus terdaftar resmi BPOM dan Halal, jadi aman banget buat kulit sensitif si kecil!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase aktivitas: bayi tidur di taman, main di luar, dan orang tua merapikan barang di lemari obat.",
+      "narration": "Perfect buat kamu yang sering bawa bayi ke luar rumah atau pengen hemat waktu karena satu produk aja bisa ngatur hangatan dan nyamuk sekaligus!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Grafik rating 4.92 bintang dan angka 50.000 terjual membesar, muncul kutipan teks dari pembeli.",
+      "narration": "Pembelinya pada ngomong paket ini cocok buat semua usia dan wanginya fresh banget, plus masa kadaluarsanya lama!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol download finding.id muncul besar, anak kecil tertawa sambil pegang botol minyak.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stoknya cepet banget habis!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#MinyakTelon",
+    "#BabyCare",
+    "#HematCuma100an",
+    "#MYBABY",
+    "#ProdukViral",
+    "#IbuBeban",
+    "#AntiNyamuk",
+    "#FamilyStok"
+  ],
+  "product_id": 15748,
+  "product_title": "[3 PCS] MY BABY Minyak Telon Plus Eucalyptus 150ml Lavender 150ml Paket Telon My Baby",
+  "product_price": "100100.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/15748.jpg",
+    "/uploads/products/15748_1.jpg",
+    "/uploads/products/15748_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/15748",
+  "generated_at": "2026-03-14T05:34:46.246Z"
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Serum Peeling 100 Ribuan Bikin Glass Skin!",
+  "hook_text": "Kulit Kusam? Stop Scroll Dulu Bestie! ✨",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kusam lalu transisi cepat ke efek glowing.",
+      "narration": "Kulit kusam bikin mood drop? Stop scroll dulu bestie! --- Nggak mau kulit kayak kentang?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk ELFORMULA ditunjukkan dari dekat dengan efek cahaya.",
+      "narration": "Kenalin nih ELFORMULA Intensive Peeling Solution. Chemical peeling aman yang bikin glass skin."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek koin jatuh.",
+      "narration": "Harga terendah cuma seratus ribuan rupiah! Literally worth it banget buat kantong pelajar yang lagi butuh glow up."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi aplikasi serum di lengan dengan timer 60 detik.",
+      "narration": "Kandungan AHA, BHA, PHA stabil buat kulit sensitif. Cuma butuh 60 detik, no cap! Teksturnya agak lengket dikit, tapi gampang nempel. Sudah BPOM nih, aman!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase orang sedang bekerja dan makeup di wajah.",
+      "narration": "Perfect buat kamu yang sering kena macem-macem skincare. Pori tersumbat atau noda hitam? Ini solusinya yang next level."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.9 dan jumlah penjualan.",
+      "narration": "Rating 4,9 bintang! Sudah terjual satu juta produk. Yang sudah beli bilang 'Kulit glowing awet berbulan-bulan malahan!'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah tombol find di layar.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#ELFORMULA",
+    "#GlassSkin",
+    "#SkincareMurah",
+    "#PeelingSolution",
+    "#KulitGlowing",
+    "#SkincareIndonesia",
+    "#FindYourBestie",
+    "#ReviewSkincare"
+  ],
+  "product_id": 65662,
+  "product_title": "ELFORMULA Intensive Peeling Solution - Peeling Serum Dark Spot Glass Skin Eksfoliasi Wajah Mengangkat Sel Kulit Mati AHA BHA PHA Glowing Smooth Skin Mencerahkan Kulit Halus Blackhead Brightening",
+  "product_price": "99000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/65662.jpg",
+    "/uploads/products/65662_1.jpg",
+    "/uploads/products/65662_2.jpg",
+    "/uploads/products/65662_3.jpg",
+    "/uploads/products/65662_4.jpg",
+    "/uploads/products/65662_5.jpg",
+    "/uploads/products/65662_6.jpg",
+    "/uploads/products/65662_7.jpg",
+    "/uploads/products/65662_8.jpg",
+    "/uploads/products/65662_9.jpg",
+    "/uploads/products/65662_10.jpg",
+    "/uploads/products/65662_11.jpg"
+  ],
+  "product_link": "https://finding.id/p/65662",
+  "generated_at": "2026-03-13T20:10:38.977Z"
+}

@@ -1,0 +1,295 @@
+{
+    "data": {
+        "ratings": [
+            {
+                "orderid": 0,
+                "itemid": 44104688896,
+                "cmtid": 78352608743,
+                "ctime": 1762331172,
+                "rating": 0,
+                "userid": 1096328915,
+                "shopid": 1097379961,
+                "comment": "Warna:sesuai dengan deskripsi\n\nTerdapat lecet pada anti gores Dan paket penyok saat mendapatkan paket",
+                "rating_star": 3,
+                "status": 2,
+                "mtime": 1769756688,
+                "editable": 1,
+                "opt": 2,
+                "filter": 3,
+                "is_hidden": false,
+                "submit_time": 1762331172,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "evenmayan",
+                "author_portrait": "id-11134226-7r98s-lmwujmrabnv094",
+                "author_shopid": 1096067204,
+                "anonymous": false,
+                "images": [
+                    "id-11134103-82251-mgov0x3juzv021",
+                    "id-11134103-82250-mgov0x3p8u8b5c",
+                    "id-11134103-8224z-mgov0x3if0ug7f"
+                ],
+                "product_items": [
+                    {
+                        "itemid": 44104688896,
+                        "shopid": 1097379961,
+                        "name": "vivo iQOO Neo 10,7K VC Cooling System,7000 mAH + 120 watt,1st Snapdragon 8s Gen 4 + Q1,NFC,144Hz AMOLED, 50MP Sony IMX OIS + 8MP wide Angle,",
+                        "image": "id-11134207-7ra0q-mbxhkzwkoxja62",
+                        "is_snapshot": 1,
+                        "snapshotid": 237504784326,
+                        "modelid": 275398313937,
+                        "model_name": "Orange,8+256",
+                        "options": [
+                            "Orange",
+                            "8+256"
+                        ],
+                        "is_half_pdp": false
+                    }
+                ],
+                "ItemRatingReply": {
+                    "orderid": 0,
+                    "cmtid": 78352608743,
+                    "ctime": 1762349333,
+                    "userid": 1097643538,
+                    "comment": "Halo kak, apakah ada kendala dengan unit handphonenya? Jika tidak ada, bisa di bantu untuk ubah penilaian bintangnya kak? terimakasih kak🙏🏻\n",
+                    "mtime": 1762349333,
+                    "is_hidden": false
+                },
+                "editable_date": 1772699094,
+                "show_reply": false,
+                "like_count": 2,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 3,
+                    "seller_service": 3,
+                    "delivery_service": 4,
+                    "driver_service": 4
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "loyalty_info": {
+                    "tier_code": 40,
+                    "user_tier_badge_url": "https://loyalty.shopee.co.id",
+                    "tier_text": "Member Platinum",
+                    "user_tier_badge_text_color": "#FFFFFF",
+                    "user_tier_badge_background_color": "#55586E"
+                },
+                "template_tags": [
+                    "Warna",
+                    "Garansi",
+                    "Fungsi"
+                ],
+                "has_template_tag": true,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "id"
+                },
+                "is_repeated_purchase": false,
+                "display_variation_filter": true,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "image_data": [
+                    {
+                        "image_id": "id-11134103-82251-mgov0x3juzv021",
+                        "cover_image_id": "id-11134103-82251-mgov0x3juzv021",
+                        "score": 0
+                    },
+                    {
+                        "image_id": "id-11134103-82250-mgov0x3p8u8b5c",
+                        "cover_image_id": "id-11134103-82250-mgov0x3p8u8b5c",
+                        "score": 0
+                    },
+                    {
+                        "image_id": "id-11134103-8224z-mgov0x3if0ug7f",
+                        "cover_image_id": "id-11134103-8224z-mgov0x3if0ug7f",
+                        "score": 0
+                    }
+                ],
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "ID",
+                "original_item_info": {
+                    "itemid": 44104688896,
+                    "shopid": 1097379961,
+                    "name": "vivo iQOO Neo 10,7K VC Cooling System,7000 mAH + 120 watt,1st Snapdragon 8s Gen 4 + Q1,NFC,144Hz AMOLED, 50MP Sony IMX OIS + 8MP wide Angle,",
+                    "image": "id-11134207-8224w-milaornzlv5y25",
+                    "is_half_pdp": false
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0,
+                "medias": [
+                    {
+                        "image": {
+                            "image_id": "id-11134103-82251-mgov0x3juzv021",
+                            "cover_image_id": "id-11134103-82251-mgov0x3juzv021",
+                            "score": 0
+                        }
+                    },
+                    {
+                        "image": {
+                            "image_id": "id-11134103-82250-mgov0x3p8u8b5c",
+                            "cover_image_id": "id-11134103-82250-mgov0x3p8u8b5c",
+                            "score": 0
+                        }
+                    },
+                    {
+                        "image": {
+                            "image_id": "id-11134103-8224z-mgov0x3if0ug7f",
+                            "cover_image_id": "id-11134103-8224z-mgov0x3if0ug7f",
+                            "score": 0
+                        }
+                    }
+                ],
+                "review_creation_source": 2,
+                "is_half_pdp": false
+            },
+            {
+                "orderid": 0,
+                "itemid": 44104688896,
+                "cmtid": 84479035087,
+                "ctime": 1767833015,
+                "rating": 0,
+                "userid": 41964106,
+                "shopid": 1097379961,
+                "comment": "Pengirimannya lama banget",
+                "rating_star": 3,
+                "status": 2,
+                "mtime": 1768299748,
+                "editable": 1,
+                "opt": 2,
+                "filter": 1,
+                "is_hidden": false,
+                "submit_time": 1767833015,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "p*****i",
+                "anonymous": true,
+                "product_items": [
+                    {
+                        "itemid": 44104688896,
+                        "shopid": 1097379961,
+                        "name": "vivo iQOO Neo 10,7K VC Cooling System,7000 mAH + 120 watt,1st Snapdragon 8s Gen 4 + Q1,NFC,144Hz AMOLED, 50MP Sony IMX OIS + 8MP wide Angle,",
+                        "image": "id-11134207-8224w-milaornzlv5y25",
+                        "is_snapshot": 1,
+                        "snapshotid": 233038797842,
+                        "modelid": 275398313935,
+                        "model_name": "Hitam,8+256",
+                        "options": [
+                            "Hitam",
+                            "8+256"
+                        ],
+                        "is_half_pdp": false
+                    }
+                ],
+                "ItemRatingReply": {
+                    "orderid": 0,
+                    "cmtid": 84479035087,
+                    "ctime": 1768299748,
+                    "userid": 1097643538,
+                    "comment": "Halo kak, apakah ada kendala dengan unit handphonenya? Jika tidak ada, bisa di bantu untuk ubah penilaian bintangnya kak? terimakasih kak🙏🏻\n",
+                    "mtime": 1768299748,
+                    "is_hidden": false
+                },
+                "editable_date": 1778200955,
+                "show_reply": false,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 3,
+                    "seller_service": 5,
+                    "delivery_service": 5,
+                    "driver_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "loyalty_info": {
+                    "tier_code": 40,
+                    "user_tier_badge_url": "https://loyalty.shopee.co.id",
+                    "tier_text": "Member Platinum",
+                    "user_tier_badge_text_color": "#FFFFFF",
+                    "user_tier_badge_background_color": "#55586E"
+                },
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "id"
+                },
+                "is_repeated_purchase": false,
+                "display_variation_filter": true,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "ID",
+                "original_item_info": {
+                    "itemid": 44104688896,
+                    "shopid": 1097379961,
+                    "name": "vivo iQOO Neo 10,7K VC Cooling System,7000 mAH + 120 watt,1st Snapdragon 8s Gen 4 + Q1,NFC,144Hz AMOLED, 50MP Sony IMX OIS + 8MP wide Angle,",
+                    "image": "id-11134207-8224w-milaornzlv5y25",
+                    "is_half_pdp": false
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0,
+                "review_creation_source": 2,
+                "is_half_pdp": false
+            }
+        ],
+        "item_rating_summary": {
+            "rating_total": 471,
+            "rating_count": [
+                0,
+                0,
+                2,
+                13,
+                456
+            ],
+            "rcount_with_context": 117,
+            "rcount_with_image": 97,
+            "rcount_with_media": 101,
+            "rcount_local_review": 471,
+            "rcount_repeat_purchase": 0,
+            "rcount_overall_fit_small": 0,
+            "rcount_overall_fit_fit": 0,
+            "rcount_overall_fit_large": 0,
+            "rcount_oversea_review": 0,
+            "rcount_folded": 0,
+            "show_size_fitting": false
+        },
+        "is_sip_item": false,
+        "rcmd_algo": "BUNDLE:comment_search,BUNDLE_RANKER:media_ranker_default,RECALLER:comment_search_default,QUEUE:comment_search_default,NEWABTEST:112470,QUEUES:comment_search_default",
+        "downgrade_switch": false,
+        "has_more": false,
+        "show_local_review": false,
+        "browsing_ui": "",
+        "enable_buyer_gallery_media": true,
+        "size_info_abt": "",
+        "resize_image_abt": true,
+        "purchase_bar_abt": "bucket_a",
+        "signature": "",
+        "original_review_summary": {},
+        "fe_review_summary": {},
+        "similar_section_scenario": 0,
+        "variation_filters_data": {},
+        "hide_shop_rating": false,
+        "current_review_tab": 0,
+        "item_rating_count": 472,
+        "item_rating_star": 4.963983050847458,
+        "fe_component_toggles": {},
+        "search_bar_enough_organic_review": true,
+        "size_filter_count": 0,
+        "chatbot_track_id": "",
+        "chatbot_pass_through_data": "",
+        "is_show_product_ratings_section": true,
+        "is_show_similar_ratings_section": false
+    },
+    "error": 0
+}

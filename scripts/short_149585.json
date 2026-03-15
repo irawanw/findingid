@@ -1,0 +1,94 @@
+{
+  "title": "Speaker Murottal 32GB! Worth It Banget Bestie ✨",
+  "hook_text": "Stop scroll! Mau punya speaker murottal isi 30 juz?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up speaker berwarna ungu atau pink sedang memutar ayat Al-Quran dengan efek visual teks melayang.",
+      "narration": "Stop scroll! Mau punya speaker murottal isi 30 juz yang suaranya jernih banget dan isinya komplit?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke tampilan produk dari berbagai warna (Hitam, Abu, Black Gold) dengan teks overlay '30 Juz + Terjemahan'.",
+      "narration": "Intip deh ini, bestie! Ini speaker murottal Al-Quran At Taqwa yang isinya 30 juz lengkap plus terjemahan dan berbagai bacaan islami. Which is basically next level buat kamu yang suka dengerin ayat suci."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar dengan efek 'pop-up': 'Hanya 91-an Ribu!' sambil menunjukkan ikon uang.",
+      "narration": "Dan yang paling bikin kaget, harganya cuma 91-an ribu rupiah! Seratus delapan puluhan ribu doang ya, which is worth it banget kalau diliat isiannya yang super lengkap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen atau cepat ganti shot: 1. Ikon memori besar, 2. Ikon bluetooth, 3. Shot close-up casing bisa custom nama.",
+      "narration": "No cap, fiturnya juara! Pertama, kapasitas memori 32 GB, jadi kamu bisa nampung banyak konten tanpa pusing. Kedua, koneksinya Bluetooth, jadi bisa dengerin murottal tanpa kabel, super praktis. Terakhir, kamu bisa custom nama dan foto di casingnya, so cute!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage orang muda sedang beribadah atau belajar di kamar dengan tenang sambil memegang speaker.",
+      "narration": "Perfect buat kamu yang sering mau ngaji di kamar atau buat hadiah buat orang tersayang. Kalau aktivitas kamu suka dengerin ayat suci setiap hari, ini definitely the one!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.87 bintang dan angka '50.000+' terjual dengan latar belakang background yang cerah.",
+      "narration": "Bukti nyata ada, rating 4.87 dari 50.000 produk terjual. Yang udah beli bilang suaranya jernih banget dan pengemasannya aman, nggak penyot sama sekali."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul di layar dengan efek pointer mouse yang mengarah ke sana.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#SpeakerMurottal",
+    "#AlQuranAtTaqwa",
+    "#Isi30Juz",
+    "#HadiahIslami",
+    "#GenZMuslim",
+    "#FindingId",
+    "#ViralShorts",
+    "#SpeakerMurattal"
+  ],
+  "product_id": 149585,
+  "product_title": "SPEAKER MUROTTAL/ SPEKER MUROTAL AL QURAN At Taqwa 30 JUZ 32 GB BISA CUSTOM NAMA FOTO",
+  "product_price": "104000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/149585.jpg",
+    "/uploads/products/149585_1.jpg",
+    "/uploads/products/149585_2.jpg",
+    "/uploads/products/149585_3.jpg",
+    "/uploads/products/149585_4.jpg",
+    "/uploads/products/149585_5.jpg",
+    "/uploads/products/149585_6.jpg",
+    "/uploads/products/149585_7.jpg",
+    "/uploads/products/149585_8.jpg",
+    "/uploads/products/149585_9.jpg",
+    "/uploads/products/149585_10.jpg",
+    "/uploads/products/149585_11.jpg",
+    "/uploads/products/149585_12.jpg",
+    "/uploads/products/149585_13.jpg",
+    "/uploads/products/149585_14.jpg",
+    "/uploads/products/149585_15.jpg",
+    "/uploads/products/149585_16.jpg",
+    "/uploads/products/149585_17.jpg"
+  ],
+  "product_link": "https://finding.id/p/149585",
+  "generated_at": "2026-03-14T11:25:15.192Z"
+}

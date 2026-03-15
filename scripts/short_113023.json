@@ -1,0 +1,82 @@
+{
+  "title": "Gamis A-Line Best Seller! Worth It Banget Bestie",
+  "hook_text": "Abaya mahal vs ini? Stop scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up model memutar gamis dengan gaya cepat, transisi fade-to-black singkat",
+      "narration": "Abaya mahal ribuan atau gamis A-Line ini? Kamu bakal shock sama jawabannya bestie."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage shot detail bahan Tissany Twill jatuh dan model berpose santai di outdoor",
+      "narration": "Ini Gamis Maha terbaru, bahannya Tissany Twill yang halus, dingin di kulit, dan jatuhnya literally next level. Simple tapi bikin outfit kamu langsung naik level banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan harga range, diikuti shot produk di rak atau tumpukan rapi",
+      "narration": "Gila sih harganya cuma seratus satu puluhan sampai seratus empat puluhan ribu. Untuk kualitas premium dan desain yang kekinian, ini worth it banget nggak nyangka."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot split screen: 1. Model jalan lancar (leluasa), 2. Close up jahitan rapi di pundak, 3. Model melambaikan tangan (kecantikan)",
+      "narration": "Pertama, leluasa gerak karena potongan A-Line yang ke badan. Kedua, jahitan rapih banget nggak boros benang. Ketiga, tampilannya simple tapi kece, basic enough untuk harian atau event spesial."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot model memakai gamis saat jalan kaki di mall atau nongkrong dengan gaya kasual",
+      "narration": "Perfect buat kamu yang suka gaya modest tapi nggak mau kelihatan kaku. Kalau aktivitas kamu sering jalan-jalan atau mau tampil fresh setiap hari, ini jawabannya dong."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Overlay grafis rating bintang dan angka terjual dengan background buram toko online",
+      "narration": "Rating empat koma delapan tiga bintang dengan dua puluh ribu terjual. Pembelinya pada bilang bahannya nyaman dipakai seharian."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah mengarah ke bawah atau tombol beli",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, cek stok warnanya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id sekarang!",
+  "hashtags": [
+    "#AbayaLovers",
+    "#GamisMaha",
+    "#OOTDModest",
+    "#FashionIndonesia",
+    "#WorthIt",
+    "#StyleInspo",
+    "#MuslimahFashion",
+    "#FindingId"
+  ],
+  "product_id": 113023,
+  "product_title": "Gamis Maha | Gamis A Line | Dress | Abaya Turkey | Kaftan | Gamis terbaru Size S,M,L,XL Best Seller",
+  "product_price": "91536.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/113023.jpg",
+    "/uploads/products/113023_1.jpg",
+    "/uploads/products/113023_2.jpg",
+    "/uploads/products/113023_3.jpg",
+    "/uploads/products/113023_4.jpg",
+    "/uploads/products/113023_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/113023",
+  "generated_at": "2026-03-15T04:31:30.078Z"
+}

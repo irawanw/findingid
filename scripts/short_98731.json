@@ -1,0 +1,83 @@
+{
+  "title": "Rak Dapur Viral Murah Banget!",
+  "hook_text": "Dapur Berantakan? Ini Solusinya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah host yang shock melihat dapur berantakan, lalu transisi cepat ke rak produk.",
+      "narration": "Dapur berantakan bikin stress? Stop scroll dulu! --- Ini solusinya bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Host memegang rak HUGO, memutar rak menunjukkan roda dan tingkatannya.",
+      "narration": "Kenalin nih, HUGO Rak Dapur Besi Serbaguna. Desainnya simpel tapi literally next level buat ngatur barang biar rapi."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar '90rb-an' muncul di layar dengan efek kilau, host menunjuk harga.",
+      "narration": "Bayangin, dapet rak sekeren ini cuma sembilan puluh ribuan doang. Worth it banget, no cap! --- Nggak perlu keluar duit jutaan buat dapet kualitas gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Video close-up roda yang berputar, lalu host meletakkan barang berat di rak.",
+      "narration": "Rodanya bikin gampang digeser kemana-mana, kuat muat beban 20 kilo, dan perakitan literally gampang banget. --- Material besinya kokoh, nggak gampang kotor, dan awet dipakai lama buat harian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat: rak di kamar kos, rak di dapur kecil, rak di toko kecil.",
+      "narration": "Perfect buat kamu yang kosan sempit, ibu rumah tangga, atau punya usaha kecil di rumah. Hemat tempat banget dong, jadi rumah kelihatan rapi banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.82 dan jumlah terjual 40.000, lalu teks kutipan pembeli.",
+      "narration": "Udah laku 40 ribu produk! Ratingnya 4.82. Yang udah beli bilang, 'besi kokoh, warna hitam nggak cepet kotor, pas banget buat taro saos'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host menunjuk ke bawah atau layar menampilkan logo finding.id.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, ada review produk-nya di sana! Jangan sampai kehabisan."
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, ada review produk-nya di sana!",
+  "hashtags": [
+    "#RakDapur",
+    "#SolusiRumah",
+    "#MurahBanget",
+    "#RakBesi",
+    "#Viral",
+    "#FindingID",
+    "#GenZ",
+    "#RakSerbaguna"
+  ],
+  "product_id": 98731,
+  "product_title": "HUGO Rak Dapur Besi Serbaguna Rak Besi Penyimpanan Bertingkat Rak Kamar Mandi Rak Salon Rak Troli Susun Dorong Besi Stainless Steel dengan Roda",
+  "product_price": "95000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/98731.jpg",
+    "/uploads/products/98731_1.jpg",
+    "/uploads/products/98731_2.jpg",
+    "/uploads/products/98731_3.jpg",
+    "/uploads/products/98731_4.jpg",
+    "/uploads/products/98731_5.jpg",
+    "/uploads/products/98731_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/98731",
+  "generated_at": "2026-03-13T20:18:45.049Z"
+}

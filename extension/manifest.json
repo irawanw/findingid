@@ -1,0 +1,85 @@
+{
+  "manifest_version": 3,
+  "name": "finding.id Scraper Agent",
+  "version": "1.6.2",
+  "description": "Distributed marketplace scraper for finding.id AI Shopping Intelligence",
+  "permissions": [
+    "storage",
+    "alarms",
+    "tabs",
+    "scripting",
+    "cookies",
+    "proxy",
+    "webNavigation",
+    "declarativeNetRequest",
+    "declarativeNetRequestWithHostAccess"
+  ],
+  "host_permissions": [
+    "https://shopee.co.id/*",
+    "https://tokopedia.com/*",
+    "https://www.tokopedia.com/*",
+    "https://gql.tokopedia.com/*",
+    "https://rumah123.com/*",
+    "https://www.rumah123.com/*",
+    "https://olx.co.id/*",
+    "https://www.olx.co.id/*",
+    "https://finding.id/*",
+    "https://affiliate.shopee.co.id/*"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://finding.id/*"],
+      "js": ["content_findingid.js"],
+      "run_at": "document_start",
+      "all_frames": false
+    },
+    {
+      "matches": [
+        "https://shopee.co.id/*",
+        "https://www.tokopedia.com/*",
+        "https://www.rumah123.com/*",
+        "https://www.olx.co.id/*"
+      ],
+      "js": ["content_interceptor.js"],
+      "run_at": "document_start",
+      "world": "MAIN",
+      "all_frames": false
+    },
+    {
+      "matches": [
+        "https://shopee.co.id/*",
+        "https://www.tokopedia.com/*",
+        "https://www.rumah123.com/*",
+        "https://www.olx.co.id/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_start",
+      "all_frames": false
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["content_interceptor.js"],
+      "matches": [
+        "https://shopee.co.id/*",
+        "https://www.tokopedia.com/*",
+        "https://www.rumah123.com/*",
+        "https://www.olx.co.id/*"
+      ]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "finding.id Agent",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "16":  "icon.png",
+    "48":  "icon.png",
+    "128": "icon.png"
+  }
+}

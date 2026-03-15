@@ -1,0 +1,83 @@
+{
+  "title": "Pianika Murah Bestie! 🎹",
+  "hook_text": "Pianika 32 Key Cuma 80 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kaget dengan latar belakang produk pianika yang terang.",
+      "narration": "Sumpah bestie, kamu nggak bakal percaya harga ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing produk pianika secara cepat dengan transisi yang dinamis.",
+      "narration": "Ini dia Pianika Victoria 32 Key, asli dan lengkap banget, no cap!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek animasi uang.",
+      "narration": "Harganya cuma delapan puluhan ribu, udah termasuk tas dan selang. Worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo memainkan pianika dengan fokus pada tombol angka timbul.",
+      "narration": "Not angkanya timbul, jadi awet dan nggak gampang luntur. --- Badan pianikanya lebar, tiupannya jadi jauh lebih enteng dan nggak bikin capek. Kualitas bahan juga tebal banget, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Adegan siswa sekolah sedang belajar musik di kelas.",
+      "narration": "Perfect buat kamu yang lagi belajar di sekolah atau guru musik yang butuh budget efisien. Bahan tebal, kokoh, dan nggak gampang pecah. Jadi investasi banget buat latihan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4,84 dan jumlah penjualan 60 ribu.",
+      "narration": "Rating 4,84 bintang, udah terjual 60 ribu produk! --- Yang udah beli bilang 'Barang bagus, bahan tebel harga murah'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding dot id muncul dengan panah mengarah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek aja di finding dot id ya bestie, review produk-nya ada di sana, jangan sampai kehabisan!"
+    }
+  ],
+  "cta": "Cek aja di finding dot id ya bestie, review produk-nya ada di sana, jangan sampai kehabisan!",
+  "hashtags": [
+    "#pianikamurah",
+    "#alatmusikmurah",
+    "#belajarmusik",
+    "#generasiz",
+    "#viralproduct",
+    "#musiksantai",
+    "#murahmeriah",
+    "#findingid"
+  ],
+  "product_id": 84904,
+  "product_title": "Pianika VICTORIA TAS BAGUS 32 KEY ORIGINAL MURAH",
+  "product_price": "88000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/84904.jpg",
+    "/uploads/products/84904_1.jpg",
+    "/uploads/products/84904_2.jpg",
+    "/uploads/products/84904_3.jpg",
+    "/uploads/products/84904_4.jpg",
+    "/uploads/products/84904_5.jpg",
+    "/uploads/products/84904_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/84904",
+  "generated_at": "2026-03-13T20:42:58.002Z"
+}

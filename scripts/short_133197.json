@@ -1,0 +1,94 @@
+{
+  "title": "Treadmill Lipat Murah? Gemes Banget!",
+  "hook_text": "Treadmill rumah cuma 1 jutaan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up produk Sonix Treadmill dengan efek zoom cepat dan teks overlay besar",
+      "narration": "Treadmill rumah cuma 1 jutaan? Beneran sih bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Video unboxing atau showcase produk dari berbagai sudut dengan lighting cinematic",
+      "narration": "Kenalin nih Sonix Incline Treadmill STR01, solusinya buat fitness di rumah. Desainnya compact, gampang banget dipindahin."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga promo di layar dengan efek bintang atau sparkle",
+      "narration": "Harga termurah satu tujuh ratusan ribuan. Which is worth it banget buat dapet alat fitness lengkap dengan harga segitu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase fitur: pelipatan, remote control, dan panel digital saat dipakai",
+      "narration": "Fiturnya gila nih, bisa dilipat praktis jadi nggak nyempetin ruang. Suaranya ultra hening, tetangga nggak bakal ngelapor. Kapasitasnya sampe 120KG, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang pakai di kamar tidur kecil atau ruang tamu sempit",
+      "narration": "Perfect buat kamu yang tinggal di apartemen atau pemula fitness yang mau mulai gerak tanpa ribet."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.92 dan jumlah penjualan 50k dengan teks overlay",
+      "narration": "Rating 4.92, udah 50.000 terjual. Yang udah beli bilang, Lucu banget omg --- Gemes banget mak, aman banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol 'Cek di sini' animasi mengarah ke logo finding.id",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detailnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#sonix",
+    "#treadmill",
+    "#fitnessrumah",
+    "#alatfitness",
+    "#viral",
+    "#findingid",
+    "#genz",
+    "#workout"
+  ],
+  "product_id": 133197,
+  "product_title": "Sonix Incline Treadmill STR01 Running Mat Listrik Lipat Treadmill Elektrik Alat Fitness Walking Pad Small Foldable Ultra Quiet Indoor Home Fitness Equipment",
+  "product_price": "1699900.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/133197.jpg",
+    "/uploads/products/133197_1.jpg",
+    "/uploads/products/133197_2.jpg",
+    "/uploads/products/133197_3.jpg",
+    "/uploads/products/133197_4.jpg",
+    "/uploads/products/133197_5.jpg",
+    "/uploads/products/133197_6.jpg",
+    "/uploads/products/133197_7.jpg",
+    "/uploads/products/133197_8.jpg",
+    "/uploads/products/133197_9.jpg",
+    "/uploads/products/133197_10.jpg",
+    "/uploads/products/133197_11.jpg",
+    "/uploads/products/133197_12.jpg",
+    "/uploads/products/133197_13.jpg",
+    "/uploads/products/133197_14.jpg",
+    "/uploads/products/133197_15.jpg",
+    "/uploads/products/133197_16.jpg",
+    "/uploads/products/133197_17.jpg"
+  ],
+  "product_link": "https://finding.id/p/133197",
+  "generated_at": "2026-03-13T16:14:18.956Z"
+}

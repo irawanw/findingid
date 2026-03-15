@@ -1,0 +1,75 @@
+{
+  "title": "Postur Bungkuk? Solusinya Nih!",
+  "hook_text": "Tulang punggung kamu bungkuk?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah orang yang sedang bungkuk di depan laptop, lalu transisi cepat ke wajah tegap senyum.",
+      "narration": "Sering banget ngerasa punggung nyeri karena duduk bungkuk seharian? Gak usah dipikirin dulu, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan Dr Xie Posture Corrector dipakai dengan posisi pas di bahu, lalu zoom in detail bahannya yang elastis.",
+      "narration": "Kenalin nih, Alat Terapi Penegak Punggung Dr Xie, si penyelamat postur kamu yang literally next level dan worth it banget buat harian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan teks harga besar '180 ribuan' dengan efek kilau, disandingkan dengan ikon harga supermarket yang dicoret.",
+      "narration": "Dan tau gak? Kamu bisa dapetin gadget kesehatan ini cuma dengan harga seratus delapan puluhan ribu doang, which is super cheap for such quality!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo fitur: 1. Tangan tarik pita di belakang, 2. Perekat pinggul yang bisa disesuaikan, 3. Material yang tidak licin.",
+      "narration": "Fiturnya gila bestie, pertama desain ergonomis yang bener-bener bikin tulang belakang tegap secara alami. Kedua, materialnya nyaman dan nggak bikin keringetan meski dipake lama. Ketiga, perekat pinggulnya bisa diatur ukurannya buat pas banget di tubuh kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Orang muda duduk di meja kerja, lalu memakai alatnya sambil tetap mengetik dengan postur tegak.",
+      "narration": "Produk ini perfect banget buat kalian yang sering kerja di depan laptop atau sering banget scroll HP dengan posisi bungkuk. Kalau aktivitas kamu bikin punggung lemas, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan bintang rating 4.8 dan angka 20.000 terjual dengan animasi naik turun, lalu teks kutipan pembeli.",
+      "narration": "Udah 20.000 orang beli dan ratingnya 4.8, no cap! Yang udah beli bilang, katanya bagus buat meluruskan tulang punggung makanya mereka beli."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan layar HP yang membuka website finding.id dengan panah menunjuk ke tombol beli.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#PosturTubuh",
+    "#DrXie",
+    "#AlatTerapi",
+    "#GakBungkuk",
+    "#KesehatanPunggung",
+    "#HacksSehat",
+    "#ViralIndonesia",
+    "#FindingId"
+  ],
+  "product_id": 64891,
+  "product_title": "Alat Terapi Penegak Punggung Dr Xie / Penyangga Tulang Belakang",
+  "product_price": "189000.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/64891",
+  "generated_at": "2026-03-15T15:30:34.044Z"
+}

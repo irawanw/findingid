@@ -1,0 +1,78 @@
+{
+  "title": "Baterai ABC AA Box 24an Murah Banget!",
+  "hook_text": "Remote Kamu Mati Terus?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up remote yang mati tiba-tiba, ekspresi panik",
+      "narration": "Remote kamu mati terus gara-gara baterai abis? Gemes banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing box biru ABC, tumpukan baterai",
+      "narration": "Nih solusinya, Baterai ABC AA Zinc Box isi 24! Literally next level buat stok aman rumah tangga dan kantor."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar",
+      "narration": "Harganya? Cuma enam puluhan ribu doang buat 24 biji! Which is worth it banget buat budget kamu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Baterai masuk ke remote TV dan mainan anak",
+      "narration": "Kualitasnya ori, daya tahan stabil buat remote TV atau mainan anak. Ada yang bilang \"Fungsi sangat baik\" dan \"Durabilitas Ori\". --- Tapi buat alat berat, tetep butuh ganti rutin ya."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Suasana keluarga sedang bermain di rumah",
+      "narration": "Perfect buat yang sering ganti baterai remote atau mainan anak. Kalau aktivitas kamu butuh power konsisten, ini jawabannya. Gak perlu repot cari toko lagi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Badge rating 4.92 dan jumlah terjual 50k",
+      "narration": "Rating 4,92, udah terjual 50 ribu produk! Yang udah beli bilang \"Admin cepat kirim dan dibantu banget pemantau sampai selamat\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pointing ke arah kanan atas",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana! Jangan lupa cek sekarang."
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#BateraiABC",
+    "#ProdukMurah",
+    "#GenZIndonesia",
+    "#RekomendasiBarang",
+    "#ViralProduct",
+    "#GakPakeKawat",
+    "#HomeEssential",
+    "#FindingId"
+  ],
+  "product_id": 127836,
+  "product_title": "BATERAI ABC AA ZINC R6 Biru BOX ( ISI 24 ) PROMO !!!",
+  "product_price": "62299.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/127836.jpg",
+    "/uploads/products/127836_1.jpg"
+  ],
+  "product_link": "https://finding.id/p/127836",
+  "generated_at": "2026-03-13T22:04:15.631Z"
+}

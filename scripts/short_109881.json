@@ -1,0 +1,83 @@
+{
+  "title": "Mukena Silk Premium MALIKA, Mewah Banget!",
+  "hook_text": "Tau nggak sih mukena mewah bisa semurah ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up mukena dengan pencahayaan dramatis dan teks overlay besar",
+      "narration": "Tau nggak sih, mukena mewah bisa semurah ini? --- Nggak percaya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot pan mukena di atas meja putih dengan efek kilau silk",
+      "narration": "Kenalin, ini Mukena Silk Premium 2in1 MALIKA. --- Bukan mukena biasa bestie, ini silk premium!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan animasi confetti",
+      "narration": "Harganya cuma seratus dua puluh ribuan. --- Literally next level harga murah tapi kualitas hotel berbintang."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase detail bahan, model 2in1, dan motif printing",
+      "narration": "Pertama tekstur silk lembut banget, bukan yang kasar. --- Kedua model 2in1 praktis banget, super nyaman. Ketiga motif printing mewah. --- No cap, ini worth it!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang menggunakan mukena di masjid dengan senyum bahagia",
+      "narration": "Perfect banget buat kamu suka nuansa elegan budget friendly. --- Sering pergi ke masjid butuh yang nyaman dan tidak gerah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.75 dan screenshot teks ulasan pembeli",
+      "narration": "Yang udah beli bilang Worth it bahan nya lembut silk gitu suka banget aku pilih warna stone cakep. --- Rating 4.75 dari 30 ribu terjual."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan tombol panah",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#mukena",
+    "#mukenamewah",
+    "#storewulandari",
+    "#mukenasilk",
+    "#fashionmuslim",
+    "#hijab",
+    "#rekomendasimukena",
+    "#viral"
+  ],
+  "product_id": 109881,
+  "product_title": "store.wulandari | mukena silk premium 2in1 MALIKA mukena mewah mukena renda mukena terbaru mukena kekinian mukena luxury mukena motif mukena printing mukena jumbo  mukena mewah mukena premium mukena murah mukena nyaman",
+  "product_price": "124200.00",
+  "product_rating": "4.75",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/109881.jpg",
+    "/uploads/products/109881_1.jpg",
+    "/uploads/products/109881_2.jpg",
+    "/uploads/products/109881_3.jpg",
+    "/uploads/products/109881_4.jpg",
+    "/uploads/products/109881_5.jpg",
+    "/uploads/products/109881_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/109881",
+  "generated_at": "2026-03-13T18:52:10.443Z"
+}

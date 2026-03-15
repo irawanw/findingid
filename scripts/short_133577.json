@@ -1,0 +1,83 @@
+{
+  "title": "Celana Jeans Jumbo Murah Banget? 🔥",
+  "hook_text": "Ngga perlu permak lagi!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up celana ditarik elastisnya dengan ekspresi kaget.",
+      "narration": "Nggak perlu permak lagi? --- Sumpah bestie, ini celana jeans yang bikin kamu nggak perlu minder soal bahan ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model pake celana jalan santai di jalan kota.",
+      "narration": "Kenalin nih, AIRBLACK DENIM 784 Victory. --- Celana jeans pria slimfit yang lagi viral banget di kota."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga besar dengan efek sparkle.",
+      "narration": "Harganya cuma seratus ribuan saja buat kualitas next level, --- which is worth it banget no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail bahan, saku, dan stretch celana.",
+      "narration": "Bahan denim tebal elastis, nyaman buat riding motor. --- Desain slimfit modern, ukuran lengkap sampai XXL. --- Nggak perlu khawatir kekecilan buat kamu body frame besar. --- Jadi pas banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario naik motor dan nongkrong.",
+      "narration": "Cocok banget buat kamu yang sehari-hari naik motor. --- Kalau kamu suka gaya casual simpel tapi tetep kece, ini definisi banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating dan jumlah terjual.",
+      "narration": "Sudah laku 90.000 pasang dengan rating 4.76. --- Yang udah beli bilang, 'bahan nyaman, enak melar, bakal repeat order'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di layar.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#celanajeans",
+    "#jeanspria",
+    "#slimfit",
+    "#ootd",
+    "#viral",
+    "#murah",
+    "#fashion",
+    "#findingid"
+  ],
+  "product_id": 133577,
+  "product_title": "AIRBLACK DENIM TERLARIS / 784 VICTORY CELANA JEANS PRIA / CELANA JEANS JUMBO skinny semi slimfit cowo / cowok /",
+  "product_price": "114000.00",
+  "product_rating": "4.76",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/133577.jpg",
+    "/uploads/products/133577_1.jpg",
+    "/uploads/products/133577_2.jpg",
+    "/uploads/products/133577_3.jpg",
+    "/uploads/products/133577_4.jpg",
+    "/uploads/products/133577_5.jpg",
+    "/uploads/products/133577_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/133577",
+  "generated_at": "2026-03-13T19:17:55.348Z"
+}

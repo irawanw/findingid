@@ -1,0 +1,83 @@
+{
+  "title": "Biore Body Foam Pouch Hemat & Wangi!",
+  "hook_text": "Kulit Kenyal Cuma 139 Ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tekstur kulit halus dengan pencahayaan cinematic cerah",
+      "narration": "Kulit Kenyal Cuma Seratus Tiga Puluh Sembilan Ribuan? No Cap!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Biore Body Foam Rotasi 360 derajat dengan efek foam",
+      "narration": "Kenalin nih, Biore Body Foam Relaxing Aromatic Pouch 4 Pack, solusinya kulit glowing."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tumpukan 4 kemasan pouch dan overlay harga besar",
+      "narration": "Isinya 800 ml x 4, totalnya gila banget. --- Harganya seratus tiga puluh sembilan ribuan, which is worth it banget kalau dibandingin harga satuan di minimarket."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Orang mandi dengan busa melimpah, ekspresi rileks dan kulit bercahaya",
+      "narration": "Teknologi Skin Barrier Moist bikin hidrasi maksimal. Aroma Jasmine-nya literally calming, bikin rileks. Kulit jadi halus dan kenyal setelah dibilas. --- Dibuat PT KAO Indonesia jadi 100% aman."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang duduk santai setelah mandi di ruangan hangat",
+      "narration": "Perfect buat kamu yang suka aroma elegan tapi budget tetap aman. --- Kalau aktivitas kamu padat banget, butuh yang bikin mood naik."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Animasi bintang rating 4.95 dan bubble chat testimoni",
+      "narration": "Rating 4.95 dengan empat puluh ribu produk terjual. --- Yang sudah beli bilang 'wanginya enak dan seger pula, halus di kulit, suka'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah menunjuk ke bawah",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, ada review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#Biore",
+    "#BodyWash",
+    "#Skincare",
+    "#Hemat",
+    "#Viral",
+    "#GenZ",
+    "#Cantik",
+    "#Tips"
+  ],
+  "product_id": 108265,
+  "product_title": "Biore Body Foam Sabun Mandi Cair Relaxing Aromatic Pouch 800ml Fourpack",
+  "product_price": "139000.00",
+  "product_rating": "4.95",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/108265.jpg",
+    "/uploads/products/108265_1.jpg",
+    "/uploads/products/108265_2.jpg",
+    "/uploads/products/108265_3.jpg",
+    "/uploads/products/108265_4.jpg",
+    "/uploads/products/108265_5.jpg",
+    "/uploads/products/108265_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/108265",
+  "generated_at": "2026-03-13T18:24:30.367Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Ketiak Bulu Bikin Nggak Pede? Stop Scroll! | Brighty Swipe",
+  "hook_text": "Ketiak Bulu Bikin Nggak Pede? Stop Scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up shot wajah dengan ekspresi tidak pede melihat ketiak, lalu transisi cepat ke produk.",
+      "narration": "Ketiak bulu lebat bikin kamu nggak pede banget? Stop scroll sekarang juga, jangan sampe kelewatan!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product shot Brighty Swipe di atas meja estetik dengan pencahayaan soft, tangan memegang produk.",
+      "narration": "Kenalin nih Brighty Swipe Removal Cream, solusi perontok bulu ketiak permanen tanpa perlu cukur lagi, jadi lebih praktis."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga besar muncul di layar bersamaan dengan tangan menunjukkan produk.",
+      "narration": "Harganya cuma enam puluhan ribuan, which is worth it banget buat hasil kulit super smooth dan tahan lama."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo aplikasi krim di lengan atau close up tekstur krim yang lembut.",
+      "narration": "Teksturnya lembut banget, gampang diaplikasikan, dan ngefek cepet banget --- Ada rasa cekit-cekit dikit sih, tapi cuma sebentar doang kok, jadi nggak perlu khawatir buat kamu yang kulit sensitif."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video seseorang yang terlihat sibuk lalu tersenyum puas melihat ketiaknya mulus.",
+      "narration": "Jadi perfect buat kamu yang sering buru-buru atau mau kulit ketiak mulus tanpa rasa sakit berlebihan setiap hari, jadi lebih nyaman."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan counter jumlah terjual di layar.",
+      "narration": "Rating empat koma delapan empat, terjual empat puluh ribu produk --- Yang udah beli bilang, \"Beneran bisa!\""
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar 'FINDING DOT ID' muncul dengan panah mengarah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana, jangan nunggu lama!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana, jangan nunggu lama!",
+  "hashtags": [
+    "#ketiakmulus",
+    "#hairremoval",
+    "#skincare",
+    "#brighty",
+    "#produkviral",
+    "#tipscantik",
+    "#genz",
+    "#findingid"
+  ],
+  "product_id": 123316,
+  "product_title": "Brighty Swipe Removal Cream Waxing Ketiak Perontok Bulu Permanen Pencukur Bulu Sugar Wax Hair Removal Penghilang Bulu Ketiak Perontok Bulu Hair Removal Cream Perontok Bulu Ketiak Pencukur Bulu Ketiak Pencabut Bulu Ketiak Perontok Bulu Kemaluan",
+  "product_price": "65000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/123316.jpg",
+    "/uploads/products/123316_1.jpg",
+    "/uploads/products/123316_2.jpg",
+    "/uploads/products/123316_3.jpg",
+    "/uploads/products/123316_4.jpg",
+    "/uploads/products/123316_5.jpg",
+    "/uploads/products/123316_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/123316",
+  "generated_at": "2026-03-13T21:53:04.993Z"
+}

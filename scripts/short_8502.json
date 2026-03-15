@@ -1,0 +1,77 @@
+{
+  "title": "Setelan Rayon Viral Adem Banget!",
+  "hook_text": "Ademnya ngebut, harganya bikin melek!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wajah kaget saat memegang setelan kain rayon, lalu transisi cepat ke video orang berjalan santai di bawah panas matahari.",
+      "narr": "Gila sih, ada setelan viral yang ademnya literally next level banget, bestie! No cap, ini bakal jadi penyelamat kamu di cuaca panas."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Slow motion menampilkan tekstur kain rayon gilak yang berkilau dan jatuh dengan anggun di tubuh model, diikuti shot detail jahitan rapi.",
+      "narr": "Ini dia Setelan Viral Bahan Rayon Gilak yang lagi ngetren. Bahannya adem banget, teksturnya super lembut, dan desain motifnya yang menarik bikin kamu auto kelihatan elegan tanpa perlu effort berlebih."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek 'boom', diselingi animasi koin yang jatuh atau grafis uang yang bertambah.",
+      "narr": "Tebak harganya berapa? Hancur banget! Kamu bisa dapet setelan sekeren ini cuma dengan delapan puluh ribuan aja. Literally worth it banget dibanding kualitas yang kamu dapetin."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menunjukkan kain ditiup angin (adem), tengah menunjukkan tangan meraba kain (lembut), kanan menunjukkan variasi motif.",
+      "narr": "Fiturnya itu apa? Pertama, bahan rayon yang bikin badan nggak gerah alias sejuk parah. Kedua, teksturnya super lembut di kulit, nggak bikin iritasi. Ketiga, motifnya yang unik bikin kamu nggak perlu bingung mau mix and match apa karena ini udah jadi setelan lengkap yang kece."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: seseorang sedang bekerja di luar ruangan, lalu orang yang sama bersantai di kafe sambil minum kopi.",
+      "narr": "Produk ini perfect banget buat kamu yang sering aktivitas di luar ruangan atau buat yang suka gaya santai tapi tetap terlihat stylish. Kalau kamu sering kepanasan, ini solusi wajib punya di lemari kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan grafik rating 4.8 bintang yang berkilau, diikuti teks 'Terjual 20 Ribu' dan kutipan ulasan di layar.",
+      "narr": "Ratingnya 4.8 dari 5 bintang dengan dua puluh ribu produk terjual! Yang udah beli bilang, bakalan jadi langganan karena bahannya sejuk dan pengiriman cepet, plus kurirnya top markotop waktu hujan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Model tersenyum sambil menunjuk ke arah kamera, teks 'Cek di Finding ID' muncul besar dengan panah mengarah ke bawah.",
+      "narr": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#SetelanRayon",
+    "#FashionViral",
+    "#OOTDIndonesia",
+    "#RayonGilak",
+    "#PromoMurah",
+    "#OOTDKece",
+    "#RekomendasiFashion",
+    "#FindingID"
+  ],
+  "product_id": 8502,
+  "product_title": "SETELAN VIRAL BAHAN RAYON GILAK ADEM NYA.",
+  "product_price": "78000.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/8502.jpg"
+  ],
+  "product_link": "https://finding.id/p/8502",
+  "generated_at": "2026-03-15T16:14:08.794Z"
+}

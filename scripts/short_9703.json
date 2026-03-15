@@ -1,0 +1,83 @@
+{
+  "title": "Chino Slimfit Cowok Worth It Banget!",
+  "hook_text": "Chino cowok worth it gak?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "TPOW close-up model gaya jalanan sambil ngeliat kamera dengan ekspresi ragu lalu senyum.",
+      "narration": "Ada yang bilang emang boleh beli empat celana chino? Gila sih, pas banget sama gaya cowok modern sekarang."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat berbagai warna chino (hitam, krem, biru) dipakai di berbagai situasi: kafe, kampus, jalan-jalan.",
+      "narration": "Kenalan sama BOMBSTONE Chinos Slimfit Stretch nih bestie. Basically next level comfort karena bahan stretchnya bikin gerak bebas!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar dengan efek transisi keren menunjukkan harga, diikuti cuplikan tekstur kain yang rapi.",
+      "narration": "Duh, harganya cuma seratus tiga puluh ribuan doang! Which is worth it banget buat kualitas dan gaya yang kamu dapetin."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: model sedang berlari sedikit (stretch), model duduk santai di kursi (pas), dan model berpose di depan cermin (lewat).",
+      "narration": "Pertama, bahannya stretch jadi nggak kaku pas gerak. Kedua, potongan slimfitnya bikin kaki terlihat langsing dan proporsional. Ketiga, jahitan lewat-nya rapi banget, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario nyata: cowok lagi meeting santai di kantor, lalu langsung ganti suasana ke nongkrong sore hari dengan outfit yang sama.",
+      "narration": "Perfect buat yang aktivitasnya sering transisi dari kerja ke nongkrong. Kalau kamu suka gaya kasual tapi tetap rapi, ini must-have!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.78, angka 40.000 terjual, dan quote bubble muncul dengan efek pop-up.",
+      "narration": "Pembelinya pada ngomong produknya bagus, pas, dan pengiriman standarnya. Gak percaya? Cek sendiri rating empat koma tujuh delapan dari empat puluh ribu yang udah beli bilang."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol animasi 'Cek Sekarang' dan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#ChinoCowok",
+    "#FashionIndonesia",
+    "#OOTD",
+    "#StyleTips",
+    "#FindingId",
+    "#WorthIt",
+    "#Slimfit",
+    "#GenZFashion"
+  ],
+  "product_id": 9703,
+  "product_title": "Celana Chino Panjang Pria BOMBSTONE Chinos Slimfit Stretch Cowok",
+  "product_price": "105099.00",
+  "product_rating": "4.78",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/9703.jpg",
+    "/uploads/products/9703_1.jpg",
+    "/uploads/products/9703_2.jpg",
+    "/uploads/products/9703_3.jpg",
+    "/uploads/products/9703_4.jpg",
+    "/uploads/products/9703_5.jpg",
+    "/uploads/products/9703_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/9703",
+  "generated_at": "2026-03-14T04:27:21.336Z"
+}

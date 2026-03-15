@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Courier New', monospace;
+    background: #FFF8F3;
+    color: #1C1917;
+    width: 380px;
+    padding: 14px;
+    font-size: 11px;
+  }
+  .logo    { font-size: 17px; font-weight: 700; letter-spacing: -1px; }
+  .logo span { color: #F97316; }
+  .sub     { font-size: 9px; color: #A8A29E; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 10px; }
+
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 4px 12px; margin-bottom: 10px; }
+  .row  { display: flex; justify-content: space-between; align-items: center; padding: 3px 0; border-bottom: 1px solid #F0D5C0; }
+  .label{ color: #9CA3AF; font-size: 10px; }
+  .val  { font-weight: 700; font-size: 11px; }
+  .ok   { color: #10B981; }
+  .warn { color: #F97316; }
+  .err  { color: #DC2626; }
+  .poll { color: #3B82F6; }
+
+  .toggles { display: flex; flex-direction: column; gap: 2px; margin-bottom: 10px; }
+
+  .toggle-row {
+    display: flex; align-items: center; justify-content: space-between;
+    background: #FEF3E8; border: 1px solid #F0D5C0; border-radius: 6px;
+    padding: 6px 10px; transition: border-color .15s;
+  }
+  .toggle-row.active { border-color: #F97316; }
+
+  .toggle-info { display: flex; align-items: center; gap: 8px; }
+  .toggle-icon { font-size: 13px; }
+  .toggle-name { font-size: 10px; font-weight: 700; color: #292524; }
+  .toggle-desc { font-size: 9px; color: #A8A29E; }
+
+  .switch { position: relative; display: inline-block; width: 36px; height: 20px; flex-shrink: 0; }
+  .switch input { opacity: 0; width: 0; height: 0; }
+  .slider-sw {
+    position: absolute; cursor: pointer; inset: 0;
+    background: #D6D3D1; border-radius: 20px; transition: .2s;
+  }
+  .slider-sw:before {
+    content: ''; position: absolute;
+    height: 14px; width: 14px; left: 3px; bottom: 3px;
+    background: #fff; border-radius: 50%; transition: .2s;
+  }
+  input:checked + .slider-sw { background: #F97316; }
+  input:checked + .slider-sw:before { transform: translateX(16px); }
+
+  .clear-btn {
+    width: 100%; background: transparent; color: #78716C;
+    border: 1px solid #D6D3D1; border-radius: 5px;
+    padding: 5px 0; font-family: monospace; font-size: 10px;
+    cursor: pointer; margin-bottom: 8px;
+  }
+  .clear-btn:hover { background: #F5F5F4; }
+
+  .log-hdr {
+    display: flex; justify-content: space-between; align-items: center;
+    margin-bottom: 4px; color: #78716C; font-size: 9px;
+    text-transform: uppercase; letter-spacing: 1px;
+  }
+  .log-box {
+    background: #1C1917; border-radius: 5px;
+    padding: 7px 8px; height: 220px; overflow-y: auto;
+    font-size: 9.5px; line-height: 1.5; color: #D6D3D1;
+  }
+  .log-box .line { white-space: pre-wrap; word-break: break-all; }
+  .log-box .line.err  { color: #FCA5A5; }
+  .log-box .line.warn { color: #FCD34D; }
+  .log-box .line.page { color: #93C5FD; }
+  .log-box .line.prx  { color: #86EFAC; }
+</style>
+</head>
+<body>
+
+<div class="logo">finding<span>.</span>id</div>
+<div class="sub">Scraper Agent v1.5.0</div>
+
+<div class="grid">
+  <div class="row"><span class="label">Status</span><span class="val" id="status">…</span></div>
+  <div class="row"><span class="label">Ingested</span><span class="val" id="total">0</span></div>
+  <div class="row"><span class="label">Agent ID</span><span class="val" id="agentId">…</span></div>
+  <div class="row"><span class="label">Last job</span><span class="val" id="lastJob">-</span></div>
+</div>
+
+<div class="toggles">
+  <div class="toggle-row" id="rowScrape">
+    <div class="toggle-info">
+      <span class="toggle-icon">📋</span>
+      <div>
+        <div class="toggle-name">List Scrape</div>
+        <div class="toggle-desc">Priority search jobs (user queries)</div>
+      </div>
+    </div>
+    <label class="switch">
+      <input type="checkbox" id="toggleScrape">
+      <span class="slider-sw"></span>
+    </label>
+  </div>
+
+  <div class="toggle-row" id="rowEnrich">
+    <div class="toggle-info">
+      <span class="toggle-icon">🔍</span>
+      <div>
+        <div class="toggle-name">Enrichment</div>
+        <div class="toggle-desc">Product detail + price refresh</div>
+      </div>
+    </div>
+    <label class="switch">
+      <input type="checkbox" id="toggleEnrich">
+      <span class="slider-sw"></span>
+    </label>
+  </div>
+
+  <div class="toggle-row" id="rowAffiliate">
+    <div class="toggle-info">
+      <span class="toggle-icon">🔗</span>
+      <div>
+        <div class="toggle-name">Affiliate Links</div>
+        <div class="toggle-desc">3 per batch · 5s delay · main acct only</div>
+      </div>
+    </div>
+    <label class="switch">
+      <input type="checkbox" id="toggleAffiliate">
+      <span class="slider-sw"></span>
+    </label>
+  </div>
+</div>
+
+<button class="clear-btn" id="btnClear">✕ Clear Log</button>
+
+<div class="log-hdr">
+  <span>Live Log</span>
+  <span id="logCount">0 lines</span>
+</div>
+<div class="log-box" id="logBox"></div>
+
+<script src="popup.js"></script>
+</body>
+</html>

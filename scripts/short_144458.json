@@ -1,0 +1,91 @@
+{
+  "title": "Jaket Fleece Premium Murah Banget!",
+  "hook_text": "Jaket tebal cuma 40 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah host yang terkejut memegang jaket tebal, lalu transisi cepat ke tumpukan jaket di atas meja.",
+      "narration": "Gila sih bestie, bisa dapet jaket fleece tebal kualitas premium cuma di kisaran empat puluhan ribu doang? Literally no cap ini gila banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Host memakai jaket hitam, berputar perlahan menunjukkan potongan jaket yang pas di badan, lalu menyorot detail jahitan dan bahan denimnya.",
+      "narration": "Ini dia Shacket Jacket Fleece yang lagi viral banget. Bahan denimnya solid tapi di bagian dalam ada fleece yang super lembut dan hangat. Jadi cocok banget buat cuaca dingin di kota atau pagi-pagi yang masih sejuk."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks animasi besar muncul di layar menampilkan harga 'Rp 40.000-an' dengan efek kilat, lalu muncul teks 'Harga normal Rp 200.000-an' dengan coret merah.",
+      "narration": "Harga aslinya bisa sampai dua ratusan ribuan dong, tapi sekarang kita bisa dapet cuma empat puluh ribuan-an aja. Bayangin, kualitas kayak gini harganya cuma setara harga makan siang doang. Worth it banget lah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tangan mengelap bahan jaket (menunjukkan kelembutan), menutup resleting (menunjukkan kekuatan), dan memegang jaket yang digulung (menunjukkan fleksibilitas).",
+      "narration": "Fiturnya next level sih, pertama bahannya itu literally super tebal dan lembut banget di kulit. Kedua, desainnya bisa dipake buat cowok maupun cewek, jadi bisa couplean sama doi. Ketiga, ada banyak pilihan warna keren kayak hitam, abu muda, caramel, sampai merah maroon yang kece banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Host memakai jaket sambil memegang cangkir kopi di luar ruangan, lalu transisi ke adegan host memakai jaket saat hujan rintik-rintik.",
+      "narration": "Produk ini perfect buat kamu yang sering keluar malam atau lagi nyari jaket buat traveling. Kalau kamu punya berat badan tujuh puluh satu sampai tujuh puluh tiga kilo dengan tinggi seratus tujuh puluh, saran aku ambil ukuran L biar pas dan tidak terlalu ketat."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang lima animasi, teks '20.000+ Terjual', dan bubble chat dari pembeli dengan teks kutipan.",
+      "narration": "Sudah terjual lebih dari dua puluh ribu produk dengan rating empat koma delapan nol. Yang udah beli bilang, bahannya cukup tebal dan warnanya oke sesuai, tapi ada yang kecewa karena warna di barang beda jauh sama gambar di internet."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host tersenyum lebar menunjuk ke arah kamera, teks 'Cek di finding.id' muncul besar di layar.",
+      "narration": "Penasaran sama detail lengkapnya dan mau cek warna apa saja yang masih tersedia? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#ShacketJaket",
+    "#JaketMurah",
+    "#OotdPria",
+    "#OotdWanita",
+    "#ViralTokopedia",
+    "#FashionIndonesia",
+    "#PromoMurah",
+    "#GayaGenZ"
+  ],
+  "product_id": 144458,
+  "product_title": "Shacket Jacket Jaket Pria Fleece Tebal Man Jaket Pria Jaket Wanita Shacket Jacket Jaket Trucker Semi Parka Fleece Premium",
+  "product_price": "40139.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/144458.jpg",
+    "/uploads/products/144458_1.jpg",
+    "/uploads/products/144458_2.jpg",
+    "/uploads/products/144458_3.jpg",
+    "/uploads/products/144458_4.jpg",
+    "/uploads/products/144458_5.jpg",
+    "/uploads/products/144458_6.jpg",
+    "/uploads/products/144458_7.jpg",
+    "/uploads/products/144458_8.jpg",
+    "/uploads/products/144458_9.jpg",
+    "/uploads/products/144458_10.jpg",
+    "/uploads/products/144458_11.jpg",
+    "/uploads/products/144458_12.jpg",
+    "/uploads/products/144458_13.jpg",
+    "/uploads/products/144458_14.jpg"
+  ],
+  "product_link": "https://finding.id/p/144458",
+  "generated_at": "2026-03-15T14:54:36.044Z"
+}

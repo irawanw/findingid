@@ -1,0 +1,75 @@
+{
+  "title": "LANEIGE Spot Treatment Bikin Kulit Glowing",
+  "hook_text": "Masih Ada Noda Hitam?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah dengan noda hitam yang terlihat jelas di bawah pencahayaan natural.",
+      "narration": "Masih punya noda hitam di muka yang susah hilang?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Laneige di atas meja dengan pencahayaan cinematic dan efek cahaya memantul.",
+      "narration": "Kenalin Laneige Radian-C Vitamin Spot Ampoule 10 gram. Ini spot treatment literally next level."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga muncul di layar dengan tanda seru merah dan tangan menunjuk ke angka.",
+      "narration": "Harganya pricey, sekitar empat ratus empat puluhan ribu. But which is worth it banget karena hasilnya gila!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up tekstur ampoule diteteskan di tangan, lalu dioleskan ke pipi dengan ekspresi nyaman.",
+      "narration": "Teksturnya light banget, nggak lengket. Performanya 11 dari 10 buat ngejernihin kulit kusam. --- Eh tapi hati-hati, ada yang bilang agak gatel kalau kulit sensitive. Tes dulu di belakang telinga ya bestie!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video transisi orang yang sedang beraktivitas di luar ruangan dengan kulit glowing.",
+      "narration": "Perfect buat kamu yang sering kena matahari atau punya noda bekas jerawat. All skin type aman kok."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan jumlah pembelian 20 ribu dengan animasi cepat.",
+      "narration": "Sudah terjual 20 ribu produk dengan rating 4,91. Yang udah beli bilang, 'Sebagus itu sih memang kalau laneige gak usah diragukan lagi, sebanding dengan harganya.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan panah menunjuk ke arah tombol.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Skincare",
+    "#Laneige",
+    "#VitaminC",
+    "#KulitGlowing",
+    "#DarkSpotCare",
+    "#RekomendasiSkincare",
+    "#BeautyTips",
+    "#GenZ"
+  ],
+  "product_id": 65669,
+  "product_title": "LANEIGE Radian-C Vitamin Spot Ampoule 10g - Dark Spot Care, Mengatasi Hiperpigmentasi, Brightening Skincare Spot Treatment",
+  "product_price": "442500.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/65669",
+  "generated_at": "2026-03-13T18:11:54.200Z"
+}

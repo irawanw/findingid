@@ -1,0 +1,85 @@
+{
+  "title": "Koko Anak Harga Kaki Lima?!",
+  "hook_text": "Koko Anak Harga Kaki Lima?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah anak laki-laki berkedip lucu sambil memegang baju koko, background blur warna cerah.",
+      "narration": "Koko Anak Harga Kaki Lima?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk ZNY Falcon Setelan digantung rapi, lalu zoom in ke tekstur bahan vito signatur.",
+      "narration": "Kenalin, ZNY Falcon Setelan ini bestie. Bahannya vito signatur yang literally adem banget, nggak bikin gerah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek koin jatuh atau animasi uang, background produk.",
+      "narration": "Harganya? Cuma lima puluhan ribu aja. Which is worth it banget buat kualitas sekelas ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage detail jahitan rapi, motif batik, dan variasi warna navy, hitam, putih, army.",
+      "narration": "Motif batiknya elegan dan timeless, jahitan rapi no cap. Ada ukuran lengkap dari nomor 9 sampai 17 buat usia 1 sampai 13 tahun. --- Bahan lembut sejuk, pastinya nyaman buat aktivitas si kecil."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Anak sedang beraktifitas atau belajar mengaji, lalu shot close-up pinggang celana yang longgar.",
+      "narration": "Perfect buat yang butuh baju harian atau buat acara mengaji. Tapi inget ya, kalau pinggang anak besar, pilih ukuran lebih besar biar muat nyaman."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tombol rating bintang 4.8 besar, angka 50.000 terjual muncul dengan animasi counter.",
+      "narration": "Ratingnya 4.8 dari 50.000 produk terjual. Yang udah beli bilang: \"Alhamdulillah bagus sesuai jahitan nya rapih\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar hitam dengan teks finding dot id berwarna putih dan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#BajuKokoAnak",
+    "#OlehOlehAnak",
+    "#MuslimKid",
+    "#RekomendasiAnak",
+    "#PromoMurah",
+    "#BajuAnakLaki",
+    "#FindingID",
+    "#ViralShopee"
+  ],
+  "product_id": 114291,
+  "product_title": "ZNY Baju Koko Anak Laki Laki Setelan falcon Lengan Panjang",
+  "product_price": "43699.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/114291.jpg",
+    "/uploads/products/114291_1.jpg",
+    "/uploads/products/114291_2.jpg",
+    "/uploads/products/114291_3.jpg",
+    "/uploads/products/114291_4.jpg",
+    "/uploads/products/114291_5.jpg",
+    "/uploads/products/114291_6.jpg",
+    "/uploads/products/114291_7.jpg",
+    "/uploads/products/114291_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/114291",
+  "generated_at": "2026-03-13T23:03:46.145Z"
+}

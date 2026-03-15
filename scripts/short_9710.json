@@ -1,0 +1,85 @@
+{
+  "title": "Jeans Jumbo Murah Bikin Ootd Next Level!",
+  "hook_text": "Pria Big Size susah cari jeans pas?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up fabric stretch denim dengan teks overlay besar",
+      "narration": "Pria Big Size susah cari jeans yang pas? --- Nih solusinya! Celana jeans slimfit melar premium yang lagi viral banget."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model pria berpose santai pakai jeans full body",
+      "narration": "Celana jeans slimfit melar premium yang lagi viral banget. Bahan nya yang nyaman dan lentur banget cocok buat harian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan animasi kaget",
+      "narration": "Harga aslinya bisa tembus seratus lima puluhan ribu, tapi sekarang cuma seratus puluhan ribu doang! Which is super worth it."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase close-up jahitan kuat, stretch bahan, dan variasi warna",
+      "narration": "Fiturnya next level, bestie. Bahan denim stretch yang lentur banget, jadi nyaman buat duduk atau jongkok. Ada ukuran jumbo sampai nomor empat dua, yang jarang banget ada di toko lain. Warna juga awet, gak mudah pudar."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model jongkok nyaman di outdoor sambil senyum",
+      "narration": "Cocok banget buat kamu yang suka gaya street style atau kerja outdoor. Tapi inget, beberapa pembeli bilang ukurannya agak kebesaran, jadi mending pilih ukuran sesuai tabel ya biar nggak kegedean."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Animasi bintang rating 4.8 dan counter penjualan 50k",
+      "narration": "Ratingnya 4,8 bintang dengan 50 ribu produk terjual. Yang udah beli bilang 'Bahan stretch jadi makin enak buat gerak'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah layar atau link area",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya!",
+  "hashtags": [
+    "#jeanspria",
+    "#ootdterbaru",
+    "#fashionpria",
+    "#bigsize",
+    "#celanajem",
+    "#promoshopee",
+    "#streetstyle",
+    "#findingid"
+  ],
+  "product_id": 9710,
+  "product_title": "Celana Panjang Jeans Pria Ukuran Jumbo / Bige Size Melar Jeans Slimfit 27 sampai 42",
+  "product_price": "130000.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/9710.jpg",
+    "/uploads/products/9710_1.jpg",
+    "/uploads/products/9710_2.jpg",
+    "/uploads/products/9710_3.jpg",
+    "/uploads/products/9710_4.jpg",
+    "/uploads/products/9710_5.jpg",
+    "/uploads/products/9710_6.jpg",
+    "/uploads/products/9710_7.jpg",
+    "/uploads/products/9710_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/9710",
+  "generated_at": "2026-03-13T18:38:26.674Z"
+}

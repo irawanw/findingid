@@ -1,0 +1,82 @@
+{
+  "title": "Sunscreen Gel Murah Anti White Cast",
+  "hook_text": "nggak Mau Wajah Putih Kayak Hantu",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah dengan tekstur sunscreen dioleskan, cut cepat ke wajah glowing.",
+      "narration": "nggak mau muka putih kayak hantu pas pakai sunscreen?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Trueve dipegang, shot tekstur gel di punggung tangan.",
+      "narration": "Kenalin Trueve Cerashield Hydro Gel --- ini sih juara banget buat yang anti white cast."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Kartu harga muncul, transisi cepat ke tumpukan produk.",
+      "narration": "Harganya? Cuma delapan puluhan ribu aja buat volume 30ml yang worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Animasi UV blocking, shot pemakaian wajah, close up botol.",
+      "narration": "Teksturnya gel, nge-set cepet nggak lengket sama sekali. Ada Tinosorb M protection plus blue light guard buat kita yang sering main HP seharian. --- Yang paling ngefek, ada Ceraboost buat ngerem skin barrier."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita dengan kulit kering/kombinasi tersenyum, shot patch test di lengan.",
+      "narration": "Bestie, ini pas banget buat kulit kering atau kombinasi. --- Tapi buat yang kulitnya sensitif, wajib tes dulu ya biar aman. Jangan langsung pakai full face."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 5, angka 20k, screenshot chat pembeli.",
+      "narration": "Ratingnya 4,92 dari dua puluh ribu pembeli. --- Yang udah beli bilang, 'kemasan imut, cepet menyerap'. Banyak yang suka banget sama hasilnya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id, pointer mengarah ke link.",
+      "narration": "Mau cek review lengkapnya? --- Cek di finding dot id ya bestie!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#TrueveCerashield",
+    "#SunscreenMurah",
+    "#SkincareWajah",
+    "#AntiWhiteCast",
+    "#GenZSkincare",
+    "#ReviewSkincare",
+    "#Ceramid",
+    "#FindingId"
+  ],
+  "product_id": 74558,
+  "product_title": "TRUEVE Cerashield Hydro Gel Sunscreen - Sunscreen Gel Ringan Tanpa White Cast Oily Dry - SPF 50 PA+++ (Ceraboost, Tinosorb, Pro Renew Complex) Aqua Light Daily Sunscreen Cerah Glowing Hydrating Hydro Soothe",
+  "product_price": "85000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/74558.jpg",
+    "/uploads/products/74558_1.jpg",
+    "/uploads/products/74558_2.jpg",
+    "/uploads/products/74558_3.jpg",
+    "/uploads/products/74558_4.jpg",
+    "/uploads/products/74558_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/74558",
+  "generated_at": "2026-03-13T20:47:38.658Z"
+}

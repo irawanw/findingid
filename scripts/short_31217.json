@@ -1,0 +1,83 @@
+{
+  "title": "Sepatu Mary Jane Lokal Lucu Banget! Mouri",
+  "hook_text": "Stop scroll! Sepatu ini worth it banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up kaki model memakai sepatu Mouri Mary Jane dengan gerakan cepat dan musik upbeat.",
+      "narration": "Stop scroll dulu dong bestie! Kamu nggak bisa lewatin sepatu Mouri ini."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan berbagai warna sepatu (Black, Maroon, Krem, Navy) dengan teks overlay 'Produk Lokal'.",
+      "narration": "Yap! Kenalin Mouri, produk lokal terbaru yang bikin kamu bangga banget. Flatshoes model Mary Jane ini simpel, super comfy, dan literally so cute!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga besar di layar dengan efek animasi 'BANGKIT' atau 'CHEAP', lalu muncul stiker 'Terjual 20.000+'.",
+      "narration": "Nggak perlu ngiler dulu, harganya cuma di seratus-an ribu! Mulai dari seratus delapan puluhan ribu. Ini basically next level murah meriah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage: 1. Jari-jari kaki di dalam sepatu (wide fit), 2. Sentuhan bahan sintetis, 3. Model ujung bulat.",
+      "narration": "Gue kasih tauin 3 fitur utamanya ya. Pertama, bahannya sintetis yang lembut banget di kaki. Kedua, desain ujung bulat yang super cute buat nambah charm outfit kamu. Ketiga, model flat tanpa hak yang bikin kamu bisa jalan jauh seharian nggak capek."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene model jalan santai di mall atau kafe sambil minum kopi, terlihat senang dan percaya diri.",
+      "narration": "Perfect buat kamu yang sering nginek-nginekin atau buat gaya sehari-hari yang casual tapi tetap on point. Kalau aktivitas kamu banyak jalan kaki, sepatu ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.82 dan angka 20.000 terjual, dengan teks quote muncul di bawah.",
+      "narration": "Pembelinya pada ngomong 'aku suka banget sama sepatu nyaa mana harga murah lagi'. Rating 4.82 dari dua puluh ribu terjual!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul besar dengan panah menunjuk ke bawah atau tombol 'Cek Sekarang'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#SepatuLokal",
+    "#MouriShoes",
+    "#FashionGenZ",
+    "#SepatuMaryJane",
+    "#WanitaIndonesia",
+    "#OutfitHarapan",
+    "#CheapWear",
+    "#StyleInspo"
+  ],
+  "product_id": 31217,
+  "product_title": "Fsb - Mouri Sepatu Mary Jane Flat Wanita",
+  "product_price": "74399.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/31217.jpg",
+    "/uploads/products/31217_1.jpg",
+    "/uploads/products/31217_2.jpg",
+    "/uploads/products/31217_3.jpg",
+    "/uploads/products/31217_4.jpg",
+    "/uploads/products/31217_5.jpg",
+    "/uploads/products/31217_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/31217",
+  "generated_at": "2026-03-15T06:16:23.842Z"
+}

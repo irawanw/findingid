@@ -1,0 +1,92 @@
+{
+  "title": "Serum Spray Ini Bikin Glow Instan! ✨",
+  "hook_text": "STOP! Kulitmu bakal glowing!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah terlihat kusam lalu transisi kilat ke wajah glowing dengan efek sparkles saat disemprot.",
+      "narration": "Stop scrolling! Kamu pengen kulit glowing tapi nggak mau ribet pakai banyak skincare, dong?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Skintific Instant Glowing First Serum Spray di tangan, disemprot ke udara, dan ditunjukkan teksturnya.",
+      "narration": "Perkenalkan bestie, Skintific Instant Glowing First Serum Spray! Ini radiance booster essence yang multifungsi banget, literally so cute!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga muncul dengan efek pop-up, lalu ditunjukkan botol 100ml yang besar.",
+      "narration": "Kamu kira ini mahal? No cap! Cuma sekitar tujuh puluhan ribu rupiah aja buat ukuran seratus satu ratus! Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: botol disemprot sebagai primer, disentuh wajah sebagai serum, dan dipakai menutup makeup sebagai setting spray.",
+      "narration": "Pertama, ini biphase serum dan oil jadi bisa jadi serum, primer, dan setting spray sekaligus. Kedua, isinya Bifida Filtrate, Lactobacillus Ferment, Ectoin, dan Cen untuk hidrasi dalam. Ketiga, teksturnya ringan dan nggak bikin berminyak, basically next level hydrating!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Klip orang sibuk kerja, makeup di bawah mata mulai pudar, lalu disemprotkan produk ini dan makeup kembali segar.",
+      "narration": "Perfect buat yang sering makeup seharian atau kulit kering kusam. Kalau aktivitas kamu padat banget, ini penyelamat wajah kamu biar nggak gampang rontok!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.92 bintang dan angka 100.000 terjual, lalu muncul quote dari pembeli.",
+      "narration": "Sudah seratus satu ratus ribuan terjual dengan rating empat koma sembilan dua! Yang udah beli bilang baunya seger kayak parfum favorit!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol search besar muncul di layar dengan tulisan 'finding dot id' dan produk di latar belakang.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#Skintific",
+    "#GlowUp",
+    "#SkincareIndo",
+    "#SerumSpray",
+    "#MakeupHacks",
+    "#GenZSkincare",
+    "#HacksKulit",
+    "#FindingId"
+  ],
+  "product_id": 100544,
+  "product_title": "SKINTIFlC - Instant Glowing First Serum Spray 100ml | Radiance Booster Essence wajah Toner Centella Kulit Lebih Halus Lembab Dalam Multifungsi Skincare Pendukung Make Up  Setting spray serum glow bomb pemutih wajah| facial skintific official store",
+  "product_price": "79000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100544.jpg",
+    "/uploads/products/100544_1.jpg",
+    "/uploads/products/100544_2.jpg",
+    "/uploads/products/100544_3.jpg",
+    "/uploads/products/100544_4.jpg",
+    "/uploads/products/100544_5.jpg",
+    "/uploads/products/100544_6.jpg",
+    "/uploads/products/100544_7.jpg",
+    "/uploads/products/100544_8.jpg",
+    "/uploads/products/100544_9.jpg",
+    "/uploads/products/100544_10.jpg",
+    "/uploads/products/100544_11.jpg",
+    "/uploads/products/100544_12.jpg",
+    "/uploads/products/100544_13.jpg",
+    "/uploads/products/100544_14.jpg",
+    "/uploads/products/100544_15.jpg"
+  ],
+  "product_link": "https://finding.id/p/100544",
+  "generated_at": "2026-03-14T03:55:13.380Z"
+}

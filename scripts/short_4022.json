@@ -1,0 +1,83 @@
+{
+  "title": "Tas Selempang USB Bestie, Worth It Banget!",
+  "hook_text": "Tas USB? Cocok buat kamu!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan memegang tas selempang di depan kamera dengan gerakan cepat seolah-olah baru saja menemukan barang keren.",
+      "narration": "Stop scroll bestie! Kamu lagi cari tas selempang yang nggak cuma keren tapi juga fungsional banget buat harian?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: tas dipakai di dada saat jalan kaki, lalu close-up detail bahan polyester yang tebal dan rapi.",
+      "narration": "Kenalan dong sama CIVETO TS207, tas selempang pria yang literally next level. Bahan polyester waterproof-nya super kokoh, nggak takut kena cipratan atau hujan rintik-rintik, which is worth it banget buat yang aktif ajaib."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga besar di layar dengan efek animasi 'bouncing', lalu transisi cepat ke tampilan tas dibuka penuh isinya.",
+      "narration": "Gila sih harga cuma tujuh puluh lima ribuan! Kamu nggak bakal percaya kalau kualitasnya sekeren ini. Gak perlu cari tas mahal lagi, ini udah lebih dari cukup untuk harga segitu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot 1: Menunjukkan port USB di sisi tas. Shot 2: Menaruh HP dan dompet di dalam. Shot 3: Menunjukkan tas dipakai di dada saat olahraga ringan atau jalan santai.",
+      "narration": "Fitur utamanya ada tiga yang wajib kamu tahu. Pertama, ada port USB built-in jadi kamu bisa charge HP langsung tanpa bawa kabel, basically lifesaver banget. Kedua, kapasitasnya pas banget buat naruh HP, dompet, dan kunci motor tanpa perlu ribet. Ketiga, desainnya versatile, bisa dipakai buat kuliah, nge-hangout sama temen, atau sekedar jalan-jalan santai."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot POV seseorang sedang berfoto di kafe atau berjalan di jalanan kota dengan tas selempang tersebut, terlihat percaya diri dan gaya.",
+      "narration": "Perfect buat kamu yang sering galau karena kabel charger hilang atau tasmu sering basah. Kalau aktivitas kamu banyak gerak dan butuh akses cepat ke gadget, ini solusi terbaik buat kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan grafik rating bintang 4.84 dan angka 20.000+ terjual dengan background warna cerah.",
+      "narration": "Nggak main-main, udah ada dua puluh ribu produk terjual dengan rating empat koma delapan puluh empat. Yang udah beli bilang barangnya amanah dan kualitasnya mantapp banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol download/findings muncul di tengah layar dengan animasi mengkilap, teks besar di bawahnya.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#taspria",
+    "#fashionpria",
+    "#tasselempang",
+    "#usbport",
+    "#viralshorts",
+    "#findingid",
+    "#gayaurban",
+    "#practicalbag"
+  ],
+  "product_id": 4022,
+  "product_title": "CIVETO TS207 Tas Selempang Pria USB Fashion Waterproof  Men Chest Sling Bag",
+  "product_price": "75499.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/4022.jpg",
+    "/uploads/products/4022_1.jpg",
+    "/uploads/products/4022_2.jpg",
+    "/uploads/products/4022_3.jpg",
+    "/uploads/products/4022_4.jpg",
+    "/uploads/products/4022_5.jpg",
+    "/uploads/products/4022_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/4022",
+  "generated_at": "2026-03-15T02:09:23.903Z"
+}

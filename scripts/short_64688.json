@@ -1,0 +1,75 @@
+{
+  "title": "Propolis HePro? Ini Gila Bestie!",
+  "hook_text": "Stop! Jangan beli sebelum liat ini",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kaget memegang botol propolis dengan ekspresi 'wait, what?' di background toko herbal yang ramai.",
+      "narration": "Ada yang bilang 'Emang boleh beli empat botol sekaligus?' Ada yang bilang 'Ketiak jadi kering!' Tenang bestie, ini bukan drama, ini fakta banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk PROPOLIS HEPRO berdenyut dengan efek cahaya emas, transisi cepat ke tumpukan kotak produk di meja.",
+      "narration": "Ini PROPOLIS HEPRO, teman setia buat jaga daya tahan tubuh kamu dari segala serangan. Cocok banget buat anak-anak maupun dewasa, literally next level proteksinya."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar memudar lalu muncul harga asli dengan efek 'pop', followed by counter hitungan cepat angka terjual.",
+      "narration": "Dijual seharga seratus sembilan puluh ribuan aja, padahal kualitasnya udah teruji tiga puluh ribu produk terjual! Which is worth it banget kalau dipikirin."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Anak minum suplemen tersenyum, 2. Orang tua olahraga lari, 3. Label kemasan menunjukkan bahan herbal asli.",
+      "narration": "Pertama, keaslian bahan herbalnya terjamin, nggak pake bahan kimia aneh-aneh. Kedua, efektivitasnya nyata banget menjaga imun tetap solid. Ketiga, aman dikonsumsi jangka panjang, jadi kamu bisa rutin minum tanpa khawatir efek samping."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario split screen: kiri anak sekolah masuk kelas, kanan pekerja kantoran lagi meeting stres, kanan bawah ibu rumah tangga memasak.",
+      "narration": "Perfect buat yang sering stres di kantor atau anak-anak yang sering sakit. Kalau aktivitas kamu padat dan butuh tubuh yang kuat, ini solusinya nggak perlu diragukan lagi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar penuh rating 4.85 bintang emas, lalu muncul bubble chat dengan tulisan tangan: 'Barang sesuai pesanan'.",
+      "narration": "Rating empat koma delapan lima bintang, dan pembelinya pada ngomong barangnya sesuai pesanan dengan packing yang aman. No cap, ini terpercaya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah besar menunjuk ke bawah, teks 'finding dot id' muncul dengan efek konfeti warna-warni.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#PropolisHePro",
+    "#DayaTahanTubuh",
+    "#SehatSelalu",
+    "#HerbalBestie",
+    "#KesehatanKeluarga",
+    "#ViralShorts",
+    "#FindingId",
+    "#TipsSehat"
+  ],
+  "product_id": 64688,
+  "product_title": "PROPOLIS HEPRO - Perlindungan Herbal Untuk Tubuh Tetap Sehat",
+  "product_price": "190000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/64688",
+  "generated_at": "2026-03-14T04:28:17.113Z"
+}

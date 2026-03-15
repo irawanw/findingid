@@ -1,0 +1,83 @@
+{
+  "title": "Sepatu Pink Biru Ini Bikin Kaki Cantik Bestie! 👟✨",
+  "hook_text": "Stop! Sepatu ini mustahil",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up sepatu PVN Sporty Fun Collection berputar cepat di depan kamera dengan efek zoom in mendadak",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?' Ada yang bilang 'Ketiak jadi kering!' Tenang bestie, oles tipis saja ya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase model memakai sepatu saat jalan santai di jalan setapak dan cafe dengan ekspresi bahagia",
+      "narration": "Kenalan yuk sama PVN Sporty Fun Collection ini, desainnya literally so cute dengan warna pink biru abu putih yang super fresh banget. Which is basically next level buat outfit kamu hari ini."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga muncul di layar dengan efek confetti, lalu transisi ke tumpukan barang lainnya",
+      "narration": "Bayangin deh dapet sepatu kayak gini cuma seharga seratus delapan puluhan ribu. No cap, ini worth it banget sih sama harga yang ditawarkan, nggak percaya?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan sol empuk saat ditekan jari, kanan tunjukkan bahan kain yang menyerap air, bawah tunjukkan model lari sedikit",
+      "narration": "Pertama, solnya empuk banget jadi kaki nggak bakal sakit seharian. Kedua, bahannya adem dan nggak licin saat turun hujan. Ketiga, desainnya simple tapi nggak norak, tetap classy sesuai gambar."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Koleksi outfit berbeda: casual ke kampus, pergi ke mall, dan nongkrong di cafe",
+      "narration": "Perfect buat yang suka gaya sporty tapi tetap feminin. Kalau aktivitas kamu sering lari-lari atau cuma jalan santai, sepatu ini wajib banget masuk collection kamu bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up grafis besar menampilkan angka 4.86 bintang dan tulisan '20.000+ Terjual' dengan latar belakang bintang",
+      "narration": "Pembelinya pada ngomong 'Pokoknya mah topppp la' dan ratingnya sudah mencapai empat koma delapan enam dari lima."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar menampilkan tulisan besar 'Cek di finding dot id' dengan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#SepatuWanita",
+    "#FashionGenZ",
+    "#PVNSneakers",
+    "#StyleIndonesia",
+    "#OOTD",
+    "#ShoppingViral",
+    "#Kekinian",
+    "#MustHave"
+  ],
+  "product_id": 89820,
+  "product_title": "PVN Sporty Fun Collection Sneakers Sepatu Wanita Pink Biru Abu Putih",
+  "product_price": "175499.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/89820.jpg",
+    "/uploads/products/89820_1.jpg",
+    "/uploads/products/89820_2.jpg",
+    "/uploads/products/89820_3.jpg",
+    "/uploads/products/89820_4.jpg",
+    "/uploads/products/89820_5.jpg",
+    "/uploads/products/89820_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/89820",
+  "generated_at": "2026-03-14T14:12:35.647Z"
+}

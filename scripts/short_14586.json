@@ -1,0 +1,96 @@
+{
+  "title": "Karpet Jumbo 210cm Anti-Slip Murah Banget! 💸",
+  "hook_text": "STOP! Karpet jumbo murah banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat zoom-in ke karpet di ruang tamu luas dengan teks overlay besar 'STOP SCROLL NOW'",
+      "narration": "Eh, stop dulu bestie! Nggak percaya kalau karpet jumbo segede ini harganya bisa super murah banget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat berbagai warna karpet (Krem, Coklat, Glossy) terpasang rapi di lantai ruang tamu modern",
+      "narration": "Ini SUPERMAT Karpet Lantai Eropa, bahan sintetis polyester yang nggak main-main. Motif geometrisnya estetik banget, which is literally next level buat hiasan rumah!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar sambil tunjuk produk, transisi cepat ke gambar tagihan bulanan",
+      "narration": "Gila sih, ukurannya dua ratus sepuluh kali seratus enam puluh sentimeter, tapi harganya cuma empat ratus lima puluh ribuan sampe enam ratus sembilan puluhan ribu! Worth it banget nggak sih?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close-up tekstur karpet, lalu demonstrasi karpet ditaruh di lantai licin dan tidak bergeser, lalu demo cucian mesin",
+      "narration": "Fiturnya nggak perlu ribet, bestie. Pertama, anti-slip jadi aman banget nggak bakal licin pas kita jalan. Kedua, bahannya tebal dan empuk, nggak kayak karpet tipis biasa yang bikin kaki sakit. Ketiga, mudah dibersihkan, bisa dicuci mesin atau hand wash, which is super convenient buat kamu yang sibuk!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video orang muda beraktivitas santai: minum kopi, baca buku, atau main game di atas karpet",
+      "narration": "Perfect buat kamu yang sering nongkrong di ruang tamu luas, atau keluarga muda yang pengen rumah jadi cozy dan estetik tanpa pusing mikirin budget!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.80 dan angka 30.000+, lalu muncul bubble chat dengan teks kutipan",
+      "narration": "No cap, pembelinya pada ngomong kalau ketiak jadi kering dan kualitasnya tebal banget. Jadi nggak perlu ragu lagi ya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo SUPERMAT dan teks 'CEK DI FINDING DOT ID' dengan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#KarpetJumbo",
+    "#RuangTamuCozy",
+    "#DekorasiRumah",
+    "#SuperMat",
+    "#MurahMeriah",
+    "#HomeDecorID",
+    "#RenovasiRumah",
+    "#GenZStyle"
+  ],
+  "product_id": 14586,
+  "product_title": "SUPERMAT - Karpet Lantai Eropa Polyester [Uk 210 x 160 Cm]",
+  "product_price": "199000.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/14586.jpg",
+    "/uploads/products/14586_1.jpg",
+    "/uploads/products/14586_2.jpg",
+    "/uploads/products/14586_3.jpg",
+    "/uploads/products/14586_4.jpg",
+    "/uploads/products/14586_5.jpg",
+    "/uploads/products/14586_6.jpg",
+    "/uploads/products/14586_7.jpg",
+    "/uploads/products/14586_8.jpg",
+    "/uploads/products/14586_9.jpg",
+    "/uploads/products/14586_10.jpg",
+    "/uploads/products/14586_11.jpg",
+    "/uploads/products/14586_12.jpg",
+    "/uploads/products/14586_13.jpg",
+    "/uploads/products/14586_14.jpg",
+    "/uploads/products/14586_15.jpg",
+    "/uploads/products/14586_16.jpg",
+    "/uploads/products/14586_17.jpg",
+    "/uploads/products/14586_18.jpg",
+    "/uploads/products/14586_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/14586",
+  "generated_at": "2026-03-14T04:21:31.362Z"
+}

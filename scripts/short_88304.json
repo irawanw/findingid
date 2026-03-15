@@ -1,0 +1,77 @@
+{
+  "title": "Regulator Gas 12RM Meteran Bawaan? Worth It Banget!",
+  "hook_text": "Gas bocor? Stop pakai ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan close-up regulator StarCam SC-T12RM dengan efek suara 'whoosh' dan teks peringatan besar di layar.",
+      "narration": "Gas bocor di tengah masakan lagi? Wah, itu bahaya banget bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke shot regulator StarCam SC-T12RM di atas kompor dengan aksen 'ding' saat tombol meteran ditekan.",
+      "narration": "Kenalan yuk sama StarCam SC-T12RM, regulator gas yang punya fitur meteran built-in. Basically next level buat kamu yang mau kontrol aliran gas lebih presisi."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi teks harga membesar lalu pecah menampilkan angka Rp 111.000 dengan efek confetti.",
+      "narration": "Tebak deh harganya? Cuma seratus satu puluhan ribu doang! Which is worth it banget dibanding regulator biasa yang nggak ada meterannya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menampilkan 3 ikon: 1. Tabung 3KG/12KG, 2. Simbol SNI, 3. Simbol Pengaman Bocor dengan teks overlay.",
+      "narration": "Three main features nih yang wajib tahu. First, kompatibel banget sama tabung LPG tiga kilo maupun dua belas kilo, jadi nggak perlu ribet ganti-ganti. Second, punya sertifikasi SNI tujuh tiga enam sembilan dua ribu dua belas yang terjamin amanah. Third, dilengkapi sistem pengaman yang mencegah kebocoran gas, literally super aman buat dapur."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas: ibu masak, katering kecil, dan mahasiswa masak di kosan dengan regulator ini.",
+      "narration": "Perfect buat yang sering masak dalam jumlah banyak atau punya usaha katering kecil. Kalau aktivitas kamu butuh monitor gas biar nggak boros, ini solusi tepat banget!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.85 bintang dengan angka '20.000 Terjual' dan kutipan teks muncul di bawah.",
+      "narration": "Pembelinya pada ngomong 'Barangnya sampai selamat dan jumlah sesuai pesanan', no cap!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke tombol shopping cart.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#RegulatorGas",
+    "#StarCam",
+    "#WajibAdaDapur",
+    "#CookingHack",
+    "#AmanBerkatSNI",
+    "#MurahMeriah",
+    "#MasakEnak",
+    "#FindingId"
+  ],
+  "product_id": 88304,
+  "product_title": "Regulator Gas STARCAM SC-T12RM / Regulator StarCam Meter / Regulator Kompor Gas LPG",
+  "product_price": "111000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/88304.jpg"
+  ],
+  "product_link": "https://finding.id/p/88304",
+  "generated_at": "2026-03-15T00:30:26.425Z"
+}

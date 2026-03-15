@@ -1,0 +1,81 @@
+{
+  "title": "Bundling Sunscreen Harlette 170 Ribu Aja!",
+  "hook_text": "Sunscreen 170 Ribu Beneran Murah Banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up produk Harlette dengan teks overlay besar '170 RIBU DOANG!'",
+      "narration": "Sunscreen 170 Ribu Beneran Murah Banget! --- Gak percaya sama klaimnya? Tonton dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Show kedua produk di tangan, shot produk dari depan dan belakang",
+      "narration": "Ini dia bundling Harlette Oat Probiotic Sunscreen plus Oatmilk Facial Wash-nya. --- Serba oat, ringan banget di kulit."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kilat atau uang",
+      "narration": "Harganya? Cuma seratus tujuh puluhan ribu doang. --- Worth it banget buat dapet dua produk."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Aplikasi sunscreen di tangan, tekstur cair, lalu wajah glowing",
+      "narration": "Teksturnya literally cair, nggak lengket sama sekali. --- Yang udah beli bilang bisa bantu kurangi jerawat. --- Facial wash-nya gentle banget, nggak bikin kulit kering."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model dengan kulit berkilau, ekspresi senang, pakai topeng wajah",
+      "narration": "Cocok banget buat kalian yang punya kulit normal sampai kering. --- Atau yang trauma sama sunscreen lengket karena dulu sering jerawatan parah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang dan angka penjualan 20.000+",
+      "narration": "Ratingnya 4.94 bintang, udah terjual 20.000 produk. --- Yang udah beli bilang 'hasilnya baguss polll'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah menunjuk ke arah layar",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#Harlette",
+    "#SunscreenMurah",
+    "#SkincareKorea",
+    "#ReviewSkincare",
+    "#SkincareViral",
+    "#WajahGlows",
+    "#BundlingMurah",
+    "#FindingId"
+  ],
+  "product_id": 100586,
+  "product_title": "[2 PCS BUNDLING SUNSCREEN] Harlette Oat Probiotic Lightweight Sunscreen 40 g + Oatmilk Gentle Facial Wash 100 g",
+  "product_price": "170000.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100586.jpg",
+    "/uploads/products/100586_1.jpg",
+    "/uploads/products/100586_2.jpg",
+    "/uploads/products/100586_3.jpg",
+    "/uploads/products/100586_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/100586",
+  "generated_at": "2026-03-13T14:08:38.796Z"
+}

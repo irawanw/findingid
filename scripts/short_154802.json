@@ -1,0 +1,96 @@
+{
+  "title": "Hampers Bayi Bestie! Gak Perlu Ribet Lagi",
+  "hook_text": "Gak percaya kalau ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up slow motion tumpukan hampers baby warna-warni (Purple, Pink, Rainbow) dengan efek suara 'ding' lucu.",
+      "narration": "Gak percaya kalau ini bisa jadi kado lahiran yang paling sempurna buat bestie kamu? Tenang, kita buktikan bareng!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat membuka box, keluarkan baju bayi, tutu, dan aksesoris dari berbagai varian warna.",
+      "narration": "Ini RENNESHOP Hampers Baby lengkap banget, bestie! Ada baju katun yang lembut adem, plus ada tutu lucu yang bikin si kecil langsung jadi pusat perhatian di acara wisuda atau syukuran, literally so cute!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar: 'Nih, harganya?!' sambil tunjukkan stiker harga di atas produk.",
+      "narration": "Nih, harganya? Gak main-main ya! Mulai dari enam puluhan ribu sampai sembilan puluhan ribu aja kok, which is worth it banget buat sekomplit ini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Zoom in ke tekstur kain, tunjukkan variasi warna tutu, lalu close-up detail jahitan yang rapi.",
+      "narration": "Pertama, bahannya katun tebal yang nggak bikin kulit bayi iritasi, adem banget! Kedua, ada banyak pilihan warna mulai dari Purple Boots, Rainbow Pink, sampe Purple Tutu enam in satu, basically next level variety-nya. Ketiga, packingnya super rapi dan ada kartu ucapan gratis yang siap bikin momen spesial makin manis."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Simulasi orang sedang bingung pilih kado, lalu tersenyum puas saat memegang hampers ini.",
+      "narration": "Perfect buat kamu yang lagi cari kado lahiran tapi nggak mau pusing mikirin paketan sendiri, atau buat kamu yang mau kasih hadiah ulang tahun buat adik kecil yang lagi manis banget!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.83 dan angka 30.000 terjual dengan background hijau segar.",
+      "narration": "Rating empat koma delapan tiga dari tiga puluh ribu produk terjual! Dan yang udah beli bilang packingnya rapi banget dan isinya lengkap sesuai foto."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah menunjuk ke bawah atau arah pencarian.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#kadoLahirAn",
+    "#hampersBaby",
+    "#renneshop",
+    "#hadiahBayi",
+    "#parentingHack",
+    "#unik",
+    "#bestie",
+    "#findingid"
+  ],
+  "product_id": 154802,
+  "product_title": "RENNESHOP - (TUTU) - HAMPERS BABY GIRL / Hampers Baby / Hampers Bayi / Kado Bayi / Baju Bayi / Gift Box Baby",
+  "product_price": "62500.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/154802.jpg",
+    "/uploads/products/154802_1.jpg",
+    "/uploads/products/154802_2.jpg",
+    "/uploads/products/154802_3.jpg",
+    "/uploads/products/154802_4.jpg",
+    "/uploads/products/154802_5.jpg",
+    "/uploads/products/154802_6.jpg",
+    "/uploads/products/154802_7.jpg",
+    "/uploads/products/154802_8.jpg",
+    "/uploads/products/154802_9.jpg",
+    "/uploads/products/154802_10.jpg",
+    "/uploads/products/154802_11.jpg",
+    "/uploads/products/154802_12.jpg",
+    "/uploads/products/154802_13.jpg",
+    "/uploads/products/154802_14.jpg",
+    "/uploads/products/154802_15.jpg",
+    "/uploads/products/154802_16.jpg",
+    "/uploads/products/154802_17.jpg",
+    "/uploads/products/154802_18.jpg",
+    "/uploads/products/154802_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/154802",
+  "generated_at": "2026-03-14T18:38:12.897Z"
+}

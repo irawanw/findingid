@@ -1,0 +1,83 @@
+{
+  "title": "Tongsis 4+1 Ini Bikin Konten Pro! 📱",
+  "hook_text": "Stop scroll! Bikin konten pro murah banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah host ekspresi kaget sambil memegang tongsis yang sedang diayun",
+      "narration": "Stop scroll bestie! Bikin konten kayak pro nggak perlu modal jutaan!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk INBEX IB180 diputar di atas meja dengan pencahayaan cinematic",
+      "narration": "Kenalin nih, INBEX IB180 '4+1'. Solusi all-in-one buat kamu yang butuh stabilizer, tripod, dan ring light dalam satu genggaman."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tangan memegang kartu harga virtual, lalu zoom in ke harga produk",
+      "narration": "Harganya cuma seratus sembilan puluh ribuan doang! --- Bandingin sama alat lain, ini literally harga kaki lima kualitas bintang lima."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tongsis memanjang, ring light menyala, tombol remote ditekan",
+      "narration": "Fiturnya next level. Bisa ngejailin sampai 1.8 meter, ada remote Bluetooth biar nggak perlu nyentuh HP. --- Light-nya juga bisa diatur, jadi video kamu auto cinematic tanpa filter."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang merekam video estetik di kamar dengan sudut kamera yang stabil",
+      "narration": "Perfect buat content creator pemula, pelajar yang butuh alat presentasi, atau siapa aja yang sering bikin video estetik di rumah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan screenshot rating bintang 4.9 dan jumlah terjual 20 ribu di layar HP",
+      "narration": "Udah 20ribu terjual dan ratingnya 4.9! --- Yang udah beli bilang \"Kardusnya mewah banget men\", beneran kokoh dan aman."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar HP menampilkan halaman finding.id dengan panah menunjuk ke kolom pencarian",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#INBEX",
+    "#TongsisTripod",
+    "#ContentCreator",
+    "#AlatFoto",
+    "#ViralProduct",
+    "#GadgetMurah",
+    "#FindingID",
+    "#RekomendasiGadget"
+  ],
+  "product_id": 80577,
+  "product_title": "[20%OFF-Stabil] INBEX IB180 '4+1' Tongsis Tripod Bluetooth Quadpod 1.8m tripod konten kreator handphone portable Fill light Selfie Stick Bluetooth Tongsis Gimbal Kamera Ring Light",
+  "product_price": "109000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/80577.jpg",
+    "/uploads/products/80577_1.jpg",
+    "/uploads/products/80577_2.jpg",
+    "/uploads/products/80577_3.jpg",
+    "/uploads/products/80577_4.jpg",
+    "/uploads/products/80577_5.jpg",
+    "/uploads/products/80577_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/80577",
+  "generated_at": "2026-03-13T20:33:29.490Z"
+}

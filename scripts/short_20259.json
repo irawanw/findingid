@@ -1,0 +1,83 @@
+{
+  "title": "Hair Dryer Ungu Philips yang Bikin Rambut Sehat! ✨",
+  "hook_text": "Stop beli dryer mahal kalau nggak liat ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up dryer Philips warna ungu yang diletakkan di meja dengan efek zoom in cepat ke tombol nyala.",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?' Tenang bestie, ini worth it banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat: dryer dipegang, difokuskan ke tombol pengaturan, lalu transisi ke rambut yang terlihat halus dan mengkilap.",
+      "narration": "Ini Philips Hair Dryer EssentialCare HP8126, warna ungu yang literally so cute dan compact banget buat dibawa kemana-mana."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan angka harga, lalu transisi ke shot dryer sedang dipakai dengan efek kilau.",
+      "narration": "Dihargai cuma seratus delapan puluhan ribuan, tapi dapet teknologi ThermoProtect yang ngelindungin rambut dari panas berlebih. Basically next level!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan speed dial berputar, kanan tunjukkan hasil rambut yang tidak berantakan dan sehat.",
+      "narration": "Pertama, daya empat ratus watt bikin rambut kering cepet tapi lembut nggak bikin rusak. Kedua, setelan fleksibel bisa diatur sesuai kebutuhan biar hasilnya maksimal. Ketiga, suaranya tenang banget, nggak bikin pusing seperti dryer lama yang bising."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene aktivitas: seseorang sedang sibuk kerja sambil mengeringkan rambut, lalu berganti ke orang yang baru selesai olahraga dan langsung styling rambut.",
+      "narration": "Perfect buat kamu yang sibuk banget dan nggak punya waktu lama buat styling, atau yang suka olahraga lalu langsung mau tampil rapi tanpa ribet."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.91 bintang di tengah layar dengan latar belakang animasi produk berputar pelan.",
+      "narration": "Rating empat koma sembilan satu dari sembilan puluh ribu plus yang udah beli bilang kualitas barangnya bagus dan cepet panas juga."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh dengan logo finding.id dan tombol animasi yang mengajak untuk cek detail produk.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#PhilipsHairDryer",
+    "#HairCare",
+    "#BeautyGuru",
+    "#Unboxing",
+    "#GenZStyle",
+    "#SkincareRoutine",
+    "#HairStyle",
+    "#FindingId"
+  ],
+  "product_id": 20259,
+  "product_title": "Philips | Hair Dryer EssentialCare | Pengering Rambut | Melindungi Rambut dengan ThermoProtect Teknologi | Ungu | HP8126/02",
+  "product_price": "284900.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/20259.jpg",
+    "/uploads/products/20259_1.jpg",
+    "/uploads/products/20259_2.jpg",
+    "/uploads/products/20259_3.jpg",
+    "/uploads/products/20259_4.jpg",
+    "/uploads/products/20259_5.jpg",
+    "/uploads/products/20259_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/20259",
+  "generated_at": "2026-03-14T13:14:44.641Z"
+}

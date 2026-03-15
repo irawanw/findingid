@@ -1,0 +1,83 @@
+{
+  "title": "Wajah Mencerah Tanpa Sunscreen? Coba Ini Bestie!",
+  "hook_text": "Sabun Muka Murah, Efeknya Mahal?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up shot botol sabun cuci muka dengan efek glow pada kulit.",
+      "narration": "Sabun cuci muka murah tapi efeknya mahal? --- Cek ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilan packaging Bio Beauty Lab dengan bahan aktif Glycolic Acid tertera jelas.",
+      "narration": "Ini Bio Beauty Lab Glycolic Brightening Cleanser! --- Low pH aman buat semua jenis kulit. --- Glycolic Acid angkat sel mati."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul di layar dengan efek stiker harga diskon.",
+      "narration": "Harganya cuma seratus tujuh puluhan ribu sampai tiga ratus tiga puluh sembilan ribuan. --- Worth it buat skincare rutin."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up tekstur gel cair diaplikasikan ke tangan lalu ke wajah.",
+      "narration": "Ada D-Panthenon bikin lembab. --- Allantoin menenangkan iritasi. --- Teksturnya cair, mudah meresap. --- Banyak yang curiga SLS, tapi ini aman."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Visual seseorang sedang membersihkan wajah di kamar mandi yang bersih.",
+      "narration": "Kalau kamu sering ngerasa wajah kusam atau kering. --- Ini solusi tepat buat kamu. --- Perfect buat kulit sensitif yang butuh perawatan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.94 dan angka terjual 60.000 produk.",
+      "narration": "Rating empat koma sembilan empat. --- Enam puluh ribu udah terjual. --- Yang udah beli bilang kulit bersih kerasa kesat tapi nggak teriritasi."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah menunjuk ke tombol link di bawah layar.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#skincareIndonesia",
+    "#glowyskin",
+    "#findingid",
+    "#bioskincare",
+    "#facialwash",
+    "#skintok",
+    "#glowup",
+    "#skincarehacks"
+  ],
+  "product_id": 142292,
+  "product_title": "Bio Beauty Lab Glycolic Brightening Cleanser 100ml/245ml | Facial Wash Low PH Sabun Cuci Muka Glycolic Acid Glowing dan Mencerahkan",
+  "product_price": "170200.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/142292.jpg",
+    "/uploads/products/142292_1.jpg",
+    "/uploads/products/142292_2.jpg",
+    "/uploads/products/142292_3.jpg",
+    "/uploads/products/142292_4.jpg",
+    "/uploads/products/142292_5.jpg",
+    "/uploads/products/142292_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/142292",
+  "generated_at": "2026-03-14T02:39:25.052Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Tas Korea Style Cuma 60 Ribu?",
+  "hook_text": "Tas Korea Style Cuma 60 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tas Mismi Hazel Bag dengan lighting cinematic, transisi cepat",
+      "narration": "Tas Korea Style Cuma 60 Ribu? --- Emang beneran ada?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai tas, showcase desain dari depan dan samping",
+      "narration": "Gak percaya? Cek deh Mismi Hazel Bag model 31H ini, simple tapi aesthetic banget di mata."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga di layar dengan efek 'wow' atau sticker",
+      "narration": "Harganya enam puluh ribuan doang, which is literally worth it banget buat kantong mahasiswa."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi isi tas: botol, iPad, mukena masuk dengan mudah",
+      "narration": "Bahannya anti air, jadi nggak perlu khawatir kena hujan. Muat banget, bisa masuk iPad 10 inch plus botol minum 500ml, mukena juga muat. Lembut, nggak mudah kusut, materialnya decent, which is so nice."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model jalan santai di cafe atau kampus dengan gaya casual",
+      "narration": "Perfect buat kamu yang suka gaya casual, mau keluar tapi bawa banyak barang tanpa ribet. Styling jadi oke, no cap."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.8 dan jumlah terjual 30k",
+      "narration": "Rating 4,8 bintang, udah laku 30.000-an. Yang udah beli bilang \"bahan lumayan nggak terlalu tipis, sesuai ekspektasi\" --- Mereka pada suka banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah mengarah ke kiri bawah atau teks 'finding dot id'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#TasKorea",
+    "#MismiHazelBag",
+    "#TasSelempang",
+    "#OOTDIndonesia",
+    "#BelanjaHemat",
+    "#KoreanStyle",
+    "#TasMurah",
+    "#TasWaterproof"
+  ],
+  "product_id": 77829,
+  "product_title": "Mismi Hazel Bag Tas Selempang Wanita Korean Style SImple Sling Bag Perempuan Tahan Air Stylish - 31H",
+  "product_price": "61900.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/77829.jpg",
+    "/uploads/products/77829_1.jpg",
+    "/uploads/products/77829_2.jpg",
+    "/uploads/products/77829_3.jpg",
+    "/uploads/products/77829_4.jpg",
+    "/uploads/products/77829_5.jpg",
+    "/uploads/products/77829_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/77829",
+  "generated_at": "2026-03-13T22:07:55.809Z"
+}

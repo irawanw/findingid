@@ -1,0 +1,85 @@
+{
+  "title": "Jeans Premium Harga Miring? No Cap!",
+  "hook_text": "Jeans premium harga miring? No cap!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up celana jeans dengan efek glitch di layar.",
+      "narration": "Jeans premium harga miring? No cap!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Host memegang celana jeans sambil tersenyum ramah ke kamera.",
+      "narration": "Perkenalkan Bespoke Project Raw Denim Collection. Desainnya kece buat kalian yang suka gaya kasual."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek animasi uang.",
+      "narration": "Bayangin, harganya cuma mulai dari dua ratus delapan puluhan ribu sampe empat ratus lima puluh ribuan. Which is worth it banget buat kualitas denim sekeren ini dan awet."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase warna dan potongan celana yang berbeda-beda ditampilkan cepat.",
+      "narration": "Bahan denimnya nyaman banget --- Teknik slasher bikin warnanya turun lebih cepet natural. Ada varian Skinny, Slim Straight, sampe Tapered. Jadi ada yang cocok buat kamu semua."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Host jalan santai di jalan kota bersama teman-teman.",
+      "narration": "Perfect buat yang mau kelihatan ganteng tapi dompet aman. Kalau aktivitas kamu sering jalan bareng squad, ini pilihan tepat tanpa bikin kantong bolong."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4.9 dan jumlah terjual dua puluh ribu muncul.",
+      "narration": "Ratingnya empat koma sembilan nol, udah laku dua puluh ribu produk. Yang udah beli bilang Mantaps, langsung aku pake buat squad dan jalan ditempat wkwkwk."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host menunjuk ke arah kamera dengan gesture pointing.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana sekarang!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana sekarang!",
+  "hashtags": [
+    "#BespokeProject",
+    "#JeansPria",
+    "#RawDenim",
+    "#OOTD",
+    "#FashionIndonesia",
+    "#CocokBanget",
+    "#Promo",
+    "#FindingID"
+  ],
+  "product_id": 133550,
+  "product_title": "Bespoke Project - Celana Jeans pria Raw Denim Collection",
+  "product_price": "285000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/133550.jpg",
+    "/uploads/products/133550_1.jpg",
+    "/uploads/products/133550_2.jpg",
+    "/uploads/products/133550_3.jpg",
+    "/uploads/products/133550_4.jpg",
+    "/uploads/products/133550_5.jpg",
+    "/uploads/products/133550_6.jpg",
+    "/uploads/products/133550_7.jpg",
+    "/uploads/products/133550_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/133550",
+  "generated_at": "2026-03-13T21:38:05.555Z"
+}

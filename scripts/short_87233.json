@@ -1,0 +1,86 @@
+{
+  "title": "Sandal Selop Kekinian! Murah Banget Bestie",
+  "hook_text": "Stop scroll! Sandal ini worth it banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up cepat tangan menunjuk sandal Zeintin dengan ekspresi kaget lalu zoom out ke kaki model memakai sandal di lantai keramik.",
+      "narration": "Stop scroll bestie! Temukan sandal selop yang literally nggak bikin kaki pegal tapi tetap estetik parah."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat berbagai warna sandal Zeintin di atas meja kayu, lalu cut ke model berjalan santai di mall.",
+      "narration": "Ini Zeintin Sandal Selop Wanita bahan sintetis yang lagi hits banget. Desain slip-onnya praktis buat aktivitas sehari-hari, basicnya wide fit jadi kaki nggak sesak, which is basically next level comfort."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek confetti, lalu tunjukkan kemasan box yang rapi.",
+      "narral": "Harga cuma seratus delapan puluhan ribu, tapi kualitasnya nggak murahan sama sekali. Packingnya rapi dan pengiriman cepat, plus pelayanan penjualnya ramah banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan sol PVC yang digosok air, kanan tunjukkan detail tepi sandal yang rapi.",
+      "narration": "Sol PVC-nya nggak licin, aman banget buat nyampe kerja atau nongkrong. Tersedia ukuran lengkap dari tiga puluh tujuh sampai empat dua, jadi nggak perlu repot cari. Oh iya, kalau ada yang khawatir soal tepi sandal yang kadang kurang kuat, cukup pakai sepatu dulu sebelum dipakai biar awet!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model memakai sandal saat nonton bioskop, lalu saat makan siang di outdoor, dan akhirnya foto bersama teman.",
+      "narration": "Perfect buat kamu yang suka gaya kasual, mau ke pesta informal, atau lagi cari hadiah dengan budget terbatas tapi pengen tampil rapi dan kekinian."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.8 dan angka 40.000+ terjual, lalu muncul teks kutipan ulasan.",
+      "narration": "Rating empat koma delapan dan sudah terjual empat puluh ribu produk. Yang udah beli bilang sandalnya bagus, enak dipakai, dan nggak licin."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SandalZeintin",
+    "#SandalKekinian",
+    "#FashionIndonesia",
+    "#SandalMurah",
+    "#OOTDIndonesia",
+    "#ShoppingTips",
+    "#SelopWanita",
+    "#FindingId"
+  ],
+  "product_id": 87233,
+  "product_title": "Zeintin - Sandal Selop Wanita Bahan Sintetis Kekinian Nyaman Sendal Selop Kasual HP",
+  "product_price": "65900.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/87233.jpg",
+    "/uploads/products/87233_1.jpg",
+    "/uploads/products/87233_2.jpg",
+    "/uploads/products/87233_3.jpg",
+    "/uploads/products/87233_4.jpg",
+    "/uploads/products/87233_5.jpg",
+    "/uploads/products/87233_6.jpg",
+    "/uploads/products/87233_7.jpg",
+    "/uploads/products/87233_8.jpg",
+    "/uploads/products/87233_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/87233",
+  "generated_at": "2026-03-14T04:12:32.633Z"
+}

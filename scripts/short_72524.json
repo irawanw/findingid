@@ -1,0 +1,79 @@
+{
+  "title": "Pompa ASI Hemat Baterai 4x Pakai! Worth It Banget",
+  "hook_text": "Pompa ASI murah tapi baterainya awet banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tangan membuka dus Sakumini Electric Breast Pump dengan ekspresi kaget dan senyum lebar.",
+      "narration": "Stop scroll bestie! Kamu cari pompa ASI yang hemat, portabel, dan nggak bikin dompet kosong?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Sakumini Electric Breast Pump berwarna putih diputar pelan menampilkan desain ergonomis dan logo KEMENKES.",
+      "narration": "Kenalan sama Sakumini Electric Breast Pump nih. Desainnya lebar seratus enam derajat untuk bungkusan sempurna di payudara, plus ada lisensi resmi KEMENKES RI!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar-besaran muncul di layar dengan efek confetti, lalu transisi cepat ke tumpukan barang lain.",
+      "narration": "Harganya cuma satu delapan puluhan ribu rupiah! Which is worth it banget dibanding merk lain yang nembus satu jutaan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen cepat: 1. Baterai 1000mAh, 2. Layar HP tunjuk 3 mode, 3. Close up mangkuk silikon lembut.",
+      "narration": "Fiturnya next level, no cap! Baterai satu seratus miliamper jam bisa dipakai empat sesi terus nggak berkurang. Ada tiga mode pijat, pompa, dan stimulasi. Mangkuknya dari silikon lembut anti bising plus bahan BPA free aman buat bayi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu muda duduk santai di kereta atau ruang kerja sambil memerah ASI dengan senyum bahagia.",
+      "narration": "Perfect buat ibu menyusui yang sering on the go. Kalau kamu sering keluar rumah atau kerja, ini solusi biar nggak pusing cari colokan listrik."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up grafik rating 4.88 bintang dan angka 20.000 terjual, muncul kutipan teks di bawah.",
+      "narration": "Pembelinya pada ngomong baterai awet banget dipakai empat kali dua puluh menit nggak berkurang sama sekali. Rating empat koma delapan delapan dari dua puluh ribu orang!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol animasi 'Cek Sekarang' dan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang ya!",
+  "hashtags": [
+    "#PompaASI",
+    "#IbuMenyusui",
+    "#Sakumini",
+    "#ParentingIndonesia",
+    "#HematCumaRupiah",
+    "#BabyEssentials",
+    "#RekomendasiIbu",
+    "#FindingId"
+  ],
+  "product_id": 72524,
+  "product_title": "Sakumini Electric Breast Pump Portable Pompa ASI Bayi Elektrik",
+  "product_price": "184900.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/72524.jpg",
+    "/uploads/products/72524_1.jpg",
+    "/uploads/products/72524_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/72524",
+  "generated_at": "2026-03-14T04:22:39.012Z"
+}

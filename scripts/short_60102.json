@@ -1,0 +1,83 @@
+{
+  "title": "Speaker 600W Harga Kaki Lima?!",
+  "hook_text": "Gak percaya sama harga ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up kotak produk dengan stiker 'Original' ditempel di layar sambil tunjuk harga Rp 183.000",
+      "narration": "Gak percaya sama harga ini? Seratus delapan puluhan ribu aja dapet amplifier six hundreds watts!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: produk dibuka, kabel Bluetooth terpasang, dan layar FM Radio menyala",
+      "narration": "Ini Kerndy BT-298A, bestie! Bisa jadi speaker, karaoke, home theater, plus ada FM radio built-in. Basically next level buat nonton film di kamar atau party bareng temen."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri gambar speaker mahal, kanan gambar produk ini dengan teks besar 'Hanya 183rb'",
+      "narration": "Literally worth it banget! Biasanya speaker sekuat ini harganya jutaan, tapi di sini cuma seratus delapan puluhan ribu. No cap, deal of the year!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tiga shot cepat: 1) Tuning equalizer di panel, 2) Kabel AUX terpasang, 3) Layar FM Radio menerima siaran",
+      "narration": "Pertama, ada equalizer buat atur bass, treble, dan mid sesuai mood kamu. Kedua, fitur Bluetooth stabil dan input AUX buat kamu yang mau pakai kabel. Ketiga, radio FM buat denger lagu hits tanpa kuota. Which is super berguna kalau lagi offline."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video orang karaoke bareng temen di kamar, lalu video orang nonton film pakai speaker ini",
+      "narration": "Perfect buat kamu yang sering nge-karaoke di kamar atau mau upgrade sound system nonton sinetron. Kalau aktivitas kamu butuh suara jernih tapi budgetnya pas, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.77 bintang dan angka 60.000 terjual, lalu teks kutipan muncul: 'Suara mantap tidak ada yg kecewa'",
+      "narration": "Rating empat koma tujuh tujuh dari enam puluh ribu orang! Yang udah beli bilang 'Suara mantap tidak ada yg kecewa'. Sedikit eror volume jam siang itu wajar, tinggal reset aja bestie."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah ke arah tombol beli",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#KerndyBT298A",
+    "#SpeakerMurah",
+    "#HomeTheater",
+    "#KaraokeDiKamar",
+    "#AudioViral",
+    "#TemukanBaru",
+    "#GadgetMurah",
+    "#Rekomendasi"
+  ],
+  "product_id": 60102,
+  "product_title": "Amplifier BT-298A Bluetooth EQ Audio Amplifier Karaoke Home Theater FM Radio 600W KERNDY amplifier BT298A Original Kerndy",
+  "product_price": "183000.00",
+  "product_rating": "4.77",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/60102.jpg",
+    "/uploads/products/60102_1.jpg",
+    "/uploads/products/60102_2.jpg",
+    "/uploads/products/60102_3.jpg",
+    "/uploads/products/60102_4.jpg",
+    "/uploads/products/60102_5.jpg",
+    "/uploads/products/60102_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/60102",
+  "generated_at": "2026-03-14T04:58:46.359Z"
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Keyboard Touchpad Murah Meriah! Goojodoq Worth It?",
+  "hook_text": "Keyboard Touchpad Seharga Seblak!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up keyboard RGB glowing dengan efek cahaya dramatis",
+      "narration": "Keyboard touchpad sekeren ini harganya cuma seharga seblak!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing produk dari dalam kotak tebal, tunjukkan keyboard full body",
+      "narration": "Ini dia Goojodoq 10 inch, keyboard bluetooth bawaan touchpad. Ringan banget, tinggal colok langsung siap kerja!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga 'Rp 70rb-an - 130rb-an' muncul di layar",
+      "narration": "Mulai dari tujuh puluh ribuan sampai seratus tiga puluh ribuan saja. Which is worth it banget buat dapet fitur segede ini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo ganti sistem pakai Fn+Q/W/E dan ngetik cepat di tablet",
+      "narration": "Bisa ganti sistem pakai Fn+Q buat Android, Fn+W buat Windows, sampe Fn+E buat iOS. Ada RGB-nya juga, yang udah beli bilang 'pengemasannya tebal dan aman' --- Kabel charger juga lengkap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Mahasiswa atau pekerja WFH menggunakan keyboard dengan iPad di cafe",
+      "narration": "Perfect buat pelajar atau WFH yang butuh ngetik di tablet. Tapi hati-hati, kadang ada yang bilang koneksinya nggak nyambung ya, jadi pastikan baterai penuh."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.83 dan angka 40.000+ terjual",
+      "narration": "Rating 4,83 dari 40 ribu produk terjual --- Yang udah beli bilang 'sepadan banget sama harga, suka banget sama warnanya'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan akhir dengan logo finding.id dan tombol arahkan ke link",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#keyboardmurah",
+    "#goojodoq",
+    "#techmurah",
+    "#gadgetviral",
+    "#studentessentials",
+    "#findingid",
+    "#hidupgenz",
+    "#rekomendasigadget"
+  ],
+  "product_id": 84738,
+  "product_title": "Goojodoq 10 inch Wireless Bluetooth Keyboard Touch keyboard Lightweight Portable For iPad Samsung Xiaomi iPhone Windos Colorful",
+  "product_price": "73900.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/84738.jpg",
+    "/uploads/products/84738_1.jpg",
+    "/uploads/products/84738_2.jpg",
+    "/uploads/products/84738_3.jpg",
+    "/uploads/products/84738_4.jpg",
+    "/uploads/products/84738_5.jpg",
+    "/uploads/products/84738_6.jpg",
+    "/uploads/products/84738_7.jpg",
+    "/uploads/products/84738_8.jpg",
+    "/uploads/products/84738_9.jpg",
+    "/uploads/products/84738_10.jpg",
+    "/uploads/products/84738_11.jpg",
+    "/uploads/products/84738_12.jpg",
+    "/uploads/products/84738_13.jpg",
+    "/uploads/products/84738_14.jpg",
+    "/uploads/products/84738_15.jpg",
+    "/uploads/products/84738_16.jpg",
+    "/uploads/products/84738_17.jpg",
+    "/uploads/products/84738_18.jpg",
+    "/uploads/products/84738_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/84738",
+  "generated_at": "2026-03-13T21:22:30.278Z"
+}

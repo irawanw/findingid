@@ -1,0 +1,83 @@
+{
+  "title": "Cokelat Almond D'King Murah Banget!",
+  "hook_text": "Gara-gara Harga Miring, Aku Penasaran!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up produk cokelat dengan efek zoom cepat, teks overlay muncul dengan animasi dinamis.",
+      "narration": "Gara-gara harga miring, aku penasaran banget sama ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dibuka per dus, tunjukkan isi 4 toples secara jelas dan estetik.",
+      "narration": "Nih Cokelat Kacang Almond D'King, per dus ada 4 toples isi banyak."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kilatan, lalu transisi ke produk.",
+      "narration": "Harga cuma sembilan puluh lima ribuan, literally murah banget kalau dibandingin sama kualitas."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail tekstur cokelat dan almond, lalu shot dus yang besar.",
+      "narration": "Rasa mantap, manisnya pas, almond-nya full --- Banyak yang bilang mahal di bungkus satuan, tapi ini dus jadi lebih hemat. Exp juga masih lama, aman buat stok, next level banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang ngemil sambil nonton film atau sedang kadoan ke teman.",
+      "narration": "Perfect buat yang suka ngemil manis pas nonton film, atau mau kado buat bestie, so cute!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks statistik terjual dan rating muncul, diikuti screenshot komentar pembeli.",
+      "narration": "Sudah 80 ribu terjual, rating 4,8 --- Yang udah beli bilang, 'Manisnya pas, almond nya full'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol CTA animasi mengarah ke logo finding id dengan musik upbeat.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#cokelatalmond",
+    "#dmking",
+    "#snackmurah",
+    "#rekomendasimurah",
+    "#cokelat",
+    "#snacktime",
+    "#genz",
+    "#findingid"
+  ],
+  "product_id": 139161,
+  "product_title": "Cokelat Kacang Almond D'King Per Dus Isi 4 Toples",
+  "product_price": "95900.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/139161.jpg",
+    "/uploads/products/139161_1.jpg",
+    "/uploads/products/139161_2.jpg",
+    "/uploads/products/139161_3.jpg",
+    "/uploads/products/139161_4.jpg",
+    "/uploads/products/139161_5.jpg",
+    "/uploads/products/139161_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/139161",
+  "generated_at": "2026-03-13T20:08:08.324Z"
+}

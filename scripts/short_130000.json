@@ -1,0 +1,83 @@
+{
+  "title": "Flashdisk Anti Banting Garansi Seumur Hidup!",
+  "hook_text": "Flashdisk Bisa Dicelup Air?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up flashdisk ditenggelamkan ke air dengan efek visual air memantul",
+      "narration": "Flashdisk bisa dicelup air? No cap, ini beneran! Gak percaya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing flashdisk dengan pencahayaan dramatis, lalu zoom in detail logo ASTRO AVATAR",
+      "narration": "Kenalin nih ASTRO AVATAR V-Gen. --- Teknologi COB yang bikin dia anti banting dan tahan air."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul di layar dengan animasi efek 'wow', background produk blur",
+      "narration": "Harganya? Mulai lima puluhan ribu sampe seratus tiga puluhan ribu. --- Which is worth it banget buat fitur premium."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: air membasahi flashdisk, flashdisk dijatuhkan, dan tampilan bagian dalam COB",
+      "narration": "Fiturnya next level banget. --- Pertama, tahan air sama goncangan. Kedua, garansi seumur hidup literally. Ketiga, desain tanpa PCB jadi compact. Oh ya, kalau colok di PC, pastikan masukin pas ya biar gak keangkat. --- Magnetic resistance juga ada lho!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario mahasiswa di perpustakaan dan pekerja lapangan di luar ruangan",
+      "narration": "Perfect buat bestie yang sering jalan-jalan, mahasiswa, atau kerja lapangan. --- Kebutuhan datamu aman banget. --- Soalnya ini next level protection."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.88 dan angka 100.000 terjual yang berkedip",
+      "narration": "Rating 4.88, udah laku 100 ribu unit. --- Yang udah beli bilang 'keren sih responsif bgt'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan panah menunjuk",
+      "narration": "Mau tau detailnya? --- Cek di finding dot id ya!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya!",
+  "hashtags": [
+    "#FlashdiskTahanAir",
+    "#GadgetMurah",
+    "#VGen",
+    "#StudentHacks",
+    "#TechIndonesia",
+    "#GaransiSeumurHidup",
+    "#FindYourFinds",
+    "#FindingID"
+  ],
+  "product_id": 130000,
+  "product_title": "USB Flashdisk 8gb 16gb 32gb 64gb 128gb ASTRO / AVATAR Water Proof V-GeN Flash Drive Flash Disk Vgen",
+  "product_price": "50000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/130000.jpg",
+    "/uploads/products/130000_1.jpg",
+    "/uploads/products/130000_2.jpg",
+    "/uploads/products/130000_3.jpg",
+    "/uploads/products/130000_4.jpg",
+    "/uploads/products/130000_5.jpg",
+    "/uploads/products/130000_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/130000",
+  "generated_at": "2026-03-13T22:59:17.471Z"
+}

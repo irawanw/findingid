@@ -1,0 +1,81 @@
+{
+  "title": "Speaker Bass Nendang Cuma 180 Ribuan?",
+  "hook_text": "Bass Nendang, Harga Kacang?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah host dengan ekspresi kaget memegang speaker.",
+      "narration": "Nggak percaya ada speaker bass nendang harga segini, bestie? --- Stop scroll dulu, nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilkan produk KISONLI Q5S dari berbagai sudut dengan lighting cinematic.",
+      "narration": "Kenalin nih KISONLI Q5S, speaker portable yang literally next level banget buat kamu. --- Desainnya kece, ada banyak warna pilihan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan tulisan harga besar dengan efek 'WOW' di layar.",
+      "narration": "Dan yang bikin kaget, harganya cuma seratus delapan puluhan ribu-an. --- Kalau dibandingin fitur yang dapet, ini worth it banget buat kamu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat fitur Bluetooth, AUX, dan TWS dengan teks overlay.",
+      "narration": "Fiturnya gila sih, ada Bluetooth, AUX, kartu TF, plus USB port terbaru. --- Ada fitur TWS buat bass makin dalem. Solid dan tahan cipratan air IPX5."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot host menggunakan speaker saat nongkrong di taman bersama teman.",
+      "narration": "Kalau kamu sering nongkrong, buat laptop, atau main outdoor, ini perfect banget buat nemenin vibes kamu. --- Suara jernih buat lagu favorit."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan screenshot rating 4.8 dan jumlah terjual 30.000.",
+      "narration": "Sudah tiga puluh ribu terjual dengan rating empat koma delapan. --- Yang udah beli bilang 'bass nendang dan sepadan banget sama kualitasnya'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilkan logo finding.id dan panah mengarah ke tombol.",
+      "narration": "Cek di finding dot id ya bestie, review produknya ada di sana! Nggak bakal nyesel."
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#SpeakerPortable",
+    "#Kisonli",
+    "#AudioMurah",
+    "#GadgetIndonesia",
+    "#MusicTime",
+    "#OOTD",
+    "#ViralProduct",
+    "#CekDuluDiFinding"
+  ],
+  "product_id": 16884,
+  "product_title": "KISONLI Speaker Bluetooth Portable Q5S Dual Bass Support FM Radio, TF, AUX",
+  "product_price": "183330.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/16884.jpg",
+    "/uploads/products/16884_1.jpg",
+    "/uploads/products/16884_2.jpg",
+    "/uploads/products/16884_3.jpg",
+    "/uploads/products/16884_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/16884",
+  "generated_at": "2026-03-13T17:25:14.635Z"
+}

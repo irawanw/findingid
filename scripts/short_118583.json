@@ -1,0 +1,81 @@
+{
+  "title": "Rambut Rontok? Coba Makarizo Ini!",
+  "hook_text": "Rambut Rontok Parah? Ini Solusinya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up rambut rontok di wastafel dengan efek zoom in cepat.",
+      "narration": "Rambut rontok parah tiap bangun tidur? Gak percaya kalau ini solusinya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Makarizo Advisor di atas meja bersih dengan pencahayaan cinematic.",
+      "narration": "Kenalin, Makarizo Advisor Anti-Hair Fall Defense Hair & Scalp Tonic. --- Ini game changer banget buat kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan animasi confetti kecil.",
+      "narration": "Harganya bikin kaget, mulai dari delapan puluh ribuan aja udah dapat size besar. Worth it parah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi aplikator ditusukkan ke kulit kepala dengan efek sensasi dingin.",
+      "narration": "Ini kan 2-in-1, anti rontok plus anti ketombe. Ada Ginseng sama Aloe Vera buat akarnya kuat. --- Aplikatornya presisi, sensasi dinginnya bikin kepala adem. BPOM resmi juga no doubt. Nggak perlu ragu lagi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model wanita tersenyum sambil mengelus rambutnya yang terlihat sehat.",
+      "narration": "Buat kamu yang sering stress atau keramas tiap hari tapi rambut tetep rontok. Ini cocok banget buat daily care. --- Wajib punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.92 bintang dan jumlah terjual 60 ribu di layar.",
+      "narration": "Rating 4,92 bintang plus 60 ribu terjual. --- Yang udah beli bilang, \"Produk aman, BPOM, dan pengemasannya rapi banget.\""
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pointing ke arah bawah atau logo finding dot id muncul.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Makarizo",
+    "#RambutSehat",
+    "#AntiRontok",
+    "#SkincareKepala",
+    "#TipsRambut",
+    "#GenZ",
+    "#ProdukViral",
+    "#FindingId"
+  ],
+  "product_id": 118583,
+  "product_title": "Makarizo Advisor Anti-Hair Fall Defense Hair & Scalp Tonic 220 mL & 240 mL",
+  "product_price": "80000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/118583.jpg",
+    "/uploads/products/118583_1.jpg",
+    "/uploads/products/118583_2.jpg",
+    "/uploads/products/118583_3.jpg",
+    "/uploads/products/118583_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/118583",
+  "generated_at": "2026-03-13T20:58:16.972Z"
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Boot Karet Anti Air, Murah Banget!",
+  "hook_text": "Boot Hujan atau Boot Lapangan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up sepatu boot hitam sedang diletakkan di atas genangan air lumpur kotor lalu langsung kering.",
+      "narration": "Stop scroll dulu dong! Kamu lagi cari sepatu boot anti air yang bisa nyemplung ke lumpur tapi tetap kelihatan kekinian?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot full body model memakai sepatu SAINT ADIRA sambil jalan di sawah/perkebunan dengan ekspresi senang.",
+      "narration": "Intip deh ini SAINT ADIRA LSH, boot karet lokal yang literally so cool buat semua aktivitas outdoor kamu!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar: 'Satuan Enam Puluh-an Ribuan!' dengan efek uang berceceran.",
+      "narration": "Gila sih harganya cuma satuan enam puluh-an ribuan! Which is worth it banget buat kualitas sekeras ini bestie."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tangan menekuk sepatu (lentur), air dituangkan (anti air), dan model melangkah ringan.",
+      "narration": "Bahan karet PVC-nya tebal, lembut, dan super lentur nggak kaku. Fitur anti air dan anti slipnya handal banget buat medan licin. Desain matte-nya juga nggak pasaran, plus wide fit buat kaki lebar!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario split screen: pekerja perkebunan, tukang kebun, dan petani sedang bekerja dengan sepatu ini.",
+      "narration": "Perfect buat kamu yang sering kerja di perkebunan, petani, atau tukang kebun. Kalau aktivitas kamu selalu kena cipratan air atau lumpur, sepatu ini wajib banget punya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan screenshot rating 4.89 bintang dan angka terjual 50.000+, dengan teks kutipan muncul.",
+      "narration": "Pembelinya pada ngomong bahan nya bagus tebal tapi lentur, kelihatan seperti boots mah, dan sangat nyaman!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol simulasi klik yang berkedip.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stoknya cepet abis!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#SepatuBoot",
+    "#AntiAir",
+    "#PekerjaLapangan",
+    "#LocalBrand",
+    "#MurahBanget",
+    "#FashionLokal",
+    "#PemandianKerja",
+    "#ShoesReview"
+  ],
+  "product_id": 17474,
+  "product_title": "Sepatu Boot Tinggi SAINT ADIRA Hitam Anti Slip Air Lentur Nyaman Ringan Lokal Karet Perkebunan",
+  "product_price": "61999.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/17474.jpg"
+  ],
+  "product_link": "https://finding.id/p/17474",
+  "generated_at": "2026-03-14T04:06:57.314Z"
+}

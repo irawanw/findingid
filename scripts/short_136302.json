@@ -1,0 +1,96 @@
+{
+  "title": "Sweater Fleece Harga Kertas!",
+  "hook_text": "Harga Kertas, Kualitas Sultan",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up sweater fleece dengan overlay teks harga mengejutkan",
+      "narration": "Pernah liat sweater fleece kualitas sultan tapi harganya cuma lima puluhan ribu? --- No cap, ini beneran ada!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai sweater, menunjukkan detail bahan fleece dari dekat",
+      "narration": "Ini LuckyOne Sweater Basic Crewneck, unisex banget. --- Bahannya fleece which is super soft pas di kulit."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek suara cash register",
+      "narration": "Range harganya cuma lima puluhan ribu. --- Literally worth it banget dibanding kualitasnya yang next level."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Swatch warna-warna sweater dan close up tekstur bahan",
+      "narration": "Ada enam warna kece kayak Navy, Beige, sampai Hijau Neon. --- Materialnya fleece premium, though some bilang tipis, tapi its oke banget sesuai harga. Fit-nya relaxed, nyaman dipakai motoran."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model berkendara motor di sore hari atau nongkrong di kafe dingin",
+      "narration": "Perfect buat kamu yang sering nongkrong malem-malam atau commuter pakai motor. --- Kalau aktivitas kamu banyak di tempat dingin, ini wajib punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Badge rating 4,8 dan counter penjualan 30.000",
+      "narration": "Rating empat koma delapan bintang dari tiga puluh ribu terjual. --- Yang udah beli bilang, \"Bagus bangett sihhh gilakk\" dan detail bahannya beneran ada."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah menunjuk ke arah teks",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SweaterFleece",
+    "#LuckyOne",
+    "#FashionMurah",
+    "#OOTDIndonesia",
+    "#RekomendasiProduk",
+    "#ViralProducts",
+    "#GenZFashion",
+    "#TemukanDiFinding"
+  ],
+  "product_id": 136302,
+  "product_title": "LuckyOne Sweater Basic Crewneck Polos Fleece Pria Wanita Dewasa",
+  "product_price": "52746.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/136302.jpg",
+    "/uploads/products/136302_1.jpg",
+    "/uploads/products/136302_2.jpg",
+    "/uploads/products/136302_3.jpg",
+    "/uploads/products/136302_4.jpg",
+    "/uploads/products/136302_5.jpg",
+    "/uploads/products/136302_6.jpg",
+    "/uploads/products/136302_7.jpg",
+    "/uploads/products/136302_8.jpg",
+    "/uploads/products/136302_9.jpg",
+    "/uploads/products/136302_10.jpg",
+    "/uploads/products/136302_11.jpg",
+    "/uploads/products/136302_12.jpg",
+    "/uploads/products/136302_13.jpg",
+    "/uploads/products/136302_14.jpg",
+    "/uploads/products/136302_15.jpg",
+    "/uploads/products/136302_16.jpg",
+    "/uploads/products/136302_17.jpg",
+    "/uploads/products/136302_18.jpg",
+    "/uploads/products/136302_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/136302",
+  "generated_at": "2026-03-13T16:29:55.999Z"
+}

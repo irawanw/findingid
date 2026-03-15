@@ -1,0 +1,83 @@
+{
+  "title": "Gak Gelap Lagi, Foto Jernih Banget!",
+  "hook_text": "Foto gelap? Gas, ada solusinya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah dengan pencahayaan remang-remang, lalu transisi cepat ke wajah yang terang benderang oleh lampu kecil.",
+      "narration": "Sering kejadian foto jadi gelap banget pas hangout malam? Nggak perlu pusing lagi, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Menampilkan TNW D25 yang diklipkan ke HP, dengan efek cahaya menyala cerah secara instan.",
+      "narration": "Kenalin nih, TNW D25 Selfie Light! Lampu mini portabel yang literally seukuran telapak tangan, cocok banget buat nge-boost pencahayaan di mana aja."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh, lalu muncul teks 'Harga Real' di bawahnya.",
+      "narration": "Dan yang bikin kaget, harga cuma seratus enam puluh ribuan an aja! which is worth it banget buat dapet kualitas penerangan selevel profesional."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Lampu diklip ke HP, 2. Sinar terang ke wajah, 3. Desain minimalis dan portabel.",
+      "narration": "Fiturnya next level, bestie. Pertama, desainnya simple banget tapi oke, gampang diklip ke HP atau komputer. Kedua, cahayanya super terang, jadi objek foto kelihatan jelas banget walau di tempat minim cahaya. Ketiganya, ukurannya pas banget buat dibawa kemana-mana, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang sedang nongkrong di café malam hari atau jalan-jalan sore yang mulai gelap.",
+      "narration": "Produk ini perfect buat kamu yang sering hangout di tempat minim cahaya tapi tetep mau foto-foto estetik. Kalau aktivitas kamu sering di luar malam hari, ini wajib punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4.94 dan angka 20.000 terjual muncul besar, diikuti kutipan teks dari ulasan.",
+      "narration": "Sudah 20.000 produk terjual dengan rating 4.94! Yang udah beli bilang, 'Lampu ini berguna banget buat foto di tempat gelap.' Pembelinya pada bilang, 'Desainnya simple bagus.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol 'Cek di finding.id' dengan panah animasi, background produk berputar pelan.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#TNWD25",
+    "#SelfieLight",
+    "#LampuSelfie",
+    "#TipsFoto",
+    "#ViralIndonesia",
+    "#GakGelas",
+    "#GadgetMurah",
+    "#FindingID"
+  ],
+  "product_id": 168342,
+  "product_title": "TNW D25 Selfie Light Portable Clip Mini led Light  Led Video Light LAMPU FOTOGRAFI Lampu Selfie Portable  LAMPU Camera Handphone Komputer",
+  "product_price": "164292.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/168342.jpg",
+    "/uploads/products/168342_1.jpg",
+    "/uploads/products/168342_2.jpg",
+    "/uploads/products/168342_3.jpg",
+    "/uploads/products/168342_4.jpg",
+    "/uploads/products/168342_5.jpg",
+    "/uploads/products/168342_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/168342",
+  "generated_at": "2026-03-15T12:20:29.151Z"
+}

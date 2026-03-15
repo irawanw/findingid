@@ -1,0 +1,83 @@
+{
+  "title": "NPURE Marigold Toner Anti Aging Worth It?",
+  "hook_text": "Wajah tiga puluhan kelihatan dua puluhan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah glowing, ekspresi kaget melihat cermin.",
+      "narration": "Wajah tiga puluhan tapi kelihatan dua puluhan? nggak percaya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk NPURE Marigold Toner di atas meja estetis dengan cahaya soft.",
+      "narration": "Ini dia NPURE Marigold Toner, anti aging tanpa bikin dompet bolong."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tangan pegang dompet, lalu tunjuk produk dengan gestur harga murah.",
+      "narration": "Harga cuma seratus ribuan, which is worth it banget buat skincare selevel ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot tekstur toner ditetes ke tangan, lalu botol kaca elegan.",
+      "narration": "Kandungan Peptides dan Hyaluronic Acid --- literally next level buat anti aging. Teksturnya cair ringan, cepet meresap --- plus aman buat bumil busui. Ada juga Marigold Extract buat glowing alami. Vegan DNA juga, jadi ramah lingkungan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita kerja pakai laptop, lalu ibu hamil tersenyum memegang produk.",
+      "narration": "Perfect buat kamu yang sering duduk di depan layar atau kulit lagi kering parah. Halal dan BPOM resmi, no stress. Edisi tahun depan juga masih fresh kok."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.93 dan jumlah terjual 20.000 produk.",
+      "narration": "Rating empat koma sembilan tiga dari dua puluh ribu pembeli. Yang udah beli bilang botol kaca elegan dan packing aman banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Arah ke layar, teks finding.id muncul besar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#skincare",
+    "#npure",
+    "#toner",
+    "#antiaging",
+    "#skincarerutinitas",
+    "#skincaremurah",
+    "#halalbeauty",
+    "#skincareviral"
+  ],
+  "product_id": 106062,
+  "product_title": "NPURE Anti-Aging & Hydrating Toner Marigold 150 ml / Anti Wrinkle / Anti Kerutan / Garis Halus / Flek Hitam / Dermatologically Tested / Aman Bumil Busui / Halal",
+  "product_price": "100000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/106062.jpg",
+    "/uploads/products/106062_1.jpg",
+    "/uploads/products/106062_2.jpg",
+    "/uploads/products/106062_3.jpg",
+    "/uploads/products/106062_4.jpg",
+    "/uploads/products/106062_5.jpg",
+    "/uploads/products/106062_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/106062",
+  "generated_at": "2026-03-13T20:01:47.738Z"
+}

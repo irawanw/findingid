@@ -1,0 +1,96 @@
+{
+  "title": "Jaket Motor Terbaik 26 Ribu-an? Worth It Banget!",
+  "hook_text": "Jaket motor seharga 26 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget sambil pegang jaket motor warna hitam di tengah hujan, text besar muncul di layar",
+      "narration": "Stop scroll dulu bestie! Kamu nggak bakal percaya sama harga jaket motor ini, literally next level banget."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat model pakai jaket Torque Series berbagai warna, zoom in ke detail bahan softshell",
+      "narration": "Ini Elmour Torque Series, softshell windproof yang tahan air dan angin. Bahan tebel tapi dalemnya adem, no cap!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen harga di sebelah kiri vs jaket lengkap di sebelah kanan dengan efek bintang berkilau",
+      "narration": "Harganya cuma 26 ribuan, padahal kualitasnya udah setara jaket ratusan ribu. With that price tag, it's basically worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail jahitan rapi di siku, lalu transisi ke model sedang berkendara di jalan berangin kencang, terakhir close up logo",
+      "narration": "Pertama, jahitannya rapi banget nggak melecet. Kedua, bahan softshell-nya tebel dan nggak tembus angin, which is perfect buat harian. Terakhir, tampilannya keren dan nggak kaku, bisa dipadankan sama outfit apapun."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model wanita dan pria bergantian memakai jaket dengan ekspresi senang sambil melambaikan tangan",
+      "narration": "Perfect buat kalian yang sering naik motor harian dan butuh perlindungan maksimal dari cuaca. Kalau aktivitas kamu macet-macetan, ini wajib punya sih!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.86 bintang dan angka 20.000 terjual dengan font besar dan jelas",
+      "narration": "Rating 4.86 dari 20 ribuan pembeli. Yang udah beli bilang bahannya bagus dan adem, nggak bikin panas sama sekali."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul di tengah layar dengan animasi klik, background cerah",
+      "narration": "Penasaran mau dapet diskonnya? Cek di finding dot id ya bestie, detail lengkap dan review-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#jaketmotor",
+    "#elmour",
+    "#fashionmotor",
+    "#jaketsoftshell",
+    "#motorkeren",
+    "#viralshopee",
+    "#bestieshopping",
+    "#findingid"
+  ],
+  "product_id": 10693,
+  "product_title": "Elmour Jaket Motor Windproof Torque Series Softshell Tahan Air Dan Angin",
+  "product_price": "251873.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/10693.jpg",
+    "/uploads/products/10693_1.jpg",
+    "/uploads/products/10693_2.jpg",
+    "/uploads/products/10693_3.jpg",
+    "/uploads/products/10693_4.jpg",
+    "/uploads/products/10693_5.jpg",
+    "/uploads/products/10693_6.jpg",
+    "/uploads/products/10693_7.jpg",
+    "/uploads/products/10693_8.jpg",
+    "/uploads/products/10693_9.jpg",
+    "/uploads/products/10693_10.jpg",
+    "/uploads/products/10693_11.jpg",
+    "/uploads/products/10693_12.jpg",
+    "/uploads/products/10693_13.jpg",
+    "/uploads/products/10693_14.jpg",
+    "/uploads/products/10693_15.jpg",
+    "/uploads/products/10693_16.jpg",
+    "/uploads/products/10693_17.jpg",
+    "/uploads/products/10693_18.jpg",
+    "/uploads/products/10693_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/10693",
+  "generated_at": "2026-03-14T18:07:07.847Z"
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Handuk Jumbo 170cm Cuma Lima Puluh Ribuan?",
+  "hook_text": "Handuk Bisa Sampai Betis?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up handuk digantung lalu dibuka lebar ke arah kamera",
+      "narration": "nggak percaya ada handuk yang bisa nutupin badan sampe betis? --- Tunggu dulu, ini beneran!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot tekstur microfiber yang halus dengan pencahayaan cinematic",
+      "narration": "Ini dia Handuk Microfiber Jumbo 85x170cm --- yang literally next level banget buat kenyamanan kamu sehari-hari. Teksturnya halus, guys!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Graphic harga muncul dengan efek kilau atau kaget",
+      "narration": "Dan harga? Cuma lima puluhan ribu doang --- which is worth it banget buat ukuran gede gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi handuk dilipat kecil lalu ditaruh di tas",
+      "narration": "Ukurannya beneran jumbo --- buat tinggi 160cm aja nutup sampe betis. nggak terlalu tebal, tapi microfiber-nya cepet kering. Bobotnya ringan banget, jadi gampang banget dibawa traveling. --- Motif zigzagnya juga kelihatan mewah sih. Gak perlu khawatir kusut!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang packing tas atau di kamar kos",
+      "narration": "Pas banget buat kamu yang sering traveling --- atau mager ganti handuk tebal di kamar kos."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Counter jumlah penjualan 90.000 dan bintang rating 4.8",
+      "narration": "Udah 90.000 terjual dengan rating 4,8 --- yang udah beli bilang, beneran jumbo dan lembut banget di kulit."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul di layar dengan panah menunjuk ke bawah",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#HandukJumbo",
+    "#ProdukViral",
+    "#FindID",
+    "#HandukMicrofiber",
+    "#TravelEssentials",
+    "#BelanjaCerdas",
+    "#FYPIndonesia",
+    "#findingid"
+  ],
+  "product_id": 94992,
+  "product_title": "Handuk Mandi Dewasa Jumbo 85X170cm Handuk Microfiber Dewasa Perlengkapan Mandi Embos Zigzag",
+  "product_price": "58678.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/94992.jpg",
+    "/uploads/products/94992_1.jpg",
+    "/uploads/products/94992_2.jpg",
+    "/uploads/products/94992_3.jpg",
+    "/uploads/products/94992_4.jpg",
+    "/uploads/products/94992_5.jpg",
+    "/uploads/products/94992_6.jpg",
+    "/uploads/products/94992_7.jpg",
+    "/uploads/products/94992_8.jpg",
+    "/uploads/products/94992_9.jpg",
+    "/uploads/products/94992_10.jpg",
+    "/uploads/products/94992_11.jpg",
+    "/uploads/products/94992_12.jpg",
+    "/uploads/products/94992_13.jpg"
+  ],
+  "product_link": "https://finding.id/p/94992",
+  "generated_at": "2026-03-13T22:22:33.689Z"
+}

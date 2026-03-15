@@ -1,0 +1,87 @@
+{
+  "title": "Tas Korea Murah Meriah? 😱",
+  "hook_text": "Tas Korea harga pelajar?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas MKMC berputar dengan efek cahaya kilat",
+      "narration": "Nih bestie, tas Korea import yang lagi nge-hype banget di kalangan anak muda!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot detail tekstur kulit matte dan logo MKMC",
+      "narration": "Ini MKMC Tote Bag. Kulit matte halus, desainnya super elegant ala Korea. Teksturnya lembut banget dan bikin oke."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek koin jatuh",
+      "narration": "Harganya mulai seratus empat puluh ribuan doang! which is worth it banget buat kualitas begini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tas dibuka isi laptop dan buku, lalu ditutup dengan tatakan besi terlihat",
+      "narration": "Fiturnya next level: luas, ada tatakan besi biar rapi. --- Bahannya tebal, bukan murahan. Aman buat laptop atau buku kuliah. Stylish tanpa bikin dompet boncos."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita berjalan di kampus atau kantor sambil pakai tas ini",
+      "narration": "Perfect buat yang sering kuliah atau kerja tapi mau stylish. Kalau aktivitas kamu padat, ini solusinya. Bawaannya nyaman, nggak bikin capek seharian."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 5 dan angka 40.000+ terjual muncul animasi",
+      "narration": "Rating 4,91 dari 40 ribu plus pembeli! Yang udah beli bilang 'kualitas keren banget sih walaupun murah'. No cap, bestie. Beneran sih!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah mengarah ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya, ada review produk-nya di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#MKMC",
+    "#TasKorea",
+    "#TasKuliah",
+    "#AestheticBag",
+    "#OOTDIndonesia",
+    "#StudentEssentials",
+    "#TasMurah",
+    "#FindingID"
+  ],
+  "product_id": 106396,
+  "product_title": "MKMC Tote Bag Wanita Import Shoulder Bag Korean Style Tas Bahu Wanita Kuliah Terbaru Tas Jinjing Kulit Motif Kekinian Totebag Aesthetic Medium Multifungsi Hand Bag Resleting Monogram Kondangan Casual COD",
+  "product_price": "144000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/106396.jpg",
+    "/uploads/products/106396_1.jpg",
+    "/uploads/products/106396_2.jpg",
+    "/uploads/products/106396_3.jpg",
+    "/uploads/products/106396_4.jpg",
+    "/uploads/products/106396_5.jpg",
+    "/uploads/products/106396_6.jpg",
+    "/uploads/products/106396_7.jpg",
+    "/uploads/products/106396_8.jpg",
+    "/uploads/products/106396_9.jpg",
+    "/uploads/products/106396_10.jpg"
+  ],
+  "product_link": "https://finding.id/p/106396",
+  "generated_at": "2026-03-13T18:13:25.277Z"
+}

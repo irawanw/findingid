@@ -1,0 +1,96 @@
+{
+  "title": "Maybelline Baby Matte Cushion Gak Gak Tau!",
+  "hook_text": "Cuma 100 Ribu, Muka Jadi Kayak Bayi?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing matte dengan cushion di tangan, teks besar muncul di tengah.",
+      "narration": "Cuma 100 ribuan, muka jadi kayak bayi beneran?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan packaging cushion Maybelline warna ungu lilac dari berbagai sudut.",
+      "narration": "Ini Maybelline Superstay Baby Matte Cushion --- cushion baru yang lagi viral banget di semua feed!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga di layar dengan efek koin jatuh atau tanda centang hijau.",
+      "narration": "Harganya di bawah seratus delapan puluh ribuan --- which is worth it banget buat kamu yang cari full coverage tanpa bikin dompet jebol!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo aplikasikan cushion di wajah, tunjukkan tekstur matte dan hasil blur pori.",
+      "narration": "Ada triple blurring powder samarin pori minus 67 persen --- 24 jam non oxidizing, jadi gak keliatan kusam. Nggak bakal transfer ke masker, jadi aman banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas sehari-hari: jalan kaki, meeting, atau pakai masker.",
+      "narration": "Perfect buat kamu yang kulitnya berminyak --- atau sering keluar ruangan. Shade-nya ada 230.5 REF sampe 111.5 REF, jadi gampang banget cari yang cocok!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 5 dan jumlah terjual 20 ribu di layar.",
+      "narration": "Rating 4.92, udah 20 ribu produk terjual --- Yang udah beli bilang, 'dimuka jadi lebih smooth kayak kulit bayi beneran', literally so worth it!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tunjuk ke arah bawah atau ikon finding.id dengan animasi klik.",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie --- review produk-nya ada di sana, jangan sampai kehabisan!"
+    }
+  ],
+  "cta": "Penasaran detailnya? Cek di finding dot id ya bestie, review produk-nya ada di sana, jangan sampai kehabisan!",
+  "hashtags": [
+    "#MaybellineBabyMatte",
+    "#CushionViral",
+    "#MakeupIndonesia",
+    "#SkinCareRoutine",
+    "#BeautyHacks",
+    "#MakeupTips",
+    "#GenZBeauty",
+    "#FindingId"
+  ],
+  "product_id": 100900,
+  "product_title": "[NEW LAUNCH] NINGNING CHOICE - MAYBELLINE OFFICIAL Superstay Baby Matte Cushion 24H Baby Smooth Blurring Matte Oil Control Full Coverage Refill Transferproof Waterproof Matte Makeup Tidak Transfer Minim Oksidasi Cocok Untuk Kulit Berminyak Kulit Kering",
+  "product_price": "103900.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100900.jpg",
+    "/uploads/products/100900_1.jpg",
+    "/uploads/products/100900_2.jpg",
+    "/uploads/products/100900_3.jpg",
+    "/uploads/products/100900_4.jpg",
+    "/uploads/products/100900_5.jpg",
+    "/uploads/products/100900_6.jpg",
+    "/uploads/products/100900_7.jpg",
+    "/uploads/products/100900_8.jpg",
+    "/uploads/products/100900_9.jpg",
+    "/uploads/products/100900_10.jpg",
+    "/uploads/products/100900_11.jpg",
+    "/uploads/products/100900_12.jpg",
+    "/uploads/products/100900_13.jpg",
+    "/uploads/products/100900_14.jpg",
+    "/uploads/products/100900_15.jpg",
+    "/uploads/products/100900_16.jpg",
+    "/uploads/products/100900_17.jpg",
+    "/uploads/products/100900_18.jpg",
+    "/uploads/products/100900_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/100900",
+  "generated_at": "2026-03-13T16:40:50.163Z"
+}

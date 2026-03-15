@@ -1,0 +1,80 @@
+{
+  "title": "Koper 100ribuan Tahan Banting? 😱",
+  "hook_text": "Koper 100 ribuan kok bisa tahan banting sih?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan memegang koper dengan efek suara bantingan.",
+      "narration": "Koper 100 ribuan kok bisa tahan banting sih?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase produk koper Polo 20 inch hardcase dari berbagai sudut.",
+      "narration": "Nih bestie, Koper Polo 20 inch hardcase yang lagi viral banget. Desainnya kabin, jadi aman banget buat bawa ke pesawat dan traveling."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek suara koin.",
+      "narration": "Harganya bikin kaget, bestie! Cuma seratus tujuh puluh ribuan saja. Literally murah banget buat barang sekeren ini, which is worth it parah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase fitur: hardcase dijatuhkan, dimasukin barang, dan warna berbeda.",
+      "narration": "Keunggulannya? Pertama, hardcase anti pecah kalau jatuh. Kedua, ukuran pas 20 inch, muat banyak --- Ketiga, warna cakep dan styling oke banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang packing tas dan masukin koper ke bagasi mobil.",
+      "narration": "Jadi kalau kamu sering jalan-jalan atau butuh koper cadangan, ini solusinya. Gak perlu mahal-mahal dulu, bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.76 dan jumlah terjual 40.000.",
+      "narration": "Rating 4,76 dari 40.000 orang! Yang udah beli bilang \"barang datang tanpa kerusakan\". Beneran aman."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke bawah.",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detailnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#KoperMurah",
+    "#TravelHacks",
+    "#Koper20Inch",
+    "#ViralProduct",
+    "#FindingsId",
+    "#OngkirMurah",
+    "#RekomendasiKoper",
+    "#GenZ"
+  ],
+  "product_id": 113619,
+  "product_title": "KOPER 20 INCH POLO UKURAN KABIN KOPER HARDCASE KOPER MURAH 100RB AN TAHAN BANTING TIDAK MUDAH PECAH",
+  "product_price": "167400.00",
+  "product_rating": "4.76",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/113619.jpg",
+    "/uploads/products/113619_1.jpg",
+    "/uploads/products/113619_2.jpg",
+    "/uploads/products/113619_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/113619",
+  "generated_at": "2026-03-13T17:37:10.097Z"
+}

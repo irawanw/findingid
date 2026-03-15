@@ -1,0 +1,83 @@
+{
+  "title": "Samsung A16 8/128GB Murah Banget? Cek Dulu!",
+  "hook_text": "HP 2,5 Jutaan Layar AMOLED?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up HP Samsung A16 dengan efek cahaya, teks overlay muncul cepat.",
+      "narration": "Ternyata ada HP Samsung AMOLED di budget dua juta lima ratusan-an ya bestie?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Rotasi HP Samsung A16 hitam, menunjukkan desain glosy dari berbagai sudut.",
+      "narration": "Ini Samsung Galaxy A16 varian 8/128GB. Desainnya elegan glosy, mulus banget --- which is basically next level."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul besar, lalu muncul centang hijau fitur premium.",
+      "narration": "Harga cuma dua juta lima ratusan-an aja, padahal dapet fitur premium yang usually mahal banget di kelas atas."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menampilkan layar AMOLED, RAM, dan baterai dengan animasi grafis.",
+      "narration": "Ada layar Super AMOLED 90Hz super tajam, RAM 8GB multitasking tanpa lag, plus baterai 5000mAh tahan seharian --- Update keamanan enam tahun, literally worth it banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Siswa sedang belajar pakai HP, lalu transisi ke orang kantor pakai HP.",
+      "narration": "Perfect buat pelajar butuh HP kenceng buat tugas --- atau profesional muda yang butuh keamanan data jangka panjang. Nggak bakal nyesel!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating 4.93 dan angka 30.000 terjual muncul besar, disusul teks testimoni.",
+      "narration": "Ratingnya 4,93 dari tiga puluh ribu pembeli. Yang udah beli bilang --- barang datang aman mulus, semua fitur berfungsi tanpa ada yang rusak."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah menunjuk ke arah bawah atau layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie --- review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#SamsungA16",
+    "#HPSamsung",
+    "#TechIndonesia",
+    "#GadgetMurah",
+    "#GadgetKeren",
+    "#AndroidIndonesia",
+    "#FindingID",
+    "#SmartphoneMurah"
+  ],
+  "product_id": 50037,
+  "product_title": "Samsung Galaxy A16 8/128GB - Black",
+  "product_price": "2570000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/50037.jpg",
+    "/uploads/products/50037_1.jpg",
+    "/uploads/products/50037_2.jpg",
+    "/uploads/products/50037_3.jpg",
+    "/uploads/products/50037_4.jpg",
+    "/uploads/products/50037_5.jpg",
+    "/uploads/products/50037_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/50037",
+  "generated_at": "2026-03-13T16:09:38.987Z"
+}

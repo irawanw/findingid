@@ -1,0 +1,89 @@
+{
+  "title": "Cuci Muka Wajahmu Jadi Kiri Berminyak! 🧼✨",
+  "hook_text": "Stop Scrubbing Keras!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah yang terlihat iritasi atau merah saat dicuci sabun keras.",
+      "narration": "Stop scrubbing wajahmu keras-keras biar nggak perih banget! ---"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk SKINTIFIC Panthenol Gentle Gel Cleanser 120ml dengan tekstur gel bening.",
+      "narration": "Coba SKINTIFIC Panthenol Gentle Gel Cleanser 120ml. --- Amino acid plus Panthenol bikin pembersihan dalam pori-pori tapi tetap lembut banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek uang keluar, lalu produk bundle.",
+      "narration": "Gila sih, cuma lima puluh ribuan doang! --- Cleanse dalam tanpa bikin kering, worth it banget ya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: satu sisi kulit berminyak, sisi lain kulit glowing. Animasi pori-pori bersih.",
+      "narration": "Pertama, oil control juara buat kulit berminyak. --- Kedua, deep clean pori-pori tersumbat. --- Ketiga, panthenolnya bikin kulit tetap lembab. Basically next level hydrasi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang dengan kulit berjerawat sedang tersenyum, lalu orang lain menggosok wajah pelan.",
+      "narration": "Perfect buat yang kulit berminyak atau acne prone. --- Kalau ada yang bilang kering, oles tipis saja ya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 5 dan jumlah terjual, dengan quote bubble muncul.",
+      "narration": "Empat ratus ribu terjual. --- Rating empat koma sembilan dua. --- Yang udah beli bilang terasa lebih fresh dan segel."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan QR Code animasi dengan panunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SKINTIFIC",
+    "#CuciMuka",
+    "#SkincareIndonesia",
+    "#PoriPoriBersih",
+    "#GenZSkincare",
+    "#KulitLembut",
+    "#WajahGlow",
+    "#FindingId"
+  ],
+  "product_id": 142259,
+  "product_title": "SKINTIFIC - Panthenol Gentle Gel Cleanser 120ml | Sabun Pembersih Wajah Gentle Ultimate Moisturizing Pembersihan Pori-pori Kulit Berminyak Sabun Cuci Muka Oil Control Deep Clean Facial Wash Acne Prone Skin 3pcs Bundle",
+  "product_price": "53000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/142259.jpg",
+    "/uploads/products/142259_1.jpg",
+    "/uploads/products/142259_2.jpg",
+    "/uploads/products/142259_3.jpg",
+    "/uploads/products/142259_4.jpg",
+    "/uploads/products/142259_5.jpg",
+    "/uploads/products/142259_6.jpg",
+    "/uploads/products/142259_7.jpg",
+    "/uploads/products/142259_8.jpg",
+    "/uploads/products/142259_9.jpg",
+    "/uploads/products/142259_10.jpg",
+    "/uploads/products/142259_11.jpg",
+    "/uploads/products/142259_12.jpg"
+  ],
+  "product_link": "https://finding.id/p/142259",
+  "generated_at": "2026-03-14T02:14:29.243Z"
+}

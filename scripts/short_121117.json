@@ -1,0 +1,83 @@
+{
+  "title": "Masker Hitam Ini Bikin Kulit Glowing No Cap",
+  "hook_text": "Masker Hitam Bikin Kulit Glowing?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot wajah glowing dengan efek cahaya dramatis dan masker hitam di tangan.",
+      "narration": "Gak percaya ada masker hitam yang bikin kulit glowing cuma dalam sekali pakai?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Eileen Grace Black Jelly Mask dengan packaging yang estetik di atas meja marmer.",
+      "narration": "Ini dia Eileen Grace Deep Cleansing Mask, savior buat kamu yang punya masalah komedo dan pori-pori besar."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek koin jatuh dan tangan memegang botol masker.",
+      "narration": "Harganya cuma tiga ratus enam puluhan ribu aja, which is worth it banget buat volume 300 ml yang awet."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo aplikasi masker di wajah dengan tekstur jelly yang lembut, close-up tekstur produk.",
+      "narration": "Teksturnya gel jelly yang lembut, gampang diaplikasikan, nggak bikin lengket. --- Plus gentle exfoliation yang ampuh ngangkat sel kulit mati tanpa iritasi. --- Mencerahkan juga, literally worth it."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase orang dengan berbagai aktivitas seperti outdoor dan makeup removal menggunakan masker ini.",
+      "narration": "Perfect buat kamu yang kulitnya sensitif atau berminyak. --- Kulit chicken skin? Ini solusinya. Kalau aktivitas kamu banyak di luar ruangan, ini wajib banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan teks jumlah terjual 70 ribuan di layar dengan animasi bintang.",
+      "narration": "Rating 4,9 bintang dari 70 ribuan pembeli. --- Yang udah beli bilang 'Teksturnya enak dan performa bagus banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol search finding.id dan logo produk di layar dengan panah menunjuk ke arah link.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#skincarerutin",
+    "#maskerwajah",
+    "#eksklusif",
+    "#viral",
+    "#skincareindonesia",
+    "#gelmask",
+    "#kecantikan",
+    "#findingid"
+  ],
+  "product_id": 121117,
+  "product_title": "EILEEN GRACE - Deep Cleansing Black Jelly Mask 300 ml | Masker Wajah | Komedo | Pori | Kulit Berminyak | Chicken skin | Gentle exfoliation | Mencerahkan",
+  "product_price": "369000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/121117.jpg",
+    "/uploads/products/121117_1.jpg",
+    "/uploads/products/121117_2.jpg",
+    "/uploads/products/121117_3.jpg",
+    "/uploads/products/121117_4.jpg",
+    "/uploads/products/121117_5.jpg",
+    "/uploads/products/121117_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/121117",
+  "generated_at": "2026-03-13T16:28:47.309Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Samsung A07 Murah Banget Bestie!",
+  "hook_text": "Samsung A07? Emang boleh segini worth it?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up produk Samsung A07 4/64GB Black dengan efek cahaya dramatis.",
+      "narration": "Samsung A07 4/64GB? Emang boleh segini worth it bestie?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Rotasi 360 derajat bodi HP hitam yang terlihat sleek dan premium.",
+      "narration": "Kenalin nih, Samsung Galaxy A07 varian hitam yang super sleek dan kece."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek uang jatuh atau koin.",
+      "narration": "Harganya cuma satu tiga ratus sembilan puluh ribuan aja, literally serius which is no cap murah banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat fitur: layar besar, gaming, baterai, dan charger resmi.",
+      "narration": "Prosesor Helio G99 ngebut banget buat harian, layar sembilan puluh hertz enam koma tujuh inch super luas buat streaming. --- Baterai lima ribu mah tahan seharian penuh plus bonus Samsung Travel Adapter dua puluh lima watt resmi. Ada sertifikasi IP54 juga, literally next level worth it."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang menggunakan HP untuk streaming dan gaming di kafe.",
+      "narration": "Pas banget buat kamu yang cari HP awet budget terbatas, atau yang mau Samsung resmi aman dan terpercaya banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan counter jumlah penjualan naik cepat.",
+      "narration": "Rating empat koma sembilan tiga, udah terjual dua puluh ribu unit! Yang udah beli bilang 'Kondisi Barang ori masih segel' dan paket aman bestie."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol panah ke samping.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SamsungA07",
+    "#HPMurah",
+    "#GadgetViral",
+    "#SamsungIndonesia",
+    "#GadgetIndonesia",
+    "#Promo",
+    "#GamingHP",
+    "#FindingID"
+  ],
+  "product_id": 115379,
+  "product_title": "Samsung Galaxy A07 4/64GB - Black",
+  "product_price": "1399000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/115379.jpg",
+    "/uploads/products/115379_1.jpg",
+    "/uploads/products/115379_2.jpg",
+    "/uploads/products/115379_3.jpg",
+    "/uploads/products/115379_4.jpg",
+    "/uploads/products/115379_5.jpg",
+    "/uploads/products/115379_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/115379",
+  "generated_at": "2026-03-13T16:15:23.890Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Chia Seed Premium Murah Banget!",
+  "hook_text": "Ngak percaya? Sehat cuma enam puluhan ribu doang!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up biji chia seeds yang dituang dari kemasan dengan efek slow motion",
+      "narration": "Ngak percaya? Sehat cuma enam puluhan ribu doang! Nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan kemasan produk di tangan, lalu zoom in ke tulisan 100% Murni",
+      "narration": "Ini Organic Chia Seeds Premium seratus persen murni non GMO. Asli dari Bandung, kualitasnya next level banget, bestie!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan tulisan harga besar 'Rp 65.000' dengan efek sparkle",
+      "narration": "Dan harganya? Cuma enam puluhan ribu doang! Worth it banget buat asupan harian lo tanpa bikin dompet jebol."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjuk tekstur biji, kanan tunjuk video lo cuci bersih biji",
+      "narration": "Pertama, kaya serat tinggi. Kedua, tekstur biji hitamnya asli, nggak ada campuran. Oh iya, buat yang khawatir soal kebersihan, pastikan lo cuci bersih dulu ya! --- Nggak ada rasa, itu wajar karena murni."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang makan oatmeal atau smoothie dengan campuran chia seeds",
+      "narration": "Perfect buat yang lagi diet sehat atau yang pengen tambah asupan nutrisi tanpa ribet. Kalau aktivitas lo padat, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan screenshot rating bintang 4.9 dan jumlah terjual",
+      "narration": "Rating empat koma sembilan dari tiga puluh ribu pembeli! Yang udah beli bilang, 'Pengiriman cepat dan kemasan rapih banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilkan logo finding.id dan panah mengarah ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie --- review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#ChiaSeeds",
+    "#SehatMurah",
+    "#DietSehat",
+    "#RekomendasiProduk",
+    "#FoodVlog",
+    "#TipsSehat",
+    "#GayaHidupSehat",
+    "#FindingID"
+  ],
+  "product_id": 138398,
+  "product_title": "Organic Chia Seeds Premium Quality Original 100% Murni non GMO Biji Chiaseed Hitam Organik Chia seed",
+  "product_price": "65000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/138398.jpg",
+    "/uploads/products/138398_1.jpg",
+    "/uploads/products/138398_2.jpg",
+    "/uploads/products/138398_3.jpg",
+    "/uploads/products/138398_4.jpg",
+    "/uploads/products/138398_5.jpg",
+    "/uploads/products/138398_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/138398",
+  "generated_at": "2026-03-13T19:08:42.078Z"
+}

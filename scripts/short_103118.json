@@ -1,0 +1,87 @@
+{
+  "title": "Kuas 9pcs Cuma 70 Ribu? Gak Kena Tipu!",
+  "hook_text": "Kuas 9pcs Cuma 70 Ribu?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up kuas dengan efek cahaya dramatis dan teks overlay besar",
+      "narration": "Gak percaya? Kuas 9 pcs ini cuma seharga secangkir kopi? --- Kenalin nih, MAANGE 9pcs Kuas Make Up Brush."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan memegang set kuas lengkap dengan background minimalis dan pencahayaan hangat",
+      "narration": "Ini tuh lengkap banget, which is perfect buat kamu yang baru mau mulai belajar make up. --- Harganya? Cuma tujuh puluh ribuan doang!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Overlay teks harga besar dengan efek glitter dan transisi cepat",
+      "narration": "Which is worth it banget kalau dibandingin sama kualitasnya. --- Pertama, bulunya nylon yang super lembut."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Macro shot tekstur bulu kuas dan gerakan swatch di kulit wajah",
+      "narration": "Kedua, ada sembilan fungsi berbeda mulai dari bedak sampe eyeshadow. --- Ketiga, meski ada yang bilang ukuran kecil, ini justru lebih mudah dikontrol."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang sedang packing tas travel sambil membawa kuas dan senyum ceria",
+      "narration": "Perfect buat kamu yang sering travel atau butuh set lengkap buat daily makeup tanpa bikin dompet bolong. --- Ratingnya 4.9, sudah empat puluh ribu terjual."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan counter penjualan naik dengan efek suara ding",
+      "narration": "Yang udah beli bilang, Maange nggak pernah gagal bikin kuas. --- Penasaran sama detail lengkapnya?"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan animasi panah ke bawah dan tombol klik",
+      "narration": "Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#MAANGE",
+    "#KuasMakeUp",
+    "#MakeUpMurah",
+    "#BeautyTools",
+    "#GenZIndonesia",
+    "#ViralProduct",
+    "#TipsMakeUp",
+    "#FindingID"
+  ],
+  "product_id": 103118,
+  "product_title": "MAANGE 9pcs Kuas Make Up Brush Foundation Makeup Beauty Tools For Makeup Beginner 51129",
+  "product_price": "72900.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/103118.jpg",
+    "/uploads/products/103118_1.jpg",
+    "/uploads/products/103118_2.jpg",
+    "/uploads/products/103118_3.jpg",
+    "/uploads/products/103118_4.jpg",
+    "/uploads/products/103118_5.jpg",
+    "/uploads/products/103118_6.jpg",
+    "/uploads/products/103118_7.jpg",
+    "/uploads/products/103118_8.jpg",
+    "/uploads/products/103118_9.jpg",
+    "/uploads/products/103118_10.jpg"
+  ],
+  "product_link": "https://finding.id/p/103118",
+  "generated_at": "2026-03-13T21:25:36.183Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "ASI Boncos? Solusi Herbal Juara Ini Must Have!",
+  "hook_text": "ASIMURAH BUKAN MITOS BESTIE!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah ibu menyusui yang panik sambil pegang botol ASI kosong dengan teks overlay besar 'ASI BONCOS? STOP SCROLL!'",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?' Ada yang bilang 'Ketiak jadi kering!'"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke produk Fenucaps berdiri kokoh di tengah meja dengan background warna pastel cerah, zoom in ke kemasan",
+      "narration": "Tenang bestie, oles tipis saja ya! Solusinya ada di Fenucaps Asi Booster, kapsul herbal organik yang literally worth it banget buat kamu yang lagi pusing sama produksi ASI."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Efek visual harga melompat naik lalu turun drastis ke harga akhir dengan efek confetti emas, teks 'HANYA SATU JUTA' muncul besar lalu hilang",
+      "narration": "Bayar satu jutaan? No cap, sekarang cuma perlu seratus delapan puluhan ribu aja! Dapatkan langsung satu juta kapsul seharga segelas kopi mahal, which is basically next level hemat!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunas jahe kunyit fenugreek, kanan sertifikasi BPOM Halal HACCP, lalu transisi ke ibu tersenyum bahagia menggendong bayi",
+      "narration": "Kandungannya fenugreek jahe dan kunyit organik terstandarisasi, plus aman banget karena punya sertifikasi lengkap BPOM Halal HACCP dan FDA approved. Gak cuma melancarkan ASI aja, tapi bantu cegah mastitis dan pereda peradangan juga!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase singkat: ibu menyusui di pagi hari, ibu di kantor, dan ibu sedang menyusui di malam hari dengan caption 'Perfect for you'",
+      "narration": "Perfect buat yang aktivitasnya padat dan butuh ASI lancar terus, atau kalau kamu sering khawatir sama kesehatan pencernaan bayi dan ibu. Isinya seratus kapsul juga, cukup buat dua tahun!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating bintang 4.91 dengan latar belakang ribuan orang membeli, teks kutipan muncul dengan gaya speech bubble",
+      "narration": "Pembelinya pada ngomong 'Banyak mrek lain yg pernah saya coba.... hasil nya tidak sebanyak fenucaps....' Plus rating empat sembilan satu dari delapan puluh ribu yang udah beli bilang!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh tulisan 'CEK DI FINDING DOT ID' dengan tombol animasi 'KLIK SEKARANG' yang bergetar",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Fenucaps",
+    "#ASIBooster",
+    "#IbuMenyusui",
+    "#SuplemenHamil",
+    "#HerbalOrganik",
+    "#LancarASI",
+    "#VitaminHamil",
+    "#BestieMom"
+  ],
+  "product_id": 22018,
+  "product_title": "Fenucaps Asi Booster Pelancar Asi (100 kap)",
+  "product_price": "319000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/22018.jpg",
+    "/uploads/products/22018_1.jpg",
+    "/uploads/products/22018_2.jpg",
+    "/uploads/products/22018_3.jpg",
+    "/uploads/products/22018_4.jpg",
+    "/uploads/products/22018_5.jpg",
+    "/uploads/products/22018_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/22018",
+  "generated_at": "2026-03-14T21:18:08.727Z"
+}

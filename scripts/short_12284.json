@@ -1,0 +1,78 @@
+{
+  "title": "Regulator Gas Anti Bocor?!",
+  "hook_text": "Gas bocor? Ngeri banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah panik melihat kompor, lalu transisi ke produk regukator dengan efek zoom in",
+      "narration": "Gas bocor? Ngeri banget kan! --- Nggak mau ambil risiko ya bestie, harus aman dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Regulator Starcam SC-T12 di atas meja dapur dengan pencahayaan terang",
+      "narration": "Kenalin nih Regulator Starcam SC-T12, standar SNI Indonesia, no cap, super reliable!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks animasi harga muncul besar di layar dengan efek suara koin",
+      "narration": "Harganya cuma sembilan puluh ribuan sampe seratus tiga puluhan ribuan aja, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: aliran gas, klep cengkeram, kompor menyala langsung",
+      "narration": "Alirannya next level, bisa 2kg per jam --- Klep C cengkeram kuat, nggak goyah dikitpun --- Pasang langsung nyala, nggak perlu nunggu emosi dulu, literally save banget, worth it!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang memasang regulator ke tabung 3kg, lalu ekspresi puas",
+      "narration": "Perfect buat kamu yang pake tabung 3kg atau 12kg --- Hati-hati ya, selangnya standar, jadi mungkin butuh selang khusus buat keamanan ekstra, jangan lupa check, so important!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.84 bintang dan angka 40.000 terjual",
+      "narration": "Sudah 40 ribu terjual dengan rating 4.84 --- Yang udah beli bilang 'langsung pasang, bagus banget!'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar hitam dengan teks finding.id dan panah mengarah ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana, jangan sampe ketinggalan!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#regulatorgas",
+    "#starcam",
+    "#komporgas",
+    "#tipsdapur",
+    "#lifehack",
+    "#produkviral",
+    "#rumahsehat",
+    "#findingid"
+  ],
+  "product_id": 12284,
+  "product_title": "Regulator Gas STARCAM SC-T12RM Meter / SC-T12R Non Meter / Regulator Kompor Gas LPG Destec",
+  "product_price": "91000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/12284.jpg",
+    "/uploads/products/12284_1.jpg"
+  ],
+  "product_link": "https://finding.id/p/12284",
+  "generated_at": "2026-03-13T20:32:53.721Z"
+}

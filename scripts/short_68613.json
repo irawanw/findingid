@@ -1,0 +1,77 @@
+{
+  "title": "Sepatu Murah 100 Ribu? Worth It Banget!",
+  "hook_text": "Sepatu 100 Ribu Tapi Kualitas Premium?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up sepatu jalan dengan gerakan cepat dan efek zoom in.",
+      "narration": "Gila sih, sepatu ini cuma seratus puluhan ribu doang! --- Tapi dengerin dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Zoom out sepatu di kaki, rotasi 360 derajat menunjukkan desain matte.",
+      "narration": "Ini FED Sneaker Sano, desain matte yang sleek banget buat gaya kasual kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga vs kualitas, transisi cepat ke tangan memegang sepatu.",
+      "narration": "Harganya cuma seratus belasan ribu. Literally, which is worth it banget buat kantong pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up sol karet, bahan kulit sintetis, dan lebar kaki saat dipakai.",
+      "narration": "Fiturnya? Wide fit, nggak bikin kaki sempit. Sol karet anti-slip bikin jalan aman. --- Bahan kulit sintetis tahan banting dan gampang dibersihkan. No cap, ini next level buat daily wear."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang berjalan santai di luar ruangan, suasana kuliah atau kerja.",
+      "narration": "Perfect buat aktivitas luar atau kuliah. Kalau kamu punya kaki lebar, ini solusinya. --- Beneran nyaman banget dipakai seharian."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.72 dan jumlah terjual 40.000, teks kutipan muncul.",
+      "narration": "Rating 4,72 dari empat puluh ribu pembeli. --- Yang udah beli bilang, 'Kualitas Top banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke arah link.",
+      "narration": "Cek detailnya di finding dot id ya, ada review produknya!"
+    }
+  ],
+  "cta": "Cek detailnya di finding dot id ya, ada review produknya!",
+  "hashtags": [
+    "#SepatuMurah",
+    "#SneakerKeren",
+    "#FEDShoes",
+    "#OOTD",
+    "#RekomendasiProduk",
+    "#CariProduk",
+    "#ViralProducts",
+    "#TipsGaya"
+  ],
+  "product_id": 68613,
+  "product_title": "FED Sepatu Sneaker Casual SANO WHITE & BLACK",
+  "product_price": "110307.00",
+  "product_rating": "4.72",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/68613.jpg"
+  ],
+  "product_link": "https://finding.id/p/68613",
+  "generated_at": "2026-03-13T19:26:10.972Z"
+}

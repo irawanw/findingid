@@ -1,0 +1,83 @@
+{
+  "title": "Sabun Wajah Anti-Aging Murah Banget! 🧼✨",
+  "hook_text": "STOP SCROLL! Murah Banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah yang terlihat lelah dan kusam lalu transisi cepat ke wajah glowing sambil memegang botol sabun.",
+      "narration": "Gila sih, kamu masih pakai sabun biasa buat kulit kusam? Stop sekarang!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk NPURE Marigold diputar-putar di depan kamera dengan efek cahaya kinematik.",
+      "narration": "Coba ganti ke NPURE Marigold Deep-Cleanse, bestie. Ini bukan cuma pembersih biasa, tapi anti-aging natural lho."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga besar di layar dengan efek getar 'WOW' dan background berwarna cerah.",
+      "narration": "Beneran, harganya cuma delapan puluhan ribu perak doang, which is worth it banget untuk kualitas premium gini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: teks 'Bebas SLS' muncul, lalu visual busa lembut di wajah, lalu ikon kulit awet muda.",
+      "narration": "No cap, formulanya bebas SLS jadi nggak bikin kering atau perih. Plus ada Peptides dan Adenosine buat anti-aging, plus bisa ngangkat polusi dan sel kulit mati sekaligus, basically next level!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas: orang kerja di kantor, orang jogging sore, dan orang skincare di kamar tidur.",
+      "narration": "Perfect buat kamu yang kulitnya normal atau kombinasi dan butuh perawatan anti-aging praktis, plus aromanya soft dan nggak nyengat sama sekali."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.92 bintang dengan angka 30.000 terjual membesar.",
+      "narration": "Nggak percaya? Para pembelinya pada ngomong muka jadi kenyal dan wanginya lembut, lho!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi tombol beli yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id ya!",
+  "hashtags": [
+    "#skincareroutine",
+    "#skincareindonesia",
+    "#antiagingnatural",
+    "#npuremarigold",
+    "#glowingskin",
+    "#skincaremurah",
+    "#bpomverified",
+    "#findingid"
+  ],
+  "product_id": 142286,
+  "product_title": "NPURE Facial Wash Marigold/ Deep-Cleanse / Anti Aging Facial Wash / Sabun Wajah Natural",
+  "product_price": "80000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/142286.jpg",
+    "/uploads/products/142286_1.jpg",
+    "/uploads/products/142286_2.jpg",
+    "/uploads/products/142286_3.jpg",
+    "/uploads/products/142286_4.jpg",
+    "/uploads/products/142286_5.jpg",
+    "/uploads/products/142286_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/142286",
+  "generated_at": "2026-03-14T04:23:21.304Z"
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Setelan Olahraga Murah Tapi Mewah?!",
+  "hook_text": "Budget minim, gaya next level!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wanita sedang jogging dengan outfit sporty yang terlihat sangat elegan dan nyaman di jalan.",
+      "narration": "Mau olahraga dengan gaya yang bikin pede, tapi dompet nggak boleh kuras? Nih, aku nemuin rahasia biar kamu tetap stylish tanpa perlu keluar uang banyak!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan setelan Sport Crop 3IN1 lengkap (atasan, rok, manset) dengan background warna-warni yang cerah.",
+      "narration": "Ini dia SPORT CROP satu set lengkap, menggunakan bahan Jersey Joya yang literally super lembut dan elastis banget di kulit. Basically next level comfort buat kamu yang aktif banget gerakannya!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan harga Rp Empat Puluan Ribu s.d Rp Seratus Tiga Puluan Ribu, sambil tunjukkan detail jahitan yang rapi.",
+      "narration": "Gila sih, kualitas setara baju mahal harganya cuma seratus tiga puluhan ribu dong! Bandingkan, di tempat lain minimal satu jutaan. Worth it banget nggak sih?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase fitur: 1. Tekstur bahan yang meregang saat ditarik, 2. Close up pola rupel di kain, 3. Skenario lari di bawah terik matahari.",
+      "narration": "Kelebihannya no cap: pertama, anti bau dan kompresi biar performa olahraga kamu maksimal. Kedua, desainnya punya pola rupel yang bikin kamu kelihatan langsing dan mewah. Dan ketiga, lengan panjangnya punya perlindungan sinar UV yang nggak boleh diabaikan bestie."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video split screen: kiri wanita jogging, kanan wanita yoga, lalu zoom in ke ekspresi senyum puas.",
+      "narration": "Perfect buat kamu yang suka jogging, yoga, atau zumba. Kalau kamu sering merasa baju olahraga biasa bikin lebam atau nggak adem, ini solusinya. Pilihan paket lengkap atasan, rok, manset, atau rompi saja sesuai kebutuhanmu!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.85 bintang dan angka 80.000 terjual, disertai foto testimoni pembeli.",
+      "narration": "Pembelinya pada ngomong kalau ukurannya pas dan nggak kependekan, plus ootd-nya bikin mereka kelihatan cantik dan langsing. Jadi nggak ada ragu lagi ya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol besar finding.id dengan animasi panah menunjuk ke bawah, teks 'Cek Detail di Sini!'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, semua info produk ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#FashionOlahraga",
+    "#JerseyJoya",
+    "#SportCrop",
+    "#BudgetFriendly",
+    "#OOTDOlahraga",
+    "#WanitaAktif",
+    "#StyleMurah",
+    "#FindingId"
+  ],
+  "product_id": 143162,
+  "product_title": "SPORT CROP | Set Sport  3IN1 Setelan Baju Olahraga | Setelan Wanita Cocok Untuk Segala Jenis Olahraga Manggunakan Bahan Jerey Joya",
+  "product_price": "99250.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/143162.jpg",
+    "/uploads/products/143162_1.jpg",
+    "/uploads/products/143162_2.jpg",
+    "/uploads/products/143162_3.jpg",
+    "/uploads/products/143162_4.jpg",
+    "/uploads/products/143162_5.jpg",
+    "/uploads/products/143162_6.jpg",
+    "/uploads/products/143162_7.jpg",
+    "/uploads/products/143162_8.jpg",
+    "/uploads/products/143162_9.jpg",
+    "/uploads/products/143162_10.jpg",
+    "/uploads/products/143162_11.jpg",
+    "/uploads/products/143162_12.jpg",
+    "/uploads/products/143162_13.jpg",
+    "/uploads/products/143162_14.jpg",
+    "/uploads/products/143162_15.jpg",
+    "/uploads/products/143162_16.jpg",
+    "/uploads/products/143162_17.jpg",
+    "/uploads/products/143162_18.jpg",
+    "/uploads/products/143162_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/143162",
+  "generated_at": "2026-03-14T04:23:45.496Z"
+}

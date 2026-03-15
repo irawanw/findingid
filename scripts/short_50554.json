@@ -1,0 +1,83 @@
+{
+  "title": "Sajadah Masjid Murah Tapi Mewah?",
+  "hook_text": "Sajadah Empuk Harga Kaki Lima?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up sajadah sedang dipakai sujud, lalu cut ke wajah host yang kaget",
+      "narration": "Pernah ngerasa sajadah biasa bikin lutut sakit pas sujud? --- Tenang bestie, kita punya solusinya."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase produk Alhadi MEDGRA SHABEL dari atas, tunjukkan tekstur bulunya",
+      "narration": "Kenalin nih Alhadi Karpet MEDGRA SHABEL. --- Tebalnya 9mm, bulu lembut banget bikin sujud jadi nyaman."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar, host menunjuk ke harga",
+      "narration": "Harganya gak nyangka, cuma lima puluh ribuan aja! --- Which is basically worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase 3 fitur: tekstur lembut, ukuran, dan desain timur tengah",
+      "narration": "Teksturnya halus gak gerah, ukuran 57 sama 105 cm pas banget buat satu orang. --- Desainnya super estetik banget ala timur tengah."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Host sedang melariskan sajadah ke tas atau musholla kecil",
+      "narration": "Perfect buat musholla pribadi atau sering bawa ke masjid. --- Kalau kamu butuh yang awet dan gak gampang pudar."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan jumlah terjual 20 ribu",
+      "narration": "Rating 4.9, udah terjual 20 ribu! --- Yang udah beli bilang paket aman sampai tujuan. Ada yang komplain warna merah beda dikit, mending cek varian dulu ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tulisan finding dot id muncul besar di layar dengan panah",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, ada review produknya lengkap di sana dong!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, ada review produknya lengkap di sana dong!",
+  "hashtags": [
+    "#SajadahMurah",
+    "#KarpetMasjid",
+    "#Alhadi",
+    "#SajadahEmpuk",
+    "#MushollaRumah",
+    "#MuslimGenZ",
+    "#ProdukViral",
+    "#FindingID"
+  ],
+  "product_id": 50554,
+  "product_title": "Alhadi Karpet Masjid MEDGRA SHABEL 57cm x 105cm Tebal 9mm Per SATU KOTAK Sajadah GAMBAR Pilar/Masjid",
+  "product_price": "51000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/50554.jpg",
+    "/uploads/products/50554_1.jpg",
+    "/uploads/products/50554_2.jpg",
+    "/uploads/products/50554_3.jpg",
+    "/uploads/products/50554_4.jpg",
+    "/uploads/products/50554_5.jpg",
+    "/uploads/products/50554_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/50554",
+  "generated_at": "2026-03-13T21:11:14.664Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Box Baju 150L Harga Kaget! Worth It Banget",
+  "hook_text": "Box baju 150L cuma 50 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot kotak storage besar yang dibuka, lalu transisi cepat ke layar harga Rp 50.000.",
+      "narration": "Nih bestie, kamu percaya nggak kalau box storage baju gede banget ini harganya cuma lima puluh ribuan? Literally no cap, ini musti banget kamu lihat!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Menampilkan kotak storage dengan berbagai ukuran (66L/100L/150L), lalu menunjukkan frame baja yang kokoh saat ditekan.",
+      "narration": "Ini dia si 66L sampe 150L, storage box organizer pakaian super serbaguna yang tahan lembab banget. Frame bajanya kuat, jadi nggak gampang penyok walaupun kamu isi penuh."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri gambar kotak besar penuh baju, kanan tulisan harga Rp 50.000 an dengan efek kilau.",
+      "narration": "Bayangin, kamu dapet box sebesar ini cuma dengan harga lima puluh ribuan an. Bandingin sama box plastik biasa yang cuma muat sedikit, ini so worth it banget, which is literally harga termurah di pasaran!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Tangan membuka double zipper, 2. Menekan bagian atas/bawah kotak yang keras, 3. Menyimpan handuk tebal dan bayi ke dalam kotak.",
+      "narration": "Fiturnya next level bestie. Pertama, double zipper yang super smooth dan aman. Kedua, bagian atas dan bawahnya keras kaya papan, plus kerangka kokoh di tiap sisi. Ketiga, muat banget! Ada yang bilang bisa masuk empat handuk tebal, satu handuk tipis, plus empat handuk bayi. Gila sih!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Seseorang menata lemari baju yang berantakan jadi rapi dalam waktu singkat menggunakan kotak ini.",
+      "narration": "Ini perfect banget buat kamu yang punya lemari baju berantakan, anak kos yang butuh space efisien, atau bunda yang butuh tempat mainan anak yang rapi. Kalau aktivitas kamu sering pindah-pindah rumah atau sekadar butuh kerapian, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.82 bintang di layar, diselingi teks '20.000+ Terjual' dengan animasi panah naik.",
+      "narration": "Sudah terjual dua puluh ribu produk dengan rating empat koma delapan dua! Yang udah beli bilang, 'Kualitas bagus, tampilannya menarik, dan performanya kuat banget.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host menunjuk ke arah kamera dengan senyum lebar, background produk storage box.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#StorageBox",
+    "#RuangRapi",
+    "#FurniturMurah",
+    "#GenZIndonesia",
+    "#LifeHack",
+    "#KotakBaju",
+    "#TipsRumah",
+    "#ViralIndonesia"
+  ],
+  "product_id": 155342,
+  "product_title": "66L/100L/150L kotak penyimpanan baju storage box organizer pakaian serbaguna mainan box tahan lembab storage box baju besar organizer frame baja Double Zipper Large",
+  "product_price": "50001.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/155342.jpg",
+    "/uploads/products/155342_1.jpg",
+    "/uploads/products/155342_2.jpg",
+    "/uploads/products/155342_3.jpg",
+    "/uploads/products/155342_4.jpg",
+    "/uploads/products/155342_5.jpg",
+    "/uploads/products/155342_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/155342",
+  "generated_at": "2026-03-15T12:35:18.546Z"
+}

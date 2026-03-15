@@ -1,0 +1,85 @@
+{
+  "title": "Mini Backpack Ini Muat Tablet 12 Inch?",
+  "hook_text": "Tas mungil tapi muat semua?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas dibuka dikit dikit sambil ekspresi kaget",
+      "narration": "Pernah nggak sih liat tas mini tapi isinya melimpah?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk lengkap + warna-warni berjejer rapi",
+      "narration": "Kenalin nih, TWOSTRAP Mini Flappy Backpack. --- Desainnya compact, tapi fiture-nya literally next level banget, bestie!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga besar + efek kaget",
+      "narration": "Dan tau nggak? Harganya cuma 200 ribuan, --- which is worth it banget buat kualitas sekeren ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo sleeve tablet, kantong-kantong, bahan kanvas detail",
+      "narration": "Ada sleeve khusus tablet 12 inch yang aman, banyak kompartemen buat organization barang. --- Bahannya kanvas halus tahan lama, plus internal hook lock yang super praktis banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Mahasiswa/pekerja jalan-jalan santai pakai tas ini",
+      "narration": "Perfect buat kalian yang sering kuliah, kerja, atau jalan-jalan santai. --- Kalau aktivitas kamu on the go, ini solusinya, no cap, bestie!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang + testimoni pembeli",
+      "narration": "Rating 4.93, udah terjual 20 ribuan! --- Yang udah beli bilang 'modelnya lucuu, bahannya bagus ga mudah rusak, plus warnanya juga cantik banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id + Tas di tangan",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#TWOSTRAP",
+    "#MiniBackpack",
+    "#TasWanita",
+    "#StudentEssential",
+    "#ViralProduct",
+    "#FindYourStyle",
+    "#GayaKerja",
+    "#KuliahKenyang"
+  ],
+  "product_id": 78168,
+  "product_title": "TWOSTRAP - Mini Flappy Backpack - Tas Ransel Wanita 12 Inch",
+  "product_price": "208000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/78168.jpg",
+    "/uploads/products/78168_1.jpg",
+    "/uploads/products/78168_2.jpg",
+    "/uploads/products/78168_3.jpg",
+    "/uploads/products/78168_4.jpg",
+    "/uploads/products/78168_5.jpg",
+    "/uploads/products/78168_6.jpg",
+    "/uploads/products/78168_7.jpg",
+    "/uploads/products/78168_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/78168",
+  "generated_at": "2026-03-13T17:05:46.371Z"
+}

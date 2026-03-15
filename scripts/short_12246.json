@@ -1,0 +1,96 @@
+{
+  "title": "Regulator Gas Winn W-900, Anti Bocor Bestie!",
+  "hook_text": "Gas bocor lagi? STOP!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah panik memegang selang gas yang bocor dengan asap keluar, lalu transisi cepat ke produk Winn W-900 yang terlihat kokoh.",
+      "narration": "Gas bocor lagi? Stop bestie! Jangan sampe dapur jadi bom waktu deh."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk regulator Winn W-900 di atas meja dapur yang bersih, zoom in ke detail bodi metalik dan selangnya.",
+      "narration": "Ini Winn Gas W-900, regulator gas yang literally next level buat keamanan dapur kamu. Kapasitas tinggi, bisa ngopi tabung tiga kilo, lima kilo, atau bahkan dua belas kilo."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan grafis harga besar di layar dengan efek 'pop', lalu tunjukkan tumpukan produk varian warna merah dan hitam.",
+      "narration": "Harga cuma dua puluh sembilan ribuan sampe tujuh puluh sembilan ribuan, which is worth it banget! Kualitas sekelas premium, tapi harga mahasiswa. No cap, ini deal of the century."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi cepat: tangan memutar pengunci (fitur 1), tangan memasang regulator tanpa bongkar karet (fitur 2), dan tunjukkan stiker garansi (fitur 3).",
+      "narration": "Fitur penguncinya otomatis mencegah kebocoran gas, basically next level. Pemasangan mudah tanpa perlu mengganti karet lagi, super praktis. Kualitas terjamin dengan garansi satu tahun, plus packing aman pakai bubble wrap buat ekspedisi yang selamat."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu rumah tangga sedang memasak nasi goreng dengan tenang, lalu cut ke anak muda menghidangkan makanan di pesta kecil di rumah.",
+      "narration": "Perfect buat kamu yang sering masak di rumah dan nggak mau repot. Kalau aktivitas kamu butuh keamanan maksimal saat ngadukan makanan, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.86 besar di layar dengan tulisan '40.000 Terjual', lalu muncul quote bubble dari pembeli.",
+      "narration": "Pembelinya pada ngomong, 'Tanpa karet tidak bocor, otomatis menutup tanpa selang'. Seratus persen aman, no gas leak!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah, background warna cerah dan ceria.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#RegulatorGasWinn",
+    "#AntiBocor",
+    "#DapurAman",
+    "#ProdukViral",
+    "#TipsDapur",
+    "#HematBeliOnline",
+    "#WinnGasW900",
+    "#SafetyFirst"
+  ],
+  "product_id": 12246,
+  "product_title": "FREE BUBLE WARP Winn Gas W-900 Regulator Gas / Selang Gas / Regulator Kompor Gas / Selang Kompor Gas /Selang Regulator Kompor Gas",
+  "product_price": "147000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/12246.jpg",
+    "/uploads/products/12246_1.jpg",
+    "/uploads/products/12246_2.jpg",
+    "/uploads/products/12246_3.jpg",
+    "/uploads/products/12246_4.jpg",
+    "/uploads/products/12246_5.jpg",
+    "/uploads/products/12246_6.jpg",
+    "/uploads/products/12246_7.jpg",
+    "/uploads/products/12246_8.jpg",
+    "/uploads/products/12246_9.jpg",
+    "/uploads/products/12246_10.jpg",
+    "/uploads/products/12246_11.jpg",
+    "/uploads/products/12246_12.jpg",
+    "/uploads/products/12246_13.jpg",
+    "/uploads/products/12246_14.jpg",
+    "/uploads/products/12246_15.jpg",
+    "/uploads/products/12246_16.jpg",
+    "/uploads/products/12246_17.jpg",
+    "/uploads/products/12246_18.jpg",
+    "/uploads/products/12246_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/12246",
+  "generated_at": "2026-03-14T04:10:37.734Z"
+}

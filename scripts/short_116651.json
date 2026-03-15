@@ -1,0 +1,79 @@
+{
+  "title": "Skintific Sunscreen SPF50 Worth It Gak?",
+  "hook_text": "Sunscreen Murah Ini Jahat Banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing dengan efek sinar matahari, ekspresi kaget.",
+      "narration": "Sumpah bestie, sunscreen ini kayaknya nggak fair lah!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk diputar pelan, lalu ditunjukkan tekstur di tangan.",
+      "narration": "Kenalin, Skintific 5X Ceramide Serum Sunscreen SPF50 PA++++. Ini literally next level banget buat yang punya skin barrier bermasalah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Harga muncul besar di layar, ekspresi terkejut.",
+      "narration": "Harganya? Cuma 80-an ribu aja bestie. Padahal isinya 50 gram, which is worth it banget dibanding brand lain."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Aplikasi produk ke wajah, tetesan air, test makeup.",
+      "narration": "Teksturnya cair banget, nggak lengket. Ada 5X Ceramide-nya bener-bener ngebantu skin barrier. --- Ada yang bilang kental dikit sih, tapi itu karena serum-nya nge-lock kelembaban. --- Ukuran berkurang jadi 50gr, tapi nggak masalah karena packaginya travel friendly. SPF50 PA++++ protection-nya no cap, anti UV sepuas kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang di luar ruangan lalu masuk ruangan kantor/sekolah.",
+      "narration": "Perfect buat yang sering aktivitas outdoor, atau yang kulitnya sensitif gampang iritasi. Kalau kamu butuh sunscreen yang aman dan nggak bikin jerawatan, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 4.94, angka terjual 20k, kutipan review muncul.",
+      "narration": "Ratingnya 4,94 bintang! Sudah terjual 20.000 produk. Yang udah beli bilang, 'Penyerapan cepat meresap dan barang diterima dengan baik'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke layar, logo finding.id muncul.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Skintific",
+    "#SunscreenMurah",
+    "#SkincareJepang",
+    "#GenZSkincare",
+    "#Recommendation",
+    "#ViralProduct",
+    "#SkinBarrier",
+    "#FindingID"
+  ],
+  "product_id": 116651,
+  "product_title": "Skintific 5X Ceramide Serum Sunscreen SPF50 PA++++ 50g",
+  "product_price": "78600.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/116651.jpg",
+    "/uploads/products/116651_1.jpg",
+    "/uploads/products/116651_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/116651",
+  "generated_at": "2026-03-13T21:10:05.549Z"
+}

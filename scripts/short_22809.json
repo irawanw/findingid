@@ -1,0 +1,83 @@
+{
+  "title": "Gendongan Bayi Anti Panas! Cuma 70-an Ribu?",
+  "hook_text": "Bayi 7 bulan, nggak panas!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wajah bayi senyum lebar saat digendong depan dengan ekspresi ibu yang lega dan asik.",
+      "narration": "Stop scroll bestie! Siapa yang bilang gendongan depan bikin bayi panas dan nggak nyaman?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat ibu membawa Big Bee Hipseat di berbagai aktivitas: jalan di taman, nongkrong kafe, dan jalan-jalan sore.",
+      "narration": "Kenalan yuk sama Big Bee Gendongan Hipseat yang literally next level nyamannya. Bahan tipis, adem, dan nggak bikin keringetan!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek confetti, lalu transisi ke ibu yang seneng banget ngangguk.",
+      "narration": "Cuma seharga 70-an ribu? No cap, ini harga paling worth it banget buat kualitas segini, bestie!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Jari ibu menjepit kain gendongan tunjukkan bahannya tipis. 2. Shot detail tempat duduk. 3. Shot gendongan dipakai dengan mudah.",
+      "narration": "Pertama, bahannya super tipis dan nggak bikin panas sama sekali. Kedua, meski tempat duduknya agak keras, itu bikin bayi duduk tegak dan aman. Terakhir, desainnya simple tapi kokoh, gampang banget dipake sehari-hari."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu membawa bayi berusia 7-8 bulan sedang tertawa saat dipegang jalan santai.",
+      "narration": "Perfect buat kamu yang punya bayi di atas 7 bulan. Kalau aktivitas kamu sering jalan-jalan atau nongkrong, ini solusi biar tangan nggak pegal!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.85 dan angka 60.000 terjual dengan animasi angka naik cepat.",
+      "narration": "Pembelinya pada ngomong teksturnya bagus dan bayi enjoy banget dipake, dan udah terjual 60.000 pcs dengan rating 4.85!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding ID muncul dengan tombol beli berdenyut, teks besar 'CEK DI SINI'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#GendonganBayi",
+    "#BigBeeHipseat",
+    "#IbuBebanRingan",
+    "#GearBayiMurah",
+    "#BestieRekomendasi",
+    "#BayiAdem",
+    "#ParentingHack",
+    "#FindingIdViral"
+  ],
+  "product_id": 22809,
+  "product_title": "Big Bee Gendongan Hipseat Gendongan Bayi Depan | Gendongan Bayi Hipseat All Series",
+  "product_price": "70000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/22809.jpg",
+    "/uploads/products/22809_1.jpg",
+    "/uploads/products/22809_2.jpg",
+    "/uploads/products/22809_3.jpg",
+    "/uploads/products/22809_4.jpg",
+    "/uploads/products/22809_5.jpg",
+    "/uploads/products/22809_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/22809",
+  "generated_at": "2026-03-15T07:37:49.592Z"
+}

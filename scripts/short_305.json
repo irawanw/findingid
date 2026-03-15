@@ -1,0 +1,81 @@
+{
+  "title": "POCO F7 Flagship Killer? No Cap!",
+  "hook_text": "HP 6 Jutaan Baterai 6500mAh?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up HP POCO F7 dengan efek cahaya neon, teks overlay besar.",
+      "narration": "Pernah nggak liat HP baterai gede tapi harga masih masuk akal? --- Ada nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilkan HP dari berbagai sudut, highlight desain premium dan case bawaan.",
+      "narration": "Ini POCO F7, si monster performa terbaru dari Xiaomi yang bikin gaming jadi next level banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kaget, lalu transisi ke produk.",
+      "narration": "Dengerin ya, harga cuma enam jutaan an, padahal kamu dapet performa yang biasanya di HP mahal."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase video gaming, animasi kecepatan charging, dan tes tahan air.",
+      "narration": "Snapdragon 8s Gen 4 ngebut parah buat multitasking. --- Baterai 6500mAh bisa ngecas 90 watt. Layar AMOLED terang sampai 3200 nit, plus tahan air IP68."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang sedang main game berat dan syuting video, lalu menunjukkan garansi buku.",
+      "narration": "Perfect buat gamer mobile atau kreator konten yang butuh performa tinggi tanpa biaya mahal. Garansi resmi 15 bulan juga aman."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Overlay rating 4.96 dan jumlah terjual 20 ribu, dengan teks kutipan pembeli.",
+      "narration": "Rating 4.96 dari dua puluh ribuan pembeli. Yang udah beli bilang, 'Suka warna hitamnya, layar luas dan tajam, nggak nyesel deh'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul besar di layar dengan animasi tombol klik.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#POCOF7",
+    "#XiaomiIndonesia",
+    "#GamingHP",
+    "#TeknologiMurah",
+    "#HPViral",
+    "#GadgetCheck",
+    "#PromoGadget",
+    "#TechIndonesia"
+  ],
+  "product_id": 305,
+  "product_title": "POCO F7 (12/512GB) | Snapdragon® 8s Gen 4 | 6500mAh with 90W HyperCharge | 6.83\" 1.5K 120Hz AMOLED display | 50MP dual camera with OIS | IP68 dust and water resistance [Official Store]",
+  "product_price": "5999000.00",
+  "product_rating": "4.96",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/305.jpg",
+    "/uploads/products/305_1.jpg",
+    "/uploads/products/305_2.jpg",
+    "/uploads/products/305_3.jpg",
+    "/uploads/products/305_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/305",
+  "generated_at": "2026-03-13T16:04:42.148Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Headset Gaming Mewah Cuma 209ribu?!",
+  "hook_text": "Stop scroll! Headset gaming worth it banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up ekstrem headset Vonix F30 Free Splitter di tangan sambil gestur tangan berhenti mendadak di depan kamera.",
+      "narration": "Kamu masih ngerasa mahal sama headset gaming di bawah 209 ribuan? No cap, ini bakal ngebuka mata kamu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot cinematic produk berputar 360 derajat menampilkan desain RGB dan splitter terpasang dengan lighting dramatis.",
+      "narration": "Kenalan dong sama Vonix F30 Free Splitter. Fitur terbaik buat gamers yang lagi cari kualitas audio next level tanpa bikin dompet ceblok."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke teks besar di layar angka 209 ribuan lalu memotong ke tampilan headset yang terlihat premium.",
+      "narration": "Harga cuma 209 ribuan, which is literally mewah banget untuk level harganya. Sepadan sama harga, kualitasnya nggak main-main bestie!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Tampilan LED RGB menyala, 2. Tangan memegang splitter dengan mudah, 3. Headset dipakai di kepala dengan posisi pas.",
+      "narration": "Pertama, suaranya jernih banget, nggak ada suara pecah. Kedua, fitur free splitternya super praktis, jadi nggak perlu cari adapter lagi. Ketiga, desainnya super stylish dan nyaman dipakai berjam-jam, nggak bikin sakit kepala."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Simulasi gameplay intensif atau meeting online sambil pakai headset tersebut dengan ekspresi senang.",
+      "narration": "Perfect buat kamu yang sering main game online butuh komunikasi lancar atau kalau kamu suka meeting sambil nonton film biar nggak pusing."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Overlay grafis menunjukkan rating bintang 4.88 dan angka 30.000 terjual, lalu transisi ke cuplikan chat ulasan.",
+      "narration": "Pembelinya pada ngomong ini barangnya bagus bgtt dan sepadan dengan harga, jadi nggak bakal nyesel beli."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh dengan teks besar 'CEK DI FINDING.DOT.ID' dan logo Finding ID.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#GamingHeadset",
+    "#VonixF30",
+    "#GamerIndonesia",
+    "#TechViral",
+    "#BudgetFriendly",
+    "#GamingSetup",
+    "#AudioGear",
+    "#FindingId"
+  ],
+  "product_id": 156094,
+  "product_title": "Rexus Headset Gaming Vonix F30 FREE Splitter",
+  "product_price": "209000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/156094.jpg",
+    "/uploads/products/156094_1.jpg",
+    "/uploads/products/156094_2.jpg",
+    "/uploads/products/156094_3.jpg",
+    "/uploads/products/156094_4.jpg",
+    "/uploads/products/156094_5.jpg",
+    "/uploads/products/156094_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/156094",
+  "generated_at": "2026-03-14T20:16:54.645Z"
+}

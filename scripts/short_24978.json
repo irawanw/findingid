@@ -1,0 +1,83 @@
+{
+  "title": "Pompa ASI Hospital Grade Portable! Worth It Banget Bestie",
+  "hook_text": "Gak nyangka pompanya kayak gini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot pompa ASI yang sedang digoyang-goyang lucu di depan kamera dengan musik upbeat.",
+      "narration": "Stop scrolling dulu dong! Gak nyangka pompanya kayak gini bisa sekeren ini bestie, literally next level!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat ibu bekerja sambil memompa di kantor dan sedang jalan-jalan santai.",
+      "narration": "Perkenalkan Mom Uung Pompa ASI Portable dual mode ini! Basically ini kayak punya tenaga medis di saku kamu, cocok banget buat kamu yang sibuk banget dan nggak mau terlewatin waktu memompa."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul menampilkan angka Rp 700.000 dengan efek confetti berwarna-warni.",
+      "narration": "Nih, harganya cuma tujuh ratus ribuan! Which is worth it banget kalau dipikirin, kamu dapat performa hospital grade seprofesional ini dengan harga yang super terjangkau, nggak perlu nunggu diskon lagi ya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menampilkan 3 poin: Ikon sertifikasi, ikon dua mode hisap/pijat, dan timbangan menunjukkan berat ringan.",
+      "narration": "Pertama, dia punya sertifikasi Kemenkes RI dan hospital grade certified, jadi performanya stabil banget. Kedua, dual mode hisap dan pijat bikin prosesnya jauh lebih efisien nggak capek. Ketiga, super ringan cuma seratus dua puluh tujuh kelimu gram dan wireless, jadi kamu bisa bawa kemana aja tanpa khawatir baterai meletus tiba-tiba."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu muda sedang menyusui sambil menatap laptop kerja di kafe atau di atas mobil.",
+      "narration": "Perfect buat kamu yang sering kerja dari rumah atau sering bepergian keluar kota. Kalau aktivitas kamu penuh padat tapi tetap ingin menyusui bayi dengan lancar dan nyaman, ini definitely the one buat kamu!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.94 dan jumlah terjual 20.000 produk dengan background putih bersih.",
+      "narration": "Pembelinya pada ngomong barangnya bagus dan cocok banget buat busui, nggak ada masalah sama kualitasnya. No cap, ini benar-benar produk yang nggak akan mengecewakan!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul dengan panah menunjuk ke arah bawah, teks 'Cek Detail Sekarang' berkedip.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id sekarang!",
+  "hashtags": [
+    "#MomUung",
+    "#PompaASI",
+    "#IbuBekerja",
+    "#ASIAlami",
+    "#ParentingHacks",
+    "#ReviewProduk",
+    "#FindingID",
+    "#MomLife"
+  ],
+  "product_id": 24978,
+  "product_title": "Mom Uung Pompa ASI Portable Dual Mode - Breast Pump Elektrik Hospital Grade - Garansi 2 Tahun",
+  "product_price": "700000.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/24978.jpg",
+    "/uploads/products/24978_1.jpg",
+    "/uploads/products/24978_2.jpg",
+    "/uploads/products/24978_3.jpg",
+    "/uploads/products/24978_4.jpg",
+    "/uploads/products/24978_5.jpg",
+    "/uploads/products/24978_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/24978",
+  "generated_at": "2026-03-15T03:09:02.716Z"
+}

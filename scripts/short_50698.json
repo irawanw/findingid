@@ -1,0 +1,82 @@
+{
+  "title": "Parfum Arab Non Alkohol Murah Banget!",
+  "hook_text": "Cari Wangi Arab Tapi Takut Alkohol?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah host terlihat kaget lalu menunjuk ke kamera dengan ekspresi penasaran",
+      "narration": "Cari wangi Arab tapi takut alkohol? --- Stop scroll bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Rumah Wangi ARA di atas meja dengan pencahayaan cinematic dan efek asap wangi",
+      "narration": "Kenalin nih Rumah Wangi ARA, varian Raudah & Kiswah OUDS Arab non alkohol. Aman banget buat ibadah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek kilat, host memegang dompet atau koin",
+      "narration": "Harganya? Cuma lima puluh ribuan doang, which is worth it banget buat kantong pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo tetes parfum ke tangan, tekstur cair, lalu host menghirup aroma dengan ekspresi senang",
+      "narration": "Teksturnya lembut banget, gak bikin mata pedih pas dipake. Aroma Arab-nya soft, tapi tetep wangi tahan lama. Durabilitas sekitar 3 jam, yang udah beli bilang sesuai harga. No cap, wanginya gak bikin pusing."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Host berpakaian rapi atau berjilbab sedang beribadah atau berjalan santai",
+      "narration": "Perfect buat kamu yang sering sholat atau mau wangi seharian tanpa ribet."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang dan jumlah terjual, lalu host menunjuk ke teks kutipan",
+      "narration": "Rating 4,87 bintang, udah terjual 30.000 produk. Yang udah beli bilang, \"Cocok buat apa aja asal jangan buat mandi\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di layar dengan panah mengarah ke bawah atau tombol",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#rumahwangiar",
+    "#parfumsholat",
+    "#parfumarab",
+    "#findingid",
+    "#viralproducts",
+    "#wongibadah",
+    "#parfummurah",
+    "#kekinian"
+  ],
+  "product_id": 50698,
+  "product_title": "Rumah Wangi ARA - Parfum Raudah & Kiswah OUDS Arab Sholat Non Alkohol 10ML",
+  "product_price": "50350.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/50698.jpg",
+    "/uploads/products/50698_1.jpg",
+    "/uploads/products/50698_2.jpg",
+    "/uploads/products/50698_3.jpg",
+    "/uploads/products/50698_4.jpg",
+    "/uploads/products/50698_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/50698",
+  "generated_at": "2026-03-13T22:54:35.815Z"
+}

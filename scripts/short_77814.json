@@ -1,0 +1,84 @@
+{
+  "title": "Tas Hody Best Seller! Murah Banget & Muat Tablet 11 Inch",
+  "hook_text": "Stop scroll! Ini tas best seller yang wajib kamu punya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tas Hody diputar-putar dengan background estetik, teks overlay besar muncul perlahan.",
+      "narration": "Stop scroll bestie! Kamu lagi cari tas selempang yang kelihatan kecil tapi isinya numpuk barang? Tenang, aku nemu findannya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat berbagai warna tas (Brown, Ivory, Emerald) dipegang model, transisi smooth ke shot tas dibuka lebar.",
+      "narration": "Ini Felly Bag dari Hody, tas nilon yang lagi viral banget. Desainnya super simple dan kekinian, ada banyak warna juga kayak Emerald, Mocca, dan yang terbaru Latte. Which is literally so cute buat outfit sehari-harimu!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar sambil menunjukkan tas di tangan, efek suara 'ding' saat angka muncul.",
+      "narration": "Gila sih harganya? Mulai dari seratus tiga ribuan sampai seratus sembilan belas ribuan. No cap, ini deal banget buat quality tas nilon yang gini. Basically next level worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Tablet 11 inch dimasukkan ke tas, 2. Air disiram sedikit di kain tas, 3. Tali selempang dilepas jadi pouch kecil.",
+      "narration": "Fiturnya juara, bestie! Pertama, kompartemennya luas banget, bisa muat tablet sebelas inch dan bahkan mukena kalau kamu mau traveling. Kedua, bahannya nilon yang ringan dan tahan air ringan. Ketiga, tali selempangnya bisa dilepas pasang, jadi kalau tidak dipakai bisa langsung jadi pouch kecil. Plus jahitannya rapi dan kokoh, nggak gampang sobek."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario wanita remaja jalan santai membawa tas, lalu duduk di kafe menaruh tablet dan dompet di dalamnya.",
+      "narration": "Perfect buat kamu yang suka arisan atau jalan santai. Kalau aktivitas kamu sering bawa barang banyak tapi nggak mau repot bawa tas berat, ini solusinya. Kapasitasnya luas tapi beratnya tetap ringan, nggak bikin bahu pegel deh!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.88 dan angka 40.000 terjual yang berkedip-kedip, lalu muncul quote bubble.",
+      "narration": "Pembelinya pada ngomong ini tas bagus banget dan muat buat tablet sebelas inch. Dengan rating empat koma delapan delapan dari lebih empat puluh ribu orang, ini jelas bukti kalau produknya worth it!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol animasi 'Cek Sekarang', musik upbeat meningkat.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#taswanita",
+    "#taskekinian",
+    "#fellybag",
+    "#tasmurah",
+    "#belanjaonline",
+    "#tasnylon",
+    "#fashionwanita",
+    "#rekomendasiproduk"
+  ],
+  "product_id": 77814,
+  "product_title": "Hody - Tas Selempang Wanita Terbaru Tas Hody Best Seller Tas Wanita Kekinian Sling Bag HP Wanita - FELLY BAG",
+  "product_price": "106400.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/77814.jpg",
+    "/uploads/products/77814_1.jpg",
+    "/uploads/products/77814_2.jpg",
+    "/uploads/products/77814_3.jpg",
+    "/uploads/products/77814_4.jpg",
+    "/uploads/products/77814_5.jpg",
+    "/uploads/products/77814_6.jpg",
+    "/uploads/products/77814_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/77814",
+  "generated_at": "2026-03-14T04:10:14.657Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Sandal Murah Mewah Gak Pake Gila?",
+  "hook_text": "Gak percaya ini cuma seratus ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Zoom cepat ke sandal dengan text overlay besar di tengah layar.",
+      "narration": "nggak percaya sih, ini sandal sekeren ini cuma harga seratus ribuan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan sandal di kaki model dengan transisi outfit yang estetik.",
+      "narration": "Woyy gilakk, ini ZODE Paula Sandal Slop yang lagi viral. Bikin outfit daily kamu jadi naik level."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan teks harga besar di layar dengan efek suara cash register.",
+      "narration": "Nih harganya, sembilan puluh tujuh ribuan an. --- which is worth it banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up tekstur bahan kulit sintetis dan tampilkan range size 36-43.",
+      "narration": "Bahan kulit sintetis yang nggak bikin licin, plus desain minimalist casual. Tersedia size 36 sampai 43. --- Tips, kalau pakai lama kasih adaptasi di jepit ya soalnya baru."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model jalan santai di luar ruangan dengan ekspresi bahagia.",
+      "narration": "So cute banget, perfect buat kamu yang aktif jalan kaki atau butuh sandal nyaman buat kerja seharian."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.84 dan counter 30.000 terjual di layar.",
+      "narration": "Udah 30 ribuan produk terjual dengan rating 4.84. Yang udah beli bilang 'bahan nyaman banget cocok untuk daily'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah bawah layar dengan logo finding.id.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#ZODE",
+    "#SandalWanita",
+    "#OOTD",
+    "#DailyLook",
+    "#ViralProduct",
+    "#CariBaju",
+    "#SepatuMurah",
+    "#FindingID"
+  ],
+  "product_id": 88114,
+  "product_title": "ZODE - PAULA Sandal Slop Teplek Wanita Daily Casual | Sendal Wanita Polos Kekinian Elegan Flat (Tersedia Size 36-43)",
+  "product_price": "96970.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/88114.jpg",
+    "/uploads/products/88114_1.jpg",
+    "/uploads/products/88114_2.jpg",
+    "/uploads/products/88114_3.jpg",
+    "/uploads/products/88114_4.jpg",
+    "/uploads/products/88114_5.jpg",
+    "/uploads/products/88114_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/88114",
+  "generated_at": "2026-03-13T20:14:18.967Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Loafers Kerja Wangi! Murah Meriah?",
+  "hook_text": "Loafers Wangi? Cek Ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up kaki model pakai sepatu loafers hitam di kantor dengan efek zoom in cepat ke detail bahan.",
+      "narration": "Eits, jangan langsung skip! Sepatu kerja yang wangii, nyaman banget, dan harganya bikin kaget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat: model jalan percaya diri di kantor, lalu transisi ke shot full body sepatu warna apricot dan cream.",
+      "narration": "Ini dia Ellora EZ-2650 Loafers import! Desainnya simpel, elegan, dan basic banget cocok untuk outfit kerja bestie."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar sambil model senyum lebar menunjuk sepatu, lalu muncul stiker 'Best Seller'.",
+      "narration": "Tahukah kamu? Harganya cuma seratus tujuh puluh lima ribuan sampai empat ratus ribuan! Kualitas import seharga ini, literally worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: bagian atas tunjukkan tekstur kulit sintetis halus, bagian bawah tunjukkan sol rubber tebal, dan bagian samping tunjukkan bagian tapak plastik yang tidak dijahit.",
+      "narration": "First, bahannya kulit sintetis yang lembut di kaki, nggak bikin melepuh. Second, solnya rubber anti licin, super aman buat jalan. Third, bagian tapakannya variasi plastik yang nggak dijahit, jadi lebih awet dan nggak mudah lepas ya!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot model duduk di meja kerja mengetik laptop sambil memakai sepatu tersebut, lalu transisi ke model pakai sepatu brown untuk acara casual.",
+      "narration": "Perfect buat yang aktivitasnya banyak jalan atau sering ngebut di kantor. Kalau kamu suka gaya minimalis tapi tetap wanna terlihat rapi dan profesional, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.86 bintang dan angka 20.000 terjual, lalu muncul teks quote dari pembeli.",
+      "narration": "Rating empat koma delapan enam dan dua puluh ribu produk terjual! Pembelinya pada ngomong bahannya empuk enak dipakai dan tapakannya kokoh."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Model menepuk-nepuk sepatu sambil menunjuk ke arah teks 'finding dot id' di pojok layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#SepatuKerja",
+    "#LoafersWanita",
+    "#Ellora",
+    "#FashionKorea",
+    "#SepatuNyaman",
+    "#OOTDKantor",
+    "#ShoppingTips",
+    "#FindingDotId"
+  ],
+  "product_id": 90752,
+  "product_title": "ELLORA EZ-2650 Sepatu Flat Wanita Loafers Kerja Import",
+  "product_price": "175650.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/90752.jpg",
+    "/uploads/products/90752_1.jpg",
+    "/uploads/products/90752_2.jpg",
+    "/uploads/products/90752_3.jpg",
+    "/uploads/products/90752_4.jpg",
+    "/uploads/products/90752_5.jpg",
+    "/uploads/products/90752_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/90752",
+  "generated_at": "2026-03-14T15:55:10.339Z"
+}

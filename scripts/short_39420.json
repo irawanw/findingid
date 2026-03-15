@@ -1,0 +1,83 @@
+{
+  "title": "Korset Nano Bamboo Momiasi Solusi Perut Pasca Melahirkan",
+  "hook_text": "Perut kendur bikin minder? Stop scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up perut atau before-after blur dengan teks besar",
+      "narration": "Perut kendur pasca melahirkan bikin minder? --- Stop scroll dulu bestie, jangan skip video ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk ditunjukkan dengan estetik di atas meja rapi",
+      "narration": "Kenalin nih, Momiasi Korset Nano Bamboo. --- Solusi premium buat pemulihan kamu yang nggak main-main dan super nyaman!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh",
+      "narration": "Harganya? Cuma empat ratusan ribuan doang! --- Which is worth it banget dibanding hasil yang kamu dapetin, literally next level!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail bahan nano bamboo dan velcro yang ditarik",
+      "narration": "Bahan Nano Bamboo anti bau plus Velcro adjustable panjangnya. --- Jadi fleksibel banget, nggak ngiket perut kamu. Support Caesar atau normal juga aman banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu memegang bayi sambil mengenakan korset dengan senyum",
+      "narration": "Perfect buat kamu yang lagi masa pemulihan. --- Lingkar perutmu? No worries, velcro-nya bisa diatur, bahkan size Jumbo tersedia juga!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 5 dan screenshot chat pembeli",
+      "narration": "Rating 4.91 dengan dua puluh ribu produk terjual. --- Yang udah beli bilang 'Bahan nyaman, muat banget padahal lingkar perut besar'!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah menunjuk ke bawah",
+      "narration": "Penasaran detailnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#Momiasi",
+    "#KorsetPascaMelahirkan",
+    "#NanoBamboo",
+    "#IbuBaru",
+    "#MommyCare",
+    "#PascaMelahirkan",
+    "#PerutKendur",
+    "#ViralFinding"
+  ],
+  "product_id": 39420,
+  "product_title": "Momiasi - Korset Nano Bamboo FAST SLIM - Premium Korset Nano Bamboo Pasca Melahirkan",
+  "product_price": "410620.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/39420.jpg",
+    "/uploads/products/39420_1.jpg",
+    "/uploads/products/39420_2.jpg",
+    "/uploads/products/39420_3.jpg",
+    "/uploads/products/39420_4.jpg",
+    "/uploads/products/39420_5.jpg",
+    "/uploads/products/39420_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/39420",
+  "generated_at": "2026-03-13T18:41:57.331Z"
+}

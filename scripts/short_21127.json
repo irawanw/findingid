@@ -1,0 +1,79 @@
+{
+  "title": "Mixer Murah Tapi Gacor! Cek Ini Bestie",
+  "hook_text": "Mixer 200 ribuan worth it gak?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up mixer HM620 berputar kencang mengaduk adonan dengan background dapur cerah.",
+      "narration": "Stop scroll dulu bestie, mixer 200 ribuan worth it banget gak sih buat bikin kue di rumah?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan produk Miyako HM620 lengkap dengan 3 kecepatan dan kepala pengaduknya.",
+      "narration": "Kenalan dong sama Miyako Hand Mixer HM620 ini, basically alat dapur wajib buat kamu yang hobi bikin kue tapi budgetnya masih pelajar."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan angka harga dengan efek confetti.",
+      "narration": "Gila guys, harganya cuma seratus delapan puluhan ribuan doang, which is lebih murah dari harga sepiring nasi goreng enak, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Mixer mengaduk krim kental, 2. Mixer mengocok telur, 3. Detail tombol 3 kecepatan.",
+      "narration": "Fiturnya nggak main-main, punya tiga kecepatan yang bikin adonan halus banget, plus head-nya bisa ganti-ganti buat bikin krim atau kocok telur jadi fluffy, literally next level buat pemula."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas: ibu muda mengaduk kue, anak kos belajar bikin roti di kamar.",
+      "narration": "Perfect banget buat kamu yang sering bikin kue di rumah, atau anak kos yang pengen coba jadi chef tanpa perlu beli alat mahal-mahal."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.82 di layar dengan animasi jempol naik.",
+      "narration": "Rating empat koma delapan dua dari dua puluh ribu produk yang udah terjual, dan yang udah beli bilang barangnya bagus banget dan harga murah."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol panah mengarah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#MixerMurah",
+    "#PeralatanDapur",
+    "#KueRumah",
+    "#GenZCooking",
+    "#FindingId",
+    "#HM620",
+    "#BelanjaOnline",
+    "#KueEnak"
+  ],
+  "product_id": 21127,
+  "product_title": "Miyako Hand Mixer HM620 / MIXER Miyako HM-620 / Hand Mixer Murah HM620",
+  "product_price": "204500.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21127.jpg",
+    "/uploads/products/21127_1.jpg",
+    "/uploads/products/21127_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/21127",
+  "generated_at": "2026-03-15T11:57:35.422Z"
+}

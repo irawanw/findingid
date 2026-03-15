@@ -1,0 +1,96 @@
+{
+  "title": "Rak Besi Murah Kuat Buat Gudang!",
+  "hook_text": "Nggak percaya ada rak sekuat ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up rak besi yang sedang dibebani barang berat, lalu cut ke wajah kaget creator.",
+      "narration": "Nggak percaya ada rak sekuat ini cuma seharga secangkir kopi mahal?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk E-TIFE Rak Besi Siku dari berbagai sudut, zoom in ke detail sambungan besi.",
+      "narration": "Kenalin nih, E-TIFE Rak Besi Siku, solusi storage paling next level buat rumah atau gudang lo."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh atau efek 'wow' yang fun.",
+      "narration": "Harganya mulai dari seratus enam puluh ribuan aja, which is totally worth it banget buat kapasitas gini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo penyesuaian tinggi rak, lalu tunjukkan rak dibagi dua, lalu close-up sambungan siku sudut.",
+      "narration": "Daya tampung 300 kilo, literally kuat banget buat beban berat --- Tingkinya bisa disesuaikan, bahkan bisa jadi dua rak terpisah. Oh iya, buat yang worry soal goyang, wajib pasang siku sudut ya biar kokoh."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Tunjukkan rak di gudang UMKM dan di ruang tamu yang rapi, transisi cepat.",
+      "narration": "Perfect buat UMKM yang butuh rak gudang, atau kamu yang kamarnya sering berantakan dan butuh rapiin."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.82 dan angka 100.000 terjual dengan efek animasi rising.",
+      "narration": "Ratingnya 4.82, udah dijual 100 ribu kali. Yang udah beli bilang 'barangnya lengkap, kondisi prima, nggak ada rusak'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Creator menunjuk ke arah link atau teks besar 'finding dot id' muncul di layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#rakbesi",
+    "#rakgudang",
+    "#storagehacks",
+    "#rakmurah",
+    "#findingshopping",
+    "#rumahrapi",
+    "#umkmindonesia",
+    "#viralproduct"
+  ],
+  "product_id": 98729,
+  "product_title": "E-TIFE Rak Besi Siku 5/6 Susun Rak Gudang Rak Serbaguna Rak Supermarket Rak Dapur 100% Besi",
+  "product_price": "166000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/98729.jpg",
+    "/uploads/products/98729_1.jpg",
+    "/uploads/products/98729_2.jpg",
+    "/uploads/products/98729_3.jpg",
+    "/uploads/products/98729_4.jpg",
+    "/uploads/products/98729_5.jpg",
+    "/uploads/products/98729_6.jpg",
+    "/uploads/products/98729_7.jpg",
+    "/uploads/products/98729_8.jpg",
+    "/uploads/products/98729_9.jpg",
+    "/uploads/products/98729_10.jpg",
+    "/uploads/products/98729_11.jpg",
+    "/uploads/products/98729_12.jpg",
+    "/uploads/products/98729_13.jpg",
+    "/uploads/products/98729_14.jpg",
+    "/uploads/products/98729_15.jpg",
+    "/uploads/products/98729_16.jpg",
+    "/uploads/products/98729_17.jpg",
+    "/uploads/products/98729_18.jpg",
+    "/uploads/products/98729_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/98729",
+  "generated_at": "2026-03-13T17:38:38.053Z"
+}

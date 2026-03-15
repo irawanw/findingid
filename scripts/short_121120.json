@@ -1,0 +1,81 @@
+{
+  "title": "Elformula Mugwort Mask: Pori Bersih Cuma 95rb?",
+  "hook_text": "Pori-pori Kayak Lubang Basket?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah dengan pori-pori terlihat jelas, lalu transisi cepat ke produk.",
+      "narration": "Pori-pori kamu kayak lubang bola basket? --- Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Menunjukkan tekstur masker yang keluar dari tube dan diaplikasikan di pipi.",
+      "narration": "Ini ELFORMULA Mugwort Mask. Clay mask yang literally next level buat bersihin komedo dan minyak."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Menampilkan harga di layar HP atau teks overlay besar angka harga.",
+      "narration": "Harganya cuma sembilan puluh lima ribuan doang, which is worth it banget buat kulit glowing."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Teks overlay fitur 1, 2, 3 muncul bergantian saat masker diaplikasikan.",
+      "narration": "Mugwort soothing banget, claynya nyerap kotoran sampai ke dasar pori, dan wash off nya gampang tanpa digosok kasar."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang dengan kulit berminyak tersenyum puas sambil memegang produk.",
+      "narration": "Perfect buat yang kulitnya berminyak. Tapi kalau kamu kulit super sensitif, patch test dulu ya, karena ada yang bilang perih dikit."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Grafik rating bintang 4.9 dan teks 90.000 terjual muncul di layar.",
+      "narration": "Rating empat koma sembilan, udah laku sembilan puluh ribu! --- Yang udah beli bilang, 'enak banget pas di apply' dan cepet nyampenya cuma tiga hari."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah menunjuk ke arah bawah layar.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#ELFORMULA",
+    "#MaskerWajah",
+    "#SkincareGenZ",
+    "#KomedoBersih",
+    "#SkincareMurah",
+    "#Glowskin",
+    "#RacunShopee",
+    "#PoriPoriBersih"
+  ],
+  "product_id": 121120,
+  "product_title": "ELFORMULA Intensive Pore Clarifying Mugwort Mask - Clay Mask Mud Mask Acne Pembersih Pori-pori Pores Eksfoliasi Wash Off Masker Wajah Glowing Claymask Komedo Kulit Jerawat Sensitif",
+  "product_price": "95500.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/121120.jpg",
+    "/uploads/products/121120_1.jpg",
+    "/uploads/products/121120_2.jpg",
+    "/uploads/products/121120_3.jpg",
+    "/uploads/products/121120_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/121120",
+  "generated_at": "2026-03-13T20:17:58.698Z"
+}

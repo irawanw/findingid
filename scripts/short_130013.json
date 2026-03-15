@@ -1,0 +1,83 @@
+{
+  "title": "Flashdisk Anti Air Murah Banget?!",
+  "hook_text": "Bisa Dicelup Air Tanpa Rusak?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up flashdisk V-GeN ATOM dicelupkan ke dalam gelas berisi air.",
+      "narration": "Kalian percaya nggak sih, flashdisk seharga murah ini bisa dicelup air tanpa rusak? --- Seriously!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan flashdisk V-GeN ATOM dari berbagai sudut dengan pencahayaan cinematic.",
+      "narration": "Ini dia V-GeN ATOM. Pake teknologi COB tanpa PCB. Jadi super kuat dan nggak gampang rusak. --- Literally, bentuknya juga mungil."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga di layar dengan efek angka muncul besar dan cepat.",
+      "narration": "Harganya? Mulai dari tiga puluhan ribu aja buat varian terkecil. --- Worth it banget dibanding yang lain yang mahal, no doubt."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat flashdisk ditimpa benda keras, disiram air, dan ditaruh di magnet.",
+      "narration": "Tahan banting, tahan air, bahkan tahan magnet. --- Ada garansi seumur hidup 1-1. --- No cap, ini next level durability banget, literally. --- Gak perlu pusing mikirin bocor."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario mahasiswa di perpustakaan dan pengguna mobil menempelkan flashdisk di head unit.",
+      "narration": "Perfect buat kamu yang sering taro di mobil atau pelajar butuh storage awet tapi budget terbatas. --- seriously."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan statistik penjualan 70k dan rating bintang 4.89 dengan efek animasi.",
+      "narration": "Udah laku 70 ribu kali, rating 4,89. --- Yang udah beli bilang 'Harga Murah Dan Bergaransi, Bener Bener Original Bukan Kaleng-Kaleng'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilkan logo Finding.id dengan panah menunjuk ke arah link di deskripsi.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#flashdisk",
+    "#vgen",
+    "#techmurah",
+    "#gadgetindonesia",
+    "#studentlife",
+    "#caraccessories",
+    "#diskon",
+    "#findingid"
+  ],
+  "product_id": 130013,
+  "product_title": "USB Flashdisk 4gb 8gb 16gb 32gb 64gb ATOM Water Proof V-GeN Flash Disk Drive 4 8 16 32 64 GB VGEN",
+  "product_price": "77711.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/130013.jpg",
+    "/uploads/products/130013_1.jpg",
+    "/uploads/products/130013_2.jpg",
+    "/uploads/products/130013_3.jpg",
+    "/uploads/products/130013_4.jpg",
+    "/uploads/products/130013_5.jpg",
+    "/uploads/products/130013_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/130013",
+  "generated_at": "2026-03-13T21:13:05.308Z"
+}

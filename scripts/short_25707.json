@@ -1,0 +1,83 @@
+{
+  "title": "Handuk Bayi yang Bikin Mama Senang, Worth It?",
+  "hook_text": "Stop scroll! Handuk bayi kasar?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah bayi sedang rewel sambil diseka dengan handuk biasa yang terlihat kusam.",
+      "narration": "Ada yang bilang teksturnya kasar banget buat kulit bayi newborn, bahkan jadi dipake mamanya aja deh."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke handuk KOTOMORI Hana Series yang digulung rapi dengan warna Slate Grey dan Ash Blue, teksturnya terlihat lembut saat disentuh.",
+      "narration": "Tenang bestie, ini KOTOMORI Hana Series! Bahan katun premium yang lembut, adem, dan nggak bikin iritasi sama sekali."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: di kiri handuk bayi kecil, di kanan handuk mandi besar, lalu muncul teks harga besar-besaran.",
+      "narration": "Harga cuma seratus satu puluhan ribu sampai enam ratus tiga puluhan ribu rupiah, which is worth it banget buat kualitas segini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: zoom in pada jahitan rapi, handuk dibalut air lalu dikeringkan (menunjukkan daya serap), dan detail embroidery lucu di sudut.",
+      "narration": "Pertama, bahan katunnya super lembut dan menyerap air cepet banget. Kedua, dayanya serap air nggak main-main, basically next level. Dan ketiga, desainnya lucu banget dengan embroidery yang ucul dan rapi, cocok buat dekorasi kamar anak."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Mama memandikan bayi, lalu mengganti handuk dengan KOTOMORI yang terlihat nyaman dipakai.",
+      "narration": "Perfect buat yang punya bocil atau bahkan dewasa yang suka handuk aesthetic. Kalau kamu sering capek nyari handuk yang nggak kasar, ini jawabannya, no cap!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.91 bintang dengan latar belakang banyak bintang emas, lalu muncul kutipan teks di layar.",
+      "narration": "Pembelinya pada ngomong bahannya oke dan bagus, recommended banget utk bocil maupun dewasa jg bisa dipakai."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi fun dan tombol 'Cek Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama stok dan warna lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#HandukBayi",
+    "#Kotomori",
+    "#ParentingHacks",
+    "#ReviewProduk",
+    "#ShopLocal",
+    "#BabyCare",
+    "#HandukAesthetic",
+    "#TemukanDiFinding"
+  ],
+  "product_id": 25707,
+  "product_title": "KOTOMORI Hana Series - Handuk Mandi Bayi dan Anak",
+  "product_price": "11900.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/25707.jpg",
+    "/uploads/products/25707_1.jpg",
+    "/uploads/products/25707_2.jpg",
+    "/uploads/products/25707_3.jpg",
+    "/uploads/products/25707_4.jpg",
+    "/uploads/products/25707_5.jpg",
+    "/uploads/products/25707_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/25707",
+  "generated_at": "2026-03-15T09:56:57.862Z"
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Hemat Set Box Stella Matic + Refill, Worth It Banget!",
+  "hook_text": "Wangi Hotel di Rumah? Ini Rahasianya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up botol pengharum ruangan Stella Matic dengan efek cahaya dramatis dan teks muncul cepat.",
+      "narration": "Eits stop dulu bestie! Kamu pengen punya aroma hotel di rumah sendiri tapi nggak mau mahal?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product showcase menampilkan Set Box Stella Matic lengkap dengan refill 160ml dan baterai yang sudah terpasang.",
+      "narration": "Kenalan yuk sama Paket Hemat Stella Matic Set Box, lengkap dengan refill 160 mil dan baterai sudah ada, basically next level kemudahan!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek uang atau coret harga lama, lalu transisi ke produk.",
+      "narration": "Gak percaya? Kamu bisa dapetin semua ini cuma perlu keluar uang seratus delapan puluhan ribu, which is worth it banget untuk kualitasnya!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Aroma jeruk segar, 2. Desain box yang estetik, 3. Spray otomatis yang halus.",
+      "narration": "Pertama, aromanya seger banget kayak jeruk, bikin ruangan langsung fresh. Kedua, desain boxnya super menarik dan estetik banget. Terakhir, fungsinya auto spray yang halus dan nggak bikin repot, literally so cute!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Seseorang sedang duduk santai di ruang tamu atau kamar tidur yang wangi.",
+      "narration": "Perfect buat kamu yang sering pulang kerja capek dan butuh ruangan yang langsung harum, atau kalau aktivitas kamu suka nge-hosting teman di rumah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.89 bintang dan angka 20.000 terjual, lalu muncul kutipan teks dari pembeli.",
+      "narration": "Kata pembelinya pada ngomong harumnya kaya di hotel wkwk, plus rating 4.89 dari dua puluh ribu orang yang udah beli bilang ini amanah banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id besar dengan panah menunjuk ke arah bawah layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stok terbatas lho!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#StellaMatic",
+    "#WangiTanpaLelah",
+    "#HomeDecor",
+    "#AromaJeruk",
+    "#FindingId",
+    "#ProdukViral",
+    "#HematBelanja",
+    "#RoomFragrance"
+  ],
+  "product_id": 154452,
+  "product_title": "Paket Hemat Stella Matic Set Box Alat + Refill 160ml Pengharum Ruangan Otomatis SUDAH DAPAT Baterai",
+  "product_price": "74250.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/154452.jpg",
+    "/uploads/products/154452_1.jpg",
+    "/uploads/products/154452_2.jpg",
+    "/uploads/products/154452_3.jpg",
+    "/uploads/products/154452_4.jpg",
+    "/uploads/products/154452_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/154452",
+  "generated_at": "2026-03-14T17:59:09.312Z"
+}

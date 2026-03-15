@@ -1,0 +1,83 @@
+{
+  "title": "HP 1 Jutaan Layar 120Hz Worth It?",
+  "hook_text": "Gila sih HP baru bisa 1 Jutaan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up HP dengan efek cahaya kilat dan teks besar.",
+      "narration": "Gila sih, HP baru bisa seratus dua ratus ribuan? No cap bestie, seriously! Stop scroll!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product shot Infinix Smart 10 dari berbagai sudut dengan transisi halus.",
+      "narration": "Kenalin nih, Infinix Smart 10. Desainnya mewah banget tapi harganya ramah di kantong banget, which is literally amazing."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di tengah layar dengan efek animasi uang.",
+      "narration": "Dengan harga satu dua ratus-an ribu, kamu dapet spek gila yang super worth it buat sehari-hari tanpa boros, literally so worth it."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase fitur layar dan baterai dengan animasi grafis yang dinamis.",
+      "narration": "Layar 120Hz HD+ yang mulus banget buat scrolling, baterai 5000 mAh yang awet seharian tanpa drama --- Sistem operasi Android 15 terbaru plus kelengkapan kotak lengkap termasuk case dan pelindung layar, which is next level."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video pelajar atau pekerja muda sedang pakai HP dengan senyum.",
+      "narration": "Perfect buat pelajar atau pekerja entry level yang butuh HP responsif tapi budget terbatas banget, literally no cap kalau mau hemat, recommended banget!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang lima dan testimoni pembeli yang muncul cepat.",
+      "narration": "Rating 4.95 dari 50.000 pembeli, yang udah beli bilang \"Bagus sesuai pesanan, nggak lecet\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah animasi ke arah tombol.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, ada review produknya di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, ada review produknya di sana!",
+  "hashtags": [
+    "#InfinixSmart10",
+    "#HPMurah",
+    "#GadgetGenZ",
+    "#TechIndonesia",
+    "#SmartphoneMurah",
+    "#GadgetViral",
+    "#FindingID",
+    "#RekomendasiHP"
+  ],
+  "product_id": 50936,
+  "product_title": "Infinix Smart 10 3/64GB - Up to 6GB Extended RAM - 6.67 inch 120Hz HD+ - T7250 - 5000 mAh",
+  "product_price": "1209000.00",
+  "product_rating": "4.95",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/50936.jpg",
+    "/uploads/products/50936_1.jpg",
+    "/uploads/products/50936_2.jpg",
+    "/uploads/products/50936_3.jpg",
+    "/uploads/products/50936_4.jpg",
+    "/uploads/products/50936_5.jpg",
+    "/uploads/products/50936_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/50936",
+  "generated_at": "2026-03-13T16:17:27.741Z"
+}

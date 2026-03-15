@@ -1,0 +1,83 @@
+{
+  "title": "Kompor Camping Murah 100 Ribuan Aja!",
+  "hook_text": "Mau Camping Hemat?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan close-up wajah kreator dengan ekspresi kaget atau menunjuk kamera.",
+      "narration": "Mau camping tapi duit tipis? Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase produk kompor Omicko sedang dibuka dan ditutup dengan cepat.",
+      "narration": "Kenalin, ini paket kompor Omicko 2 in 1 super serbaguna. Bisa gas LPG maupun kaleng portable. Jadi kamu nggak perlu bawa ribet tabung besar."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga besar muncul di tengah layar saat narasi harga disebut.",
+      "narration": "Harganya bikin kaget, guys. Mulai dari seratus ribuan an doang. You get free cover dan kepala connector juga. Which is totally worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close-up detail kompor saat dipasang dan grill yang kokoh.",
+      "narration": "Fiturnya next level. Pertama, badan kompor kokoh banget, nggak goyang pas dipake masak. Kedua, ada varian grill bulat atau kotak. Jadi kamu bisa pilih sesuai selera."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Kreator sedang asyik masak di luar ruangan dengan kompor tersebut.",
+      "narration": "This is perfect buat kamu yang suka piknik akhir pekan bareng teman. Atau buat mahasiswa kost yang mau masak di luar ruangan tanpa ribet."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan screenshot rating bintang 4.69 dan jumlah terjual 60k.",
+      "narration": "60 ribu terjual, rating 4,69 --- Yang udah beli bilang, 'Sepadan banget, nggak ada cacat, kokoh.' Ada yang komplain gas lecet, tapi itu wajar. Produknya solid no cap."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di layar dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie --- review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#komporportable",
+    "#campingmurah",
+    "#alatmasak",
+    "#viral",
+    "#findingid",
+    "#omicko",
+    "#kuliner",
+    "#gadget"
+  ],
+  "product_id": 14247,
+  "product_title": "PAKET KOMPOR PORTABLE OMICKO 2 IN 1 / KOMPOR BBQ PORTABEL PLUS COVER SNI",
+  "product_price": "106600.00",
+  "product_rating": "4.69",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/14247.jpg",
+    "/uploads/products/14247_1.jpg",
+    "/uploads/products/14247_2.jpg",
+    "/uploads/products/14247_3.jpg",
+    "/uploads/products/14247_4.jpg",
+    "/uploads/products/14247_5.jpg",
+    "/uploads/products/14247_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/14247",
+  "generated_at": "2026-03-13T21:17:04.608Z"
+}

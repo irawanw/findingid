@@ -1,0 +1,83 @@
+{
+  "title": "Pelembab Wangi, Jerawat Hilang? 😱",
+  "hook_text": "Kulit berjerawat stop!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah dengan jerawat merah dan bekas luka lalu transisi cepat ke kulit glowing bersih sambil melambai ke kamera.",
+      "narration": "Stop scroll dulu bestie, siapa bilang kulit berjerawat nggak bisa glowing dan smooth kayak ini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk FLASH SALE Glowies Beauty Dreamy Moisturizer berputar perlahan dengan efek sparkle di background.",
+      "narration": "Inilah FLASH SALE Glowies Beauty Dreamy Moisturizer, pelembab water gel yang literally next level buat kamu yang punya masalah jerawat dan bekasnya."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan harga, lalu berubah menjadi ikon hati dan tanda centang hijau.",
+      "narration": "Bayangkan kamu dapat perawatan segini cuma dengan seratus tiga puluh tiga ribuan, which is worth it banget buat investasi kulitmu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan botol, kanan tunjukkan tekstur gel di tangan yang langsung meresap ke kulit tanpa lengket.",
+      "narration": "No cap, formula ini super powerful dengan tujuh persen azeclair, enam persen niacinamide, dan tranexamic acid buat nge-atasi noda gelap. Teksturnya ringan banget, cepet meresap, nggak lengket, dan plus five times ceramide sama centella asiatica buat perbaiki skin barrier yang rusak, totally safe karena bebas alkohol dan paraben."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas: orang di kantor, orang olahraga, dan orang tidur malam dengan wajah yang tetap fresh.",
+      "narration": "Perfect buat kamu yang sering kena matahari, habis olahraga, atau kalau aktivitas kamu di luar rumah seharian tapi masih butuh kulit yang tetap lembap dan tenang."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.91 dan angka 30.000 terjual dengan animasi naik cepat.",
+      "narration": "Nggak cuma janji doang, tiga puluh ribuan pembeli yang udah beli bilang daya serapnya cepet meresap dan teksturnya ringan tanpa bikin kulit berminyak."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul di tengah layar dengan panah menunjuk ke bawah, background warna cerah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#skincareindonesia",
+    "#glowiesbeauty",
+    "#jerawathilang",
+    "#skincarerutin",
+    "#findingid",
+    "#pelembabwajah",
+    "#glowingglow",
+    "#skincaregenz"
+  ],
+  "product_id": 100202,
+  "product_title": "FLASH SALE Glowies Beauty Dreamy Moisturizer Skincare Repair Skin Barrier Melembapkan dan Meredakan Jerawat PIE/PIH with 7% Azeclair 6% Niacinamide Tranexamic Acid Alpha Arbutin Acne Calming Water Gel",
+  "product_price": "133440.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100202.jpg",
+    "/uploads/products/100202_1.jpg",
+    "/uploads/products/100202_2.jpg",
+    "/uploads/products/100202_3.jpg",
+    "/uploads/products/100202_4.jpg",
+    "/uploads/products/100202_5.jpg",
+    "/uploads/products/100202_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100202",
+  "generated_at": "2026-03-14T04:15:00.663Z"
+}

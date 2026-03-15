@@ -1,0 +1,77 @@
+{
+  "title": "TV Jadi Banyak Saluran Cuma 300-an? Ini Aja!",
+  "hook_text": "Gak percaya? TV jadi banyak saluran!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget sambil tunjuk TV layar hitam, lalu cut ke antena kecil di dinding.",
+      "narration": "Gak percaya? TV kamu yang cuma dapet dua channel, bisa jadi banyak banget cuma dengan satu perangkat kecil ini, nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product shot UDA-7000A diputar 360 derajat tunuk desain hitam slim dan kaki penyangganya.",
+      "narration": "Ini dia antena TV Digital Indoor terbaru, UDA-7000A. Desainnya super modern, warna hitam yang estetik banget, bisa diletakkan di samping TV atau ditempel di dinding kok, which is worth it banget buat ruang tamu yang minimalis!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar Rp 299.000 muncul dengan efek 'pop' dan lingkaran harga coret.",
+      "narration": "Bayar ratusan ribuan buat beli antena besar, atau cuma seratus delapan puluhan ribu aja buat dapat teknologi Taiwan? No cap, harga ini udah termasuk booster dan kaki penyangganya, literally next level!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: LED indikator menyala -> Saluran digital muncul -> Kabel panjang dipegang.",
+      "narration": "Pertama, indikator LED pintarnya bikin gampang nemu sinyal terkuat tanpa pusing. Kedua, teknologi boosternya nge-boost jangkauan sinyal dua setengah kali lipat, jadi sinyal gak lemah. Dan yang paling keren, kamu langsung dapat empat delapan saluran digital gratis tanpa bayar langganan bulanan, basically hemat jutaan per tahun!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase: Kamar tidur kecil, apartemen, dan TV tabung tua di sudut ruangan.",
+      "narration": "Perfect buat kamu yang tinggal di rumah kecil atau apartemen, which is perfect buat yang gak ada tempat buat nempel antena gede. Cocok juga kalau kamu masih punya TV tabung jadul, karena ini kompatibil sama semua tipe televisi!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.67 dan angka 40.000 terjual dengan highlight komentar positif.",
+      "narration": "Emang bagus banget kan? Empat enam puluh tujuh bintang dari empat puluh ribu pembeli, yang udah beli bilang lumayam dapat sinyal tiga dan lima meski kelap kelip, alhasil dapet tiga puluh empat chanel di daerah mereka!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah besar menunjuk ke arah tombol beli.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, cek stok dan review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#AntenaTV",
+    "#HematLangganan",
+    "#TechGaul",
+    "#FindingId",
+    "#TVDigital",
+    "#BarangMurah",
+    "#TipsTV",
+    "#ViralShorts"
+  ],
+  "product_id": 64929,
+  "product_title": "Antena TV Digital Indoor Dinding DVB-T2 + Booster LED PX UDA-7000A",
+  "product_price": "299000.00",
+  "product_rating": "4.67",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64929.jpg"
+  ],
+  "product_link": "https://finding.id/p/64929",
+  "generated_at": "2026-03-14T04:13:44.651Z"
+}

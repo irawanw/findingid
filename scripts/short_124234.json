@@ -1,0 +1,83 @@
+{
+  "title": "Printer Kasir Murah Banget! Worth It Gila Banget",
+  "hook_text": "Stop scroll! Printer kasir harga seratusan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up dramatis printer thermal sedang mencetak resi dengan kecepatan tinggi, transisi cepat ke wajah kaget creator.",
+      "narration": "Eits stop scroll dulu dong! Siapa yang masih mikir printer kasir itu mahal banget dan ribet?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk MP-58S dari berbagai angle, zoom in ke port Bluetooth dan USB, lalu tunjukkan fitur cetak 3 rol kertas gratis.",
+      "narration": "Kenalan yuk sama printer thermal MP-58S nih, bestie. Bisa support Android, iOS, Windows, plus ada Bluetooth dan USB. Belum lagi, langsung dapat tiga rol kertas gratis sebagai hadiah! Which is worth it banget buat pemula."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar-besaran muncul di layar dengan efek 'pop', lalu muncul perbandingan visual antara harga ini dengan printer biasa.",
+      "narration": "Gila sih harganya cuma seratus delapan puluhan ribu doang! Dibanding printer sekelas, ini literally no cap jauh lebih hemat. Buat jualan online atau buka toko kecil, harga segini udah next level."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menunjukkan koneksi HP yang lancar, tengah menunjukkan cetakan yang rapi tanpa pita, kanan menunjukkan kecepatan cetak saat ramai.",
+      "narration": "Kelebihannya banyak banget! Pertama, konek Bluetooth ke HP itu super gampang, nggak ribet sama sekali. Kedua, suaranya halus banget, nggak bikin nyamuk di toko. Dan ketiga, cetaknya rapi serta merta, nggak perlu ribet ganti pita. Basically, performa mesinnya oke banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat: seseorang sedang packing barang di kamar, lalu seseorang di kedai kopi kecil sedang mencetak struk pesanan pelanggan.",
+      "narration": "Perfect buat yang sering jualan online dari kamar atau punya kedai kecil yang lagi naik daun. Kalau aktivitas kamu butuh cetak resi cepat dan biaya operasional minim, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.87 bintang besar dan angka '20.000+ Terjual' dengan animasi confetti.",
+      "narration": "Rating empat koma delapan tujuh bintang dari dua puluh ribu orang yang udah beli bilang kualitasnya juara!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Creator menunjuk ke arah bawah layar sambil tersenyum mischievous, teks 'finding dot id' muncul jelas.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#PrinterKasirMurah",
+    "#JualanOnline",
+    "#BusinessTips",
+    "#ShopLocal",
+    "#GadgetMurah",
+    "#KecerdasanEkonomi",
+    "#GenZBusiness",
+    "#FindingDotId"
+  ],
+  "product_id": 124234,
+  "product_title": "PRINTER KASIR 58mm Printer Thermal alat print resi support Android/ios/Windows Bluetooth +USBfree gift 3 rol kertas/58s 1roll",
+  "product_price": "178888.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/124234.jpg",
+    "/uploads/products/124234_1.jpg",
+    "/uploads/products/124234_2.jpg",
+    "/uploads/products/124234_3.jpg",
+    "/uploads/products/124234_4.jpg",
+    "/uploads/products/124234_5.jpg",
+    "/uploads/products/124234_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/124234",
+  "generated_at": "2026-03-14T11:34:06.083Z"
+}

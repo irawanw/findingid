@@ -1,0 +1,96 @@
+{
+  "title": "Celana Formal Murah Keren No Cap Bestie!",
+  "hook_text": "Gak percaya seharga secangkir kopi?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close up celana formal dengan efek zoom in cepat ke detail bahan.",
+      "narration": "Gak percaya celana formal sekeren ini cuma seharga secangkir kopi kekinian?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Model pria memakai celana Zaky sambil jalan santai di kantor.",
+      "narration": "Ini dia Zaky Celana Pria, solusi outfit kantor kamu yang tetap style tanpa bikin keringetan sepanjang hari kerja yang sibuk."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Tampilan harga di layar dengan efek dollar atau rupiah berkilau.",
+      "narration": "Harganya literally bikin dompet tetap adem, mulai dari delapan puluh sembilan ribu lima ratus sembilan puluh sembilan rupiah saja untuk kualitas premium yang nggak murahan."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Detail bahan teflon dipegang tangan, ditunjukkan elastisitas dan jatuhnya kain.",
+      "narration": "Bahannya teflon twist yang super halus dan jatuh banget --- adem di kulit tapi nggak melar sama sekali saat dipakai duduk lama di meja rapat kantor."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Montase celana dicuci, dilipat, dan dipakai lari kecil tanpa kusut.",
+      "narration": "Teksturnya tebal dan kuat no cap, warnanya nggak luntur di cuci berkali-kali --- bahan jatuh bikin kaki kelihatan jenjang, plus nggak kaku biar kamu nyaman gerak bebas seharian di luar ruangan maupun di dalam gedung."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Situasi meeting, presentasi, dan kerja lembur dengan senyum percaya diri.",
+      "narration": "Kalau kamu sering kerja di kantor berac atau suka meeting panjang, celana ini perfect buat kamu yang cari kenyamanan dan profesionalitas tanpa ribet setrika tiap pagi dan tetap rapi."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Tampilan rating bintang 4.75 dan angka 50.000 terjual di layar.",
+      "narration": "Ratingnya empat koma tujuh lima bintang dengan lima puluh ribu produk terjual --- banyak yang bilang bakal jadi pelanggan soalnya kainnya bagus bangeet dan awet dipakai terus."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Grid gambar 5 warna celana yang tersedia (Hitam, Coklat, Navy, Cream, Abu).",
+      "narration": "Pilih warna favoritmu mulai dari hitam, coklat tua, navy, cream pns olive, sampai abu-abu yang elegan buat semua momen pentingmu dan acara formal yang wajib kamu hadiri."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tombol panah mengarah ke bawah atau link di deskripsi dengan teks klik di sini.",
+      "narration": "Yuk klik link di deskripsi sebelum kehabisan, stok terbatas bestie jangan sampai menyesal nunggu besok karena harganya akan naik lagi dan diskonnya cuma sebentar."
+    }
+  ],
+  "cta": "Klik link di deskripsi sekarang bestie!",
+  "hashtags": [
+    "#CelanaPria",
+    "#OOTDKantor",
+    "#FashionLaki",
+    "#RekomendasiCelana",
+    "#PromoMurah",
+    "#ViralShop",
+    "#GenZFashion",
+    "#ZakyCelana"
+  ],
+  "product_id": 128532,
+  "product_title": "ZAKY CELANA BAHAN PRIA PANJANG FORMAL KANTORAN KERJA 27-38 HITAM COKLAT CREAM ABU JUMBO BAGUS BERKUALITAS",
+  "product_price": "89599.00",
+  "product_rating": "4.75",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/128532.jpg",
+    "/uploads/products/128532_1.jpg",
+    "/uploads/products/128532_2.jpg",
+    "/uploads/products/128532_3.jpg",
+    "/uploads/products/128532_4.jpg",
+    "/uploads/products/128532_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/128532",
+  "generated_at": "2026-03-13T06:23:15.827Z"
+}

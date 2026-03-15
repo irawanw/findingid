@@ -1,0 +1,89 @@
+{
+  "title": "Tas Bayi Omiland, Worth It Banget Bestie!",
+  "hook_text": "Stop Scroll! Tas Bayi Murah Gila",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat zoom-in ke tas bayi yang estetik dengan teks overlay besar bertuliskan 'STOP SCROLL!'",
+      "narration": "Halo bestie, stop scroll dulu dong! Kamu cari tas bayi yang space-nya luas tapi harganya nggak bikin dompet keroncongan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase tas Omiland Alpaca Series dibuka lebar-lebar menunjukkan ruang utama yang empuk dan rapi",
+      "narration": "Kenalan aja ya sama Omiland Tas Bayi Alpaca Series. Ini literally next level buat nyimpen kebutuhan si kecil, dari baju ganti sampe pampers muat semua!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga asli muncul di layar dengan efek confetti, lalu transisi ke tas dipegang ibu",
+      "narration": "Gila sih, harga mawanya cuma delapan puluh satu ribuan sampe seratus lima puluhan ribu doang. Which is worth it banget kalau dipikirin kualitasnya!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot close-up saku elastis memasukkan botol susu, lalu shot kantong plastik kecil di dalam tas, terakhir shot tekstur kain yang lembut",
+      "narration": "Fiturnya super lengkap, ada saku elastis buat botol susu dan termos biar gak goyang. Ada kantong plastik dalam buat kosmetik bayi biar rapi, plus kainnya lembut banget dan nggak ada rusak-rusak."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu sedang berjalan dengan santai sambil memikul bayi di pundak dengan tas Omiland di bahu",
+      "narration": "Perfect buat kamu yang sering jalan-jalan atau bawa bayi kemana-mana. Kalau aktivitas kamu butuh praktis dan estetik, ini basically the one bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.8 bintang dan angka 40.000 terjual dengan efek highlight emas",
+      "narration": "Emang boleh beli empat? Pembelinya pada ngomong barangnya bagus, kainnya lembut, dan nggak nyesel beli."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Omiland dan tulisan besar 'CEK DI FINDING DOT ID' dengan animasi panah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek Omiland di finding dot id sekarang!",
+  "hashtags": [
+    "#tasbayi",
+    "#omiland",
+    "#parentinghacks",
+    "#belibayi",
+    "#murahmurah",
+    "#findingshorts",
+    "#parentingid",
+    "#rekomendasibayi"
+  ],
+  "product_id": 164198,
+  "product_title": "Omiland Tas Bayi Besar Alpaca Series",
+  "product_price": "81000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/164198.jpg",
+    "/uploads/products/164198_1.jpg",
+    "/uploads/products/164198_2.jpg",
+    "/uploads/products/164198_3.jpg",
+    "/uploads/products/164198_4.jpg",
+    "/uploads/products/164198_5.jpg",
+    "/uploads/products/164198_6.jpg",
+    "/uploads/products/164198_7.jpg",
+    "/uploads/products/164198_8.jpg",
+    "/uploads/products/164198_9.jpg",
+    "/uploads/products/164198_10.jpg",
+    "/uploads/products/164198_11.jpg",
+    "/uploads/products/164198_12.jpg"
+  ],
+  "product_link": "https://finding.id/p/164198",
+  "generated_at": "2026-03-15T06:06:49.980Z"
+}

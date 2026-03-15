@@ -1,0 +1,83 @@
+{
+  "title": "Stop Rambut Rontok Sekarang! Ampuh Banget",
+  "hook_text": "RAMBUT RONTOK BOLEH JADI BOTAK?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up rambut rontok di sisir atau kerontokan parah di kulit kepala",
+      "narration": "Waduh, rambut rontok jangan diabaikan ya guys! Bisa bikin botak kalau dibiarkan."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Hairtonic Puspatang berputar dengan pencahayaan cinematic",
+      "narration": "Kenalin nih, Hairtonic Puspatang, solusi ajaib buat kamu. Ini registered BPOM dan Halal MUI, jadi aman banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga muncul dengan efek pop up menarik",
+      "narration": "Dan tahu nggak harganya? Cuma seratus ribuan saja. Worth it banget kan buat nyelamatin rambut kamu?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tekstur cair diteteskan ke tangan, lalu dioles ke kulit kepala",
+      "narration": "Kandungan Ginseng dan Argan Oil-nya literally next level buat nutupin kerontokan. --- Teksturnya cair nggak lengket di kulit kepala. --- Komposisi aman kok, yang udah beli bilang 'mulai tumbuh banyak anak rambut' pasca melahirkan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita sedang menyisir rambutnya atau ibu sedang memegang bayi",
+      "narration": "Perfect buat kamu yang sering styling panas atau habis melahirkan. Kalau aktivitas kamu bikin rambut tipis, ini wajib punya banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 4,92 dan counter penjualan naik",
+      "narration": "Rating 4,92 dari tiga puluh ribu pembelian. Yang udah beli bilang 'efeknya menumbuhkan rambut' dan nggak nyesel sama sekali."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke arah teks",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, semua info produk ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, semua info produk ada di sana!",
+  "hashtags": [
+    "#HairtonicPuspatang",
+    "#RambutRontok",
+    "#TipsRambut",
+    "#ProdukViral",
+    "#CekFindingId",
+    "#RambutLebat",
+    "#BPOM",
+    "#WanitaIndonesia"
+  ],
+  "product_id": 118593,
+  "product_title": "HAIRTONICPUSPATANG RAMBUT RONTOK DAN TIPIS HAIR TONIC PUSPATANG PERAWATAN RAMBUT RONTOK PENYUBUR RAMBUT RONTOK",
+  "product_price": "109999.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/118593.jpg",
+    "/uploads/products/118593_1.jpg",
+    "/uploads/products/118593_2.jpg",
+    "/uploads/products/118593_3.jpg",
+    "/uploads/products/118593_4.jpg",
+    "/uploads/products/118593_5.jpg",
+    "/uploads/products/118593_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/118593",
+  "generated_at": "2026-03-13T19:27:52.885Z"
+}

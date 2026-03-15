@@ -1,0 +1,77 @@
+{
+  "title": "Shaver Philips Murah Gak Iritasi? Bestie Wajib Tau!",
+  "hook_text": "Cukur sampe berdarah? Stop Sekarang!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah pria sedang memegang pisau cukur manual dengan efek dramatis",
+      "narration": "Masih cukur pakai pisau biasa sampai berdarah? No cap, itu sudah zaman dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan produk Philips PQ206 di tangan dengan pencahayaan cinematic",
+      "narration": "Kenalin nih Philips PQ206. CloseCut teknologi bikin bersih tanpa iritasi, literally no cut skin!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafis harga muncul besar di layar disertai efek uang koin",
+      "narration": "Harganya? Dua ratus empat puluhan ribu saja! --- Worth it banget buat yang cari quality tapi nggak boncos."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo kepala pencukur mengambang mengikuti lekuk wajah dan ukuran kompak di tangan",
+      "narration": "Ada kepala mengambang ngikutin lekuk wajah, pisau tahan dua tahun, plus desain ringkas buat travel dengan baterai internal. Basically, next level praktis."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Pria memasukkan shaver ke dalam tas travel atau tas kerja",
+      "narration": "Perfect buat kamu yang sering liburan atau kerja. Kalau aktivitas kamu padat, ini jadi sahabat terbaik di tas kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Overlay rating bintang 4.89 dan teks jumlah penjualan 30.000an",
+      "narration": "Rating 4.89, sudah terjual 30.000an. --- Yang sudah beli bilang, hasil cukurannya memuaskan banget, no cap!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan panah menunjuk ke bawah",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie, lengkapnya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detailnya? Cek di finding dot id ya bestie, lengkapnya ada di sana!",
+  "hashtags": [
+    "#philips",
+    "#shaver",
+    "#cukurlaki",
+    "#grooming",
+    "#rekomendasi",
+    "#viral",
+    "#shorts",
+    "#findingid"
+  ],
+  "product_id": 64897,
+  "product_title": "Philips | Shaver | Alat Cukur Electric Kumis dan Jenggot Pria | Cukur Tanpa Iritasi dengan CloseCut Teknologi | PQ206/18",
+  "product_price": "248200.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64897.jpg"
+  ],
+  "product_link": "https://finding.id/p/64897",
+  "generated_at": "2026-03-13T16:52:12.709Z"
+}

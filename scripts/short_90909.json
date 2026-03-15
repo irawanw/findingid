@@ -1,0 +1,83 @@
+{
+  "title": "Meja Lipat Murah Anti Ribet Bestie!",
+  "hook_text": "Budget Minum? Meja Ini Solusinya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wajah host dengan ekspresi terkejut memegang dompet tipis",
+      "narration": "Punya budget tipis tapi mau setup meja estetik?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan meja lipat Danryu dari berbagai sudut",
+      "narration": "Kenalin nih, Meja Lipat Danryu, solusi praktis buat kamu yang butuh meja kerja atau belajar di mana saja."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek ledakan koin",
+      "narration": "Gila sih, harga cuma enam puluh ribuan an saja, which is worth it banget buat kualitas sekeren ini di pasaran."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo meja ditumpuki barang berat dan dilipat dengan mudah",
+      "narration": "Desainnya polos ada corak kayu natural jadi nggak membosankan. Kaki meja kokoh, literally bisa nampung barang berat tanpa goyang. Gampang dilipat, basically next level banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot seseorang menggunakan meja di kamar kos kecil",
+      "narration": "Perfect buat kamu yang punya kamar kecil atau lagi WFH di kosan. Tinggal lipat simpan praktis saja, nggak ribet!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan jumlah terjual",
+      "narration": "Terjual dua puluh ribu produk, rating empat koma delapan sembilan. Yang sudah beli bilang kaki meja kuat --- Tapi ukurannya 26 sentimeter, bukan 28, plus bersihin dulu karena ada debu."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produknya ada di sana bestie!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya, review produknya ada di sana!",
+  "hashtags": [
+    "#MejaLipat",
+    "#FurniturMurah",
+    "#MejaBelajar",
+    "#GenZIndonesia",
+    "#ViralProduct",
+    "#MejaKerja",
+    "#StudentLife",
+    "#CicilMurah"
+  ],
+  "product_id": 90909,
+  "product_title": "Meja Lipat Danryu Meja Laptop Meja Laptop Lipat Meja Lipat Laptop Meja Belajar Meja Belajar Laptop Mupad C Polos C Meja Lipat Serbaguna Meja Belajar Laptop Meja Belajar Lipat",
+  "product_price": "64900.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/90909.jpg",
+    "/uploads/products/90909_1.jpg",
+    "/uploads/products/90909_2.jpg",
+    "/uploads/products/90909_3.jpg",
+    "/uploads/products/90909_4.jpg",
+    "/uploads/products/90909_5.jpg",
+    "/uploads/products/90909_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/90909",
+  "generated_at": "2026-03-13T23:08:29.934Z"
+}

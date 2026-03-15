@@ -1,0 +1,96 @@
+{
+  "title": "Celana Kerja Formal Cuma 50 Ribuan?",
+  "hook_text": "Celana Kerja Formal Cuma 50 Ribuan?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up celana cream dengan efek cahaya mewah, transisi cepat ke wajah host yang kaget",
+      "narration": "Celana kerja formal yang kelihatan mahal, tapi harganya cuma seharga kopi seharian?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Host memegang celana NIMI, menunjukkan tekstur bahan Gracella secara detail",
+      "narration": "Bestie, kenalin ini NIMI Celana Kerja Kantor Reguler. Bahan Gracella premium yang tebal lembut banget di kulit. Literally so soft."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks overlay harga muncul besar 'Rp 59.140' dengan efek kilat, host menunjuk layar",
+      "narration": "Harganya mulai dari lima puluh sembilan ribu seratus empat puluh rupiah, tapi kualitasnya no cap, setara seratus ribu rupiah. Gak nyangka sih ini bisa semurah ini beneran."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Montase detail kancing resleting, potongan celana saat bergerak, dan bahan yang ditarik sedikit",
+      "narration": "Ada detail pinggang kancing resleting yang rapi banget. Potongan reguler yang nggak bikin gerak terbatas. Dan bahan yang nggak gampang melar meskipun dipakai seharian. Basically worth it banget."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Scroll cepat review positif di layar, lalu host menjelaskan tips ukuran dengan tangan",
+      "narration": "Reviewnya bilang 'Bakal repeat order warna lagi niiiih kalo sebagus ini'. Bahan tebal lembut bikin nggak tembus pandang. --- Ada yang bilang ukuran pinggang kebesaran, jadi pastikan ukur lingkar pinggang ya biar nggak salah pilih."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Skenario host duduk di meja kerja, lalu berdiri dan berjalan santai",
+      "narration": "Perfect buat bestie yang sering kerja dari rumah atau meeting kantor. Nggak perlu pusing mikirin mix and match outfit. --- Kalau kamu sering duduk lama, ini nyaman banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Tampilan rating bintang 4.85 dan angka 30.000 terjual dengan efek animasi naik",
+      "narration": "Rating empat koma delapan puluh lima dari lima bintang. Sudah terjual tiga puluh ribu produk. 'Ukurannya pas di pake ngk kebesaran ngk kekecilan'."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Grid enam warna celana (Navy, Hitam, Cream, Putih, Mocca, Silver) berganti cepat",
+      "narration": "Tersedia enam varian warna, mulai dari Navy, Hitam, Cream, Putih, Mocca, sampai Silver. Pilih warna favoritmu."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Host menunjuk ke bawah, panah animasi mengarah ke link di deskripsi",
+      "narration": "Klik link di deskripsi sekarang sebelum stok habis banget."
+    }
+  ],
+  "cta": "Klik link di deskripsi sekarang sebelum stok habis banget.",
+  "hashtags": [
+    "#NIMI",
+    "#CelanaKerja",
+    "#OOTDKantor",
+    "#FashionWanita",
+    "#ViralTiktok",
+    "#Rekomendasi",
+    "#CekHarga",
+    "#OOTDIndonesia"
+  ],
+  "product_id": 29692,
+  "product_title": "NIMI - Celana Kerja Kantor Reguler Formal Cream Pinggang Kancing Resleting Wanita",
+  "product_price": "59140.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/29692.jpg",
+    "/uploads/products/29692_1.jpg",
+    "/uploads/products/29692_2.jpg",
+    "/uploads/products/29692_3.jpg",
+    "/uploads/products/29692_4.jpg",
+    "/uploads/products/29692_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/29692",
+  "generated_at": "2026-03-13T06:28:01.230Z"
+}

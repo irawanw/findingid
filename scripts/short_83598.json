@@ -1,0 +1,83 @@
+{
+  "title": "Dress Polo Mahal? Ini Gak Mahal Banget!",
+  "hook_text": "STOP! Dress Polo Gak Mahal!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up model memutar body dengan dress polo putih yang terlihat premium dan flowy sambil gestur 'stop' ke kamera.",
+      "narration": "Stop scroll dulu bestie! Kamu pikir dress polo itu selalu mahal dan kaku? Nggak no cap, kali ini kita bakal ngebuktiin kalau fashion statement ini literally worth it banget buat kamu."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke tampilan full body dress polo #4183 Leenbenka Adeline dengan teks overlay 'Leenbenka Adeline Polo Shirt Dress #4183'.",
+      "narration": "Perkenalkan, Leenbenka Adeline Polo Shirt Dress kode #4183 nih. Ini bukan dress biasa, bestie. Ini adalah kombinasi gaya kasual yang super chic dan pas banget buat kamu yang mau tampil beda tapi tetap comfortable seharian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Visual split screen: di kiri harga asli, di kanan harga promo dengan efek ledakan kertas atau tanda seru besar bertuliskan 'Lumayan Murah'.",
+      "narration": "Wah, ini bagian favoritnya ya! Harganya cuma seratus delapan puluhan ribu rupiah. Which is basically next level deal kalau dibandingin sama kualitas yang kamu dapet, dong. Seratus delapan puluhan ribu buat outfit segini, literally super worth it!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat 3 shot: 1. Zoom ke tekstur kain yang tebal, 2. Model sedang duduk santai menunjukkan kenyamanan, 3. Close up jahitan detail di kerah.",
+      "narration": "No cap, bahannya bener-bener tebal, adem, dan flowy banget. Jadi nggak buat gerah sama sekali walaupun dipakai berkali-kali. Jahitannya juga super rapi dan presisi. Plus, warnanya nggak gampang luntur dan tetap solid meskipun dicuci berkali-kali, which is a huge plus buat kita yang malas keringetin baju terus."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot suasana kafe estetik atau kampus, model memakai dress polo ini sambil memegang secangkir kopi atau buku, tersenyum ceria.",
+      "narration": "Perfect buat kamu yang sering nongkrong di kafe, nge-date, atau sekedar jalan-jalan di kampus. Kalau aktivitas kamu butuh outfit yang gampang dicampur padan atau mau tampil smart casual, dress ini jawabannya bestie. Panjangnya juga pas banget buat berbagai ukuran badan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan grafik rating bintang 4.88 dan angka 20.000+ terjual dengan efek confetti, lalu muncul teks kutipan ulasan.",
+      "narration": "Pembelinya pada ngomong, 'Bener-bener sebagus itu! Dari bahannya bener-bener tebal, adem, dan flowy banget.' Plus rating empat koma delapan delapan dari dua puluh ribu produk yang udah terjual."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan tombol animasi 'Cek Sekarang' dan teks finding dot id.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya!",
+  "hashtags": [
+    "#Leenbenka",
+    "#DressPolo",
+    "#OOTDIndonesia",
+    "#FashionViral",
+    "#AffiliateMarketing",
+    "#CekFindingID",
+    "#OutfitHarian",
+    "#StyleInspo"
+  ],
+  "product_id": 83598,
+  "product_title": "LEENBENKA Adeline Polo Shirt Dress #4183",
+  "product_price": "99001.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/83598.jpg",
+    "/uploads/products/83598_1.jpg",
+    "/uploads/products/83598_2.jpg",
+    "/uploads/products/83598_3.jpg",
+    "/uploads/products/83598_4.jpg",
+    "/uploads/products/83598_5.jpg",
+    "/uploads/products/83598_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/83598",
+  "generated_at": "2026-03-14T04:07:09.290Z"
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Foundation Viral L'oreal 32 Jam Tahan Lama!",
+  "hook_text": "Foundation tahan 32 jam? Emang ada nih!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah berminyak transisi ke wajah matte sempurna dengan efek slow motion.",
+      "narration": "Foundation tahan 32 jam? Emang ada nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk L'Oreal Infallible ditampilkan dengan pencahayaan cinematic dan tekstur foundation yang ditetes di tangan.",
+      "narration": "Ini L’Oreal Infallible 32H Matte Cover. Formulasi baru, ada Niacinamide buat perawatan kulit sambil makeup seharian tanpa capek. Literally so cute."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul dengan efek uang atau diskon, menunjukkan angka seratus ribuan.",
+      "narration": "Nilai terbaik, harga cuma sekitar seratus tiga puluhan ribuan buat 30ml. --- Which is worth it banget dibanding kualitasnya di pasaran! No cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi oles foundation di wajah, tes tetesan air, dan jam tangan menunjukkan waktu lama.",
+      "narration": "Tahan lama banget, oil controlnya next level. --- Coverage tinggi tapi tetep natural matte. Plus transfer-proof dan tahan air, SPF 25 buat perlindungan ekstra setiap hari."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Gadis sedang beraktivitas di luar ruangan berkeringat sedikit, lalu menunjukkan skin texture yang halus.",
+      "narration": "Perfect buat kamu yang kulitnya berminyak atau sering keluar kota seharian. --- Tapi inget, kalau acne prone, coba patch test dulu biar nggak numpuk di pori."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.91 dan teks komentar pembeli yang muncul di layar.",
+      "narration": "Ratingnya 4,91! Ada 300 ribuan terjual. --- Yang udah beli bilang, 'Cocok banget buat kulit berminyak dan gampang diaplikasikan.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan latar belakang produk.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana! Jangan ditunda ya!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#MakeupViral",
+    "#LorealInfallible",
+    "#FoundationTahanLama",
+    "#KulitBerminyak",
+    "#SkincareIndonesia",
+    "#MakeUpLokal",
+    "#WajibMilik",
+    "#FindingID"
+  ],
+  "product_id": 102178,
+  "product_title": "L’Oreal Paris Infallible 32 Hr Matte Cover Liquid Foundation - 30ml (Make Up Loreal Natural Tahan 32 Jam)",
+  "product_price": "150000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/102178.jpg",
+    "/uploads/products/102178_1.jpg",
+    "/uploads/products/102178_2.jpg",
+    "/uploads/products/102178_3.jpg",
+    "/uploads/products/102178_4.jpg",
+    "/uploads/products/102178_5.jpg",
+    "/uploads/products/102178_6.jpg",
+    "/uploads/products/102178_7.jpg",
+    "/uploads/products/102178_8.jpg",
+    "/uploads/products/102178_9.jpg",
+    "/uploads/products/102178_10.jpg",
+    "/uploads/products/102178_11.jpg",
+    "/uploads/products/102178_12.jpg"
+  ],
+  "product_link": "https://finding.id/p/102178",
+  "generated_at": "2026-03-13T18:00:09.728Z"
+}

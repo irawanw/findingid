@@ -1,0 +1,97 @@
+{
+  "title": "Lifebuoy Total 10 Hemat 30%! Worth It Banget",
+  "hook_text": "Stop Beli Sabun Mahal! Ada Solusinya",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up Lifebuoy botol disiram air dengan efek splash cepat",
+      "narration": "Bestie, stop belanja sabun mahal-mahal dulu! --- Ada yang bilang 'Emang boleh beli empat?' Tenang, ini solusi hemat buat keluarga sehat!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Show stack 4 botol Lifebuoy 800ml di atas meja bathroom",
+      "narration": "Nih, Lifebuoy Total 10 Activ Silver Plus, total ada empat botol besar ukuran delapan ratus mililiter. Brand yang diakui Royal Society for Public Health London!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Overlay harga animasi muncul besar di tengah layar",
+      "narration": "Harga cuma seratus dua ribu empat ratus perak. Lebih hemat tiga puluh persen dibandingkan harga tertinggi seratus dua puluh lima ribu tiga ratus!"
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Animasi kuman mati dan efek busa sabun melimpah",
+      "narration": "Pertama, formula antiseptik Activ Silver Plus literally next level ngusir kuman. Kedua, wanginya harum menyenangkan bikin mood naik. Ketiga, busanya melimpah, kulit bersih tanpa ketarik."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Montase foto review bintang lima dan tangan pegang produk",
+      "narration": "Review bilang kualitas bagus, barang diterima dalam keadaan baik, dan masa berlaku sangat panjang. --- Packing aman kurir nggak bikin bocor. No cap, worth it banget buat stok!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Video anak kecil mandi dan orang tua pakai sabun",
+      "narration": "Perfect buat kamu yang punya anak kecil, atau kalau aktivitas kamu sering keluar rumah dan butuh perlindungan ekstra. Buat yang takut kuman masuk."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Counter terjual naik dan rating bintang lima animasi",
+      "narration": "Rating empat koma sembilan empat dari tiga puluh ribu pembeli udah ngecek. Ada yang bilang 'Alhamdulillah dapat harga murah'. Ini bukti kalau produk ini legit!"
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Show variasi kemasan pack besar dan twinpack",
+      "narration": "Varian tersedia pack besar atau twinpack tergantung stok saat ini. Pilih aja yang paling pas buat dompet kamu."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Panah menunjuk ke tombol link di bawah layar",
+      "narration": "Jangan tunggu kehabisan, klik link di bawah sekarang!"
+    }
+  ],
+  "cta": "Klik link di bawah sekarang!",
+  "hashtags": [
+    "#LifebuoyTotal10",
+    "#SabunCairHemat",
+    "#ReviewProduk",
+    "#HematBersih",
+    "#GenZIndonesia",
+    "#ViralProduct",
+    "#KebersihanRumah",
+    "#RekomendasiBelanja"
+  ],
+  "product_id": 48123,
+  "product_title": "[LEBIH HEMAT 30%] Lifebuoy Sabun Cair Sabun Mandi Antiseptik Total 10 Dengan Activ Silver+ Formula 800ml x 4",
+  "product_price": "102400.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/48123.jpg",
+    "/uploads/products/48123_1.jpg",
+    "/uploads/products/48123_2.jpg",
+    "/uploads/products/48123_3.jpg",
+    "/uploads/products/48123_4.jpg",
+    "/uploads/products/48123_5.jpg",
+    "/uploads/products/48123_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/48123",
+  "generated_at": "2026-03-12T22:26:37.721Z"
+}

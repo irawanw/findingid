@@ -1,0 +1,83 @@
+{
+  "title": "Regulator Gas Anti Bocor, No Karet Banget!",
+  "hook_text": "Gas bocor? Jangan pasang ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat orang panik pegang kompor dengan efek suara sirine kecil lalu transisi halus ke produk yang stabil.",
+      "narration": "Gas bocor di rumah, literally so scary banget bestie! Tapi tenang, ada solusinya nih yang bikin kamu nggak perlu khawatir lagi."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close-up Regulator Winn Gas W900M/NM berkilau dengan teks overlay 'Pengunci Ganda Anti Bocor' muncul perlahan.",
+      "narration": "Perkenalkan Regulator Winn Gas W900M dan NM, regulator yang punya sistem pengunci ganda super aman. Basically next level buat keamanan dapur kamu!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 98.000 s/d 113.000 muncul dengan animasi bintang berkedip, lalu gambar produk terlihat kokoh.",
+      "narration": "Tebak deh harganya? Cuma seratus puluhan ribu aja, which is worth it banget! Dapat keamanan level tinggi seharga segelas kopi, nggak percaya kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Tuning di bagian pengunci, 2. Tangan pasang tanpa karet tambahan, 3. Ikon garansi 5 tahun dan logo SNI.",
+      "narration": "Kenapa bestie harus punya ini? Pertama, sistem pengunci ganda anti bocor total. Kedua, pasangnya gampang banget tanpa perlu karet tambahan lagi. Ketiga, garansi lima tahun plus standar SNI, literally so reliable!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario keluarga muda di dapur asik masak bersama, ibu tersenyum lega melihat kompor nyala stabil.",
+      "narration": "Perfect buat kamu yang sering masak sendiri atau penyewa rumah yang butuh keamanan jangka panjang. Kalau kamu nggak mau ribet pasang karet lagi, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan angka 4.89 bintang dan tulisan '30.000+ Terjual' dengan highlight warna emas.",
+      "narration": "Yang udah beli bilang 'Pas banget tanpa karet, istri jadi nggak takut pasang sendiri'! Nggak ada keraguan lagi kan?"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke arah tombol beli di layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#RegulatorGas",
+    "#WinnGas",
+    "#AntiBocor",
+    "#DapurAman",
+    "#ViralShorts",
+    "#HematCuan",
+    "#ReviewProduk",
+    "#FindingId"
+  ],
+  "product_id": 12232,
+  "product_title": "Regulator Winn Gas Tekanan Rendah W900 Pengunci Ganda - W 900 M / NM - Regulator W 900 M / NM - Regulator Winngas W900M",
+  "product_price": "113500.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/12232.jpg",
+    "/uploads/products/12232_1.jpg",
+    "/uploads/products/12232_2.jpg",
+    "/uploads/products/12232_3.jpg",
+    "/uploads/products/12232_4.jpg",
+    "/uploads/products/12232_5.jpg",
+    "/uploads/products/12232_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/12232",
+  "generated_at": "2026-03-14T04:16:53.498Z"
+}

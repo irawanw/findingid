@@ -1,0 +1,95 @@
+{
+  "title": "Kado Bayi Paling Keren & Amanah! 🎁👶",
+  "hook_text": "Stop scroll! Kado bayi worth it banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up shot kemasan hampers yang rapi dibungkus bubble wrap tebal dengan musik upbeat.",
+      "narration": "Pernah bingung cari kado lahiran yang nggak bikin kantong jebol tapi tetep mewah?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat membuka box, memperlihatkan selimut handuk soft dan kartu ucapan di dalamnya.",
+      "narration": "Kenalin, ini Baby Gift Hampers yang literally next level buat sambut si kecil! Paket lengkap ada handuk plus selimut, plus free box yang estetik banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, lalu transisi ke gambar bayi tidur nyaman dengan selimut.",
+      "narran": "Gila sih harganya cuma seratusan ribu-an doang, padahal kualitasnya siap kasih ke bayi."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan tekstur kain yang dielus, kanan tunjukkan box yang rapi, lalu tunjukkan warna-warni yang tersedia.",
+      "narration": "Pertama, teksturnya super lembut dan nggak kasar di kulit bayi, basically worth it banget. Kedua, packingnya aman banget pake bubble wrap tebal biar nggak rusak, yang udah beli bilang packingnya rapih dan sopan. Ketiga, pilihannya gila-gilaan, ada warna biru, ungu, dotty blankie, bahkan hoodie kuning, cocok buat anak cowok maupun cewek."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene ibu muda bingung mau beli apa, lalu senyum melihat hampers ini, atau teks 'Perfect buat yang mau kado siap kirim'.",
+      "narration": "Perfect buat yang sering stres mikir kado lahiran atau kalau kamu mau surprise buat teman ngebir yang lagi melahirkan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.83 dan angka 30.000 terjual dengan efek flash.",
+      "narration": "Rating empat koma delapan tiga, dan yang udah beli bilang pengiriman cepat tapi barang tidak sesuai pesen pink dapat merah, jadi pastikan cek pesanan ya bestie."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi fun dan panah menunjuk ke arah tombol.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#kadayuk",
+    "#hadiahbayi",
+    "#kadolahiran",
+    "#findingid",
+    "#shopeefinds",
+    "#bayikeren",
+    "#parentinghacks",
+    "#giftideas"
+  ],
+  "product_id": 22825,
+  "product_title": "Kado Bayi Selimut Handuk - Baby Gift Hampers Newborn Girl Boy | Parsel Paket Hadiah Bayi Baru Lahir | Hampers Set Handuk dan Selimut",
+  "product_price": "69899.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/22825.jpg",
+    "/uploads/products/22825_1.jpg",
+    "/uploads/products/22825_2.jpg",
+    "/uploads/products/22825_3.jpg",
+    "/uploads/products/22825_4.jpg",
+    "/uploads/products/22825_5.jpg",
+    "/uploads/products/22825_6.jpg",
+    "/uploads/products/22825_7.jpg",
+    "/uploads/products/22825_8.jpg",
+    "/uploads/products/22825_9.jpg",
+    "/uploads/products/22825_10.jpg",
+    "/uploads/products/22825_11.jpg",
+    "/uploads/products/22825_12.jpg",
+    "/uploads/products/22825_13.jpg",
+    "/uploads/products/22825_14.jpg",
+    "/uploads/products/22825_15.jpg",
+    "/uploads/products/22825_16.jpg",
+    "/uploads/products/22825_17.jpg",
+    "/uploads/products/22825_18.jpg"
+  ],
+  "product_link": "https://finding.id/p/22825",
+  "generated_at": "2026-03-15T10:17:38.747Z"
+}

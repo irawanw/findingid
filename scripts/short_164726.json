@@ -1,0 +1,96 @@
+{
+  "title": "Kasur Bayi Baru! Empuk Banget Bestie, Cek Ini",
+  "hook_text": "STOP! Bayi lo tidur di kasur ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah bayi tersenyum manis di dalam kelambu warna Tosca dengan musik upbeat masuk",
+      "narration": "Gila sih bestie, lo tau nggak kalau kasur bayi yang satu ini bikin bayi tidur lebih lelap dan nyaman banget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat: tangan menyentuh permukaan kasur yang empuk, lalu zoom out tunjukkan kelambu lengkap dengan isi bantal dan guling",
+      "narration": "Ini Kasur Bayi Kelambu Premium, literally next level buat newborn. Isinya silikon premium yang mudah mengembang, jadi tebal dan empuk banget, plus udah gratis bedcover, bantal, dua guling, selimut, dan kelambu kokoh. Which is worth it banget buat investasi tidur si kecil."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan angka harga, lalu transisi cepat ke shot produk lengkap",
+      "narration": "Nggak percaya kan kalau seharga seratus dua puluhan ribu aja udah dapet full set begini? Nggak perlu nunggu diskon lagi, ini harga pas banget buat kado bayi atau kebutuhan harian, basicnya udah full package."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail: tangan menarik resleting yang mulus, lalu shot tekstur kain yang halus, lalu shot ukuran kasur",
+      "narration": "Kenapa produk ini jadi favorit? Pertama, resletingnya super mulus nggak bikin kulit bayi lecet. Kedua, teksturnya sangat halus dan adem, pokoknya cocok buat bayi sensitive. Ketiga, ukurannya sembilan puluh kali enam puluh sentimeter yang pas banget buat kasur bayi standar, nggak terlalu besar juga nggak sempit. Basically, fitur lengkap dan amanah banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Bunda sedang merapikan tempat tidur bayi, lalu bayi tidur nyenyak dengan tenang",
+      "narration": "Perfect buat yang baru punya anak pertama atau lagi persiapan baby shower nih. Kalau aktivitas kamu sering menggendong bayi baru lahir, ini wajib banget punya supaya tidur si kecil lebih berkualitas dan kamu juga lebih tenang."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.75 dan angka terjual 50.000 produk muncul di layar dengan background produk",
+      "narration": "Nggak perlu ragu, ratingnya empat koma tujuh lima dengan lima puluh ribu produk udah terjual, yang udah beli bilang kualitasnya bagus dan nggak ada cacat."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pencarian muncul dengan teks besar pointing ke finding dot id",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya!",
+  "hashtags": [
+    "#KasurBayi",
+    "#KadoBayi",
+    "#NewbornEssentials",
+    "#ParentingHacks",
+    "#ProdukViral",
+    "#BabyRoomDecor",
+    "#FindingId",
+    "#IbuAnak"
+  ],
+  "product_id": 164726,
+  "product_title": "Kasur Bayi Kelambu PREMIUM – Tebal & Empuk | FREE Bedcover | Matras Bayi Newborn | Kado Bayi",
+  "product_price": "127200.00",
+  "product_rating": "4.75",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/164726.jpg",
+    "/uploads/products/164726_1.jpg",
+    "/uploads/products/164726_2.jpg",
+    "/uploads/products/164726_3.jpg",
+    "/uploads/products/164726_4.jpg",
+    "/uploads/products/164726_5.jpg",
+    "/uploads/products/164726_6.jpg",
+    "/uploads/products/164726_7.jpg",
+    "/uploads/products/164726_8.jpg",
+    "/uploads/products/164726_9.jpg",
+    "/uploads/products/164726_10.jpg",
+    "/uploads/products/164726_11.jpg",
+    "/uploads/products/164726_12.jpg",
+    "/uploads/products/164726_13.jpg",
+    "/uploads/products/164726_14.jpg",
+    "/uploads/products/164726_15.jpg",
+    "/uploads/products/164726_16.jpg",
+    "/uploads/products/164726_17.jpg",
+    "/uploads/products/164726_18.jpg",
+    "/uploads/products/164726_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/164726",
+  "generated_at": "2026-03-15T06:44:42.684Z"
+}

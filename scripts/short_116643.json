@@ -1,0 +1,80 @@
+{
+  "title": "Sunscreen Fisik yang Gak Bikin Mata Perih! 😭🧴",
+  "hook_text": "STOP! Jangan pakai ini kalau mau mata meradang!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah berkeringat sedang menyeka mata dengan ekspresi kesakitan lalu cut ke produk tersenyum.",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?' Ada yang bilang 'Ketiak jadi kering!'"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Amaterasun Physical Sunscreen berputar di atas meja dengan background cerah dan fresh.",
+      "narration": "Tenang bestie, oles tipis saja ya! Ini Amaterasun Physical Sunscreen, pelindung kulit serba tujuh dalam satu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga membesar di layar dengan efek kilau emas, lalu transisi ke tumpukan uang kertas.",
+      "narration": "Gila sih, harganya cuma sekitar lima puluh dua ribuan, which is worth it banget buat perlindungan total."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan tekstur krim yang menetes di tangan (no whitecast), kanan tunjukkan sinar biru layar HP dan polusi kota.",
+      "narration": "Pertama, full mineral pakai Zinc Oxide yang aman banget, basically next level untuk kulit sensitif. Kedua, dia nggak cuma lawan matahari, tapi juga nangkis biru cahaya dan polusi. Ketiga, tekstur ini menyatu cepet tanpa bikin putih kayak tabur bedak, no cap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: ibu menyapukan sunscreen di wajah bayi lucu, lalu seorang anak sedang bermain di taman.",
+      "narration": "Perfect buat yang punya kulit sensitif atau kamu yang punya anak di bawah satu tahun. Kalau aktivitas kamu sering berkeringat atau main luar, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.9 besar dengan angka '50.000+ terjual' dan ikon bintang berkilau.",
+      "narration": "Pembelinya pada ngomong 'gak perih di mata kalaupun keringetan', dan ratingnya udah 4.9 dari lima puluh ribu lebih!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol beli berdenyut dengan logo finding.id dan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id sekarang!",
+  "hashtags": [
+    "#sunscreenfisik",
+    "#skincareindonesia",
+    "#skintok",
+    "#sunscreenreview",
+    "#skincarehalalanhalalan",
+    "#amaterasun",
+    "#skincaremineral",
+    "#sunscreenreview"
+  ],
+  "product_id": 116643,
+  "product_title": "Amaterasun Physical Sunscreen SPF 50+ PA++++ 30Gr",
+  "product_price": "52500.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/116643.jpg",
+    "/uploads/products/116643_1.jpg",
+    "/uploads/products/116643_2.jpg",
+    "/uploads/products/116643_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/116643",
+  "generated_at": "2026-03-14T04:08:18.664Z"
+}

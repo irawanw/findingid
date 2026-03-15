@@ -1,0 +1,80 @@
+{
+  "title": "Jas Slim Fit Mewah Cuma 199 Ribu? 🤑",
+  "hook_text": "Jas Formal Murah Gak Murahan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up jas, sharp look dengan efek cahaya",
+      "narration": "Nggak percaya nih, ada jas sekelas gini cuma seharga kopi kekinian?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Show full body shot wearing the blazer dari berbagai sudut",
+      "narration": "Ini Parayu Jas Blazer Vali, model slim fit yang bikin kamu auto terlihat tinggi dan gagah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Price tag graphic atau gestur tangan menunjuk harga",
+      "narration": "Dan tau nggak? Kamu bisa dapetin ini cuma di harga seratus sembilan puluh ribuan doang, --- which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up fabric, lining, pocket detail",
+      "narration": "Bahan katun high twist premium yang adem. --- Ada full furing dan busa pundak biar bahu tegap. --- Ada saku dalam juga, basically next level."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Teks overlay ukuran XXXXL muncul di samping model",
+      "narration": "Perfect buat kamu yang mau kondangan, wisuda, atau kerja. --- Mau badan jumbo? Tenang, size nya sampe XXXXL, no cap."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating stars 4.84 dan counter penjualan 60.000",
+      "narration": "Sudah terjual enam puluh ribuan unit dengan rating empat koma delapan empat. --- Yang udah beli bilang 'Ini di luar ekspektasi, sangat worth it'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Hand pointing down atau logo finding.id",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#JasPria",
+    "#BlazerSlimFit",
+    "#Parayu",
+    "#OotnPria",
+    "#MahalMurah",
+    "#StylePria",
+    "#RekomendasiPakaian",
+    "#Viral"
+  ],
+  "product_id": 64554,
+  "product_title": "Parayu - Jas Blazer Vali Jas Pria Formal Kancing Dua Slim Fit",
+  "product_price": "195000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64554.jpg",
+    "/uploads/products/64554_1.jpg",
+    "/uploads/products/64554_2.jpg",
+    "/uploads/products/64554_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/64554",
+  "generated_at": "2026-03-13T17:13:02.985Z"
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Lampu Meja Cuma 60 Ribu? Gila Banget!",
+  "hook_text": "Lampu Meja Cuma 60 Ribu?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up lampu meja dengan cahaya terang, teks overlay muncul cepat.",
+      "narration": "Lampu meja cuma segini? No cap, ini gila banget! Serius worth it parah."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan memegang lampu, menunjukkan fleksibilitas leher yang bisa ditekuk.",
+      "narration": "Kenalin nih AOKI Lampu Belajar Torch Dimmer. Fleksibel banget buat baca di mana aja, bisa ditekuk sesuai mood kamu dan nyaman."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh.",
+      "narration": "Harganya? Cuma enam puluhan ribu doang! Which is worth it banget banget buat kantong pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Video demonstrasi fitur sentuh dimmer dan lampu menyala redup/terang.",
+      "narration": "Ada fitur sentuh dimmer, jadi atur terang redup gampang banget. Baterai tahan charge 10 jam, literally next level buat belajar malam tanpa kabel. Cahayanya terang tapi nggak bikin sakit mata. --- Daya tahan baterai juga awet banget buat sehari-hari."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang belajar di meja dengan lampu menyala, suasana kamar estetik.",
+      "narration": "Buat kamu yang sering begadang ngerjain tugas atau kerja lembur. Perfect buat kamar minimalis. --- Packer aman kok barangnya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.91 dan angka penjualan 20.000 di layar.",
+      "narration": "Rating 4.91, udah terjual dua puluh ribuan! Yang udah beli bilang 'Harga terjangkau banget, kualitas baguuus'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan panah pointing ke bawah.",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#lampumeja",
+    "#produkviral",
+    "#genz",
+    "#belajar",
+    "#hemat",
+    "#findingid",
+    "#racunbelanja",
+    "#lampulebar"
+  ],
+  "product_id": 22054,
+  "product_title": "AOKI Lampu belajar sentuh torch dimmer fleksibel Baca Meja Kerja Duduk",
+  "product_price": "59800.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/22054",
+  "generated_at": "2026-03-13T18:27:41.549Z"
+}

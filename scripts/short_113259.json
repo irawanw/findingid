@@ -1,0 +1,83 @@
+{
+  "title": "Koper Penuh? Solusi Vacuum Bag Traveling Murah!",
+  "hook_text": "Koper Penuh? Stop Scroll Bestie!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up koper yang penuh sesak dan wajah kaget",
+      "narration": "Koper kamu masih penuh sesak banget? Stop scroll, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing set vacuum bag lengkap dengan pompa",
+      "narration": "Nih ada solusi next level, set vacuum bag traveling lengkap!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kaget",
+      "narration": "Harga? Cuma lima puluhan ribuan doang! Worth it parah, bestie!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi mengemas baju ke dalam vacuum bag dan pompa",
+      "narration": "Bisa hemat ruang sampai tiga kali lipat, literally space saving banget. --- Anti debu, air, sampe serangga bikin baju tetap rapi dan bersih. Ada pilihan pompa manual atau listrik yang praktis. Bahannya juga tebal, no cap, tahan lama buat perjalanan jauh."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Tampilan berbagai orang: traveler, mahasiswa, ibu rumah tangga",
+      "narration": "Cocok buat kalian yang sering jalan-jalan, mahasiswa, atau ibu rumah tangga mau atur lemari. Perfect buat yang punya koper kecil tapi bawaan banyak. --- Kalau pakai versi listrik, cek daya baterainya ya biar awet, jangan dipaksa."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.88 dan jumlah penjualan 30.000+",
+      "narration": "Rating 4.88, udah terjual puluhan ribu. Yang udah beli bilang 'kondisi barang bagus, suara pompa kencang, pengiriman aman'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol CTA mengarah ke finding.id dengan panah animasi",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya!",
+  "hashtags": [
+    "#vacuumbag",
+    "#traveltips",
+    "#packinghacks",
+    "#viralproduct",
+    "#findid",
+    "#travelgear",
+    "#organizer",
+    "#hematruang"
+  ],
+  "product_id": 113259,
+  "product_title": "Vacum Bag Traveling set 5 Plastik + Pompa Vacuum Bag Vakum Baju Vacuum Bag + NEW Pompa Angin listrik Travel Bag",
+  "product_price": "55900.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/113259.jpg",
+    "/uploads/products/113259_1.jpg",
+    "/uploads/products/113259_2.jpg",
+    "/uploads/products/113259_3.jpg",
+    "/uploads/products/113259_4.jpg",
+    "/uploads/products/113259_5.jpg",
+    "/uploads/products/113259_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/113259",
+  "generated_at": "2026-03-13T22:30:05.454Z"
+}

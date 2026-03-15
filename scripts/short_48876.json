@@ -1,0 +1,85 @@
+{
+  "title": "Mouse Gaming Murah Mewah? 😱🖱️",
+  "hook_text": "Mouse Gaming di bawah Seratus Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up mouse dengan lampu RGB menyala terang",
+      "narration": "Gak percaya ada mouse gaming performa mantap di bawah seratus ribu?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase produk berputar menampilkan berbagai warna",
+      "narration": "Kenalin nih, MOFii Mouse P6. --- Desainnya ergonomis, warnanya ada banyak pilihan. --- Literally so aesthetic, RGB-nya nyala semua."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafis harga muncul dengan efek kaget",
+      "narration": "Harganya cuma tujuh puluh ribuan doang. --- Which is worth it banget buat kantong pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi charging Type-C, ringan di tangan, dan tombol samping",
+      "narration": "Baterainya bisa di charge via Type-C, praktis no cap. --- Bobotnya cuma sembilan puluh gram, super ringan buat main lama. --- Tombol samping juga responsif banget buat nge-geser cepat. --- Bahan ABS-nya kokoh banget, jadi awet."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Siswa belajar dan pekerja remote di laptop",
+      "narration": "Perfect buat kamu kerja remote atau gaming casual di kamar. --- Estetik dan fungsional, jadi gak bikin sakit tangan. --- Khusus buat kamu yang sering main game FPS, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating 4.87 dan counter penjualan naik",
+      "narration": "Ratingnya empat koma delapan puluh tujuh, udah laku tujuh puluh ribu pcs. --- Yang udah beli bilang, 'sepadan banget sama harga'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Jari menunjuk ke area link bawah",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produknya ada di sana."
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana.",
+  "hashtags": [
+    "#mousegaming",
+    "#mousemurah",
+    "#gamingmouse",
+    "#teknologimurah",
+    "#mousewireless",
+    "#productviral",
+    "#findingid",
+    "#gamingsetup"
+  ],
+  "product_id": 48876,
+  "product_title": "MOFii Mouse Wireless Gaming Rechargeable Baterai Type-C Fast Charging 1600DPI RGB Light P6",
+  "product_price": "75000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/48876.jpg",
+    "/uploads/products/48876_1.jpg",
+    "/uploads/products/48876_2.jpg",
+    "/uploads/products/48876_3.jpg",
+    "/uploads/products/48876_4.jpg",
+    "/uploads/products/48876_5.jpg",
+    "/uploads/products/48876_6.jpg",
+    "/uploads/products/48876_7.jpg",
+    "/uploads/products/48876_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/48876",
+  "generated_at": "2026-03-13T21:20:55.527Z"
+}

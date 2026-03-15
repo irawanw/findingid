@@ -1,0 +1,84 @@
+{
+  "title": "Jemuran Dinding Stainless Hemat Space, Harga 70 Ribu!",
+  "hook_text": "Apartemen sempit nggak punya jemuran?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah ekspresi bingung lihat kamar sempit.",
+      "narration": "Apartemen sempit nggak punya jemuran? Nggak perlu pusing, Fix ini solusinya bestie! No cap."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk jemuran stainless steel yang sedang dilipat dan dibuka.",
+      "narration": "Kenalin nih, Jemuran Stainless Steel Tempel Dinding. Desainnya lipat, jadi keren banget di mana saja."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga muncul dengan efek kaget.",
+      "narration": "Harganya? Mulai tujuh puluhan ribu, sampe tiga ratusan ribu tergantung ukurannya. Literally worth it banget buat nghemat space rumah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi beban berat ditaruh di jemuran, lalu close up bahan stainless.",
+      "narration": "Desain dorong tarik, super hemat tempat. Bahan stainless anti karat, jadi awet banget. Dayanya kuat, bisa muat 300 kilograman! --- Ada yang bilang bahannya tipis, so jangan ambil ukuran paling gede ya, biar kuat."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Visual kamar tidur atau balkon sempit dengan jemuran terpasang rapi.",
+      "narration": "Cocok banget buat kamu yang punya balkon kecil atau kamar mandi minimalis kayak gini."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4,79 dan angka 70.000 terjual.",
+      "narration": "Rating 4,79 bintang! Udah terjual 70 ribu kali. Pembeli bilang, Performa sesuai harga, cocok banget buat jemuran di balkon."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah link di bawah layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya, bestie, review produk-nya next level di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya, bestie, review produk-nya next level di sana!",
+  "hashtags": [
+    "#jemuranminimalis",
+    "#hematruang",
+    "#apartemen",
+    "#stainlesssteel",
+    "#reviewproduk",
+    "#produkviral",
+    "#rumahminimalis",
+    "#findingid"
+  ],
+  "product_id": 95564,
+  "product_title": "Jemuran Baju Tempel Dinding Jemuran Pakaian Lipat Stainless Stee Jemuran Tempel Dinding Multilayer Jemuran Pakaian Minimalis",
+  "product_price": "197800.00",
+  "product_rating": "4.79",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/95564.jpg",
+    "/uploads/products/95564_1.jpg",
+    "/uploads/products/95564_2.jpg",
+    "/uploads/products/95564_3.jpg",
+    "/uploads/products/95564_4.jpg",
+    "/uploads/products/95564_5.jpg",
+    "/uploads/products/95564_6.jpg",
+    "/uploads/products/95564_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/95564",
+  "generated_at": "2026-03-13T17:09:45.301Z"
+}

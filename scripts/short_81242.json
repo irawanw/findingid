@@ -1,0 +1,83 @@
+{
+  "title": "Jas Hujan Viral Ini Worth It Banget?",
+  "hook_text": "Jas Hujan Viral Ini Bikin Kering?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Cut cepat adegan orang kehujanan lalu transisi ke produk kering.",
+      "narration": "Beli jas hujan ini, dibilangin bakal basah? No way bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close up Respiro The Challenger R2.0 ditetes air, shot slow motion.",
+      "narration": "Ini Respiro The Challenger R2.0. Waterproof banget, literally next level compared to yang biasa lo pake."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, perbandingan dengan harga jas biasa.",
+      "narration": "Harganya tiga ratus tiga puluh ribuan. Which is worth it banget buat ganti jas hujan lama yang udah banting tulang."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Menunjukkan detail resleting, tudung kepala, dan tekstur bahan.",
+      "narration": "Fiturnya? Full waterproof, hood adjustable, which is super practical. Ada yang bilang 'Performa mantap, cocok menerjang hujan' --- Bahan tipis ya, jadi jangan dibanting-banting. This is basically untuk hujan deras, bukan banjir."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Rider motor di jalanan basah, anak kampus pakai jas hujan.",
+      "narration": "Perfect buat lo yang sering motoran pas hujan deras atau anak kost yang mau hemat. Kalau aktivitas lo ngebut, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Badge rating 4.89 dan angka 20.000 terjual muncul di layar.",
+      "narration": "Rating 4.89, udah terjual 20.000 produk. Pembelinya bilang 'saya beli untuk menggantikan jas hujan respiro yang saya beli tahun 2018 lalu'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#jas hujan",
+    "#respiro",
+    "#viral",
+    "#fashion",
+    "#ootd",
+    "#murah",
+    "#findingid",
+    "#rain suit"
+  ],
+  "product_id": 81242,
+  "product_title": "RESPIRO THE CHALLENGER R2.0 || Jas Hujan || Rain Suit Waterproof",
+  "product_price": "335000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/81242.jpg",
+    "/uploads/products/81242_1.jpg",
+    "/uploads/products/81242_2.jpg",
+    "/uploads/products/81242_3.jpg",
+    "/uploads/products/81242_4.jpg",
+    "/uploads/products/81242_5.jpg",
+    "/uploads/products/81242_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/81242",
+  "generated_at": "2026-03-13T22:52:08.282Z"
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Punya Kaki Lemas Saat Hamil? Solusinya Nih!",
+  "hook_text": "Perut bengkak bikin capek?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wajah ibu hamil yang terlihat lelah sambil menaiki tangga atau berdiri lama.",
+      "narration": "Punya perut bengkak yang bikin kamu capek banget kalau harus naikin tangga atau jalan jauh?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke produk Mocababy Korset Ibu Hamil yang sedang dipakai oleh model hamil dengan pose percaya diri.",
+      "narration": "Stop! Kamu butuh Mocababy Korset Ibu Hamil ini, yang basically next level buat ngurangin beban punggung kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar di layar dengan animasi 'dikit' lalu ganti ke harga real seharga lima puluh ribuan.",
+      "narration": "Wah gila sih, harganya cuma seharga lima puluh ribuan, padahal nilainya jauh di atas satu jutaan!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Bahan neoprene didekatkan ke kamera, 2. Model sedang bergerak aktif, 3. Teks 'Support Perut' muncul.",
+      "narration": "Pertama bahan neoprene nya super adem dan nggak bikin panas. Kedua, dia nempel banget di perut jadi nggak geser saat kamu gerak. Ketiga, supportnya kuat banget buat ngunci posisi perut biar nggak berat di punggung bawah."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage ibu hamil naik motor, masuk kerumitan, atau tidur yang lebih nyenyak.",
+      "narration": "Perfect buat kamu yang sering naik turun tangga di rumah, atau kalau aktivitas kamu sering banget berdiri lama dan jalan jauh, ini wajib banget punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.85 bintang dan angka 20.000 terjual dengan font tebal.",
+      "narration": "Rating empat koma delapan lima dari dua puluh ribu pembeli, yang udah beli bilang 'Kenyaman banget dan bahannya lembut'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Mocababy dan teks besar 'Cek Detail di Finding Dot ID' dengan panah menunjuk ke arah bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#IbuHamil",
+    "#Mocababy",
+    "#PregnancyBelt",
+    "#TipsHamil",
+    "#KesehatanHamil",
+    "#ShopeeMom",
+    "#FindingId",
+    "#ProdukViral"
+  ],
+  "product_id": 22217,
+  "product_title": "Mocababy Korset Ibu Hamil Maternity Support Belt Pregnancy Belt Stagen Penyangga Perut Ibu Hamil Tally /Korset Penyangga Kehamilan Sabuk Hamil BS01",
+  "product_price": "72126.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/22217.jpg",
+    "/uploads/products/22217_1.jpg",
+    "/uploads/products/22217_2.jpg",
+    "/uploads/products/22217_3.jpg",
+    "/uploads/products/22217_4.jpg",
+    "/uploads/products/22217_5.jpg",
+    "/uploads/products/22217_6.jpg",
+    "/uploads/products/22217_7.jpg",
+    "/uploads/products/22217_8.jpg",
+    "/uploads/products/22217_9.jpg",
+    "/uploads/products/22217_10.jpg",
+    "/uploads/products/22217_11.jpg",
+    "/uploads/products/22217_12.jpg"
+  ],
+  "product_link": "https://finding.id/p/22217",
+  "generated_at": "2026-03-15T00:54:07.468Z"
+}

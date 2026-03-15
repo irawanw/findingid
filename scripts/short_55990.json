@@ -1,0 +1,83 @@
+{
+  "title": "Celana Lari Ringan Banget! Wajib Punya Buat Jogging",
+  "hook_text": "Stop Scroll! Celana Lari Ringan Gila!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up kaki model melangkah cepat di aspal panas dengan efek suara *whoosh* dan ekspresi kaget di layar.",
+      "narration": "Stop scrolling bestie! Kamu nggak bakal mau pindah channel kalau liat celana lari ini, literally next level!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: model lari santai, close-up kain yang tipis tapi kuat, dan adegan duduk di cafe sambil pakai celana tersebut.",
+      "narration": "Ini Elfs Active Running Pants, celana panjang lari yang bikin kamu merasa kayak ngefly. Tenang, nggak panas sama sekali meskipun lari marathon seharian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan animasi *pop-up* berwarna neon, disusul gambar tagihan lunas yang dicoret.",
+      "narration": "Harga cuma seratus enam puluhan ribu, which is worth it banget deh untuk kualitas fabric-nya yang super premium dan nyaman."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tiga poin muncul bergantian dengan ilustrasi simpel: 1. Kain mengkilap, 2. Saku lebar, 3. Pinggang elastis.",
+      "narration": "Pertama, fabric-nya anti-heat dan anti-air jadi kering cepet. Kedua, ada saku di pinggul buat nyimpen HP atau kunci motor. Ketiga, pinggangnya elastis banget pas banget di badan, nggak bakal bikin perut kamu kelihatan saat lari."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: di satu sisi pria jogging pagi hari, di sisi lain pria sedang nunggu ojek online pakai celana yang sama.",
+      "narration": "Perfect buat kamu yang aktivitasnya sering lari pagi atau butuh celana casual yang rapi buat nunggu ojek online. Basically cocok buat semua pria yang mau tampil *sporty* setiap hari."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Statistik muncul cepat: Bintang 4.85, 30.000 terjual, dan bubble chat muncul dengan teks spesifik dari pembeli.",
+      "narration": "Pembelinya pada ngomong bahan ini enak banget dipakai, jadi nggak heran kalau sudah terjual lebih dari tiga puluh ribu unit dengan rating empat koma delapan lima."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh dengan logo finding.id dan tombol *shopping bag* yang bergetar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stoknya nggak bakal ada selamanya!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#ElfsActive",
+    "#CelanaLari",
+    "#JoggingIndonesia",
+    "#OOTDMaskulin",
+    "#LariPagi",
+    "#FashionLakiLaki",
+    "#RunningGear",
+    "#FindingId"
+  ],
+  "product_id": 55990,
+  "product_title": "Elfs Active Running Pants - Celana Panjang Ringan Lari Jogging Marathon",
+  "product_price": "165748.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/55990.jpg",
+    "/uploads/products/55990_1.jpg",
+    "/uploads/products/55990_2.jpg",
+    "/uploads/products/55990_3.jpg",
+    "/uploads/products/55990_4.jpg",
+    "/uploads/products/55990_5.jpg",
+    "/uploads/products/55990_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/55990",
+  "generated_at": "2026-03-14T04:29:01.115Z"
+}

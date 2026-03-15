@@ -1,0 +1,83 @@
+{
+  "title": "Foundie Under 60k? Ini Must-Have Kulit Oily!",
+  "hook_text": "STOP! Foundie under 60k?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah berminyak yang tiba-tiba berubah jadi matte sambil tunjukkan produk FOCALLURE di depan kamera dengan ekspresi kaget.",
+      "narration": "Stop! Kamu bakal kaget banget sama harganya. Foundie full coverage under 60k-an? Literally nggak percaya kan, bestie?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk FOCALLURE Full Coverage Oil-control Fluid Foundation berputar perlahan, tunjukkan tekstur cairnya di back of hand dan aplikasi di wajah.",
+      "narration": "Ini dia FOCALLURE Full Coverage Oil-control Fluid Foundation. Teksturnya ringan banget, nggak bikin berat di wajah, tapi coverage-nya full. Basically next level untuk kamu yang mau skin silky smooth seharian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan grafis harga besar 'SERATUS DELAPAN PULUH RIBU' yang kemudian berubah jadi '59.000 AN' dengan efek confetti, lalu muncul stempel 'BPOM'.",
+      "narration": "Gila sih, harganya cuma 59.000-an! Dibanding foundation lain, ini worth it banget. Plus punya izin edar BPOM resmi, jadi amanah buat kulit kamu, no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan kulit berminyak, kanan tunjukkan hasil matte; lalu tunjukkan botol foundation dan icon '200.000+ Terjual'.",
+      "narration": "Efektif banget ngerem minyak, bikin kulit matte seharian. Ratingnya 4.87 dari lebih 200.000 produk yang udah laku keras. Ada juga ekstrak alami yang regenerasi kulit, plus ada varian Hot! buat kamu yang suka shade khusus."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas: anak kos makeup pagi, kerja kantoran siang, dan nongkrong sore dengan makeup yang tetap awet.",
+      "narration": "Perfect buat kamu pemilik kulit normal sampe berminyak, yang tonenya kuning langsat sampe sawo matang. Kalau aktivitas kamu rame-rame atau siangin, ini bakal jadi penyelamat kulit kamu biar nggak kilang minyak."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.87 bintang, angka 200.000 terjual, dan teks quote muncul di layar dengan background chat bubbles.",
+      "narration": "Pembelinya pada ngomong, 'Kulitku kuning langsat, kondisi kulit normal kadang oily kalau siang, hasil foundie nua matte dan ngunci minyak. Pagi pake, sore masih matte tinggal pake loose'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Pointer mengarah ke teks besar 'finding dot id' dengan animasi panah yang bergerak cepat.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#FocalLure",
+    "#FoundationMurah",
+    "#KulitOily",
+    "#BeautyHack",
+    "#SkincareIndonesia",
+    "#MustHave",
+    "#MakeupLover",
+    "#FindingId"
+  ],
+  "product_id": 102221,
+  "product_title": "FOCALLURE Full Coverage Oil-control Fluid Foundation",
+  "product_price": "59000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/102221.jpg",
+    "/uploads/products/102221_1.jpg",
+    "/uploads/products/102221_2.jpg",
+    "/uploads/products/102221_3.jpg",
+    "/uploads/products/102221_4.jpg",
+    "/uploads/products/102221_5.jpg",
+    "/uploads/products/102221_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/102221",
+  "generated_at": "2026-03-14T03:55:40.039Z"
+}

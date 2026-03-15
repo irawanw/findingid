@@ -1,0 +1,80 @@
+{
+  "title": "Sandisk Dual Drive GO OTG Type-C Murah Banget!",
+  "hook_text": "Masih Ribet Pake Kabel Transfer Data?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kreator terlihat frustrasi memegang banyak kabel data, lalu transisi cepat ke produk Sandisk.",
+      "narration": "Stop scroll! Masih ribet bawa kabel buat transfer data? --- Gak perlu lagi dong!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Sandisk muncul di tengah frame dengan pencahayaan cinematic, zoom in ke logo Sandisk.",
+      "narration": "Kenalin, Sandisk Ultra Dual Drive GO OTG Type-C. --- Ini gadget wajib buat kamu yang hidup di era digital."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek efek koin jatuh, transisi ke harga promo.",
+      "narration": "Harga aslinya empat ratusan ribuan, tapi kalau sale bisa dapet tiga ratusan ribuan bestie. --- Gila sih, murah banget buat kualitas Sandisk."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo plug-in port Type-C ke HP dan USB ke Laptop, lalu animasi speedometer kecepatan data.",
+      "narration": "Fitur utamanya dual port. Type-C dan USB biasa, ngak perlu converter lagi. --- Upload file besar jadi cepet banget. Kecepatan literally 400MBps. Kapasitas 128GB, wajar cuma terbaca 123GB karena sistem."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase orang kerja di cafe, presentasi di kelas, dan konten kreator syuting outdoor.",
+      "narration": "Perfect buat kamu sering presentasi di luar, konten kreator butuh backup foto, --- atau mahasiswa simpan tugas di mana aja."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan bintang rating 4.9 dan angka 20.000 terjual, diikuti screenshot chat pembeli.",
+      "narration": "Udah 20 ribu produk terjual, rating 4,9. --- Yang udah beli bilang, 'Recommended seller jelas, admin ramah dan fastrespon, pengiriman aman.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Kreator menunjuk ke arah bawah layar dengan senyum lebar, teks finding dot id muncul.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Sandisk",
+    "#Flashdisk",
+    "#OTG",
+    "#GadgetMurah",
+    "#Teknologi",
+    "#ViralShorts",
+    "#CekDiFinding",
+    "#LifeHacks"
+  ],
+  "product_id": 130731,
+  "product_title": "SANDISK Ultra Dual Drive GO OTG Type-C 128GB USB 3.2 - Black (Up to 400MBps)",
+  "product_price": "439800.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/130731.jpg",
+    "/uploads/products/130731_1.jpg",
+    "/uploads/products/130731_2.jpg",
+    "/uploads/products/130731_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/130731",
+  "generated_at": "2026-03-13T21:31:20.872Z"
+}

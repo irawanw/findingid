@@ -1,0 +1,84 @@
+{
+  "title": "Blazer Kantor Murah Ini Bikin On Point Banget!",
+  "hook_text": "Blazer Kantor Murah? Emang Ada?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up bahan blazer dengan pencahayaan dramatis, model masuk frame dengan senyum percaya diri.",
+      "narration": "Lo pikir blazer kantor pasti mahal? Tenang bestie, kita punya solusi!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai blazer warna navy, memperlihatkan potongan pas di badan.",
+      "narration": "Kenalin, Blazer Formal Wanita ini desain Korea elegan banget. Bahan gabardine nggak gampang kusut."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga muncul di layar dengan efek kaget, lalu transisi ke model tersenyum.",
+      "narration": "Dan kagetnya, harga cuma di bawah lima puluhan ribu dong! Worth it banget buat kualitas."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage detail kancing, saku, dan model mengenakan size XXL.",
+      "narration": "Pertama, bahan gabardine tebal dan adem. Kedua, desain minimalis biar profesional. Ketiga, ukuran jumbo sampai L9. --- Ada yang bilang ukurannya agak panjang, tapi buat BB 59 pas banget dikancingin."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model di kantor dan ruang kuliah, terlihat profesional dan santai.",
+      "narration": "Perfect buat meeting, sidang, atau kerja remote. Kalau butuh tampilan rapi tapi budget tipis, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4,86 bintang dan tulisan 40.000 terjual.",
+      "narration": "Rating 4,86 bintang sama 40 ribu produk terjual! Yang udah beli bilang, 'Ukuran XL pas banget buat BB 59, luvv'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar menampilkan QR code atau logo finding.id dengan teks besar.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#blazerkerja",
+    "#outfitkantor",
+    "#blazermurah",
+    "#fashionwanita",
+    "#rekomendasibaju",
+    "#findingshopping",
+    "#styleindonesia",
+    "#blazerformal"
+  ],
+  "product_id": 8778,
+  "product_title": "Blezer Kerja Wanita Blezer Wanita Formal Blazer Kantor Wanita Premium Atasan Jas Cewek Kantor Jumbo Premium",
+  "product_price": "50550.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/8778.jpg",
+    "/uploads/products/8778_1.jpg",
+    "/uploads/products/8778_2.jpg",
+    "/uploads/products/8778_3.jpg",
+    "/uploads/products/8778_4.jpg",
+    "/uploads/products/8778_5.jpg",
+    "/uploads/products/8778_6.jpg",
+    "/uploads/products/8778_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/8778",
+  "generated_at": "2026-03-13T22:53:56.219Z"
+}

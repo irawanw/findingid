@@ -1,0 +1,88 @@
+{
+  "title": "Vest Rajut Viral 30k Terjual? Worth It Banget!",
+  "hook_text": "Ini Vest Viral yang Lagi Hype?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up detail tekstur kain vest, lalu zoom out cepat ke model.",
+      "narration": "Ada yang tau nggak, kenapa vest ini lagi rame banget dibeli? --- Ini Vest Rajut Premium Skylin, model Korea yang bikin OOTD kamu next level."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model berputar menunjukkan potongan vest, transisi cepat ke berbagai warna.",
+      "narration": "Harganya? Mulai dari delapan puluh ribuan aja, which is worth it banget buat kualitas premium. Bahannya rajut adem, nggak gerah, dan modelnya unisex."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga pop-up besar, efek koin jatuh, lalu muncul logo Skylin.",
+      "narration": "Bahan rajutnya lembut banget, no cap. Nggak gampang kusut. Detailnya rapi banget, tapi hati-hati, kalau badan agak gendut, size Max aja ya biar nggak kegederan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri mahasiswa, kanan pekerja kantor, semua pakai vest berbeda warna.",
+      "narration": "Perfect buat nongkrong, kuliah, atau kerja santai. Styling gampang, tinggal paduin sama kemeja atau kaos polos. Kamu bisa mix and match pakai celana jeans."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Grafik rating bintang 4.88 muncul, lalu counter penjualan 30.000.",
+      "narration": "Rating 4,88, udah laku 30.000 produk. Yang udah beli bilang, 'pengalaman serasa belanja premium soale plastiknya aja pakai klip, beneran worth it'."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot chat WA pembeli (blur nama), panah mengarah ke tombol cari.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana! Jadi jangan sampai kehabisan ya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id besar di tengah, background blur vest.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana! Jadi jangan sampai kehabisan ya!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#VestRajut",
+    "#OOTDIndonesia",
+    "#SkylinKnitwear",
+    "#FashionKorea",
+    "#ViralShopee",
+    "#FashionKekinian",
+    "#ProdukViral",
+    "#CekFindingID"
+  ],
+  "product_id": 14009,
+  "product_title": "Vest Rajut Premium Pria & Wanita - SKYLIN Knitwear",
+  "product_price": "78000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/14009.jpg",
+    "/uploads/products/14009_1.jpg",
+    "/uploads/products/14009_2.jpg",
+    "/uploads/products/14009_3.jpg",
+    "/uploads/products/14009_4.jpg",
+    "/uploads/products/14009_5.jpg",
+    "/uploads/products/14009_6.jpg",
+    "/uploads/products/14009_7.jpg",
+    "/uploads/products/14009_8.jpg",
+    "/uploads/products/14009_9.jpg",
+    "/uploads/products/14009_10.jpg",
+    "/uploads/products/14009_11.jpg"
+  ],
+  "product_link": "https://finding.id/p/14009",
+  "generated_at": "2026-03-13T20:53:53.820Z"
+}

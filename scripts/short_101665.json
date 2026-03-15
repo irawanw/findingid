@@ -1,0 +1,82 @@
+{
+  "title": "Kulit Mencerah 10x? Ini Rahasianya!",
+  "hook_text": "Kulit kusam? STOP scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah sebelum pakai produk terlihat kusam lalu transisi cepat ke kulit glowing bercahaya",
+      "narration": "Kulit kusam dan gelap? Tenang bestie, nggak perlu sedih lagi karena ada solusi next level buat kamu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk NEWLAB Brightlogy GlutaColl-5500 di atas meja estetik dengan background cahaya lembut",
+      "narration": "Kenalan yuk sama NEWLAB Paket 2 Box Brightlogy GlutaColl-5500. Ini minuman collagen dan glutathione yang BPOM banget loh, jadi aman dan terpercaya!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek animasi 'wow' dan ikon tas belanja",
+      "narration": "Gila sih harganya cuma seratus dua puluhan ribu untuk dua box lengkap dengan tiga puluh sachet, which is worth it banget buat perawatan wajah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menampilkan 3 ikon: 1. Wajah cerah, 2. Kulit kenyal, 3. Rambut berkilau",
+      "narration": "First, dia langsung ngangkat kusam bikin kulit makin cerah alami. Second, kandungan kolagennya bikin kulit kenyal dan lembab. Finally, bantu jaga rambut biar nggak gampang rontok, basically total glow up!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene orang muda sedang bekerja di depan komputer, lalu minum sachet sambil tersenyum ceria",
+      "narration": "Perfect buat yang sering begadang, duduk lama di depan layar, atau lagi bokek tapi pengen tampil glowing tanpa makeup tebal!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.91 dan angka 30.000 terjual dengan background hijau",
+      "narration": "Rating empat koma sembilan satu dan udah terjual tiga puluh ribu produk, yang udah beli bilang hasilnya udah mulai terlihat dan sekarang jadi nggak perlu pakai kosmetik macam-macam!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul dengan animasi klik dan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#NEWLAB",
+    "#GlutaColl",
+    "#KulitCerah",
+    "#CollagenDrink",
+    "#GlowUp",
+    "#SkincareIndo",
+    "#BPOM",
+    "#FindingId"
+  ],
+  "product_id": 101665,
+  "product_title": "NEWLAB Paket 2 Box Brightlogy GlutaColl-5500 | Collagen Drink | Minuman Collagen & Minuman Glutathione BPOM untuk Mencerahkan 30 Sachet",
+  "product_price": "322000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/101665.jpg",
+    "/uploads/products/101665_1.jpg",
+    "/uploads/products/101665_2.jpg",
+    "/uploads/products/101665_3.jpg",
+    "/uploads/products/101665_4.jpg",
+    "/uploads/products/101665_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/101665",
+  "generated_at": "2026-03-14T04:15:44.141Z"
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Korset Pasca Melahirkan Viral! Solusi Perut Mumpet",
+  "hook_text": "Perut Mumpet Pasca Melahirkan? Stop Scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah ekspresi kaget sambil pegang perut, lalu transisi cepat ke produk.",
+      "narration": "Perut buncit pasca melahirkan bikin minder? Stop scroll dulu bestie, literally! --- Ini solusinya, serius!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk di atas meja dengan pencahayaan soft, lalu dipegang untuk tunjukkan tekstur.",
+      "narration": "Kenalin nih, Korset Momiasi Big Size. --- Bahan nilonnya adem, literally so cute banget buat harian dong."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar bersamaan dengan gesture tangan menunjuk ke bawah.",
+      "narration": "Harganya? Cuma seratus dua puluhan ribu aja dong. --- Which is worth it banget buat kualitas begini, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo penggunaan perekat 4 arah dan tunjukkan area yang ditutupi (3 area perut).",
+      "narration": "Fiturnya literally next level. --- Ngejempol tiga area perut, aman buat operasi Caesar. --- Dan punya empat perekat adjustable, jadi ukurannya pas no cap, banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model ibu hamil/mom memakai korset sambil tersenyum, menunjukkan fit yang pas.",
+      "narration": "Perfect buat mumi yang berat badan empat puluh sampai seratus lima kilo. --- Kalau aktivitas harian butuh support ekstra, basically super recommended, no cap."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.87 dan jumlah terjual, lalu teks kutipan pembeli muncul.",
+      "narration": "Rating empat koma delapan tujuh, laku empat puluh ribuan. --- Yang udah beli bilang, serius bahannya adem dan warnanya cokelat susu kece banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id besar di layar dengan panah menunjuk ke arah link.",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie, sekarang juga! --- Review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, sekarang juga!",
+  "hashtags": [
+    "#korsetpasca",
+    "#momiasi",
+    "#bayi",
+    "#postpartum",
+    "#viral",
+    "#findingid",
+    "#tipsibu",
+    "#belanjaonline"
+  ],
+  "product_id": 39460,
+  "product_title": "BIG SIZE Korset Pasca Melahirkan 4 Perekat by Momiasi",
+  "product_price": "122900.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/39460.jpg",
+    "/uploads/products/39460_1.jpg"
+  ],
+  "product_link": "https://finding.id/p/39460",
+  "generated_at": "2026-03-13T18:56:38.072Z"
+}

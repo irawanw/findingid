@@ -1,0 +1,83 @@
+{
+  "title": "Sepatu Flat Lancip Murah Banget! Worth It?",
+  "hook_text": "Ukuran beda dikit? Jangan khawatir!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up sepatu Laviola 2914 LSH di kaki model sambil geleng kepala lucu, teks warning muncul di layar.",
+      "narration": "Stop scroll dulu bestie! Ada yang bilang sih sepatunya bagus dan empuk banget, tapi sayangnya ukuran kanan kirinya beda dikit ya guys."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke shot full body model jalan santai pakai sepatu Apricot, zoom in ke detail bahan.",
+      "narration": "Tenang dong nggak usah pusing! Laviola 2914 LSH ini literally next level comfort-nya. Bahan PU sintetisnya halus kayak beludru yang super lembut di kaki, plus desain ujung lancip bikin outfit kamu langsung kelihatan elegant dan kekinian banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 145.000 muncul dengan efek confetti, lalu transisi ke tumpukan sepatu warna-warni.",
+      "narration": "Which is worth it banget kok! Kamu bisa dapetnya mulai dari seratus empat puluh lima ribuan aja, which is sangat terjangkau banget buat budget pelajar atau kerjaan. Packingnya juga aman banget sampai ke tangan, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase: model melompat ringan, detail sol TPR, dan close-up tekstur bahan PU.",
+      "narration": "Kelebihannya nggak main-main. Outsole TPR-nya super lentur jadi jalan seharian nggak bikin kaki pegal. Bantalan kakinya empuk banget, plus tersedia dalam warna Salem, Apricot, Black, dan Khaki. Basically, ini sepatu flat santai perfect buat aktivitas sehari-hari kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: di kiri model kuliah bawa tas, di kanan model kantor pakai jas blazer.",
+      "narration": "Perfect buat kamu yang sering kuliah atau kerjaan butuh sepatu flat yang nyaman tapi tetap stylish. Kalau kamu cari sepatu yang nggak bikin capek tapi tetap terlihat rapi, ini jawabannya bestie!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.89 bintang dan angka 30.000 terjual dengan background hitam elegan.",
+      "narration": "Pembelinya pada bilang bantalan kaki empuk banget dan sangat direkomendasikan untuk order lagi. Rating 4.89 dari tiga puluh ribu produk terjual, no way bisa salah!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah, model memberikan thumbs up.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#Laviola2914",
+    "#SepatuFlat",
+    "#OOTDIndonesia",
+    "#BudgetFriendly",
+    "#ShoeLove",
+    "#GenZStyle",
+    "#FindingId",
+    "#SepatuMurah"
+  ],
+  "product_id": 86558,
+  "product_title": "Laviola 2914 LSH - Sepatu Flat Wanita",
+  "product_price": "145000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/86558.jpg",
+    "/uploads/products/86558_1.jpg",
+    "/uploads/products/86558_2.jpg",
+    "/uploads/products/86558_3.jpg",
+    "/uploads/products/86558_4.jpg",
+    "/uploads/products/86558_5.jpg",
+    "/uploads/products/86558_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/86558",
+  "generated_at": "2026-03-14T03:47:40.298Z"
+}

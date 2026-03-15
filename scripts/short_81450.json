@@ -1,0 +1,83 @@
+{
+  "title": "Celana Jeans Viral 140 Ribu?!",
+  "hook_text": "Celana Jeans Murah Tapi Premium?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up kain jeans yang sedang dipegang, lalu transisi cepat ke model memakai celana.",
+      "narration": "Percaya nggak sih, jeans highwaist bisa semurah ini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model berputar menunjukkan potongan celana dari berbagai sisi.",
+      "narration": "Ini Eleovin Cutbray Emily, best seller yang lagi nge-hype banget. Cuttingannya bikin kaki panjang tanpa bikin gerah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga muncul besar di layar dengan efek animasi.",
+      "narration": "Dan ini bagian favorit aku, harganya cuma 140-an ribu saja. Worth it banget buat kualitas selevel ini, no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi bahan yang ditarik (stretch) dan close up detail pinggang.",
+      "narration": "Fiturnya next level banget. Bahannya super lembut dan stretch, gerak bebas tanpa takut ketat. --- Highwaist ngejebak perut tanpa bikin kepanasan. Warnanya solid, nggak pudar meski sering dicuci."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model duduk santai di cafe sambil memegang laptop.",
+      "narration": "Khususnya buat kamu yang sering kerja kantor atau kuliah seharian. Kalau butuh outfit santai tapi tetep kelihatan estetik, ini wajib punya di lemari kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan counter jumlah terjual.",
+      "narration": "Rating 4,9 dari 20 ribuan terjual. --- Yang sudah beli bilang, 'Bahan lembut dan cuttingannya pas'. Cek deskripsi warna ya biar nggak salah kirim."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah teks finding dot id.",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detailnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#jeansviral",
+    "#celanajeans",
+    "#fashionmurah",
+    "#stylegenz",
+    "#eleovin",
+    "#cutbrayemily",
+    "#outfitmurah",
+    "#findingid"
+  ],
+  "product_id": 81450,
+  "product_title": "Eleovin Fashion - Cutbray Emily - Celana Jeans Highwaist Best Seller Premium",
+  "product_price": "142900.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/81450.jpg",
+    "/uploads/products/81450_1.jpg",
+    "/uploads/products/81450_2.jpg",
+    "/uploads/products/81450_3.jpg",
+    "/uploads/products/81450_4.jpg",
+    "/uploads/products/81450_5.jpg",
+    "/uploads/products/81450_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/81450",
+  "generated_at": "2026-03-13T20:40:12.186Z"
+}

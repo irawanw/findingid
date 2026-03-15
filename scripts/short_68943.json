@@ -1,0 +1,96 @@
+{
+  "title": "Kotak Penyimpanan 66L & 110L Murah Banget!",
+  "hook_text": "Stop buang duit buat rak mahal!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat ruang kamar yang berantakan dengan tumpukan baju di lantai, lalu transisi instan ke tumpukan kotak penyimpanan yang rapi.",
+      "narration": "Stop buang duit buat beli rak dinding yang mahal! Tau nggak sih bestie, kita bisa atur serbaguna pakai barang simpel kayak gini aja."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close-up produk box 66L dan 110L berwarna abu-abu dan beige yang didorong pelan, tunjukkan panel depan transparan.",
+      "narration": "Ini dia storage box serbaguna yang literally next level! Bahan kain tahan lembab, plus panel depan dan samping transparan buat akses cepet tanpa harus buka tutup."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan harga kisaran seratus lima puluh delapan ribuan, lalu digoyangkan seolah-olah murah.",
+      "narration": "Wah, harganya super ramah di kantong nih! Mulai dari seratus lima puluh delapan ribuan, which is worth it banget untuk kualitas dan ukuran yang dapet."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: tangan memegang pegangan di samping box, lalu membuka kawat di dalam, lalu menaruh banyak baju lipat ke dalam box.",
+      "narration": "Fiturnya nggak main-main! Pertama, punya pegangan di kedua sisi jadi gampang dipindah-pindah. Kedua, ada kawat di dalamnya biar bentuknya tetap rapi nggak berantakan. Terakhir, tersedia berbagai warna mulai dari hijau, biru laut sampe beige yang super aesthetic!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario nyata: seseorang sedang membersihkan lemari, memasukkan baju musim dingin ke dalam kotak, lalu menaruh di bawah tempat tidur.",
+      "narration": "Perfect buat kamu yang sering bingung cari baju lama atau mau atur gudang rumah biar nggak sempit. Kalau aktivitas kamu sering nyimpen barang musim, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.82 bintang dan angka 30.000 terjual, lalu potongan komentar pembeli asli muncul di layar.",
+      "narration": "Kata pembelinya, barangnya diterima dengan aman dan pengiriman cepat. Jadi nggak perlu khawatir, kok!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah menunjuk ke bawah atau tombol beli berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#StorageBox",
+    "#RuangRapi",
+    "#HematRuang",
+    "#KamarAesthetic",
+    "#OrganisasiRuang",
+    "#MurahMeriah",
+    "#CleaningTok",
+    "#FindingId"
+  ],
+  "product_id": 68943,
+  "product_title": "storage box 66L/110L kotak penyimpanan container box  tahan lembab Tempat penyimpanan baju lipat Box Serbaguna",
+  "product_price": "50001.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/68943.jpg",
+    "/uploads/products/68943_1.jpg",
+    "/uploads/products/68943_2.jpg",
+    "/uploads/products/68943_3.jpg",
+    "/uploads/products/68943_4.jpg",
+    "/uploads/products/68943_5.jpg",
+    "/uploads/products/68943_6.jpg",
+    "/uploads/products/68943_7.jpg",
+    "/uploads/products/68943_8.jpg",
+    "/uploads/products/68943_9.jpg",
+    "/uploads/products/68943_10.jpg",
+    "/uploads/products/68943_11.jpg",
+    "/uploads/products/68943_12.jpg",
+    "/uploads/products/68943_13.jpg",
+    "/uploads/products/68943_14.jpg",
+    "/uploads/products/68943_15.jpg",
+    "/uploads/products/68943_16.jpg",
+    "/uploads/products/68943_17.jpg",
+    "/uploads/products/68943_18.jpg",
+    "/uploads/products/68943_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/68943",
+  "generated_at": "2026-03-14T19:23:53.688Z"
+}

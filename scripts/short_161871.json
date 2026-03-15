@@ -1,0 +1,81 @@
+{
+  "title": "Pompa ASI Handsfree Bestie! 🤱✨ Worth It?",
+  "hook_text": "Gak perlu pegang alat memompa!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tangan sedang memompa alat biasa lalu dilempar, transisi ke Momabae yang dipakai sambil jalan santai.",
+      "narration": "Gak perlu pegang alat sama sekali saat memompa, bestie. Imagine bisa jalan-jalan sambil nge-pump tanpa ribet!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage Momabae Omni dipakai di cafe, lari pagi, dan keramaian, fokus pada fitur handsfree.",
+      "narration": "Perkenalkan Momabae Omni, pompa ASI elektrik handsfree yang bikin sesi memompa jadi super fleksibel. Cocok banget buat Moms aktif yang gak mau diam di satu tempat terus."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text besar muncul: Rp 1,1 Juta-an, lalu dihapus diganti dengan teks 'Worth It?' dengan efek glitter.",
+      "narration": "Harganya cuma satu jutaan dikit, which is worth it banget untuk kenyamanan maksimal. Bandingin sama pompa biasa, ini literally game changer banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Sensor gerak aktif, 2. Suara soft di cafe, 3. Garansi 1+2 tahun.",
+      "narration": "Pertama, sensor gerak otomatis jadi gak perlu tombol manual terus. Kedua, suaranya super lembut baby friendly, jadi gak bikin si kecil rewel pas lagi di cafe. Terakhir, garansi mesin satu tahun plus servis dua tahun, which is next level support!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Moms yang sedang meeting sambil memompa, lalu foto selfie sambil memegang baby dan Momabae.",
+      "narration": "Perfect buat yang sering meeting bareng bayi atau Moms yang suka jalan-jalan sambil nge-pump. Kalau aktivitas kamu penuh dan gak mau terikat kursi, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.94 dan angka 20.000 terjual, muncul chat bubble dari pembeli.",
+      "narration": "Rating empat koma sembilan puluh empat dari dua puluh ribu pembeli. Yang udah beli bilang performanya baguss dan cocok buat mom eping yang lagi banyak kegiatan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan tombol 'Cek Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#Momabae",
+    "#PompaASI",
+    "#Handsfree",
+    "#WorkingMom",
+    "#HematWaktu",
+    "#ASI",
+    "#MomLife",
+    "#FindingId"
+  ],
+  "product_id": 161871,
+  "product_title": "MOMABAE – OMNI Pompa ASI Elektrik Handsfree Breast Pump / POMPA ASI",
+  "product_price": "1165000.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/161871.jpg",
+    "/uploads/products/161871_1.jpg",
+    "/uploads/products/161871_2.jpg",
+    "/uploads/products/161871_3.jpg",
+    "/uploads/products/161871_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/161871",
+  "generated_at": "2026-03-15T03:02:48.080Z"
+}

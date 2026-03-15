@@ -1,0 +1,81 @@
+{
+  "title": "Solusi Bahu Pegal Murah Banget!",
+  "hook_text": "Leher Kaku Parah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah ekspresi pegal atau memijat leher sendiri",
+      "narration": "Leher kaku parah akhir-akhir ini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan memegang produk Benbo Pijat dengan latar belakang bersih",
+      "narration": "Nih bestie, Benbo Pijat Leher Multifungsi. Teksturnya super lembut, nggak bikin panas. --- Performanya ngebut, pijatannya berasa banget di bahu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh",
+      "narration": "Harganya cuma dua ratus tiga puluh ribuan saja. Which is worth it banget buat kualitas kayak gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo penggunaan alat pijat di area bahu dan leher seseorang",
+      "narration": "Tapi ada tips ya, karena nggak ada tombol on-off, jadi harus cabut kabel buat matikan. Adaptornya standar saja. Beneran next level buat ngilangin pegal."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang mengetik di laptop atau main game",
+      "narration": "Perfect buat kamu yang sering kerja di depan laptop atau gamers berat. --- Kalo aktivitas kamu padat, ini wajib punya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan angka 30.000 terjual",
+      "narration": "Ratingnya 4,87 dari 30.000 produk terjual. Yang udah beli bilang, alatnya berfungsi bagus dan dikirim cepat."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan panah menunjuk ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#BenboPijat",
+    "#AlatPijat",
+    "#GayaHidupSehat",
+    "#RekomendasiProduk",
+    "#SolusiPegal",
+    "#FindingId"
+  ],
+  "product_id": 46347,
+  "product_title": "Benbo Pijat Bahu Dan Tulang Belakang Leher Multifungsi / Bantal Pijat / Alat Pijat Punggung / Bantal Pijat Elektrik",
+  "product_price": "239000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/46347.jpg",
+    "/uploads/products/46347_1.jpg",
+    "/uploads/products/46347_2.jpg",
+    "/uploads/products/46347_3.jpg",
+    "/uploads/products/46347_4.jpg",
+    "/uploads/products/46347_5.jpg",
+    "/uploads/products/46347_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/46347",
+  "generated_at": "2026-03-13T16:55:52.323Z"
+}

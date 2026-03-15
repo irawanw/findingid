@@ -1,0 +1,89 @@
+{
+  "title": "Stroller Travel Cuma 200 Ribu? Bestie Wajib Tau!",
+  "hook_text": "Stroller Travel Cuma 200 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up stroller dilipat cepat di latar bandara",
+      "narration": "Gak percaya deh, ini stroller travel cuma seharga dua ratus ribuan doang? --- literally ngeri banget buat budget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Show full stroller spinning dan bisa masuk kabin pesawat",
+      "narration": "Ini Mmflight Stroller, literally super compact dan bisa masuk kabin pesawat bestie. --- No cap, praktis banget buat jalan-jalan!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga naik turun dan angka terjual 50k",
+      "narration": "Dapet fitur lengkap, rating 4,85 bintang, total udah terjual lima puluh ribu kali! --- Worth it banget gak sih?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tunjukkan berat 3kg, lipatan, dan kursi 2 arah",
+      "narration": "Bobotnya cuma tiga kilo! Lipat gampang, kursi dua arah fleksibel. --- Oh ya, ada yang bilang ada karat dikit, jadi oles pelindung aja ya biar awet. --- Gak masalah kok, gampang kok!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu mendorong stroller di taman atau bandara",
+      "narration": "Perfect buat kamu yang sering naik pesawat atau butuh cadangan harian. --- Nggak ribet bawaan, simple banget buat aktivitas kamu yang sibuk."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 4.85 dan counter penjualan naik",
+      "narration": "Rating 4,85 bintang plus kata pembelinya 'puas dehhh, anak sukaaa banget'. --- Lengkap semua gaada yang kurang satupun"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Hand pointing to phone screen showing finding.id",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#stroller",
+    "#traveling",
+    "#parenting",
+    "#mmflight",
+    "#babygear",
+    "#viral",
+    "#shorts",
+    "#findingid"
+  ],
+  "product_id": 18188,
+  "product_title": "Mmflight Stroller Baby Lipat Travelling Stroller Anak Kereta Dorong Bayi 2 Arah Cabin Size",
+  "product_price": "208888.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/18188.jpg",
+    "/uploads/products/18188_1.jpg",
+    "/uploads/products/18188_2.jpg",
+    "/uploads/products/18188_3.jpg",
+    "/uploads/products/18188_4.jpg",
+    "/uploads/products/18188_5.jpg",
+    "/uploads/products/18188_6.jpg",
+    "/uploads/products/18188_7.jpg",
+    "/uploads/products/18188_8.jpg",
+    "/uploads/products/18188_9.jpg",
+    "/uploads/products/18188_10.jpg",
+    "/uploads/products/18188_11.jpg",
+    "/uploads/products/18188_12.jpg"
+  ],
+  "product_link": "https://finding.id/p/18188",
+  "generated_at": "2026-03-13T17:05:15.022Z"
+}

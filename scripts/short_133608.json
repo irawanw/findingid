@@ -1,0 +1,83 @@
+{
+  "title": "Jeans Pria Stretch Adem Banget!",
+  "hook_text": "Jangan beli jeans lagi!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tangan mengencangkan pinggang jeans yang terasa ketat lalu langsung longgar saat ditarik",
+      "narration": "Stop scroll! Jangan beli jeans lagi kalau nggak mau nyesel dan bikin panas di badan nih bestie."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memutar badan menunjukkan gerakan bebas dan nyaman saat berjalan, text overlay muncul: JB Denim Bioblitz",
+      "narration": "Ini dia JB Denim Bioblitz, seri jeans pria terbaik dengan bahan dasar denim stretch yang lembut, halus, dan super adem dipakai."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga besar di layar dengan efek uang jatuh, lalu muncul teks 'Hanya Seratus Enam Puluh-an Ribuan'",
+      "narration": "Gila sih harganya cuma seratus enam puluhan ribu rupiah, which is worth it banget untuk kualitas sekelas ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail jahitan double stitch di bagian selangkangan yang rapi, lalu transisi ke model duduk di cafe tanpa褶, dan terakhir model berlari santai",
+      "narration": "First, pakai metode two stitch sewing yang bikin jahitan kokoh nggak gampang robek. Second, bahannya lentur elastis jadi nggak ngepres perut sama sekali. Third, super nyaman buat aktivitas keras atau santai bareng teman, literally next level."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat: pria di kantor, pria di gym, dan pria nongkrong malam hari dengan gaya berbeda",
+      "narration": "Perfect buat kamu yang sering duduk lama seharian, atau kalau aktivitas kamu aktif banget dan butuh jeans yang gerakannya bebas nggak kaku."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.86 bintang dan angka 20.000 terjual, lalu muncul bubble chat dengan teks asli dari pembeli",
+      "narration": "Sebanyak dua puluh ribu produk udah terjual dengan rating empat koma delapan enam, yang udah beli bilang bahan jeans stretch jadi nggak terlalu ngepres banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul dengan animasi klik, background cerah dan ceria",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek full review di finding dot id!",
+  "hashtags": [
+    "#JeansPria",
+    "#JBDenim",
+    "#OOTDMaskulin",
+    "#FashionIndonesia",
+    "#JeansStretch",
+    "#LoyaltyJB",
+    "#WajibBeli",
+    "#StylePria"
+  ],
+  "product_id": 133608,
+  "product_title": "JB - Denim Bioblitz - Celana Jeans Pria",
+  "product_price": "229000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/133608.jpg",
+    "/uploads/products/133608_1.jpg",
+    "/uploads/products/133608_2.jpg",
+    "/uploads/products/133608_3.jpg",
+    "/uploads/products/133608_4.jpg",
+    "/uploads/products/133608_5.jpg",
+    "/uploads/products/133608_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/133608",
+  "generated_at": "2026-03-14T18:51:31.954Z"
+}

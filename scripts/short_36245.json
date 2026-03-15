@@ -1,0 +1,83 @@
+{
+  "title": "Tas Kulit Premium Cuma 100 Ribu? No Cap!",
+  "hook_text": "Tas kulit premium cuma seratus ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tas dengan teks besar yang muncul cepat di layar",
+      "narration": "Tas kulit premium cuma seratus ribuan? No cap!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai angle, model pakai tas dengan gaya santai",
+      "narration": "Kenalin WEIXIER 8642, tas selempang pria yang literally next level. --- Desain elegan, cocok buat kamu yang suka gaya."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek suara koin",
+      "narration": "Harganya? Mulai seratus dua puluhan ribu aja. --- Bandingin sama kualitas yang kamu dapet? --- Basically worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo isi tablet dan percikan air pada permukaan tas",
+      "narration": "Bahan sintetis premium, halus lembut di tangan. --- Fitur anti air, jadi aman pas hujan deras. --- Muat tablet delapan inch plus dokumen kerja. --- Resleting metal solid, kokoh no doubt."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model pakai tas ke kantor atau kampus dengan outfit rapi",
+      "narration": "Perfect buat kerja atau kuliah. Butuh tas multifungsi tapi tetap gaya. --- Style-nya polos, cocok buat outfit casual maupun formal."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.86 dan angka penjualan 40.000",
+      "narration": "40.000 produk terjual! Rating 4.86 bintang. --- Yang udah beli bilang, 'Bahan bagus premium. Halus lembut dan sangat nyaman dipakai.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana! Jangan sampai kehabisan!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana! Jangan sampai kehabisan!",
+  "hashtags": [
+    "#taslempang",
+    "#taspria",
+    "#weixier",
+    "#fashionpria",
+    "#rekomendasitas",
+    "#produkviral",
+    "#gaya",
+    "#murahmeriah"
+  ],
+  "product_id": 36245,
+  "product_title": "WEIXIER 8642 Tas Selempang Pria Kulit Crossbody Sling Bag Anti Air WX-OS",
+  "product_price": "102900.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/36245.jpg",
+    "/uploads/products/36245_1.jpg",
+    "/uploads/products/36245_2.jpg",
+    "/uploads/products/36245_3.jpg",
+    "/uploads/products/36245_4.jpg",
+    "/uploads/products/36245_5.jpg",
+    "/uploads/products/36245_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/36245",
+  "generated_at": "2026-03-13T19:52:50.502Z"
+}

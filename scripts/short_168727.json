@@ -1,0 +1,83 @@
+{
+  "title": "Powerbank 10000mAh Cuma Seratus Ribuan?!",
+  "hook_text": "Powerbank 10000mAh cuma 100 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot power bank ROBOT RT180S dengan efek cahaya neon yang menyala-nyala di latar belakang gelap",
+      "narration": "Bestie, berani banget sih ada powerbank 10000mAh di harga segini? No cap, ini literally gila banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai sudut (rotasi 360 derajat) menunjukkan desain ramping dan port input/output",
+      "narration": "Kenalin nih, ROBOT Power Bank RT180S yang resmi banget. Kapasitas 10000mAh, ini literally next level buat nemenin kamu seharian penuh tanpa takut kehabisan daya."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar 'HARGA 103 RIBUAN' dengan efek uang jatuh atau koin berkilau",
+      "narration": "Dan yang bikin kaget, harganya cuma seratus tiga puluhan ribu aja! Which is worth it banget kalau dibandingin sama powerbank merk lain yang biasanya jualan mahal."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: colok 3 perangkat sekaligus, lalu shot port Type-C dan Micro USB yang berbeda warna",
+      "narration": "Fiturnya gila bestie! Ada tiga output sekaligus, jadi bisa charge tiga HP barengan. Ada dual input port Type-C dan Micro USB, jadi nge-charge powerbanknya juga super cepet. Basically, no perlu ribet nyari colokan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario nyata: seseorang sedang jalan-jalan outdoor sambil memegang powerbank, lalu shot orang di cafe sedang ngerjain tugas",
+      "narration": "Ini perfect banget buat kamu yang sering traveling, atau bestie yang aktivitasnya ngantor seharian tanpa stop. Kalau kamu sering lupa bawa charger, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.86 dan angka 70.000 terjual, lalu teks kutipan pembeli muncul",
+      "narration": "Sudah dijual 70.000 produk dengan rating 4.86 bintang! Yang udah beli bilang, 'Packingnya aman banget dan warna cantik, bakal langganan lagi'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah mengarah ke tombol find, dengan teks 'Cek di finding dot id'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#ROBOTPowerBank",
+    "#PowerbankMurah",
+    "#AksesorisHP",
+    "#GadgetViral",
+    "#GenZStyle",
+    "#RekomendasiGadget",
+    "#CekDiFinding",
+    "#PowerBank10000mAh"
+  ],
+  "product_id": 168727,
+  "product_title": "ROBOT Power Bank RT180S Powerbank 10000mAh 3 Output Dual Input Port Type C & Micro USB Original Resmi",
+  "product_price": "103000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/168727.jpg",
+    "/uploads/products/168727_1.jpg",
+    "/uploads/products/168727_2.jpg",
+    "/uploads/products/168727_3.jpg",
+    "/uploads/products/168727_4.jpg",
+    "/uploads/products/168727_5.jpg",
+    "/uploads/products/168727_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/168727",
+  "generated_at": "2026-03-15T12:44:31.771Z"
+}

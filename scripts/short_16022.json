@@ -1,0 +1,83 @@
+{
+  "title": "Termometer Bayi Akurat Banget! Cek Harganya",
+  "hook_text": "Terima kasih! Makasih seller",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah panik orang tua baru memegang termometer di depan wajah bayi yang sedang tidur pulas.",
+      "narration": "Pernah nggak sih, pas mau check suhu bayi malah bikin nangis bontang? Tenang bestie, kita punya solusi tanpa kontak kulit!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Sinocare Termometer Digital AET-R1D1 dipegang dengan gerakan cepat, cahaya laser merah muncul di dahi bayi.",
+      "narration": "Perkenalkan, Sinocare Termometer Digital AET-R1D1. Ini infrared, which is basically next level buat kamu yang nggak mau repot gosongin kulit kecil!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga muncul di layar dengan efek 'pop', lalu muncul ikon baterai AAA.",
+      "narration": "Gila sih, harganya cuma seratus enam puluhan ribu! Plus dapet dua buah baterai AAA juga, which is worth it banget buat pemula."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: layar menampilkan angka 38.5, lalu tangan mencubit termometer (tombol), lalu close up sensor di dahi.",
+      "narration": "Dulu ada yang bilang 'Emang boleh beli empat?' Nah, ini akurat banget dengan akurasi nol koma dua derajat. Tinggal pegang di dahi, scan, dan keluar hasil dalam hitungan detik tanpa perlu gosongin badan bayi. Super mudah pakai!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage ibu muda sedang menyusui, lalu berganti ke ayah yang main-main dengan bayi sambil cek suhu.",
+      "narration": "Perfect buat yang aktivitasnya sering check suhu bayi di pagi hari atau malam hari. Kalau kamu sering khawatir bayi demam, alat ini wajib punya dong!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.91 bintang dan angka 80.000 terjual, dengan teks overlay kutipan pembeli.",
+      "narration": "Pembelinya pada ngomong, 'Pengiriman cepat, aman, dan packaging rapih.' No cap, barangnya beneran bagus dan akurat!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul besar dengan animasi klik, background ceria.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#Sinocare",
+    "#TermometerBayi",
+    "#ParentingHack",
+    "#AmanBayi",
+    "#ViralShorts",
+    "#BestMom",
+    "#ParentingIndonesia",
+    "#FindingId"
+  ],
+  "product_id": 16022,
+  "product_title": "Sinocare Termometer Digital  Bayi Thermometer Infrared Pengukur Suhu Badans AET-R1D1",
+  "product_price": "176900.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/16022.jpg",
+    "/uploads/products/16022_1.jpg",
+    "/uploads/products/16022_2.jpg",
+    "/uploads/products/16022_3.jpg",
+    "/uploads/products/16022_4.jpg",
+    "/uploads/products/16022_5.jpg",
+    "/uploads/products/16022_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/16022",
+  "generated_at": "2026-03-14T06:06:13.561Z"
+}

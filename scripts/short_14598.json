@@ -1,0 +1,96 @@
+{
+  "title": "Karpet Anti Slip Murah 150x100! 🇮🇩",
+  "hook_text": "Karpet 150x100 Cuma 70 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up karpet motif elegan dengan transisi cepat ke overlay teks harga.",
+      "narration": "Gila sih, karpet 150x100 harga segini? --- Gak nyangka banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilkan produk utuh, tangan menyentuh permukaan beludru karpet.",
+      "narration": "Ini nih PGOODS, karpet Eropa anti slip. Bahan beludru polyester lembut banget, which is worth it banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga besar muncul di tengah layar dengan efek koin.",
+      "narration": "Harga aslinya tuh tujuh puluhan ribuan dong. Bandingin sama kualitas sekelas ini, literally no cap, murah meriah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up motif cerah, lalu tunjukkan bagian belakang karet anti slip.",
+      "narration": "Fitur utamanya? Desain motif cerah bikin estetik. Bagian bawah ada karet anti slip, nggak gampang geser. Ketebalannya pas, nggak tipis kayak tikar piknik yang bikin bingung."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang duduk santai di atas karpet bersama teman atau anak.",
+      "narration": "Perfect buat refresh ruang tamu. Kalau kamu cari karpet buat area duduk santai atau anak main, size 150x100 udah cukup luas buat 3 orang."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang dan angka penjualan 40.000 dengan animasi naik.",
+      "narration": "Rating 4,82 bintang, udah laku 40 ribuan pcs! Yang udah beli bilang, 'Warnanya cocok banget buat ruang tamu'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di layar dengan panah mengarah ke tombol.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#karpetmurah",
+    "#decorrumah",
+    "#findingid",
+    "#rumahcantik",
+    "#genz",
+    "#karpet",
+    "#interior",
+    "#hemat"
+  ],
+  "product_id": 14598,
+  "product_title": "PGOODS - Karpet Lantai Karpet Ruang Tamu Karpet Eropa Karpet Motif Anti Slip 150x100",
+  "product_price": "86999.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/14598.jpg",
+    "/uploads/products/14598_1.jpg",
+    "/uploads/products/14598_2.jpg",
+    "/uploads/products/14598_3.jpg",
+    "/uploads/products/14598_4.jpg",
+    "/uploads/products/14598_5.jpg",
+    "/uploads/products/14598_6.jpg",
+    "/uploads/products/14598_7.jpg",
+    "/uploads/products/14598_8.jpg",
+    "/uploads/products/14598_9.jpg",
+    "/uploads/products/14598_10.jpg",
+    "/uploads/products/14598_11.jpg",
+    "/uploads/products/14598_12.jpg",
+    "/uploads/products/14598_13.jpg",
+    "/uploads/products/14598_14.jpg",
+    "/uploads/products/14598_15.jpg",
+    "/uploads/products/14598_16.jpg",
+    "/uploads/products/14598_17.jpg",
+    "/uploads/products/14598_18.jpg",
+    "/uploads/products/14598_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/14598",
+  "generated_at": "2026-03-13T22:14:31.797Z"
+}

@@ -1,0 +1,82 @@
+{
+  "title": "HP Full? Ini Solusi Penyimpanan Extra!",
+  "hook_text": "HP Full? Simpan Data Sekarang!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up layar HP menampilkan notifikasi memori penuh dengan ekspresi panik.",
+      "narration": "Nggak percaya HP bisa tambah memory? Bestie, ini fakta yang bikin kaget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase produk SanDisk dipegang tangan, lalu dicolokkan ke port USB C HP Android.",
+      "narration": "Ini SanDisk Phone Drive buat Android. Colok langsung jalan, tanpa aplikasi ribet."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga di layar HP atau kartu harga yang menunjukkan angka di bawah 135 ribu.",
+      "narration": "Varian 128GB harganya cuma di bawah seratus tiga puluhan ribu doang. Literally murah buat space segede ini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Video transfer file cepat di HP, diikuti quick montage warna ungu, kuning, dan hitam produk.",
+      "narration": "Transfer data super cepat, sampai 100MB per detik. --- Ada warna ungu, kuning, atau hitam. Yang udah beli bilang 'Fdnya berfungsi dengan baik, transfer file lebih baik pakai port USB C'."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang mengambil video di luar ruangan lalu menyimpannya ke drive tersebut.",
+      "narration": "Perfect buat kreator konten yang sering rekam video. --- Kapasitas 128GB normalnya terbaca 115GB karena sistem. Jangan kaget ya, no cap ini solusi terbaik."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.94 dan angka penjualan 20 ribu produk yang muncul animasi.",
+      "narration": "Total penjualan udah tembus 20 ribu produk dengan rating hampir sempurna. --- Pembelinya pada ngomong 'Desain menarik, warna bisa pilih kesukaan'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id besar di tengah layar dengan panah menunjuk ke arah link.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SanDisk",
+    "#FlashdiskAndroid",
+    "#TeknologiGenZ",
+    "#GadgetIndonesia",
+    "#StorageExtra",
+    "#LifeHacks",
+    "#GadgetMurah",
+    "#FindingID"
+  ],
+  "product_id": 11469,
+  "product_title": "SANDISK Phone Drive for Android USB Type C - A  32GB / 64GB / 128GB / 256GB / 512GB USB 3.2 Up To 100MB/s",
+  "product_price": "182400.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/11469.jpg",
+    "/uploads/products/11469_1.jpg",
+    "/uploads/products/11469_2.jpg",
+    "/uploads/products/11469_3.jpg",
+    "/uploads/products/11469_4.jpg",
+    "/uploads/products/11469_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/11469",
+  "generated_at": "2026-03-13T17:26:49.137Z"
+}

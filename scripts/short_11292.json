@@ -1,0 +1,87 @@
+{
+  "title": "Celana Jeans Korea Slim Fit Murah Banget!",
+  "hook_text": "Celana Jeans Korea Semurah Ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up celana jeans dengan efek zoom in cepat dan teks overlay besar.",
+      "narration": "Celana jeans Korea style bisa semurah ini? Gila sih bestie! No cap, nyesel banget kalau ketinggalan tren terbaru!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai celana jeans, berjalan santai, dan memutar badan menunjukkan fit.",
+      "narration": "Kenalin nih, Celana Jeans Slim Fit Stretch Korean Style. --- Desainnya bikin kamu kelihatan tinggi dan rapi banget, tanpa bikin mahal sama sekali."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh atau suara uang.",
+      "narration": "Harganya mulai seratus empatpuluh ribuan. --- Literally nggak nyangka dapet kualitas gini, which is worth it banget buat kantong pelajar!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail jahitan, stretch bahan ditarik, dan list ukuran XL ke atas.",
+      "narration": "Bahannya denim stretch, jadi nggak kaku pas gerak. --- Jahitan super halus, no cap. Tersedia sampai ukuran 4XL buat kamu yang big size, jadi fit-nya aman."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario pria di jalan dan sedang berkumpul keluarga.",
+      "narration": "Cocok banget buat kamu yang suka gaya Korean Street Style, --- atau butuh celana buat aktivitas harian yang nyaman, plus seragam keluarga juga oke banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 4,6 dan jumlah terjual 30.000 muncul di layar.",
+      "narration": "Sudah terjual tiga puluh ribuan, rating 4,6. --- Yang sudah beli bilang, 'Bahan bagus, fast respon admin, dan pas banget di kantong', no cap!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah menunjuk ke arah bawah atau link.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#JeansPria",
+    "#KoreanStyle",
+    "#OotdPria",
+    "#FashionMurah",
+    "#JeansStretch",
+    "#BigSize",
+    "#PensilDenim",
+    "#ViralTikTok"
+  ],
+  "product_id": 11292,
+  "product_title": "Celana Jeans Pria SLIM FIT STANDAR STRETCH SOBEK Korean Style Biru Muda Original Cowok Pensil Denim Skinny Laki Laki Dewasa Big Size",
+  "product_price": "159699.00",
+  "product_rating": "4.60",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/11292.jpg",
+    "/uploads/products/11292_1.jpg",
+    "/uploads/products/11292_2.jpg",
+    "/uploads/products/11292_3.jpg",
+    "/uploads/products/11292_4.jpg",
+    "/uploads/products/11292_5.jpg",
+    "/uploads/products/11292_6.jpg",
+    "/uploads/products/11292_7.jpg",
+    "/uploads/products/11292_8.jpg",
+    "/uploads/products/11292_9.jpg",
+    "/uploads/products/11292_10.jpg"
+  ],
+  "product_link": "https://finding.id/p/11292",
+  "generated_at": "2026-03-13T17:50:03.869Z"
+}

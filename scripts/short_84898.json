@@ -1,0 +1,91 @@
+{
+  "title": "Pianika Pro Speed Murah Banget Bestie!",
+  "hook_text": "Hanya Harga Boba?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up close-up pianika saat di-unboxing.",
+      "narration": "Kamu yakin ini cuma harga seharga boba? --- No cap, alat musiknya serius!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase pianika Pro Speed 32 tuts lengkap dengan tas koper.",
+      "narration": "Ini Pianika Pro Speed 32 tuts, lengkap sama tas koper biar aman kalau jatuh. --- Nggak perlu khawatir rusak."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga Rp 88.000 dengan gestur uang kaget.",
+      "narration": "Harganya mulai dari delapan puluhan ribu doang, which is worth it banget dibanding harga lain."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up tuts doremi embossed dan demonstrasi meniup pianika.",
+      "narration": "Ada tuts doremi embossed buat belajar gampang --- suaranya nyaring, plus free selang sama tas. Literally next level untuk pemula."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Konten anak sekolah sedang belajar musik dengan pianika.",
+      "narration": "Perfect buat orang tua yang cari alat musik sekolah budget terbatas tapi mau kelengkapan lengkap. --- Standar sekolah banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.88 dan angka 30.000 terjual.",
+      "narration": "Rating 4,88, udah laku 30 ribu-an. --- Yang udah beli bilang 'Paket aman banget, nggak cacat sama sekali'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tunjukkan logo finding.id dengan gestur tangan mengarah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#PianikaMurah",
+    "#AlatMusikAnak",
+    "#PianikaProSpeed",
+    "#BelajarMusik",
+    "#IdeHadiahAnak",
+    "#ViralIndonesia",
+    "#JualMurah",
+    "#FindingID"
+  ],
+  "product_id": 84898,
+  "product_title": "Pianika Pro Speed 32 Tuts Dengan Tas Koper Original",
+  "product_price": "88000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/84898.jpg",
+    "/uploads/products/84898_1.jpg",
+    "/uploads/products/84898_2.jpg",
+    "/uploads/products/84898_3.jpg",
+    "/uploads/products/84898_4.jpg",
+    "/uploads/products/84898_5.jpg",
+    "/uploads/products/84898_6.jpg",
+    "/uploads/products/84898_7.jpg",
+    "/uploads/products/84898_8.jpg",
+    "/uploads/products/84898_9.jpg",
+    "/uploads/products/84898_10.jpg",
+    "/uploads/products/84898_11.jpg",
+    "/uploads/products/84898_12.jpg",
+    "/uploads/products/84898_13.jpg",
+    "/uploads/products/84898_14.jpg"
+  ],
+  "product_link": "https://finding.id/p/84898",
+  "generated_at": "2026-03-13T20:41:05.068Z"
+}

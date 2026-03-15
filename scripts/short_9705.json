@@ -1,0 +1,91 @@
+{
+  "title": "Jeans Korea Style Cuma 100 Ribu?!",
+  "hook_text": "Jeans premium cuma seratus ribuan?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan celana jeans sobek abu-abu dengan efek slow motion di atas lantai beton.",
+      "narration": "Nemu celana jeans Korea style cuma seharga seratus ribuan? Gila nggak sih bestie?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close-up detail sobekan pada jeans dan model sedang melompat santai.",
+      "narration": "Ini dia celana denim slimfit yang lagi viral banget. Desain sobeknya kekinian, jatuhnya di badan oke parah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga '130 RIBUAN' muncul besar di layar dengan efek kilat.",
+      "narration": "Harga terendah pernah tembus seratus tiga puluh ribuan. Which is literally worth it banget dibanding kualitas premium."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Model menarik bahan celana untuk menunjukkan elastisitas stretch denim.",
+      "narration": "Bahan stretchnya nyaman banget, gerak bebas no cap. Tersedia ukuran sampai 4XL buat yang gemuk juga aman. Untuk warna abu, emang natural bukan super terang ya --- Hati-hati cek size chart dulu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model mengenakan jeans dengan kaos putih di suasana kafe modern.",
+      "narration": "Perfect buat kamu yang suka street style tapi butuh jeans harian yang awet. Buat acara santai atau reuni keluarga pun tetep kece."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.57 dan jumlah penjualan 50.000 terjual.",
+      "narration": "Sudah lima puluh ribu produk terjual dengan rating 4,57. Yang udah beli bilang \"bahan ok, jatoh di badan ok banget\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di layar dengan tombol panah mengarah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#JeansPria",
+    "#OotdPria",
+    "#FashionKorea",
+    "#CelanaSlimfit",
+    "#StreetStyle",
+    "#RekomendasiProduk",
+    "#FindInd",
+    "#PromoViral"
+  ],
+  "product_id": 9705,
+  "product_title": "Celana jeans pria sobek abu grey slimfit stretch panjang cowok ripped skinny pensil celana denim dewasa robek korea style",
+  "product_price": "179700.00",
+  "product_rating": "4.57",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/9705.jpg",
+    "/uploads/products/9705_1.jpg",
+    "/uploads/products/9705_2.jpg",
+    "/uploads/products/9705_3.jpg",
+    "/uploads/products/9705_4.jpg",
+    "/uploads/products/9705_5.jpg",
+    "/uploads/products/9705_6.jpg",
+    "/uploads/products/9705_7.jpg",
+    "/uploads/products/9705_8.jpg",
+    "/uploads/products/9705_9.jpg",
+    "/uploads/products/9705_10.jpg",
+    "/uploads/products/9705_11.jpg",
+    "/uploads/products/9705_12.jpg",
+    "/uploads/products/9705_13.jpg",
+    "/uploads/products/9705_14.jpg"
+  ],
+  "product_link": "https://finding.id/p/9705",
+  "generated_at": "2026-03-13T17:29:21.140Z"
+}

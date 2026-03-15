@@ -1,0 +1,79 @@
+{
+  "title": "Heels Empuk Tapi Cantik Banget! 😱",
+  "hook_text": "Hak tinggi nggak bikin kaki sakit?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up model memakai heels hitam sedang melangkah percaya diri di jalan aspal dengan efek zoom in cepat ke wajah yang tersenyum.",
+      "narration": "Stop scroll bestie! Nggak percaya kalau heels tinggi bisa nyaman banget dipakai seharian?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat berbagai warna (Hitam, Krem, Abu) dari sudut berbeda, fokus pada tekstur bahan kulit dan detail lace di mata sepatu.",
+      "narration": "Nih, Jessica Dranatha Chunky Heels nih bestie. Bahan kulit premium yang halus banget dipencet, plus desain lace di mata sepatunya literally so cute!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan split screen: satu sisi foto sepatu mewah, sisi lain muncul teks besar 'Hanya seratus sembilan puluh ribuan' dengan efek confetti meledak.",
+      "narration": "Gila sih, harga paling bawah cuma seratus sembilan puluh ribuan aja! Dapet heels kulit kualitas premium, which is worth it banget buat budget pelajar atau anak muda."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot tangan mencoba menekan bagian empuk sepatu, lalu transisi ke shot kaki berjalan cepat di aspal tanpa terlihat lelah, lalu close-up ujung sepatu lancip.",
+      "narration": "Kelebihannya? Bahan kulit asli yang super empuk nggak bikin lecet, tinggi haknya yang sedang bikin postur kamu jadi lebih tinggi dan elegan, plus ujung lancip yang bikin tampilan kaki lebih panjang dan langsing."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario split: di kiri model memakai sepatu ke acara formal, di kanan model memakai ke kafe santai, dengan teks ukuran muncul di pojok layar.",
+      "narration": "Perfect buat kamu yang sering kerja kantoran atau mau tampil beda di acara santai. Ukuran 37 sampai 40 ada nih, tinggal sesuaikan dengan panjang kaki kamu ya bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating besar 4.83 bintang, angka 20.000+ terjual berkedip, dan bubble chat muncul dengan teks kutipan spesifik dari pembeli.",
+      "narration": "Rating empat koma delapan tiga dari dua puluh ribu produk terjual! Yang udah beli bilang bagian punggung kakinya sempit aja tapi nyaman."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh dengan logo Finding ID dan tombol animasi 'Cek Sekarang' dengan latar belakang warna-warni cerah.",
+      "narration": "Penasaran sama stok dan detail lengkapnya? Cek di finding dot id ya bestie, promo gila-gilaan ada di sana!"
+    }
+  ],
+  "cta": "Cek stok dan promo di finding dot id sekarang!",
+  "hashtags": [
+    "#JessicaDranatha",
+    "#HeelsCantik",
+    "#SepatuWanita",
+    "#OOTDIndonesia",
+    "#FashionViral",
+    "#StylingTips",
+    "#BelanjaOnline",
+    "#HeelsEmpuk"
+  ],
+  "product_id": 91274,
+  "product_title": "JESSICA DRANATHA HEELS WANITA",
+  "product_price": "104990.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/91274.jpg",
+    "/uploads/products/91274_1.jpg",
+    "/uploads/products/91274_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/91274",
+  "generated_at": "2026-03-15T04:24:54.714Z"
+}

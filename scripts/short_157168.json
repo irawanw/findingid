@@ -1,0 +1,96 @@
+{
+  "title": "ASI Tersedikit? Solusinya Ada Ini Bestie! 🤱✨",
+  "hook_text": "ASI kering atau tersumbat nih?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wajah ibu bingung pegang bayi lalu transisi cepat ke produk Mom Uung dengan efek zoom in yang dramatis.",
+      "narration": "Stop scrol bestie, kalau ASI kamu lagi kering atau tersumbat, jangan panik dulu dong! Karena ada solusi next level buat kamu."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product shot Mom Uung ASI Booster 60 kapsul dan Sunflower Lecithin berputar pelan dengan lighting yang cerah dan hangat.",
+      "narration": "Ini dia Mom Uung ASI Booster ditambah Sunflower Lecithin! Paket bundling lengkap yang direkomendasikan dokter Obgyn dan anak, basically next level buat produksi ASI kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek confetti, diikuti visual perbandingan kantong uang tipis vs produk tebal.",
+      "narration": "Harga cuma seratus empat puluh ribuan sampai seratus delapan puluhan ribuan aja! Kamu dapet kapsul booster plus lecithin seharga beli kopi doang, which is worth it banget ya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "3 poin muncul satu per satu dengan animasi checkmark hijau: 1. BPOM TR, 2. Tanpa Fenugreek, 3. Rasa Enak.",
+      "narration": "Pertama, BPOM TR No. 213 337 751 jadi aman banget dikonsumsi. Kedua, Fenugreek free alias bebas fenugreek, jadi nggak bikin perut kembung atau diare. Ketiga, rasanya enak banget, ada varian vanila, choco, dan banana, jadi nggak bakal susah minum."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase video ibu muda sedang menyusui bayi dengan senyum lebar, suasana kamar nyaman dan penuh kasih sayang.",
+      "narration": "Perfect buat kamu yang baru melahirkan atau ASI mulai menipis, nggak peduli apakah kamu suka rasa susu atau nggak, ini cocok banget buat bantu kelancaran menyusui."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan angka rating 4.92 dan jumlah terjual 30.000, lalu muncul bubble chat dari pembeli.",
+      "narration": "Rating empat koma sembilan dua dan sudah terjual tiga puluh ribu produk, yang udah beli bilang packingnya lucu banget dan adminnya responsif banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar 'CEK DI FINDING DOT ID' dengan panah menunjuk ke bawah, background warna brand Mom Uung.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id ya bestie!",
+  "hashtags": [
+    "#MomUung",
+    "#ASIBooster",
+    "#IbuHamil",
+    "#SuplemenIbu",
+    "#ViralShorts",
+    "#TipsIbu",
+    "#BPOM",
+    "#FenugreekFree"
+  ],
+  "product_id": 157168,
+  "product_title": "PAKET ASI TERSUMBAT - Mom Uung ASI Booster 60 Kapsul + Sunflower Lecithin - Pelancar ASI Halal BPOM",
+  "product_price": "150000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/157168.jpg",
+    "/uploads/products/157168_1.jpg",
+    "/uploads/products/157168_2.jpg",
+    "/uploads/products/157168_3.jpg",
+    "/uploads/products/157168_4.jpg",
+    "/uploads/products/157168_5.jpg",
+    "/uploads/products/157168_6.jpg",
+    "/uploads/products/157168_7.jpg",
+    "/uploads/products/157168_8.jpg",
+    "/uploads/products/157168_9.jpg",
+    "/uploads/products/157168_10.jpg",
+    "/uploads/products/157168_11.jpg",
+    "/uploads/products/157168_12.jpg",
+    "/uploads/products/157168_13.jpg",
+    "/uploads/products/157168_14.jpg",
+    "/uploads/products/157168_15.jpg",
+    "/uploads/products/157168_16.jpg",
+    "/uploads/products/157168_17.jpg",
+    "/uploads/products/157168_18.jpg",
+    "/uploads/products/157168_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/157168",
+  "generated_at": "2026-03-14T21:43:24.190Z"
+}

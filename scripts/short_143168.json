@@ -1,0 +1,94 @@
+{
+  "title": "Setelan Olahraga Muslimah Syari 3-in-1! Worth It Bestie ✨",
+  "hook_text": "STOP SCROLLING BESTIE!\nGak percaya kalau baju olahraga syari bisa se-nyaman ini, dong!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah model senyum lebar sambil memegang setelan olahraga yang terlihat premium di depan kamera.",
+      "narration": "Stop scrolling bestie! Gak percaya kalau baju olahraga syari bisa se-nyaman ini, dong!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat model memakai setelan lengkap: hoodie, jogger, dan jilbab hoodie saat sedang senam ringan.",
+      "narration": "Perkenalkan, Azkadiena Setelan Jenita. Ini basically next level buat kamu yang mau olahraga indoor maupun outdoor dengan tetap syari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan angka harga, lalu transisi ke close-up bahan yang tipis dan adem.",
+      "narration": "Nah, harga jualnya cuma seratus puluhan ribu rupiah aja! Which is worth it banget buat dapet kualitas bahan premium kayak gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Model melar badan (tunjukkan elastisitas), 2. Model lari kecil (tunjukkan keringat tidak menetes), 3. Detail jahitan rapi.",
+      "narration": "Fiturnya? Bahan jersey zoya grade A yang adem, ringan, dan cepat kering. Sangat nyaman buat gym, lari, atau senam. Desainnya praktis 3-in-1: hoodie, jogger, dan jilbab syari. Plus kualitas jahitan yang rapi dan tahan lama, nggak kaleng-kaleng sama sekali."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model berpose aktif: satu adegan hiking, satu adegan badminton, dan satu adegan stretching di rumah.",
+      "narration": "Perfect buat yang aktivitasnya banyak banget! Kalau kamu sering lari, hiking, atau senam, produk ini harus masuk wishlist kamu. Tersedia juga ukuran jumbo buat kamu yang body type besar, no problem!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.88 dan angka 30.000 terjual, lalu zoom-in ke foto testimoni pembeli.",
+      "narration": "Rating 4.88 bintang, udah laku tiga puluh ribu produk. Pembelinya pada ngomong bahannya adem, ketebalannya pas, ga tipis dan ga terlalu tebal dan ring."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Model menunjuk ke arah kamera dengan gaya fun, teks 'Cek di Finding Dot ID' muncul besar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#BajuOlahragaMuslimah",
+    "#SetelanSportSyari",
+    "#Azkadiena",
+    "#WanitaAktif",
+    "#OlahragaNyaman",
+    "#FashionMuslim",
+    "#WardahStyle",
+    "#GymGirlMuslim"
+  ],
+  "product_id": 143168,
+  "product_title": "Azkadiena Setelan Jenita Set Baju Olahraga Wanita Muslimah Set Sport 3 in 1",
+  "product_price": "109989.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/143168.jpg",
+    "/uploads/products/143168_1.jpg",
+    "/uploads/products/143168_2.jpg",
+    "/uploads/products/143168_3.jpg",
+    "/uploads/products/143168_4.jpg",
+    "/uploads/products/143168_5.jpg",
+    "/uploads/products/143168_6.jpg",
+    "/uploads/products/143168_7.jpg",
+    "/uploads/products/143168_8.jpg",
+    "/uploads/products/143168_9.jpg",
+    "/uploads/products/143168_10.jpg",
+    "/uploads/products/143168_11.jpg",
+    "/uploads/products/143168_12.jpg",
+    "/uploads/products/143168_13.jpg",
+    "/uploads/products/143168_14.jpg",
+    "/uploads/products/143168_15.jpg",
+    "/uploads/products/143168_16.jpg",
+    "/uploads/products/143168_17.jpg"
+  ],
+  "product_link": "https://finding.id/p/143168",
+  "generated_at": "2026-03-14T04:25:17.082Z"
+}

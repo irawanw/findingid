@@ -1,0 +1,83 @@
+{
+  "title": "Elformula Bundle 4in1 Skin Barrier Repair!",
+  "hook_text": "Wajah merah gara-gara salah skincare?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah merah kusam dengan ekspresi kaget, transisi cepat.",
+      "narration": "Wajah merah-merah gara-gara salah skincare? Jangan panik dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan produk Elformula CeraHydro Bundle 4in1 dengan pencahayaan cinematic.",
+      "narration": "Elformula CeraHydro Bundle 4in1 ini penyelamat kulit, literally next level repair buat skin barrier kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Zoom in ke harga produk dan teks overlay 'Sangat Terjangkau'.",
+      "narration": "Bundle lengkap 4 produk cuma mulai seratus delapan puluhan ribu doang, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo tekstur produk di tangan, close up botol serum dan gel.",
+      "narration": "Ini ada 3 paten bahan aktif buat nutupin skin barrier --- BPOM verified, plus teksturnya ringan dan cepat meresap. Ada yang bilang lengket dikit karena emang buat repair, tapi hasilnya no cap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model memegang wajah dengan ekspresi lega, menunjukkan kulit sehat.",
+      "narration": "Pas banget buat kamu yang kulitnya kering, sensitif, atau habis KKN wajah jadi rusak parah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating 4.91 dan jumlah terjual 30.000 di layar.",
+      "narration": "Rating 4.91 dari 30.000 terjual --- Yang udah beli bilang 'beneran benerin skin barrier rusak, pertama kali beli karena wajah rusak sehabis KKN'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan logo finding.id dengan tombol panah mengarah ke bawah.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SkincareIndonesia",
+    "#Elformula",
+    "#BarrierRepair",
+    "#CeraHydro",
+    "#SkincareMurah",
+    "#KulitSensitif",
+    "#RacunTikTok",
+    "#FindingID"
+  ],
+  "product_id": 100553,
+  "product_title": "ELFORMULA Exclusive Barrier Series Cerahydro Bundle 4in1 - CeraHydro Barrier Essence Toner + CeraHydro Barrier Repair Serum Face Essence + CeraHydro Barrier Repair Moisture Gel + CeraHydro Barrier Repair Sunscreen SP",
+  "product_price": "188000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100553.jpg",
+    "/uploads/products/100553_1.jpg",
+    "/uploads/products/100553_2.jpg",
+    "/uploads/products/100553_3.jpg",
+    "/uploads/products/100553_4.jpg",
+    "/uploads/products/100553_5.jpg",
+    "/uploads/products/100553_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100553",
+  "generated_at": "2026-03-13T17:20:34.171Z"
+}

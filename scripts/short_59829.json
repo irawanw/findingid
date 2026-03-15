@@ -1,0 +1,82 @@
+{
+  "title": "Kabel Listrik 50 Meter Cuma 260 Ribu?!",
+  "hook_text": "Gak percaya dapet kabel 50 meter segini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up kabel listrik dengan teks besar muncul di layar",
+      "narration": "Ngak percaya bisa dapet kabel listrik 50 meter cuma segini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan gulungan kabel Hakamitsu secara utuh",
+      "narration": "Ini Kabel NYM 2 x 1,5mm Hakamitsu. --- Full 50 yard, tembaga murni yang bikin instalasi rumah aman no cap."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga besar dengan efek koin atau uang",
+      "narration": "Harganya? Cuma dua ratus enam puluhan ribu aja. --- Which is worth it banget buat dapetin kualitas SNI asli."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Zoom in detail kulit kabel dan logo merk Hakamitsu",
+      "narration": "Pertama, panjangnya full 50 meter ngak dikurangi dikitpun. --- Kedua, kulit kabel ada merk Hakamitsu jelas banget. --- Ketiga, konduktornya tembaga murni, daya hantar listriknya literally next level."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Tunjukkan orang sedang pasang kabel di rumah",
+      "narration": "Pas buat kamu yang lagi renovasi rumah. --- Atau tukang listrik yang butuh barang awet. --- Ngak bakal kecewa."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang dan angka penjualan",
+      "narration": "Rating 4,8 bintang dari 30 ribu produk terjual. --- Serius banget, yang udah beli bilang 'Sepadan dengan Harga dan asli tembaga lo'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan logo finding.id dengan panah mengarah ke layar",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#kabellistrik",
+    "#hakamitsu",
+    "#renovasirumah",
+    "#elektrik",
+    "#produkviral",
+    "#findingid",
+    "#tipsrumah",
+    "#genzindonesia"
+  ],
+  "product_id": 59829,
+  "product_title": "Kabel NYM 2 x 1,5mm 50 Yard FULL / Kabel Listrik Tembaga Murni PVC SNI / Mrek Hakamitsu",
+  "product_price": "269999.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/59829.jpg",
+    "/uploads/products/59829_1.jpg",
+    "/uploads/products/59829_2.jpg",
+    "/uploads/products/59829_3.jpg",
+    "/uploads/products/59829_4.jpg",
+    "/uploads/products/59829_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/59829",
+  "generated_at": "2026-03-13T16:44:49.248Z"
+}

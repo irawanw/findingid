@@ -1,0 +1,81 @@
+{
+  "title": "Baju Koko Premium Bahan Katun Toyobo! Worth It?",
+  "hook_text": "Baju koko worth it banget nih!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tekstur kain katun yang halus dan mengkilap di bawah sinar matahari, lalu transisi cepat ke model pria memakai baju koko warna marun sedang tersenyum ke kamera.",
+      "narration": "Baju koko worth it banget nih, bestie! Kainnya halus, lembut, dan nggak bikin panas pas dipakai siang hari."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide angle model memakai baju koko berwarna cokelat muda sambil jalan santai di kafe, lalu zoom in ke detail jahitan yang rapi.",
+      "narration": "Ini tuh Koko Premium kualitas super dengan bahan katun Toyobo Thomson original. Basically next level keluwesan dan kenyamanannya, which is worth it banget buat gaya kasual sehari-hari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan layar menampilkan harga Rp 128.050 yang kemudian berubah jadi Rp 88.650 dengan efek flash, sambil muncul teks 'Terjual 20.000+ Pcs'.",
+      "narration": "Gila sih, harga awalnya seratus dua puluhan ribu, tapi sekarang cuma delapan puluhan ribu doang! Nggak percaya? Lihat deh angka terjual dua puluh ribu produk yang udah dibeli banyak orang."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: model membalikkan baju untuk tunjukkan bahan belakang yang adem, model duduk santai di mobil, dan model berfoto selfie dengan hasil foto yang jelas tanpa kusut.",
+      "narration": "Pertama, bahannya Katun Toyobo asli yang adem dan nggak bikin berkeringat. Kedua, modelnya modis dan trendy, cocok buat semua kalangan usia, nggak peduli kamu anak muda atau senior. Ketiga, super nyaman buat aktivitas ke mana saja, dari ke kantor sampe nongkrong bareng temen."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: di kiri cowok muda pakai warna navy, di kanan cowok lebih tua pakai warna hitam, keduanya terlihat sangat percaya diri.",
+      "narration": "Perfect buat yang nggak mau ribet cari baju tapi tetap pengen tampil rapi. Kalau kamu sering merasa baju koko yang kamu punya kaku atau nggak adem, definitely cobain ini!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Muncul rating 4.84 bintang besar dengan background warna emas, lalu muncul kutipan ulasan positif dalam bentuk bubble chat.",
+      "narration": "Rating empat koma delapan empat dari dua puluh ribu pembeli, dan yang udah beli bilang kainnya halus, lembut, sangat bagus dan sangat puas!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Model menunjuk ke arah bawah layar dengan senyum lebar, muncul teks besar 'Cek di finding dot id'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#BajuKokoPria",
+    "#FashionMuslim",
+    "#KatunToyobo",
+    "#BestSeller",
+    "#OOTDIndonesia",
+    "#TampilanRapi",
+    "#KokoPremium",
+    "#FindingId"
+  ],
+  "product_id": 13229,
+  "product_title": "Baju Muslim Pria / QURTA PAKISTAN / Koko Premium",
+  "product_price": "88650.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/13229.jpg",
+    "/uploads/products/13229_1.jpg",
+    "/uploads/products/13229_2.jpg",
+    "/uploads/products/13229_3.jpg",
+    "/uploads/products/13229_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/13229",
+  "generated_at": "2026-03-15T03:26:53.331Z"
+}

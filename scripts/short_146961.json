@@ -1,0 +1,83 @@
+{
+  "title": "T-Shirt Pria Lengan Panjang Anti Gerah Bestie!",
+  "hook_text": "Baju Lebaran yang nggak bikin gerah!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan menggeser kaos tipis lalu berubah menjadi model memakai kaos ini dengan gaya keren",
+      "narration": "Ada yang bilang bahannya tipis banget sampe nyeplak keliatan bulatan dada? Tenang bestie, itu bukan gaya kita!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model berputar memamerkan detail kerah Henley dan lengan panjang dengan cahaya natural",
+      "narration": "Kalian wajib coba Isla for Men Smith Waffle Henley Neck ini, literally so cute dan super soft pas dipake."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek *pop* bersama visual tas belanja",
+      "narration": "Dapet kualitas next level harganya cuma seratus empat puluh lima ribuan, which is worth it banget dong!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot split screen: kain ditekuk (soft), model berkeringat (anti gerah), dan detail jahitan rapi",
+      "narration": "Pertama, bahannya waffle jadi adem nggak gerah. Kedua, potongan pas di badan nggak ketat. Ketiga, desain Henley bikin tampil lebih stylish tanpa ribet."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: acara lebaran, nongkrong sore, dan meeting santai",
+      "narration": "Perfect buat yang lagi cari outfit Lebaran atau buat ngopi santai, basically cocok buat semua aktivitas kamu nih."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.82 bintang besar dan angka 30.000 terjual yang berkedip",
+      "narration": "Pembelinya pada ngomong bahan nyaman dan ukuran pas, ratingnya telor empat koma delapan dua dari tiga puluh ribu produk terjual!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke tombol beli",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya!",
+  "hashtags": [
+    "#fashionpria",
+    "#outfitlebaran",
+    "#islaforsmith",
+    "#bajupria",
+    "#stylelebaran",
+    "#busanaislaforsmith",
+    "#ootdindonesia",
+    "#findingid"
+  ],
+  "product_id": 146961,
+  "product_title": "Isla for Men Smith Waffle Henley Neck T-Shirt Long Sleeve - Atasan Pria Lengan Panjang - Baju Pria - Baju Laki-laki - Baju Lebaran - Outfit Lebaran",
+  "product_price": "145404.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/146961.jpg",
+    "/uploads/products/146961_1.jpg",
+    "/uploads/products/146961_2.jpg",
+    "/uploads/products/146961_3.jpg",
+    "/uploads/products/146961_4.jpg",
+    "/uploads/products/146961_5.jpg",
+    "/uploads/products/146961_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/146961",
+  "generated_at": "2026-03-14T08:29:14.181Z"
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Meja Setrika Kayu Jati Murah Banget! 🪵🔥",
+  "hook_text": "Stop Scroll! Meja Setrika Ini Gila!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat produk meja setrika kayu jati dengan efek zoom in dramatis ke tekstur kayunya",
+      "narration": "Guys, siap-siap stop scroll sekarang! Meja setrika yang bakal bikin hidupmu lebih simpel nih."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage produk di berbagai warna (Natural dan Black) diletakkan di kamar yang rapi",
+      "narration": "Kenalan yuk sama Meja Setrika Kayu Jati Belanda kokoh ukuran 90 kali 33 kali 25 sentimeter. Bahan kayunya asli jati, plus papan partikel board yang tebal banget. Desainnya elegan dan super rapih, literally worth it banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan stiker harga besar di layar sambil tunjukkan produk yang sedang dipakai setrika",
+      "narration": "Gila sih guys, harga cuma seratus dua puluhan ribu sampai dua ratus enam puluhan ribu aja! Kualitas ekspor tapi harga lokal banget, basically next level hemat."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan proses lipat, kanan tunjukkan kaki meja yang kokoh saat didorong",
+      "narration": "Fiturnya nggak main-main. Pertama, bisa dilipat jadi super hemat ruang penyimpanan, perfect buat kamar kecil. Kedua, rangka kayunya jati asli bikin stabil nggak goyah. Ketiga, alasnya tebal banget kokoh. Dan yang paling penting, ini produk handmade lokal Indonesia dengan kualitas ekspor!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario keluarga muda merapikan baju di ruang tamu atau kamar tidur yang sempit",
+      "narration": "Perfect buat kamu yang punya rumah kecil atau kamar sempit. Kalau aktivitasmu sering setrika di ruang tamu atau kamar tidur, ini solusi banget. Desainnya nggak bikin ruangan jadi padat, malah makin estetik."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.93 dan angka 20.000 terjual muncul dengan efek pop",
+      "narration": "Rating 4.93 dari dua puluh ribu produk terjual. Pembelinya pada ngomong kalau ketiak jadi kering dan barangnya oke punya meskipun berat banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul dengan tombol panah mengarah ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#FurnitureIndonesia",
+    "#MejaSetrika",
+    "#KayuJati",
+    "#HomeDecor",
+    "#BudgetFriendly",
+    "#LivingRoom",
+    "#WajibAda",
+    "#FindingId"
+  ],
+  "product_id": 71728,
+  "product_title": "Meja Setrika Kayu Jati Belanda Kokoh 90x33x25 Cm",
+  "product_price": "124000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/71728.jpg",
+    "/uploads/products/71728_1.jpg",
+    "/uploads/products/71728_2.jpg",
+    "/uploads/products/71728_3.jpg",
+    "/uploads/products/71728_4.jpg",
+    "/uploads/products/71728_5.jpg",
+    "/uploads/products/71728_6.jpg",
+    "/uploads/products/71728_7.jpg",
+    "/uploads/products/71728_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/71728",
+  "generated_at": "2026-03-14T04:33:54.290Z"
+}

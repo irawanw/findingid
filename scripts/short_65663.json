@@ -1,0 +1,84 @@
+{
+  "title": "Glass Skin Murah, ELFORMULA Bundle 2in1 Worth It Banget!",
+  "hook_text": "Mau glass skin tapi budget pas-pasan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kusam yang tiba-tiba bersinar, teks muncul besar di tengah layar",
+      "narration": "Mau glass skin tapi budget pas-pasan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase produk ELFORMULA Bundle 2in1 dengan pencahayaan cinematic yang dramatis",
+      "narration": "Ini dia ELFORMULA Bundle 2in1, literally so worth it banget buat kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan animasi kaget, background produk blur",
+      "narration": "Harganya cuma seratus enam puluhan ribu, which is literally murah banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi tekstur serum dan gel di tangan, lalu aplikasikan ke wajah",
+      "narration": "Ini punya kombinasi peeling serum buat eksfoliasi sel kulit mati --- plus moisture gel buat barrier repair --- Teksturnya calming, adem banget, udah BPOM plus dermatologi tested --- Basically next level buat perawatan harian kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model wanita dengan kulit glowing sedang tersenyum, menunjuk ke arah kamera",
+      "narration": "Perfect buat kamu yang kulitnya normal sampai kering, butuh mencerahkan wajah tapi takut iritasi atau jerawatan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.91 dan angka penjualan 200.000 di layar",
+      "narration": "Sudah laku dua ratus ribuan unit, rating 4,91 --- Yang udah beli bilang, 'mois nya becek banget, lembab poll, lovv'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah menunjuk ke arah link, background polos",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana."
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana.",
+  "hashtags": [
+    "#ELFORMULA",
+    "#GlassSkin",
+    "#SkincareMurah",
+    "#KulitCerah",
+    "#PelembabWajah",
+    "#SerumWajah",
+    "#ViralIndonesia",
+    "#FindingID"
+  ],
+  "product_id": 65663,
+  "product_title": "ELFORMULA Bundle 2in1 - Intensive Peeling Solution + CeraHydro Barrier Repair Moisture Gel - Peeling Serum Dark Spot Glass Skin Eksfoliasi Wajah Mengangkat Sel Kulit Mati Moisturizer Calming Pelembab Wajah Pagi Malam Kulit Cerah Skin Barrie",
+  "product_price": "183900.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/65663.jpg",
+    "/uploads/products/65663_1.jpg",
+    "/uploads/products/65663_2.jpg",
+    "/uploads/products/65663_3.jpg",
+    "/uploads/products/65663_4.jpg",
+    "/uploads/products/65663_5.jpg",
+    "/uploads/products/65663_6.jpg",
+    "/uploads/products/65663_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/65663",
+  "generated_at": "2026-03-13T17:23:55.935Z"
+}

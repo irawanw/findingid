@@ -1,0 +1,83 @@
+{
+  "title": "Legging Hijab 2in1 Solusi Workout Anti Pusing",
+  "hook_text": "Hijab tapi takut kepanasan saat workout?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah host terlihat bingung memegang hijab saat olahraga, lalu transisi cepat ke produk.",
+      "narration": "Hijab tapi takut kepanasan saat workout? --- Stop scroll dulu bestie, ada solusi nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk FitYou Aura Legging di manekin atau model sedang memakai dengan cahaya cinematik.",
+      "narration": "Kenalin nih FitYou Aura Legging, solusi 2in1 yang bikin kamu makin percaya diri banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh, host menunjuk ke arah teks.",
+      "narration": "Wah, harganya nggak bikin kantong bolong, cuma seratus enam puluhan ribu an doang aja kok!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat fitur: kantong HP ditaruh, bahan ditarik elastis, dan detail high waist.",
+      "narration": "Ini literally next level, ada hidden pocket buat HP aman di dalam, bahan spandex yang nggak panas, plus high waist yang shaping pinggang kamu, which is worth it banget, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang melakukan gerakan yoga dan lari santai dengan gaya percaya diri.",
+      "narration": "Beneran cocok banget buat kamu yang aktif yoga, lari, atau gym tapi tetap mau coverage aman dan nggak takut terbuka saat gerak!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.93 dan teks jumlah terjual 20.000 di layar.",
+      "narration": "Sudah terjual 20 ribu produk! Yang udah beli bilang, 'Bahannya nyaman banget dan kantongnya mantap banget buat simpen barang kecil, literally no cap!'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host tersenyum ke kamera sambil menunjuk ke arah tombol atau teks 'finding dot id'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana, literally worth it!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#FitYouAura",
+    "#LeggingHijab",
+    "#OlahragaWanita",
+    "#GymOOTD",
+    "#FindYourFit",
+    "#HijabSporty",
+    "#WorkoutGear",
+    "#FindingID"
+  ],
+  "product_id": 7700,
+  "product_title": "FitYou Aura Legging Hijab Friendly / Bawahan olahraga 2in1 Legging + Inner Celana Lari Fitness Gym Sepedaan",
+  "product_price": "166469.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/7700.jpg",
+    "/uploads/products/7700_1.jpg",
+    "/uploads/products/7700_2.jpg",
+    "/uploads/products/7700_3.jpg",
+    "/uploads/products/7700_4.jpg",
+    "/uploads/products/7700_5.jpg",
+    "/uploads/products/7700_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/7700",
+  "generated_at": "2026-03-13T17:37:57.467Z"
+}

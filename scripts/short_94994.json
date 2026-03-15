@@ -1,0 +1,90 @@
+{
+  "title": "Handuk Jumbo Murah 50 Ribu? No Cap!",
+  "hook_text": "Handuk Jumbo Cuma 50 Ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot handuk digoyangkan dengan efek snap zoom, teks besar muncul di tengah",
+      "narration": "Handuk mandi jumbo cuma lima puluh ribuan? No cap, ini beneran ada, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase produk di atas meja bersih, tangan membuka lipatan handuk perlahan",
+      "narration": "Kenalin nih, Elora Microfiber Handuk, ukuran jumbo 85 kali 170 sentimeter, bikin badan kering cepet banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga besar di layar dengan efek sticker 'Worth It', background blur toko",
+      "narration": "Harga cuma lima puluh sembilan ribuan doang, which is worth it banget buat yang budget tipis tapi mau kualitas bagus."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi air dituang ke handuk dan kering cepat, close-up tekstur microfiber",
+      "narration": "Bahannya super lembut, nggak nggesek kulit sensitif. Daya serap airnya next level, kering cepet banget. --- Tapi inget ya, teksturnya emang tipis dikit, jadi nggak terlalu tebal kayak handuk hotel mewah, tapi tetap awet kok buat harian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot suasana kamar mandi ramai atau rak kost dengan banyak handuk",
+      "narration": "Cocok banget buat kamu yang punya banyak anggota keluarga, atau lagi nyari stok buat dijual lagi ke teman kost."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.85 dan jumlah penjualan 60rb dengan animasi naik",
+      "narration": "Sudah terjual 60 ribu lebih, rating 4,85. Yang sudah beli bilang \"lembut banget gampang nyerap air, warnanya juga soft banget.\""
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah menunjuk ke arah tombol link atau teks finding dot id besar",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#HandukJumbo",
+    "#EloraHanduk",
+    "#PromoMurah",
+    "#LivingHacks",
+    "#GenZIndonesia",
+    "#ProdukViral",
+    "#Microfiber",
+    "#FindingID"
+  ],
+  "product_id": 94994,
+  "product_title": "Handuk Mandi 85X170 Dewasa Unisex Jumbo Kamar Mandi Bestseller Microfiber Lembut Embos Zigzag Elora",
+  "product_price": "56019.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/94994.jpg",
+    "/uploads/products/94994_1.jpg",
+    "/uploads/products/94994_2.jpg",
+    "/uploads/products/94994_3.jpg",
+    "/uploads/products/94994_4.jpg",
+    "/uploads/products/94994_5.jpg",
+    "/uploads/products/94994_6.jpg",
+    "/uploads/products/94994_7.jpg",
+    "/uploads/products/94994_8.jpg",
+    "/uploads/products/94994_9.jpg",
+    "/uploads/products/94994_10.jpg",
+    "/uploads/products/94994_11.jpg",
+    "/uploads/products/94994_12.jpg",
+    "/uploads/products/94994_13.jpg"
+  ],
+  "product_link": "https://finding.id/p/94994",
+  "generated_at": "2026-03-13T22:29:19.111Z"
+}

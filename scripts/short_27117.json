@@ -1,0 +1,83 @@
+{
+  "title": "Tas Travel Roda Anti Air? Cek Aja!",
+  "hook_text": "Gak percaya tas ini worth it?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up cepat tangan menggesek permukaan tas PX 508 dengan air semprot, tetesan air langsung meluncur turun.",
+      "narration": "Stop scroll bestie! Gak percaya tas travel ini tahan air beneran?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide tas PX 508 diputar-putar sambil roda berputar halus di lantai, lalu zoom in ke detail bahan tebal.",
+      "narration": "Ini PX 508, duffel bag travel rodanya literally next level! Bahannya gak tipis kayak tas murah lainnya, tebal banget dan waterproof."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri teks harga tinggi, kanan harga final dengan efek stiker 'GILA', transisi cepat ke tas dipegang santai.",
+      "narration": "Bayar ratusan ribu buat tas gini? No cap, harganya cuma seratus-an ribu aja! Worth it banget buat kualitas sekelas ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Sleting digeser halus, 2. Roda berputar mulus di aspal, 3. Bag dibuka lebar isinya rapi.",
+      "narration": "Pertama, sletingnya ringan dan halus, gak berisik. Kedua, rodanya mulus banget buat taro di trotoar. Ketiga, bahannya rapih dan gak gampang sobek, basically built to last!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene split: satu orang packing baju buat mudik, satu lagi packing gym gear, lalu keduanya pakai tas ini.",
+      "narration": "Perfect buat yang sering mudik pulang kampung atau yang suka lari marathon. Kalau aktivitas kamu butuh tas kuat dan estetik, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up grafik rating 4.83 bintang emas, angka 20.000 terjual, dan bubble chat muncul.",
+      "narration": "Gila, rating empat koma delapan tiga dengan dua puluh ribu terjual! Yang udah beli bilang tasnya standar kualitas bagus."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul besar dengan panah menunjuk ke bawah, background musik klimaks.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id sekarang!",
+  "hashtags": [
+    "#TasTravel",
+    "#MudikCeria",
+    "#ShopeeFinds",
+    "#TasFitness",
+    "#WaterproofBag",
+    "#GenZStyle",
+    "#ViralProduct",
+    "#FindingID"
+  ],
+  "product_id": 27117,
+  "product_title": "PX 508 Bag Travel Tebal Waterproof - Tas Fitness - Tas Mudik, Pakaian - Duffel Bag - Tas Travel Roda",
+  "product_price": "59621.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/27117.jpg",
+    "/uploads/products/27117_1.jpg",
+    "/uploads/products/27117_2.jpg",
+    "/uploads/products/27117_3.jpg",
+    "/uploads/products/27117_4.jpg",
+    "/uploads/products/27117_5.jpg",
+    "/uploads/products/27117_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/27117",
+  "generated_at": "2026-03-15T04:48:12.274Z"
+}

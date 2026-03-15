@@ -1,0 +1,83 @@
+{
+  "title": "3in1 Hair Dryer Sisir? Must Have!",
+  "hook_text": "Rambut kusut? Solusinya di sini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah panik sambil pegang rambut kusut lalu transisi cepat ke produk yang digenggam dengan gaya cool.",
+      "narration": "Stop scroll bestie! Tau gak kalau rambut panjang kamu beneran butuh penyelamat?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot slow motion produk Goto Hairco berputar di tangan sambil menunjuk fitur sisir dan kepala pengering.",
+      "narration": "Ini dia Goto Hairco 3in1, alat satu ini literally jadi game changer banget buat kamu yang tiap hari ngelakuin styling."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar dengan efek confetti, diikuti shot produk diiringi gerakan tangan mengecilkan jari seolah harga murah.",
+      "narration": "Gak nyangka dong harganya cuma seratus delapan puluhan ribu aja, padahal dapet tiga fungsi dalam satu unit, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menunjukkan fungsi pengering rambut, tengah fungsi sisir, kanan fungsi styling dengan efek transisi cepat.",
+      "narration": "Pertama, bisa jadi hair dryer keringin rambut cepet. Kedua, ada sisir elektrik buat urai ikatan tanpa ribet. Ketiga, bisa buat styling langsung, basically next level buat kamu yang sibuk."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat: wanita sedang berantre, wanita di kantor, dan wanita di salon, semua menggunakan produk ini dengan senyum puas.",
+      "narration": "Perfect buat kamu yang sering sibuk, nggak punya waktu buat salon, atau yang rambutnya gampang kusut kalau kena angin keras-keras."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.7 bintang dan angka 30.000 terjual, lalu teks kutipan muncul dengan animasi pop-up.",
+      "narration": "Sebenernya udah ada tiga puluh ribu orang yang udah beli bilang jujur gak nyangka sebagus ini anginnya gak bikin rambut kusut, no cap!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul di layar dengan animasi klik, background produk berkedip pelan.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#HairCare",
+    "#GotoHairco",
+    "#BeautyHacks",
+    "#RambutKusut",
+    "#ViralShorts",
+    "#GenZStyle",
+    "#MustHave",
+    "#FindingId"
+  ],
+  "product_id": 151185,
+  "product_title": "Goto Hairco Hair Dryer Sisir Blow Hairdryer Pengering Rambut 3in1",
+  "product_price": "172900.00",
+  "product_rating": "4.70",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/151185.jpg",
+    "/uploads/products/151185_1.jpg",
+    "/uploads/products/151185_2.jpg",
+    "/uploads/products/151185_3.jpg",
+    "/uploads/products/151185_4.jpg",
+    "/uploads/products/151185_5.jpg",
+    "/uploads/products/151185_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/151185",
+  "generated_at": "2026-03-14T14:03:06.436Z"
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Foundation Harga Seratus Lima Puluh Ribuan Worth It Banget",
+  "hook_text": "Wajah flawless cuma modal seratus lima puluh ribuan?",
+  "estimated_duration": 75,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing dengan pencahayaan cinematic",
+      "narration": "Wajah flawless cuma modal seratus lima puluh ribuan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Maybelline Fit Me dipegang dekat kamera",
+      "narration": "Ini dia Maybelline Fit Me Matte Plus Poreless. Teksturnya ringan banget, cover full tapi natural."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar dengan efek JENG JENG",
+      "narration": "Harga aslinya mulai dari seratus empat puluh sembilan ribu tiga ratus rupiah, which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 20,
+      "visual": "Aplikasi foundation pada kulit dengan spatula",
+      "narration": "Tahan sampai enam belas jam, oil controlnya next level. Non comedogenic juga, jadi aman buat kulit sensitif. Full coverage tanpa bikin muka berat, which is basically bestie banget. Finish matte-nya bikin kulit terlihat poreless banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 45,
+      "duration_s": 15,
+      "visual": "Rating bintang emas dan teks review muncul",
+      "narration": "Rating empat koma sembilan satu dari lima, terjual lima ratus ribu produk. Reviewer bilang, Aku sudah dua kali pakai ini selalu suka sama warna dan teksturnya. Ada yang bilang warna gelap, jadi pastikan pilih shade yang pas ya."
+    },
+    {
+      "id": "colors",
+      "start_s": 60,
+      "duration_s": 10,
+      "visual": "Swatch warna foundation di tangan",
+      "narration": "Ada varian tiga ratus dua belas, tiga ratus tiga puluh delapan, tiga ratus tiga puluh enam, tiga ratus tiga puluh, tiga ratus tiga puluh lima, dan dua ratus dua puluh. Mana yang cocok sama warna kulitmu?"
+    },
+    {
+      "id": "cta",
+      "start_s": 70,
+      "duration_s": 5,
+      "visual": "Tangan menunjuk ke arah link di bawah",
+      "narration": "Cek keranjang kuning sekarang, sebelum kehabisan stok!"
+    }
+  ],
+  "cta": "Cek keranjang kuning sekarang, sebelum kehabisan stok!",
+  "hashtags": [
+    "#Maybelline",
+    "#FitMe",
+    "#Foundation",
+    "#MakeupTips",
+    "#BeautyIndonesia",
+    "#Skincare",
+    "#GenZIndonesia",
+    "#WajahFlawless"
+  ],
+  "product_id": 102197,
+  "product_title": "MAYBELLINE OFFICIAL Fit Me Matte + Poreless Liquid Foundation Make Up 30ml SPF 22 Makeup Ringan High Cover 16 Jam Oil Control Cushion Foundation Bedak Padat Cushion Foundation Bedak Padat Concealer BB Cream Foundation Waterproof Skin Tint Fondation",
+  "product_price": "149300.00",
+  "product_images": [
+    "/uploads/products/102197.jpg",
+    "/uploads/products/102197_1.jpg",
+    "/uploads/products/102197_2.jpg",
+    "/uploads/products/102197_3.jpg",
+    "/uploads/products/102197_4.jpg",
+    "/uploads/products/102197_5.jpg",
+    "/uploads/products/102197_6.jpg",
+    "/uploads/products/102197_7.jpg",
+    "/uploads/products/102197_8.jpg",
+    "/uploads/products/102197_9.jpg",
+    "/uploads/products/102197_10.jpg",
+    "/uploads/products/102197_11.jpg",
+    "/uploads/products/102197_12.jpg",
+    "/uploads/products/102197_13.jpg",
+    "/uploads/products/102197_14.jpg",
+    "/uploads/products/102197_15.jpg",
+    "/uploads/products/102197_16.jpg",
+    "/uploads/products/102197_17.jpg",
+    "/uploads/products/102197_18.jpg",
+    "/uploads/products/102197_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/102197",
+  "generated_at": "2026-03-11T21:01:09.736Z"
+}

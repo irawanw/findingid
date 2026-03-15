@@ -1,0 +1,80 @@
+{
+  "title": "Set 5in1 Hanasui Murah Banget! Worth It Bestie",
+  "hook_text": "5 Makeup dalam 1? Stop scroll dulu!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah model dengan makeup flawless sambil tunjukkan paket 5in1 Hanasui di depan kamera dengan efek zoom in cepat",
+      "narration": "Emang boleh beli satu buat dapet lima produk sekaligus? Tenang bestie, ini bukan klaim kosong!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: olesan cushion, blush on di pipi, tint di bibir, alis di dahi, dan tabur powder",
+      "narration": "Hanasui Korean Make Up Look ini literally next level. Satu paket dapet cushion soulmatte, blush on peach, tint coral, eyebrow brown, dan setting powder natural. Basically semua kebutuhan makeup harian ada di sini."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar: 'Seratus Enam Puluh-an Ribu Rupiah' dengan efek confetti, lalu tunjukkan komparasi harga belanjaan lain",
+      "narration": "Bayangin kalau beli terpisah bisa habis satu jutaan, tapi di sini cuma seratus enam puluhan ribu rupiah. Which is worth it banget buat kualitas yang kamu dapat, guys!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1) Wajah berminyak jadi matte, 2) Lipstik tidak noda baju, 3) Packing box yang aman dan estetik",
+      "narration": "Pertama, coverage-nya nggak ngecewain buat kulit berminyak, langsung matte finish. Kedua, lipstiknya no transfer jadi nggak noda baju favorit kamu. Terakhir, packingnya amaaan aman banget, pas nyampe langsung unboxing dan langsung lang!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene seorang gadis sibuk kerja atau sekolah yang tetap terlihat fresh meski makeup, lalu tersenyum ke kamera",
+      "narration": "Perfect buat kamu yang sering banget ngebut di pagi hari atau yang aktivitasnya padat tapi pengen tetap glowing seharian tanpa ribet nyari produk terpisah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan angka rating 4.84 dan 20.000 terjual, lalu popup teks kutipan dari pembeli",
+      "narration": "Rating empat koma delapan empat dan sudah dua puluh ribu terjual. Yang udah beli bilang 'lipstick nyaa kece no transfer' dan efeknya matte glowing."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul besar di tengah layar dengan panah menunjuk ke bawah, model mengacungkan jempol",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#Hanasui",
+    "#MakeupSet",
+    "#KoreanMakeup",
+    "#SkincareRoutine",
+    "#BeautyHacks",
+    "#ViralShorts",
+    "#GenZIndonesia",
+    "#WorthIt"
+  ],
+  "product_id": 99620,
+  "product_title": "【5 IN 1】Hanasui Korean Make Up Look - 5Pcs Makeup Set Cushion Blush On Liptint Eyebrow Natural Finish Setting Powder Coverage Hingga 24 Jam",
+  "product_price": "189772.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/99620.jpg",
+    "/uploads/products/99620_1.jpg",
+    "/uploads/products/99620_2.jpg",
+    "/uploads/products/99620_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/99620",
+  "generated_at": "2026-03-15T01:54:56.292Z"
+}

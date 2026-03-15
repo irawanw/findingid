@@ -1,0 +1,96 @@
+{
+  "title": "Kain Batik Murah Banget! Worth It?",
+  "hook_text": "Lagi cari kain batik murah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Teks besar muncul di layar sambil tunjuk kain batik warna-warni yang digulung",
+      "narration": "Lagi cari kain batik murah tapi nggak murahan? Tenang bestie, aku nemu temuan keren nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close up kain batik yang dibalik-balik tunjuk ketebalan dan tekstur katunnya",
+      "narration": "Ini Kain Batik Modern jarik Jawa asli 100% katun. Teksturnya lembut banget, nggak kaku sama sekali, which is basically next level!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Muncul harga Rp 55.000 dengan efek tanda seru dan emoji uang",
+      "narration": "Harganya cuma lima puluh lima ribuan aja. Nggak perlu mikir panjang dong, ini literally worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: kain dipakai selimut, disamping, lalu digendong bayi dengan gaya santai",
+      "narration": "Samping panjangnya tebal dan lembut, nggak luntur meski dicuci berkali-kali. Cocok buat selimut adem, samping kebat, bahkan gendong bayi pun nyaman, nggak perlu lagi nyari tempat tidur bayi mahal!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Pemandangan rumah tangga: ibu hamil, ibu baru melahirkan, dan orang yang suka dekorasi rumah",
+      "narration": "Perfect buat kamu yang sering belanja grosir buat dekorasi rumah, atau bestie yang baru melahirkan butuh kain buat gendong bayi yang aman dan nyaman."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.8 dan angka 20.000+ terjual dengan background hijau",
+      "narration": "Rating empat koma delapan enam dan dua puluh ribu produk terjual. Yang udah beli bilang kainnya tebal dan nyaman banget dipakai sehari-hari!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#kainbatikmurah",
+    "#jarikjawa",
+    "#batikmoderne",
+    "#selimutbatik",
+    "#idehadiah",
+    "#batikasli",
+    "#shoppinghacks",
+    "#findingid"
+  ],
+  "product_id": 85170,
+  "product_title": "Kain batik MODERN 45 - jarik jawa asli - kain batik panjang - samping panjang tebal lembut - jarik ibu melahirkan -sprei- samping kebat panjang - kain batu panjang tebal - TIDAK LUNTUR-Jarik Batik untuk Hadiah - selimut - gendong bayi - GROSIR DAN ECERAN",
+  "product_price": "55000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/85170.jpg",
+    "/uploads/products/85170_1.jpg",
+    "/uploads/products/85170_2.jpg",
+    "/uploads/products/85170_3.jpg",
+    "/uploads/products/85170_4.jpg",
+    "/uploads/products/85170_5.jpg",
+    "/uploads/products/85170_6.jpg",
+    "/uploads/products/85170_7.jpg",
+    "/uploads/products/85170_8.jpg",
+    "/uploads/products/85170_9.jpg",
+    "/uploads/products/85170_10.jpg",
+    "/uploads/products/85170_11.jpg",
+    "/uploads/products/85170_12.jpg",
+    "/uploads/products/85170_13.jpg",
+    "/uploads/products/85170_14.jpg",
+    "/uploads/products/85170_15.jpg",
+    "/uploads/products/85170_16.jpg",
+    "/uploads/products/85170_17.jpg",
+    "/uploads/products/85170_18.jpg",
+    "/uploads/products/85170_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/85170",
+  "generated_at": "2026-03-14T13:06:46.709Z"
+}

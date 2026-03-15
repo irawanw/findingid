@@ -1,0 +1,83 @@
+{
+  "title": "Speaker 100-an Ribu?! Bassnya Gila Banget!",
+  "hook_text": "Bass mantap cuma 100-an?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up speaker OLIKE SF11 sedang mengeluarkan getaran bass kuat dengan background LED light berkedip.",
+      "narration": "Emang boleh beli speaker bass mantap cuma seratus delapan puluhan ribu, dong?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk diputar 360 derajat menampilkan desain kotak modern dan logo OLIKE di bawah sorotan lampu.",
+      "narration": "Nih, ini OLIKE Speaker Bluetooth SF11. Desainnya super keren, basically next level untuk harga seratus delapan puluhan ribu, which is worth it banget buat kamu yang lagi cari gadget murah tapi nggak mau kompromi soal kualitas."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 105.001 muncul besar di layar dengan efek confetti, lalu transisi cepat ke tumpukan speaker warna hitam.",
+      "narration": "Gila sih, harga terendahnya cuma seratus lima ribu lima ratus rupiah, lho! Padahal buat speaker dengan fitur segitu, biasanya minimal dua ratus ribu. No cap, deal-nya sudah sangat masuk akal."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Visual split screen: pertama sinyal biru stabil (Bluetooth 6.0), kedua air menyemprot ke speaker (IPX4), ketiga kartu TF dimasukkan ke slot samping.",
+      "narration": "Kenapa ini juaranya? Pertama, pakai Bluetooth 6.0 jadi koneksi super stabil sampai sepuluh meter, nggak ada putus-putus saat kamu gerak-gerak. Kedua, punya fitur IPX4 water resistant, jadi kalau lagi outdoor atau kena cipratan air nggak apa-apa. Terakhir, ada slot TF card biar kamu bisa ngeplay lagu dari memori card tanpa perlu connect Bluetooth, sangat praktis untuk kebutuhan sehari-hari."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene orang jogging sore hari dan anak kost belajar sambil mendengarkan musik dengan ekspresi senang.",
+      "narration": "Perfect buat yang sering jogging sore-sore atau anak kost yang butuh musik pengiring belajar biar nggak bosan. Kalau aktivitas kamu butuh teman setia yang tahan banting dan sound quality joss, speaker ini harus punya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.84 bintang, angka 20.000 terjual, dan teks kutipan: 'Kualitas Suara:Shara Bass Mantap'.",
+      "narration": "Pembelinya pada ngomong 'Kualitas Suara:Shara Bass Mantap' dengan rating 4.84 empat koma delapan empat dari dua puluh ribu produk terjual."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan animasi tombol panah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#OLIKESpeaker",
+    "#SpeakerMurah",
+    "#BassMantap",
+    "#GadgetAnakKost",
+    "#ShopeeFinds",
+    "#MusicLover",
+    "#BudgetGadget",
+    "#SF11Speaker"
+  ],
+  "product_id": 65480,
+  "product_title": "OLIKE Speaker Bluetooth SF11 HD Audio Super Bass + Radio FM | IPX4  | 8 Jam Playtime | Bluetooth 6.0",
+  "product_price": "105001.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/65480.jpg",
+    "/uploads/products/65480_1.jpg",
+    "/uploads/products/65480_2.jpg",
+    "/uploads/products/65480_3.jpg",
+    "/uploads/products/65480_4.jpg",
+    "/uploads/products/65480_5.jpg",
+    "/uploads/products/65480_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/65480",
+  "generated_at": "2026-03-15T03:33:57.302Z"
+}

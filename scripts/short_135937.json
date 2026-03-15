@@ -1,0 +1,83 @@
+{
+  "title": "Gym di Pintu Cuma Modal 80 Ribu?",
+  "hook_text": "Gym di Pintu Cuma Modal 80 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah orang frustrasi push up di lantai, lalu transisi cepat ke alat fitness.",
+      "narration": "Gimana Fitness di Rumah Cuma Modal Pintu?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk WANNALIFE Pull Up Bar ditunjukkan dari berbagai angle di kamar tidur.",
+      "narration": "Ini dia WANNALIFE Pull Up Bar Door Chinning. --- Solusi latihan pull up paling simpel buat lo. Gak ribet, langsung pasang."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul besar di layar dengan efek suara 'cha-ching'.",
+      "narration": "Harganya bikin kaget banget! --- Mulai dari delapan puluhan ribuan saja. Murah banget kan dibanding langganan gym bulanan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo orang melakukan pull up dengan stabil, close-up pada pegangan karet dan kunci pengaman.",
+      "narration": "Beban maksimal sampai seratus lima puluh kilo! --- Ada kunci pengaman patented biar aman. Pegangan karet anti-slip yang nggak berbau juga, which is next level banget. Material bajanya anti karat, durable banget actually."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang menginstal alat di pintu kamar apartemen dengan mudah.",
+      "narration": "Perfect buat lo yang tinggal di apartemen atau rumah dengan budget terbatas tapi pengen latihan rutin. --- Adjustable lengthnya juga fleksibel buat pintu mana saja. Gak perlu bongkar pasang, simple banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4,81 dan screenshot chat pembeli.",
+      "narration": "Ratingnya 4,81 dari enam puluh ribu pembelian. --- Yang udah beli bilang... \"Kuat buat berat badan gua yang 70kg, pasti kokoh banget yaa\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan tombol panah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana! Jangan sampai kehabisan!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#FitnessRumah",
+    "#PullUpBar",
+    "#OlahragaMurah",
+    "#WANNALIFE",
+    "#GymAtHome",
+    "#ProductViral",
+    "#RacunShopee",
+    "#FindingID"
+  ],
+  "product_id": 135937,
+  "product_title": "WANNALIFE Pull Up Bar Door Chinning | Alat Fitness Olahraga Rumah Reiz",
+  "product_price": "80000.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/135937.jpg",
+    "/uploads/products/135937_1.jpg",
+    "/uploads/products/135937_2.jpg",
+    "/uploads/products/135937_3.jpg",
+    "/uploads/products/135937_4.jpg",
+    "/uploads/products/135937_5.jpg",
+    "/uploads/products/135937_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/135937",
+  "generated_at": "2026-03-13T20:56:36.062Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Baju Bumil Murah? Cek Ini Bestie! 👇",
+  "hook_text": "Baju bumil harganya gila?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan depan model memakai gamis tanpa lengan yang stylish, lalu cut ke wajah model dengan ekspresi kaget sambil tunjuk harga.",
+      "narration": "Stop scrolling! Kamu pikir baju buat ibu hamil cuma buat ngelindur doang?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Zoom in ke detail kain dan potongan gamis yang longgar dan rapi, transisi cepat ke model sedang bergerak ringan.",
+      "narration": "Salah banget bestie! Ini gamis tanpa lengan yang literally next level buat kamu yang lagi bumil."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek getar, lalu membandingkan dengan harga baju biasa di toko.",
+      "narration": "Gila sih, harganya cuma seratus delapan puluhan ribu, which is worth it banget buat kualitas segini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot close-up jahitan, lalu shot model berputar menunjukkan kain tidak ketat di perut, terakhir shot detail bahan.",
+      "narration": "Pertama, jahitannya super rapi, no cap! Kedua, bahannya longgar banget jadi nggak sesak sama sekali buat perut membesar, dan yang paling penting, bahannya adem nggak bikin gerah pas lagi panas."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase foto ibu hamil sedang bekerja dari rumah, nunggu bayi, atau jalan-jalan santai sambil pakai gamis ini.",
+      "narration": "Perfect buat kamu yang sering duduk seharian atau aktif banget nunggu bayi lahir, karena potongannya benar-benar ramah untuk perut yang membesar."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Ikon bintang 4.85 muncul besar, diikuti angka 20.000 terjual, dan muncul teks kutipan pembeli.",
+      "narration": "Pembelinya pada ngomong bahannya nyaman banget dan nggak ada lipit sama sekali, bikin badan lebih lega."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar menampilkan logo finding.id dengan tombol 'Cek Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stoknya bakal cepet habis!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#BajuBumil",
+    "#FashionBumil",
+    "#GamisMurah",
+    "#IbuHamil",
+    "#OOTDBumil",
+    "#Kenyamanan",
+    "#MurahMeriah",
+    "#FindingId"
+  ],
+  "product_id": 83636,
+  "product_title": "INNER/DRESS/GAMIS TANPA LENGAN/BUMIL/BUSUI S M L XL XXL TOYOBO",
+  "product_price": "69000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/83636.jpg",
+    "/uploads/products/83636_1.jpg",
+    "/uploads/products/83636_2.jpg",
+    "/uploads/products/83636_3.jpg",
+    "/uploads/products/83636_4.jpg",
+    "/uploads/products/83636_5.jpg",
+    "/uploads/products/83636_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/83636",
+  "generated_at": "2026-03-14T20:10:49.896Z"
+}

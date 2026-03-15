@@ -1,0 +1,83 @@
+{
+  "title": "3 Parfum Serupa? Jangan Beli Ini Dulu! 😱",
+  "hook_text": "STOP! Jangan beli dulu!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up botol parfum yang ditahan tangan lalu di-gesture stop dengan ekspresi wajah serius tapi lucu",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?' Tenang bestie, kita cuma bahas satu paket bundling nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat 3 botol parfum Maestro Unisex 50ml dibuka tutup sambil disemprot ke udara",
+      "narration": "Ini lho Maestro Special Bundling, tiga botol satu paket, unisex banget cocok buat kamu maupun dia!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar dengan animasi efek ledakan warna-warni menampilkan harga, lalu transisi ke gambar uang yang tertumpuk",
+      "narration": "Harganya cuma seratus delapan puluhan ribu rupiah, which is worth it banget untuk dapet tiga botol parfum premium!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri botol cair, kanan orang wangi, bawah jam stop watch menunjukkan waktu berlalu",
+      "narration": "Pertama, teksturnya cair jadi gampang diaplikasikan. Kedua, aromanya sangat wangi bikin orang kepikiran. Ketiga, durabilitasnya sangat awet dan tahan lama seharian penuh, basically next level!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene orang laki-laki dan perempuan berjabat tangan atau cengkeraman tangan saat jalan bareng di jalanan",
+      "narration": "Perfect buat yang suka ngelakuin bundling biar hemat, atau kalau kamu sering butuh parfum darurat untuk acara penting!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar terisi grafik rating bintang 4.88 dan angka 20.000 produk terjual dengan animasi naik",
+      "narration": "Rating empat koma delapan delapan dari dua puluh ribu produk terjual, pembelinya pada ngomong kualitasnya bagus ba!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah besar mengarah ke logo finding.id dengan teks 'Cek di sini' berkedip",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#ParfumUnisex",
+    "#MaestroParfum",
+    "#DealHebat",
+    "#HematBundling",
+    "#AromaWangi",
+    "#ProdukTerlaris",
+    "#ShortsViral",
+    "#TemukanDiFinding"
+  ],
+  "product_id": 124578,
+  "product_title": "Parfum Pria dan Wanita Special Bundling 50ml 3pcs Parfume Unisex Maestro Parfum",
+  "product_price": "124800.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/124578.jpg",
+    "/uploads/products/124578_1.jpg",
+    "/uploads/products/124578_2.jpg",
+    "/uploads/products/124578_3.jpg",
+    "/uploads/products/124578_4.jpg",
+    "/uploads/products/124578_5.jpg",
+    "/uploads/products/124578_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/124578",
+  "generated_at": "2026-03-14T08:55:34.220Z"
+}

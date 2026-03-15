@@ -1,0 +1,83 @@
+{
+  "title": "Koko Lebaran Anak Murah Meriah? 😱",
+  "hook_text": "Lebaran deket, budget tipis?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah presenter kaget sambil pegang dompet tipis",
+      "narration": "Lebaran deket, anak butuh koko baru tapi budget tipis? Bestie, jangan panik dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjuk produk MINI COTTONS dari dekat, tunjuk detail jahitan dan bahan",
+      "narration": "Kenalin nih MINI COTTONS Kemko Lengan Panjang. Desainnya kece, pas banget buat anak umur 1 sampe 12 tahun."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan harga 80 ribuan, efek suara 'ching'",
+      "narration": "Harganya bikin kaget, cuma delapan puluh ribuan doang. Which is literally worth it banget dibandingin kualitasnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri anak pakai koko, kanan close up jahitan dan bahan",
+      "narration": "Fiturnya apa? Pertama, bahan adem nggak bikin gerah. Kedua, jahitan rapi tanpa benang lepas. --- Katanya ada yang bilang kualitas biasa aja, tapi no cap, buat harga segini super worth it. Yang udah beli bilang, 'pengiriman cepat, seller responsif'."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Anak lari-lari main di taman atau saat acara keluarga",
+      "narration": "Perfect buat parents yang cari baju lebaran anak praktis. Kalau aktivitas kamu sibuk, ini solusi hemat tanpa kompromi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.86 dan angka 30.000 terjual di layar",
+      "narration": "Udah terjual 30 ribu produk sama rating 4,86 bintang. Pembelinya pada ngomong, 'harga worth it banget, next jadi langganan'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah mengarah ke bawah atau jari menunjuk ke kanan layar",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, semua info review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, semua info review produk-nya ada di sana!",
+  "hashtags": [
+    "#KokoAnak",
+    "#Lebaran2024",
+    "#FashionAnak",
+    "#ObralBaju",
+    "#ViralIndonesia",
+    "#Minicottons",
+    "#RekomendasiBaju",
+    "#FindingID"
+  ],
+  "product_id": 110071,
+  "product_title": "MINI COTTONS Kemko Kemeja Koko Lebaran Anak Laki laki Lengan Panjang 1-12 Tahun",
+  "product_price": "79900.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/110071.jpg",
+    "/uploads/products/110071_1.jpg",
+    "/uploads/products/110071_2.jpg",
+    "/uploads/products/110071_3.jpg",
+    "/uploads/products/110071_4.jpg",
+    "/uploads/products/110071_5.jpg",
+    "/uploads/products/110071_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/110071",
+  "generated_at": "2026-03-13T21:01:10.359Z"
+}

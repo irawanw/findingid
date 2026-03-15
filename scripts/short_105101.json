@@ -1,0 +1,83 @@
+{
+  "title": "Blush Hanasui Viral? Worth It?",
+  "hook_text": "Pipi glowing cuma 50 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah glowing dengan efek cahaya lembut, teks overlay besar muncul cepat.",
+      "narration": "Pipi glowing natural cuma modal lima puluhan ribu? Gila sih, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Hanasui dipegang tangan, rotasi packaging dari berbagai angle.",
+      "narration": "Kenalin, Hanasui Perfect Cheek Blush. Packagingnya portable banget, literally so cute buat dibawa traveling. --- Finish-nya natural radiant, gak bikin palsu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek 'wow' atau koin jatuh.",
+      "narration": "Harga masuk akal banget, mulai lima puluh ribuan doang. --- But wait, you get glowing finish which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi aplikasi blush langsung pakai puff pada pipi, tekstur powder terlihat halus.",
+      "narration": "Gak butuh kuas lagi, tinggal puff terpasang. Ada Niacinamide dan Oat Silk, jadi kulit tetap sehat. --- Pigmentasi bagus, warnanya soft."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase orang sibuk, pelajar, dan orang kulit sensitif memakai blush ini dengan senyum.",
+      "narration": "Perfect buat kamu yang sibuk atau pemula. Kulit sensitif juga aman, no cap. --- Gak perlu ribet, tinggal tap-tap done!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan counter penjualan 300k+ di layar.",
+      "narration": "Sudah 300 ribu terjual dengan rating 4,88. --- Yang udah beli bilang 'warnanya ngasih kesan seger gitu, praktis juga gak perlu pake brush'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke bawah atau logo finding.id dengan animasi menarik.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#hanasui",
+    "#blushon",
+    "#makeupmurah",
+    "#glowingskin",
+    "#beautyhacks",
+    "#viralproduct",
+    "#findingid",
+    "#skincarerutin"
+  ],
+  "product_id": 105101,
+  "product_title": "Hanasui Perfect Cheek Blush & Go Powder - Blush On Powder Natural Radiant Finish Melembabkan Cerah Antioksidan",
+  "product_price": "57619.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/105101.jpg",
+    "/uploads/products/105101_1.jpg",
+    "/uploads/products/105101_2.jpg",
+    "/uploads/products/105101_3.jpg",
+    "/uploads/products/105101_4.jpg",
+    "/uploads/products/105101_5.jpg",
+    "/uploads/products/105101_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/105101",
+  "generated_at": "2026-03-13T22:23:15.855Z"
+}

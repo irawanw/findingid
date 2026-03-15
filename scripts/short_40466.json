@@ -1,0 +1,83 @@
+{
+  "title": "Catokan Rambut 44MM Murah & Cepat Panas! 🙀",
+  "hook_text": "Rambut tebal jadi lurus dalam 30 detik?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah model rambut keriting berantakan lalu langsung berubah jadi super lurus kilap saat catokan dilewatkan.",
+      "narration": "Stop scrolling kalau kamu pemilik rambut tebal yang benci catokan lama banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk CkeyiN 44MM sedang dinyalakan dengan efek cahaya hangat di sekitarnya, tunjukkan ukuran plat lebar.",
+      "narration": "Kenalin nih CkeyiN Catokan Pelurus 44MM Ceramic, literally next level buat kamu yang butuh hasil maksimal dalam hitungan detik."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek confetti, lalu transisi ke gambar kotak produk yang premium.",
+      "narration": "Gila sih harganya cuma seratus tiga puluh tiga ribuan, padahal fitur dan kualitasnya worth it banget bestie."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan termometer naik cepat, kanan tunjukkan rambut halus setelah di catok, bawah tunjukkan kabel yang diputar-putar.",
+      "narration": "Panasnya cuma tiga puluh detik, no cap! Plat keramik turmalin bikin rambut nggak rusak, suhu bisa diatur sampai dua ratus tiga puluh derajat, plus kabel putar tiga ratus enam puluh derajat biar nggak kusut pas dipakai."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: gadis tidur di kasur bangun, lalu langsung styling rambut di kamar mandi dengan hasil sempurna.",
+      "narration": "Perfect buat kamu yang sering bangun pagi dan butuh gaya rambut rapi instan tanpa ribet, basically savior buat hari-hari sibuk."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.88 besar dan angka 20.000 terjual, lalu muncul teks quote pembeli.",
+      "narration": "Pembelinya pada ngomong 'cuma pake fitamin rambut sudah sebagus itu, sekali tarik' dan udah laku dua puluh ribu unit dengan rating empat koma delapan delapan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh logo finding.id dengan tombol 'Beli Sekarang' berdenyut, tunjukkan garansi 1 tahun kecil di pojok.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#catokanrambut",
+    "#haircare",
+    "#viralshorts",
+    "#rambutkeriting",
+    "#findingid",
+    "#skincare",
+    "#gaya",
+    "#rambuttebal"
+  ],
+  "product_id": 40466,
+  "product_title": "CkeyiN Catokan Pelurus Rambut 44MM Ceramic Hair Straight 2 in 1 Ceramic Tourmaline Catok Rambut",
+  "product_price": "333220.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/40466.jpg",
+    "/uploads/products/40466_1.jpg",
+    "/uploads/products/40466_2.jpg",
+    "/uploads/products/40466_3.jpg",
+    "/uploads/products/40466_4.jpg",
+    "/uploads/products/40466_5.jpg",
+    "/uploads/products/40466_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/40466",
+  "generated_at": "2026-03-14T04:43:36.968Z"
+}

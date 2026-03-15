@@ -1,0 +1,83 @@
+{
+  "title": "Sandal Patricia SAKAKI! Murah Tapi Gak Murahan 🧥✨",
+  "hook_text": "Stop scroll! Sepatu flat impianmu ada di sini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah presenter ekspresi kaget sambil pegang sandal Patricia SAKAKI dengan background toko online yang estetik.",
+      "narration": "Guys, nggak nyangka sih kalau sandal flat elegan bisa dapet harga se-murah ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat 3 warna: Hitam, Burgundy, Krem dipakai di kaki model sedang jalan santai di mall atau kafe.",
+      "narration": "Ini dia Patricia Flat Shoes dari SAKAKI! Material kulit sintetis premium yang literally so cute banget, bikin outfitmu langsung naik level tanpa hak tinggi."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay besar muncul di layar: Harga 57 ribuan! dengan efek animasi uang jatuh atau tanda centang hijau.",
+      "narration": "Nih bestie, harganya cuma seratus lima puluh tujuh ribuan doang! Gila sih, kualitasnya udah top tapi harganya masih di bawah enam puluhan ribu, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail macro pada ujung sepatu bulat, lalu cut ke shot model berjalan nyaman di jalan aspal, terakhir shot tekstur kulit sintetis yang halus.",
+      "narration": "Pertama, desainnya ujung bulat yang super lembut di kaki, nggak bikin jari kram sama sekali. Kedua, ini flat shoes jadi cocok banget buat ngebut seharian, literally no pain! Ketiga, warnanya nggak gampang luntur dan teksturnya premium banget, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: di kiri model pakai ke celana jeans untuk kerja, di kanan pakai ke rok maxi untuk nongkrong sore.",
+      "narration": "Perfect buat yang lagi cari sepatu kerjaan sehari-hari atau yang suka gaya santai tapi tetap rapi. Kalau aktivitas kamu banyak jalan tapi nggak mau capek, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan layar HP yang menunjukkan rating 4.81 bintang dan angka 30.000 produk terjual, diikuti teks quote muncul di bawah.",
+      "narration": "Rating empat koma delapan satu dan tiga puluh ribu produk terjual, pembelinya pada ngomong 'Sumpahhh aslinya ternyata cantik banget lucu desainnyaaa'!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Presenter menunjuk ke arah teks finding dot id di layar dengan ekspresi menantang.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya!",
+  "hashtags": [
+    "#SandalPatricia",
+    "#SAKAKI",
+    "#SepatuFlat",
+    "#FashionWanita",
+    "#MurahMeriah",
+    "#OOTDIndonesia",
+    "#ShoesLovers",
+    "#TrendingSepatu"
+  ],
+  "product_id": 93323,
+  "product_title": "SAKAKI Patricia - Flat Shoes Sandal Wanita Cantik Dan Elegant",
+  "product_price": "51428.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/93323.jpg",
+    "/uploads/products/93323_1.jpg",
+    "/uploads/products/93323_2.jpg",
+    "/uploads/products/93323_3.jpg",
+    "/uploads/products/93323_4.jpg",
+    "/uploads/products/93323_5.jpg",
+    "/uploads/products/93323_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/93323",
+  "generated_at": "2026-03-14T04:30:55.640Z"
+}

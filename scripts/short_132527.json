@@ -1,0 +1,83 @@
+{
+  "title": "Jeans Pria Premium Cuma Seratus Ribuan? 🔥",
+  "hook_text": "Jeans Premium Cuma Seratus Ribuan?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah host yang kaget sambil memegang celana jeans dengan gaya cinematic slow motion.",
+      "narration": "Bestie, sadar nggak sih jeans premium bisa cuma seratus seratusan ribu? ---"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Celana Jeans Pria Lea diputar perlahan menunjukkan detail bahan denim dari dekat.",
+      "narration": "Kenalin nih Celana Jeans Pria Lea. Bahan denim premium yang literally next level banget. ---"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, transisi cepat dari toko offline ke produk ini.",
+      "narration": "Bandingin toko offline, biasanya di atas seratus lima puluh ribuan. Ini? Cuma seratus sembilan puluh ribuan. Literally worth it! ---"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase fitur: tekstur bahan tebal, warna hitam pekat, dan range ukuran yang tersedia.",
+      "narration": "Pertama, bahan tebal nggak tembus pandang. Kedua, warna hitam pekat. Ketiga, ukuran dua puluh tujuh sampai tiga delapan. Bahan sesuai harga tapi solid no cap! ---"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model cowok memakai jeans ini saat sedang nongkrong atau jalan santai di kota.",
+      "narration": "Perfect buat kamu yang sering nge-date atau kerja tapi mau tampil rapi. ---"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.7 dan angka penjualan 50.000 terjual di layar.",
+      "narration": "Udah laku lima puluh ribu pasang, rating empat koma tujuh. Yang udah beli bilang bahan tebal bagus. ---"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi menarik dan panah mengarah ke tombol.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#JeansPria",
+    "#FashionPria",
+    "#RekomendasiPakai",
+    "#MurahMeriah",
+    "#OOTD",
+    "#Viral",
+    "#FindingID",
+    "#CelanaJean"
+  ],
+  "product_id": 132527,
+  "product_title": "Celana Jeans Panjang Pria Lea Standar Reguler PremiumTerbaru Ukuran 27 Sampai 38 Bahan Denim Premium",
+  "product_price": "109000.00",
+  "product_rating": "4.70",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/132527.jpg",
+    "/uploads/products/132527_1.jpg",
+    "/uploads/products/132527_2.jpg",
+    "/uploads/products/132527_3.jpg",
+    "/uploads/products/132527_4.jpg",
+    "/uploads/products/132527_5.jpg",
+    "/uploads/products/132527_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/132527",
+  "generated_at": "2026-03-13T19:30:40.226Z"
+}

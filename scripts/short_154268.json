@@ -1,0 +1,80 @@
+{
+  "title": "Sepatu Sekolah 79.999an?! Gila Banget Bestie!",
+  "hook_text": "Stop Scroll! Sepatu Sekolah 79.999an?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up sepatu hitam putih Thomas Ando yang estetik ditaruh di atas meja sekolah, lalu cut cepat ke wajah kaget presenter.",
+      "narration": "Kalian pasti gak bakal percaya kalau sepatu sekolah ternama kayak gini harganya cuma seratusan ribu doang, guys!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot slow-motion sepatu diputar 360 derajat menunjukkan detail bahan dan sol, teks besar muncul: 'Thomas Ando Original'.",
+      "narration": "Ini dia Thomas Ando hitam putih polos, buat yang mau tampil rapi ke sekolah dari SD sampe SMA. Bahan empuk lentur, which is literally next level buat kaki anak muda yang aktif banget bergerak!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 79.999 muncul dengan animasi efek uang jatuh, lalu muncul angka '70 Ribuan Terjual' dengan efek confetti.",
+      "narration": "Gak kerasa ya? Cuma tujuh puluh sembilan ribuan aja, bestie! Ini udah termasuk kualitas premium yang worth it banget sama budget kantong pelajar. Gila sih, emang jago!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: kaki menapak sepatu terlihat empuk, logo Thomas Ando diperbesar, lalu adegan anak lari-lari ringan tanpa sakit kaki.",
+      "narration": "Pertama, kenyamanan maksimal karena solnya empuk banget, nggak bikin kaki pegel seharian. Kedua, desainnya klasik hitam putih yang super oke buat semua seragam. Ketiga, kualitas bahannya kokoh, jadi awet dipakai tiap hari. Basically, fitur-fiturnya udah di atas rata-rata!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video split screen: anak SD membawa tas kecil, anak SMP belajar di perpustakaan, dan anak SMA jalan kaki ke sekolah.",
+      "narration": "Perfect buat kamu yang sering jalan kaki ke sekolah, bestie! Atau kalau aktivitas kamu di sekolah itu gerak-gerik banyak banget, sepatu ini bakal jadi penyelamat kaki kamu. Cocok banget buat semua jenjang!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.86 bintang dengan background hijau terang, lalu muncul kutipan teks dari ulasan positif.",
+      "narration": "Yang udah beli bilang sepatu ini emang sesuai gambar, aman, dan nyaman dipakainya. Plus udah laku tujuh puluh ribu produk dengan rating empat koma delapan enam, guys!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Presenter menunjuk ke bawah layar dengan senyum lebar, teks besar: 'Cek finding dot id sekarang!'.",
+      "narration": "Penasaran sama stok dan detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#ThomasAndo",
+    "#SepatuSekolah",
+    "#HematPintar",
+    "#AnakSekolah",
+    "#ShopeeFinds",
+    "#StudentLife",
+    "#SepatuAnak",
+    "#PromoMurah"
+  ],
+  "product_id": 154268,
+  "product_title": "SEPATU SEKOLAH ANAK SD SMP SMA / SEPATU ANDO HITAM PUTIH HITAM POLOS/ SEPATU SEKOLAH THOMAS ANDO 33 sampai 43",
+  "product_price": "79999.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/154268.jpg",
+    "/uploads/products/154268_1.jpg",
+    "/uploads/products/154268_2.jpg",
+    "/uploads/products/154268_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/154268",
+  "generated_at": "2026-03-14T17:36:09.870Z"
+}

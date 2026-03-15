@@ -1,0 +1,83 @@
+{
+  "title": "Skincare G2G Big Size Worth It? 🤔",
+  "hook_text": "Mau Glowing Tanpa Boros? 🛑",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah glowing dengan efek cahaya, lalu transisi cepat ke produk.",
+      "narration": "Mau kulit glowing tapi budget pas-pasan? Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan botol GLAD2GLOW Big Size 100g dari berbagai sudut, highlight kemasan hitam.",
+      "narration": "Kenalin GLAD2GLOW Big Size 100 gram. Kemasan hitamnya literally next level aesthetic dan super cute banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan teks harga besar '80 RIBUAN' dengan efek kembang api, lalu tunjukkan botolnya.",
+      "narration": "Harganya cuma delapan puluhan ribu buat ukuran gede. Which is worth it banget dibanding skincare mahal lain!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Animasi molekul Niacinamide, tekstur cream dioleskan ke tangan, cepat meresap.",
+      "narration": "Kandungan Pomegranate 3% sama Niacinamide-nya literally ampuh mencerahkan. Teksturnya ringan, no cap, meresap cepet banget. Basically jadi next level skincare harian kamu. --- Bisa dipakai pagi atau malam hari. Kulit jadi lebih sehat dan cerah."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Tunjukkan orang sedang apply skincare ke wajah dengan senyum, suasana santai.",
+      "narration": "Perfect buat kamu yang mau coba skincare brightening tanpa takut boros. Atau buat yang butuh pelembab ringan. Yang sudah beli bilang hasilnya emang butuh konsistensi, bukan instan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan grafik rating 4.91 dan jumlah terjual 20k, lalu screenshot chat pembeli.",
+      "narration": "Sudah laku 20 ribu kali, rating 4.91. --- Pembelinya pada ngomong 'kemasan lebih enak dip' dan aman banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks 'finding dot id' besar di tengah layar dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#glad2glow",
+    "#skincareg2g",
+    "#skincareindonesia",
+    "#glowingskin",
+    "#skincaremurah",
+    "#meratahkulit",
+    "#moisturizerwajah",
+    "#viralproduct"
+  ],
+  "product_id": 100589,
+  "product_title": "[ NEW]GLAD2GLOW Big Size 100g Brightening Moisturizer Pomegranate Niacinamide Extract Hitam Mencerahkan Wajah Pencerah Pelembab Glowing whitening bright Mencerahkan Melembabkan Kulit skin skincare G2G",
+  "product_price": "88900.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100589.jpg",
+    "/uploads/products/100589_1.jpg",
+    "/uploads/products/100589_2.jpg",
+    "/uploads/products/100589_3.jpg",
+    "/uploads/products/100589_4.jpg",
+    "/uploads/products/100589_5.jpg",
+    "/uploads/products/100589_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100589",
+  "generated_at": "2026-03-13T20:59:35.531Z"
+}

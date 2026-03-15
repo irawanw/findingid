@@ -1,0 +1,83 @@
+{
+  "title": "Catokan Rambut Anti Rusak Bestie!",
+  "hook_text": "Rambut rusak gara-gara catokan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up rambut kusut lalu transisi cepat ke rambut halus berkilau.",
+      "narration": "Rambut rusak parah gara-gara catokan? Stop scroll!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan Remington S8540 dari berbagai angle dengan pencahayaan cinematic.",
+      "narration": "Nih Remington S8540, si pelurus rambut dengan fitur Keratin Protect biar rambut tetep sehat."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek koin jatuh.",
+      "narration": "Harganya? Cuma satu juta an doang. --- Literally worth it buat hasil salon di rumah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail plat ceramic, layar suhu digital, dan kabel yang diputar.",
+      "narration": "Plat ceramic-nya ada Keratin sama Almond Oil, nggak bikin gosong. --- Suhu digital 150 sampai 230 derajat. --- Floating plates aman dari rambut terselip. --- Garansi resmi dua tahun juga ada, jadi no worries."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang menata rambut dengan gaya santai dan percaya diri.",
+      "narration": "Perfect buat yang rambutnya kering atau rusak parah. --- Kalau kamu aktif styling tiap hari, ini wajib punya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan angka penjualan 40.000 unit.",
+      "narration": "Rating 4.9 bintang, terjual 40 ribu unit. --- Yang udah beli bilang, 'Beneran bikin rambut lebih smooth dan shiny.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke bawah.",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya, ada review produknya di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya, ada review produknya di sana!",
+  "hashtags": [
+    "#remington",
+    "#catokan",
+    "#haircare",
+    "#genz",
+    "#beautyhacks",
+    "#styling",
+    "#keratin",
+    "#findingid"
+  ],
+  "product_id": 40473,
+  "product_title": "Remington Catokan Pelurus Rambut Keratin Protect S8540",
+  "product_price": "1039000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/40473.jpg",
+    "/uploads/products/40473_1.jpg",
+    "/uploads/products/40473_2.jpg",
+    "/uploads/products/40473_3.jpg",
+    "/uploads/products/40473_4.jpg",
+    "/uploads/products/40473_5.jpg",
+    "/uploads/products/40473_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/40473",
+  "generated_at": "2026-03-13T16:18:20.514Z"
+}

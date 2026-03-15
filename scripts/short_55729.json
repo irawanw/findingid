@@ -1,0 +1,83 @@
+{
+  "title": "HP 3 Jutaan Layar AMOLED 144Hz? Gak Nyata Dong!",
+  "hook_text": "HP Seharga 3 Jutaan Ini Layarnya Bikin Nagih!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up layar HP menyala dengan efek kilau AMOLED, teks besar muncul di tengah layar",
+      "narration": "HP Seharga 3 Jutaan Ini Layarnya Bikin Nagih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Infinix Note 50S 5G+ diputar perlahan dari berbagai angle, showcase desain belakang Aromatic Leather",
+      "narration": "Ini dia Infinix Note 50S 5G+, si raja mid-range yang lagi hype banget! Body-nya pakai Aromatic Leather yang wangi dan premium."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek animasi uang terbang atau centang hijau, background toko online yang blur",
+      "narration": "Harganya cuma tiga juta tiga ratus ribuan, which is literally worth it banget for specs gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: gameplay game berat, foto malam, dan video streaming, diikuti shot baterai dan speaker",
+      "narration": "Layar AMOLED 3D Curved 144Hz itu smooth no cap --- Chipset Dimensity 7300 Ultimate, gaming lancar jaya tanpa lag. Kamera 64MP OIS juga jernih banget. Baterai 5200 mAh tahan seharian plus speaker JBL Dual yang suaranya nendang. Garansi resmi aman, no worry soal kualitas."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang nonton film di HP dan main game di busway atau kafe",
+      "narration": "Buat yang suka nonton movie di layar gede atau gamer casual yang butuh performa stabil. Perfect buat yang cari desain premium dengan fitur lengkap."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 di aplikasi dan grafik jumlah penjualan yang naik, teks kutipan pembeli muncul",
+      "narration": "Rating 4,94 bintang udah dibeli dua puluh ribu orang! Yang udah beli bilang 'murah tapi berasa flagship'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol 'Cek Sekarang' mengarah ke logo finding.id dengan animasi klik",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie! Review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie! Review produk-nya ada di sana!",
+  "hashtags": [
+    "#InfinixNote50S",
+    "#HPMurah",
+    "#GamingHP",
+    "#TechIndonesia",
+    "#SmartphoneViral",
+    "#InfinixIndonesia",
+    "#CekDuluLagi",
+    "#ViralProduct"
+  ],
+  "product_id": 55729,
+  "product_title": "Infinix Note 50S 5G+ 8/256GB - Up to 16GB Extended RAM - Dimensity 7300 Ultimate - 6.78” 3D Curved FHD+ Amoled - 64MP OIS - 5200 mAh - NFC",
+  "product_price": "3369000.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/55729.jpg",
+    "/uploads/products/55729_1.jpg",
+    "/uploads/products/55729_2.jpg",
+    "/uploads/products/55729_3.jpg",
+    "/uploads/products/55729_4.jpg",
+    "/uploads/products/55729_5.jpg",
+    "/uploads/products/55729_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/55729",
+  "generated_at": "2026-03-13T16:02:53.764Z"
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Sunscreen Murah Bikin Glowing! ✨",
+  "hook_text": "nggak Mau Wajah Kusam?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kusam yang berubah jadi glowing dengan efek cahaya, transisi cepat.",
+      "narration": "nggak mau wajah kusam tapi sunscreen bikin putih kayak topeng?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilan produk SKINTIFIC Bright Fit Serum Sunscreen di tangan, rotasi produk 360 derajat.",
+      "narration": "Kenalin nih SKINTIFIC Bright Fit Serum Sunscreen, bestie! Ini literally next level protection buat kulit kamu sehari-hari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek koin jatuh atau tanda seru, background produk.",
+      "narration": "Harga asli cuma tujuh puluhan ribuan doang. Which is worth it banget kalau liat fitur-nya dan volume-nya 50 gram."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Animasi partikel SPF dan Niacinamide masuk ke kulit, tekstur krim yang encer disiram di tangan.",
+      "narration": "Ada SPF 50 PA++++ lengkap, plus 2% Niacinamide buat glowing. Teksturnya super ringan, cepet menyerap, no white cast. Bisa ngeratain warna kulit juga lho."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario wanita sedang beraktivitas di luar ruangan, lalu memasukkan produk ke tas.",
+      "narration": "Kalau kamu sering aktivitas di luar atau takut jerawatan, ini wajib banget di tas kamu. Jadi nggak perlu foundation tebal."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan angka penjualan 100 ribu, diikuti screenshot chat pembeli.",
+      "narration": "Ratingnya 4.93, udah laku 100 ribu produk. --- Yang udah beli bilang 'asli authentic dan cepet menyerap'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke tombol, background produk.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana! Jangan sampai ketinggalan!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Skintific",
+    "#SunscreenWajah",
+    "#SkincareIndonesia",
+    "#GenZBeauty",
+    "#ReviewSkincare",
+    "#GlowingSkin",
+    "#ViralProduct",
+    "#FindingId"
+  ],
+  "product_id": 105689,
+  "product_title": "SKINTIFIC UV Shield SPF50+ Sunscreen Wajah PA++++|Acne Oil Control Matte Fit/ Bright Fit/5X Ceramide Serum/Light Serum Brightening/All Day Light Mist|Cepat Menyerap Fast-Absorbing Melembapkan Sunblock tinted Sunscreen Spray sanscreen sunblock badan",
+  "product_price": "79000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/105689.jpg",
+    "/uploads/products/105689_1.jpg",
+    "/uploads/products/105689_2.jpg",
+    "/uploads/products/105689_3.jpg",
+    "/uploads/products/105689_4.jpg",
+    "/uploads/products/105689_5.jpg",
+    "/uploads/products/105689_6.jpg",
+    "/uploads/products/105689_7.jpg",
+    "/uploads/products/105689_8.jpg",
+    "/uploads/products/105689_9.jpg",
+    "/uploads/products/105689_10.jpg",
+    "/uploads/products/105689_11.jpg",
+    "/uploads/products/105689_12.jpg",
+    "/uploads/products/105689_13.jpg",
+    "/uploads/products/105689_14.jpg",
+    "/uploads/products/105689_15.jpg",
+    "/uploads/products/105689_16.jpg",
+    "/uploads/products/105689_17.jpg"
+  ],
+  "product_link": "https://finding.id/p/105689",
+  "generated_at": "2026-03-13T21:07:44.296Z"
+}

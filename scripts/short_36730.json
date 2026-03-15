@@ -1,0 +1,87 @@
+{
+  "title": "Handuk Couple Mewah Murah? 🤑",
+  "hook_text": "Handuk couple mewah cuma tiga ratusan ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up handuk mewah dengan efek cahaya berkilau dan teks besar di tengah layar",
+      "narration": "Handuk couple mewah cuma tiga ratusan ribu?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Terry Palmer di atas meja estetik dengan background bersih",
+      "narration": "Ini Terry Palmer Luxury Goldline, handuk couple set yang lagi viral banget di kalangan kalian semua. Kualitasnya no cap, bestie!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh",
+      "narration": "Harganya tiga ratusan ribu an doang, literally worth it banget buat quality sekelas hotel."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo tekstur handuk yang halus dan close-up packaging rapih",
+      "narration": "Teksturnya super soft, nggak kasar. Packagingnya rapih, cocok buat kado. --- Soal size, ini standar couple, bukan extra besar. Jangan expect sebesar selimut ya bestie, tapi pas banget buat sehari-hari. Nggak berodol kok, jadi awet!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Kutipan video estetik orang memakai handuk couple dengan senyum",
+      "narration": "Perfect banget buat kamu yang lagi cari seserahan elegan atau mau upgrade handuk mandi di rumah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan angka 30.000 terjual di layar",
+      "narration": "Rating 4.96 bintang, udah terjual 30.000 produk loh! Yang udah beli bilang produknya beneran keren bangeeet dan reliable."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah mengarah ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya, review produknya ada di sana! Jangan lupa cek before buy."
+    }
+  ],
+  "cta": "Cek di finding dot id ya, review produknya ada di sana! Jangan lupa cek before buy.",
+  "hashtags": [
+    "#HandukCouple",
+    "#TerryPalmer",
+    "#KadoPernikahan",
+    "#ViralProduct",
+    "#MurahMurah",
+    "#HandukMewah",
+    "#TipsBeli",
+    "#FindingID"
+  ],
+  "product_id": 36730,
+  "product_title": "Terry Palmer Luxury - Goldline (Handuk Couple Set) / Handuk Seserahan / Kado Pernikahan / Souvenir / Hadiah / Gift / Hampers",
+  "product_price": "306705.00",
+  "product_rating": "4.96",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/36730.jpg",
+    "/uploads/products/36730_1.jpg",
+    "/uploads/products/36730_2.jpg",
+    "/uploads/products/36730_3.jpg",
+    "/uploads/products/36730_4.jpg",
+    "/uploads/products/36730_5.jpg",
+    "/uploads/products/36730_6.jpg",
+    "/uploads/products/36730_7.jpg",
+    "/uploads/products/36730_8.jpg",
+    "/uploads/products/36730_9.jpg",
+    "/uploads/products/36730_10.jpg"
+  ],
+  "product_link": "https://finding.id/p/36730",
+  "generated_at": "2026-03-13T16:37:18.932Z"
+}

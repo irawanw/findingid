@@ -1,0 +1,80 @@
+{
+  "title": "Celana Running Viral Harga Terjangkau",
+  "hook_text": "Celana Running Murah Tapi Bahan Tebel?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot celana hitam ditarik elastis, lalu cut cepat ke wajah kaget presenter.",
+      "narration": "Gak nyangka banget, ada celana running yang bahannya tebel banget tapi harganya cuma tujuh puluhan ribuan doang!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage celana berwarna hitam, navy, dan putih diputar dengan efek cahaya cinematic.",
+      "narration": "Ini dia celana running pria yang lagi viral, ada varian warna hitam, navy, dan putih. Bahannya super tebal tapi tetep adem dan lentur, which is worth it banget buat latihan gym atau lari pagi."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kilatan, disusul animasi uang terbang ke samping.",
+      "narration": "Dan tau nggak? Harganya cuma tujuh puluhan ribuan aja. Kamu bisa dapet kualitas premium kayak gini dengan budget yang nggak bikin dompet boncos, literally no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo saku zip di kiri kanan, lalu bahan ditarik kuat-kuat, terakhir air diteteskan ke kain.",
+      "narration": "Fiturnya next level, bestie. Pertama, ada saku zip di kiri kanan yang aman banget buat nyimpen HP atau kunci pas olahraga. Kedua, bahannya super elastis dan lentur, jadi gerak kamu bebas tanpa ketarik. Ketiga, kainnya tebal tapi tetap adem, bikin keringetan nggak bikin lengket."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang lari di pagi hari, lalu transisi ke orang gym angkat beban, semua pakai celana ini.",
+      "narration": "Produk ini perfect buat kamu yang sering lari pagi, olahraga di gym, atau sekadar jogging santai. Kalau kamu aktif banget gerak, celana ini bakal jadi andalan utama kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.81 dan angka 20.000 terjual dengan animasi confetti.",
+      "narration": "Sudah terjual dua puluh ribu produk dengan rating empat koma delapan satu. Yang udah beli bilang, 'Kainnya tebel halus dan saku zipnya keren banget, sepadan sama harga.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan tombol panah mengarah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id!",
+  "hashtags": [
+    "#celanarunning",
+    "#oligarpr",
+    "#gymindonesia",
+    "#fashionpria",
+    "#viralproduct",
+    "#runninggear",
+    "#ootdgym",
+    "#findingid"
+  ],
+  "product_id": 9292,
+  "product_title": "Celana running pria jogging senam gym misty tebal hitam navy putih sport elastis",
+  "product_price": "71996.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/9292.jpg",
+    "/uploads/products/9292_1.jpg",
+    "/uploads/products/9292_2.jpg",
+    "/uploads/products/9292_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/9292",
+  "generated_at": "2026-03-15T14:17:54.534Z"
+}

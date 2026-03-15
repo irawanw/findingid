@@ -1,0 +1,83 @@
+{
+  "title": "SKIN1004 Centella Cream Cuma 70 Ribu?",
+  "hook_text": "Produk Korea Cuma 70 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up produk dengan efek kilau, teks besar muncul di tengah layar",
+      "narration": "Nggak percaya produk Korea cuma tujuh puluh ribuan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tang memegang tube krim, buka tutupnya perlahan tunjukkan tekstur",
+      "narration": "Ini dia SKIN1004 Madagascar Centella Soothing Cream, bestie!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga Rp 70.000 dengan efek tanda seru atau uang",
+      "narration": "Harganya tujuh puluh ribuan, tapi kualitasnya next level banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Swatch krim di tangan, lalu close up wajah glowing",
+      "narration": "Ekstrak Centella Asiatica asli dari Madagascar buat nge-soothe kulit. Teksturnya gel-cream ringan, cepet banget nyerep dan nggak bikin lengket. --- Ada empat jenis ceramides buat nge-boost skin barrier juga. Aman buat kulit sensitif versi EWG Green Grade, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model pakai masker atau aktivitas luar ruangan, lalu masuk ruangan ber-AC",
+      "narration": "Kalau aktivitas kamu di luar ruangan atau sering kena AC, ini solusinya. Perfect buat kamu yang kulitnya kombinasi atau lagi breakout parah. Nggak bikin area T-zone makin berminyak."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan screenshot rating 4.93 dan ikon keranjang belanja",
+      "narration": "Udah laku seratus ribu produk! Yang udah beli bilang, \"Teksturnya agak kental namun cepat di blend dan nyerap\". Rating empat koma sembilan tiga, basically worth it banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, ada review produk-nya di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#skincare",
+    "#sk1004",
+    "#centella",
+    "#kulitsehat",
+    "#skincareindonesia",
+    "#beautyhacks",
+    "#rekomendasiskincare",
+    "#viral"
+  ],
+  "product_id": 100224,
+  "product_title": "SKIN1004 Madagascar Centella Soothing Cream 30ml",
+  "product_price": "70000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100224.jpg",
+    "/uploads/products/100224_1.jpg",
+    "/uploads/products/100224_2.jpg",
+    "/uploads/products/100224_3.jpg",
+    "/uploads/products/100224_4.jpg",
+    "/uploads/products/100224_5.jpg",
+    "/uploads/products/100224_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100224",
+  "generated_at": "2026-03-13T21:29:32.297Z"
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Koko Sanghai Premium Murah Meriah!",
+  "hook_text": "Koko Premium Cuma 90 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up produk baju koko dengan kain berkilau, lalu kamera zoom out cepat menampilkan tag harga.",
+      "narration": "Gila sih bestie, baju koko premium ini harganya cuma delapan puluhan ribu doang, which is literally no cap worth it banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot slow motion tangan menyentuh kain katun Madinah, lalu model memakai baju koko dengan gaya santai di luar ruangan.",
+      "narration": "Ini dia Sanghai Kemeja Lengan Panjang, bahannya Katun Madinah Premium yang adem banget dan nggak bikin gerah. Super soft di kulit, no cap!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan grafik harga yang turun dari 99 ribu ke 85 ribu, lalu overlay teks besar angka harga.",
+      "narration": "Harganya berkisar antara delapan lima ribu sampai sembilan puluh ribuan an, which is super affordable banget kalau dibandingkan sama kualitas bahan yang next level ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: detail ujung kancing, tekstur kain yang halus, dan variasi warna yang tersedia di rak.",
+      "narration": "Fiturnya gila sih, pertama bahannya Katun Madinah asli yang nyerap keringat dan lembut banget. Kedua, desainnya casual banget cocok buat acara santai atau bahkan jadi seragam. Ketiga, tersedia enam warna kece mulai dari putih kancing hitam sampai ungu lilak, jadi kamu bisa mix and match sesuai gaya kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model memakai baju koko sambil memegang tas sekolah atau sedang duduk santai di kafe dengan teman.",
+      "narration": "Ini perfect banget buat kamu yang sering cari baju santai tapi tetap sopan, atau buat kalian yang butuh seragam komunitas dengan budget pas."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.81 dan teks overlay '20 Ribuan Terjual', lalu cuplikan chat atau teks ulasan.",
+      "narration": "Pembelinya pada bilang bahannya lembut dan nyaman, plus sesuai harga banget. Tapi hati-hati ya, yang udah beli bilang XL-nya besar banget, jadi milih ukuran itu penting bestie!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol animasi mengarah ke logo finding.id dengan teks 'Cek Detail Lengkap'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#BajuKoko",
+    "#Sanghai",
+    "#OotdMuslim",
+    "#BajuMurah",
+    "#KerenMurah",
+    "#FashionMuslim",
+    "#ViralIndonesia",
+    "#FindingID"
+  ],
+  "product_id": 137718,
+  "product_title": "Baju Koko Kemeja Sanghai Lengan Panjang Ujung Kancing Bahan Katun Madinah Premium",
+  "product_price": "85500.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/137718.jpg",
+    "/uploads/products/137718_1.jpg",
+    "/uploads/products/137718_2.jpg",
+    "/uploads/products/137718_3.jpg",
+    "/uploads/products/137718_4.jpg",
+    "/uploads/products/137718_5.jpg",
+    "/uploads/products/137718_6.jpg",
+    "/uploads/products/137718_7.jpg",
+    "/uploads/products/137718_8.jpg",
+    "/uploads/products/137718_9.jpg",
+    "/uploads/products/137718_10.jpg",
+    "/uploads/products/137718_11.jpg",
+    "/uploads/products/137718_12.jpg",
+    "/uploads/products/137718_13.jpg",
+    "/uploads/products/137718_14.jpg",
+    "/uploads/products/137718_15.jpg",
+    "/uploads/products/137718_16.jpg",
+    "/uploads/products/137718_17.jpg",
+    "/uploads/products/137718_18.jpg",
+    "/uploads/products/137718_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/137718",
+  "generated_at": "2026-03-15T14:44:56.448Z"
+}

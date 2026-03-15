@@ -1,0 +1,96 @@
+{
+  "title": "Hampers Pernikahan Couple Worth It Banget! ✨",
+  "hook_text": "Kado pernikahan ini bikin ngiler!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up handuk couple dikocok pelan dengan efek slow motion biar kelihatan empuk.",
+      "narration": "Stop scrolling dulu bestie! Kamu tau nggak sih, kado pernikahan yang nggak bikin dompet jebol tapi tetep kelihatan mewah dan berkelas itu ada di sini."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat menampilkan berbagai varian warna seperti Plum Brown, Pink Zigzag, dan Navy Denim dengan lighting yang cerah.",
+      "narration": "Perkenalkan, ini Hampers Pernikahan Handuk Couple yang literally so cute! Desainnya modern, nggak kuno, dan pastinya cocok banget buat couple yang lagi planning nikahan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul menampilkan harga Rp 149-an ribu, lalu berubah menjadi harga promo Rp 99-an ribu dengan efek 'ding'.",
+      "narration": "Gila sih harganya, cuma berkisar antara seratus empat puluhan ribu sampai seratus empat puluh sembilan ribuan. Which is worth it banget untuk kado yang sekelas ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menampilkan tekstur mikrofiber yang dielus, air dituangkan ke handuk untuk tunjukkan daya serap, dan detail bordir yang rapi.",
+      "narration": "No cap, teksturnya microfiber yang super lembut dan nyaman di kulit. Daya serapnya juga next level, jadi badan langsung kering pas mandi. Plus, kualitas bahannya tebal dan nggak mudah rusak, ada bingkai yang rapi banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video simulasi seorang couple sedang membuka paket hampers dengan wajah senyum lebar saat melihat isi.",
+      "narration": "Perfect buat yang lagi cari kado unik buat pasangan atau buat ulang tahun rumah tangga. Kalau kamu sering bingung ngasih kado apa yang original, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan screenshot rating 4.85 bintang dan angka 20.000 terjual, lalu teks kutipan muncul.",
+      "narration": "Ratingnya 4.85 bintang dan udah laku dua puluh ribuan unit. Pembelinya pada ngomong kalau adminnya baik banget dan produksinya rapi."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi teks besar 'CEK DI FINDING DOT ID' dengan tombol download bergoyang.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#KadoPernikahan",
+    "#HampersCouple",
+    "#IdeKadoBucin",
+    "#HandukMandi",
+    "#WeddingGift",
+    "#KaryaIndonesia",
+    "#GiftIde",
+    "#HampersMurah"
+  ],
+  "product_id": 36725,
+  "product_title": "Hampers Pernikahan Handuk Couple Kado Pernikahan Handuk Mandi",
+  "product_price": "105999.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/36725.jpg",
+    "/uploads/products/36725_1.jpg",
+    "/uploads/products/36725_2.jpg",
+    "/uploads/products/36725_3.jpg",
+    "/uploads/products/36725_4.jpg",
+    "/uploads/products/36725_5.jpg",
+    "/uploads/products/36725_6.jpg",
+    "/uploads/products/36725_7.jpg",
+    "/uploads/products/36725_8.jpg",
+    "/uploads/products/36725_9.jpg",
+    "/uploads/products/36725_10.jpg",
+    "/uploads/products/36725_11.jpg",
+    "/uploads/products/36725_12.jpg",
+    "/uploads/products/36725_13.jpg",
+    "/uploads/products/36725_14.jpg",
+    "/uploads/products/36725_15.jpg",
+    "/uploads/products/36725_16.jpg",
+    "/uploads/products/36725_17.jpg",
+    "/uploads/products/36725_18.jpg",
+    "/uploads/products/36725_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/36725",
+  "generated_at": "2026-03-14T22:47:49.615Z"
+}

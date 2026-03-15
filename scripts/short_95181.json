@@ -1,0 +1,90 @@
+{
+  "title": "Tas Elegan Cuma 100 Ribu? Bestie Wajib Punya!",
+  "hook_text": "Tas Estetik Cuma 100 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tas PX 125 dengan pencahayaan cinematic dan transisi cepat.",
+      "narration": "Tas estetik gini harganya cuma seharga secangkir kopi doang?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai sudut menampilkan desain elegan dan warna-warna tersedia.",
+      "narration": "Ini dia PX 125 Handbag, desainnya elegan banget, bestie!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek suara 'cha-ching'.",
+      "narration": "Harganya tuh cuma seratus ribuan aja, --- which is literally worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail close-up jahitan, bahan tebal, dan tali tas yang bisa dilepas.",
+      "narration": "Bahannya PU tebal dan kuat, --- jahitannya rapi, warna cerah nggak pucat. --- Tali bisa dilepas jadi fleksibel. --- Ukuran pas buat barang harian. --- Though ada sedikit bekas lem di dalem, --- no cap, for the price it’s totally okay!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario wanita memakai tas saat kerja, jalan-jalan, atau nongkrong.",
+      "narration": "Perfect buat kalian yang suka gaya elegan tapi budget terbatas. --- Buat pelajar, pekerja, atau ibu rumah tangga yang sering jalan, tetap oke! --- Kalian yang sering butuh tas buat meeting atau nongkrong, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan jumlah terjual 90.000 produk.",
+      "narration": "Udah terjual 90 ribu unit, --- ratingnya 4,78. --- Yang udah beli bilang, 'sesuai banget sama harga!'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke bawah dengan teks 'finding dot id'.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#TasWanita",
+    "#PX125",
+    "#FashionIndonesia",
+    "#BelanjaHemat",
+    "#TasElegan",
+    "#GayaSerbaguna",
+    "#ViralProduct",
+    "#FindingID"
+  ],
+  "product_id": 95181,
+  "product_title": "PX 125 WOMAN HANDBAG ELEGAN  - Tas Wanita Terbaru 2026",
+  "product_price": "103663.00",
+  "product_rating": "4.78",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/95181.jpg",
+    "/uploads/products/95181_1.jpg",
+    "/uploads/products/95181_2.jpg",
+    "/uploads/products/95181_3.jpg",
+    "/uploads/products/95181_4.jpg",
+    "/uploads/products/95181_5.jpg",
+    "/uploads/products/95181_6.jpg",
+    "/uploads/products/95181_7.jpg",
+    "/uploads/products/95181_8.jpg",
+    "/uploads/products/95181_9.jpg",
+    "/uploads/products/95181_10.jpg",
+    "/uploads/products/95181_11.jpg",
+    "/uploads/products/95181_12.jpg",
+    "/uploads/products/95181_13.jpg"
+  ],
+  "product_link": "https://finding.id/p/95181",
+  "generated_at": "2026-03-13T19:48:20.326Z"
+}

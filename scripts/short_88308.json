@@ -1,0 +1,83 @@
+{
+  "title": "Regulator Gas Destec Anti Bocor! Harga Gila Bestie",
+  "hook_text": "Gas bocor? Stop scroll dulu!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan close-up kompor gas yang nyala merah menyala lalu transisi cepat ke regulator Destec hitam mengkilap di tangan",
+      "narration": "Gas bocor di rumah? Stop scroll dulu bestie, karena ini solusinya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk regulator Destec COM-U12R BLACK diputar-putar sambil menyorot detail kuncinya",
+      "narration": "Kenalan aja deh sama Regulator Gas Destec tekanan rendah ini, literally next level buat keamanan dapur lo, which is worth it banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan angka harga rendah disertai efek uang jatuh",
+      "narration": "Gila sih harganya cuma seratus delapan puluhan ribu, tapi kamu dapet keamanan sekelas profesional, which is basically gratis kok!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tangan memasukkan regulator ke tabung gas dengan mudah, zoom in pada karet datar, lalu zoom in pada pengunci plat C",
+      "narration": "Fiturnya nggak main-main, pertama ada sistem pengaman ganda cegah kebocoran, plus karet datar yang nge-prevent kebocoran tambahan, dan pengunci plat C yang kuat banget biar stabil. Paling gampang lagi pasalnya super mudah, nggak perlu ribet!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene orang ibu-ibu di dapur memasak dengan tenang dan bahagia sambil tersenyum",
+      "narration": "Perfect buat yang sering masak di rumah dan pengen tidur nyenyak tanpa takut gas bocor, especially buat yang budget terbatas tapi nggak mau kompromi sama keamanan!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.82 dan angka terjual 30.000 dengan efek confetti",
+      "narration": "Emang beneran bagus? Yang udah beli bilang 'tidak bocor sedikitpun walau tidak pakai karet yg ada di gas' dan pengamannya sangat baik!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#DestecGas",
+    "#RegulatorGas",
+    "#AntiBocor",
+    "#KitchenHacks",
+    "#BelanjaOnline",
+    "#HematCuan",
+    "#MasakNyaman",
+    "#FindingId"
+  ],
+  "product_id": 88308,
+  "product_title": "Kepala Gas / Regulator Gas Destec Tekanan Rendah Meter 201M/ Auto 201S / COM - U12R / U12RM BLACK",
+  "product_price": "87700.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/88308.jpg",
+    "/uploads/products/88308_1.jpg",
+    "/uploads/products/88308_2.jpg",
+    "/uploads/products/88308_3.jpg",
+    "/uploads/products/88308_4.jpg",
+    "/uploads/products/88308_5.jpg",
+    "/uploads/products/88308_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/88308",
+  "generated_at": "2026-03-14T04:30:09.615Z"
+}

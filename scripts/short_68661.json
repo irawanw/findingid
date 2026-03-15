@@ -1,0 +1,75 @@
+{
+  "title": "Set Kimono Bayi Terlaris! Murah Banget 🍼",
+  "hook_text": "Bayi Pake Ini Jadi Bintang Utama!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up baby tersenyum pakai kimono LITTLE JENNA dengan pencahayaan natural",
+      "narration": "Bayi kamu bakal auto photogenic pake outfit ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilan produk flat lay menunjukkan semua isi set lengkap",
+      "narration": "Kenalin nih, LITTLE JENNA Set Kimono lengkap yang lagi viral. --- Isinya lengkap, ada kimono, mitten, booties, sampai knot hat."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi angka harga muncul besar dengan efek pop-up",
+      "narration": "Harganya cuma sembilan puluhan ribu doang! Literally worth it banget buat newborn."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase bahan kain halus dan detail jahitan close-up",
+      "narration": "Bahannya super lembut, nggak bikin iritasi. --- Modelnya ala kimono karate tapi tetep earth tone simple elegant. Fiturnya next level. --- Bahan adem dan nyaman. Nggak bakal bikin bayi panas."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu sedang memakaikan set pada bayi sambil tunjuk size chart",
+      "narration": "Perfect buat kamu yang mau foto newborn estetik. --- Tip: Order sesuai berat badan ya, jangan sampe kekecilan karena kadang ukurannya agak kecil."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Animasi bintang rating 4.91 dan teks ulasan muncul",
+      "narration": "Udah 20 ribu terjual, rating 4.91 bintang. --- Yang udah beli bilang 'warnanya cakep banget, netral, sesuai ekspektasi'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan jari menunjuk ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cari detail lengkapnya? Cek finding dot id ya bestie!",
+  "hashtags": [
+    "#LittleJenna",
+    "#KimonoBayi",
+    "#OOTDBayi",
+    "#NewbornPhotography",
+    "#BundaGenZ",
+    "#RekomendasiBayi",
+    "#ViralProduk",
+    "#FindingID"
+  ],
+  "product_id": 68661,
+  "product_title": "LITTLE JENNA - Set Complete Kimono Baby Colourfull (Kimono, Mitten&booties, Knot Hat, Swaddle)",
+  "product_price": "91500.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/68661",
+  "generated_at": "2026-03-13T18:22:42.419Z"
+}

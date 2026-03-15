@@ -1,0 +1,83 @@
+{
+  "title": "Jeans Premium Cuma Enam Puluh Ribu?!",
+  "hook_text": "Jeans Premium Cuma 60 Ribu?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kaget memegang celana jeans dengan tag harga di latar belakang blur.",
+      "narration": "Sumpah bestie, jeans premium cuma enam puluhan ribu?!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memutar badan menunjukkan detail pinggang dan bahan celana dengan pencahayaan cinematic.",
+      "narration": "Kenalin nih AF High Waist Kulot Jeans, material denim tebal tapi soft banget. --- Bahannya nggak gampang luntur."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan harga '60 RIBU' dengan efek kilau.",
+      "narration": "Harganya? Cuma enam puluhan ribu doang. --- Which is worth it banget buat kualitas sekelas ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail pinggang karet ditarik, resleting dibuka, dan model duduk santai.",
+      "narration": "Fiturnya literally next level! Pinggang belakang karet elastis banget, bisa melar sampai seratus lima belas sentimeter. Ada ukuran Jumbo khusus buat berat badan tujuh puluh lima kilo. Resleting YKK besi anti-slip, no cap awet banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase model pakai celana untuk aktivitas jalan kaki, duduk di cafe, dan naik motor.",
+      "narration": "Perfect buat kamu yang suka gaya Korea atau retro. Cocok buat daily wear, kuliah, atau santai di rumah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.81 dan jumlah terjual di aplikasi e-commerce.",
+      "narration": "Udah delapan puluh ribu produk terjual dengan rating empat koma delapan satu. Yang udah beli bilang 'Bahan terasa sejuk dan warna sangat bagus'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah menunjuk ke arah link finding dot id dengan teks besar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk ada di sana!",
+  "hashtags": [
+    "#kulotjeans",
+    "#fashionwanita",
+    "#jeansmurah",
+    "#stylekorea",
+    "#outfitkuliah",
+    "#findingshop",
+    "#viralproduct",
+    "#ootd"
+  ],
+  "product_id": 115601,
+  "product_title": "AF HIGWAITSHIGH WAIST KULOT JEANS WANITA PREMIUM ASLI JEANS TEBAL",
+  "product_price": "64998.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/115601.jpg",
+    "/uploads/products/115601_1.jpg",
+    "/uploads/products/115601_2.jpg",
+    "/uploads/products/115601_3.jpg",
+    "/uploads/products/115601_4.jpg",
+    "/uploads/products/115601_5.jpg",
+    "/uploads/products/115601_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/115601",
+  "generated_at": "2026-03-13T21:55:06.820Z"
+}

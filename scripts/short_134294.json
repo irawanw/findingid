@@ -1,0 +1,96 @@
+{
+  "title": "Celana Jogger Premium Cuma 100 Ribuan?",
+  "hook_text": "GAK PERCAYA HARGA SEMURAH INI?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up celana jogger dengan teks overlay harga besar di layar",
+      "narration": "Nggak percaya ini cuma 100-an ribuan doang dong, bestie?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model sedang memakai celana jogger sambil menunjukkan bahan yang melar",
+      "narration": "Ini Celana Jogger Premium Grade Ori, nih. Bahan polyester melar yang bikin keringat langsung kering, which is super important buat kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga seratus dua puluhan sampe tiga puluhan muncul dengan efek kilat",
+      "narration": "Harganya cuma di kisaran seratus dua puluhan sampe tiga puluhan doang. Bandingin sama kualitas premium kayak gini, literally worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail close-up kantong zip, tali pinggang, dan logo hologram",
+      "narration": "Fiturnya next level nih. Desain slimfit sporty, kantong berresleting praktis, tali pinggang tebal. Logo hologram bikin eksklusif. --- Jahitan rapi banget, no cap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang lari santai di outdoor dan duduk santai di cafe",
+      "narration": "Perfect buat yang suka olahraga indoor, pelari santai, atau cuma mau tampil kasual sporty tanpa bikin dompet jebol. Ukuran variatif, pas di tubuh."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.84 dan counter jumlah penjualan 40k",
+      "narration": "Rating 4,84 bintang udah dibuktiin sama 40 ribu pembeli. Yang udah beli bilang, 'Baru kali ini belanja melebihi ekspektasi, kainnya nggak tipis banget kayak di toko lain'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di layar dengan panah menunjuk ke arah link",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, detail produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya",
+  "hashtags": [
+    "#celanajogger",
+    "#fashionmurah",
+    "#ootdindonesia",
+    "#viralproduct",
+    "#findingid",
+    "#sportswear",
+    "#promokeren",
+    "#genz"
+  ],
+  "product_id": 134294,
+  "product_title": "Celana Jogger Branded Grade Ori / Celana Training Import / Celana Joger Premium",
+  "product_price": "127500.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/134294.jpg",
+    "/uploads/products/134294_1.jpg",
+    "/uploads/products/134294_2.jpg",
+    "/uploads/products/134294_3.jpg",
+    "/uploads/products/134294_4.jpg",
+    "/uploads/products/134294_5.jpg",
+    "/uploads/products/134294_6.jpg",
+    "/uploads/products/134294_7.jpg",
+    "/uploads/products/134294_8.jpg",
+    "/uploads/products/134294_9.jpg",
+    "/uploads/products/134294_10.jpg",
+    "/uploads/products/134294_11.jpg",
+    "/uploads/products/134294_12.jpg",
+    "/uploads/products/134294_13.jpg",
+    "/uploads/products/134294_14.jpg",
+    "/uploads/products/134294_15.jpg",
+    "/uploads/products/134294_16.jpg",
+    "/uploads/products/134294_17.jpg",
+    "/uploads/products/134294_18.jpg",
+    "/uploads/products/134294_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/134294",
+  "generated_at": "2026-03-13T18:49:08.733Z"
+}

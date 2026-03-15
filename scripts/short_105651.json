@@ -1,0 +1,91 @@
+{
+  "title": "Skintific Mist SPF 50 Murah Meriah? Cek Di Sini!",
+  "hook_text": "Gak percaya ini cuma 80 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot produk dengan efek kilau di latar gelap.",
+      "narration": "Nggak percaya produk viral ini cuma delapan puluhan ribu?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan memegang botol spray, demonstrasi semprot ke udara.",
+      "narration": "Kenalin nih Skintific All Day Light Mist, sunscreen spray literally next level! --- Spray mikrokapsul 0.01nm super halus, nggak bikin makeup luntur."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek wow.",
+      "narration": "Buat harga, kamu bakal shock karena cuma delapan puluhan ribuan aja!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen show tekstur cair dan hasil di kulit wajah.",
+      "narration": "Tekstur invisible dan nggak ngejat di wajah. --- SPF 50 PA++++ tahan 16 jam, plus ada Ceramide buat skin barrier. Nggak ada white cast, bestie! Cocok banget buat kulit berminyak."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model wanita sedang beraktivitas outdoor sambil pakai topi.",
+      "narration": "Perfect buat kamu yang kulitnya berminyak atau sering banget traveling."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 5 dan jumlah terjual 200rb.",
+      "narration": "Total udah terjual 200 ribu produk dengan rating 4.91. --- Yang udah beli bilang, 'Nempol banget kualitasnya'. Tapi hati-hati ya, buat kulit sensitif yang lagi break out parah, tes dulu biar aman."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah menunjuk ke kanan bawah.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, ada review produknya di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, ada review produknya di sana!",
+  "hashtags": [
+    "#Skintific",
+    "#SunscreenMist",
+    "#SkincareIndonesia",
+    "#MakeupTips",
+    "#SunscreenSPF50",
+    "#KulitBerminyak",
+    "#ViralProduct",
+    "#FindingID"
+  ],
+  "product_id": 105651,
+  "product_title": "SKINTIFIC – All Day Light Sunscreen Mist SPF 50 PA++++ 120ml | Sunscreen Spray Wajah & Tubuh | Perlindungan UVA & UVB| Cocok untuk Kulit Berminyak & Semua Jenis Kulit | Sunscreen Praktis untuk Traveling & Aktivitas Outdoor | Mencerahkan & Melindungi Kulit",
+  "product_price": "264000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/105651.jpg",
+    "/uploads/products/105651_1.jpg",
+    "/uploads/products/105651_2.jpg",
+    "/uploads/products/105651_3.jpg",
+    "/uploads/products/105651_4.jpg",
+    "/uploads/products/105651_5.jpg",
+    "/uploads/products/105651_6.jpg",
+    "/uploads/products/105651_7.jpg",
+    "/uploads/products/105651_8.jpg",
+    "/uploads/products/105651_9.jpg",
+    "/uploads/products/105651_10.jpg",
+    "/uploads/products/105651_11.jpg",
+    "/uploads/products/105651_12.jpg",
+    "/uploads/products/105651_13.jpg",
+    "/uploads/products/105651_14.jpg"
+  ],
+  "product_link": "https://finding.id/p/105651",
+  "generated_at": "2026-03-13T16:47:58.011Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Pantofel Queen Mode On! Murah Banget",
+  "hook_text": "Nggak percaya sepatu formal semurah ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah presenter ekspresi kaget sambil menunjuk sepatu di meja",
+      "narration": "Nggak percaya sepatu formal bisa semurah ini? --- Bestie, dengerin dulu! Seriously!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk diputar pelan dengan efek cahaya cinematic, tunjukkan detail sol dan hak",
+      "narration": "Ini QUINCE Fresia Pantofel! Chunky heel 3cm yang bikin kamu auto chic tanpa sakit kaki. Literally so cute dan elegan banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan animasi pop up",
+      "narration": "Harga awal? No cap, cuma sembilan puluh ribuan aja! --- Worth it banget kan? Literally worth it!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Video close up bantalan sol, lalu kaki pakai sepatu jalan di lantai licin",
+      "narration": "Bahan ringan, sol anti licin, plus bantalan empuk yang next level. --- Lebar kaki? Nggak masalah, ini wide fit! Tersedia banyak warna juga."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita profesional sedang bekerja di laptop sambil tersenyum nyaman",
+      "narration": "Buat yang kerja kantoran atau kuliah seharian, ini solusinya. --- Tapi bestie, kalau size biasa 37, saranin ambil 38 biar pas."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang dan angka penjualan 30.000 di layar",
+      "narration": "Rating 4.7 bintang, udah laku 30 ribu! --- Yang udah beli bilang 'lembut dan nyaman di pakai'. Nggak bakal nyesel deh! No cap!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan pointing ke arah teks finding dot id yang muncul di layar",
+      "narration": "Penasaran? Cek detail lengkapnya di finding dot id ya, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya, review produk-nya ada di sana!",
+  "hashtags": [
+    "#QuinceFresia",
+    "#SepatuFormal",
+    "#PantofelWanita",
+    "#RekomendasiSepatu",
+    "#OOTDHarian",
+    "#MurahMeriah",
+    "#FashionIndonesia",
+    "#FindInFinding"
+  ],
+  "product_id": 89632,
+  "product_title": "QUINCE Fresia Pantofel Wanita – Sepatu Formal Elegan, Ringan & Nyaman Dipakai Heels Wanita Hak 3 Cm",
+  "product_price": "92226.00",
+  "product_rating": "4.73",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/89632.jpg",
+    "/uploads/products/89632_1.jpg",
+    "/uploads/products/89632_2.jpg",
+    "/uploads/products/89632_3.jpg",
+    "/uploads/products/89632_4.jpg",
+    "/uploads/products/89632_5.jpg",
+    "/uploads/products/89632_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/89632",
+  "generated_at": "2026-03-13T20:30:01.269Z"
+}

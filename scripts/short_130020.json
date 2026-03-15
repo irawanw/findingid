@@ -1,0 +1,83 @@
+{
+  "title": "Flashdisk Robot? Ini Gila Banget! 🤖💾",
+  "hook_text": "Beli flashdisk yang bisa berputar?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan memegang flashdisk robot yang sedang berputar 360 derajat dengan gerakan dramatis.",
+      "narration": "Beli flashdisk yang bisa berputar tiga ratus enam puluh derajat? No cap, ini literally too cool!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk [HWARTZ] ROBOT Flashdisk dari berbagai sudut, tunjukkan desain metal matte dan bentuk unik.",
+      "narration": "Kenalan yuk sama [HWARTZ] ROBOT Flashdisk. Desainnya made of matte metal dan rubber paint, jadi nggak cuma kuat tapi juga super durable."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga muncul di layar besar dengan efek 'boom', lalu transisi ke tumpukan flashdisk berbagai kapasitas.",
+      "narrataion": "Gak percaya ya? Harganya cuma empat puluh lima ribuan sampai tujuh puluh dua ribuan. Which is worth it banget untuk kualitas aslinya!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: 1. Flashdisk dicelup ke air/turunin (shockproof), 2. Dilumasi debu (dustproof), 3. Ditancapkan ke HP/Laptop (plug and play), 4. Speedometer digital muncul (10M/S read).",
+      "narration": "Fiturnya next level bestie! Pertama, shockproof dan dustproof, jadi aman banget kalau jatuh atau kotor. Kedua, plug and play, langsung bisa dipakai di HP atau laptop tanpa ribet. Ketiga, speednya ngebut, read speed lebih dari sepuluh megarit per detik, jadi transfer data nggak bikin nunggu lama."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Mahasiswa lagi ngerjain tugas mendadak, anak kost lagi mau download lagu, dan gamer mau save file game.",
+      "narration": "Perfect buat yang sering bawa-bawa file penting di dompet atau tas kecil. Kalau kamu anak kost yang butuh tempat backup lagu dan tugas mendadak, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.86 dan angka '20.000+' terjual dengan animasi confetti.",
+      "narration": "Rating empat koma delapan enam dan sudah dua puluh ribu produk terjual. Yang udah beli bilang, 'Lumaya' dan 'pengiriman cepat banget'!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan efek neon, teks 'Cek Sekarang' berkedip.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#FlashdiskRobot",
+    "#GadgetGenZ",
+    "#ReviewProduk",
+    "#FindingDotId",
+    "#TechViral",
+    "#DiskonMurah",
+    "#FlashdiskOriginal",
+    "#GadgetMurah"
+  ],
+  "product_id": 130020,
+  "product_title": "[HWARTZ] ROBOT Flashdisk 4GB 8GB 16GB 32GB / FlashDrive RF104 RF108 RF116 RF132 USB Drive Original - Garansi Resmi 1 Tahun",
+  "product_price": "45000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/130020.jpg",
+    "/uploads/products/130020_1.jpg",
+    "/uploads/products/130020_2.jpg",
+    "/uploads/products/130020_3.jpg",
+    "/uploads/products/130020_4.jpg",
+    "/uploads/products/130020_5.jpg",
+    "/uploads/products/130020_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/130020",
+  "generated_at": "2026-03-14T18:16:36.298Z"
+}

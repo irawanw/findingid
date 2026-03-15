@@ -1,0 +1,83 @@
+{
+  "title": "Lifebuoy 4 Botol Cuma 100 Ribu? Worth It!",
+  "hook_text": "Sabun Mandi Cuma 100 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up produk Lifebuoy 4 botol dengan teks overlay besar muncul cepat",
+      "narration": "Penasaran sabun mandi 4 botol cuma seratus ribuan doang? --- No cap, ini beneran banget, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan kemasan 4 botol, zoom in ke label Mild Care",
+      "narration": "Ini nih Lifebuoy Mild Care varian 4 botol --- total 3200ml buat kebutuhan harian keluarga kamu! Stok aman!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga coret dan harga baru dengan efek koin jatuh",
+      "narration": "Harga normal bisa tembus 125 ribuan --- tapi sekarang lagi diskon 30%! Worth it banget, literally ya!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi busa sabun dan tekstur cair di tangan",
+      "narration": "Anti kuman 100% lebih kuat --- plus 10x Moisturizer biar kulit nggak kering. Busanya juga literally banyak, lembut, dan wangi tahan lama banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Tunjukkan keluarga sedang mandi bersama atau kulit bersih",
+      "narration": "Perfect buat keluarga besar yang butuh stok aman --- atau kamu yang kulitnya sensitif banget. Aman dari BPOM juga, jadi no worry sama kesehatan!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.95 dan counter penjualan 20k",
+      "narration": "Ratingnya 4.95, udah terjual 20.000 produk! --- Yang udah beli bilang, pengiriman cepat dan harga murah banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilkan logo finding.id dan panah menunjuk ke arah kanan",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana, jangan lupa!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#Lifebuoy",
+    "#SabunMandi",
+    "#HematBanget",
+    "#FindingsDotId",
+    "#RacunShopee",
+    "#TipsHemat",
+    "#FamilyCare",
+    "#NoCap"
+  ],
+  "product_id": 48131,
+  "product_title": "[LEBIH HEMAT 30%] Lifebuoy Sabun Mandi Cair Anti Bacterial Body Wash Mild Care 100% Lebih Kuat Lawan Kuman Berbahaya & 10x Moisturizer 800ml x 4",
+  "product_price": "103800.00",
+  "product_rating": "4.95",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/48131.jpg",
+    "/uploads/products/48131_1.jpg",
+    "/uploads/products/48131_2.jpg",
+    "/uploads/products/48131_3.jpg",
+    "/uploads/products/48131_4.jpg",
+    "/uploads/products/48131_5.jpg",
+    "/uploads/products/48131_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/48131",
+  "generated_at": "2026-03-13T19:45:33.473Z"
+}

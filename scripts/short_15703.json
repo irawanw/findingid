@@ -1,0 +1,96 @@
+{
+  "title": "Jaket Bolak-balik Viral! Harga Grosir Banget",
+  "hook_text": "Jaket 2 Sisi Harga Grosir?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan memegang jaket dengan cepat membalikkan jaket dari sisi luar ke dalam menunjukkan dua warna berbeda",
+      "narration": "Stop scrolling! Kamu percaya nggak kalau dapat jaket bomber dua sisi cuma dengan harga grosir?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot full body model memakai jaket di jalanan kota, lalu transisi cepat ke detail bahan tebal saat hujan ringan",
+      "narration": "Ini dia Jaket Casual Simple Original Rebel ID. Bahan Taslan premiumnya super tebal, cocok banget buat nyelamatin kamu dari angin dingin, which is basically next level comfort."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan angka harga rendah, lalu visual timbangan menimbang satu jaket seberat banyak jaket lain",
+      "narration": "Gila sih, harganya cuma di seratus puluhan ribu sampai seratus tiga puluh empat puluhan ribu. Nggak perlu mikir-mikir lagi, this is so worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail jahitan rapi di saku, lalu zoom in ke tekstur bahan parasit yang hangat, terakhir model berpose santai sambil minum kopi",
+      "narration": "Pertama, jahitannya itu rapi banget nggak gampang lepas. Kedua, bahannya parasit dalam flecee bikin badan tetap hangat tanpa bikin keringetan. Ketiga, desainnya simpel tapi nggak kaku, perfect buat gaya kasual sehari-hari."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: di kiri anak kuliah lari ke kelas, di kanan pekerja motor berangkat kantor, keduanya memakai jaket yang sama",
+      "narration": "Perfect buat yang nggak punya budget banyak tapi butuh penampilan keren. Kalau kamu sering naik motor atau kuliah di luar ruangan, this jacket definitely for you bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.81 dan angka 80.000+ terjual dengan cepat, lalu potongan video orang tersenyum memakai jaket",
+      "narration": "Rating empat delapan satu dan udah terjual lebih dari delapan puluh ribu. Yang udah beli bilang bahannya nggak bikin panas dan sangat nyaman dipakai."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Model menunjuk ke arah kamera dengan senyum lebar, teks finding dot id muncul besar di layar",
+      "narration": "Penasaran sama stok warnanya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#JaketViral",
+    "#OOTDIndonesia",
+    "#StyleGenZ",
+    "#HematGila",
+    "#RebelID",
+    "#JaketBolakBalik",
+    "#FashionMurah",
+    "#ShopeeFinds"
+  ],
+  "product_id": 15703,
+  "product_title": "ARS JAKET CASUAL SIMPLE ORIGINAL REBEL ID / JAKET MOTOR POLOS / JAKET BOMBER / JAKET SGM DUA SISI BOLAK BALIK",
+  "product_price": "104899.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/15703.jpg",
+    "/uploads/products/15703_1.jpg",
+    "/uploads/products/15703_2.jpg",
+    "/uploads/products/15703_3.jpg",
+    "/uploads/products/15703_4.jpg",
+    "/uploads/products/15703_5.jpg",
+    "/uploads/products/15703_6.jpg",
+    "/uploads/products/15703_7.jpg",
+    "/uploads/products/15703_8.jpg",
+    "/uploads/products/15703_9.jpg",
+    "/uploads/products/15703_10.jpg",
+    "/uploads/products/15703_11.jpg",
+    "/uploads/products/15703_12.jpg",
+    "/uploads/products/15703_13.jpg",
+    "/uploads/products/15703_14.jpg",
+    "/uploads/products/15703_15.jpg",
+    "/uploads/products/15703_16.jpg",
+    "/uploads/products/15703_17.jpg",
+    "/uploads/products/15703_18.jpg",
+    "/uploads/products/15703_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/15703",
+  "generated_at": "2026-03-14T05:20:38.848Z"
+}

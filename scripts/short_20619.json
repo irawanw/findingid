@@ -1,0 +1,84 @@
+{
+  "title": "Botol 900ml! Tahan Panas 14 Jam? Gila Banget!",
+  "hook_text": "Udara panas, tapi airnya tetap dingin 24 jam!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up botol yang dituangkan air panas dengan uap mengepul di tengah terik matahari, transisi cepat ke es batu yang masih utuh di dalamnya.",
+      "narration": "Udara lagi panas banget nih, tapi lo percaya gak? Air di dalam botol ini tetep dingin selama 24 jam, no cap bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot slow-motion botol ecentio Tumbler Stainless 900ml diputar-putar menunjukkan desain aesthetic, lalu close-up logo dan bahan metal.",
+      "narration": "Ini dia ecentio Tumbler Stainless 900ml, teman setia lo buat sekolah atau jalan-jalan. Desainnya aesthetic lucu, bahannya stainless steel 304 yang aman dan nggak berbau, literally worth it banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri harga Rp 178.000 dicoret merah, kanan harga Rp 135.000 bersinar emas dengan efek confetti.",
+      "narration": "Penasaran harganya? Awalnya lo pikir mahal, tapi ternyata harganya cuma seratus tiga puluhan ribu! Nah, kalau varian gift box atau warna tertentu bisa sampai seratus tujuh puluhan delapan ribu, tapi tetap super murah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "1. Tangan melipat sedotan. 2. Tangan membuka tutup flip. 3. Time-lapse uap panas dan es mencair perlahan.",
+      "narration": "Fiturnya next level bro! Pertama, ada sedotan yang bisa dilipat jadi praktis. Kedua, tutupnya flip jadi bisa minum langsung tanpa ribet. Terakhir, insulasinya gila banget, tahan panas 14 jam dan dingin 24 jam, basically magic!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage: anak laki-laki membawa botol ke sekolah, anak perempuan minum kopi sore di taman, dan orang kerja minum air di kantor.",
+      "narration": "Perfect buat yang aktivitasnya banyak gerak, kayak anak sekolah atau yang suka nugas di luar. Kalau lo sering bawa kopi panas atau air dingin seharian, botol ini solusi terbaik buat lo, bestie!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.9 bintang di layar dengan angka terjual 70.000 muncul besar, lalu teks quote muncul di bawahnya.",
+      "narration": "Belum percaya? Cek rating 4.9 dari tujuh puluh ribu orang yang udah beli bilang, 'Top markotop, kualitas barang jgn diragukan!'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah menunjuk ke bawah ke tulisan 'finding dot id' dengan musik upbeat.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek review lengkap di finding dot id!",
+  "hashtags": [
+    "#EcentioTumbler",
+    "#BotolAesthetic",
+    "#GenZMustHave",
+    "#WaterBottleViral",
+    "#SchoolEssentials",
+    "#ThermosCool",
+    "#ProdukViral",
+    "#FindingId"
+  ],
+  "product_id": 20619,
+  "product_title": "ecentio Tumbler Stainless 900ml Portable Thermos Botol Minum Besar Dengan Tas Tahan Panas Dingin 24 Jam Aesthetic Lucu Termos Air Panas Kopi Dengan Sedotan Cocok Untuk Sekolah Anak Laki-Laki",
+  "product_price": "135000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/20619.jpg",
+    "/uploads/products/20619_1.jpg",
+    "/uploads/products/20619_2.jpg",
+    "/uploads/products/20619_3.jpg",
+    "/uploads/products/20619_4.jpg",
+    "/uploads/products/20619_5.jpg",
+    "/uploads/products/20619_6.jpg",
+    "/uploads/products/20619_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/20619",
+  "generated_at": "2026-03-15T05:30:14.644Z"
+}

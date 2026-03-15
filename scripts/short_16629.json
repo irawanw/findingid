@@ -1,0 +1,83 @@
+{
+  "title": "Reed Diffuser Wangi Mewah, Cuma Seratusan Ribuan!",
+  "hook_text": "Ruangan bau apek? Gak bakal deh!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up ruangan gelap berantakan yang tiba-tiba terangkat jadi estetik saat diffuser dinyalakan",
+      "narration": "Stop scroll! Udah capek banget sama ruangan yang ngebuang wangi mahal tapi masih ada aroma apek?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke MAYSCENT Reed Diffuser 100ml dengan latar belakang kamar mandi atau ruang tamu minimalis",
+      "narration": "Kenalin guys, ini MAYSCENT Reed Diffuser satu seterseratus. literally next level buat ngasih vibe premium ke kamar mandi, kos, atau hotel kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 103.125 membesar dengan efek neon, lalu muncul teks 'Wangi Awet' dan 'Anti Mual'",
+      "narration": "Gila sih bestie, harganya cuma seratusan ribuan doang, tapi dapet wangi awetan dan anti mual seharga produk impor? Which is worth it banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: a) Cairan hitam estetik di botol, b) Batang reed berdiri tegak, c) Wajah orang terlihat rileks",
+      "narration": "Pertama, desain warna hitamnya super estetik bikin nuansa room jadi mewah. Kedua, wanginya fresh dan sweet soft, nggak bikin pusing. Ketiga, tahan lama banget, no cap bisa ngatur suasana hati kamu seharian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: sisi kiri orang tidur di kamar kos, sisi kanan orang mandi di kamar mandi hotel",
+      "narration": "Perfect buat kamu yang sering banget pulang kerja pengen langsung relax, atau kamu yang lagi cari solusi biar kamar mandi nggak bau apek pas tamu datang."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.89/5 dan angka 30.000, lalu muncul teks kutipan review",
+      "narration": "Gak main-main, rating empat koma delapan sembilan dari tiga puluh ribu produk terjual. Yang udah beli bilang 'beneran bikin wangi ruangan' dan 'relaxing banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi teks 'Cek di finding dot id' dengan tombol bel yang bergetar",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#Mayscent",
+    "#ReedDiffuser",
+    "#Aromaterapi",
+    "#HomeDecor",
+    "#KamarMandiEstetik",
+    "#ViralShorts",
+    "#WangiAwet",
+    "#FindingId"
+  ],
+  "product_id": 16629,
+  "product_title": "MAYSCENT Reed Diffuser 100ml - AROMATERAPI, PENGHARUM, PEWANGI RUANGAN & KAMAR, KOS, APARTEMEN, HOTEL, VILLA, KAMAR MANDI PREMIUM ESTETIK WARNA HITAM, WANGI AWET TAHAN LAMA, ANTI MUAL, MENGHILANGKAN BAU APEK",
+  "product_price": "103125.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/16629.jpg",
+    "/uploads/products/16629_1.jpg",
+    "/uploads/products/16629_2.jpg",
+    "/uploads/products/16629_3.jpg",
+    "/uploads/products/16629_4.jpg",
+    "/uploads/products/16629_5.jpg",
+    "/uploads/products/16629_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/16629",
+  "generated_at": "2026-03-14T17:50:38.759Z"
+}

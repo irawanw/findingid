@@ -1,0 +1,83 @@
+{
+  "title": "Tas Ransel Anti Air? Cocok Buat Kamu!",
+  "hook_text": "STOP! Jangan beli tas ransel dulu!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah narator ekspresi serius sambil ngelirik tas, lalu transisi cepat ke shot tas hitam dipegang.",
+      "narration": "Ada yang bilang, 'Emang boleh beli empat?' Ada yang bilang, 'Ketiak jadi kering!'"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot full body model wanita pakai tas hitam jalan santai di mall atau kampus, close up detail tali dan resleting.",
+      "narration": "Tenang bestie, oles tipis saja ya! Ini tas ransel wanita fashion backpack anti air hitam yang literally so cute dan super stylish banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay muncul besar 'Harga Lima Puluh Empat Puluh-an Ribu' sambil tunjuk tas, lalu transisi efek uang melayang.",
+      "narration": "Gila sih, harga cuma lima puluh empat puluhan ribu an! Which is worth it banget buat kualitas sekelas ini, no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot slow motion air dituang ke tas (anti air), shot tangan memasukkan buku laptop dan botol minum (kapasitas besar), shot model senyum (bahan berkualitas).",
+      "narration": "Pertama, bahannya nilon anti air, which is basically next level buat hari hujan. Kedua, kapasitasnya super besar, bisa masuk laptop dan barang-barang lain. Terakhir, bahannya berkualitas dan desainnya menarik banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage: cewek pakai tas untuk ke kampus, jalan-jalan sore, dan nongkrong dengan gaya santai.",
+      "narration": "Perfect buat kamu yang sering jalan-jalan atau kuliah. Kalau aktivitas kamu butuh tas yang kepraktisan dan estetikanya nggak boleh kalah, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.85 dan angka terjual 20.000, lalu close up screenshot chat pembeli.",
+      "narration": "Pembelinya pada ngomong, 'Sangat bagus, barang sesuai sama yang dipesan'. Ratingnya 4.85 lima dan sudah terjual dua puluh ribu produk!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Narator melambaikan tangan ke kamera sambil menunjuk ke arah bawah layar atau teks finding.id muncul besar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#TasRanselWanita",
+    "#FashionBackpack",
+    "#AntiAir",
+    "#StylishLook",
+    "#BelanjaCekak",
+    "#KuliahStyle",
+    "#TasMurahMurahan",
+    "#FindingDotId"
+  ],
+  "product_id": 100009,
+  "product_title": "Tas Ransel Wanita Fashion Backpack Anti Air Hitam - Modis dan Stylish",
+  "product_price": "54089.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100009.jpg",
+    "/uploads/products/100009_1.jpg",
+    "/uploads/products/100009_2.jpg",
+    "/uploads/products/100009_3.jpg",
+    "/uploads/products/100009_4.jpg",
+    "/uploads/products/100009_5.jpg",
+    "/uploads/products/100009_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100009",
+  "generated_at": "2026-03-14T22:23:14.052Z"
+}

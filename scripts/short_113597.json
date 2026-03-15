@@ -1,0 +1,82 @@
+{
+  "title": "Koper Cabin Size Murah Banget! Cek Ini Bestie ✈️",
+  "hook_text": "Koper goresan mulus?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up koper dijemur lalu ditunjukkan area yang ada goresan kecil dengan ekspresi wajah bingung.",
+      "narration": "Banyak yang bilang nih koper ini tampilannya terlalu banyak goresan sampai nggak mulus. Tenang bestie, itu cuma efek packaging dulu kok."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke koper terlihat bersih dan berkilau di dalam ruangan terang, zoom in ke tekstur ABS.",
+      "narration": "Ini Koper L212 cabin size bahan ABS yang kualitasnya literally next level. Dibuat super kuat, nggak gampang pecah, which is worth it banget buat kamu yang sering traveling."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar sambil menunjukkan koper lengkap dengan kunci kombinasi angka acaknya.",
+      "narration": "Gak perlu nguras dompet, kamu bisa dapetnya cuma seratus delapan puluhan ribu. Nggak percaya? Bandingin sama kualitasnya, ini basically deal of the century."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Koper dibuka menunjukkan ruang dalam yang rapi. 2. Menampilkan kunci kombinasi angka. 3. Menaruh barang kecil di tas kecil tambahan.",
+      "narration": "Pertama, bahan ABS bikin koper ini tahan banting dan nggak gampang lecet. Kedua, dilengkapi kunci kombinasi angka acak yang bikin kamu lebih aman dan tenang. Ketiga, ada tas kecil tambahan di dalamnya yang super berguna buat nyimpen barang kecil atau skincare kamu pas healing."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage seseorang sedang bersiap di bandara atau sedang mengecek isi koper dengan senyum puas.",
+      "narration": "Perfect buat yang aktivitasnya sering naik pesawat atau mau liburan bareng keluarga. Kalau kamu butuh koper yang ringkas tapi awet, ini solusinya dong."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.88 dan angka 20.000 terjual, lalu muncul teks kutipan pembeli di layar.",
+      "narration": "Pembelinya pada ngomong sih bagus bagus bagus dan cepet banget dikirim jadi bisa langsung dipake healing. Nggak ada komplain serius kok."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul dengan tombol beli berdenyut, host melambaikan tangan ke kamera.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#KoperMurah",
+    "#TravelBag",
+    "#BeautyCase",
+    "#KoperCabinSize",
+    "#ViralShopee",
+    "#TravelEssentials",
+    "#ShoppingHacks",
+    "#FindingId"
+  ],
+  "product_id": 113597,
+  "product_title": "KOPER 20 INCH CABIN SIZE KOPER ABS KOPER CABIN SET BEAUTY CASE KUNCI KOMBINASI ANGKA ACAK - L212",
+  "product_price": "205000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/113597.jpg",
+    "/uploads/products/113597_1.jpg",
+    "/uploads/products/113597_2.jpg",
+    "/uploads/products/113597_3.jpg",
+    "/uploads/products/113597_4.jpg",
+    "/uploads/products/113597_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/113597",
+  "generated_at": "2026-03-14T08:37:52.290Z"
+}

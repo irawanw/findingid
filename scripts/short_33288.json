@@ -1,0 +1,83 @@
+{
+  "title": "Covenant AP-05: Pembersih Udara Murah?",
+  "hook_text": "Udara di Kamar Pengap?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah panik lihat udara, lalu transisi cepat ke produk Covenant AP-05.",
+      "narration": "Udara di kamar berasa pengap? Stop scroll dulu bestie! --- Nih solusinya."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Covenant AP-05 diputar 360 derajat, animasi filter HEPA terlihat.",
+      "narration": "Covenant Air Purifier AP-05. Pake True HEPA Filter tangkap partikel 0,3 mikron sampe PM2.5."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga '400k++' muncul dengan efek koin jatuh.",
+      "narration": "Harganya? Cuma empat ratusan ribuan doang! Worth it buat kantong pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tunjukkan remote control, indikator sensor suhu, dan tombol timer.",
+      "narration": "Filter H13 3 lapis, power cuma 35-45 watt. Ada sensor suhu, timer, plus remote control. Nggak perlu bangun buat matikan. No cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Animasi ruangan 35-45m2 dengan tanda centang dan silang.",
+      "narration": "Pas buat kamar 35-45 meter persegi. Kalau luas banget, mungkin kurang efektif. Jadi sesuaikan dulu ukurannya ya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 4.89, angka 20.000 terjual, dan screenshot chat pembeli.",
+      "narration": "Rating 4,89 dari 20.000 terjual! Yang udah beli bilang, 'Pasang timer biar nggak kelupaan matikan'. Sepadan harganya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id besar di tengah layar dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran detail? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#CovenantAP05",
+    "#AirPurifier",
+    "#PembersihUdara",
+    "#GadgetMurah",
+    "#RacunShopee",
+    "#HealthHacks",
+    "#GenZIndonesia",
+    "#FindingID"
+  ],
+  "product_id": 33288,
+  "product_title": "Covenant Air Purifier AP-05 Pembersih Udara Dengan Hepa Filter",
+  "product_price": "420957.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/33288.jpg",
+    "/uploads/products/33288_1.jpg",
+    "/uploads/products/33288_2.jpg",
+    "/uploads/products/33288_3.jpg",
+    "/uploads/products/33288_4.jpg",
+    "/uploads/products/33288_5.jpg",
+    "/uploads/products/33288_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/33288",
+  "generated_at": "2026-03-13T22:58:30.510Z"
+}

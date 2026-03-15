@@ -1,0 +1,95 @@
+{
+  "title": "Waistbag Anti Air? Cek Ini Bestie!",
+  "hook_text": "Tas pinggang anti air?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up shot hand mengepel tas pinggang dengan air langsung, air memantul tanpa meresap.",
+      "narration": "Tas pinggang anti air? No cap, ini literally next level bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat model pria gaya street fit menggunakan waistbag Polo Amstar Devenity 3.0 di berbagai sudut kota.",
+      "narration": "Ini Devenity 3.0 dari Polo Amstar. Desainnya sporty banget, which is worth it kalau kamu suka gaya casual tapi tetap aman dari cipratan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar: 'Satu Jutaan' disusul gambar stiker 'Best Deal' dan animasi panah.",
+      "narration": "Gila sih harganya cuma satu jutaan doang! Dibanding kualitasnya yang full waterproof, ini definitely worth it banget ya guys."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Zoom in tekstur bahan karet, 2. Close up resleting yang digeser, 3. Model melompat atau bergerak aktif tas tetap rapi.",
+      "narration": "Pertama, bahannya Rubber Fabric yang bikin tas super lembut di kulit dan nggak gampang lecet. Kedua, resletingnya juga pakai karet anti karat jadi nggak gampang macet. Ketiga, full waterproof beneran, jadi kalau lagi hujan atau kena cipratan, isinya aman sentosa."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario split: Kiri, pria lari pagi atau jalan gym. Kanan, pria traveling naik motor di tengah kota.",
+      "narration": "Perfect buat kamu yang sering olahraga, traveling, atau cuma suka jalan-jalan santai. Kalau aktivitasmu sering kena cuaca atau butuh tangan kosong, ini must have dong!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan angka '4.83/5' dan '20.000 Terjual' dengan efek berkedip, lalu muncul bubble chat pembeli.",
+      "narration": "Rating empat koma delapan tiga dan sudah dua puluh ribu terjual. Pembelinya pada ngomong bahannya lembut banget dan nggak kebasahan sama sekali."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol animasi besar dengan tulisan 'Cek Finding Dot ID' dan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#PoloAmstar",
+    "#Devenity30",
+    "#Waistbag",
+    "#AntiAir",
+    "#TasPinggangPria",
+    "#StreetStyle",
+    "#Fashion Pria",
+    "#FindingID"
+  ],
+  "product_id": 4049,
+  "product_title": "Waistbag Waterproof Devenity 3.0 Polo Amstar Slingbag Sporty Tas Selempang Pinggang Pria Anti Air",
+  "product_price": "59990.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/4049.jpg",
+    "/uploads/products/4049_1.jpg",
+    "/uploads/products/4049_2.jpg",
+    "/uploads/products/4049_3.jpg",
+    "/uploads/products/4049_4.jpg",
+    "/uploads/products/4049_5.jpg",
+    "/uploads/products/4049_6.jpg",
+    "/uploads/products/4049_7.jpg",
+    "/uploads/products/4049_8.jpg",
+    "/uploads/products/4049_9.jpg",
+    "/uploads/products/4049_10.jpg",
+    "/uploads/products/4049_11.jpg",
+    "/uploads/products/4049_12.jpg",
+    "/uploads/products/4049_13.jpg",
+    "/uploads/products/4049_14.jpg",
+    "/uploads/products/4049_15.jpg",
+    "/uploads/products/4049_16.jpg",
+    "/uploads/products/4049_17.jpg",
+    "/uploads/products/4049_18.jpg"
+  ],
+  "product_link": "https://finding.id/p/4049",
+  "generated_at": "2026-03-15T04:15:25.497Z"
+}

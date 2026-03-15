@@ -1,0 +1,83 @@
+{
+  "title": "Setelan Anak Ganteng Cuma Seratusan Ribu?",
+  "hook_text": "Gak Percaya Cuma Seratus Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up anak pakai setelan pastel sambil senyum ke kamera",
+      "narration": "Kalian yakin ini cuma seharga secangkir kopi?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Zoom out tunjukkan setelan lengkap kaos dan celana chinos",
+      "narration": "Ini Setelan Kaos & Celana Chinos anak laki-laki, warna pastel nya literally so cute bestie."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek glitter",
+      "narration": "Dan harganya? Cuma seratusan ribu aja, which is worth it banget buat dapet kualitas next level."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail bahan kain dan jahitan, lalu tunjukkan variasi ukuran",
+      "narration": "Bahan adem, jahitan rapi, dan desain casual yang nggak pernah ketinggalan zaman. Jadi tampilannya rapi banget. --- Ada ukuran S sampe XL buat umur satu sampe dua belas tahun, which is super flexible. Hati-hati ya, pastikan kamu pilih varian setelan biar nggak bingung kalau cuma dapet celana."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Anak sedang jalan-jalan atau main outdoor pakai setelan",
+      "narration": "Perfect buat yang anaknya aktif, atau buat kamu yang butuh outfit buat jalan-jalan. Wajib punya. Ambil L buat anak seratus satu cm itu pass banget, jadi tambah ganteng."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.8 dan jumlah terjual",
+      "narration": "Sudah laku empat puluh ribu pasang! Yang udah beli bilang, 'Jd tambah ganteng' dan pas ukurannya. No cap, kualitasnya beneran oke."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Jari mengarah ke bawah atau layar mengarah ke finding.id",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#setelananak",
+    "#fashionanak",
+    "#caramurah",
+    "#parenting",
+    "#ootd",
+    "#produkviral",
+    "#findingid",
+    "#gayaanak"
+  ],
+  "product_id": 138619,
+  "product_title": "Setelan Anak Laki Laki Kaos & Celana Chinos Panjang Usia 1-12 Tahun Set Pastel Chinos Panjang",
+  "product_price": "99900.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/138619.jpg",
+    "/uploads/products/138619_1.jpg",
+    "/uploads/products/138619_2.jpg",
+    "/uploads/products/138619_3.jpg",
+    "/uploads/products/138619_4.jpg",
+    "/uploads/products/138619_5.jpg",
+    "/uploads/products/138619_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/138619",
+  "generated_at": "2026-03-13T19:29:58.977Z"
+}

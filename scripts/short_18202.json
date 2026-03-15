@@ -1,0 +1,96 @@
+{
+  "title": "Stroller Murah Viral Spacebaby Compact Murah Banget!",
+  "hook_text": "Stroller bayi cuma 200 ribuan bisa sekeren ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up stroller Spacebaby dengan efek sparkles dan teks overlay besar.",
+      "narration": "Stroller bayi cuma dua ratus ribuan bisa sekeren ini? --- Kenalin nih, Stroller Spacebaby Compact Series yang lagi viral banget."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "B-roll orang tua sedang mendorong stroller dengan senyum bahagia di taman.",
+      "narration": "Padahal speknya mahal, harga cuma dua ratusan ribu aja, --- which is worth it banget buat budget pelajar."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga muncul di layar dengan efek animasi uang terbang.",
+      "narration": "Harga termurahnya cuma dua ratusan ribuan, --- jauh lebih murah dari belanja makan sehari-hari bestie."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat fitur stroller: lipat, kanopi dibuka, mainan musik, dan sabuk pengaman.",
+      "narration": "Beratnya cuma empat kilo, which is super ringan buat ibu-ibu bawa kemana-mana. --- Bisa dilipat compact, ada kanopi dan rem belakang buat aman. --- Ada mainan musik juga, jadi baby happy no cap. --- Fiturnya lengkap banget, ada sabuk pengaman dua titik yang bikin si kecil nyaman."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot anak tidur nyenyak di dalam stroller sambil diayun pelan.",
+      "narration": "Kalau kamu sering jalan-jalan di mall atau butuh stroller harian buat anak tiga bulan sampai empat tahun, ini perfect banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.8 dan angka terjual 40.000 di layar.",
+      "narration": "Rating empat koma delapan tiga, udah terjual empat puluh ribu unit. --- Yang udah beli bilang Lumayan pas badan banget buat anak, pengiriman juga cepet."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol CTA mengarah ke website finding.id dengan animasi panah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#StrollerMurah",
+    "#Spacebaby",
+    "#ParentingHacks",
+    "#ViralProduct",
+    "#ReviewProduk",
+    "#BabyEssentials",
+    "#CariBarangMurah",
+    "#FindingId"
+  ],
+  "product_id": 18202,
+  "product_title": "[FREE BUBBLEWRAP] BAMS TERMURAH STROLLER SPACE BABY COMPACT SIZE SB 203 204 214 215 SK 207 208 315 316 SB 103S 106S KERETA DORONG ANAK BAYI PMB IB501 IB502 MURAH IB 501 502 506 SPACEBABY PLIKO CABIN SIZE KADO ULTAH 3 POSISI LENGKAP",
+  "product_price": "310000.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/18202.jpg",
+    "/uploads/products/18202_1.jpg",
+    "/uploads/products/18202_2.jpg",
+    "/uploads/products/18202_3.jpg",
+    "/uploads/products/18202_4.jpg",
+    "/uploads/products/18202_5.jpg",
+    "/uploads/products/18202_6.jpg",
+    "/uploads/products/18202_7.jpg",
+    "/uploads/products/18202_8.jpg",
+    "/uploads/products/18202_9.jpg",
+    "/uploads/products/18202_10.jpg",
+    "/uploads/products/18202_11.jpg",
+    "/uploads/products/18202_12.jpg",
+    "/uploads/products/18202_13.jpg",
+    "/uploads/products/18202_14.jpg",
+    "/uploads/products/18202_15.jpg",
+    "/uploads/products/18202_16.jpg",
+    "/uploads/products/18202_17.jpg",
+    "/uploads/products/18202_18.jpg",
+    "/uploads/products/18202_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/18202",
+  "generated_at": "2026-03-13T16:33:40.322Z"
+}

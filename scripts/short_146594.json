@@ -1,0 +1,83 @@
+{
+  "title": "Obat Kolesterol & Diabetes? Cek Ini Bestie!",
+  "hook_text": "Stop scroll! Kolesterol turun drastis?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah ekspresif dengan teks besar di layar sambil menunjuk ke layar",
+      "narration": "Eits stop scroll dulu! Kamu masih bingung cara turunkan kolesterol, asam urat, dan diabetes tanpa pusing mikir obat kimia?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk British Propolis Original berputar perlahan dengan background clean",
+      "narration": "Kalian wajib coba British Propolis Original nih! Ini ramuan natural asli yang ampuh bantu atasi ketiga masalah kesehatan itu sekaligus, literally so powerful."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul dengan efek pop-up warna-warni, lalu transisi ke ikon hati",
+      "narration": "Wah nggak nyangka ya, harganya cuma seratus delapan puluhan ribu doang! Which is worth it banget lho kalau dipikirin manfaatnya untuk kesehatan jangka panjang kita."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menampilkan 3 ikon: Jantung, Ginjal, dan Gula Darah dengan animasi checkmark",
+      "narration": "Gimana cara kerjanya? Pertama, bantu normalisasi kolesterol jahat biar jantung tetap happy. Kedua, bantu kurangi asam urat biar sendi nggak kaku lagi. Terakhir, bantu stabilin gula darah biar badan nggak gampang naik turun, basically next level!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase orang tua sedang berjalan ringan di taman dan minum suplemen dengan senyum",
+      "narration": "Perfect buat kamu yang sering merasa badan berat, atau kalau aktivitas kamu mulai kurang aktif karena sakit. Cocok banget buat menjaga stamina lansia biar tetap fit dan bugar sepanjang hari."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.92 bintang dan angka 20.000 terjual dengan font besar",
+      "narration": "Alhamdulillah banyak yang udah beli bilang baru diminum sekali langsung berreaksi, badan jadi seger dan enteng!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke bawah, host mengangguk ramah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya!",
+  "hashtags": [
+    "#BritishPropolis",
+    "#KesehatanAlami",
+    "#TurunkanKolesterol",
+    "#ObatDiabetes",
+    "#SehatAlami",
+    "#ViralShorts",
+    "#KesehatanLansia",
+    "#ObatAsamUrat"
+  ],
+  "product_id": 146594,
+  "product_title": "British Propolis Original Bantu Atasi Kolesterol Asam Urat Diabetes",
+  "product_price": "275000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/146594.jpg",
+    "/uploads/products/146594_1.jpg",
+    "/uploads/products/146594_2.jpg",
+    "/uploads/products/146594_3.jpg",
+    "/uploads/products/146594_4.jpg",
+    "/uploads/products/146594_5.jpg",
+    "/uploads/products/146594_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/146594",
+  "generated_at": "2026-03-14T07:52:25.566Z"
+}

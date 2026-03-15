@@ -1,0 +1,83 @@
+{
+  "title": "3-in-1 Face Wash? Wajah Cerah Gak Pakai Koyak!",
+  "hook_text": "STOP! Kulit kusam jangan dibuang dulu!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah terlihat kusam, lalu transisi cepat ke wajah glowing sambil geleng-geleng kepala tanda 'no'.",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?' Ada yang bilang 'Ketiak jadi kering!' Tenang bestie, oles tipis saja ya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan produk G-BELLE Face wash 3 in 1 di tangan dengan background putih bersih, lalu tunjukkan tekstur mousse yang lembut.",
+      "narration": "Kenalin nih G-BELLE Face wash tiga dalam satu, literally next level buat kamu yang punya masalah kulit sensitif dan kusam. Ini bukan cuma pembersih, tapi juga facial wash dan pijat wajah dalam satu produk!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tunjukkan harga Rp 219.000 di layar dengan efek 'shock' atau tanda tanya besar, lalu muncul gambar perbandingan dengan harga mahal.",
+      "narration": "Gila sih, semua fitur canggih ini cuma seratus delapan puluhan ribu! Which is worth it banget karena kualitasnya udah setara dengan skincare mahal lainnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: aplikasi sikat silikon, close-up bahan aktif (Niacinamide, Vitamin C), dan hasil sebelum-sesudah noda hitam memudar.",
+      "narration": "Buat kamu yang lagi ngelakuin pembersihan mendalam, tekstur mousse-nya lembut banget dengan sikat silikon yang super gentle. Plus, kombinasi Niacinamide, Alpha Arbutin, Glutathione, dan Vitamin C bikin noda hitam, flek hitam, dan bekas jerawat perlahan memudar tanpa bikin kulit iritasi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang sibuk bekerja di depan komputer lalu cuci muka, transisi ke kulit yang tampak lebih segar dan cerah.",
+      "narration": "Perfect buat yang aktivitasnya sering duduk lama atau kulit berminyak. Kalau kamu sering merasa wajah berat atau kusam setelah seharian bekerja, produk ini bakal jadi penyelamat buat kulitmu biar tetap glowing seharian."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating 4.85/5 dan angka 40.000+ terjual dengan efek animasi naik, lalu kutipan muncul di layar.",
+      "narration": "Pembelinya pada ngomong, 'Ini sabun cuci muka favoritku belakangan, suka banget karna bener2 bikin mukaku cera'. No cap, aman deh!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh dengan logo finding.id dan tombol 'Cek Sekarang' dengan pointer menunjuk ke tombol tersebut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#skincareindonesia",
+    "#glowyskin",
+    "#facialwash",
+    "#kulitcerah",
+    "#skincaregenz",
+    "#beautyhacks",
+    "#findingdotid",
+    "#skincareviral"
+  ],
+  "product_id": 107317,
+  "product_title": "G-BELLE | Face wash 3 in 1 Brightening Cleansing Foam - 150ml | Pembersih Wajah | Facial Wash | Face Massage | Kulit sensitif | Hydrating | Mencerahkan | Bekas jerawat | Hiperpigmentasi | Flek hitam | Noda hitam | Niacinamide | Glutathione | Vitamin C",
+  "product_price": "219000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/107317.jpg",
+    "/uploads/products/107317_1.jpg",
+    "/uploads/products/107317_2.jpg",
+    "/uploads/products/107317_3.jpg",
+    "/uploads/products/107317_4.jpg",
+    "/uploads/products/107317_5.jpg",
+    "/uploads/products/107317_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/107317",
+  "generated_at": "2026-03-14T04:11:24.624Z"
+}

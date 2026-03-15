@@ -1,0 +1,75 @@
+{
+  "title": "Sepatu Motor Anti Air Murah Banget Bestie!",
+  "hook_text": "Sering Hujan Tapi Takut Sepatu Rusak?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah host dengan ekspresi kaget sambil menunjuk ke arah kamera, background blurred kota ramai.",
+      "narration": "Sering hujan tapi takut sepatu motor cepat rusak? Stop scroll dulu dan dengerin ini bestie! ---"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk sepatu AP Boots berdiri tegak, kamera zoom in perlahan ke detail karet dan sol.",
+      "narration": "Kenalin nih AP Moto 2 Boots, karet lokal anti air yang literally keren banget buat touring."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek animasi money sound effect, host menunjuk teks tersebut.",
+      "narration": "Gila, harganya cuma seratus empat ribuan doang! Which is worth it banget buat kantong pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat host menggerakkan kaki sepatu menunjukkan fleksibilitas, lalu disiram air untuk demo anti air.",
+      "narration": "Anti air banget, jadi nggak takut basah kalau jalan jauh. Material karet lokal yang lentur banget, nggak bikin kaki pegel. Bawahnya emang tipis sesuai harga, tapi gapapa sih buat harian. --- Bukan buat offroad ekstrem sih."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot host sedang naik motor di jalanan kota atau parkir di mal, suasana casual santai.",
+      "narration": "Perfect banget buat kamu yang sering macet-macetan atau butuh sepatu harian yang simpel tapi tetap aman di jalanan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.85 dan jumlah terjual 30.000 muncul overlay di pojok layar.",
+      "narration": "Sudah terjual 30 ribu dan rating 4,85! Yang udah beli bilang 'Orri jadi awet dipakai'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host menunjuk ke arah bawah layar dengan senyum lebar, teks URL finding.id muncul besar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SepatuMotor",
+    "#AlatMoto",
+    "#FindMyStyle",
+    "#ViralProduct",
+    "#MurahBanget",
+    "#OOTD",
+    "#Touring",
+    "#FindingId"
+  ],
+  "product_id": 69587,
+  "product_title": "Sepatu Boot Tinggi AP Moto 2 AP Boots Karet Lokal Anti Air Slip Lentur Sepeda Motor Touring",
+  "product_price": "104000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/69587",
+  "generated_at": "2026-03-13T19:44:41.142Z"
+}

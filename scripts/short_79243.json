@@ -1,0 +1,85 @@
+{
+  "title": "Tripod 178cm? Gak Goyang! Cocok Buat Kamu 📸",
+  "hook_text": "Tripod kokoh 4 kaki?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tripod kaki terbuka lebar di atas lantai kasar, kamera goyang sedikit lalu stabil saat kaki terbuka semua.",
+      "narration": "Dengerin dulu bestie, ini tripod cuma punya satu fungsi klik tapi kokoh banget, which is basically next level!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: tripod dibuka lipat jadi tongkat selfie, lalu dibuka 4 kaki jadi tripod tinggi, tunjukkan remote bluetooth.",
+      "narration": "Jovitech TR17 ini bisa jadi tongkat selfie panjang satu meter tujuh puluh delapan cm atau tripod empat kaki yang super antep! Bahan aluminium berkualitas tinggi, no cap."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri harga Rp 169.990 coret merah, kanan harga Rp 79.900 hijau besar dengan efek confetti.",
+      "narration": "Harga terlarisnya cuma seratus puluhan ribu rupiah doang! Murah banget untuk barang yang dapet remote bluetooth dan transmisi sampai sepuluh meter."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "1. Close up tombol buka kaki sekali tekan. 2. Putaran 360 derajat holder HP. 3. Tampilan layar rating bintang dan jumlah terjual.",
+      "narration": "Pertama, buka kakinya cuma sekali klik, super praktis. Kedua, holder HP bisa diputar seratus delapan puluh derajat dan tiga ratus enam puluh derajat bebas. Terakhir, remote bluetooth-nya jernih banget, gak ada lag sama sekali."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: anak kos rekam vlog kamar, konten kreator live streaming, dan ibu muda foto produk di meja dapur.",
+      "narration": "Perfect buat kamu yang sering bikin konten vlog atau live streaming. Kalau aktivitas kamu butuh rekaman stabil dari atas, ini solusinya dong."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan grafik rating 4.84 bintang, angka 20.000 terjual, dan teks quote muncul di layar.",
+      "narration": "Rating empat koma delapan empat dari dua puluh ribu orang. Pembelinya pada bilang kakinya benar-benar antep dan gak goyang sama sekali."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Jovitech muncul besar, lalu transisi ke logo Finding.id dengan animasi panah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#tripodmurah",
+    "#selfiestickviral",
+    "#contentcreatorid",
+    "#gadgetviral",
+    "#findingid",
+    "#tripod4kaki",
+    "#gadgetmurah",
+    "#rekomendasigadget"
+  ],
+  "product_id": 79243,
+  "product_title": "Jovitech Tripod 4 Kaki Stabil Tongsis Selfie Stick Bluetooth Satu Fungsi Klik 178cm - TR17",
+  "product_price": "79900.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/79243.jpg",
+    "/uploads/products/79243_1.jpg",
+    "/uploads/products/79243_2.jpg",
+    "/uploads/products/79243_3.jpg",
+    "/uploads/products/79243_4.jpg",
+    "/uploads/products/79243_5.jpg",
+    "/uploads/products/79243_6.jpg",
+    "/uploads/products/79243_7.jpg",
+    "/uploads/products/79243_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/79243",
+  "generated_at": "2026-03-15T01:32:06.761Z"
+}

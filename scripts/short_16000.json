@@ -1,0 +1,83 @@
+{
+  "title": "Termometer Infrared Non Contact? Worth It Banget!",
+  "hook_text": "Ukur Suhu 1 Detik Tanpa Sentuh Kulit!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tangan memegang TaffOmicron mengarah ke wajah dengan efek cahaya laser merah yang cool",
+      "narration": "Stop nungguin termometer lama yang harus ditempelin terus di dahi! No cap, ini game changer banget buat kamu."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke produk TaffOmicron F02 di atas meja putih bersih, tunjuk layar LED yang menyala terang",
+      "narration": "Perkenalkan, TaffOmicron F02, termometer digital infrared non contact. Basically next level, karena nggak perlu sentuh kulit sama sekali buat ukur suhu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, lalu split screen menampilkan termometer ini berdampingan dengan termometer rumah sakit mahal",
+      "narration": "Gila sih harganya cuma seratus delapan puluhan ribu doang! Dibanding termometer rumah sakit yang harganya jutaan, nilai yang kamu dapet literally worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Layar LED besar jelas, 2. Gerakan tangan cepat mengukur, 3. Tampilan antarmuka simpel",
+      "narration": "Pertama, layarnya LED super jelas, jadi angkanya gampang dibaca dari jauh. Kedua, proses ukurnya cuma butuh satu detik aja, super cepat! Dan ketiga, desainnya simpel banget, nggak ribet lagi buat dipakai sehari-hari."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "B-roll keluarga sedang bersantai, ada anak kecil dan lansia yang tersenyum, lalu kembali ke produk",
+      "narration": "Perfect buat yang punya anak kecil atau lansia di rumah. Kalau aktivitas kamu sering memantau kesehatan keluarga tanpa harus repot membersihkan sensor, ini wajib punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.88 bintang dan angka 30.000 terjual dengan animasi loncatan",
+      "narration": "Pembelinya pada ngomong 'Barang cocok banget, sangat praktis dan tidak ribet'. Gak percaya? Lihat sendiri!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol animasi 'Cek Detail', latar belakang warna brand",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#TaffOmicron",
+    "#TermometerInfrared",
+    "#HealthTech",
+    "#ParentingHacks",
+    "#GadgetIndonesia",
+    "#ReviewProduk",
+    "#FindingId",
+    "#WorthIt"
+  ],
+  "product_id": 16000,
+  "product_title": "TaffOmicron Termometer Suhu Tubuh Digital Infrared Non Contact - F02",
+  "product_price": "87900.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/16000.jpg",
+    "/uploads/products/16000_1.jpg",
+    "/uploads/products/16000_2.jpg",
+    "/uploads/products/16000_3.jpg",
+    "/uploads/products/16000_4.jpg",
+    "/uploads/products/16000_5.jpg",
+    "/uploads/products/16000_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/16000",
+  "generated_at": "2026-03-14T06:29:44.265Z"
+}

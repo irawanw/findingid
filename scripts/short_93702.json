@@ -1,0 +1,83 @@
+{
+  "title": "Tas Selempang Haruka MURAH BANGET?",
+  "hook_text": "Tas Elegan Cuma 100 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas dengan pencahayaan sinematik, kamera bergerak pelan ke arah detail tas.",
+      "narration": "Gila sih, tas selempang se-elegan ini harganya cuma..."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tas ditampilkan penuh dari berbagai sudut, menunjukkan warna dan tekstur kulit sintetis.",
+      "narration": "Ini dia Haruka Sabrina Slingbag. Kulit sintetis premium yang literally so cute banget, Bestie."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga muncul di layar dengan efek wow, perbandingan harga pasar.",
+      "narration": "Kalau di pasaran bisa sampai 200 ribuan, ini kamu dapetin cuma di seratus ribuan doang. Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Video close-up tekstur bahan, jahitan, dan isi tas (HP, dompet) dalam tas.",
+      "narration": "Bahannya kulit sintetis yang lembut banget, literally nggak bikin pegal. Jahitan rapi, muat HP sampai dompet. --- Tapi ingat bestie, cek kancingnya pas buka paket ya, biar aman."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model wanita memakai tas sambil jalan santai atau ngopi di kafe.",
+      "narration": "Perfect buat kamu yang sering kerja atau nongkrong. Cocok banget buat gaya kasual kamu. Kalau aktivitas kamu padat, tas ini temen terbaik yang nggak bikin ribet."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.79 dan angka 40.000 terjual yang bergerak naik.",
+      "narration": "Ratingnya 4,79 dari 40 ribu pembeli. Yang udah beli bilang \"Desainnya sederhana namun elegan dan worth it harga segitu\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol atau teks mengarah ke finding dot id dengan animasi klik.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#TasSelempang",
+    "#HarukaBag",
+    "#TasMurah",
+    "#OOTD",
+    "#FashionIndonesia",
+    "#TasWanita",
+    "#ViralProduct",
+    "#CekDiFindingId"
+  ],
+  "product_id": 93702,
+  "product_title": "HARUKA Tas Selempang Wanita Sabrina Slingbag Terbaru Kulit Sintetis Premium Desain Elegan & Trendi",
+  "product_price": "100000.00",
+  "product_rating": "4.79",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/93702.jpg",
+    "/uploads/products/93702_1.jpg",
+    "/uploads/products/93702_2.jpg",
+    "/uploads/products/93702_3.jpg",
+    "/uploads/products/93702_4.jpg",
+    "/uploads/products/93702_5.jpg",
+    "/uploads/products/93702_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/93702",
+  "generated_at": "2026-03-13T20:06:15.321Z"
+}

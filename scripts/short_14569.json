@@ -1,0 +1,82 @@
+{
+  "title": "Karpet Anti Slip Bestie! Nggak Geser Lagi 💃",
+  "hook_text": "Stop geser karpetmu sekarang!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up karpet hampir tergeser saat diletakkan di lantai licin, lalu tiba-tiba diam kokoh.",
+      "narration": "Liat nih, kalau karpetmu sering geser dikit, langsung bikin nggak nyaman kan bestie?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat karpet YBOS 160x210 dipasang di ruang tamu dengan sudut yang estetik.",
+      "narration": "Solusinya ada di YBOS Karpet Lantai ukuran seratus enam puluh kali seratus dua puluh, which is literally super aesthetic!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek 'pop up' yang menarik perhatian.",
+      "narration": "Gila sih harganya cuma seratus delapan puluhan ribu, tapi dapet kualitas worth it banget dong!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Tangan meraba tekstur lembut. 2. Alas karet ditarik-goyang-goyang. 3. Sinar UV menyorot ketahanan warna.",
+      "narration": "Pertama, teksturnya lembut banget di kaki, nggak bikin perih. Kedua, alasnya super ngegrip, basically next level anti geser. Ketiga, warnanya nggak luntur walau kena matahari, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene seseorang duduk santai membaca buku di atas karpet ruang tamu yang rapi.",
+      "narration": "Perfect buat kamu yang suka duduk-duduk manis di ruang tamu atau anak kecil yang lagi main di lantai, nggak bakal licin!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.83 bintang dan angka 20.000+ terjual dengan cepat.",
+      "narration": "Pembelinya pada ngomong kalau alasnya super ngegrip gak geser dan barangnya aman sampai rumah!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan tombol animasi 'Cek Sekarang'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#KarpetAntiSlip",
+    "#DecorRuangTamu",
+    "#HomeDecorID",
+    "#RenovasiMurah",
+    "#AestheticRoom",
+    "#YBOS",
+    "#ShoppingHaul",
+    "#TemukanDiFinding"
+  ],
+  "product_id": 14569,
+  "product_title": "[LOKAL] YBOS Karpet Lantai Ruang Tamu Karpet Eropa Karpet Aesthetic Anti Slip 160x210",
+  "product_price": "189997.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/14569.jpg",
+    "/uploads/products/14569_1.jpg",
+    "/uploads/products/14569_2.jpg",
+    "/uploads/products/14569_3.jpg",
+    "/uploads/products/14569_4.jpg",
+    "/uploads/products/14569_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/14569",
+  "generated_at": "2026-03-15T05:00:54.913Z"
+}

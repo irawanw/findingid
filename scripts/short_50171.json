@@ -1,0 +1,83 @@
+{
+  "title": "HP 1.7 Jutaan Spek Dewa? Must Have! 🔥",
+  "hook_text": "1.7 Jutaan Spek Dewa?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kaget sambil pegang HP Infinix Hot 60i dengan efek zoom in cepat dan teks besar muncul.",
+      "narration": "Stop scrolling dulu bestie! Kamu nggak bakal percaya sama harga jumbo ini."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat warna-warni HP Infinix Hot 60i (Shadow Blue, Neon Red, Titanium Silver) diputar di tangan.",
+      "narration": "Ini Infinix Hot 60i, varian enam belas gigabyte. Basically next level buat budget seratus tujuh puluhan ribu saja!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan layar harga Rp 1.709.000 dengan efek uang jatuh atau stiker diskon besar-besaran.",
+      "narration": "Nggak nyangka kan? Seratus tujuh puluhan ribu, udah dapet enam belas gigabyte plus NFC. Which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: Layar 120Hz mulus saat scroll, Baterai 5160 mAh diisi daya, dan Speaker stereo memutar lagu.",
+      "narration": "Layarnya satu dua puluh persen hertz super mulus, baterainya lima ribu seratus enam puluh miliampere jam nggak bakal habis seharian, dan ada NFC buat bayar ojek online tanpa dompet. Oh iya, chargernya empat puluh lima watt langsung ngebut!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario pelajar main game, pekerja entry-level check WhatsApp, dan anak muda foto selfie di taman.",
+      "narration": "Perfect buat kamu yang lagi cari HP buat main game santai atau sekadar konten kreator pemula yang butuh baterai awet seharian tanpa charger."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up bintang 4.94 dan angka 80.000+ dengan teks kutipan pembeli muncul jelas.",
+      "narration": "Pembelinya pada ngomong, 'Bagus ni versi titaniumnya, simpel, kecil, tapi buat gaming manteb' dengan rating empat koma sembilan empat dari delapan puluh ribu orang."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar finding.id dengan tombol panah besar menuju link, teks 'Cek Detail Sekarang!' berkedip.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#InfinixHot60i",
+    "#HPMurah",
+    "#GadgetGenZ",
+    "#RekomendasiHP",
+    "#BudgetSeratus",
+    "#GamingHP",
+    "#NFC",
+    "#FindingId"
+  ],
+  "product_id": 50171,
+  "product_title": "Infinix Hot 60i 6/128GB - Up to 12GB Extended RAM - Helio G81 - 6.7 inch 120Hz HD+ - 50MP - 5160 mAh - NFC",
+  "product_price": "1709000.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/50171.jpg",
+    "/uploads/products/50171_1.jpg",
+    "/uploads/products/50171_2.jpg",
+    "/uploads/products/50171_3.jpg",
+    "/uploads/products/50171_4.jpg",
+    "/uploads/products/50171_5.jpg",
+    "/uploads/products/50171_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/50171",
+  "generated_at": "2026-03-15T07:51:48.864Z"
+}

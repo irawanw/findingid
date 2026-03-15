@@ -1,0 +1,92 @@
+{
+  "title": "Popok Bestie Xtra Kering! Murah Banget 🤯",
+  "hook_text": "Popok tipis atau tebal?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Zoom in cepat ke kemasan Mamy Poko dengan teks overlay besar bertanya tekstur popok",
+      "narration": "Popoknya tipis atau tebal bestie? Banyak yang bilang teksturnya lumayan halus, tapi ada juga yang merasa agak tipis kalau disentuh."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Mamy Poko 2 Ball Xtra Kering S38 dipegang, tunjukkan label Xtra Kering",
+      "narration": "Tenang dong, ini Mamy Poko Paket 2 Ball Xtra Kering! Didesain khusus buat bayi dan balita yang butuh kelembutan maksimal, plus daya serapnya nggak main-main."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga Rp 77.391 dengan efek animasi uang jatuh atau tanda seru",
+      "narration": "Gila sih, harga termurah cuma seratus delapan puluh ribuan lho! Which is worth it banget buat stok harian, plus kalau dapet promo bisa di bawah seratus delapan puluhan ribu juga ya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: bayi tidur nyenyak, tekstur lembut, dan daya serap air",
+      "narration": "Three features no cap: pertama, teksturnya sangat lembut dan nyaman banget buat kulit sensitif. Kedua, kering sepanjang hari nggak bikin lecet. Ketiga, super serap air jadi aman banget buat dipakai siang dan malam tanpa harus ganti terus-terusan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: bayi baru lahir dan balita aktif bermain",
+      "narration": "Perfect buat yang punya si kecil dari newborn sampai balita aktif. Kalau aktivitas kamu sering ganti popok siang dan malam, ini definitely worth it banget buat kenyamanan mereka."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.81 dan angka 80.000 terjual",
+      "narration": "Pembelinya pada ngomong kalau produknya sesuai ekspektasi, dan yang udah beli bilang ini cocok banget buat kebutuhan sehari-hari bayi."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#mamypoko",
+    "#popokbayi",
+    "#bestie",
+    "#parenting",
+    "#diskon",
+    "#murahbanget",
+    "#infant",
+    "#viralshorts"
+  ],
+  "product_id": 25353,
+  "product_title": "MAMYPOKO PAKET 2 BALL X-TRA KERING S38 NB-S44/ M32 / L28",
+  "product_price": "77391.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/25353.jpg",
+    "/uploads/products/25353_1.jpg",
+    "/uploads/products/25353_2.jpg",
+    "/uploads/products/25353_3.jpg",
+    "/uploads/products/25353_4.jpg",
+    "/uploads/products/25353_5.jpg",
+    "/uploads/products/25353_6.jpg",
+    "/uploads/products/25353_7.jpg",
+    "/uploads/products/25353_8.jpg",
+    "/uploads/products/25353_9.jpg",
+    "/uploads/products/25353_10.jpg",
+    "/uploads/products/25353_11.jpg",
+    "/uploads/products/25353_12.jpg",
+    "/uploads/products/25353_13.jpg",
+    "/uploads/products/25353_14.jpg",
+    "/uploads/products/25353_15.jpg"
+  ],
+  "product_link": "https://finding.id/p/25353",
+  "generated_at": "2026-03-15T09:05:03.518Z"
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Hoodie Distro Termurah 80 Ribuan!",
+  "hook_text": "Hoodie Distro Asli Harga Kaki Lima?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up hoodie dengan teks overlay besar muncul cepat",
+      "narration": "Hoodie distro asli harga kaki lima? Nggak percaya deh!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot model memakai hoodie sambil tersenyum, tunjukkan detail kain",
+      "narration": "Ini hoodie fleece premium yang viral. Bahan bulu domba lembut, jadi nyaman banget dipake seharian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kaget",
+      "narration": "Harganya? Cuma 80 ribuan an doang! Bandingin sama kualitas distro lain yang bisa ratusan ribu. Worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase detail jahitan, topi double layer, dan varian warna",
+      "narration": "Pertama, fleece premium lembut nggak terlalu tebal. --- Kedua, jahitan rapi sudah lewat QC ketat. Ketiga, topi double layer di kebanyakan warna. Kalau tipis itu varian tertentu, buat yang jumbo size juga ada."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario anak muda nongkrong atau kerja di ruangan ber-AC",
+      "narration": "Perfect buat kamu yang suka gaya street style tapi budget mepet. --- Atau kalau kerja di AC, bahannya pas banget buat ngadepin suhu dingin."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.82 dan jumlah terjual 70k",
+      "narration": "Sudah terjual 70.000 produk dengan rating 4,82. Yang udah beli bilang, 'jahitannya rapi mantull' dan bahannya halus banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah mengarah ke tombol",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#hoodiepromo",
+    "#fashionmurah",
+    "#streetstyle",
+    "#ootdindonesia",
+    "#produkviral",
+    "#findingid",
+    "#ramadhan2024",
+    "#diskonmurah"
+  ],
+  "product_id": 130864,
+  "product_title": "SWEATER HOODIE JEMPER POLOS DISTRO UNISEX matt COTTON fleece Premium TERMURAH TERLARIS",
+  "product_price": "97188.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/130864.jpg",
+    "/uploads/products/130864_1.jpg",
+    "/uploads/products/130864_2.jpg",
+    "/uploads/products/130864_3.jpg",
+    "/uploads/products/130864_4.jpg",
+    "/uploads/products/130864_5.jpg",
+    "/uploads/products/130864_6.jpg",
+    "/uploads/products/130864_7.jpg",
+    "/uploads/products/130864_8.jpg",
+    "/uploads/products/130864_9.jpg",
+    "/uploads/products/130864_10.jpg",
+    "/uploads/products/130864_11.jpg",
+    "/uploads/products/130864_12.jpg"
+  ],
+  "product_link": "https://finding.id/p/130864",
+  "generated_at": "2026-03-13T20:45:32.273Z"
+}

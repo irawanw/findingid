@@ -1,0 +1,78 @@
+{
+  "title": "Gillette Goal Blue Murah Banget, Bestie!",
+  "hook_text": "Pisau Cukur Mahal? Gak Perlu Bestie!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up pisau cukur Gillette berputar dengan efek cahaya cinematic.",
+      "narration": "Masih mikir pisau cukur itu barang mahal banget? Stop dulu bestie! ---"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan kemasan produk Gillette Pisau Cukur Goal Blue 2 ll plus dengan jelas.",
+      "narration": "Ini Gillette Pisau Cukur Goal Blue 2 ll plus, solusi kumis rapi tanpa bikin dompet jebol. Literally so sharp! Plus kualitas asli Gillette."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul dengan efek 'wow' dan tangan memegang produk.",
+      "narration": "Bayangin, kamu dapet kualitas premium cuma dengan harga lima puluh ribuan aja. Worth it banget kan? Murah banget buat harian."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up blade pisau cukur dan demo gerakan cukur yang licin.",
+      "narration": "Blade-nya double edge, jadi lebih licin pas di kulit. Plus ada protective strip biar nggak iritasi. --- Yang penting, hasilnya halus banget. Bisa tahan lama kalau perawatan kamu rutin. Jadi kulit kamu tetap sehat dan bebas iritasi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Pria sedang bercermin di kamar mandi sambil tersenyum.",
+      "narration": "Perfect buat kamu yang sering buru-buru ke kantor atau mau gaya bersih sehari-hari. --- Oh iya, packingnya pake kardus biar aman ya. Jangan lupa request kalau mau aman banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.91 dan jumlah terjual 20k di layar.",
+      "narration": "Rating empat koma sembilan satu, udah laku dua puluh ribuan. --- Yang udah beli bilang kemasan rapi makasih seller."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks 'finding dot id' muncul besar dengan panah menunjuk.",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie! ---"
+    }
+  ],
+  "cta": "Penasaran detailnya? Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#GilletteGoalBlue",
+    "#CukurRapi",
+    "#ReviewProduk",
+    "#GroomingLakiLaki",
+    "#MurahBanget",
+    "#TipsCukur",
+    "#ViralTiktok",
+    "#FindingId"
+  ],
+  "product_id": 55902,
+  "product_title": "Gillette Pisau Cukur Goal Blue 2 ll plus Disposable Hangcard",
+  "product_price": "50249.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/55902.jpg",
+    "/uploads/products/55902_1.jpg"
+  ],
+  "product_link": "https://finding.id/p/55902",
+  "generated_at": "2026-03-13T19:47:30.423Z"
+}

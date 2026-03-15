@@ -1,0 +1,87 @@
+{
+  "title": "Matras Yoga Premium Harga Kaki Lima?",
+  "hook_text": "Matras Premium, Harga Kaki Lima?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up matras dipijit lalu transisi cepat ke produk utuh",
+      "narration": "Kalian gak bakal percaya, ini matras premium tapi harganya... --- Murah banget buat kualitas segini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Unboxing matras dan roll out di lantai",
+      "narration": "Ini VOOVA Matras NBR, anti slip, tebal banget nahan lutut pas senam di rumah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Graphic harga muncul di layar dengan efek kaget",
+      "narration": "Dan yang paling bikin melek, cuma lima puluh ribuan sampai seratus delapan puluhan ribu aja. --- Worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo ketebalan tangan menekan matras dan strap penggulung",
+      "narration": "Fiturnya next level, bestie. Ada strap, bahannya NBR lembut banget. Ketebalannya 10mm, though kadang dikit gepeng packing, tapi pulih kok pas dipake. --- No cap, nyaman parah!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang melakukan gerakan yoga pelan di ruang tamu",
+      "narration": "Perfect buat pemula yoga di rumah, atau pilates takut sakit lutut. --- Basically, semua butuh ini buat olahraga aman!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 4.84 dan angka penjualan 100k",
+      "narration": "Ratingnya 4,84 bintang, udah 100 ribu terjual. --- Yang udah beli bilang, 'Sesuai banget sama harganya, kualitas okey lah'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#MatrasYoga",
+    "#YogaMurah",
+    "#VOOVA",
+    "#HomeWorkout",
+    "#Pilates",
+    "#FitnessIndonesia"
+  ],
+  "product_id": 11786,
+  "product_title": "VOOVA Matras Friendly Yoga Mat Anti Slip Tebal Premium Matras Olahraga Sport & Pilates Mat | Gym Mat NBR",
+  "product_price": "51840.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/11786.jpg",
+    "/uploads/products/11786_1.jpg",
+    "/uploads/products/11786_2.jpg",
+    "/uploads/products/11786_3.jpg",
+    "/uploads/products/11786_4.jpg",
+    "/uploads/products/11786_5.jpg",
+    "/uploads/products/11786_6.jpg",
+    "/uploads/products/11786_7.jpg",
+    "/uploads/products/11786_8.jpg",
+    "/uploads/products/11786_9.jpg",
+    "/uploads/products/11786_10.jpg",
+    "/uploads/products/11786_11.jpg",
+    "/uploads/products/11786_12.jpg"
+  ],
+  "product_link": "https://finding.id/p/11786",
+  "generated_at": "2026-03-13T22:50:17.782Z"
+}

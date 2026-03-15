@@ -1,0 +1,83 @@
+{
+  "title": "Setrika Portabel 1200W, Bestie!",
+  "hook_text": "Setrika di tas? Bisa banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up setrika sedang disetel di atas koper perjalanan dengan musik upbeat yang tiba-tiba berhenti saat kata 'BISA BANGET' muncul.",
+      "narration": "Kamu mikir setrika itu cuma buat di rumah terus? No cap, salah besar! Hari ini kita bakal ngobrolin HAN RIVER setrika uap portabel yang literally jadi game changer buat kamu yang sering travel."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: setrika dilipat kecil-kecil masuk tas, lalu dibuka langsung menguapkan pakaian kusut jadi rapi dalam hitungan detik.",
+      "narration": "Perkenalkan bestie, HAN RIVER setrika uap 1200 watt. Bisa setrika basah dan kering, plus desainnya super compact yang bikin kamu bisa bawa kemana-mana tanpa ribet. Basically next level buat menjaga outfit tetap rapi saat on the go."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar-besar muncul dengan efek confetti, disandingkan dengan visual setrika yang sedang menyetrika kemeja mahal.",
+      "narration": "Nah, yang bikin kita kaget lagi harganya cuma segitu lho, yaitu seratus delapan puluhan ribu perak. Di harga segitu kamu udah dapat performa setrikaan yang emang worth it banget untuk kebutuhan sehari-hari atau trip liburan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menampilkan 3 poin: 1. Setrika kemeja rapi, 2. Tekanan uap kuat di celana jeans, 3. Tutup setrika berulir aman saat dilipat.",
+      "narration": "Gak perlu bingung, fitur-fiturnya udah lengkap banget. Pertama, panasnya cepat jadi nggak perlu nunggu lama. Kedua, tekanannya kuat banget untuk ngusir kerutan tebal, which is great buat bahan jeans. Dan yang paling aman, tutupnya sudah berulir jadi nggak bakal hilang pas kamu lipat setrikanya buat disimpan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario split: Sisi kiri orang packing koper, sisi kanan orang mau pakai baju kerja tapi kusut. Sisi kanan berubah jadi rapi setelah pakai setrika ini.",
+      "narration": "Perfect buat kamu yang sering出差, mahasiswa yang mau presentasi, atau cowok cewek yang gak mau pakai baju berkerut-kerut. Kalau aktivitas kamu sering travel atau mau tampil rapi seketika, produk ini solusi banget buat kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating bintang 4.87, angka 20.000 terjual, dan teks kutipan muncul dengan gaya bubble chat yang lucu.",
+      "narration": "Belajar dari pembelinya yang udah bilang 'Cepat panas dan produk tampak bagus'. Jadi tenan, kualitasnya teruji dan banyak yang udah percaya sama HAN RIVER ini."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan tombol 'Cek Detail' yang berdenyut, latar belakang warna-warni cerah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#SetrikaPortabel",
+    "#TravelEssentials",
+    "#FindingId",
+    "#HakBelanja",
+    "#OOTD",
+    "#SetrikaMurah",
+    "#GenZShopping",
+    "#RapiKilat"
+  ],
+  "product_id": 24193,
+  "product_title": "HAN RIVER Setrika Uap 1200W Setrika Basah Dan Setrika Kering Setrika 150ml Setrika Portabel  HRYD05",
+  "product_price": "219000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/24193.jpg",
+    "/uploads/products/24193_1.jpg",
+    "/uploads/products/24193_2.jpg",
+    "/uploads/products/24193_3.jpg",
+    "/uploads/products/24193_4.jpg",
+    "/uploads/products/24193_5.jpg",
+    "/uploads/products/24193_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/24193",
+  "generated_at": "2026-03-15T00:03:42.931Z"
+}

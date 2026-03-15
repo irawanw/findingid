@@ -1,0 +1,83 @@
+{
+  "title": "Masker Rose Jelly Viral! Worth It Ga Sih?",
+  "hook_text": "Kulit Jerawatan Tapi Takut Iritasi?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah berjerawat yang sedang memegang wajah dengan ekspresi khawatir",
+      "narration": "Kulit jerawatan tapi takut iritasi parah? --- Ini solusinya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Eileen Grace Rose Jelly Mask ditampilkan dengan pencahayaan cinematic",
+      "narration": "Ini dia Eileen Grace Rose Jelly Mask yang lagi viral banget di kalangan skincare lovers!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar sambil menunjukkan ukuran 300ml",
+      "narration": "Volume 300ml, harga di kisaran tiga ratus enam puluh ribuan saja buat segede itu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Textur jelly masker dioleskan ke tangan dengan efek dingin visual",
+      "narration": "Teksturnya jelly dingin, literally bikin skin barrier jadi tenang pas dipakai. Kandungan Mawar Bulgaria sama Centella Asiatica, which is worth it banget buat redakan kemerahan dan bekas jerawat. Bebas alkohol juga, no cap aman untuk kulit sensitif dan kering."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wajah terlihat glowing setelah pemakaian masker",
+      "narration": "So perfect buat kamu yang punya kulit kusam atau sering breakout. Kalo jerawat naik dikit di awal, itu tanda kulit lagi adaptasi sama bahan aktif, jadi patch test dulu ya bestie biar aman."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.91 dan jumlah pembelian 300rb",
+      "narration": "Rating 4,91 dari 300 ribu terjual. --- Yang udah beli bilang 'Dingin dan jadi lembut diwajah'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah mengarah ke tombol pencarian",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produk-nya ada di sana!",
+  "hashtags": [
+    "#skincare",
+    "#maskerwajah",
+    "#eileengrace",
+    "#jerawat",
+    "#kulitpeka",
+    "#findingid",
+    "#viral",
+    "#beauty"
+  ],
+  "product_id": 55014,
+  "product_title": "EILEEN GRACE - Moisturize Rose Jelly Mask 300 ml | Masker Wajah | Jerawat | Bruntus | Bopeng | Bekas Jerawat | Kemerahan | Skin Barrier | Mencerahkan | Melembapkan",
+  "product_price": "369000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/55014.jpg",
+    "/uploads/products/55014_1.jpg",
+    "/uploads/products/55014_2.jpg",
+    "/uploads/products/55014_3.jpg",
+    "/uploads/products/55014_4.jpg",
+    "/uploads/products/55014_5.jpg",
+    "/uploads/products/55014_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/55014",
+  "generated_at": "2026-03-13T16:30:58.717Z"
+}

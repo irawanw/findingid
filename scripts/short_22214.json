@@ -1,0 +1,79 @@
+{
+  "title": "Ibu Hamil Pegel? Ini Solusinya!",
+  "hook_text": "Perut Berat Pas Hamil?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah ibu hamil pegel pegel pinggang sambil duduk di sofa.",
+      "narration": "Pernah ngerasa perut berat banget pas umur kehamilan udah mulai nambah?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk WIMIU dipegang tangan, zoom in tekstur bahan katunnya.",
+      "narration": "Kenalin nih WIMIU Maternity Belt Corset 0910 --- solusinya literally nyelamatin punggung kamu pas aktivitas makin berat."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga besar muncul di tengah layar dengan efek sparkle.",
+      "narration": "Harganya? Cuma delapan puluh sembilan ribuan aja. Which is worth it banget buat kenyamanan harian."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Video demo bahan ditarik elastis dan dipegang di pinggang ibu hamil.",
+      "narration": "Bahannya katun lembut, elastis, dan ngeresap keringat. Bisa disesuaikan ukurannya --- sesuai perkembangan perut kamu. Dan yang paling penting, ngurangin pegal di pinggang secara efektif banget, literally no cap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu hamil naik motor dan mobil sambil pakai korset dengan senyum lega.",
+      "narration": "Perfect banget buat ibu hamil usia lima bulan ke atas yang masih aktif kerja di kantor atau sering naik motor dan mobil."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.82 dan angka 40k terjual muncul di layar.",
+      "narration": "Udah laku 40 ribu lebih. Ratingnya 4.82. Yang udah beli bilang XL cocok buat kehamilan lima bulan ke atas."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke bawah.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#IbuHamil",
+    "#MaternityBelt",
+    "#WIMIU",
+    "#ParentingIndonesia",
+    "#CaraHemat",
+    "#ViralShorts",
+    "#MomLife",
+    "#Trending"
+  ],
+  "product_id": 22214,
+  "product_title": "WIMIU Maternity Belt Corset Korset Penyangga Ikat Pinggang Ibu Hamil Menyusui 0910",
+  "product_price": "88920.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/22214.jpg",
+    "/uploads/products/22214_1.jpg",
+    "/uploads/products/22214_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/22214",
+  "generated_at": "2026-03-13T20:38:56.983Z"
+}

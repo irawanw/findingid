@@ -1,0 +1,84 @@
+{
+  "title": "Korset Viral Bikin Pinggang Mungil?!",
+  "hook_text": "Pinggang Mungil Dream? Stop Scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget lalu transisi cepat ke produk di atas meja dengan lighting cinematic",
+      "narration": "Pinggang mungil dream? Stop scroll dulu, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Joybasic Korset Long Torso dipegang tangan, lalu dipakai model untuk tunjuk siluet",
+      "narration": "Joybasic Korset Long Torso ini solusinya, literally next level buat siluet kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga besar muncul di layar dengan efek suara 'cha-ching' atau sound effect senang",
+      "narration": "Harganya? Seratus ribuan sampe dua ratus ribuan aja, which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up detail 6 kancing, lalu tunjuk tulang penyangga, terakhir sentuh bahan kain",
+      "narration": "Fiturnya? Enak banget. Ada 6 level kancing buat kompresi maksimal. --- 4 tulang anti-gulung pas duduk. --- Bahan polyamid fiber, adem dan nggak gatel, jadi nyaman seharian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model duduk santai di kursi sambil memegang pinggang, lalu tunjuk area perut dengan ekspresi waspada",
+      "narration": "Perfect buat kamu yang mau benerin postur atau pasca melahirkan. --- Tapi hati-hati ya, ukuran 3XL itu real, jadi cek dulu lingkar perut kamu biar pas, jangan sampai kekecilan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.88 dan angka 40.000 terjual muncul di layar",
+      "narration": "Rating 4.88, 40 ribu terjual! --- Yang udah beli bilang, 'Bahannya tuh enak, nggak gatel. Duduk aman sih. Suka dehhh.' No cap."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan logo finding.id dengan panah menunjuk ke arah tombol pencarian atau link",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Joybasic",
+    "#KorsetViral",
+    "#BodyShape",
+    "#OOTDIndonesia",
+    "#ViralProduct",
+    "#CekDiFinding",
+    "#FashionIndonesia",
+    "#TipsKecantikan"
+  ],
+  "product_id": 39448,
+  "product_title": "Joybasic Korset Long Torso EXTRA KOMPRESI",
+  "product_price": "119000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/39448.jpg",
+    "/uploads/products/39448_1.jpg",
+    "/uploads/products/39448_2.jpg",
+    "/uploads/products/39448_3.jpg",
+    "/uploads/products/39448_4.jpg",
+    "/uploads/products/39448_5.jpg",
+    "/uploads/products/39448_6.jpg",
+    "/uploads/products/39448_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/39448",
+  "generated_at": "2026-03-13T19:05:35.967Z"
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Jus Bawang Putih Ini Bikin Imun Meledak!",
+  "hook_text": "Bawang Putih Bikin Imun Tembus Awan?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget dengan teks overlay besar, background blur",
+      "narration": "Sudah tahu kalau bawang putih bisa bikin imun tembus awan? Atau malah bikin napas kamu bikin orang kabur? --- Jangan skip dulu, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Showcase produk SATYA Jus di atas meja kayu, lighting cinematic",
+      "narration": "Kenalin nih, SATYA Jus Bawang Putih Tunggal Jahe Merah Lemon Madu Hutan Cuka Apel. Ini bukan jus biasa, bestie, ini natural juice nomor satu di pasaran dengan BPOM resmi TR246073271."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks harga muncul besar di layar dengan efek koin jatuh",
+      "narration": "Harganya cuma seratus lima puluh empat ribu delapan ratus rupiah. --- Which is worth it banget dibanding beli obat kimia di apotik yang harganya bisa lebih mahal."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Bahan-bahan alami (bawang, jahe, lemon) muncul satu per satu",
+      "narration": "Isinya bawang putih tunggal asli, jahe merah, lemon, madu hutan, plus cuka apel. --- Campuran yang literally next level buat detox tubuh tanpa bahan pengawet sama sekali, jadi aman buat kamu."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Orang minum jus dengan ekspresi segar dan rileks",
+      "narration": "Bisa bantu atasi kolesterol, which is super penting buat kamu yang sering makan gorengan. --- Rasanya juga nggak nyengat, jadi lebih mudah diminum setiap pagi tanpa bikin mual."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Montase orang sibuk kerja dan olahraga, menunjukkan target audiens",
+      "narration": "Perfect buat bestie yang lagi diet sehat atau kamu yang kelelahan terus. --- Kalau kamu sering merasa badan lemas atau gampang sakit, ini solusi instan buat kamu sekarang."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Tampilan rating bintang 4.93 dan jumlah penjualan 100.000",
+      "narration": "Rating empat koma sembilan tiga bintang, sudah terjual seratus ribu produk. --- Ada yang bilang 'Cocok untuk kolesterol', tapi ada juga yang bilang 'Bintang tiga dulu, nanti revisi kalau ada hasilnya'."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Tampilan botol dari berbagai sudut, menunjukkan label dan isi",
+      "narration": "Ukuran tiga ratus lima puluh mililiter ini paling populer. --- Botolnya rapih dan aman sampai tujuan, jadi kamu nggak perlu khawatir pecah di jalan."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tombol link di layar dengan panah mengarah ke bawah",
+      "narration": "Jangan tunda kesehatanmu, klik link di bawah sekarang sebelum kehabisan!"
+    }
+  ],
+  "cta": "Klik link di bawah sekarang untuk pesan SATYA Jus!",
+  "hashtags": [
+    "#JusBawangPutih",
+    "#SalkesAlami",
+    "#ImunTinggi",
+    "#SatyaNatural",
+    "#TipsKesehatan",
+    "#GenZSehat",
+    "#ProdukViral",
+    "#BelanjaOnline"
+  ],
+  "product_id": 64901,
+  "product_title": "SATYA Jus Bawang Putih Tunggal Jahe Merah Lemon Madu Hutan Cuka Apel BAHAN ALAMI dengan BPOM",
+  "product_price": "154800.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64901.jpg"
+  ],
+  "product_link": "https://finding.id/p/64901",
+  "generated_at": "2026-03-12T02:18:30.810Z"
+}

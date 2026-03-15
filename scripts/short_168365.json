@@ -1,0 +1,83 @@
+{
+  "title": "Stand HP + Lampu Fotografi Murah Banget! 📸✨",
+  "hook_text": "Stop scroll! Stand HP ini worth it banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tangan sedang memegang stand HP yang terlihat kokoh, lalu zoom out cepat ke produk utuh dengan latar belakang estetik.",
+      "narration": "Stop scroll bestie! Kamu lagi cari stand HP yang nggak cuma buat nongkrong tapi juga buat ngedit konten? Tenang, aku nemu senjata rahasia nih buat lo."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: Stand HP diputar 360 derajat, lampu LED dinyalakan terang, dan sudut pencahayaan yang dramatis di atas meja.",
+      "narration": "Ini TNW Overhead Phone Stand plus lampu LED! Basically next level sih, bisa diputar seratus delapan puluh derajat buat dapet sudut foto paling estetik dan pencahayaan yang perfect banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: di satu sisi harga coret Rp 97.000-an, di sisi lain muncul harga asli dengan efek 'bom' atau 'pop-up'.",
+      "narration": "Gila sih, harganya cuma seratus delapan puluhan ribu doang! Which is worth it banget kalau dipikirin sama fitur lengkapnya, no cap deh ini deal of the century buat konten kreator."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail 1: Base stand ditapakin ke meja lalu digoyang-goyang kuat. Shot detail 2: Lampu LED disetel terang. Shot detail 3: Bracket HP diarak ke atas bawah dengan mulus.",
+      "narration": "Pertama, alasnya sangat kokoh dan tongkat penyangganya nggak goyang sama sekali, jadi HP lo aman abis. Kedua, kecerahan lampu LED-nya terang benderang, bikin foto lo kelihatan lebih premium. Ketiga, braket penyangganya bisa diputar sesuka hati, jadi bisa disesuaikan sama kebutuhan lo tanpa ribet."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Seseorang sedang merekam video vlog di kamar, lalu switch ke adegan shooting produk dengan latar belakang gelap tapi terang berkat lampu stand.",
+      "narration": "Perfect buat yang sering bikin vlog di kamar atau yang suka shoot produk tapi butuh pencahayaan tambahan. Kalau aktivitas kamu butuh sudut kamera fleksibel dan cahaya yang pas, ini definitely harus ada di inventory lo."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Graphic besar muncul menampilkan rating 4.84, angka 70.000+, dan teks kutipan pembeli di bawahnya.",
+      "narration": "Yang udah beli bilang alasnya sangat kokoh dan dijamin praktis banget deh untuk pemotretan. With rating empat koma delapan empat dan tujuh puluh ribuan yang udah dibeli, nggak perlu ragu lagi ya bestie!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol 'finding dot id' muncul dengan animasi klik, background musik naik tempo.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail & review di finding dot id!",
+  "hashtags": [
+    "#StandHP",
+    "#LampuFotografi",
+    "#ContentCreator",
+    "#KreatorIndo",
+    "#ViralShorts",
+    "#HematBeliOnline",
+    "#TNWStand",
+    "#SetupEstetik"
+  ],
+  "product_id": 168365,
+  "product_title": "TNW Overhead Phone Stand + Led Lampu Stand Holder Phone Holder Bracket 360° Lampu Fotografi",
+  "product_price": "97753.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lw04bi43gex63e@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7r990-lw04bi43hthme6@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7r98z-lw04bi43j8229b@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7r98y-lw04bi43kmmi7b@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7r992-lw04bi43f0cq04@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lw04bi43m16y16@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7r992-lw04bi43nfrecd@resize_w720_nl"
+  ],
+  "product_link": "https://finding.id/p/168365",
+  "generated_at": "2026-03-15T12:14:42.425Z"
+}

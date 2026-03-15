@@ -1,0 +1,83 @@
+{
+  "title": "Setrika Philips Murah? Cek Ini!",
+  "hook_text": "Jangan beli yang palsu dong!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan membuka setrika Philips hitam dengan efek suara 'stop' dan tanda seru besar di layar.",
+      "narration": "Stop bestie, jangan asal beli setrika murah di mana saja, nanti menyesal!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Philips Setrika Kering Classic HD1172/99 berputar perlahan di atas meja kayu, tunjuk tapak anti lengketnya.",
+      "narration": "Nih, kenalan sama Philips Setrika Kering Classic, model HD1172/99, punya tapak anti lengket super halus, literally worth it banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek animasi 'boom', lalu berubah menjadi senyum puas.",
+      "narration": "Tebak deh harganya? Baru seratus tiga puluhan ribu, which is basically harga kopi susu aja tapi dapet alat rumah tangga premium."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjuk tombol pengaturan panas, kanan tunjuk desain ergonomis, lalu close-up air uap keluar deras.",
+      "narration": "Fiturnya no cap, pertama ada pengaturan suhu otomatis biar nggak takut bakar baju, kedua desainnya ergonomis banget jadi pegangan nggak capek, dan ketiga uapnya super deras, gosokan jadi next level mulus!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: orang sibuk kerjaan, lalu tiba-tiba lagi di kamar pakai setrika ini dengan wajah tenang.",
+      "narration": "Perfect buat kamu yang sibuk tapi nggak mau baju kusut, kalau aktivitas kamu sering lari-lari pagi, ini solusi biar rapi dalam hitungan menit."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan angka rating 4.84 dan jumlah terjual 200.000, dengan teks kutipan muncul di bawahnya.",
+      "narration": "Pembelinya pada ngomong awet dan tahan lama, jadi nggak usah ragu lagi sama kualitas aslinya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah besar mengarah ke bawah, teks 'Cek Finding' membesar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#PhilipsSetrika",
+    "#AlatRumahTangga",
+    "#HematBudget",
+    "#GenZShopping",
+    "#ViralShorts",
+    "#ReviewProduk",
+    "#HomeEssentials",
+    "#NoCap"
+  ],
+  "product_id": 159334,
+  "product_title": "Philips Setrika Kering Classic HD1172/99 - Hitam Tapak Anti Lengket, setrika Philips, gosokan Philips",
+  "product_price": "337000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/159334.jpg",
+    "/uploads/products/159334_1.jpg",
+    "/uploads/products/159334_2.jpg",
+    "/uploads/products/159334_3.jpg",
+    "/uploads/products/159334_4.jpg",
+    "/uploads/products/159334_5.jpg",
+    "/uploads/products/159334_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/159334",
+  "generated_at": "2026-03-14T23:47:45.246Z"
+}

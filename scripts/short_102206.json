@@ -1,0 +1,83 @@
+{
+  "title": "Foundation WARDAH Murah Worth It? No Cap!",
+  "hook_text": "Foundation Lokal Harga Pelajar?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing sambil apply foundation, lalu cut cepat ke produk.",
+      "narration": "Foundation lokal harga pelajar? No cap, ini beneran glowing banget di wajah, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk WARDAH Exclusive Liquid Foundation ditunjukkan di tangan dengan pencahayaan cinematic.",
+      "narration": "Kenalin nih, WARDAH Exclusive Liquid Foundation. Matte, tahan lama, plus ada SPF 30 buat harian yang aman."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga 'Sembilan Puluh Ribuan' muncul besar dengan efek koin jatuh.",
+      "narration": "Harganya? Sembilan puluh ribuan aja, which is worth it banget buat kantong mahasiswa."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Video time lapse wajah tetap flawless selama beberapa jam, icon SPF muncul.",
+      "narration": "Tahan 8 jam tanpa touch up, hasil akhir smooth matte. Teksturnya cair, coverage natural tapi buildable. Literally next level, gak berat, plus bikin adem."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Tunjukkan shade 04 di tangan, lalu cut ke wajah dengan kulit sawo matang dan kuning langsat.",
+      "narration": "Perfect buat kamu kulit sawo matang, shade 04 ini rekomendasi utama! --- Tapi kalau kuning langsat, hati-hati ya, bisa agak gelap dikit."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan angka 30K terjual dan rating 4.9 bintang di layar.",
+      "narration": "Sudah 30 ribu produk terjual dengan rating 4.9, gak bohong. Yang udah beli bilang 'Shade 04 cocok bangett, serasa gak pake foundation'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah link di layar dengan logo finding id.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#WARDAH",
+    "#FoundationViral",
+    "#MakeupMurah",
+    "#SkincareIndonesia",
+    "#BeautyHacks",
+    "#WorthIt",
+    "#GenZ",
+    "#FindingID"
+  ],
+  "product_id": 102206,
+  "product_title": "WARDAH Exclusive Liquid Foundation - Foundation Matte Yang Tahan Lama Hingga 8 Jam - Alas Bedak dengan SPF 30 - Hasil Akhir Flawless dan Smooth Matte - Makeup",
+  "product_price": "93000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/102206.jpg",
+    "/uploads/products/102206_1.jpg",
+    "/uploads/products/102206_2.jpg",
+    "/uploads/products/102206_3.jpg",
+    "/uploads/products/102206_4.jpg",
+    "/uploads/products/102206_5.jpg",
+    "/uploads/products/102206_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/102206",
+  "generated_at": "2026-03-13T20:25:22.710Z"
+}

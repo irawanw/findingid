@@ -1,0 +1,48 @@
+{
+  "total_ms": 85054,
+  "total_s": 85.1,
+  "segments": [
+    {
+      "id": "hook",
+      "audio_start_ms": 0,
+      "audio_end_ms": 7471,
+      "duration_ms": 7471
+    },
+    {
+      "id": "reveal",
+      "audio_start_ms": 7821,
+      "audio_end_ms": 20203,
+      "duration_ms": 12382
+    },
+    {
+      "id": "price_wow",
+      "audio_start_ms": 20553,
+      "audio_end_ms": 36435,
+      "duration_ms": 15882
+    },
+    {
+      "id": "features",
+      "audio_start_ms": 36785,
+      "audio_end_ms": 53633,
+      "duration_ms": 16848
+    },
+    {
+      "id": "suited_for",
+      "audio_start_ms": 53983,
+      "audio_end_ms": 64693,
+      "duration_ms": 10710
+    },
+    {
+      "id": "proof",
+      "audio_start_ms": 65043,
+      "audio_end_ms": 78835,
+      "duration_ms": 13792
+    },
+    {
+      "id": "cta",
+      "audio_start_ms": 79185,
+      "audio_end_ms": 85062,
+      "duration_ms": 5877
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Kipas Genggaman Paling Gila! 💨🔥 #Goojodoq",
+  "hook_text": "Anginnya kayak angin darat??",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up kipas berputar kencang dengan efek visual angin yang kuat, lalu zoom out ke wajah kaget creator.",
+      "narration": "Stop scroll dulu bestie! Anginnya kayak angin darat nggak?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Handheld shot kipas Goojodoq GFS007 di berbagai warna (Pink, Purple, Black), tunjukkan ukuran kecilnya pas di tangan.",
+      "narration": "Kenalin nih, Goojodoq Mini GFS007. Gadget kecil tapi kinernya literally next level, which is worth it banget buat yang suka portabel."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri gambar kipas, kanan teks besar menampilkan harga range Rp 178-an ribu dan Rp 219-an ribu dengan efek animasi kaget.",
+      "narration": "Gila sih harga cuma seratus delapan puluhan sampai dua ratus sembilan puluh ribuan doang. Untuk kualitas angin sekeren ini, basically a steal!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: 1. Tunjuk 5 bilah kipas, 2. Tampilkan motor berputar cepat, 3. Simulasikan kipas dipakai di meja dan di tangan.",
+      "narration": "Pertama, punya lima bilah turbofan dengan sudut kemiringan besar, jadi anginnya fokus banget. Kedua, motor brushless dengan dua puluh ribu RPM, literally bikin angin kenceng nembus jauh. Ketiga, adjustable speednya, jadi kamu bisa atur dinginnya sesuai mood, nggak perlu repot cari remote."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage orang bekerja di laptop panas, olahraga gym, atau main game sambil memegang kipas ini dengan senyum puas.",
+      "narration": "Perfect buat kamu yang sering ngerasa panas pas kerja di depan laptop, lagi olahraga di gym, atau main game sampai keringet ngeri. Kalau aktivitas kamu kayak gitu, ini wajib punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.90/5 dan angka 100.000+ terjual, lalu muncul quote bubble dari pembeli.",
+      "narration": "Pembelinya pada ngomong 'ukurannya imut tapi kualitas anginnya keren fullll', no cap! Plus udah laku seratus ribu produk dengan rating empat koma sembilan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Creator menunjuk ke bawah layar dengan teks besar 'CEK DI FINDING DOT ID', lalu transisi cepat ke logo finding.id.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "CEK DI FINDING DOT ID YA BESTIE!",
+  "hashtags": [
+    "#Goojodoq",
+    "#KipasAngin",
+    "#GadgetViral",
+    "#ReviewProduk",
+    "#GenZIndonesia",
+    "#HematCuan",
+    "#SummerVibes",
+    "#TechIndonesia"
+  ],
+  "product_id": 145878,
+  "product_title": "Goojodoq GFS007 Mini kipas 100 Gear Wind High-speed kipas angin Adjustable Turbo kipas tangan",
+  "product_price": "178999.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/145878.jpg",
+    "/uploads/products/145878_1.jpg",
+    "/uploads/products/145878_2.jpg",
+    "/uploads/products/145878_3.jpg",
+    "/uploads/products/145878_4.jpg",
+    "/uploads/products/145878_5.jpg",
+    "/uploads/products/145878_6.jpg",
+    "/uploads/products/145878_7.jpg",
+    "/uploads/products/145878_8.jpg",
+    "/uploads/products/145878_9.jpg",
+    "/uploads/products/145878_10.jpg",
+    "/uploads/products/145878_11.jpg",
+    "/uploads/products/145878_12.jpg",
+    "/uploads/products/145878_13.jpg",
+    "/uploads/products/145878_14.jpg",
+    "/uploads/products/145878_15.jpg",
+    "/uploads/products/145878_16.jpg",
+    "/uploads/products/145878_17.jpg",
+    "/uploads/products/145878_18.jpg",
+    "/uploads/products/145878_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/145878",
+  "generated_at": "2026-03-14T07:05:27.867Z"
+}

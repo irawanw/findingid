@@ -1,0 +1,83 @@
+{
+  "title": "Glowing Alami Cuma 15 Sachet! Worth It Banget",
+  "hook_text": "Jalan Pintas Buat Kulit Glowing",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing dengan efek cahaya, lalu transisi cepat ke gelas minuman",
+      "narration": "Udah coba segala cara biar glowing? --- Padahal jalan pintasnya ada di dalam gelas!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Pomeglow di atas meja minimalis dengan pencahayaan cinematic",
+      "narration": "Kenalin nih Pomeglow Collagen Drink, 15 sachet full pack buat kamu yang ingin brightening booster instan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tulisan harga besar muncul di layar dengan efek animasi uang berhemat",
+      "narration": "Harganya cuma seratus dua puluhan ribu doang, which is worth it banget buat kualitas next level gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat orang minum sachet, lalu sebelum sesudah kulit, lalu ikon ibu hamil",
+      "narration": "Pertama, rasanya enak banget kayak jus buah, no cap! Kedua, bantu memudarkan bekas jerawat secara alami. Ketiga, aman banget buat bumil dan busui juga, basically super safe."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Warga muda sedang sibuk kerja atau kuliah sambil pegang minuman",
+      "narration": "Perfect banget buat kamu yang kulit susah cerah tapi males ribet pakai skincare layering."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan jumlah terjual 30k dengan animasi confetti",
+      "narration": "Udah terjual 30 ribu box dengan rating 4,9. Yang udah beli bilang, 'Bekas jerawat juga memudar, mau nyetok ke 2 lagi.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah menunjuk ke arah bawah atau tombol profil",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#Pomeglow",
+    "#CollagenDrink",
+    "#SkincareRutin",
+    "#GlowUp",
+    "#ReviewProduk",
+    "#BelanjaOnline",
+    "#TipsKulit",
+    "#ViralProduct"
+  ],
+  "product_id": 101640,
+  "product_title": "Pomeglow - Collagen Drink - Minuman Collagen | Brightening Booster | Bumil Busui Friendly - 15 Sachet",
+  "product_price": "112749.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/101640.jpg",
+    "/uploads/products/101640_1.jpg",
+    "/uploads/products/101640_2.jpg",
+    "/uploads/products/101640_3.jpg",
+    "/uploads/products/101640_4.jpg",
+    "/uploads/products/101640_5.jpg",
+    "/uploads/products/101640_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/101640",
+  "generated_at": "2026-03-13T19:22:35.461Z"
+}

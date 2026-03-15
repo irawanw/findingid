@@ -1,0 +1,83 @@
+{
+  "title": "Kulit Glowing Mewah Cuma Delapan Puluh Ribu?",
+  "hook_text": "Foundation Premium Harga Kaki Lima?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah glowing dengan filter soft focus, lalu zoom out ke produk WARDAH di atas meja marmer",
+      "narration": "Foundation premium harga kaki lima? --- No cap, ini beneran!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk WARDAH Colorfit Perfect Glow Cushion dibuka perlahan, tunjukkan tekstur cushion pad",
+      "narration": "Kenalin nih, WARDAH Colorfit Perfect Glow Cushion ini si favorit baru. --- Teksturnya creamy banget, gampang di-blend, langsung jadi glowing natural."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga Rp 87.900 dengan efek teks besar, lalu transisi ke uang receh atau dompet terbuka",
+      "narration": "Harganya bikin dompet senang, cuma delapan puluhan ribu doang. --- Worth it banget kan dibanding brand luar yang mahal?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri aplikasi foundation di wajah, kanan teks fitur SPF 40, CICA, dan tahan lama muncul satu per satu",
+      "narration": "Fiturnya next level: tahan 12 jam, SPF 40 PA+++, plus ada CICA buat kulit sensitif. --- Medium coverage tapi nggak feel berat."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita dengan kulit normal dan kering sedang apply foundation, lalu cut ke tekstur foundation yang ringan",
+      "narration": "Perfect buat kulit normal sampai kering yang pengen tampilan sehat. --- Kalau oily banget, butuh powder tambahan ya bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.88 dan angka 100.000 terjual dengan animasi pop-up",
+      "narration": "Udah 100 ribu lebih terjual dengan rating 4.88. --- Yang udah beli bilang 'teksturnya creamy dan cocok untuk wajah dewasa'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan akhir produk dengan logo finding.id dan panah menunjuk ke bawah",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#WARDAH",
+    "#Cushion",
+    "#MakeupMurah",
+    "#BeautyTok",
+    "#SkincareIndo",
+    "#WardahColorfit",
+    "#GlowUp",
+    "#FindYourFit"
+  ],
+  "product_id": 100907,
+  "product_title": "WARDAH Colorfit Perfect Glow Cushion",
+  "product_price": "87900.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100907.jpg",
+    "/uploads/products/100907_1.jpg",
+    "/uploads/products/100907_2.jpg",
+    "/uploads/products/100907_3.jpg",
+    "/uploads/products/100907_4.jpg",
+    "/uploads/products/100907_5.jpg",
+    "/uploads/products/100907_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100907",
+  "generated_at": "2026-03-13T20:44:11.230Z"
+}

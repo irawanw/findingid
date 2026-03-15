@@ -1,0 +1,83 @@
+{
+  "title": "ASI Meleleh Banget! Rahasia Secret Ini",
+  "hook_text": "ASI kempes? Stop scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Ibu hamil sedang panik lihat bayi nangis sambil pegang botol kosong",
+      "narration": "Nangis nggak karuan, ASI malah kempes? Tenang bestie, nggak usah nangis lagi!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke Mom Uung ASI Booster 60 Kapsul di tangan dengan efek glitter",
+      "narration": "Rahasia bikin ASI lancar dan melimpah ada di Mom Uung ASI Booster. Produk halal BPOM yang direkomendasikan dokter Obgyn dan anak, basically next level buat kamu!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek confetti, lalu membandingkan dengan harga pasar",
+      "narration": "Bayangin, kamu bisa dapat suplemen premium seharga seratus dua puluhan ribu rupiah aja! Wah, which is worth it banget deh buat masa depan buah hati."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Ibu makan normal, 2. Ibu minum obat diare, 3. Ibu senyum lepas gas",
+      "narration": "Pertama, dia bebas Fenugreek, jadi nggak bikin perut kembung atau diare like biasa. Kedua, bahan alaminya super aman buat pencernaan ibu yang sensitif. Ketiga, konsistensinya mantap, nggak bikin mual sama sekali, literally so comfortable!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase ibu menyusui bahagia, bayi kenyang tidur nyenyak, dan ibu tersenyum",
+      "narration": "Perfect buat kamu yang aktivitasnya super sibuk nggak punya waktu ngemil vitamin rumahan. Atau kalau kamu sering khawatir sama kualitas ASI, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.89 bintang dan angka 400.000 terjual dengan panah menunjuk",
+      "narration": "Pembelinya pada ngomong, 'Alhamdulillah ASI lancar banget'. Dengan rating empat koma delapan sembilan dan empat ratus ribu terjual, nggak perlu ragu lagi ya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan tombol 'Cek Sekarang' yang berdenyut",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#IbuHamil",
+    "#ASIBoster",
+    "#MomUung",
+    "#SuplemenIbu",
+    "#LancaraSusu",
+    "#VitaminIbu",
+    "#HalalBPOM",
+    "#FindingID"
+  ],
+  "product_id": 21977,
+  "product_title": "Mom Uung ASI Booster 30 Kapsul - 60 kapsul / Pelancar ASI Halal BPOM - Fenugreek FRE",
+  "product_price": "70000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21977.jpg",
+    "/uploads/products/21977_1.jpg",
+    "/uploads/products/21977_2.jpg",
+    "/uploads/products/21977_3.jpg",
+    "/uploads/products/21977_4.jpg",
+    "/uploads/products/21977_5.jpg",
+    "/uploads/products/21977_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/21977",
+  "generated_at": "2026-03-14T20:55:39.466Z"
+}

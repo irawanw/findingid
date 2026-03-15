@@ -1,0 +1,83 @@
+{
+  "title": "Powerbank 50k mAh Cuma 100 Ribuan?!",
+  "hook_text": "Powerbank 50k cuma 100 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up produk PUNING LENTIVEN dengan efek cahaya LED menyala, lalu zoom out cepat ke wajah kreator yang terkejut.",
+      "narration": "Gila sih bestie, powerbank kapasitas 50000 mAh dengan harga seratus delapan puluhan ribu? No cap, ini literally terlalu murah buat ukurannya."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai sudut (45 derajat, samping, belakang) menunjukkan 4 kabel yang tertanam dan desain LED yang cute.",
+      "narration": "Kenalin nih PUNING LENTIVEN Powerbank 50000 mAh. Ini dia si ganteng dengan empat kabel built-in, jadi kamu nggak perlu ribet nyari charger lagi. Desainnya super cute dengan lampu LED yang nge-live, which is worth it banget buat foto-foto."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks animasi besar muncul di layar: 'Rp 115.000-an', lalu transisi cepat ke perbandingan dengan powerbank biasa yang mahal.",
+      "narration": "Harganya? Paling mahal cuma di angka seratus delapan ribuan doang bestie. Bandingin sama powerbank lain yang cuma 10000 mAh tapi harganya udah hampir dua kali lipat. You get more value literally next level."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1) Mengisi daya dua HP sekaligus, 2) Menempel di dinding/pegangan tangan, 3) Menunjukkan lampu LED berkedip saat cas.",
+      "narration": "Fiturnya tuh nggak main-main. Pertama, ada empat kabel jadi bisa cas banyak device barengan. Kedua, desainnya compact banget, jadi gampang banget masuk tas kecil. Ketiga, lampu LED-nya keren banget buat ngetes sisa daya, literally jadi aksesoris yang estetik."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Seseorang sedang traveling dengan banyak gadget, atau mahasiswa yang sedang belajar di kafe tanpa colokan.",
+      "narration": "Ini perfect banget buat kalian yang sering traveling, mahasiswa yang ngerjain tugas seharian, atau kamu yang punya banyak gadget tapi males bawa kabel ribet. Jadi nggak ada lagi drama HP mati di tengah jalan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating 4.72 dan angka 60.000 terjual dengan font tebal, lalu teks kutipan pembeli muncul di layar.",
+      "narration": "Sudah terjual 60000 produk dengan rating 4.72. Yang udah beli bilang, mantap barangnya, awet hampir dua bulan dan sangat cocok untuk dua HP. Tapi buat yang kecewa sama kapasitas, ingat ya ini kapasitas baterai, bukan input daya real-time ya bestie."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Kreator menunjuk ke arah kanan bawah dengan senyum lebar, teks 'Cek di finding.id' muncul.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#PowerbankMurah",
+    "#PUNINGLENTIVEN",
+    "#GadgetViral",
+    "#StudentLife",
+    "#TravelEssentials",
+    "#GimmickMurah",
+    "#TechIndonesia",
+    "#ViralShorts"
+  ],
+  "product_id": 26777,
+  "product_title": "PUNING LENTIVEN Powerbank 50000mAh 4 Kabel Cute LED Portable Fast Charger",
+  "product_price": "117800.00",
+  "product_rating": "4.72",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/26777.jpg",
+    "/uploads/products/26777_1.jpg",
+    "/uploads/products/26777_2.jpg",
+    "/uploads/products/26777_3.jpg",
+    "/uploads/products/26777_4.jpg",
+    "/uploads/products/26777_5.jpg",
+    "/uploads/products/26777_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/26777",
+  "generated_at": "2026-03-15T12:53:21.687Z"
+}

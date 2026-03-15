@@ -1,0 +1,82 @@
+{
+  "title": "Blender Plastik Murah Banget? Cek Ini Bestie!",
+  "hook_text": "Kira kaca, ternyata plastik?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan memegang blender Miyako di depan kamera lalu zoom out pelan",
+      "narration": "Stop scroll dulu bestie! Siapa yang kira ini blender kaca mahal-mahal, eh rupanya plastik? Tapi kok rasanya nggak bohong?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat blender Miyako 102PL dikocok air, dicampur buah, dan disiram ke gelas",
+      "narration": "Ini dia Miyako 102PL, blender serba tiga dalam satu! Bisa buat jus, smoothie, sampai bumbu dapur. Kapasitas satu liter yang pas buat satu porsi."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjuk harga, lalu transisi ke gambar uang virtual yang melayang",
+      "narration": "Cuma dua ratus empat puluhan ribuan doang, guys! Which is honestly worth it banget kalau dibandingin sama merk-merk lain yang harganya satu jutaan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri blender dikocok air, kanan blender mencampur es, bawah blender dibersihkan dengan air",
+      "narration": "Fiturnya no cap super ampuh! Pertama, motornya kuat banget ngocokin es batu jadi halus. Kedua, blade-nya tajam bikin buah lembut tanpa sisa kulit. Ketiga, desainnya simpel gampang dibersihin, cuma perlu bilas pake air mengalir langsung bersih."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: seorang anak kos memasak di kitchenet kecil, lalu seorang ibu muda menyiapkan sarapan buah",
+      "narration": "Perfect buat kamu yang lagi hemat tapi nggak mau kurangi kualitas hidup. Atau buat anak kos yang butuh alat masak praktis di kitchenet sempit. Basically next level buat pemula!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.7 dan angka 30.000 terjual muncul dengan efek pop-up",
+      "narration": "Pembelinya pada ngomong 'baguss berfungsi semua' dan 'recommended' banget! Sudah laku tiga puluh ribuan unit dengan rating empat koma tujuh dua."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id animasi muncul dengan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#BlenderMurah",
+    "#Miyako102PL",
+    "#AlatDapurHemat",
+    "#ReviewProduk",
+    "#CocokAnakKos",
+    "#JusBuah",
+    "#HematHemat",
+    "#FindingDotId"
+  ],
+  "product_id": 137189,
+  "product_title": "(BISA COD) BLENDER 3 IN 1 MIYAKO 102 PL / 102PL / 102-PL / BL-101PL / BL-301PL [PLASTIK / 1 LITER] (100% ORIGINAL)",
+  "product_price": "248900.00",
+  "product_rating": "4.72",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/137189.jpg",
+    "/uploads/products/137189_1.jpg",
+    "/uploads/products/137189_2.jpg",
+    "/uploads/products/137189_3.jpg",
+    "/uploads/products/137189_4.jpg",
+    "/uploads/products/137189_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/137189",
+  "generated_at": "2026-03-14T05:00:28.364Z"
+}

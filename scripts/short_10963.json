@@ -1,0 +1,83 @@
+{
+  "title": "4 Kaos Distro Cuma 100 Ribu?! Viral Banget Bestie",
+  "hook_text": "4 kaos cuma seharga satu kali makan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up produk kaos dengan teks besar '4 PCS CUMA 100 RIBU?'",
+      "narration": "4 kaos cuma seharga satu kali makan? Stop scroll bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan paket 4 kaos yang dilipat rapi dengan angle cinematic",
+      "narration": "Paket 4 pcs kaos distro viral ini solusinya bestie, sudah siapin di cart sekarang."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga di layar dengan efek uang atau tanda seru",
+      "narration": "Total 4 pcs cuma seratus delapan puluhan ribu, which is crazy cheap banget for this quality."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Zoom in tekstur bahan kaos dan tunjukkan berbagai ukuran",
+      "narration": "Bahannya semi katun 24S itu adem dan tebal, literally no cap. Ada ukuran jumbo sampai XXXL muat banget buat badan besar. Desainnya gaya korean street yang lagi hits, cocok buat daily look. --- Bahannya premium tanpa bikin panas."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model memakai kaos ukuran besar dengan gaya santai",
+      "narration": "Perfect buat yang suka stok banyak atau punya postur tinggi. --- Hati-hati ya, kadang order L sama M datangnya M sama XL tapi gapapa kok, lebih aman ukur sesuai berat badan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating 4.78 dan jumlah pembelian 90.000",
+      "narration": "Rating 4.78 dengan 90 ribu terjual. Yang sudah beli bilang nggak nyangka kaos 25an bisa sebagus itu, which is worth it banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol animasi mencari produk di aplikasi finding",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#kaosmurah",
+    "#kaosdistro",
+    "#viralshopee",
+    "#fashionpria",
+    "#fashionwanita",
+    "#ootdindonesia",
+    "#kaosjumbo",
+    "#promosikeren"
+  ],
+  "product_id": 10963,
+  "product_title": "4 pcs 100 Ribu kaos pria | kaos wanita | kaos distro | kaos model terbaru | kaos pria distro | kaos jumbo | kaos motif simple | kaos motif keren | kaos distro bandung | kaos | atasan pria | atasan wanita",
+  "product_price": "100000.00",
+  "product_rating": "4.78",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/10963.jpg",
+    "/uploads/products/10963_1.jpg",
+    "/uploads/products/10963_2.jpg",
+    "/uploads/products/10963_3.jpg",
+    "/uploads/products/10963_4.jpg",
+    "/uploads/products/10963_5.jpg",
+    "/uploads/products/10963_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/10963",
+  "generated_at": "2026-03-13T20:03:33.570Z"
+}

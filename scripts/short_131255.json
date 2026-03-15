@@ -1,0 +1,83 @@
+{
+  "title": "Laptop Nyalain 8 Detik? SSD V-GeN Murah Banget!",
+  "hook_text": "Laptop nyalain cuma 8 detik?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up layar laptop yang loading super cepat dengan efek timer hitung mundur angka 8 detik.",
+      "narration": "Gak percaya? Laptop kamu bisa nyalain dalam hitungan detik aja! No cap, ini beneran next level buat yang bosan sama booting lama."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan SSD V-GeN 128GB, 256GB, hingga 1TB dengan efek cahaya neon, lalu zoom in ke tekstur metal casing.",
+      "narration": "Kenyannya cuma dari SSD V-GeN ini, bestie! Ada varian dari 128GB sampe 1TB, kapasitasnya lengkap banget buat kebutuhan kamu apa aja, which is basically all-in-one solution."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 648.045 muncul besar dengan efek getar, lalu muncul perbandingan harga murah vs mahal dengan stiker centang hijau.",
+      "narration": "Yang bikin gila harganya cuma enam ratus empat puluh delapan ribuan aja! Bandingin sama SSD lain yang seratus jutaan, ini worth it banget kan? Hemat plus performanya juara."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menunjukkan SSD di dalam laptop, kanan menunjukkan HDD caddy yang mudah dipasang, dengan teks overlay 'SATA3 Fast' dan 'Caddy Included'.",
+      "narration": "Pertama, teknologi SATA3 yang bikin transfer data super cepet, literally no lag. Kedua, wajib punya HDD caddy nya, jadi kamu bisa upgrade jadi hybrid drive tanpa ribet bongkar pasang. Ketiga, kompatible sama semua laptop dengan bracket 12.7 milimeter atau 9.5 milimeter, so versatile!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase orang mahasiswa lagi ngerjain tugas, gamer lagi main game, dan pekerja kantoran lagi presentasi dengan laptop yang responsif.",
+      "narration": "Perfect buat kamu yang sering multitasking berat, mahasiswa yang butuh render cepat, atau gamers yang gak mau lag pas main. Kalau laptop kamu masih pakai HDD lama, ini solusinya dong!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.88 bintang dengan teks '20.000+ Terjual' dan kutipan teks dialog muncul di layar.",
+      "narration": "Pembelinya pada ngomong kalau kondisinya utuh dan pengiriman cepat banget. Plus, laptop yang udah beli bilang kalau speknya sesuai dan laptop langsung nyala dalam 8 sampai 9 detik, which is amazing!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi tombol 'Cek Sekarang' yang berdenyut, background musik upbeat berhenti mendadak.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#VGenSSD",
+    "#KomponenPC",
+    "#UpgradeLaptop",
+    "#TechIndonesia",
+    "#GadgetMurah",
+    "#BootingCepat",
+    "#FindingId",
+    "#RekomendasiKomputer"
+  ],
+  "product_id": 131255,
+  "product_title": "V-GeN SSD 128GB 256GB 512GB 1TB SATA3 128 GB 256 512 GB 1 TB VGEN + HDD Caddy 12.7 mm 9.5 mm Bracket PC",
+  "product_price": "648045.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/131255.jpg",
+    "/uploads/products/131255_1.jpg",
+    "/uploads/products/131255_2.jpg",
+    "/uploads/products/131255_3.jpg",
+    "/uploads/products/131255_4.jpg",
+    "/uploads/products/131255_5.jpg",
+    "/uploads/products/131255_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/131255",
+  "generated_at": "2026-03-14T09:12:47.861Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Legging Rok Viral 60 Ribuan Bestie!",
+  "hook_text": "Rok Olahraga Murah Tapi Elegan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget sambil memegang rok olahraga dengan ekspresi antusias",
+      "narration": "Siap-siap kaget sama rok olahraga ini bestie! Emang boleh murah segini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai rok olahraga dan berputar menunjukkan model rok",
+      "narration": "Kenalin nih, Legging Rok Olahraga yang lagi viral banget di kalangan bestie."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek uang atau diskon",
+      "narration": "Harganya cuma enam puluh ribuan aja. Which is literally worth it banget buat budget pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail shot bahan rok ditarik pelan untuk menunjukkan elastisitas dan bahan",
+      "narration": "Fiturnya juara! Bahannya jatuh, nggak panas, dan ada celana dalam built-in. --- No cap, super nyaman dipake seharian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang jogging ringan di taman atau gym sambil tersenyum",
+      "narration": "Perfect buat kamu yang suka joging, gym, atau sekadar santai. --- Tapi buat yang berat badan sampai 75 kilo, jangan lupa naik size ya biar nggak keketikan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.87 dan jumlah terjual 50.000 di aplikasi",
+      "narration": "Sudah terjual lebih dari lima puluh ribu produk. Ratingnya 4.87 bintang. --- Yang udah beli bilang 'Kualitas mantab dan pas banget di badan'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks arahkan ke finding dot id dengan panah menunjuk ke layar",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#LeggingRok",
+    "#OlahragaWanita",
+    "#Viral",
+    "#Fashion",
+    "#BudgetPelajar",
+    "#Findings",
+    "#ShortsIndonesia",
+    "#OOTD"
+  ],
+  "product_id": 11410,
+  "product_title": "Legging Rok Panjang Olahraga Wanita Skirt Sport Jogging Renang Sepeda Lari Zumba Terbaru Kekinian",
+  "product_price": "69000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/11410.jpg",
+    "/uploads/products/11410_1.jpg",
+    "/uploads/products/11410_2.jpg",
+    "/uploads/products/11410_3.jpg",
+    "/uploads/products/11410_4.jpg",
+    "/uploads/products/11410_5.jpg",
+    "/uploads/products/11410_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/11410",
+  "generated_at": "2026-03-13T21:35:57.651Z"
+}

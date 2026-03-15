@@ -1,0 +1,83 @@
+{
+  "title": "Setelan Bayi Viral 50 Ribu Aja!",
+  "hook_text": "Baju Bayi Murah Tapi Adem?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot bayi tersenyum sambil memegang baju warna warni dengan efek zoom in cepat",
+      "narration": "Gimana caranya bisa dapet setelan baju bayi yang super adem tapi harganya cuma seharga gorengan? No cap, ini musti banget kalian liat!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat berbagai varian warna (oren, hijau, navy) yang digantung rapi di gantungan baju dengan pencahayaan soft",
+      "narration": "Ini nih NIUKID Setelan Baju Bayi Lengan Pendek, tersedia buat umur 0 sampai 6 tahun. Desainnya basic banget tapi stylish, which is basically next level buat si kecil!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 52.000-an dengan efek teks besar dan animasi koin jatuh, lalu transisi ke tumpukan baju",
+      "narration": "Bayangin, kalian bisa dapet kualitas premium cuma di kisaran lima puluh ribuan an aja! Literally worth it banget kalau dibandingin sama harga baju anak lain yang mahal melulu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot tangan ibu meraba bahan baju dengan gerakan slow motion menunjukkan kelembutan kain, lalu menunjukkan jahitan rapi",
+      "narration": "Fitur utamanya itu bahannya yang adem banget, jadi nggak bikin gerah meski dipakai seharian. Desainnya bagus dan warnanya lucu, jadi si kecil bakal keliatan kece. Meskipun bahannya tipis, ini udah sesuai banget sama harganya yang terjangkau."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu sedang memakaikan baju pada bayi yang sedang duduk di karpet, lalu bayi berdiri dan berlari kecil",
+      "narration": "Ini perfect banget buat Moms yang punya anak aktif atau kalau kamu sering bawa anak keluar rumah. Kalau aktivitas kamu padat dan butuh baju yang nyaman, setelan ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4.8 dan angka 20.000 terjual muncul di layar, diakhiri dengan teks kutipan pembeli",
+      "narration": "Ratingnya 4,8 dengan dua puluh ribu produk terjual! Yang udah beli bilang bahannya adem dan pas banget di anak mereka yang usia delapan bulan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah bawah atau layar dengan teks 'Cek di finding dot id'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#NIUKID",
+    "#BajuBayi",
+    "#OOTDAnak",
+    "#BajuMurah",
+    "#ReviewProduk",
+    "#IbuBunda",
+    "#ViralIndonesia",
+    "#FindingID"
+  ],
+  "product_id": 138587,
+  "product_title": "NIUKID - Setelan Baju Bayi Lengan Pendek  Umur 0 6 Tahun Celana Baju Anak Setelan Lengan Pendek #B225 - #B230",
+  "product_price": "52339.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/138587.jpg",
+    "/uploads/products/138587_1.jpg",
+    "/uploads/products/138587_2.jpg",
+    "/uploads/products/138587_3.jpg",
+    "/uploads/products/138587_4.jpg",
+    "/uploads/products/138587_5.jpg",
+    "/uploads/products/138587_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/138587",
+  "generated_at": "2026-03-15T17:10:31.428Z"
+}

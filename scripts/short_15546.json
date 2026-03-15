@@ -1,0 +1,83 @@
+{
+  "title": "Jerawat Sembuh & Hilang? Solusi Ganda Ini!",
+  "hook_text": "Jerawat sembunyi & sembuhnya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah model dengan jerawat di pipi, lalu langsung menempelkan patch dengan gerakan cepat ke kamera.",
+      "narration": "Ada yang bilang 'Emang boleh pakai dua-duanya?' Ada yang bilang 'Ketiak jadi kering!' --- Tenang bestie, oles tipis saja ya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk FOCALSKIN Acne Cure Patch di atas meja kayu bersih, zoom in ke tekstur matte dan tipisnya.",
+      "narration": "Kenalan dong sama FOCALSKIN Acne Cure Patch, produk yang nggak cuma menutupi masalah tapi juga ngasih perawatan buat wajahmu! Ini dual-action system, day patch buat sembunyikan jerawat di siang hari dengan desain super tipis nol satu mm, dan night patch buat ngerawat sambil kamu tidur."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga naik turun lalu berhenti di angka Rp 54.000, diikuti shot kemasan 60 pcs yang besar.",
+      "narration": "Gila sih, kapasitas gede banget enam puluh pcs cuma seharga lima puluh empat ribuan! Which is worth it banget buat kamu yang suka ganti-ganti tiap hari, no cap ini jauh lebih hemat dibanding beli satu-satu terus."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: patch menempel rapi di kulit, close up bahan herbal, dan perbandingan ukuran 10mm, 12mm, 15mm di jari.",
+      "narration": "Fiturnya next level, pertama kandungannya alami ada Salicylic Acid, Calendula, dan Tea Tree yang menenangkan kulit. Kedua, tersedia tiga ukuran sepuluh belas lima belas milimeter yang disesuaikan sama ukuran jerawatmu. Ketiga, desainnya matte banget jadi nggak kelihatan norak pas kamu meeting atau nongkrong sama teman."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model wanita sedang meeting pakai topi lalu menutupi area jerawat dengan patch, ekspresi percaya diri.",
+      "narration": "Perfect buat kamu yang aktif banget di siang hari dan butuh wajah yang tetap rapi. Kalau aktivitas kamu sering banget ngantor atau dating, ini solusi terbaik biar jerawatmu nggak jadi aib."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang empat sembilan satu dan angka enam puluh ribu terjual, lalu teks overlay kutipan pembeli.",
+      "narration": "Rating empat sembilan satu dan udah ada enam puluh ribu produk terjual. Kata pembelinya 'Baru bbrpa kali di aplikasikan ke muka enak bnget dingin jdi seger ke kulit wajah'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol 'Cek Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#FOCALSKIN",
+    "#AcneCurePatch",
+    "#JerawatSembuh",
+    "#SkincareIndo",
+    "#GenZSkincare",
+    "#PatchJerawat",
+    "#SolusiJerawat",
+    "#FindingId"
+  ],
+  "product_id": 15546,
+  "product_title": "FOCALSKIN Acne Cure Patch Pimple Patch Acne Spot / Sticker Jerawat / Tempelan Penutup Jerawat 60 Pcs (Day 30pcs & Night 30pcs)",
+  "product_price": "54000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/15546.jpg",
+    "/uploads/products/15546_1.jpg",
+    "/uploads/products/15546_2.jpg",
+    "/uploads/products/15546_3.jpg",
+    "/uploads/products/15546_4.jpg",
+    "/uploads/products/15546_5.jpg",
+    "/uploads/products/15546_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/15546",
+  "generated_at": "2026-03-14T03:53:44.257Z"
+}

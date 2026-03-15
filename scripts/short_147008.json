@@ -1,0 +1,83 @@
+{
+  "title": "Kaos Turtleneck Abis 106RB, Worth It?",
+  "hook_text": "Stop Scroll! Kaos Turtleneck Cuma 100RB-an?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up kaos abu misty dengan transisi cepat, teks overlay besar muncul.",
+      "narration": "Bestie, kamu percaya nggak kalau kaos turtleneck yang kelihatan mahal ini harganya cuma seratus enam puluhan ribu doang?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot model mengenakan kaos, zoom in ke tekstur bahan dan potongan leher.",
+      "narration": "Kenalin nih, WAREHOUSE.LYRIC Basic Men's Turtleneck Long Sleeve di warna Abu Misty. Literally so clean, potongan slim fit yang bikin badan kelihatan proporsional banget, no cap!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga muncul di layar, lalu transisi ke tumpukan kaos yang rapi.",
+      "narration": "Bayangin deh, kualitas bahan yang tebel tapi nggak bikin gerah, harganya cuma satu jutaan? Seriously, which is worth it banget kalau dibandingin sama kaos lain di luar sana."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: tangan meremas bahan (menunjukkan ketebalan), model berputar (menunjukkan fit), close-up jahitan.",
+      "narration": "Fitur utamanya tuh apa sih? Pertama, bahannya tebal banget tapi breathable, jadi nggak panas meskipun dipakai seharian. Kedua, potongan slim fit yang pas di badan, nggak kegedean kayak karung. Ketiga, warna Abu Misty-nya itu putih bersih dan elegan, cocok buat outfit formal maupun casual."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: seseorang memakai kaos ini saat meeting atau jalan-jalan sore.",
+      "narration": "Produk ini perfect buat kamu yang suka gaya simpel tapi tetap terlihat rapi. Kalau aktivitas kamu sering dari kantor ke nongkrong, kaos ini jadi solusi satu hari penuh."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.8 dan angka 20.000 terjual, teks kutipan pembeli muncul.",
+      "narration": "Ratingnya 4.8 dari 5 bintang dan udah terjual 20.000 produk! Yang udah beli bilang, 'Bahan tebel tapi ga panas, top markotop deh pas di badan'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol 'Cek Sekarang' dan logo finding.id muncul dengan animasi fun.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#WAREHOUSELYRIC",
+    "#KaosTurtleneck",
+    "#OutfitPria",
+    "#OOTDPria",
+    "#ProdukViral",
+    "#FashionMurah",
+    "#FindingID",
+    "#GayaGenZ"
+  ],
+  "product_id": 147008,
+  "product_title": "[WAREHOUSE.LYRIC] - KAOS TURTLE NECK PRIA LENGAN PANJANG / BASIC MEN'S TURTLE NECK LONG SLEEVE ABU MISTY",
+  "product_price": "106000.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/147008.jpg",
+    "/uploads/products/147008_1.jpg",
+    "/uploads/products/147008_2.jpg",
+    "/uploads/products/147008_3.jpg",
+    "/uploads/products/147008_4.jpg",
+    "/uploads/products/147008_5.jpg",
+    "/uploads/products/147008_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/147008",
+  "generated_at": "2026-03-15T17:31:33.607Z"
+}

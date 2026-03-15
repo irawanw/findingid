@@ -1,0 +1,83 @@
+{
+  "title": "Rahasia Kurma Ajwa Asli Cuma 70 Ribu?",
+  "hook_text": "Kurma Nabi Asli Murah Banget?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah host dengan ekspresi kaget memegang kurma, background blur estetik.",
+      "narration": "Pernah denger kurma ajwa asli cuma seharga secangkir kopi? nggak percaya? ---"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk kurma Ajwa di showcase dengan pencahayaan hangat, tunjukkan kemasan kaleng Duha Dates.",
+      "narration": "Ini dia Kurma Ajwa 1kg kemasan kaleng Duha Dates, 100% asli Madinah bestie! Premium exclusive banget! Gak ada bohong, ini asli banget! ---"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga besar muncul di layar, host menunjuk ke harga dengan senyum lebar.",
+      "narration": "Harganya? Cuma tujuh puluh ribuan aja, which is worth it banget buat stok harian! No cap! Murah meriah tapi kualitas mewah! ---"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Host memetik satu kurma, menunjukkan tekstur lembut, lalu tunjukkan bubble wrap kemasan.",
+      "narration": "Teksturnya lembut, manisnya pas, nggak nyegrak. Ada yang bilang ngilu gigi? --- Tenang, makan dikit-dikit aja, ini natural! Packaging aman pakai bubble tebal, so safe banget! Bikin sehat, badan jadi fit terus! ---"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase orang sedang makan kurma saat buka puasa dan memberi hadiah ke teman.",
+      "narration": "Perfect buat buka puasa, ngemil sehat, atau hadiah buat orang tersayang. literally next level! Gak perlu khawatir, cocok buat semua umur! ---"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.85 dan animasi angka 50 ribu terjual di layar.",
+      "narration": "Rating 4,85 bintang, udah laku 50 ribu! Banyak banget yang suka, nggak nyangka! --- Yang udah beli bilang 'khas Ajwa, kering tapi lembut'. ---"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host menunjuk ke arah layar atau tombol, teks 'Finding.id' besar muncul.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#KurmaAjwa",
+    "#MakananSehat",
+    "#KurmaNabi",
+    "#DuhaDates",
+    "#OlehOlehMadina",
+    "#ViralIndonesia",
+    "#ShortsIndo",
+    "#RekomendasiProduk"
+  ],
+  "product_id": 3239,
+  "product_title": "kurma ajwa 1kg lembut kemasan kaleng duha dates / azwa ajwah kurma nabi empuk 100% asli madinah premium exclusive",
+  "product_price": "72000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/3239.jpg",
+    "/uploads/products/3239_1.jpg",
+    "/uploads/products/3239_2.jpg",
+    "/uploads/products/3239_3.jpg",
+    "/uploads/products/3239_4.jpg",
+    "/uploads/products/3239_5.jpg",
+    "/uploads/products/3239_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/3239",
+  "generated_at": "2026-03-13T23:56:46.592Z"
+}

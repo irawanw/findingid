@@ -1,0 +1,83 @@
+{
+  "title": "Koper Louis 6171: Wangi! Worth It?",
+  "hook_text": "Koper 20 inch di angka 159 ribuan?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tangan membuka koper Louis 6171 dengan efek suara 'pop' yang memuaskan",
+      "narration": "Stop scroll! Kamu nggak bakal percaya kalau koper hardcase keren kayak gini harganya cuma seratus lima puluh sembilan ribuan."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Panoramen koper Louis 6171 diletakkan di lantai kamar hotel yang rapi dengan latar jendela",
+      "narration": "Ini dia Louis Original tipe enam seratus tujuh belas, ukuran dua puluh inci. Basically next level buat kebutuhan perjalanan pendek atau pulang kampung, which is worth it banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri tumpukan koper mahal, kanan koper Louis ini dengan stiker harga Rp 160 ribuan yang besar",
+      "narration": "Gak perlu pusing mikir koper satu jutaan. Buat harga segini kamu dapat hardcase ABS yang super awet, anti gores, dan ringan dibawa. No cap, ini deal terbaik tahun ini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Roda berputar mulus, 2. Tutup dibuka menutup dengan klik tegas, 3. Warna ungu lembut dan elegan",
+      "narration": "Pertama, rodanya smooth banget di lantai licin. Kedua, locking mechanismnya kuat dan aman. Ketiga, warnanya lembut nggak mencolok mata, jadi cocok sama semua outfit kamu, bestie."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: gadis muda sedang packing baju rapi ke dalam koper ini di depan cermin",
+      "narration": "Perfect buat kamu yang sering traveling ke luar kota atau kuliah di luar pulau. Ukurannya pas, nggak terlalu besar bikin repot, tapi isinya muat banyak baju."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Overlay rating bintang 4.85 besar dan angka 30.000 terjual, lalu muncul bubble chat pembeli",
+      "narration": "Rating empat delapan lima dari tiga puluh ribu yang udah beli bilang desainnya simpel namun elegan dan ukuran pas banget. Jadi, jangan ragu lagi!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan efek glow, teks 'Cek Sekarang' berkedip",
+      "narration": "Penasaran sama stok dan detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya!",
+  "hashtags": [
+    "#KoperLouis",
+    "#TravelingIndonesia",
+    "#KoperMurah",
+    "#HardcaseABS",
+    "#OOTDTravel",
+    "#ShoppingFinds",
+    "#FindingID",
+    "#WajibBawa"
+  ],
+  "product_id": 51869,
+  "product_title": "KOPER BAJU POLO LOUIS ORIGINAL 6171 20 INCH FREE PACKING DUS / KOPER KABIN / KOPER MURAH / KOPER ABS / KOPER HARDCASE",
+  "product_price": "160051.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/51869.jpg",
+    "/uploads/products/51869_1.jpg",
+    "/uploads/products/51869_2.jpg",
+    "/uploads/products/51869_3.jpg",
+    "/uploads/products/51869_4.jpg",
+    "/uploads/products/51869_5.jpg",
+    "/uploads/products/51869_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/51869",
+  "generated_at": "2026-03-14T04:28:38.791Z"
+}

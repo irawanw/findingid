@@ -1,0 +1,83 @@
+{
+  "title": "Sandal Heels Block Heel 5cm Worth It Banget!",
+  "hook_text": "Kaki lebat takut heels?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up shot kaki dengan sandal chunky sedang melangkah percaya diri di jalanan kota.",
+      "narration": "Stop scrolling bestie! Ada yang bilang kalau kakinya lebar nggak bakal muat di heels kan? Nggak dong!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Pan full dari atas ke bawah menunjukkan model PATRIS Carisha Sandal dengan angle yang menonjolkan block heel.",
+      "narration": "Kenalan deh sama PATRIS Carisha Sandal wanita ini. Dengan high block heel lima sentimeter yang bikin postur kamu langsung kelihatan setinggi langit-langit gedung, which is literally next level!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar dengan animasi harga turun drastis, lalu muncul teks 'Worth it banget!'.",
+      "narration": "Duh, harga cuma seratus sembilan puluh tiga ribuan sampai sembilan ratus ribuan doang. Seratus sembilan puluh tiga ribuan untuk kualitas segini? Wah, which is worth it banget sih!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tekstur kulit faux leather yang halus, bentuk ujung terbuka yang cantik, dan aksen elegan pada bagian depan sandal.",
+      "narration": "Bahan faux leather-nya halus dan empuk di kaki, nggak bikin lecet sama sekali. Model ujungnya terbuka jadi super fresh buat dipakai di siang hari yang panas. Tampilannya elegan tapi nggak pasaran, cocok banget buat outfit casual maupun formal, basically no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot seseorang sedang jalan-jalan santai sambil ngopi atau nunggu teman, terlihat nyaman dan percaya diri.",
+      "narration": "Perfect buat kamu yang sering cari sepatu heels nyaman tapi tetap mau kelihatan stylish. Kalau aktivitas kamu sering jalan-jalan atau ngejar kereta, block heel ini juara, nggak bakal bikin kaki pegel!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.88 bintang lima dan angka '20.000+' terjual di layar dengan background warna cerah.",
+      "narration": "Rating empat koma delapan delapan dari dua puluh ribu produk yang udah dibeli. Pembelinya pada bilang tampilan elegan dan bahannya halus banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi fun dan panah mengarah ke bawah/ke samping.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#SandalHeels",
+    "#SepatuWanita",
+    "#PATRIS",
+    "#ChunkyHeels",
+    "#OOTDIndonesia",
+    "#FashionTips",
+    "#WorthIt",
+    "#StyleInspo"
+  ],
+  "product_id": 86867,
+  "product_title": "PATRIS Carisha Sandal Wanita Heels / Hak 5 Cm",
+  "product_price": "193000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/86867.jpg",
+    "/uploads/products/86867_1.jpg",
+    "/uploads/products/86867_2.jpg",
+    "/uploads/products/86867_3.jpg",
+    "/uploads/products/86867_4.jpg",
+    "/uploads/products/86867_5.jpg",
+    "/uploads/products/86867_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/86867",
+  "generated_at": "2026-03-14T04:27:42.097Z"
+}

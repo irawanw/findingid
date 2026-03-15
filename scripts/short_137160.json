@@ -1,0 +1,83 @@
+{
+  "title": "Blender Philips 2 Liter yang Bikin Hidup Jadi Gampang!",
+  "hook_text": "Stop scroll kalau kamu butuh blender serbaguna!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up blender Philips berputar kencang memblender buah-buahan segar dengan efek slow motion yang cinematic",
+      "narration": "Eits stop dulu bestie! Kamu pasti udah sering galau mau beli blender tapi takut kualitasnya nggak meyakinkan kan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Blender Philips Plastik 2 liter 5000 Series HR2223/60 tampil elegan di atas meja kayu dengan pencahayaan soft",
+      "narration": "Tenang, aku nemu solusinya nih! Ini Blender Philips Plastik 2 liter seri 5000 yang bener-bener next level buat kamu yang hobi bikin jus dan sambal."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek uang jatuh, lalu transisi cepat ke shot pengguna tersenyum memegang blender",
+      "narration": "Gila sih harganya cuma seratus delapan puluhan ribu! Bayangkan dapet mesin blender top dengan kapasitas dua liter seharga itu, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menampilkan ketiga fungsi: chopper untuk bumbu, dry mill untuk biji kopi, dan filter untuk saringan halus",
+      "narration": "Fiturnya literally super lengkap! Pertama fitur chopper buat bumbu halus, kedua dry mill buat biji kopi, dan yang paling keren ada filter saringannya buat hasil yang super halus tanpa ampas."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: anak kos masak di kamar, ibu rumah tangga bikin jus pagi, dan mahasiswa bikin smoothie",
+      "narration": "Perfect buat kamu yang sering masak di rumah, anak kos yang mau hemat tapi tetap estetik, atau siapa aja yang aktivitasnya butuh blender serbaguna setiap hari!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 5 besar dan angka penjualan, lalu muncul teks kutipan pembeli di bawahnya",
+      "narration": "Dibuktikan sama tiga puluh ribu produk yang udah terjual dan rating empat koma delapan delapan. Pembelinya pada bilang barangnya aman lengkap dan berfungsi dengan baik."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi tombol beli yang berdenyut, latar belakang warna cerah",
+      "narration": "Penasaran mau tau detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#BlenderPhilips",
+    "#DapurEstetik",
+    "#ReviewProduk",
+    "#Bestie",
+    "#ViralIndonesia",
+    "#HomeAppliances",
+    "#Kekinian",
+    "#FindingId"
+  ],
+  "product_id": 137160,
+  "product_title": "Blender Philips Plastik 2 liter - 5000 Series HR2223/60 - Blender jus - Blender bumbu philips ( Chopper, Dry Mill, Filter ) - Blender Serbaguna - Blender Terbaik - Misty Dawn",
+  "product_price": "989000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/137160.jpg",
+    "/uploads/products/137160_1.jpg",
+    "/uploads/products/137160_2.jpg",
+    "/uploads/products/137160_3.jpg",
+    "/uploads/products/137160_4.jpg",
+    "/uploads/products/137160_5.jpg",
+    "/uploads/products/137160_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/137160",
+  "generated_at": "2026-03-14T04:34:17.197Z"
+}

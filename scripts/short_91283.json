@@ -1,0 +1,85 @@
+{
+  "title": "Hak Tinggi 5cm tapi Nyaman Banget?!",
+  "hook_text": "Hak 5cm tapi nggak lecet?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up kaki model memakai sandal brukat hitam sedang menari atau berjalan percaya diri di lantai pesta dengan efek suara 'whoosh' lucu.",
+      "narration": "Stop scrolling dulu bestie! Siapa bilang hak tinggi lima sentimeter bikin kaki kamu lecet dan nggak nyaman sama sekali?!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan berbagai warna sandal (Salem, Abu, Marun, Hitam, Mocca, Crem) di atas meja kayu yang estetik.",
+      "narration": "Ini dia sandal brukat pesta kekinian yang literally so cute! Dengan desain ujung lancip yang elegan dan bahan jala import tebal banget, which is bikin kamu kelihatan mewah tanpa perlu keluar dompet kaget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan angka harga dengan efek confetti jatuh, lalu gambar produk berputar 360 derajat.",
+      "narration": "Gila sih harganya cuma enam puluhan ribu rupiah! Kamu bisa dapet sandal formal mewah ini dengan harga yang nggak bikin dompet kaget, which is worth it banget buat outfit kondangan kamu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan insole empuk ditekan, kanan tunjukkan sol tidak licin saat disenggol, bawah tunjukkan detail jahitan rapi.",
+      "narration": "No cap, fitur fiturnya next level! Pertama, insole double foam yang empuk banget dan ringan, jadi kakimu nggak bakal pegal. Kedua, solnya anti-slip sehingga kamu aman banget nari. Ketiga, bahannya sintetis berkualitas tinggi yang nggak gampang sobek dan tahan lama buat dipakai ulang."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage foto wanita pakai sandal ini di acara pernikahan, syukuran, dan pesta ulang tahun dengan senyum ceria.",
+      "narration": "Perfect buat kamu yang lagi cari sepatu pesta kondangan atau acara formal. Kalau aktivitas kamu sering butuh gaya elegan tapi tetap harus nyaman seharian, mending pilih ini dong!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.82 dan angka 20.000 terjual dengan latar belakang banyak hati merah muda.",
+      "narration": "Pembelinya pada ngomong barangnya nyaman dipakai, empuk, dan sudah anti-slip. Jadi nggak perlu ragu lagi ya bestie!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan animasi panah menunjuk ke bawah, lalu teks 'Cek di finding dot id' berkedip.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#sandalpesta",
+    "#fashionwanita",
+    "#outfitkondangan",
+    "#shoppingsesuai",
+    "#findingid",
+    "#gayaestetik",
+    "#sepatumerah",
+    "#kekinian"
+  ],
+  "product_id": 91283,
+  "product_title": "Heels pesta wanita hak tahu 5cm terbaru kekinian/sendal selop brukat pengantin wanita/sandal pesta kondangan perempuan bisa cod/sandal wanita formal mewah",
+  "product_price": "56099.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/91283.jpg",
+    "/uploads/products/91283_1.jpg",
+    "/uploads/products/91283_2.jpg",
+    "/uploads/products/91283_3.jpg",
+    "/uploads/products/91283_4.jpg",
+    "/uploads/products/91283_5.jpg",
+    "/uploads/products/91283_6.jpg",
+    "/uploads/products/91283_7.jpg",
+    "/uploads/products/91283_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/91283",
+  "generated_at": "2026-03-15T05:59:09.799Z"
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Pantofel Kerja Murah Kualitas Butik!",
+  "hook_text": "Pantofel harga seharga kopi?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up sepatu pantofel wanita dengan efek cahaya dramatis",
+      "narration": "Pantofel kerja kualitas butik, harga cuma seharga secangkir kopi? No cap! --- Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Model memakai sepatu Zeintin sambil jalan santai di kantor",
+      "narration": "Ini Zeintin Pantofel Wanita Kasual Formal. --- Tampilannya elegan banget, bisa buat kerja maupun acara resmi yang butuh kesan rapi."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks harga muncul besar di layar dengan efek koin jatuh",
+      "narration": "Harganya cuma seratus dua puluh tujuh ribu sembilan ratus empat puluh empat rupiah. --- Literally murah banget, which is worth it!"
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Detail close-up sol, bahan, dan jahitan sepatu",
+      "narration": "Fiturnya next level. --- Pertama, bahan tebal kokoh. Kedua, desain berkualitas tinggi. --- Ketiga, sol nyaman dipakai seharian tanpa pegal."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Split screen perbandingan sepatu biasa vs Zeintin",
+      "narration": "Kelebihan utamanya, Desain berkualitas yang bikin kamu percaya diri. --- Ketebalan tebal kokoh, nggak gampang rusak. --- Bisa dipakai formal maupun unformal. --- Oh ya, soal ukuran, kalau biasa pakai empat puluh, pilih empat satu biar nyaman. --- Barang bahan bagus yang awet, tapi kalau ringnya kekecilan, pilih ukuran lebih besar."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Montage siswa paskibra dan karyawan kantor pakai sepatu ini",
+      "narration": "Perfect buat kamu yang kerja kantoran, siswa paskibra, atau butuh sepatu sekolah. --- Kalau aktivitas kamu padat, ini solusi terbaik buat kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Screenshot rating bintang dan counter jumlah terjual",
+      "narration": "Ratingnya empat koma delapan lima dari lima. --- Udah terjual tiga puluh ribu produk. --- Reviewnya bilang, 'Kenyamanan cukup nyaman' dan bahan bagus."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Tiga varian warna sepatu berjejer rapi",
+      "narration": "Ada varian hitam, cokelat, dan nude. --- Pilih warna favorit kamu yang paling pas dengan gaya kamu."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tombol beli muncul dengan panah mengarah ke bawah",
+      "narration": "Jangan tunggu lama, klik link di bio sekarang. --- Beli sekarang yuk sebelum kehabisan!"
+    }
+  ],
+  "cta": "Klik link di bio untuk beli sekarang!",
+  "hashtags": [
+    "#Zeintin",
+    "#SepatuPantofel",
+    "#SepatuKerja",
+    "#OotdKerja",
+    "#TipsSepatu",
+    "#ViralShoes",
+    "#Paskibra",
+    "#RekomendasiSepatu"
+  ],
+  "product_id": 89626,
+  "product_title": "Zeintin - Sepatu Pantofel Wanita Kasual Formal Sepatu Kerja Paskibra Wanita ZO",
+  "product_price": "127944.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/89626.jpg",
+    "/uploads/products/89626_1.jpg",
+    "/uploads/products/89626_2.jpg",
+    "/uploads/products/89626_3.jpg",
+    "/uploads/products/89626_4.jpg",
+    "/uploads/products/89626_5.jpg",
+    "/uploads/products/89626_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/89626",
+  "generated_at": "2026-03-13T04:56:07.398Z"
+}

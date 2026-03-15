@@ -1,0 +1,84 @@
+{
+  "title": "Celana Kantor Viral 5L! Adem & Murah Banget",
+  "hook_text": "Nemu celana kerja paling nyaman seharga segini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kaget dengan teks besar di layar.",
+      "narration": "Stop scroll! Nemu celana kerja paling nyaman seharga segini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk celana digantung dengan gerakan kamera cepat.",
+      "narration": "Ini dia celana grassela import high waist yang lagi hype banget buat kamu yang cari gaya!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Zoom in pada label harga dengan efek kaget.",
+      "narration": "Kira-kira berapa? Kena harga enam puluhan ribuan saja, which is worth it banget buat kualitas sepremium ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage bahan celana ditarik dan dipakai saat duduk.",
+      "narration": "Bahannya grasela import, literally adem dan halus banget --- Ada yang bilang bahannya melar banget! Plus high waist bikin siluet lebih proporsional, which is so cool."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video wanita bekerja di kantor dan ibu rumah tangga.",
+      "narration": "Buat kamu yang sering kerja di kantor atau ibu rumah tangga yang butuh baju santai seharian tanpa merasa gerah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang dan jumlah terjual di layar.",
+      "narration": "30 ribu orang sudah beli, rating 4.83 --- Yang udah beli bilang 'Baguuuss bangeett, ukurannya juga pas di bb ku 55'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks alamat website muncul dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#celanakerja",
+    "#celana5L",
+    "#fashionindonesia",
+    "#viralproduct",
+    "#celanawanita",
+    "#outfitkerja",
+    "#findingid",
+    "#ootd"
+  ],
+  "product_id": 128567,
+  "product_title": "Celana kantor kerja wanita pinggang karet bahan import premium size M 5L",
+  "product_price": "67898.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/128567.jpg",
+    "/uploads/products/128567_1.jpg",
+    "/uploads/products/128567_2.jpg",
+    "/uploads/products/128567_3.jpg",
+    "/uploads/products/128567_4.jpg",
+    "/uploads/products/128567_5.jpg",
+    "/uploads/products/128567_6.jpg",
+    "/uploads/products/128567_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/128567",
+  "generated_at": "2026-03-13T21:43:40.161Z"
+}

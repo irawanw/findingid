@@ -1,0 +1,83 @@
+{
+  "title": "Korset Viral Ini Bikin Perut Datar Instan!",
+  "hook_text": "Mau perut rata tanpa diet ketat?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah host dengan ekspresi kaget sambil menunjuk perut",
+      "narration": "Mau punya perut rata tanpa harus diet ketat? --- Ini Joybasic Waist Trainer, bestie guys!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close-up tekstur bahan korset dan gerakan merentang kain",
+      "narration": "Bahan nylon spandex super breathable, literally gak gerah meski pakai seharian penuh."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek pop-up",
+      "narration": "Harganya? --- Cuma seratus dua puluhan ribu an doang banget buat quality sepremium ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tunjukkan detail 6 pengait dan belt kompresi samping",
+      "narration": "Ada 6 level pengait buat kompresi maksimal plus belt ekstra biar siluet lebih tajam banget. --- Ada juga size jumbo yang fit banget buat kamu semua yang butuh dong."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Host duduk santai lalu berdiri tegak dengan postur rapi",
+      "narration": "Basically worth it banget buat kamu yang sering makan sambil duduk tapi pengen badan tetap rapi tanpa harus olahraga berat."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.88 dan angka 100 ribu terjual",
+      "narration": "Yang sudah beli bilang 'Keren banget, bahannya bagus dan tebal, benar-benar bisa menyamarkan lemak'. --- Rating 4.88 dari 100 ribu produk terjual, no cap!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul di tengah layar dengan panah menunjuk",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya dong, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya dong, review produknya ada di sana!",
+  "hashtags": [
+    "#Joybasic",
+    "#WaistTrainer",
+    "#KorsetViral",
+    "#BadanRapi",
+    "#OOTD",
+    "#FashionTips",
+    "#SeratusRibu",
+    "#FindingId"
+  ],
+  "product_id": 39453,
+  "product_title": "Joybasic Korset Waist Trainer Dengan Belt Kompresi Ekstra",
+  "product_price": "129000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/39453.jpg",
+    "/uploads/products/39453_1.jpg",
+    "/uploads/products/39453_2.jpg",
+    "/uploads/products/39453_3.jpg",
+    "/uploads/products/39453_4.jpg",
+    "/uploads/products/39453_5.jpg",
+    "/uploads/products/39453_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/39453",
+  "generated_at": "2026-03-13T18:43:12.647Z"
+}

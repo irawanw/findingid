@@ -1,0 +1,85 @@
+{
+  "title": "Meja Setrika Kayu Jati Ini Bikin Goyang? No Cap!",
+  "hook_text": "Meja Setrika Goyang? Stop Scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up meja setrika lipat biasa yang goyang, transisi cepat ke meja kayu jati yang kokoh.",
+      "narration": "Masih setrika pakai meja lipat biasa yang goyang? --- Kenalin nih, Meja Setrika Kayu Jati Besar."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai angle, highlight tekstur kayu jati yang natural.",
+      "narration": "Asli Indonesia, kokoh banget. --- Bahan kayu jati asli yang solid dan tahan lama."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul dengan efek pop-up besar di layar, background produk blur.",
+      "narration": "Harganya bikin kaget, mulai seratus enam puluhan sampe tiga ratusan ribu doang. --- Worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi pengaturan tinggi meja, tray untuk baju, dan kaki meja kayu.",
+      "narration": "Kayu jati asli, tinggi bisa diatur, plus ada tray buat taruh baju. --- Tapi hati-hati bestie, pas pasang kaki pastikan rata biar nggak goyang dikit. Bahan kayu solid jadi awet banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Tone of voice berubah jadi lebih personal, shot lifestyle orang sedang menyetrika dengan nyaman.",
+      "narration": "Perfect buat aku yang sering masak atau butuh meja kerja dadakan. --- Suka yang natural atau luxury black? --- Ada kok pilihanmu. Ini emang next level buat urusan rumah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4.89 dan jumlah 20.000 terjual muncul besar, background user comment.",
+      "narration": "Udah laku dua puluh ribu, rating 4.89. --- Ada yang udah beli bilang 'Sekalian aku buat meja kerja hahaha'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke layar, teks finding dot id muncul jelas.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#MejaSetrika",
+    "#FurnitureIndonesia",
+    "#RacunShopee",
+    "#HomeDecor",
+    "#GenZ",
+    "#Viral",
+    "#FindingID",
+    "#TipsRumah"
+  ],
+  "product_id": 71726,
+  "product_title": "Meja Setrika Kayu Jati Besar Dengan Tray",
+  "product_price": "165000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/71726.jpg",
+    "/uploads/products/71726_1.jpg",
+    "/uploads/products/71726_2.jpg",
+    "/uploads/products/71726_3.jpg",
+    "/uploads/products/71726_4.jpg",
+    "/uploads/products/71726_5.jpg",
+    "/uploads/products/71726_6.jpg",
+    "/uploads/products/71726_7.jpg",
+    "/uploads/products/71726_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/71726",
+  "generated_at": "2026-03-13T22:37:07.649Z"
+}

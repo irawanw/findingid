@@ -1,0 +1,83 @@
+{
+  "title": "Flashdisk 2TB Cuma 100 Ribu Aja Bestie!",
+  "hook_text": "Storage HP Penuh? Jangan Panik!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up HP dengan notifikasi storage penuh, lalu transisi cepat ke flashdisk",
+      "narration": "Storage HP penuh? Jangan panik bestie! --- Ada solusi gila nih."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk flashdisk transparan berputar di atas meja dengan pencahayaan cinematik",
+      "narration": "Kenalin, HP Flashdisk OTG Type C 2TB dari Vayla Shop. Dual interface, bisa langsung colok ke HP dan laptop."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga besar muncul di tengah layar dengan efek glitch",
+      "narration": "Kapasitas 2TB, harga cuma seratus ribuan aja. Dulu pernah turun ke enam puluhan ribu, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo plug into HP Type-C, lalu USB 3.0, tunjukkan gantungan kunci",
+      "narration": "Ada Type-C, USB 3.0, plus adaptor Micro. Desain transparan, gantungan kunci lengkap. No cap, beneran jalan stabil buat tugas ringan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Siswa sedang transfer file tugas di perpustakaan, lalu cut ke pengguna HP",
+      "narration": "Perfect buat mahasiswa upload tugas. Atau kamu butuh backup foto biar HP nggak lemot."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.67 dan angka 30.000 terjual di layar",
+      "narration": "Rating 4.67, udah laku 30 ribuan. Yang udah beli bilang 'Desain menarik, fungsi oke, kapasitas pas'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah arah ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#flashdisk",
+    "#otg",
+    "#mahasiswa",
+    "#diskon",
+    "#gadgetmurah",
+    "#storagehp",
+    "#viral",
+    "#findingid"
+  ],
+  "product_id": 10910,
+  "product_title": "HP FLASHDISK OTG TYPE C USB 1TB/2TB FLASH DRIVE ULTRA DUAL USB 3.1 Flashdisk hp dan laptop",
+  "product_price": "77000.00",
+  "product_rating": "4.67",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/10910.jpg",
+    "/uploads/products/10910_1.jpg",
+    "/uploads/products/10910_2.jpg",
+    "/uploads/products/10910_3.jpg",
+    "/uploads/products/10910_4.jpg",
+    "/uploads/products/10910_5.jpg",
+    "/uploads/products/10910_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/10910",
+  "generated_at": "2026-03-13T21:13:40.301Z"
+}

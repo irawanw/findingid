@@ -1,0 +1,75 @@
+{
+  "title": "Teko Listrik Murah 2.5L, Air Panas Instant!",
+  "hook_text": "Teko Murah Air Panas Cepet?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up air mendidih dengan uap mengepul cepat.",
+      "narration": "Air panas cepet banget tapi cuma segini? --- Ini dia jawabannya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Menampilkan teko HAN RIVER HRDSH01 utuh dengan kapasitas 2.5L.",
+      "narration": "Kenalin, HAN RIVER Teko Listrik HRDSH01. --- Kapasitas dua setengah liter, which is perfect buat ngisi ulang air sepanjang hari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafis harga muncul dengan efek wow.",
+      "narration": "Harganya? Sembilan puluh delapan ribuan aja. --- No cap, which is worth it banget dibandingin teko biasa yang dua kali lipat lebih mahal."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot air dituang, close up elemen pemanas, dan estetik di meja.",
+      "narration": "Watt-nya seribu tiga ratus, literally ngebul cepet banget. --- Plat dalemnya tipis kayak kaleng susu tapi tetep kokoh buat harian. --- Desainnya so cute di meja kerja."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang bekerja lembur sambil ngopi.",
+      "narration": "Perfect buat yang sering begadang atau butuh air panas buat ngopi. --- Hati-hati, watt-nya gede, jadi perlu matikan alat elektronik lain biar aman."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Animasi bintang rating 4.84 dan counter penjualan.",
+      "narration": "Udah terjual tiga puluh ribu produk, rating empat koma delapan empat. --- Yang udah beli bilang, 'Sepadan banget sih sama harganya'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan HP mengarah ke halaman finding.id.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#hanriver",
+    "#tekolistrik",
+    "#rumahsehat",
+    "#produkviral",
+    "#findingid",
+    "#diskon",
+    "#gadgetrumah",
+    "#tekoair"
+  ],
+  "product_id": 64767,
+  "product_title": "HAN RIVER Teko Listrik HRDSH01 Teko pemanas air listrik 2.5L",
+  "product_price": "98000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/64767",
+  "generated_at": "2026-03-13T20:12:34.206Z"
+}

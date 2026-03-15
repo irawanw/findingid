@@ -1,0 +1,1196 @@
+[
+  {
+    "word": "Stop",
+    "start_ms": 0,
+    "end_ms": 240,
+    "segment": "hook"
+  },
+  {
+    "word": "scroll",
+    "start_ms": 240,
+    "end_ms": 500,
+    "segment": "hook"
+  },
+  {
+    "word": "dulu",
+    "start_ms": 500,
+    "end_ms": 760,
+    "segment": "hook"
+  },
+  {
+    "word": "dong!",
+    "start_ms": 760,
+    "end_ms": 1140,
+    "segment": "hook"
+  },
+  {
+    "word": "Bayangin",
+    "start_ms": 1660,
+    "end_ms": 2040,
+    "segment": "hook"
+  },
+  {
+    "word": "kalau",
+    "start_ms": 2040,
+    "end_ms": 2280,
+    "segment": "hook"
+  },
+  {
+    "word": "kamar",
+    "start_ms": 2280,
+    "end_ms": 2580,
+    "segment": "hook"
+  },
+  {
+    "word": "tidur",
+    "start_ms": 2580,
+    "end_ms": 2840,
+    "segment": "hook"
+  },
+  {
+    "word": "kamu",
+    "start_ms": 2840,
+    "end_ms": 3060,
+    "segment": "hook"
+  },
+  {
+    "word": "tiba",
+    "start_ms": 3060,
+    "end_ms": 3300,
+    "segment": "hook"
+  },
+  {
+    "word": "-tiba",
+    "start_ms": 3300,
+    "end_ms": 3520,
+    "segment": "hook"
+  },
+  {
+    "word": "wangi",
+    "start_ms": 3520,
+    "end_ms": 3800,
+    "segment": "hook"
+  },
+  {
+    "word": "kaya",
+    "start_ms": 3800,
+    "end_ms": 4019,
+    "segment": "hook"
+  },
+  {
+    "word": "hotel",
+    "start_ms": 4019,
+    "end_ms": 4260,
+    "segment": "hook"
+  },
+  {
+    "word": "bintang",
+    "start_ms": 4260,
+    "end_ms": 4640,
+    "segment": "hook"
+  },
+  {
+    "word": "lima,",
+    "start_ms": 4640,
+    "end_ms": 4980,
+    "segment": "hook"
+  },
+  {
+    "word": "which",
+    "start_ms": 5360,
+    "end_ms": 5600,
+    "segment": "hook"
+  },
+  {
+    "word": "is",
+    "start_ms": 5600,
+    "end_ms": 5760,
+    "segment": "hook"
+  },
+  {
+    "word": "literally",
+    "start_ms": 5760,
+    "end_ms": 6240,
+    "segment": "hook"
+  },
+  {
+    "word": "next",
+    "start_ms": 6240,
+    "end_ms": 6520,
+    "segment": "hook"
+  },
+  {
+    "word": "level.",
+    "start_ms": 6520,
+    "end_ms": 6960,
+    "segment": "hook"
+  },
+  {
+    "word": "Kenalan",
+    "start_ms": 7720,
+    "end_ms": 8160,
+    "segment": "unknown"
+  },
+  {
+    "word": "sama",
+    "start_ms": 8160,
+    "end_ms": 8440,
+    "segment": "reveal"
+  },
+  {
+    "word": "rumah",
+    "start_ms": 8440,
+    "end_ms": 8640,
+    "segment": "reveal"
+  },
+  {
+    "word": "wangi,",
+    "start_ms": 8640,
+    "end_ms": 9060,
+    "segment": "reveal"
+  },
+  {
+    "word": "arah,",
+    "start_ms": 9300,
+    "end_ms": 9640,
+    "segment": "reveal"
+  },
+  {
+    "word": "read,",
+    "start_ms": 9680,
+    "end_ms": 9760,
+    "segment": "reveal"
+  },
+  {
+    "word": "diffuser",
+    "start_ms": 9960,
+    "end_ms": 10160,
+    "segment": "reveal"
+  },
+  {
+    "word": "premium",
+    "start_ms": 10160,
+    "end_ms": 10540,
+    "segment": "reveal"
+  },
+  {
+    "word": "di",
+    "start_ms": 10540,
+    "end_ms": 10720,
+    "segment": "reveal"
+  },
+  {
+    "word": "besti.",
+    "start_ms": 10720,
+    "end_ms": 11120,
+    "segment": "reveal"
+  },
+  {
+    "word": "Diformulasikan",
+    "start_ms": 11900,
+    "end_ms": 12540,
+    "segment": "reveal"
+  },
+  {
+    "word": "dari",
+    "start_ms": 12540,
+    "end_ms": 12760,
+    "segment": "reveal"
+  },
+  {
+    "word": "essential",
+    "start_ms": 12760,
+    "end_ms": 13200,
+    "segment": "reveal"
+  },
+  {
+    "word": "oil",
+    "start_ms": 13200,
+    "end_ms": 13500,
+    "segment": "reveal"
+  },
+  {
+    "word": "alami",
+    "start_ms": 13500,
+    "end_ms": 13980,
+    "segment": "reveal"
+  },
+  {
+    "word": "berkualitas",
+    "start_ms": 13980,
+    "end_ms": 14480,
+    "segment": "reveal"
+  },
+  {
+    "word": "tinggi,",
+    "start_ms": 14480,
+    "end_ms": 14920,
+    "segment": "reveal"
+  },
+  {
+    "word": "jadi",
+    "start_ms": 15380,
+    "end_ms": 15500,
+    "segment": "reveal"
+  },
+  {
+    "word": "aromaterapin",
+    "start_ms": 15500,
+    "end_ms": 16180,
+    "segment": "reveal"
+  },
+  {
+    "word": "yang",
+    "start_ms": 16180,
+    "end_ms": 16260,
+    "segment": "reveal"
+  },
+  {
+    "word": "gak",
+    "start_ms": 16260,
+    "end_ms": 16400,
+    "segment": "reveal"
+  },
+  {
+    "word": "cuma",
+    "start_ms": 16400,
+    "end_ms": 16620,
+    "segment": "reveal"
+  },
+  {
+    "word": "harum,",
+    "start_ms": 16620,
+    "end_ms": 17040,
+    "segment": "reveal"
+  },
+  {
+    "word": "tapi",
+    "start_ms": 17380,
+    "end_ms": 17540,
+    "segment": "reveal"
+  },
+  {
+    "word": "juga",
+    "start_ms": 17540,
+    "end_ms": 17740,
+    "segment": "reveal"
+  },
+  {
+    "word": "bikin",
+    "start_ms": 17740,
+    "end_ms": 18020,
+    "segment": "reveal"
+  },
+  {
+    "word": "ketenangan",
+    "start_ms": 18020,
+    "end_ms": 18400,
+    "segment": "reveal"
+  },
+  {
+    "word": "langsung",
+    "start_ms": 18400,
+    "end_ms": 18760,
+    "segment": "reveal"
+  },
+  {
+    "word": "nempel",
+    "start_ms": 18760,
+    "end_ms": 19140,
+    "segment": "reveal"
+  },
+  {
+    "word": "diruangan.",
+    "start_ms": 19140,
+    "end_ms": 19560,
+    "segment": "reveal"
+  },
+  {
+    "word": "Gila",
+    "start_ms": 20340,
+    "end_ms": 20700,
+    "segment": "reveal"
+  },
+  {
+    "word": "sih!",
+    "start_ms": 20700,
+    "end_ms": 20940,
+    "segment": "price_wow"
+  },
+  {
+    "word": "Harganya",
+    "start_ms": 21640,
+    "end_ms": 21940,
+    "segment": "price_wow"
+  },
+  {
+    "word": "cuma",
+    "start_ms": 21940,
+    "end_ms": 22140,
+    "segment": "price_wow"
+  },
+  {
+    "word": "mulai",
+    "start_ms": 22140,
+    "end_ms": 22440,
+    "segment": "price_wow"
+  },
+  {
+    "word": "dari",
+    "start_ms": 22440,
+    "end_ms": 22640,
+    "segment": "price_wow"
+  },
+  {
+    "word": "180",
+    "start_ms": 22640,
+    "end_ms": 23360,
+    "segment": "price_wow"
+  },
+  {
+    "word": "ribuan",
+    "start_ms": 23360,
+    "end_ms": 24100,
+    "segment": "price_wow"
+  },
+  {
+    "word": "sampai",
+    "start_ms": 24100,
+    "end_ms": 24460,
+    "segment": "price_wow"
+  },
+  {
+    "word": "29",
+    "start_ms": 24460,
+    "end_ms": 25080,
+    "segment": "price_wow"
+  },
+  {
+    "word": "ribuan,",
+    "start_ms": 25080,
+    "end_ms": 26120,
+    "segment": "price_wow"
+  },
+  {
+    "word": "...which",
+    "start_ms": 26120,
+    "end_ms": 26800,
+    "segment": "price_wow"
+  },
+  {
+    "word": "is",
+    "start_ms": 26800,
+    "end_ms": 27000,
+    "segment": "price_wow"
+  },
+  {
+    "word": "worth",
+    "start_ms": 27000,
+    "end_ms": 27180,
+    "segment": "price_wow"
+  },
+  {
+    "word": "it",
+    "start_ms": 27180,
+    "end_ms": 27340,
+    "segment": "price_wow"
+  },
+  {
+    "word": "banget",
+    "start_ms": 27340,
+    "end_ms": 27600,
+    "segment": "price_wow"
+  },
+  {
+    "word": "untuk",
+    "start_ms": 27600,
+    "end_ms": 27900,
+    "segment": "price_wow"
+  },
+  {
+    "word": "kualitas",
+    "start_ms": 27900,
+    "end_ms": 28320,
+    "segment": "price_wow"
+  },
+  {
+    "word": "premium",
+    "start_ms": 28320,
+    "end_ms": 28700,
+    "segment": "price_wow"
+  },
+  {
+    "word": "kayak",
+    "start_ms": 28700,
+    "end_ms": 29000,
+    "segment": "price_wow"
+  },
+  {
+    "word": "gini.",
+    "start_ms": 29000,
+    "end_ms": 29320,
+    "segment": "price_wow"
+  },
+  {
+    "word": "Gak",
+    "start_ms": 30140,
+    "end_ms": 30600,
+    "segment": "price_wow"
+  },
+  {
+    "word": "percaya?",
+    "start_ms": 30600,
+    "end_ms": 30880,
+    "segment": "price_wow"
+  },
+  {
+    "word": "Check",
+    "start_ms": 31880,
+    "end_ms": 32200,
+    "segment": "price_wow"
+  },
+  {
+    "word": "Rewaiat",
+    "start_ms": 32200,
+    "end_ms": 32619,
+    "segment": "price_wow"
+  },
+  {
+    "word": "Harganya,",
+    "start_ms": 32619,
+    "end_ms": 33120,
+    "segment": "price_wow"
+  },
+  {
+    "word": "pernah",
+    "start_ms": 33560,
+    "end_ms": 33720,
+    "segment": "price_wow"
+  },
+  {
+    "word": "laku",
+    "start_ms": 33720,
+    "end_ms": 34020,
+    "segment": "price_wow"
+  },
+  {
+    "word": "sampai",
+    "start_ms": 34020,
+    "end_ms": 34220,
+    "segment": "price_wow"
+  },
+  {
+    "word": "2900",
+    "start_ms": 34220,
+    "end_ms": 35220,
+    "segment": "price_wow"
+  },
+  {
+    "word": "ribuannya.",
+    "start_ms": 35220,
+    "end_ms": 35820,
+    "segment": "price_wow"
+  },
+  {
+    "word": "Pertama,",
+    "start_ms": 36460,
+    "end_ms": 37020,
+    "segment": "price_wow"
+  },
+  {
+    "word": "read",
+    "start_ms": 37260,
+    "end_ms": 37380,
+    "segment": "features"
+  },
+  {
+    "word": "diffusernya",
+    "start_ms": 37380,
+    "end_ms": 37980,
+    "segment": "features"
+  },
+  {
+    "word": "super",
+    "start_ms": 37980,
+    "end_ms": 38260,
+    "segment": "features"
+  },
+  {
+    "word": "elegant...",
+    "start_ms": 38260,
+    "end_ms": 38660,
+    "segment": "features"
+  },
+  {
+    "word": "...dan",
+    "start_ms": 38660,
+    "end_ms": 38920,
+    "segment": "features"
+  },
+  {
+    "word": "performanya",
+    "start_ms": 38920,
+    "end_ms": 39540,
+    "segment": "features"
+  },
+  {
+    "word": "mantaps,",
+    "start_ms": 39540,
+    "end_ms": 40000,
+    "segment": "features"
+  },
+  {
+    "word": "wangi",
+    "start_ms": 40320,
+    "end_ms": 40440,
+    "segment": "features"
+  },
+  {
+    "word": "sebar",
+    "start_ms": 40440,
+    "end_ms": 40740,
+    "segment": "features"
+  },
+  {
+    "word": "banget",
+    "start_ms": 40740,
+    "end_ms": 41040,
+    "segment": "features"
+  },
+  {
+    "word": "kayak",
+    "start_ms": 41040,
+    "end_ms": 41220,
+    "segment": "features"
+  },
+  {
+    "word": "yang",
+    "start_ms": 41220,
+    "end_ms": 41500,
+    "segment": "features"
+  },
+  {
+    "word": "udah",
+    "start_ms": 41500,
+    "end_ms": 41700,
+    "segment": "features"
+  },
+  {
+    "word": "beli",
+    "start_ms": 41700,
+    "end_ms": 41900,
+    "segment": "features"
+  },
+  {
+    "word": "-belang.",
+    "start_ms": 41900,
+    "end_ms": 42260,
+    "segment": "features"
+  },
+  {
+    "word": "Kedua,",
+    "start_ms": 42940,
+    "end_ms": 43500,
+    "segment": "features"
+  },
+  {
+    "word": "aromanya",
+    "start_ms": 43740,
+    "end_ms": 44180,
+    "segment": "features"
+  },
+  {
+    "word": "fresh",
+    "start_ms": 44180,
+    "end_ms": 44400,
+    "segment": "features"
+  },
+  {
+    "word": "dan",
+    "start_ms": 44400,
+    "end_ms": 44640,
+    "segment": "features"
+  },
+  {
+    "word": "natural,",
+    "start_ms": 44640,
+    "end_ms": 44980,
+    "segment": "features"
+  },
+  {
+    "word": "gak",
+    "start_ms": 45540,
+    "end_ms": 45660,
+    "segment": "features"
+  },
+  {
+    "word": "bikin",
+    "start_ms": 45660,
+    "end_ms": 45940,
+    "segment": "features"
+  },
+  {
+    "word": "pusing",
+    "start_ms": 45940,
+    "end_ms": 46120,
+    "segment": "features"
+  },
+  {
+    "word": "kepala.",
+    "start_ms": 46120,
+    "end_ms": 46520,
+    "segment": "features"
+  },
+  {
+    "word": "Ketiga,",
+    "start_ms": 47140,
+    "end_ms": 47560,
+    "segment": "features"
+  },
+  {
+    "word": "bisa",
+    "start_ms": 47940,
+    "end_ms": 48060,
+    "segment": "features"
+  },
+  {
+    "word": "kasih",
+    "start_ms": 48060,
+    "end_ms": 48360,
+    "segment": "features"
+  },
+  {
+    "word": "soasana",
+    "start_ms": 48360,
+    "end_ms": 48800,
+    "segment": "features"
+  },
+  {
+    "word": "tenang",
+    "start_ms": 48800,
+    "end_ms": 49100,
+    "segment": "features"
+  },
+  {
+    "word": "dan",
+    "start_ms": 49100,
+    "end_ms": 49320,
+    "segment": "features"
+  },
+  {
+    "word": "fresh",
+    "start_ms": 49320,
+    "end_ms": 49640,
+    "segment": "features"
+  },
+  {
+    "word": "setiap",
+    "start_ms": 49640,
+    "end_ms": 50040,
+    "segment": "features"
+  },
+  {
+    "word": "hari...",
+    "start_ms": 50040,
+    "end_ms": 50780,
+    "segment": "features"
+  },
+  {
+    "word": "...perfek",
+    "start_ms": 50780,
+    "end_ms": 51040,
+    "segment": "features"
+  },
+  {
+    "word": "buat",
+    "start_ms": 51040,
+    "end_ms": 51260,
+    "segment": "features"
+  },
+  {
+    "word": "kamu",
+    "start_ms": 51260,
+    "end_ms": 51560,
+    "segment": "features"
+  },
+  {
+    "word": "yang",
+    "start_ms": 51560,
+    "end_ms": 51700,
+    "segment": "features"
+  },
+  {
+    "word": "suka",
+    "start_ms": 51700,
+    "end_ms": 51940,
+    "segment": "features"
+  },
+  {
+    "word": "dekorasi",
+    "start_ms": 51940,
+    "end_ms": 52460,
+    "segment": "features"
+  },
+  {
+    "word": "aesthetic.",
+    "start_ms": 52460,
+    "end_ms": 52860,
+    "segment": "features"
+  },
+  {
+    "word": "Kalau",
+    "start_ms": 52860,
+    "end_ms": 53940,
+    "segment": "features"
+  },
+  {
+    "word": "kamu",
+    "start_ms": 53940,
+    "end_ms": 54220,
+    "segment": "unknown"
+  },
+  {
+    "word": "sering",
+    "start_ms": 54220,
+    "end_ms": 54440,
+    "segment": "suited_for"
+  },
+  {
+    "word": "kerja",
+    "start_ms": 54440,
+    "end_ms": 54680,
+    "segment": "suited_for"
+  },
+  {
+    "word": "di",
+    "start_ms": 54680,
+    "end_ms": 54840,
+    "segment": "suited_for"
+  },
+  {
+    "word": "rumah",
+    "start_ms": 54840,
+    "end_ms": 55020,
+    "segment": "suited_for"
+  },
+  {
+    "word": "atau",
+    "start_ms": 55020,
+    "end_ms": 55500,
+    "segment": "suited_for"
+  },
+  {
+    "word": "sukan",
+    "start_ms": 55500,
+    "end_ms": 55760,
+    "segment": "suited_for"
+  },
+  {
+    "word": "nonton",
+    "start_ms": 55760,
+    "end_ms": 55960,
+    "segment": "suited_for"
+  },
+  {
+    "word": "film",
+    "start_ms": 55960,
+    "end_ms": 56200,
+    "segment": "suited_for"
+  },
+  {
+    "word": "barang",
+    "start_ms": 56200,
+    "end_ms": 56520,
+    "segment": "suited_for"
+  },
+  {
+    "word": "keluarga,",
+    "start_ms": 56520,
+    "end_ms": 57000,
+    "segment": "suited_for"
+  },
+  {
+    "word": "ini",
+    "start_ms": 57280,
+    "end_ms": 57360,
+    "segment": "suited_for"
+  },
+  {
+    "word": "banget",
+    "start_ms": 57360,
+    "end_ms": 57620,
+    "segment": "suited_for"
+  },
+  {
+    "word": "solusinya.",
+    "start_ms": 57620,
+    "end_ms": 58180,
+    "segment": "suited_for"
+  },
+  {
+    "word": "Perfek",
+    "start_ms": 59320,
+    "end_ms": 59840,
+    "segment": "suited_for"
+  },
+  {
+    "word": "buat",
+    "start_ms": 59840,
+    "end_ms": 60040,
+    "segment": "suited_for"
+  },
+  {
+    "word": "yang",
+    "start_ms": 60040,
+    "end_ms": 60180,
+    "segment": "suited_for"
+  },
+  {
+    "word": "pengen",
+    "start_ms": 60180,
+    "end_ms": 60440,
+    "segment": "suited_for"
+  },
+  {
+    "word": "ubah",
+    "start_ms": 60440,
+    "end_ms": 60700,
+    "segment": "suited_for"
+  },
+  {
+    "word": "suasana",
+    "start_ms": 60700,
+    "end_ms": 61100,
+    "segment": "suited_for"
+  },
+  {
+    "word": "kamar",
+    "start_ms": 61100,
+    "end_ms": 61520,
+    "segment": "suited_for"
+  },
+  {
+    "word": "jadi",
+    "start_ms": 61520,
+    "end_ms": 61760,
+    "segment": "suited_for"
+  },
+  {
+    "word": "lebih",
+    "start_ms": 61760,
+    "end_ms": 62080,
+    "segment": "suited_for"
+  },
+  {
+    "word": "kozy",
+    "start_ms": 62080,
+    "end_ms": 62500,
+    "segment": "suited_for"
+  },
+  {
+    "word": "dan",
+    "start_ms": 62500,
+    "end_ms": 62740,
+    "segment": "suited_for"
+  },
+  {
+    "word": "menenangkan",
+    "start_ms": 62740,
+    "end_ms": 63260,
+    "segment": "suited_for"
+  },
+  {
+    "word": "tanpa",
+    "start_ms": 63260,
+    "end_ms": 63620,
+    "segment": "suited_for"
+  },
+  {
+    "word": "ribet.",
+    "start_ms": 63620,
+    "end_ms": 63940,
+    "segment": "suited_for"
+  },
+  {
+    "word": "Rating",
+    "start_ms": 64620,
+    "end_ms": 65120,
+    "segment": "suited_for"
+  },
+  {
+    "word": "4",
+    "start_ms": 65120,
+    "end_ms": 65459,
+    "segment": "proof"
+  },
+  {
+    "word": ",8",
+    "start_ms": 65459,
+    "end_ms": 66120,
+    "segment": "proof"
+  },
+  {
+    "word": ".6",
+    "start_ms": 66120,
+    "end_ms": 66660,
+    "segment": "proof"
+  },
+  {
+    "word": "dari",
+    "start_ms": 66660,
+    "end_ms": 66900,
+    "segment": "proof"
+  },
+  {
+    "word": "30",
+    "start_ms": 66900,
+    "end_ms": 67360,
+    "segment": "proof"
+  },
+  {
+    "word": "ribu",
+    "start_ms": 67360,
+    "end_ms": 67780,
+    "segment": "proof"
+  },
+  {
+    "word": "produk",
+    "start_ms": 67780,
+    "end_ms": 68040,
+    "segment": "proof"
+  },
+  {
+    "word": "terjual.",
+    "start_ms": 68040,
+    "end_ms": 68760,
+    "segment": "proof"
+  },
+  {
+    "word": "Pembelinya",
+    "start_ms": 69400,
+    "end_ms": 69840,
+    "segment": "proof"
+  },
+  {
+    "word": "padang",
+    "start_ms": 69840,
+    "end_ms": 70120,
+    "segment": "proof"
+  },
+  {
+    "word": "omong,",
+    "start_ms": 70120,
+    "end_ms": 70400,
+    "segment": "proof"
+  },
+  {
+    "word": "masya",
+    "start_ms": 70680,
+    "end_ms": 70940,
+    "segment": "proof"
+  },
+  {
+    "word": "Allah",
+    "start_ms": 70940,
+    "end_ms": 71180,
+    "segment": "proof"
+  },
+  {
+    "word": "sudah",
+    "start_ms": 71180,
+    "end_ms": 71480,
+    "segment": "proof"
+  },
+  {
+    "word": "berjajal",
+    "start_ms": 71480,
+    "end_ms": 71980,
+    "segment": "proof"
+  },
+  {
+    "word": "di",
+    "start_ms": 71980,
+    "end_ms": 72060,
+    "segment": "proof"
+  },
+  {
+    "word": "view",
+    "start_ms": 72060,
+    "end_ms": 72220,
+    "segment": "proof"
+  },
+  {
+    "word": "sir.",
+    "start_ms": 72220,
+    "end_ms": 72420,
+    "segment": "proof"
+  },
+  {
+    "word": "Ini",
+    "start_ms": 73060,
+    "end_ms": 73220,
+    "segment": "proof"
+  },
+  {
+    "word": "YG",
+    "start_ms": 73220,
+    "end_ms": 73660,
+    "segment": "proof"
+  },
+  {
+    "word": "paling",
+    "start_ms": 73660,
+    "end_ms": 73920,
+    "segment": "proof"
+  },
+  {
+    "word": "desu",
+    "start_ms": 73920,
+    "end_ms": 74460,
+    "segment": "proof"
+  },
+  {
+    "word": "kayak",
+    "start_ms": 74460,
+    "end_ms": 74620,
+    "segment": "proof"
+  },
+  {
+    "word": "suami",
+    "start_ms": 74620,
+    "end_ms": 74980,
+    "segment": "proof"
+  },
+  {
+    "word": "brawal",
+    "start_ms": 74980,
+    "end_ms": 75440,
+    "segment": "proof"
+  },
+  {
+    "word": "doktor",
+    "start_ms": 75440,
+    "end_ms": 75780,
+    "segment": "proof"
+  },
+  {
+    "word": "nyobapar",
+    "start_ms": 75780,
+    "end_ms": 76240,
+    "segment": "proof"
+  },
+  {
+    "word": "fume",
+    "start_ms": 76240,
+    "end_ms": 76480,
+    "segment": "proof"
+  },
+  {
+    "word": "buat",
+    "start_ms": 76480,
+    "end_ms": 76680,
+    "segment": "proof"
+  },
+  {
+    "word": "mobil",
+    "start_ms": 76680,
+    "end_ms": 76920,
+    "segment": "proof"
+  },
+  {
+    "word": "skak",
+    "start_ms": 76920,
+    "end_ms": 77260,
+    "segment": "proof"
+  },
+  {
+    "word": "repeat",
+    "start_ms": 77260,
+    "end_ms": 77520,
+    "segment": "proof"
+  },
+  {
+    "word": "order.",
+    "start_ms": 77520,
+    "end_ms": 77880,
+    "segment": "proof"
+  },
+  {
+    "word": "Penasaran",
+    "start_ms": 78580,
+    "end_ms": 79260,
+    "segment": "proof"
+  },
+  {
+    "word": "sama",
+    "start_ms": 79260,
+    "end_ms": 79420,
+    "segment": "cta"
+  },
+  {
+    "word": "detail",
+    "start_ms": 79420,
+    "end_ms": 79720,
+    "segment": "cta"
+  },
+  {
+    "word": "lengkapnya,",
+    "start_ms": 79720,
+    "end_ms": 80260,
+    "segment": "cta"
+  },
+  {
+    "word": "Check",
+    "start_ms": 80760,
+    "end_ms": 80960,
+    "segment": "cta"
+  },
+  {
+    "word": "Definding",
+    "start_ms": 80960,
+    "end_ms": 81340,
+    "segment": "cta"
+  },
+  {
+    "word": ".id",
+    "start_ms": 81340,
+    "end_ms": 81800,
+    "segment": "cta"
+  },
+  {
+    "word": "bestie,",
+    "start_ms": 81800,
+    "end_ms": 82500,
+    "segment": "cta"
+  },
+  {
+    "word": "Review",
+    "start_ms": 82740,
+    "end_ms": 83020,
+    "segment": "cta"
+  },
+  {
+    "word": "produknya",
+    "start_ms": 83020,
+    "end_ms": 83640,
+    "segment": "cta"
+  },
+  {
+    "word": "ada",
+    "start_ms": 83640,
+    "end_ms": 83820,
+    "segment": "cta"
+  },
+  {
+    "word": "di",
+    "start_ms": 83820,
+    "end_ms": 83960,
+    "segment": "cta"
+  },
+  {
+    "word": "sana.",
+    "start_ms": 83960,
+    "end_ms": 84180,
+    "segment": "cta"
+  }
+]

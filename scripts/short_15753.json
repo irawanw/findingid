@@ -1,0 +1,81 @@
+{
+  "title": "Minyak Telon Viral My Baby! Aroma Wangi Banget 🌿",
+  "hook_text": "Bayi tidur nyenyak berkat ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up bayi tertidur pulas dengan ekspresi damai, lalu transisi cepat ke botol minyak telon My Baby berkilau di bawah lampu hangat.",
+      "narration": "Siapa sih yang nggak mau si kecil tidur nyenyak tanpa digigit nyamuk? Tenang, bestie, ada solusinya nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk [3 PCS] MY BABY Minyak Telon Plus Eucalyptus | Lavender yang dibalik-balik menampilkan label BPOM dan tulisan 'Original 100%'.",
+      "narration": "Ini dia MY BABY Minyak Telon Plus Eucalyptus dan Lavender. Asli 100% ya guys, terdaftar BPOM lho, jadi aman banget untuk kulit sensitif si kecil. Basically next level-nya minyak telon!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan grafis harga melonjak naik lalu turun drastis, muncul teks besar 'Mulai 53 Ribu-an' dan 'Termurah 213 Ribu-an'.",
+      "narration": "Gila sih, harganya mulai cuma seratus delapan puluhan ribu-an sampai dua ratus seratus tiga puluhan ribu-an. Kualitas segini, harga segini, literally worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Tetesan minyak jatuh ke kulit (showing smooth texture). 2. Close-up bahan alami Eucalyptus & Chamomile. 3. Bayi tersenyum ceria setelah dioles.",
+      "narration": "Pertama, bahannya alami dari Eucalyptus, Citronella, dan Chamomile yang aromanya menenangkan. Kedua, kemasan praktisnya bikin olesan jadi gampang, nggak berantakan. Ketiga, efeknya bikin hangat dan mengusir nyamuk secara alami, which is super penting buat tidur si buah hati."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario keluarga: Ibu sedang mengoles minyak telon ke tangan bayi yang sedang bermain di taman atau bersepeda ringan.",
+      "narration": "Perfect buat kamu yang sering bawa buah hati outdoor atau kalau aktivitas si kecil suka main di tempat banyak nyamuk. Jadi nggak perlu khawatir digigit lagi pas lagi tidur siang."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar terisi penuh dengan bintang-bintang rating 4.9 dan angka '30.000+', lalu muncul bubble chat dengan teks kutipan pembeli.",
+      "narration": "Pembelinya pada ngomong, 'Ini minyak telon kesukaan anakku, aromanya segar banget.' Ya memang, rating 4.90 dari lebih tiga puluh ribu produk terjual itu bukti nyata kualitasnya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah menunjuk ke bawah dengan teks besar 'CEK FINDING DOT ID' dan logo MY BABY.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, cari produknya di situ, stoknya sering ludes lho!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#MyBabyMinyakTelon",
+    "#MinyakTelonViral",
+    "#TipsIbu",
+    "#ProdukViral",
+    "#BabyCareIndonesia",
+    "#AmanUntukBayi",
+    "#WangiMenenangkan",
+    "#FindingId"
+  ],
+  "product_id": 15753,
+  "product_title": "[3 PCS] MY BABY Minyak Telon Plus Eucalyptus | Lavender 60ml 90ml 150ml",
+  "product_price": "53000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/15753.jpg",
+    "/uploads/products/15753_1.jpg",
+    "/uploads/products/15753_2.jpg",
+    "/uploads/products/15753_3.jpg",
+    "/uploads/products/15753_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/15753",
+  "generated_at": "2026-03-14T05:57:55.854Z"
+}

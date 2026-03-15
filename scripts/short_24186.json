@@ -1,0 +1,79 @@
+{
+  "title": "Setrika 2in1 Portable Viral Banget Bestie!",
+  "hook_text": "Setrika panas cuma 10 detik?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tangan memegang setrika Pandaoma Vulga sedang dipanaskan, asap uap langsung keluar deras.",
+      "narration": "Gila sih, setrika bisa panas cuma dalam hitungan sepuluh detik? No cap, ini benar-benar next level buat yang sering travel."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: produk dibuka di luar ruangan, lalu difold menjadi ukuran kecil, dan dimasukkan ke tas ransel.",
+      "narration": "Pandaoma Setrika Uap Vulga 2in1 ini literally so cute dan super portable. Desainnya bisa dilipat jadi kecil banget, perfect banget buat diematin di tas saat traveling atau di kamar kos yang sempit."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga di layar dengan efek teks membesar, diikuti shot produk bersinar.",
+      "narration": "Gak perlu keluar dompet tebal, harga cuma di seratus tujuh puluhan sampai seratus sembilan puluhan ribuan saja. Which is worth it banget sama kualitas yang didapat."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Timer berjalan cepat, 2. Produk dilipat rapi, 3. Logo SNI dan stiker garansi muncul.",
+      "narration": "Bestie, ada tiga alasan kenapa ini must have. Pertama, pemanasnya super cepat sekitar sepuluh detik aja. Kedua, bentuknya yang bisa dilipat bikin nyimpannya gampang. Ketiga, udah bersertifikat SNI resmi dan ada garansi supplier selamanya, basically next level aman."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario seseorang masuk hotel, membuka kulkas kecil di kamar, dan mengeluarkan setrika untuk merapikan baju.",
+      "narration": "Kalau kamu sering traveling, pekerja yang sering pindah lokasi, atau butuh solusi buat kamar kos, produk ini definitely buat kamu. Kapasitas tangkirnya seratus mililiter cukup buat kebutuhan singkat di mana saja."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang lima besar, angka 50.000 terjual, dan teks kutipan muncul dengan latar belakang happy customer.",
+      "narration": "Rating pembeli lima koma sembilan satu dari lima puluh ribu produk yang udah terjual. Yang udah beli bilang barangnya berfungsi dengan baik dan cepat panas, Insya Allah memudahkan perjalanan ke depannya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan tombol 'Beli Sekarang' berdenyut dan panah mengarah ke link.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id sekarang!",
+  "hashtags": [
+    "#SetrikaPortable",
+    "#TravelHacks",
+    "#PandaomaVulga",
+    "#SetrikaMini",
+    "#WanitaTravel",
+    "#KamarKosSolusi",
+    "#GenZShopping",
+    "#FindingDotId"
+  ],
+  "product_id": 24186,
+  "product_title": "Pandaoma Setrika Uap Vulga Setrika 2in1 Setrika Mini Setrika Portable Cepat Panas 100ml",
+  "product_price": "279900.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/24186.jpg",
+    "/uploads/products/24186_1.jpg",
+    "/uploads/products/24186_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/24186",
+  "generated_at": "2026-03-14T03:59:58.998Z"
+}

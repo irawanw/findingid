@@ -1,0 +1,81 @@
+{
+  "title": "Dumbell 2kg Murah Banget Bestie! 💪✨",
+  "hook_text": "Stop scroll! Dumbell murah banget?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tangan memegang dumbell merah dan ungu dengan efek zoom-in cepat saat musik berdetak.",
+      "narration": "Stop scroll dulu bestie! Kamu nggak tau kalau latihan beban di rumah sekarang bisa lebih hemat daripada beli di toko offline?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat gerakan latihan dengan dumbell: bicep curl, shoulder press, dan squat di ruang tidur yang rapi.",
+      "narration": "Kenalan yuk sama LIGHTSPEED Dumbell dua kilo ini! Bahan berkualitas, gripnya nyaman dan nggak licin, which basically next level buat pemula yang mau mulainya dari nol."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek 'pop', diikuti shot packing aman di atas meja.",
+      "narration": "Tapi yang paling gila, harganya cuma sekitar lima puluh empat ribuan per satu pcs! No cap, ini jauh lebih murah kalau dibandingin beli fisik, dan packingnya juga aman banget buat kamu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menampilkan 3 poin: 1. Harga murah vs toko online, 2. Grip tidak licin, 3. Rating bintang 5.",
+      "narration": "Kenapa produk ini worth it banget? Pertama, harganya sangat terjangkau dibanding toko offline. Kedua, gripnya nyaman banget nggak licin pas dipakai. Ketiga, ratingnya super tinggi, lima empat sembilan dari lima."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ilustrasi wanita sedang olahraga di kamar, lalu transisi ke teks 'Cocok Buat Pemula'.",
+      "narration": "Perfect buat kamu yang sering males lari ke gym atau punya waktu sempit di rumah. Kalau aktivitasmu lagi pengen kebugaran tapi budget terbatas, ini solusinya dong!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan angka 20.000+ terjual dan bintang 4.9, dengan teks kutipan muncul di bawahnya.",
+      "narration": "Bukti nyata, dua puluh produk telah terjual dan pembelinya pada ngomong asli bagus banget, bahkan dengan ongkir masih jauh lebih murah!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding ID muncul dengan tombol simulasi klik, background warna cerah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#dumbellmurah",
+    "#latihanrumah",
+    "#fitnesspemula",
+    "#lightspeed",
+    "#belionline",
+    "#olahraga",
+    "#hemat",
+    "#fitnesstrik"
+  ],
+  "product_id": 12921,
+  "product_title": "LIGHTSPEED Dumbell 2Kg / Barbel Mini / Barbel Wanita /  Vinyl Cewek / Yoga/latihan behan",
+  "product_price": "54999.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/12921.jpg",
+    "/uploads/products/12921_1.jpg",
+    "/uploads/products/12921_2.jpg",
+    "/uploads/products/12921_3.jpg",
+    "/uploads/products/12921_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/12921",
+  "generated_at": "2026-03-14T04:20:52.821Z"
+}

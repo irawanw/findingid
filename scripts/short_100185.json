@@ -1,0 +1,85 @@
+{
+  "title": "Glow Up Wajah Mulus Cuma 96 Ribu?",
+  "hook_text": "Nggak percaya muka bisa glowing tanpa harus mahal?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing dengan pencahayaan soft, teks besar muncul di tengah layar",
+      "narration": "Nggak percaya muka bisa glowing tanpa harus mahal?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan memegang botol GLAD2GLOW besar, shot produk detail dengan background blur",
+      "narration": "Ini dia GLAD2GLOW Big Size 100 gram, moisturizer favorit yang lagi ngetren banget di medsos!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga Rp 96.000 muncul besar di layar, efek koin jatuh",
+      "narration": "Harganya? Mulai dari sembilan puluh enam ribuan aja buat dapet 100 gram! Literally which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Textur krim dioleskan di tangan, close up tekstur halus, logo BPOM muncul",
+      "narration": "Ada Niacinamide 3% dan ekstrak delima khusus buat ngecerahin. --- Tekstur ringan, nggak lengket. --- Bahan plant based glycerin, aman buat kulit berminyak. --- Ada nomor BPOM, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model dengan kulit berminyak tersenyum puas setelah apply skincare",
+      "narration": "Buat kamu yang punya kulit berminyak tapi pengen cerah. --- Atau yang suka moisturizer bikin grease, ini bakal nyelametin hari-hari kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4,89 bintang dan jumlah penjualan 40 ribuan",
+      "narration": "Rating 4,89 bintang dari 40 ribu produk terjual di platform! --- Yang udah beli bilang wajah berminyak cocok pake ini bikin cerah."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pointing ke bawah dengan tulisan finding dot id",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, semua detail lengkap review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, semua detail lengkap review produk-nya ada di sana!",
+  "hashtags": [
+    "#glad2glow",
+    "#skincaremurah",
+    "#wajahcerah",
+    "#skincareindonesia",
+    "#glowingskin",
+    "#skincarehacks",
+    "#productviral",
+    "#findingid"
+  ],
+  "product_id": 100185,
+  "product_title": "[ 100%ORI ]GLAD2GLOW Big Size 100g Brightening Moisturizer Pomegranate Niacinamide Extract Hitam Mencerahkan Wajah Pencerah Pelembab Glowing whitening bright Mencerahkan Melembabkan Kulit skin skincare G2G T2",
+  "product_price": "96000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100185.jpg",
+    "/uploads/products/100185_1.jpg",
+    "/uploads/products/100185_2.jpg",
+    "/uploads/products/100185_3.jpg",
+    "/uploads/products/100185_4.jpg",
+    "/uploads/products/100185_5.jpg",
+    "/uploads/products/100185_6.jpg",
+    "/uploads/products/100185_7.jpg",
+    "/uploads/products/100185_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/100185",
+  "generated_at": "2026-03-13T20:15:17.223Z"
+}

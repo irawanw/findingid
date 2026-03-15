@@ -1,0 +1,84 @@
+{
+  "title": "Sneakers Vera Nevada A79 Bikin Kaki Nyaman Banget!",
+  "hook_text": "Kaki sakit karena sol keras?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up kaki melenggang pakai sneakers sambil ekspresi wajah kesakitan lalu berubah senyum lebar.",
+      "narration": "Kaki sakit banget pas jalan-jalan gara-gara sol sepatu keras?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat berbagai warna sneakers Vera Nevada A79 diputar-putar dengan transisi yang smooth.",
+      "narration": "Stop bestie! Coba Vera Nevada Sport Shoes A79, ini literally so cute dengan desain yang simpel tapi rapih."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga di layar dengan efek teks membesar-besar, lalu muncul ikon centang hijau.",
+      "narration": "Gak perlu keluar uang jutaan deh, kamu bisa dapetnya cuma dengan seratus enam puluhan ribu aja, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail sol empuk, kain kanvas, dan tulisan Wide Fit di layar.",
+      "narration": "Pertama, bahannya dari kain kanvas yang ringan cuma tujuh ratus gram, jadi nggak bikin kaki berat. Kedua, fitur Wide Fit nya super pas buat kaki lebar, nggak bikin perih. Dan yang paling penting, tinggi solnya empat sentimeter yang empuk banget, nggak kayak kompetitor yang keras dan sakit pas dipakai olahraga."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Karakter model wanita sedang jalan-jalan santai atau nongkrong bareng teman.",
+      "narration": "Perfect buat kamu yang suka jalan kaki seharian atau nongkrong bareng temen, karena empuknya bikin langkah kamu jadi enteng."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang empat koma delapan delapan dan angka dua puluh ribu terjual.",
+      "narration": "Nggak perlu ragu, karena ratingnya empat koma delapan delapan dan dua puluh ribu udah terjual, pembeli nya pada ngomong kalau sepatunya empuk banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol beli muncul dengan animasi menarik dan teks finding id di bawahnya.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, cek stok warna favoritmu sekarang!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#VeraNevada",
+    "#SneakersWanita",
+    "#SepatuEmpuk",
+    "#FashionIndonesia",
+    "#OOTD",
+    "#StyleCasual",
+    "#BelanjaOnline",
+    "#FindingDotId"
+  ],
+  "product_id": 89823,
+  "product_title": "Vera Nevada Sepatu Sneakers Wanita Sport Shoes A79",
+  "product_price": "149999.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/89823.jpg",
+    "/uploads/products/89823_1.jpg",
+    "/uploads/products/89823_2.jpg",
+    "/uploads/products/89823_3.jpg",
+    "/uploads/products/89823_4.jpg",
+    "/uploads/products/89823_5.jpg",
+    "/uploads/products/89823_6.jpg",
+    "/uploads/products/89823_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/89823",
+  "generated_at": "2026-03-14T04:21:16.025Z"
+}

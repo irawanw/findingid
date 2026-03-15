@@ -1,0 +1,83 @@
+{
+  "title": "Sweatpants Baggy Tebel Banget! Worth It?",
+  "hook_text": "STOP! Celana ini tebal BANGET!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tekstur bahan fleece yang tebal, lalu transisi cepat ke model memencet kainnya",
+      "narration": "Stop bestie, jangan scroll dulu! Kamu bakal kaget sama ketebalan bahan ini, literally next level."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model membalikkan badan menunjukkan celana longgar (wide leg) sambil melambaikan tangan",
+      "narration": "Inilah Laviola 2914 LSH, sweatpants baggy cotton fleece pria dengan desain wide leg yang bikin gaya street style kamu langsung naik level, which is basically perfect buat sehari-hari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kedip, diikuti shot kantong samping yang dalam",
+      "narration": "Gila sih, harganya cuma seratus sembilan puluhan ribu perak doang! Dapat kualitas bahan premium kayak gini, no cap, ini worth it banget buat dompet tipis."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menunjukkan bahan tidak berbulu, kanan menunjukkan model berlari santai di luar ruangan",
+      "narration": "Pertama, bahannya CVC fleece tiga ratus tiga puluh plus gsm, jadi super tebal tapi nggak berbulu sama sekali. Kedua, desainnya wide leg jumbo yang trendy banget buat gaya Korea. Ketiga, teksturnya lembut dan nyaman dipakai seharian tanpa bikin kulit gatal, pokoknya super cozy."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase berbagai aktivitas: nonton film di kasur, jalan kaki sore, dan nongkrong di kafe",
+      "narration": "Perfect buat kamu yang tinggi badan bervariasi karena ada ukuran jumbo, atau kalau aktivitas kamu sering santai di rumah dan butuh celana longgar yang nggak kaku."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Overlay rating 4.91 besar dan angka 40.000 terjual, ditambah sticker bintang lima",
+      "narration": "Pembelinya pada ngomong bahannya tebal banget dan fittingnya mantap, udah laku empat puluh ribu produk dengan rating empat koma sembilan satu."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol simulasi klik mengarah ke logo Finding ID dengan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id sekarang!",
+  "hashtags": [
+    "#sweatpantsbaggy",
+    "#streetstyle",
+    "#priaayam",
+    "#fleececomfy",
+    "#findingid",
+    "#ootd",
+    "#fashion pria",
+    "#budgetfriendly"
+  ],
+  "product_id": 131809,
+  "product_title": "Gloomiesunday Sweatpants Baggy Cotton Fleece Pria",
+  "product_price": "194000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/131809.jpg",
+    "/uploads/products/131809_1.jpg",
+    "/uploads/products/131809_2.jpg",
+    "/uploads/products/131809_3.jpg",
+    "/uploads/products/131809_4.jpg",
+    "/uploads/products/131809_5.jpg",
+    "/uploads/products/131809_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/131809",
+  "generated_at": "2026-03-14T04:32:02.120Z"
+}

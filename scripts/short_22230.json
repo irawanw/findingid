@@ -1,0 +1,83 @@
+{
+  "title": "Korset Postpartum Mocababy! Worth It Banget Bestie 🤰✨",
+  "hook_text": "Cesar tapi perut buncit?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah baru lahiran yang bingung pegang perut buncit sambil text 'Help' di layar",
+      "narration": "Cuma habis melahirkan, tapi perut buncit bikin nggak pede banget kan bestie? No cap, ini masalah umum banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi smooth ke model memakai korset Mocababy BS03 yang rapi, tunjuk bagian adjustable",
+      "narration": "Tenang, solusinya ada di Mocababy Korset Postpartum 3in1 ini! Bisa dipakai hamil, pasca normal, atau setelah Cesar kok."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek confetti, lalu tunjuk label harga asli",
+      "narration": "Gila sih harganya cuma seratus tujuh puluh tujuh ribuan doang! Which is worth it banget buat hasil yang next level."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Tunjuk bahan lembut, 2. Tunjuk tali adjustable, 3. Tunjuk logo jahitan rapi",
+      "narration": "Pertama, bahannya super lembut nggak bikin gerah. Kedua, ada fitur adjustable jadi pas di badan kamu. Terakhir, jahitannya rapi banget nggak asal sobek kayak barang murah."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase: wanita hamil nyaman pakai, wanita baru melahirkan, dan wanita ingin cepat langsing",
+      "narration": "Perfect buat kamu yang sering duduk lama biar perut nggak melendut, atau yang pengen perut cepat kempes setelah melahirkan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.85 dan angka 20.000 terjual, lalu quote muncul besar",
+      "narration": "Pembelinya pada ngomong bahan soft dan pengiriman cepat. Jadi nggak perlu ragu lagi ya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan tombol animasi 'Cek Sekarang'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id ya!",
+  "hashtags": [
+    "#PostpartumCare",
+    "#KorsetMocababy",
+    "#IbuBaru",
+    "#PerutBuncit",
+    "#ShopeeFinds",
+    "#CesarMom",
+    "#LangsingCepat",
+    "#FindingId"
+  ],
+  "product_id": 22230,
+  "product_title": "Mocababy 3in1 Korset Melahirkan Setelah Cesar/Korset Postpartum Orset Perut Adjustable/Korset Hamil & Pasca Melahirkan / Korset Pelangsing Perut Buncit / Korset Melahirkan Normal BS03",
+  "product_price": "193800.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/22230.jpg",
+    "/uploads/products/22230_1.jpg",
+    "/uploads/products/22230_2.jpg",
+    "/uploads/products/22230_3.jpg",
+    "/uploads/products/22230_4.jpg",
+    "/uploads/products/22230_5.jpg",
+    "/uploads/products/22230_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/22230",
+  "generated_at": "2026-03-14T20:31:58.058Z"
+}

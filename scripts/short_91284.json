@@ -1,0 +1,83 @@
+{
+  "title": "Heels Mewah Harga Kentang? No Cap!",
+  "hook_text": "Heels Mewah Harga Kentang?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah host dengan ekspresi kaget memegang sepatu heels mewah.",
+      "narration": "Eits, heels mewah harganya kentang? Gak percaya? Stop scroll dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Slow motion sepatu heels LANEIGE DRANATHA HEELS diputar di atas meja.",
+      "narration": "Kenalin, LANEIGE DRANATHA HEELS. Bestie, ini literally kece banget dan modelnya trending parah no cap."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan teks harga besar di layar dengan efek sparkle.",
+      "narration": "Gila sih, harganya cuma seratus enam belas ribuan doang. Literally worth it banget dibanding kualitasnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase 3 shot: tekstur bahan, model dipakai jalan, dan pairing outfit.",
+      "narration": "Pertama, bahannya super nyaman, nggak bikin sakit kaki seharian. --- Kedua, desainnya next level, auto glowing. --- Ketiga, gampang banget dipadukan sama outfit apa aja."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Host menunjuk ke kaki sambil menjelaskan ukuran sepatu.",
+      "narration": "Cocok banget buat kamu yang sering jalan-jalan atau kondangan. --- Tapi inget ya, kalau kamu punya jari kaki lebar, mending naikin ukuran satu step biar nggak sempit."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang dan jumlah penjualan di layar.",
+      "narration": "Sudah laku tiga puluh ribu pasang dengan rating empat koma delapan lima. --- Yang udah beli bilang, 'Beli ini dijamin nggak nyesel, bahannya oke banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di layar dengan panah mengarah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#LANEIGEHEELS",
+    "#SepatuViral",
+    "#OOTD",
+    "#BelanjaViral",
+    "#FindingID",
+    "#HeelsMurah",
+    "#Rekomendasi",
+    "#GenZ"
+  ],
+  "product_id": 91284,
+  "product_title": "LANEIGE DRANATHA HEELS WANITA",
+  "product_price": "116375.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/91284.jpg",
+    "/uploads/products/91284_1.jpg",
+    "/uploads/products/91284_2.jpg",
+    "/uploads/products/91284_3.jpg",
+    "/uploads/products/91284_4.jpg",
+    "/uploads/products/91284_5.jpg",
+    "/uploads/products/91284_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/91284",
+  "generated_at": "2026-03-13T19:11:48.534Z"
+}

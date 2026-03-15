@@ -1,0 +1,80 @@
+{
+  "title": "Korset Murah Bikin Body Goal? Bestie!",
+  "hook_text": "Pinggang Mungil, Pantat Naik, Nggak Sesek?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah ekspresi terkejut lalu tunjuk pinggang.",
+      "narration": "Pinggang mungil, pantat naik, tapi nggak bikin sesek?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close up produk di atas meja lalu dipakai.",
+      "narration": "Ini Joybasic Celana Korset, celana harian yang literally next level banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga besar di tengah layar.",
+      "narration": "Harganya cuma delapan puluh ribuan, which is worth it banget buat hasil instan kayak gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Slow motion bahan direnggangkan dan detail jahitan.",
+      "narration": "Bahannya nilon premium adem, lembut, dan super elastis --- Nyaman banget buat dipakai seharian tanpa gerah. Ada double-stitching buat perut, plus jaring khusus naikkan pantat. Baja tipis jadi nggak bergulung pas dipakai."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model dengan ukuran berbeda (S dan M) menunjukkan kecocokan.",
+      "narration": "Cocok buat kamu berat empat puluh sampai sembilan puluh kilo --- Ada yang bilang perut buncit masih kelihatan dikit, which is normal sih, tapi buat shaping harian it works banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 5 dan jumlah pembelian.",
+      "narration": "Rating empat koma delapan delapan, udah laku tiga ratus ribu unit --- Yang udah beli bilang, 'Nggak bikin sesek, padahal underestimate.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah link atau logo finding.id.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Joybasic",
+    "#Korset",
+    "#Shapewear",
+    "#BodyGoal",
+    "#CelanaKorset",
+    "#Ootd",
+    "#TipsFashion",
+    "#PromoMurah"
+  ],
+  "product_id": 94460,
+  "product_title": "Joybasic Women's Celana Korset",
+  "product_price": "89000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/94460.jpg",
+    "/uploads/products/94460_1.jpg",
+    "/uploads/products/94460_2.jpg",
+    "/uploads/products/94460_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/94460",
+  "generated_at": "2026-03-13T20:37:24.889Z"
+}

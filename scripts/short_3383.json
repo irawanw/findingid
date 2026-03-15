@@ -1,0 +1,84 @@
+{
+  "title": "Kemko Sultan Sultan! Murah Banget Bestie!",
+  "hook_text": "Baju Muslim Harga Seratus Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kreator dengan ekspresi kaget sambil pegang baju Koko",
+      "narration": "Baju muslim keren cuma seratus ribuan? No cap!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Slow motion shot kain Toyobo dan detail jahitan Koko Sultan",
+      "narration": "Kenalin nih Kemko Sultan Embos, bahan Katun Toyobo yang literally adem banget dipakai seharian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kilau",
+      "narration": "Harganya? Mulai seratus ribuan aja, which is worth it parah buat kualitas sekelas ini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage berbagai warna dan ukuran Koko yang digantung rapi",
+      "narration": "Gak gampang kusut, desain elegan buat ibadah. --- Ada banyak warna, dari hitam sampe marun. Ukuran lengkap S sampai XL, jadi pas banget di badan. Bahannya juga super lembut. No cap, ini next level."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Pria sedang sholat atau acara keluarga dengan baju Koko",
+      "narration": "Perfect buat ayah yang mau tampil rapi di acara keluarga atau pengurus marawis yang butuh seragam keliling dengan budget terjangkau."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.8 dan komentar pembeli di layar",
+      "narration": "30.000 terjual dengan rating 4.8. --- Yang udah beli bilang, 'bahan bagus banget, cuma kancingnya agak keras dikit, tapi worth it'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan panah menunjuk",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, link review ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, link review ada di sana!",
+  "hashtags": [
+    "#kemejakoko",
+    "#kemkosultan",
+    "#bajumuslim",
+    "#ootdpria",
+    "#seragammarawis",
+    "#rekomendasiproduk",
+    "#findingshop",
+    "#viral"
+  ],
+  "product_id": 3383,
+  "product_title": "kemeja Koko kemko sultan embos terbaru baju muslim pria terbaru",
+  "product_price": "95000.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/3383.jpg",
+    "/uploads/products/3383_1.jpg",
+    "/uploads/products/3383_2.jpg",
+    "/uploads/products/3383_3.jpg",
+    "/uploads/products/3383_4.jpg",
+    "/uploads/products/3383_5.jpg",
+    "/uploads/products/3383_6.jpg",
+    "/uploads/products/3383_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/3383",
+  "generated_at": "2026-03-13T20:20:14.470Z"
+}

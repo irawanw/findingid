@@ -1,0 +1,96 @@
+{
+  "title": "Ransel Travel 200 Ribu? Worth It Banget!",
+  "hook_text": "Gila sih, tas travel seharga dua ratus ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tas Lexy dengan text overlay besar di tengah layar",
+      "narration": "Gila sih, tas travel seharga dua ratus ribuan? Bisa banget tembus rating empat koma sembilan dua bintang!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Presenter memutar tas dari berbagai sisi, menunjukkan desain sleek",
+      "narration": "Kenalin, ini Lexy Ransel Backpack, bestie! Desainnya sleek banget, cocok buat jalan-jalan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul dengan efek glow, transisi cepat",
+      "narration": "Harganya mulai dari dua ratus ribuan sampe enam ratus ribuan, which is worth it banget buat kualitas segini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Show interior bag, laptop insertion, and zipper detail",
+      "narration": "Kapasitasnya tiga puluh lima sampe lima puluh lima liter, muat laptop enam belas inch. Bahan nilon waterproof, no cap tahan bocor! --- Tapi ada yang nanya soal resleting bawahnya, sebenernya ini fitur buat akses barang gede, nggak ribet dong."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Lifestyle shot: gadis di kampus atau sedang packing koper",
+      "narration": "Perfect buat kamu yang sering backpacking atau butuh tas kuliah yang luas."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 5 animasi + counter penjualan naik ke 20 ribu",
+      "narration": "Ratingnya empat koma sembilan dua bintang, udah terjual dua puluh ribu! Yang udah beli bilang, 'Cantik dan cocok untuk jalan-jalan tiga hari'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tas di meja dengan logo finding.id besar di pojok",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#tasransel",
+    "#travelbackpack",
+    "#lexical",
+    "#viral",
+    "#rekomendasitas",
+    "#backpacking",
+    "#gadisindonesia",
+    "#findingid"
+  ],
+  "product_id": 3583,
+  "product_title": "Lexy Tas Ransel Travel Backpack Wanita Multi-fungsi Waterproof Laptop Backpack 16 Inch 35-55 Liter",
+  "product_price": "276000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/3583.jpg",
+    "/uploads/products/3583_1.jpg",
+    "/uploads/products/3583_2.jpg",
+    "/uploads/products/3583_3.jpg",
+    "/uploads/products/3583_4.jpg",
+    "/uploads/products/3583_5.jpg",
+    "/uploads/products/3583_6.jpg",
+    "/uploads/products/3583_7.jpg",
+    "/uploads/products/3583_8.jpg",
+    "/uploads/products/3583_9.jpg",
+    "/uploads/products/3583_10.jpg",
+    "/uploads/products/3583_11.jpg",
+    "/uploads/products/3583_12.jpg",
+    "/uploads/products/3583_13.jpg",
+    "/uploads/products/3583_14.jpg",
+    "/uploads/products/3583_15.jpg",
+    "/uploads/products/3583_16.jpg",
+    "/uploads/products/3583_17.jpg",
+    "/uploads/products/3583_18.jpg",
+    "/uploads/products/3583_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/3583",
+  "generated_at": "2026-03-13T16:45:50.755Z"
+}

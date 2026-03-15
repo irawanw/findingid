@@ -1,0 +1,83 @@
+{
+  "title": "Mesin Absensi Gak Pake Ribet!",
+  "hook_text": "Masih Absensi Manual? Stop Scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up orang bingung pakai buku absensi manual dengan ekspresi frustrasi",
+      "narration": "Masih pakai buku absensi manual? No cap, itu sih cara lama banget! Stop scroll dulu bestie."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Deli E3960 muncul dengan efek cahaya dan putar 360 derajat",
+      "narration": "Kenalin, Deli E3960. Mesin absensi sidik jari yang bikin kantor jadi canggih dan rapi."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek koin jatuh",
+      "narration": "Harganya? Cuma empat ratus delapan puluhan ribu. Nggak perlu keluar budget besar, which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo penggunaan USB, layar Bahasa Indonesia, dan suara manusia terdengar",
+      "narration": "USB langsung jalan, nggak perlu install software ribet. Bahasa Indonesia udah support --- plus ada suara manusia yang ramah. Kapasitas 1000 sidik jari, which is literally more than enough."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario admin kantor dan pemilik usaha kecil sedang bekerja dengan senyum",
+      "narration": "Perfect buat admin kantor yang sering pusing rekap data manual. Atau buat usaha kecil yang butuh sistem rapi dan otomatis."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan angka 20.000 terjual di layar",
+      "narration": "Sudah terjual 20.000 produk dengan rating 4,9. Yang udah beli bilang, sepadan banget sama harga, mantab top markotop."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke ikon keranjang belanja",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#MesinAbsensi",
+    "#DeliE3960",
+    "#GadgetKantor",
+    "#AbsensiMudah",
+    "#ProduksViral",
+    "#FYPIndonesia",
+    "#AdminKantor",
+    "#TechHacks"
+  ],
+  "product_id": 4339,
+  "product_title": "Deli Mesin Absensi Sidik Jari Bahasa Indonesia - USB tanpa instalasi software E3960",
+  "product_price": "486080.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/4339.jpg",
+    "/uploads/products/4339_1.jpg",
+    "/uploads/products/4339_2.jpg",
+    "/uploads/products/4339_3.jpg",
+    "/uploads/products/4339_4.jpg",
+    "/uploads/products/4339_5.jpg",
+    "/uploads/products/4339_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/4339",
+  "generated_at": "2026-03-13T21:27:27.805Z"
+}

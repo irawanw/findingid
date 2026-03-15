@@ -1,0 +1,83 @@
+{
+  "title": "Termometer Tanpa Sentuh, Gila Murah Banget! 🔥",
+  "hook_text": "Gak Perlu Sentuh Dahi Lagi!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up thermometer ditembak ke dahi dengan efek suara 'snap' dan ekspresi kaget.",
+      "narration": "Gak perlu sentuh dahi lagi buat cek suhu, bestie! Ini cara paling asik buat tau kondisi badan tanpa ribet."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat: produk dipegang, layar LED menyala, dan grafik suhu naik cepat.",
+      "narration": "Kenalin nih, MIISOO Thermometer Digital Infrared. Bisa ukur suhu badan cuma dengan tembak-tembakan, literally next level praktis dan nggak repot cuci alat."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul menampilkan angka harga rendah, lalu transisi ke tumpukan uang kertas virtual.",
+      "narration": "Gila sih harganya cuma seratus delapan puluhan ribu! Dibanding harga termometer medis biasa yang jutaan, ini worth it banget buat punya di rumah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menunjukkan fitur: mode C/F, layar backlight, dan izin BNPB yang jelas.",
+      "narration": "Fiturnya lengkap banget: bisa pilih mode Celcius atau Fahrenheit, ada LED backlight buat liat jelas di gelap, plus udah punya izin resmi BNPB. Plus gratis batre langsung dipakai, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario keluarga: ibu mengukur suhu anak yang tidur, lalu suami mengukur suhu sebelum masuk kantor.",
+      "narration": "Perfect buat yang punya anak kecil atau keluarga besar, bestie. Kalau aktivitas kamu sering cek suhu di rumah atau butuh alat cepat, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.84 bintang dan notifikasi 'Terjual 30.000+' dengan efek confetti.",
+      "narration": "Gak perlu ragu, ratingnya hampir lima bintang dan tiga puluh ribu produk terjual. Pembeli bilang sangat praktis dan fungsi baik banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding ID muncul besar dengan panah menunjuk ke bawah atau ke tengah layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#termometermurah",
+    "#alatsehat",
+    "#parentinghack",
+    "#findingid",
+    "#produkramahkantung",
+    "#irthermometer",
+    "#sehatbersama",
+    "#viralshorts"
+  ],
+  "product_id": 16040,
+  "product_title": "MIISOO Thermometer Digital Infrared Gun / Termometer Suhu Tubuh /thermometer Dahi/ Alat ukur badan",
+  "product_price": "96901.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/16040.jpg",
+    "/uploads/products/16040_1.jpg",
+    "/uploads/products/16040_2.jpg",
+    "/uploads/products/16040_3.jpg",
+    "/uploads/products/16040_4.jpg",
+    "/uploads/products/16040_5.jpg",
+    "/uploads/products/16040_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/16040",
+  "generated_at": "2026-03-14T06:35:25.371Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Amplifier 600 Watt Murah Parah! Gila sih!",
+  "hook_text": "Amplifier 600 watt bisa semurah ini?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up kamera zoom cepat ke produk Kerndy dengan efek glitch",
+      "narration": "Amplifier karaoke 600 watt bisa semurah ini?!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai angle, tunjukkan port dan desainnya",
+      "narration": "Kenalin nih, Kerndy Bluetooth Amp. Ini home theater portable yang bakal bikin kamar kamu jadi panggung karaoke!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh",
+      "narration": "Gila sih bestie, harganya cuma seratus tujuh puluhan ribu doang! Murah parah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi fitur EQ, Bluetooth pairing, dan FM Radio tuning",
+      "narration": "Fiturnya lengkap banget. Ada EQ custom buat sesuaikan suara, FM Radio, plus Bluetooth stabil. --- Watt-nya 600, literally nge-gemuruh banget. --- Bassnya nendang, which is worth it banget buat budget mahasiswa."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang sedang asik main game atau ngerumpi dengan musik background",
+      "narration": "Perfect buat kamu yang suka karaoke dadakan atau mau nambah vibe di rumah. --- Kalau aktivitas kamu sering ngerumpi sampe pagi atau nge-game, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.79 dan angka 40.000 terjual",
+      "narration": "Rating 4,79, udah terjual 40 ribu produk! --- Yang udah beli bilang, kualitas audio top mar, suaranya jernih."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar 'Cek di Finding.id' dengan panah menunjuk ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#AmplifierMurah",
+    "#HomeTheater",
+    "#Kerndy",
+    "#RekomendasiGadget",
+    "#AudioViral",
+    "#TechIndonesia",
+    "#CariProduk",
+    "#FindingID"
+  ],
+  "product_id": 9534,
+  "product_title": "(PCB Warna Merah)Kerndy  Bluetooth EQ Audio Amplifier Karaoke Home Theater FM Radio 600w amplifier",
+  "product_price": "177390.00",
+  "product_rating": "4.79",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/9534.jpg",
+    "/uploads/products/9534_1.jpg",
+    "/uploads/products/9534_2.jpg",
+    "/uploads/products/9534_3.jpg",
+    "/uploads/products/9534_4.jpg",
+    "/uploads/products/9534_5.jpg",
+    "/uploads/products/9534_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/9534",
+  "generated_at": "2026-03-13T17:31:48.588Z"
+}

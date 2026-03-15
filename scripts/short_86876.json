@@ -1,0 +1,92 @@
+{
+  "title": "Sandal Wedges Zeintin Cuma Enam Puluh Ribu?!",
+  "hook_text": "Sandal Premium Cuma Enam Puluh Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot sandal wedges dengan teks besar di layar, transisi cepat.",
+      "narration": "Sandal wedges elegan, harga cuma enam puluhan ribuan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai sandal dan berjalan santai di luar ruangan, lighting cerah.",
+      "narration": "Kenalin Zeintin HP, sandal wedges casual kulit sintetis yang literally super nyaman. Desainnya elegan banget buat aktivitas harian lo."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar, efek zoom in ke detail sandal.",
+      "narration": "Gak nyangka kan? Kualitas premium kayak gini harganya cuma enam puluhan ribuan aja. Which is totally worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase detail bahan dan ukuran kaki, text overlay ukuran 37-42.",
+      "narration": "Bahan ringan banget, gak bikin kaki capek seharian --- Tersedia ukuran 37 sampe 42, jadi pastinya pas buat kaki lo."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot wanita sedang jalan kaki santai dan duduk santai di kafe.",
+      "narration": "Perfect banget buat lo yang sering ke pasar atau nongkrong bareng teman. Kalau aktivitas lo banyak jalan, sandal ini penyelamat kaki lo."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan jumlah terjual, cut ke screenshot chat pembeli.",
+      "narration": "Rating 4,82 sama udah terjual empat puluh ribu produk --- Yang udah beli bilang, ini orderan ke lima, barang sesuai pesanan, pengiriman cepet."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id animasi, panah mengarah ke arah link.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#sandalwedges",
+    "#zeintin",
+    "#olshopmurah",
+    "#fashionwanita",
+    "#sandalcasual",
+    "#rekomendasiseptember",
+    "#viralproduct",
+    "#findingid"
+  ],
+  "product_id": 86876,
+  "product_title": "Zeintin - Sandal Wanita Wedges Sendal Wanita Casual Kulit Sintetis ZEINTIN HP",
+  "product_price": "65900.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/86876.jpg",
+    "/uploads/products/86876_1.jpg",
+    "/uploads/products/86876_2.jpg",
+    "/uploads/products/86876_3.jpg",
+    "/uploads/products/86876_4.jpg",
+    "/uploads/products/86876_5.jpg",
+    "/uploads/products/86876_6.jpg",
+    "/uploads/products/86876_7.jpg",
+    "/uploads/products/86876_8.jpg",
+    "/uploads/products/86876_9.jpg",
+    "/uploads/products/86876_10.jpg",
+    "/uploads/products/86876_11.jpg",
+    "/uploads/products/86876_12.jpg",
+    "/uploads/products/86876_13.jpg",
+    "/uploads/products/86876_14.jpg",
+    "/uploads/products/86876_15.jpg"
+  ],
+  "product_link": "https://finding.id/p/86876",
+  "generated_at": "2026-03-13T21:50:15.026Z"
+}

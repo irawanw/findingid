@@ -1,0 +1,91 @@
+{
+  "title": "Sepatu 150 Ribuan Ini Valid Banget!",
+  "hook_text": "Sepatu 150 Ribuan Valid Banget?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up sepatu diputar pelan dengan lighting cinematic, fokus ke bagian depan",
+      "narration": "Gila sih, sepatu sporty harga segini bisa secantik ini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot full body sepatu di jalan setapak, model jalan santai",
+      "narration": "Ini Veraldo Parker, sneakers pria sporty yang lagi viral. Desain mengkilap, literally next level banget buat anak muda."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga muncul besar di tengah layar, background blur sepatu",
+      "narration": "Harganya? Seratus lima puluhan ribu doang. Untuk kualitas leather PU premium yang ringan, which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up sol, jahitan, dan tekstur kulit PU yang detail",
+      "narration": "Fiturnya juara: Sol karet anti selip, jahitan rapih, material super ringan. Ada yang bilang 'Real Pict' karena nggak bohong soal kualitas. --- Bikin kaki adem seharian tanpa berat."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Cowok pakai sneakers jalan santai di area perkotaan",
+      "narration": "Perfect buat kamu yang cari sneakers harian budget terbatas. Buat yang size 43, saranin naik ke size 44 ya, biar kaki nggak sempit."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating 4.88 muncul besar, angka terjual 30.000 pasang",
+      "narration": "Rating 4.88, udah terjual 30.000 pasang. Yang udah beli bilang 'Bagus banget gilaaa'. No cap soal kualitasnya. Pembeli bilang 'Jahitan rapih dan desain kekinian'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di layar",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#VeraldoParker",
+    "#SneakersPria",
+    "#RekomendasiSepatu",
+    "#OOTDIndonesia",
+    "#SepatuMurah",
+    "#SneakersViral",
+    "#StyleAnakMuda",
+    "#FindingID"
+  ],
+  "product_id": 32078,
+  "product_title": "VERALDO Parker Sneakers Pria Sporty Putih Ringan",
+  "product_price": "149900.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/32078.jpg",
+    "/uploads/products/32078_1.jpg",
+    "/uploads/products/32078_2.jpg",
+    "/uploads/products/32078_3.jpg",
+    "/uploads/products/32078_4.jpg",
+    "/uploads/products/32078_5.jpg",
+    "/uploads/products/32078_6.jpg",
+    "/uploads/products/32078_7.jpg",
+    "/uploads/products/32078_8.jpg",
+    "/uploads/products/32078_9.jpg",
+    "/uploads/products/32078_10.jpg",
+    "/uploads/products/32078_11.jpg",
+    "/uploads/products/32078_12.jpg",
+    "/uploads/products/32078_13.jpg",
+    "/uploads/products/32078_14.jpg"
+  ],
+  "product_link": "https://finding.id/p/32078",
+  "generated_at": "2026-03-13T18:01:54.454Z"
+}

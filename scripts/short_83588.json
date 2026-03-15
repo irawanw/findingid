@@ -1,0 +1,96 @@
+{
+  "title": "Dress Mayung Plisket Di Bawah 60an?! Worth It Banget!",
+  "hook_text": "Gak percaya? Ini harga dress plisketnya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat zoom-in ke detail lipatan plisket yang rapi sambil teks harga muncul besar di layar.",
+      "narration": "Stop scroll! Kamu pasti gak bakal percaya sama harga dress plisket ini, literally no cap."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage model memakai dress dalam berbagai warna (Pistachio, Royal Blue, Lemon) sambil berputar menunjukkan aliran kain.",
+      "narration": "Ini Inner Midi Dress Plisket Mayung dengan bahan Hyget Premium yang adem, nggak tipis, dan nggak terawang sama sekali."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga melambai-lambai lucu dengan animasi koin jatuh, lalu muncul komparasi dengan harga baju biasa.",
+      "narration": "Bestie, harga cuma seratus enam puluh ribuan, which is worth it banget buat dapet kualitas segini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjuk jahitan rapi, kanan tunjuk model hamil nyaman, bawah tunuk warna-warni.",
+      "narration": "Fiturnya next level: jahitannya rapi dan kuat, desain A-Line flattering buat semua postur, plus ukuran All-size ramah buat kamu yang lagi hamil."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: wanita pakai dress buat ngantor, nongkrong, dan dateng acara santai dengan gaya confident.",
+      "narration": "Perfect buat kamu yang cari outfit kasual harian atau ibu hamil yang butuh kenyamanan maksimal tanpa ribet."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan angka rating 4.87 dan jumlah terjual 30.000 dengan background bintang berkilau.",
+      "narration": "Pembelinya pada ngomong cutesyyyy bgt lucuuk dan nyaman bgt dipake, sudah terjual lebih dari tiga puluh ribu!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol 'Cek Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stok warna terbatas!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#dressplisket",
+    "#outfitharian",
+    "#gauljaksel",
+    "#busanain",
+    "#hematkeren",
+    "#fashionindonesia",
+    "#mayungdress",
+    "#findingid"
+  ],
+  "product_id": 83588,
+  "product_title": "Inner Midi Dress Plisket Mayung Tali / Dress Polos Plisket  / Inner Plisket / Dress Mayung / Dress Plisket / Inner Pleated Dress",
+  "product_price": "56900.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/83588.jpg",
+    "/uploads/products/83588_1.jpg",
+    "/uploads/products/83588_2.jpg",
+    "/uploads/products/83588_3.jpg",
+    "/uploads/products/83588_4.jpg",
+    "/uploads/products/83588_5.jpg",
+    "/uploads/products/83588_6.jpg",
+    "/uploads/products/83588_7.jpg",
+    "/uploads/products/83588_8.jpg",
+    "/uploads/products/83588_9.jpg",
+    "/uploads/products/83588_10.jpg",
+    "/uploads/products/83588_11.jpg",
+    "/uploads/products/83588_12.jpg",
+    "/uploads/products/83588_13.jpg",
+    "/uploads/products/83588_14.jpg",
+    "/uploads/products/83588_15.jpg",
+    "/uploads/products/83588_16.jpg",
+    "/uploads/products/83588_17.jpg",
+    "/uploads/products/83588_18.jpg",
+    "/uploads/products/83588_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/83588",
+  "generated_at": "2026-03-14T04:17:37.471Z"
+}

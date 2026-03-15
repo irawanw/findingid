@@ -1,0 +1,83 @@
+{
+  "title": "Palette 12in1 Salsa Cuma 50 Ribuan!",
+  "hook_text": "Nggak Percaya Makeup Full Face Cuma 50 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah glowing makeup, teks overlay besar muncul cepat",
+      "narration": "Nggak Percaya Makeup Full Face Cuma 50 Ribu?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk palette dibuka, swatch warna-warni di lengan model",
+      "narration": "Ini Salsa Rhapsody Face Pro Palette. 12 in 1, lengkap banget buat full face makeup kamu --- Literally all you need in one box."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Harga Rp 52.000 muncul di layar dengan efek animasi uang",
+      "narration": "Harganya cuma lima puluhan ribu doang. Which is worth it banget dengan brand lain."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Zoom tekstur eyeshadow, magnet case ditutup, varian warna Classic dan Amber",
+      "narration": "Ada varian Classic dan Amber. Dua warna ini bisa mix and match sesuai mood kamu. --- Pakai teknologi PigmentLock+, warnanya tetep nempel seharian. High pigmentation, blendable smooth. Ada magnet case, kokoh dan portabel. BPOM approved, aman buat kulit sensitif."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Siswi packing tas sekolah, traveler pakai palette di kabin pesawat",
+      "narration": "Perfect buat pelajar atau yang suka traveling. Gak perlu bawa banyak produk berat. Kadang pengiriman agak lama, tapi hasil akhir no cap."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Jumlah terjual 60.000 dan bintang rating 4.85 muncul di layar",
+      "narration": "Total 60 ribu produk terjual, rating 4.85. Yang udah beli bilang warnanya cakep dan packaging oke."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id di layar dengan panah menunjuk ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie."
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie.",
+  "hashtags": [
+    "#SalsaRhapsody",
+    "#MakeupMurah",
+    "#Palette12in1",
+    "#GenZIndonesia",
+    "#ViralProduct",
+    "#BeautyHacks",
+    "#MakeupMurahan",
+    "#FindingID"
+  ],
+  "product_id": 99625,
+  "product_title": "[NEW LOOK!] SALSA Rhapsody Face Pro Palette - 12in1 Makeup Palet Wajah Multifungsi | All in One Makeup Kit | Eyeshadow | Blush On | Highlighter | Bronzer |Contour | High Pigmented Blendable Smooth | Eyeshadows",
+  "product_price": "52000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/99625.jpg",
+    "/uploads/products/99625_1.jpg",
+    "/uploads/products/99625_2.jpg",
+    "/uploads/products/99625_3.jpg",
+    "/uploads/products/99625_4.jpg",
+    "/uploads/products/99625_5.jpg",
+    "/uploads/products/99625_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/99625",
+  "generated_at": "2026-03-13T22:47:41.364Z"
+}

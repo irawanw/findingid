@@ -1,0 +1,83 @@
+{
+  "title": "Turun 2,5 Kg? Neeflim Buktikan!",
+  "hook_text": "Turun 2,5 Kilo Cuma Satu Minggu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah ekspresif memegang timbangan dengan teks besar di layar",
+      "narration": "Pernah nggak sih kamu bingung mau diet apa yang nggak bikin perut sakit, tapi hasilnya masih nampol banget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke botol Neeflim Slimming Herbal Original dengan efek cahaya emas dan logo BPOM muncul",
+      "narration": "Kenalan bestie sama Neeflim Slimming Herbal Original nih, produk pelangsing alami yang terdaftar resmi BPOM dan Halal, literally next level aman!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga Rp 82.800 muncul dengan efek 'pop' dan stiker 'Murah Meriah' melambai",
+      "narration": "Yang bikin kita kaget, harganya cuma delapan puluh dua ribu delapan ratus saja, which is worth it banget buat kualitas herbal premium kayak gini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Daun Garcinia, 2. Ikon Maag Hilang, 3. Ikon Bebas Gula, muncul satu per satu dengan musik upbeat",
+      "narration": "Kenapa wajib coba? Pertama, racik dari Garcinia Atroviridis buat metabolisme lebih cepat. Kedua, dia temen baik buat kamu yang punya riwayat maag atau asam lambung, langsung meredakan gejalanya. Ketiga, bebas gula dan nggak mengandung babi, plus nggak bikin jantung berdebar, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase kegiatan: anak sekolah makan camilan, remaja olahraga, dan pekerja kantoran minum air putih",
+      "narration": "Perfect buat kamu yang usianya udah sepuluh tahun ke atas, pengen turun berat badan secara alami tanpa efek samping, dan lagi punya masalah maag yang sering kambuh saat diet."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar penuh dengan rating bintang 4.85 dan angka 40.000 terjual, lalu muncul quote bubble",
+      "narration": "Pembelinya pada ngomong kalau cuma seminggu minum turun dua setengah kilo, mengurangi lapar, dan produknya original banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar 'CEK FINDING DOT ID' dengan panah menunjuk ke bawah, background warna cerah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#NeeflimSlimming",
+    "#DietAlami",
+    "#BPOMHalal",
+    "#TurunBersama",
+    "#HerbalAman",
+    "#DietTanpaSakit",
+    "#ViralShorts",
+    "#FindingId"
+  ],
+  "product_id": 95947,
+  "product_title": "[ PELANGSING ] Neeflim Slimming Herbal Original BPOM HALAL | Pelangsing Alami | Pelangsing herbal",
+  "product_price": "82800.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/95947.jpg",
+    "/uploads/products/95947_1.jpg",
+    "/uploads/products/95947_2.jpg",
+    "/uploads/products/95947_3.jpg",
+    "/uploads/products/95947_4.jpg",
+    "/uploads/products/95947_5.jpg",
+    "/uploads/products/95947_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/95947",
+  "generated_at": "2026-03-14T04:11:00.097Z"
+}

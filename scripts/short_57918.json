@@ -1,0 +1,85 @@
+{
+  "title": "Mousepad 19 Ribu?! Estetik Banget!",
+  "hook_text": "Masih Pakai Mousepad Plastik Keras?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot of someone rubbing their wrist in pain using a hard plastic mousepad.",
+      "narration": "Masih pakai alas mouse plastik keras? Nggak asik kan bestie, bikin tangan pegal!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Cinematic pan of the Macaron Mousepad Big Size on a clean desk.",
+      "narration": "Kenalin nih Macaron Mousepad Big Size, material PU leather yang super lembut dan tahan air."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay showing price tag popping up with a 'wow' effect.",
+      "narration": "Bayangin aja, varian kecilnya mulai sembilan belas ribuan! Literally murah banget, which is worth it. No cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Top-down view of hands typing and using mouse on the soft pad.",
+      "narration": "Ukurannya gede, area mouse dan keyboard jadi luas. Permukaannya halus, anti glare, nggak pantulin cahaya. --- Buat yang ragu, ini bukan mousepad gaming kasar, tapi deskmat soft buat kenyamanan maksimal."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen showing student studying and remote worker gaming.",
+      "narration": "Cocok banget buat kamu yang sering kerja remote atau bikin desk setup estetik. Tersedia warna pastel, packaging rapi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot of rating badge and sold count on mobile screen.",
+      "narration": "Tiga puluh ribu produk udah laku! Rating empat koma delapan sembilan! Yang udah beli bilang 'bahan lembut, sepadan sama harga'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Hand pointing towards the bottom of the screen with arrow animation.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produknya ada di sana! Jangan sampe kehabisan stok ya bestie!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya, review produknya ada di sana!",
+  "hashtags": [
+    "#mousepadestetik",
+    "#desksetup",
+    "#mousepadmurah",
+    "#pekerjaanremote",
+    "#belajaronline",
+    "#gaminggaming",
+    "#findid",
+    "#rekomendasiproduk"
+  ],
+  "product_id": 57918,
+  "product_title": "Macaron Mousepad Big Size Deskmat For Computer Alas Meja Mouspad Komputer - PU Waterproof Mousepad",
+  "product_price": "18900.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/57918.jpg",
+    "/uploads/products/57918_1.jpg",
+    "/uploads/products/57918_2.jpg",
+    "/uploads/products/57918_3.jpg",
+    "/uploads/products/57918_4.jpg",
+    "/uploads/products/57918_5.jpg",
+    "/uploads/products/57918_6.jpg",
+    "/uploads/products/57918_7.jpg",
+    "/uploads/products/57918_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/57918",
+  "generated_at": "2026-03-13T23:10:39.599Z"
+}

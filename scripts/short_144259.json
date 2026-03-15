@@ -1,0 +1,82 @@
+{
+  "title": "Speaker Robot Mewah Cuma 60-an! 😱",
+  "hook_text": "Speaker robot? Cuma 60-an?! 🤖",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up speaker robot berputar-putar dengan lampu RGB yang berkedip-kedip di latar belakang gelap.",
+      "narration": "Stop scroll dulu! Kira-kira speaker bentuk robot ini mahal banget kan? Padahal harganya nggak ngerem kan bestie?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Zoom out memperlihatkan speaker di atas meja kayu, lalu transisi cepat ke tampilan harga di layar.",
+      "narration": "Ini HWARTZ Robot Bluetooth Speaker RB120, temen setia buat party atau nugas di kamar. Desainnya super cute dan bisa berputar, which is literally next level!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar: 'Cuma 60-an!' sambil tunjuk harga di bawah speaker.",
+      "narration": "Nggak nyangka ya? Cuma enam puluhan ribu sampai delapan puluhan ribu rupiah doang. Kualitasnya udah setara speaker ratusan ribu, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: 1. Video mandi speaker di bawah air (IPX4), 2. Ikon baterai dengan angka 1200mAh, 3. Video main musik keras-keras.",
+      "narration": "Fiturnya udah lengkap banget. Pertama, tahan air IPX4, jadi aman kalau kena hujan atau keringat saat olahraga. Kedua, baterai 1200mAh yang ngebut, bisa nyala delapan jam nonstop. Dan yang paling penting, suaranya jernih meski ukurannya kecil!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: kiri anak kos belajar, kanan anak muda party di taman.",
+      "narration": "Perfect buat kamu yang sering main outdoor atau anak kos yang butuh suasana. Kalau aktivitas kamu sering basah atau butuh musik sepanjang hari, ini definitely worth it banget!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.86 bintang dan angka 30.000+ terjual dengan animasi confetti.",
+      "narration": "Rating 4.86 dari tiga puluh ribu produk yang udah terjual. Pembelinya pada ngomong suaranya puuuaaaasss dan bassnya cukup memuaskan untuk harganya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol 'Cek Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya!",
+  "hashtags": [
+    "#SpeakerRobot",
+    "#ViralShorts",
+    "#Kekinian",
+    "#GenZ",
+    "#MusikKeren",
+    "#TemukanDulu",
+    "#HWARTZ",
+    "#DealViral"
+  ],
+  "product_id": 144259,
+  "product_title": "[HWARTZ] ROBOT Bluetooth Speaker RB120 Bluetooth 5.3 RGB Waterproof IPX4 1200mAH Portable - Garansi 1 Tahun",
+  "product_price": "57999.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/144259.jpg",
+    "/uploads/products/144259_1.jpg",
+    "/uploads/products/144259_2.jpg",
+    "/uploads/products/144259_3.jpg",
+    "/uploads/products/144259_4.jpg",
+    "/uploads/products/144259_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/144259",
+  "generated_at": "2026-03-14T05:10:50.926Z"
+}

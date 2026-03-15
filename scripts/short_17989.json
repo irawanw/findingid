@@ -1,0 +1,85 @@
+{
+  "title": "Sepatu Leedoo Murah Meriah? Gak Nyesel!",
+  "hook_text": "Sepatu 100ribuan Gak Murahan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up sepatu dikocok-kocok dekat kamera, teks overlay besar muncul",
+      "narration": "Bisa gak sih sepatu seratus ribuan bisa sekeren ini? --- Tunggu dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model jalan santai showcase sepatu dari berbagai angle",
+      "narration": "Ini Leedoo MC464, sneakers casual yang literally next level buat kamu yang cari gaya tanpa bikin dompet nangis."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga pop-up besar, uang dikocok",
+      "narration": "Harganya? Paling cuma di range seratus tiga puluhan ribu aja. Which is worth it banget dibandingin sepatu brand lain."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up sol, bahan, dan box sepatu",
+      "narration": "Bahan PU leather ringan, sol anti-slip empuk. Ada yang bilang 'tipis banget' --- jadi saran aku pilih ukuran longgar dikit. Desain sporty dan udah include box."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Mahasiswa nongkrong atau pekerja kantor santai",
+      "narration": "Perfect buat mahasiswa atau pekerja entry-level yang aktivitasnya banyak jalan. Kalau kamu sering pakai celana pendek, ini bakal jadi outfit of the day."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.79, angka 30rb, chat WA pembeli",
+      "narration": "Rating 4.79 bintang sama 30 ribu produk terjual. Yang udah beli bilang 'murah cepat keren lembut nyaman pokoknya puas banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id, panah ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#LeedooMC464",
+    "#SneakersMurah",
+    "#OotdPria",
+    "#MahasiswaKekinian",
+    "#SepatuKerja",
+    "#BelanjaMurah",
+    "#FindingId",
+    "#ViralProduct"
+  ],
+  "product_id": 17989,
+  "product_title": "Leedoo Sepatu Casual Pria Olahraga Sneakers Sporty Kuliah Kekinian Sepatu Outdoor Kerja Shoes MC464",
+  "product_price": "131914.00",
+  "product_rating": "4.79",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/17989.jpg",
+    "/uploads/products/17989_1.jpg",
+    "/uploads/products/17989_2.jpg",
+    "/uploads/products/17989_3.jpg",
+    "/uploads/products/17989_4.jpg",
+    "/uploads/products/17989_5.jpg",
+    "/uploads/products/17989_6.jpg",
+    "/uploads/products/17989_7.jpg",
+    "/uploads/products/17989_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/17989",
+  "generated_at": "2026-03-13T18:33:16.208Z"
+}

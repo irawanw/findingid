@@ -1,0 +1,96 @@
+{
+  "title": "Ransel Korea Lucu Banget! Harga Gila?!",
+  "hook_text": "Tas Korea harga berapa?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat close-up tas ransel warna pastel dengan efek zoom in yang dinamis",
+      "narration": "Stop scroll dulu bestie! Ngomong-ngomong soal tas ransel Korea, kamu tau harganya seharga apa?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi smooth menampilkan tas dipakai di badan dengan berbagai variasi warna di layar terbagi",
+      "narration": "Ini dia tas sekolah gaya Korea yang literally so cute! Desainnya kasual banget, bahan kanvas yang durable, plus ada banyak kantong untuk laptop dan barang-barang harianmu yang nggak akan berantakan sama sekali."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di tengah layar menampilkan angka harga dengan efek confetti",
+      "narration": "Tebak deh bestie, harganya seratus tiga puluhan ribu sampai seratus enam puluhan ribu saja! Which is worth it banget buat kualitas dan gaya yang kamu dapet hari ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tangan membuka kantong laptop, menunjukkan boneka gantungan lucu, lalu membalik tas menunjukkan bagian dalam yang rapi",
+      "narration": "No cap, fitur-fiturnya next level! Pertama, ukurannya pas banget nggak terlalu kecil juga nggak terlalu besar, cocok buat aktivitas sehari-hari. Kedua, dia kasih free gantungan boneka atau pouch yang super lucu sesuai varian kamu. Ketiga, kantongnya banyak banget buat nyimpen laptop dan barang sekolah lain biar rapi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot lifestyle seorang remaja perempuan pergi ke sekolah atau kafe sambil membawa tas tersebut",
+      "narration": "Perfect buat kamu yang suka gaya Korea, remaja, atau anak sekolah yang butuh tas fungsional tapi tetap estetik. Kalau aktivitas kamu sering jalan-jalan atau ngampus, ini definitely worth it!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.85 dengan angka 20.000 terjual dan kutipan teks muncul",
+      "narration": "Pembelinya pada ngomong tasnya warna channnntique banget dan ukuran pas gak kecil gak besar banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar finding dot id dengan panah mengarah ke tombol subscribe/like",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id buat review lengkap!",
+  "hashtags": [
+    "#tasransel",
+    "#fashionkorea",
+    "#taslucu",
+    "#rekomendasiproduk",
+    "#stylekampus",
+    "#taslaptop",
+    "#fashionwanita",
+    "#shopping"
+  ],
+  "product_id": 100015,
+  "product_title": "Ready / Free Gantungan Lucu Tas Sekolah Korean Style Tas Ransel Wanita Backpack Remaja Anak Korea Fashion Tas Laptop wanita",
+  "product_price": "131000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100015.jpg",
+    "/uploads/products/100015_1.jpg",
+    "/uploads/products/100015_2.jpg",
+    "/uploads/products/100015_3.jpg",
+    "/uploads/products/100015_4.jpg",
+    "/uploads/products/100015_5.jpg",
+    "/uploads/products/100015_6.jpg",
+    "/uploads/products/100015_7.jpg",
+    "/uploads/products/100015_8.jpg",
+    "/uploads/products/100015_9.jpg",
+    "/uploads/products/100015_10.jpg",
+    "/uploads/products/100015_11.jpg",
+    "/uploads/products/100015_12.jpg",
+    "/uploads/products/100015_13.jpg",
+    "/uploads/products/100015_14.jpg",
+    "/uploads/products/100015_15.jpg",
+    "/uploads/products/100015_16.jpg",
+    "/uploads/products/100015_17.jpg",
+    "/uploads/products/100015_18.jpg",
+    "/uploads/products/100015_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/100015",
+  "generated_at": "2026-03-14T22:31:39.783Z"
+}

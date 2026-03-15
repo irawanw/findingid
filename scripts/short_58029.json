@@ -1,0 +1,96 @@
+{
+  "title": "Piyama Jumbo Murah Adem Banget? Bestie Wajib Tau!",
+  "hook_text": "Piyama Jumbo Murah Beneran Ada?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kaget menahan piyama dengan ekspresi tak percaya, background blur rumah estetik",
+      "narration": "Piyama jumbo murah banget? Beneran ada ya! --- Ini Piyama Rayon Premium yang lagi viral. Bahan rayon asli 100% which is literally adem banget di kulit. Basically next level kenyamanan."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk di atas manekin atau flatlay, kamera zoom in ke tekstur bahan rayon yang halus",
+      "narration": "Ini Piyama Rayon Premium yang lagi viral. Bahan rayon asli 100% which is literally adem banget di kulit. Basically next level kenyamanan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay besar 'Rp 60-an' muncul dengan efek sound effect 'cha-ching', tangan memegang dompet",
+      "narration": "Harganya? Serius, cuma enam puluhan ribuan aja. No cap, worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail shot tombol kancing depan, celana kulot dilipat, dan jahitan obras yang rapi di dekat kamera",
+      "narration": "Full kancing depan, perfect banget buat ibu menyusui. Celana kulotnya modis, ukuran jumbo muat sampe 80 kilogram. Ada banyak warna menarik, plus jahitan rapi full obras, jadi awet."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita bersantai di sofa dengan piyama, lalu adegan ibu menyusui bayi dengan tenang dan nyaman",
+      "narration": "Kalau kamu sering merasa baju tidur susah cari yang muat, ini solusinya. Buat kamu yang kerja WFH atau baru punya buah hati, ini jadi favorit banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.82 dan angka 40.000 terjual, lalu chat WA pembeli yang positive",
+      "narration": "Udah terjual 40.000 produk. Yang udah beli bilang 'Susah banget aku cari celana setelan yang muat gini. Bakal repurchase sih ini mah'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah pencarian di layar HP dengan teks 'finding dot id', animasi panah muncul",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#PiyamaJumbo",
+    "#BajuTidurWanita",
+    "#PiyamaRayon",
+    "#RekomendasiBaju",
+    "#FashionWanita",
+    "#MurahBanget",
+    "#OOTDRumah",
+    "#ViralTiktok"
+  ],
+  "product_id": 58029,
+  "product_title": "Piyama | Baju Tidur Wanita | Setelan Wanita | Oneset | Piyama Rayon | Pajamas | Piyama Jumbo",
+  "product_price": "61600.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/58029.jpg",
+    "/uploads/products/58029_1.jpg",
+    "/uploads/products/58029_2.jpg",
+    "/uploads/products/58029_3.jpg",
+    "/uploads/products/58029_4.jpg",
+    "/uploads/products/58029_5.jpg",
+    "/uploads/products/58029_6.jpg",
+    "/uploads/products/58029_7.jpg",
+    "/uploads/products/58029_8.jpg",
+    "/uploads/products/58029_9.jpg",
+    "/uploads/products/58029_10.jpg",
+    "/uploads/products/58029_11.jpg",
+    "/uploads/products/58029_12.jpg",
+    "/uploads/products/58029_13.jpg",
+    "/uploads/products/58029_14.jpg",
+    "/uploads/products/58029_15.jpg",
+    "/uploads/products/58029_16.jpg",
+    "/uploads/products/58029_17.jpg",
+    "/uploads/products/58029_18.jpg",
+    "/uploads/products/58029_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/58029",
+  "generated_at": "2026-03-13T22:09:58.511Z"
+}

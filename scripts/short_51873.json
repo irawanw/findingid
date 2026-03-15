@@ -1,0 +1,109 @@
+{
+  "title": "KOPER VIRAL HARGA SERATUS RIBUAN",
+  "hook_text": "KOPER VIRAL HARGA KOKI?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up koper berputar dengan efek sparkles",
+      "narration": "Nggak percaya ini cuma seratus enam puluh lima ribu? --- Ini Polo GENEVA 068 ukuran dua puluh inci, hardcase ABS plus PC yang bener-bener tahan banting bestie. Bukan plastik murah, tapi kualitas import yang literally next level."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Unboxing dan showcase detail bahan hardcase",
+      "narration": "Dan harga terendah dia cuma seratus enam puluh empat ribu tujuh ratus rupiah doang. Worth it banget kan dapet kualitas segini?"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks harga besar muncul di layar",
+      "narration": "Fitur utamanya gila banget. Ada roda empat yang bisa muter tiga ratus enam puluh derajat. Tangkai trolley dari bahan alumunium yang kuat, plus kunci kombinasi kode standar tiga nol nol. Nggak perlu khawatir barang melayang."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Demo roda berputar, trolley naik turun, kunci diputar",
+      "narration": "Review bilang tampilan super perfect --- dan warna lilac cute banget. Kapasitasnya besar, pas banget buat event modeling atau traveling. Asli sih bagus banget, keren sesuai gambar. Pokoknya top banget no cap."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Montase orang pakai koper di airport dan acara",
+      "narration": "Kalau kamu sering traveling atau butuh tas buat event modeling, ini perfect banget buat kamu. Nggak perlu bawa tas besar lagi, satu koper ini udah cukup buat kebutuhan sehari-hari."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Gadis packing barang ke dalam koper dengan rapi",
+      "narration": "Ratingnya empat koma tujuh satu dari lima bintang --- dan udah laku tiga puluh ribu produk. Ada yang bilang pokoknya top s. Review real, bukan filter."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Rating bintang 4.71 dan counter penjualan naik",
+      "narration": "Varian warnanya ada pink, gold, rose gold, hijau mint, sampai hitam. Ada juga warna random kalau kamu tipe yang suka kejutan. Pilih yang kamu mau ya, jangan random kalau spesifik banget."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Swatch warna-warna koper yang tersedia",
+      "narration": "Gas klik link di bawah sekarang sebelum kehabisan, bestie!"
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Panah menunjuk ke arah link di deskripsi",
+      "narration": "Gas klik link di bawah sekarang sebelum kehabisan, bestie!"
+    }
+  ],
+  "cta": "Klik link di bawah sebelum kehabisan, bestie!",
+  "hashtags": [
+    "#KoperViral",
+    "#PoloGeneva",
+    "#TravelHacks",
+    "#BelanjaMurah",
+    "#GenZIndonesia",
+    "#ReviewProduk",
+    "#TravelLuggage",
+    "#SeratusRibuan"
+  ],
+  "product_id": 51873,
+  "product_title": "KOPER 20 INCH,KOPER POLO GENEVA 068,KOPER TAHAN BANTING,KOPER BANYAK VARIAN WARNA,KOPER ORIGINAL",
+  "product_price": "165499.00",
+  "product_rating": "4.71",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "https://down-id.img.susercontent.com/file/id-11134207-7ras9-m10wykq1z2u242@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rase-m1424b570zwy9c@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rasi-m142b3rczfxsb2@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7ras9-m142b3rco7e8a4@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rasb-m142b3rd0ui881@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7ras8-m142b3rcplyo07@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rasg-m142b3rd292oe9@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rasj-m142b3rcr0j424@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rase-m142dgpada7z67@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7ras8-m142b3rcsf3k38@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rasf-m142dgpaeosf9a@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rask-m142b3rctto0e6@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rask-m142dgpag3cvb8@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rase-m142b3rcv88ge1@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rase-m142dgpahhxb85@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rasj-m142b3rcwmsw11@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rask-m142dgpaiwhr5c@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rasf-m142b3rcy1dcd6@resize_w720_nl",
+    "https://down-id.img.susercontent.com/file/id-11134207-7rbke-m6gd8jmc33osd7@resize_w720_nl"
+  ],
+  "product_link": "https://finding.id/p/51873",
+  "generated_at": "2026-03-13T12:05:55.477Z"
+}

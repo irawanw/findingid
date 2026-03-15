@@ -1,0 +1,96 @@
+{
+  "title": "Cuci Wajah Jerawat Murah Meriah! 🫐✨",
+  "hook_text": "Stop cuci muka kering! Nih!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah terlihat irit saat dicuci muka biasa, lalu transisi ke tawa lucu sambil goyang.",
+      "narration": "Stop! Kalau cuci muka malah bikin wajah ketarik dan kering, kamu definitely salah produk. Nih, solusinya udah mendarat di depan kamu."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Glad2Glow Blueberry Ceramide bercahaya di atas meja, zoom in ke tekstur gel.",
+      "narration": "Kenalan deh sama Glad2Glow Facial Cleanser versi Blueberry Ceramide. Basically next level buat pembersih wajah yang gentle banget, no cap!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul menampilkan harga terendah, lalu muncul ilustrasi dompet tebal.",
+      "narration": "Bayangin aja, kamu bisa dapat kelima pcs nya cuma perlu seratusan ribu aja. Which is worth it banget buat kualitas skincare yang kamu dapet hari ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Skema pH kulit sehat, 2. Illustrasi Ceramide & Centella, 3. Wajah berminyak jadi mateng.",
+      "narration": "Pertama, pakainya pH rendah lima koma lima, aman banget buat skin barrier kamu. Kedua, isinya kombinasi ceramide, centella, dan salicylic acid. Ketiga, teksturnya gel yang efektif ngontrol minyak berlebih tanpa bikin kulit terasa kering atau ketarik sama sekali."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage: gadis dengan kulit berminyak, sedang memencet komedo, lalu tersenyum puas setelah cuci muka.",
+      "narration": "Perfect buat kamu yang sering merasa wajah berminyak dan punya masalah jerawat atau komedo. Kalau aktivitas kamu sering di luar ruangan atau keluar keringat, produk ini bakal jadi savior banget buat kulitmu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.91 bintang lima dan angka 30.000 terjual melintas cepat, lalu muncul teks kutipan pembeli.",
+      "narration": "Produk lokal terpercaya yang udah laku tiga puluh ribu pcs dengan rating empat koma sembilan satu. Pembelinya pada ngomong produk ini sangat bagus dan cocok untuk kulit, selalu jadi langganan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan efek neon, lalu panah menunjuk ke arah bawah layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id!",
+  "hashtags": [
+    "#skincarerutin",
+    "#wajahsehat",
+    "#glad2glow",
+    "#skincaremurah",
+    "#jerawat",
+    "#cleanbeauty",
+    "#skincarelokal",
+    "#wacab"
+  ],
+  "product_id": 142294,
+  "product_title": "[100%ORI]Glad2Glow Facial Cleanser 5pcs Blueberry Ceramide Low pH Gel Cleanser Pembersih Wajah Pembersih Muka Facial Cleanser Face/ Milk Amino Acid Gentle Cleanser 80ml Pembersih Wajah Pembersih Muka Face Wash/Acne gel cleanser centella salicylic Acid",
+  "product_price": "89500.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/142294.jpg",
+    "/uploads/products/142294_1.jpg",
+    "/uploads/products/142294_2.jpg",
+    "/uploads/products/142294_3.jpg",
+    "/uploads/products/142294_4.jpg",
+    "/uploads/products/142294_5.jpg",
+    "/uploads/products/142294_6.jpg",
+    "/uploads/products/142294_7.jpg",
+    "/uploads/products/142294_8.jpg",
+    "/uploads/products/142294_9.jpg",
+    "/uploads/products/142294_10.jpg",
+    "/uploads/products/142294_11.jpg",
+    "/uploads/products/142294_12.jpg",
+    "/uploads/products/142294_13.jpg",
+    "/uploads/products/142294_14.jpg",
+    "/uploads/products/142294_15.jpg",
+    "/uploads/products/142294_16.jpg",
+    "/uploads/products/142294_17.jpg",
+    "/uploads/products/142294_18.jpg",
+    "/uploads/products/142294_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/142294",
+  "generated_at": "2026-03-14T04:24:08.356Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Leher Sakit? Pakai Bantal Memory Foam Ini!",
+  "hook_text": "Leher Sakit Tiap Malem?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up orang memijat leher dengan ekspresi kesakitan, lalu tangan menutup kamera untuk stop scroll",
+      "narration": "Leher sakit tiap malem? Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk MINISO Memory Foam Neck Pillow dipegang dan diputar menunjukkan bentuk U-nya",
+      "narration": "Kenalin nih, MINISO Memory Foam Neck Pillow. Bentuk U-nya literally supportive banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin atau uang jatuh",
+      "narration": "Kira-kira berapa? Cuma tujuh puluhan ribu doang, which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tangan menekan bantal menunjukkan kelembutan, lalu show cover dicopot, lalu close up nametag",
+      "narration": "Memory foam nya super lembut, beda banget sama beads biasa. Covernya bisa dicopot buat dicuci kalau udah kotor. Praktis banget kan? --- Hati-hati, nametag-nya agak gede, jadi posisinya perlu diatur biar nggak ngelilit di leher."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang tidur di kursi mobil atau kantor sambil pakai bantal leher",
+      "narration": "Perfect buat kamu yang sering macet atau tidur siang di kantor. Traveling jadi lebih enak, nggak capek leher."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4,91 dan angka penjualan 20 ribuan",
+      "narration": "Yang udah beli bilang, 'Very comfy dan lebih nyaman dari yang lain'. Rating 4,91, terjual 20 ribuan!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi klik",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#miniso",
+    "#neckpillow",
+    "#travelhacks",
+    "#productviral",
+    "#tipskesehatan",
+    "#fyp",
+    "#shorts",
+    "#findingid"
+  ],
+  "product_id": 113425,
+  "product_title": "MINISO Bantal Leher U-shape bantal leher dewasa Tidur Siang Bantal Mewah Busa Memori Travel Neck Pillow bantal leher mobil Lembut Bantal Multifungsi Anti Pegal Leher Bantal",
+  "product_price": "72900.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/113425.jpg",
+    "/uploads/products/113425_1.jpg",
+    "/uploads/products/113425_2.jpg",
+    "/uploads/products/113425_3.jpg",
+    "/uploads/products/113425_4.jpg",
+    "/uploads/products/113425_5.jpg",
+    "/uploads/products/113425_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/113425",
+  "generated_at": "2026-03-13T19:18:39.198Z"
+}

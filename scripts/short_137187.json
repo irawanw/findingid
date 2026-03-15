@@ -1,0 +1,83 @@
+{
+  "title": "Blender Miyako Murah Banget Bestie!",
+  "hook_text": "Blender mahal harga pelajar?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah presenter ekspresi kaget sambil pegang blender Miyako",
+      "narration": "Blender dapur mahal, tapi harganya nggak bikin dompet nangis?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase produk Miyako 102 PL dari berbagai angle di dapur estetik",
+      "narration": "Ini Miyako 102 PL, original garansi resmi bestie, no doubt deh."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek animasi uang",
+      "narration": "Harganya cuma dua ratus empat puluh ribuan aja, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo blending smoothie cepat, lalu close-up karet seal dan cara pasang",
+      "narration": "Blender ini power-nya nendang banget, ngalahin blender mahal lain. --- Tapi buat yang khawatir soal karet seal, pasangnya harus rapi biar nggak rembes ya, soalnya air bisa keluar kalau kurang pas."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario mahasiswa sedang buat smoothie di kosan yang sempit",
+      "narration": "Perfect buat yang lagi cari alat dapur hemat, atau buat mahasiswa kosan yang butuh blending smoothie sehat setiap pagi. Basically next level buat dapur kecil."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.76 bintang dan ikon 60rb terjual",
+      "narration": "Rating 4.76 bintang sama 60 ribu unit udah laris manis. Yang udah beli bilang, barangnya ori dan aman tanpa cacat satu pun, which is no cap!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol cari produk di website finding.id dengan panah animasi",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#blendermurah",
+    "#miyako",
+    "#dapurkecil",
+    "#mahasiswamurah",
+    "#viralproduct",
+    "#findingid",
+    "#kitchenhacks",
+    "#smoothiebox"
+  ],
+  "product_id": 137187,
+  "product_title": "(READY COD) Blender Miyako 102 PL / 102PL / BL102PL / BL 101 PL / BL 101PL / BL-101PL / BL301PL / BL-301PL New Original (GARANSI RESMI)",
+  "product_price": "248900.00",
+  "product_rating": "4.76",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/137187.jpg",
+    "/uploads/products/137187_1.jpg",
+    "/uploads/products/137187_2.jpg",
+    "/uploads/products/137187_3.jpg",
+    "/uploads/products/137187_4.jpg",
+    "/uploads/products/137187_5.jpg",
+    "/uploads/products/137187_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/137187",
+  "generated_at": "2026-03-13T17:34:30.325Z"
+}

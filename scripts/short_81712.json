@@ -1,0 +1,83 @@
+{
+  "title": "Anabul Jamur Berkerak? Ini Solusinya! 🐶🐱✨",
+  "hook_text": "Anabul jamur berkerak?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up anjing atau kucing dengan kulit berkerak yang terlihat lucu tapi kasihan, lalu transisi cepat ke produk Griforce dengan efek zoom-in",
+      "narration": "Stop scrolling dulu bestie! Kalau anabul kamu lagi pusing gara-gara jamur, kulit berkerak, atau bulu rontok banget, kamu wajib tau ini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Griforce berjejer rapi dengan label 'Anti Jamur' dan 'Parasit' yang jelas, lighting terang dan warna-warni",
+      "narration": "Kenalan deh sama Griforce, obat farmasi asli bukan racikan herbal yang literalnya next level buat atasi infeksi jamur kayak ringworm, alergi, sampe dermatitis."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul menampilkan harga Rp 66.999, kemudian memotong menjadi teks 'Murah banget!' dengan efek confetti",
+      "narration": "Gak perlu kaget-sok dulu, harganya cuma seratus delapan puluhan ribu perak. Gila kan? Dapet obat farmasi sekelas ini seharga itu, which is worth it banget sih!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menunjukkan kulit bersih tanpa kerak, kanan menunjukkan bulu lebat dan sehat, sambil teks muncul 'Aman untuk menyusui'",
+      "narration": "Kelebihannya nggak main-main, guys. Pertama, obat farmasi murni yang efektif banget. Kedua, aman untuk anabul yang lagi menyusui. Ketiga, bikin bulu kembali lebat dan ketombe ilang total."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase singkat: anjing jalanan yang sembuh, kucing bermain, dan anak anjing lucu, dengan teks overlay 'Perfect for stray cats'",
+      "narration": "Perfect buat kamu yang punya anabul jalanan yang badannya gundul berdarah atau kalau aktivitas kamu sering bawa kucing ke luar rumah yang rawan infeksi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.85 bintang dan angka 20.000+ terjual, dengan popup chat bubble yang menampilkan kutipan ulasan",
+      "narration": "Pembelinya pada ngomong 'Alhamdulillah obat sangat manjur, bahkan utk kucing jalanan yang telinganya udah berkerak kayak tepung krispi, skrg sembuh & bulunya'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh dengan logo finding.id dan tombol animasi 'Cek di sini', dengan teks besar 'Cek di finding dot id'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#Griforce",
+    "#ObatAnjing",
+    "#ObatKucing",
+    "#AntiJamur",
+    "#PetLovers",
+    "#SehatHewan",
+    "#FindingId",
+    "#PetCare"
+  ],
+  "product_id": 81712,
+  "product_title": "Obat Jamur Anjing Kucing Kitten Griforce Anti Jamur Ringworm Parasit Kulit Berkerak Alergi Dermatitis Bulu Rontok Ketombe",
+  "product_price": "66999.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/81712.jpg",
+    "/uploads/products/81712_1.jpg",
+    "/uploads/products/81712_2.jpg",
+    "/uploads/products/81712_3.jpg",
+    "/uploads/products/81712_4.jpg",
+    "/uploads/products/81712_5.jpg",
+    "/uploads/products/81712_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/81712",
+  "generated_at": "2026-03-14T20:01:35.493Z"
+}

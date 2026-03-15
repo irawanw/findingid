@@ -1,0 +1,83 @@
+{
+  "title": "Gadget Bayi 6-in-1? Worth It Bestie!",
+  "hook_text": "Bayi makan jadi mewah banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan mengacak-acak kotak hadiah transparan dengan efek zoom in cepat ke produk di dalamnya",
+      "narration": "Stop scroll dulu dong bestie! Kamu tau nggak sih, bisa punya alat makan bayi yang literally next level sekaligus jadi kado ulang tahun?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Momwell GFB10 diputar 360 derajat menampilkan 6 bagian terpisah yang bisa dipisah-pisahkan",
+      "narration": "Kenalin nih Momwell 6 in 1! Ini bukan sembarang wadah, tapi set lengkap yang bisa dipisah jadi enam barang beda banget fungsinya, which is super worth it banget buat ngasi makan si kecil."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar: 'Hanya Seratus Delapan Puluhan Ribuan!' dengan efek confetti meledak",
+      "narration": "Gila sih harganya cuma seratus delapan puluhan ribu aja! Untuk dapetin set lengkap begini yang biasanya harganya ratusan ribu, basically no cap, deal-nya nggak bakal ketemu lagi!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Wadah kaca tebal ditembakin air panas, 2. Sendok plastik warna-warni dikocok, 3. Tas hampers dibuka menunjukkan semua isi rapi",
+      "narration": "Pertama, wadahnya kaca tebal banget dan aman dipanasin, nggak bakal pecah gampang. Kedua, ada sendok makan terpisah yang lucu banget buat si kecil. Ketiga, semua ini masuk tas hampers rapi jadi siap jadi kado ulang tahun yang super elegan!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu muda sedang menggendong bayi sambil memegang tas hampers, lalu tersenyum ke kamera",
+      "narration": "Perfect buat kamu yang baru punya bayi atau lagi nyari kado kelahiran. Kalau aktivitas kamu sering bawa-bawa bekal, ini solusi banget supaya makanan bayi tetap rapi dan higienis sepanjang hari."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.92 bintang dengan angka 50.000 terjual, lalu muncul teks kutipan pembeli",
+      "narration": "Pembelinya pada ngomong, 'Barangnya bagus, tebal, dan warnanya menarik!'. Sudah lebih dari lima puluh ribu orang percaya, rating empat koma sembilan dua bintang!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol besar finding.id muncul di tengah layar dengan animasi berdenyut, latar belakang produk yang bersinar",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#Momwell",
+    "#KadoBayi",
+    "#PeralatanRumahTangga",
+    "#ParentingHacks",
+    "#GiftSet",
+    "#WadahMpasi",
+    "#MomWellGFB10",
+    "#ShoppingRekomendasi"
+  ],
+  "product_id": 158803,
+  "product_title": "Momwell 6 in 1 Tempat Mpasi Kaca Hampers Baby Gift Set Wadah Mpasi Kado Lahiran Bayi Sendok  GFB10",
+  "product_price": "76900.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/158803.jpg",
+    "/uploads/products/158803_1.jpg",
+    "/uploads/products/158803_2.jpg",
+    "/uploads/products/158803_3.jpg",
+    "/uploads/products/158803_4.jpg",
+    "/uploads/products/158803_5.jpg",
+    "/uploads/products/158803_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/158803",
+  "generated_at": "2026-03-14T23:11:08.739Z"
+}

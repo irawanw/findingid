@@ -1,0 +1,96 @@
+{
+  "title": "Set Mangkuk Keramik Estetik Murah Meriah!",
+  "hook_text": "Mangkuk Keramik Cuma Seharga Kopi?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up produk berputar cepat dengan cahaya dramatis",
+      "narration": "Tau nggak sih, set mangkuk keramik estetik itu bisa semurah secangkir kopi favoritmu?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan memegang mangkuk dengan background dapur estetik",
+      "narration": "Ini dia Earise Ceramic Bowl Set, nuansa Jepang yang bikin meja makan jadi mewah instan tanpa bikin dompet jebol."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga muncul besar di tengah layar",
+      "narration": "Harganya? Mulai dari dua puluhan ribu, sampe seratus ribuan buat set lengkap. --- No cap, murah banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat fitur tahan panas dan stackable",
+      "narration": "Desain lukisan tangan yang unik banget, tahan panas, bisa masuk mesin cuci piring, dan stackable biar dapur rapi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang sedang makan enak pakai mangkuk ini dengan senyum puas",
+      "narration": "Buat kamu yang suka dekorasi minimalis atau cari kado hampers murah. --- Tapi inget, ukurannya pas buat nasi atau camilan, nggak buat bakso ya bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang lima dan jumlah terjual",
+      "narration": "Udah laku 80 ribu, ratingnya 4.81. --- Yang udah beli bilang, 'bagus bangettt, kualitas premium'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Jari menunjuk ke arah teks finding dot id",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#EariseBowl",
+    "#PeralatanDapur",
+    "#EstetikMurah",
+    "#KadoHampers",
+    "#LivingInJapan",
+    "#CuisineAesthetic",
+    "#FindsId",
+    "#ViralProduct"
+  ],
+  "product_id": 45486,
+  "product_title": "Earise mangkok keramik piring keramik kado pernikahan bermanfaat piring set  mangkok set hampers Hadiah Natal hampers lebaran idul fitri",
+  "product_price": "52363.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/45486.jpg",
+    "/uploads/products/45486_1.jpg",
+    "/uploads/products/45486_2.jpg",
+    "/uploads/products/45486_3.jpg",
+    "/uploads/products/45486_4.jpg",
+    "/uploads/products/45486_5.jpg",
+    "/uploads/products/45486_6.jpg",
+    "/uploads/products/45486_7.jpg",
+    "/uploads/products/45486_8.jpg",
+    "/uploads/products/45486_9.jpg",
+    "/uploads/products/45486_10.jpg",
+    "/uploads/products/45486_11.jpg",
+    "/uploads/products/45486_12.jpg",
+    "/uploads/products/45486_13.jpg",
+    "/uploads/products/45486_14.jpg",
+    "/uploads/products/45486_15.jpg",
+    "/uploads/products/45486_16.jpg",
+    "/uploads/products/45486_17.jpg",
+    "/uploads/products/45486_18.jpg",
+    "/uploads/products/45486_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/45486",
+  "generated_at": "2026-03-13T22:46:08.884Z"
+}

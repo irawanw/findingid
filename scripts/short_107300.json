@@ -1,0 +1,83 @@
+{
+  "title": "Cuci Muka Viral Ini Bikin Kulit Cerah Banget",
+  "hook_text": "Kulit Kusam Karena Salah Pembersih?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kusam dengan efek zoom in cepat",
+      "narration": "Kulit kamu masih kusam padahal udah bersih-bersih setiap hari?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product shot Springorigin dengan pencahayaan cinematic",
+      "narration": "Ini dia Springorigin Lactobionic Acid Hydrating Gel Cleanser yang lagi viral banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek dollar sign",
+      "narration": "Harganya cuma lima puluhan ribuan, which is worth it banget buat daily skincare."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo tekstur gel di tangan dan aplikasi ke wajah",
+      "narration": "Features-nya next level: Lactobionic Acid buat eksfoliasi lembut ngilangin sel kulit mati, teksturnya hydrating gel yang nggak bikin ketarik, plus bikin wajah brightening natural. --- Ada gerindil scrub halus di dalamnya, jadi jangan digosok kasar ya, ini penting banget buat hasil maksimal."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen kulit berminyak vs kulit kering",
+      "narration": "Ini perfect banget buat kamu yang kulitnya berminyak dan kusam. --- Tapi kalau kulit kering, hati-hati bestie, bisa makin dehidrasi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 5 dan angka penjualan 30.000",
+      "narration": "Rating 4.86 dari 30 ribu produk terjual. Yang udah beli bilang 'wanginya kalem dan cocok banget buat kulit berminyak'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah menunjuk ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#Springorigin",
+    "#SkincareViral",
+    "#CuciMuka",
+    "#KulitCerah",
+    "#BelanjaOnline",
+    "#WishlistSkincare",
+    "#Kecantikan",
+    "#TipsWajah"
+  ],
+  "product_id": 107300,
+  "product_title": "Springorigin Lactobionic Acid Hydrating Gel Cleanser Facial Wash Brightening Pembersih Wajah Berjerawat Exfoliasi Wajah Sabun Cuci Muka",
+  "product_price": "56048.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/107300.jpg",
+    "/uploads/products/107300_1.jpg",
+    "/uploads/products/107300_2.jpg",
+    "/uploads/products/107300_3.jpg",
+    "/uploads/products/107300_4.jpg",
+    "/uploads/products/107300_5.jpg",
+    "/uploads/products/107300_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/107300",
+  "generated_at": "2026-03-13T22:28:38.650Z"
+}

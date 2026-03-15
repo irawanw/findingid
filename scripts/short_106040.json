@@ -1,0 +1,86 @@
+{
+  "title": "Toner Skintific Bikin Kemerahan Hilang!",
+  "hook_text": "Kulit merah parah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah dengan kemerahan terlihat jelas, lalu transisi cepat ke senyuman segar setelah pakai toner.",
+      "narration": "Kulit lagi breakout parah plus kemerahan nggak karuan? Stop scroll dulu bestie, karena ini solusinya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk SKINTIFIC 5X Ceramide Toner berkilau di meja, dituangkan ke kapas.",
+      "narration": "Kenalan dong sama SKINTIFIC 5X Ceramide Soothing Toner yang basically next level buat calm down kulit sensitif kamu!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul menampilkan harga terendah, lalu muncul stiker 'Diskon' dan 'Best Seller'.",
+      "narration": "Gak percaya kan? Nih harga paling rendah cuma seratus puluhan ribu rupiah, which is worth it banget buat hasil sebanding!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "3 ikon muncul berturut-turut: Botol, Air Tetes, Hati, dengan teks singkat di bawahnya.",
+      "narration": "No cap, ini dia fitur dewanya: Pertama, ada lima jenis Ceramide biar skin barrier makin kuat. Kedua, teksturnya cair ringan dan cepat meresap ke dalam kulit. Ketiga, ampuh banget menenangkan iritasi dan kemerahan yang bikin muka kesal!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas: orang di bawah matahari, baru saja olahraga, dan sedang skincare routine malam hari.",
+      "narration": "Perfect buat kamu yang sering habis terpapar matahari atau aktivitas keras yang bikin kulit dehidrasi dan sensitif. Plus sudah terdaftar resmi di BPOM jadi aman dipakai setiap hari!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar terbagi dua: satu sisi rating 4.93 dan satu sisi teks kutipan pembeli asli dengan efek highlight.",
+      "narration": "Rating empat koma sembilan tiga dengan seratus ribuan produk terjual. Yang udah beli bilang cocok calming banget kaya ngademin muka yang lagi breakout parah!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan animasi panah, background warna-warni ceria.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id ya!",
+  "hashtags": [
+    "#skintific",
+    "#tonersensitif",
+    "#skinbarrier",
+    "#skincareindonesia",
+    "#rekomendasiskincare",
+    "#glowingskin",
+    "#calmingtoner",
+    "#findingid"
+  ],
+  "product_id": 106040,
+  "product_title": "SKINTIFIC - 5X Ceramide Soothing Calming Essence Toner Wajah | Redness Sensitive Skin Barrier Improve After-sun Repair Care Gentle Hydrating toner badan",
+  "product_price": "113000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/106040.jpg",
+    "/uploads/products/106040_1.jpg",
+    "/uploads/products/106040_2.jpg",
+    "/uploads/products/106040_3.jpg",
+    "/uploads/products/106040_4.jpg",
+    "/uploads/products/106040_5.jpg",
+    "/uploads/products/106040_6.jpg",
+    "/uploads/products/106040_7.jpg",
+    "/uploads/products/106040_8.jpg",
+    "/uploads/products/106040_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/106040",
+  "generated_at": "2026-03-14T03:56:27.258Z"
+}

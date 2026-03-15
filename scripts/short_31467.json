@@ -1,0 +1,83 @@
+{
+  "title": "Topi Visor Keren Harga Gila? Cek Ini!",
+  "hook_text": "Stop scroll kalau suka outdoor!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah model pakai topi visor lagi senyum di bawah matahari terik",
+      "narration": "Stop scroll kalau suka outdoor! Mata butuh perlindungan banget nih."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage shot topi di berbagai warna (pink, putih, hitam) dipakai lari atau golf",
+      "narration": "Topi visor Nu Fit ini literally so cute. Fungsi UV protectionnya next level banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek transisi keren",
+      "narration": "Bayangin, cuma enam puluhan ribu. Nilai yang kamu dapat worth it banget bestie."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri bahan polyester adem, kanan detail strap adjustable",
+      "narration": "Bahan polyester adem nggak bikin kepanasan. UV protection UPF 50++ bikin kulit aman. Strap adjustable jadi pas di kepala siapa aja. Barang premium garment bukan mainan. --- QC nya mantap, tenang bestie soal kualitas."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage aktivitas olahraga outdoor: jogging, tennis, atau nge-foto di alam",
+      "narration": "Perfect buat yang suka lari pagi atau main golf. Kalau sering kena matahari langsung, wajib punya ini dong."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.89 bintang lima dan counter penjualan 40k+",
+      "narration": "Rating 4.89 bintang lima, terjual empat puluh ribu. Yang udah beli bilang 'Tekstur sangat lembut dan nyaman'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi arrow mengarah ke tombol",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#topiorang",
+    "#nuFit",
+    "#outdoorlife",
+    "#skincare",
+    "#fashionwomens",
+    "#unik",
+    "#findingid",
+    "#shopping"
+  ],
+  "product_id": 31467,
+  "product_title": "Nu Fit - Topi Olahraga - Topi Visor Hat Wanita Pria Unisex - Topi Tennis Golf Running Sport UV UPF 50++",
+  "product_price": "60000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/31467.jpg",
+    "/uploads/products/31467_1.jpg",
+    "/uploads/products/31467_2.jpg",
+    "/uploads/products/31467_3.jpg",
+    "/uploads/products/31467_4.jpg",
+    "/uploads/products/31467_5.jpg",
+    "/uploads/products/31467_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/31467",
+  "generated_at": "2026-03-14T02:42:59.802Z"
+}

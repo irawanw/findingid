@@ -1,0 +1,96 @@
+{
+  "title": "Sandal Kodok Baim Viral! Kenyamanan Next Level, Bestie!",
+  "hook_text": "Ukurannya kecil? STOP scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up kaki melangkah santai pakai sandal hitam, teks besar muncul di layar.",
+      "narration": "Ada yang bilang 'Emang boleh beli empat?' Ada yang bilang 'Ketiak jadi kering!' --- Tenang bestie, oles tipis saja ya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat berbagai warna sandal (hitam, abu, clam) dipakai di luar ruangan dan kafe.",
+      "narration": "Ini dia sandal clog pria kodok baim terbaru yang literally so cute dan modern banget! Bahan EVAnya ringan, nggak bikin kaki pegal seharian."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga muncul di layar dengan efek 'pop' dan icon centang hijau.",
+      "narration": "Gila sih, harganya cuma seratus delapan puluhan ribu atau enam puluhan ribu doang untuk kualitas sekelas ini? Which is worth it banget dong!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail sol sandal menunjukkan tidak licin, lalu shot wide fit di bagian lebar kaki.",
+      "narration": "Pertama, solnya ga licin jadi aman banget buat jalan di mana aja. Kedua, wide fitnya pas banget buat kaki lebar, nggak sesak. Ketiga, desainnya timeless, cocok buat cowok gaya urban atau santai di rumah."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario cowok pakai sandal ini saat olahraga ringan, nongkrong, dan ngerjain tugas di kantor.",
+      "narration": "Perfect buat yang aktivitasnya campur aduk, mulai dari olahraga ringan sampai nongkrong bareng temen. Kalau kamu sering cari kenyamanan maksimal, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.8 bintang dan angka 60 ribuan terjual muncul dengan animasi smooth.",
+      "narration": "Rating empat koma delapan dari enam puluh ribuan pembeli, yang udah beli bilang 'enak dan nyaman dipakainya'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul dengan animasi klik dan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#SandalCowok",
+    "#KenyamananNextLevel",
+    "#SandalViral",
+    "#GayaUrban",
+    "#ShopeeFinds",
+    "#SandalHitam",
+    "#SandalAbu",
+    "#FashionPria"
+  ],
+  "product_id": 152621,
+  "product_title": "DERTA' Sandal Clog Pria Kodok Baim Sendal Terbaru Dewasa Casual Cowok Slop Hitam Beige Puith 38-45",
+  "product_price": "56894.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/152621.jpg",
+    "/uploads/products/152621_1.jpg",
+    "/uploads/products/152621_2.jpg",
+    "/uploads/products/152621_3.jpg",
+    "/uploads/products/152621_4.jpg",
+    "/uploads/products/152621_5.jpg",
+    "/uploads/products/152621_6.jpg",
+    "/uploads/products/152621_7.jpg",
+    "/uploads/products/152621_8.jpg",
+    "/uploads/products/152621_9.jpg",
+    "/uploads/products/152621_10.jpg",
+    "/uploads/products/152621_11.jpg",
+    "/uploads/products/152621_12.jpg",
+    "/uploads/products/152621_13.jpg",
+    "/uploads/products/152621_14.jpg",
+    "/uploads/products/152621_15.jpg",
+    "/uploads/products/152621_16.jpg",
+    "/uploads/products/152621_17.jpg",
+    "/uploads/products/152621_18.jpg",
+    "/uploads/products/152621_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/152621",
+  "generated_at": "2026-03-14T15:16:51.648Z"
+}

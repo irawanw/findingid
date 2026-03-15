@@ -1,0 +1,83 @@
+{
+  "title": "Kemeja Koko Viral? Worth It Gak Sih?",
+  "hook_text": "Kemeja Koko Murah Tapi Premium?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wajah kaget menahan senyum sambil menunjuk ke arah kamera",
+      "narration": "Kamu nggak bakal nyangka kemeja koko bisa seenak ini bestie. Literally bikin ngecewain dompet."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Slow motion model memakai kemeja dengan gerakan tangan menarik kain bahan linen",
+      "narration": "Kenalin nih, Takako, kemeja koko katun linen yang literally super adem di kulit. Styling-nya juga keren banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tangan memegang label harga atau kartu diskon dengan background blur",
+      "narration": "Harganya cuma seratus lima puluhan ribu an doang. which is worth it banget no cap buat kualitas segini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detil jahitan dan texture bahan yang sedang dipegang jari",
+      "narration": "Fiturnya next level, model slim fit yang bikin badan tegap, jahitan rapi, bahan linen yang nggak gampang kusut --- Tips penting, cek ukuran dulu ya biar pas di badan, jangan sampe kekecilan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model berpose santai di cafe atau ruang tamu yang estetik",
+      "narration": "Ini perfect buat kamu yang sering kondangan atau mau pake buat lebaran tanpa harus keluar dompet dalam-dalam. Buat nongkrong juga oke banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan screenshot rating bintang 4.87 dan jumlah terjual 30 ribu",
+      "narration": "Sudah terjual tiga puluh ribu produk dengan rating hampir sempurna. Yang udah beli bilang karena bajunya bagus jadi saya pake duluan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar menampilkan logo finding.id dengan panah mengarah ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Takako",
+    "#KemejaKoko",
+    "#FashionViral",
+    "#RekomendasiPakaian",
+    "#OOTDPria",
+    "#KemejaLinen",
+    "#PromoMurah",
+    "#ViralProduct"
+  ],
+  "product_id": 13271,
+  "product_title": "Takako - Kemeja Koko Pria Lengan Panjang Katun Linen",
+  "product_price": "155400.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/13271.jpg",
+    "/uploads/products/13271_1.jpg",
+    "/uploads/products/13271_2.jpg",
+    "/uploads/products/13271_3.jpg",
+    "/uploads/products/13271_4.jpg",
+    "/uploads/products/13271_5.jpg",
+    "/uploads/products/13271_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/13271",
+  "generated_at": "2026-03-13T17:55:34.291Z"
+}

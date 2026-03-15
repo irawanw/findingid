@@ -1,0 +1,83 @@
+{
+  "title": "Blender Murah Tapi Ngebut Banget!",
+  "hook_text": "Blender 2 Juta? Gak Nih!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up blender Koomas berputar cepat dengan efek getar, teks besar muncul di tengah layar.",
+      "narration": "Niatnya mau beli blender mahal, eh malah nemu yang kayak gini? Literally, ini tuh next level banget, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Animasi 3D produk Koomas yang berputar 360 derajat menampilkan dua wadah besar dan kecil, diikuti shot tangan memegang gagang yang ergonomis.",
+      "narration": "Ini dia Koomas Blender 2.5 liter plus 800ml, punya 6 pisau super tajam yang bisa ngaduk, ngejus, sampe nge-chopper buah dan sayur dalam sekejap. Head-nya emang nyaman banget dipegang dan hasilnya super halus!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri tumpukan uang kertas, kanan produk Koomas dengan animasi harga Rp 265.000 muncul besar dengan efek glitter.",
+      "narration": "Dan yang bikin meledak di hati, harganya cuma dua ratus enam puluhan ribu! which is basically harga seharga nasi padang tapi dapet mesin dapur sekelas hotel. No cap, worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1) Pisau berputar memecah es batu, 2) Jus buah keluar mulus ke gelas, 3) Sereal digiling halus, 4) Wadah PC food grade ditunjukkan dari dekat.",
+      "narration": "Fiturnya itu literally gila. Pertama, 6 pisau stainless steel yang bisa ngecrush es batu sampai halus banget. Kedua, bahan PC food grade yang aman buat kesehatan, jadi kamu nggak perlu khawatir. Ketiga, kapasitasnya gede banget, 2.5 liter itu cukup buat satu keluarga besar, nggak perlu bikin batch terus-terusan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: seorang mahasiswa di kosan membuat smoothie cepat, lalu beralih ke ibu rumah tangga yang sedang membuat sereal anak.",
+      "narration": "Ini perfect banget buat kalian yang sibuk pagi hari atau mahasiswa di kosan yang butuh smoothie instan. Kalau aktivitas kamu sering bikin jus sayur atau giling sereal buat anak, ini jawabannya. Jangan lupa, kalau dapet sedikit penyok di luar, itu wajar kok, yang penting bagian dalam masih aman dan berfungsi normal."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.8 di layar dengan animasi angka 20.000 terjual, diikuti teks kutipan pembeli muncul satu per satu.",
+      "narration": "Pembelinya pada bilang, 'Nyaman dipegang dan hasilnya super halus', plus rating 4.8 dari 20.000 produk yang udah dibeli!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar gelap dengan logo finding.id dan panah menunjuk ke bawah, teks 'Cek Detail Lengkap' muncul dengan animasi klik.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#KoomasBlender",
+    "#AlatDapurMurah",
+    "#BlenderViral",
+    "#TipsDapur",
+    "#GenZIndonesia",
+    "#RacunShopee",
+    "#SmoothieHemat",
+    "#FindingID"
+  ],
+  "product_id": 13097,
+  "product_title": "Koomas Blender 2.5L+800ML 220V 6 Pisau Blender Buah Multifungsi Chopper Juicer Bahan PC Food Grade Mesin Blender Mixer lce Crusher Jus Sayuran Jus Sereal Gilingan Smoothie Getar",
+  "product_price": "265000.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/13097.jpg",
+    "/uploads/products/13097_1.jpg",
+    "/uploads/products/13097_2.jpg",
+    "/uploads/products/13097_3.jpg",
+    "/uploads/products/13097_4.jpg",
+    "/uploads/products/13097_5.jpg",
+    "/uploads/products/13097_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/13097",
+  "generated_at": "2026-03-15T16:40:58.528Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Handle Pintu Rumah Kekinian, Harga Gila!",
+  "hook_text": "Ganti kunci pintu lama nggak mahal?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up handle pintu lama yang terlihat usang diklik cepat lalu transisi efek *pop* ke handle baru yang kinclong di depan pintu kamar tidur modern",
+      "narration": "Stop scroll bestie, pintu kamarmu masih pakai kunci jadul yang bikin suasana nggak estetik?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Slow motion memperlihatkan handle AiGO sedang dipasangkan dengan gerakan smooth, ditunjukkan detail gagang minimalis dan body yang ramping",
+      "narration": "Tenang, upgrade sekarang sama handle AiGO ukuran dua puluh sentimeter yang gagangnya minimalis dan bodynya super rapi, literally next level deh!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek *sparkle*, diikuti shot packing box yang rapi dan barang aman di dalamnya",
+      "narration": "Dan yang bikin kaget, harganya cuma empat puluh enam ratusan sampai lima puluh satu ribuan, which is worth it banget untuk kualitasnya yang kokoh dan amanah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail bagian silinder yang dikunci, lalu zoom in ke tekstur bahan ABS yang halus, terakhir tunjukkan variasi warna tersedia di layar",
+      "narration": "Bahan ABS-nya kuat banget, nggak gampang rusak, dan kunci silindernya sudah lengkap tiga kunci biar pintu aman dari orang sembarangan. Tersedia banyak warna keren kayak APM nol satu, AM dua puluh satu, dan lainnya yang pas sama dekorasi rumahmu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat: seseorang membuka pintu kamar tidur, lalu pintu ruang tamu, dan akhirnya pintu kamar mandi dengan ekspresi puas",
+      "narration": "Perfect buat kamu yang lagi renovasi rumah atau sekadar mau ganti kunci kamar tidur dan kamar mandi biar lebih privat dan kekinian, nggak perlu pusing mikir desainnya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.84 bintang besar dan angka terjual dua puluh ribu, lalu teks kutipan muncul di bawahnya",
+      "narration": "Rating empat koma delapan empat dari dua puluh ribu terjual, dan yang udah beli bilang desainnya bagus banget, ukurannya sesuai, dan kualitasnya ok sesuai dengan harga."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan logo finding.id dengan tombol animasi 'Cek Sekarang' dan panah menunjuk ke arah produk",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id!",
+  "hashtags": [
+    "#HandlePintu",
+    "#RenovasiRumah",
+    "#ProdukViral",
+    "#AiGO",
+    "#KunciRumah",
+    "#DecorasiKamar",
+    "#HargaMurah",
+    "#Kekinian"
+  ],
+  "product_id": 41291,
+  "product_title": "Kunci Pintu Rumah Handle Selot Kamar Tidur AiGO Sedang 20 cm Gagang Slot Minimalis Lengkap",
+  "product_price": "46500.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/41291.jpg",
+    "/uploads/products/41291_1.jpg",
+    "/uploads/products/41291_2.jpg",
+    "/uploads/products/41291_3.jpg",
+    "/uploads/products/41291_4.jpg",
+    "/uploads/products/41291_5.jpg",
+    "/uploads/products/41291_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/41291",
+  "generated_at": "2026-03-15T01:45:59.553Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Tas Sekolah Anak Gratis Jas Hujan? Gak Sengaja Viral!",
+  "hook_text": "Tas Sekolah Anak Gratis Jas Hujan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas dibuka, background hijau layar hujan turun",
+      "narration": "Ada yang bilang beli tas sekolah kok dapet bonus jas hujan? literally gak nyangka deh!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase 4 warna tas, shot tas dibuka dari depan",
+      "narration": "Ini Polo Trands PT 36216, ransel cewek super cute yang lagi hits banget. Ada pink, blue, black, dan green."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga besar, shot tas plus jas hujan digabungkan",
+      "narration": "Harganya cuma seratus lima puluhan ribuan aja, udah dapet tas plus jas hujan gratis. which is worth it banget buat kantong pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Masukkan laptop ke slot, timbang tas, shot bahan polyester",
+      "narration": "Bahannya polyester ringan cuma setengah kilo, jadi pundak anak nggak sakit --- Ada slot laptop sampai 15.6 inci, plus kapasitas luas buat buku. Oh ya, kalau ada cacat di tali, itu cuma unit tertentu, mayoritas aman kok."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Anak sekolah memakai tas, jalan ke sekolah sambil hujan rintik",
+      "narration": "Perfect buat orang tua yang cari tas sekolah anak SD sampai remaja. Kalau aktivitas kamu sering hujan, ini solusi hemat tanpa nyesel."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 4.8 muncul besar, angka 30k terjual",
+      "narration": "Ratingnya 4.8 dari 30 ribu terjual --- Yang udah beli bilang bahan ringan dan pas banget buat anak kelas tiga."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id, tombol panah mengarah ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#Polotrends",
+    "#TasSekolah",
+    "#RanselAnak",
+    "#BelanjaHemat",
+    "#FindinID",
+    "#TasKeren",
+    "#AnakSekolah",
+    "#ViralProduct"
+  ],
+  "product_id": 26617,
+  "product_title": "Polo Trands Tas Sekolah Anak Gratis Jas Hujan / RainCoat PT 36216",
+  "product_price": "157900.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/26617.jpg",
+    "/uploads/products/26617_1.jpg",
+    "/uploads/products/26617_2.jpg",
+    "/uploads/products/26617_3.jpg",
+    "/uploads/products/26617_4.jpg",
+    "/uploads/products/26617_5.jpg",
+    "/uploads/products/26617_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/26617",
+  "generated_at": "2026-03-13T17:53:52.717Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Catokan 300 Ribu Bikin Curly? Worth It!",
+  "hook_text": "Catokan 300 Ribuan Bisa Curly?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up rambut yang sedang dikeriting dengan catokan pink",
+      "narration": "Gak percaya catokan 300 ribuan bisa bikin curly?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk NVMEE Sagitarius ditunjukkan dari berbagai sudut",
+      "narration": "Kenalin nih, NVMEE Sagitarius Hair Styler 2in1. Gak cuma lurusin, bisa keriting juga."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar dengan efek kilat",
+      "narration": "Harganya? Cuma tiga ratus seratus ribuan doang. Literally murah tapi kualitas next level."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo layar sentuh LED dan penutup plat catokan",
+      "narration": "LED Touch screen-nya modern banget, pemanasan cepet. Ada sertifikasi SIRIM jadi aman. --- Tapi bestie, platnya agak renggang dikit, jadi pas lurusin harus rapatin dikit biar hasilnya rata, jangan dipaksa ya!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita muda sedang styling rambut di depan cermin",
+      "narration": "Cocok banget buat kamu pemula yang lagi belajar styling. Budget tipis tapi mau hasil pro."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan angka 30.000 terjual",
+      "narration": "Ratingnya 4.9, udah terjual 30.000 pasang. Yang udah beli bilang, Murce banget, hasil curly wa. Nggak bohong, worth it banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan layar HP membuka website finding.id",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#catokanmurah",
+    "#catokan2in1",
+    "#NVMEE",
+    "#HairStyling",
+    "#RambutKeriting",
+    "#OOTD",
+    "#GadisIndonesia",
+    "#ViralProduct"
+  ],
+  "product_id": 40454,
+  "product_title": "NVMEE - Catokan Rambut 2in1 LED Touch Sagitarius Hair Styler",
+  "product_price": "319000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/40454.jpg",
+    "/uploads/products/40454_1.jpg",
+    "/uploads/products/40454_2.jpg",
+    "/uploads/products/40454_3.jpg",
+    "/uploads/products/40454_4.jpg",
+    "/uploads/products/40454_5.jpg",
+    "/uploads/products/40454_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/40454",
+  "generated_at": "2026-03-13T16:32:58.778Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Tas Pria Mewah Anti Air? Cek Ini!",
+  "hook_text": "Tas pria anti air seharga apa?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up dramatis tas hitam yang disiram air langsung, tetesan air memantul di permukaan tanpa meresap",
+      "narration": "Kalian pasti nggak percaya kalau tas yang kelihatan mewah dan elegan ini harganya cuma enam puluhan ribu an bro!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot slow motion tas RUSEL CO berputar menampilkan detail jahitan dan tekstur kain berkualitas tinggi",
+      "narration": "Ini dia RUSEL CO Handbag Nano Ultimate Exclusive, model Laviola 2914 LSH yang literally next level buat gaya lo bestie."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga besar di layar dengan efek flash, lalu transisi ke tas dimasukkan ke dalam backpack",
+      "narration": "Nggak perlu keluar seratus delapan puluhan ribu an aja lo udah dapet tas multifungsi yang worth it banget buat kebutuhan sehari-hari."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Air dituang ke tas tidak meresap, 2. Tas dibuka tutup dengan mudah, 3. Model dipakai di badan dan di punggung",
+      "narration": "Pertama, bahannya waterproof beneran no cap, jadi nggak perlu khawatir kalau hujan-hujanan. Kedua, desainnya simple dan elegant yang bikin lo kelihatan ganteng kapan aja. Ketiga, multifungsi banget bisa dipakai gantung di badan atau di punggung sesuai mood lo."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: pria kerja kantoran, mahasiswa kampus, dan traveler lagi jalan-jalan dengan tas ini",
+      "narration": "Perfect buat yang aktivitasnya sering kena cuaca ekstrem atau kamu yang lagi cari tas kerja yang simpel tapi tetap punya class."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.91 bintang dengan angka 20.000 terjual, lalu muncul teks kutipan pembeli",
+      "narration": "Rating 4.91 bintang dari dua puluh ribu produk terjual, yang udah beli bilang tampilannya mewah dan simple tapi tetap elegan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan animasi fun dan tombol 'Cek Sekarang' berdenyut",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie",
+  "hashtags": [
+    "#taspria",
+    "#findingid",
+    "#ruselco",
+    "#handbagnano",
+    "#taswaterproof",
+    "#fyp",
+    "#viral",
+    "#rekomendasi"
+  ],
+  "product_id": 3834,
+  "product_title": "RUSEL CO - Handbag Nano Ultimate Exclusive Tas Pria Multifungsi Waterproof",
+  "product_price": "169700.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/3834.jpg",
+    "/uploads/products/3834_1.jpg",
+    "/uploads/products/3834_2.jpg",
+    "/uploads/products/3834_3.jpg",
+    "/uploads/products/3834_4.jpg",
+    "/uploads/products/3834_5.jpg",
+    "/uploads/products/3834_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/3834",
+  "generated_at": "2026-03-14T04:20:21.377Z"
+}

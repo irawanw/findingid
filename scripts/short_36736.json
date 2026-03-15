@@ -1,0 +1,96 @@
+{
+  "title": "Kado Nikahan Murah Tapi Mewah? Emang Ada Sih!",
+  "hook_text": "Kado Nikahan Murah Tapi Mewah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up unboxing box premium dengan pencahayaan cinematic",
+      "narration": "Kado Nikahan Murah Tapi Mewah? Emang ada sih bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari atas showcase isi dalam box lengkap",
+      "narration": "Ini Hampers Handuk Couple, boxnya estetik banget --- Isinya premium microfiber 70x140cm buat kenyamanan maksimal. Literally super worth it banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga 'Rp 139 Ribu-an' muncul besar",
+      "narration": "Gila sih, harga seratus tiga puluhan ribu saja sudah dapet hampers lengkap. Bandingin sama yang lain, ini no cap banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail tekstur handuk dan kartu ucapan yang bisa dikustomisasi",
+      "narration": "Fiturnya juara: packaging triple layer aman, bisa custom nama dan kartu ucapan. Desainnya earthy tone, modern banget. Pengiriman juga super cepat."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang sedang mencari kado atau melihat jam sibuk",
+      "narration": "Perfect buat kamu yang sering bingung kasih kado ke temen nikah. Kalau aktivitas kamu sibuk, ini solusinya. Nggak perlu repot packing lagi sama sekali."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4.93 dan jumlah terjual 30.000 unit",
+      "narration": "Rating empat koma sembilan tiga, sudah laku tiga puluh ribu unit! --- Yang sudah beli bilang 'Mau nangis ini bagus banget buat kado'. No cap!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di tengah layar dengan animasi fun",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana sekarang!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana sekarang!",
+  "hashtags": [
+    "#KadoNikahan",
+    "#HampersMurah",
+    "#GiftIdeas",
+    "#ViralProduct",
+    "#GenZIndonesia",
+    "#FindingID",
+    "#WeddingGift",
+    "#HandukCouple"
+  ],
+  "product_id": 36736,
+  "product_title": "Hampers Handuk Couple Pasangan Gift Set Box Handuk Hampers Wedding Pernikahan Wedding Gift",
+  "product_price": "139899.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/36736.jpg",
+    "/uploads/products/36736_1.jpg",
+    "/uploads/products/36736_2.jpg",
+    "/uploads/products/36736_3.jpg",
+    "/uploads/products/36736_4.jpg",
+    "/uploads/products/36736_5.jpg",
+    "/uploads/products/36736_6.jpg",
+    "/uploads/products/36736_7.jpg",
+    "/uploads/products/36736_8.jpg",
+    "/uploads/products/36736_9.jpg",
+    "/uploads/products/36736_10.jpg",
+    "/uploads/products/36736_11.jpg",
+    "/uploads/products/36736_12.jpg",
+    "/uploads/products/36736_13.jpg",
+    "/uploads/products/36736_14.jpg",
+    "/uploads/products/36736_15.jpg",
+    "/uploads/products/36736_16.jpg",
+    "/uploads/products/36736_17.jpg",
+    "/uploads/products/36736_18.jpg",
+    "/uploads/products/36736_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/36736",
+  "generated_at": "2026-03-13T18:21:40.713Z"
+}

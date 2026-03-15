@@ -1,0 +1,83 @@
+{
+  "title": "Minuman Diet Ini Terjual 50rb Unit!",
+  "hook_text": "Mau langsing tanpa olahraga?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah bingung lalu senyum percaya diri ke kamera",
+      "narration": "Mau langsing tapi nggak mau olahraga? ---"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan produk RICU'S SECRET BYFT Fiber dengan latar bersih",
+      "narration": "Kenalin nih, RICU'S SECRET BYFT Fiber. --- Ada rasa lemon atau delima yang fresh banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek bintang",
+      "narration": "Harganya hampir seratus delapan puluh ribuan aja. --- Buat satu box isi sepuluh sachet. Worth it banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot campur air, text BPOM dan Halal muncul di samping",
+      "narration": "Ini punya izin BPOM dan Halal, which is no cap. --- Bebas gula tapi serat tinggi, plus praktis dilarutkan air. --- Nafsu makan bisa ditekan alami, pokoknya next level."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang sedang bekerja di meja lalu minum minuman sehat",
+      "narration": "Perfect buat kamu yang pengen detoks alami atau hindari gula. --- Khusus buat kamu yang sibuk dan butuh solusi cepat. --- Tapi ingat, harus dikombinasi sama pola makan sehat ya bestie. --- Jangan cuma minum doang biar hasilnya maksimal."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.91 dan stok produk menumpuk",
+      "narration": "Sudah laku lebih dari lima puluh ribu unit dengan rating 4.91. --- Yang sudah beli bilang 'rasanya kaya jeli gitu lah' --- dan pengiriman cepet banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke link",
+      "narration": "Penasaran sama detailnya? --- Cek di finding dot id ya. --- Review lengkapnya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#DietAlami",
+    "#DetoksSehat",
+    "#RicuSecret",
+    "#BYFT",
+    "#TipsKurus",
+    "#FindItID",
+    "#MinumanDiet",
+    "#GenZHealth"
+  ],
+  "product_id": 95919,
+  "product_title": "RICU'S SECRET BYFT Fiber Rasa Lemon atau Delima Minuman Diet Penurun Berat Badan & Detox (1 Box isi 10 Sachets)",
+  "product_price": "179000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/95919.jpg",
+    "/uploads/products/95919_1.jpg",
+    "/uploads/products/95919_2.jpg",
+    "/uploads/products/95919_3.jpg",
+    "/uploads/products/95919_4.jpg",
+    "/uploads/products/95919_5.jpg",
+    "/uploads/products/95919_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/95919",
+  "generated_at": "2026-03-13T17:30:20.407Z"
+}

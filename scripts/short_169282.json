@@ -1,0 +1,83 @@
+{
+  "title": "Powerbank 20rb mAh Cuma 100 Ribuan?!",
+  "hook_text": "Mau charge HP 20000 mAh cuma 100 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up produk KIVEE KV-PT115 dipegang tangan dengan efek cahaya kilat cepat",
+      "narration": "Bestie, kamu percaya nggak kalau powerbank 20000 mAh bisa dapet cuma di angka seratus ribuan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai sudut menunjukkan desain mini dan layar LCD",
+      "narration": "Ini dia KIVEE KV-PT115, powerbank mini dengan layar LCD yang literally sekecil iPhone 7, nggak tebal dan nggak berat banget. Plus, ada fast charging yang bikin baterai HP kamu ngebut!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks animasi harga 'Rp 120.000-an' muncul besar di tengah layar dengan efek koin jatuh",
+      "narration": "Bayangin, kapasitas gede gini tapi harga cuma seratus dua puluh ribuan aja. Which is worth it banget kalau dibandingin sama powerbank lain yang harganya bisa dua kali lipat."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Kabel data terpasang, 2. Layar LCD menunjukkan angka persentase, 3. Powerbank dimasukkan ke saku celana",
+      "narration": "Fiturnya next level bestie. Pertama, dia udah bawa kabel data jadi nggak perlu ribet bawa kabel terpisah. Kedua, layar LCD-nya jelas banget nunjukin sisa daya, jadi kamu nggak perlu tebak-tebakan. Ketiga, kapasitasnya bener-bener 20000 mAh, bisa buat charge HP berkali-kali tanpa mati lampu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang sedang jalan-jalan atau nongkrong sambil ngecas HP",
+      "narration": "Produk ini perfect banget buat kamu yang suka traveling, sering lupa bawa kabel, atau aktivitasnya di luar rumah seharian dan butuh cadangan daya yang aman."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4.7 bintang dan jumlah terjual 30.000 muncul di layar",
+      "narration": "Ratingnya 4,7 dari 30.000 terjual. Yang udah beli bilang, 'Fitur terbaiknya fast charging dan sepadan banget sama harganya'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan produk dengan panah mengarah ke logo Finding.id",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#KIVEE",
+    "#PowerbankMurah",
+    "#GadgetViral",
+    "#LifeHacks",
+    "#TechIndonesia",
+    "#CekDuluDulu",
+    "#DiskonGadget",
+    "#ShortsViral"
+  ],
+  "product_id": 169282,
+  "product_title": "(HOT)KIVEE Powerbank Fast Charging 20000 mAh Murah Mini LCD KV-PT115 with Kabel Data Garansi 1 tahun",
+  "product_price": "124310.00",
+  "product_rating": "4.74",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/169282.jpg",
+    "/uploads/products/169282_1.jpg",
+    "/uploads/products/169282_2.jpg",
+    "/uploads/products/169282_3.jpg",
+    "/uploads/products/169282_4.jpg",
+    "/uploads/products/169282_5.jpg",
+    "/uploads/products/169282_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/169282",
+  "generated_at": "2026-03-15T13:16:03.819Z"
+}

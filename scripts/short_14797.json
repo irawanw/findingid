@@ -1,0 +1,83 @@
+{
+  "title": "Jas Hujan Anak Anti Sobek & Rembes!",
+  "hook_text": "Jas Hujan Anak Anti Rembes?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up anak tertawa di bawah hujan deras sambil memamerkan jas hujan yang kering dan rapi.",
+      "narration": "Bingung cari jas hujan buat anak yang beneran anti rembes? Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Video transisi cepat menunjukkan kotak produk Maroen Kids dibuka, lalu anak memakai setelan jas hujan lengkap.",
+      "narration": "Kenalin nih, Jas Hujan Setelan Anak by Maroen Kids. Solusinya kalau kamu butuh yang kuat, anti sobek, dan pastinya nggak bocor meskipun hujan deres banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kilatan, diselingi shot anak memakai jas hujan dengan gaya keren.",
+      "narration": "Ternyata harganya cuma enam puluhan ribuan doang! Which is worth it banget buat dapet setelan lengkap plus bonus tas sekolah. No cap, ini harga miring banget buat kualitas sekeren ini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close-up detail bahan PVC tebal, zoom-in pada seal celana, dan demonstrasi kancing penutup ganda.",
+      "narration": "Fiturnya next level banget, bestie! Pertama, bahannya PVC super tebal anti sobek, jadi nggak gampang jebol kalau gesekan sama tas. Kedua, sistem anti rembes karena celananya udah dilapisi seal khusus. Ketiga, desain double protection dengan penutup dan kancing tambahan. Lengan serta pinggangnya juga full karet biar pas dan nyaman dipakai seharian!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase anak-anak usia 3 sampai 12 tahun sedang berjalan ke sekolah atau bermain di halaman saat hujan.",
+      "narration": "Product ini perfect banget buat parents yang anaknya aktif usia tiga sampai dua belas tahun. Kalau kamu sering panik pas anak sekolah di musim hujan, ini solusinya. Bahannya juga didesain agak lebar di belakang khusus buat muatin tas sekolah!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang lima dengan angka 4.89 dan teks '60.000+ Terjual' berkedip.",
+      "narration": "Pembelinya pada ngomong bahannya tebal dan sangat recommended! Ada yang bilang paketnya nyampai sesuai pesanan dan kualitasnya memuaskan banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Anak melambaikan tangan sambil menunjuk ke arah teks 'finding dot id' yang muncul di layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#JasHujanAnak",
+    "#MaroenKids",
+    "#ObralHujan",
+    "#ParentingIndonesia",
+    "#BelanjaAnak",
+    "#ViralIndonesia",
+    "#CekDuluBaruBeli",
+    "#RekomendasiParenting"
+  ],
+  "product_id": 14797,
+  "product_title": "JAS HUJAN SETELAN ANAK ANTI SOBEK ANTI REMBES BAHAN TEBAL LENTUR KUAT BY MAROEN KIDS",
+  "product_price": "62500.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/14797.jpg",
+    "/uploads/products/14797_1.jpg",
+    "/uploads/products/14797_2.jpg",
+    "/uploads/products/14797_3.jpg",
+    "/uploads/products/14797_4.jpg",
+    "/uploads/products/14797_5.jpg",
+    "/uploads/products/14797_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/14797",
+  "generated_at": "2026-03-15T16:49:22.415Z"
+}

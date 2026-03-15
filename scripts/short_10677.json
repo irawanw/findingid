@@ -1,0 +1,96 @@
+{
+  "title": "Jaket Motor Taslan Murah 124 Ribuan!",
+  "hook_text": "Gak Percaya Jaket Ini Cuma 124 Ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget menunjuk jaket yang digantung dengan pencahayaan dramatis",
+      "narration": "Gak percaya jaket motor sekeren ini harganya cuma seratus dua puluh ribuan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Slow motion jaket dibuka menunjukkan detail bahan Taslan JN yang halus",
+      "narration": "Ini dia Letsgow Jacket, bahan Taslan JN yang adem banget dan nggak kaku, jadi kelihatan premium banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek animasi koin jatuh",
+      "narration": "Bayangin, kualitas premium tapi harganya cuma seratus dua puluhan ribu doang, which is worth it banget buat kantong pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase orang memakai jaket saat hujan ringan dan riding motor di siang hari",
+      "narration": "Tahan angin pas buat cuaca sejuk dan aman buat hujan, desain street style yang literally no cap, dan bahan halus yang nyaman dipakai seharian tanpa bikin gerah, which is super worth it."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Kamera mengikuti orang sedang jalan santai dan nongkrong di cafe",
+      "narration": "Perfect banget buat kamu yang sering naik motor atau mau tampil kece buat nongkrong santai bareng teman-teman di akhir pekan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.86 dan jumlah terjual besar di pojok layar",
+      "narration": "Udah terjual empat puluh ribuan unit. --- Yang udah beli bilang, \"Jaketnya keren, pas banget buat suami dan gak nyesel\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Jaket dikibarkan pelan sambil teks calling to action muncul",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#jaketmotor",
+    "#jaketmurah",
+    "#outfitpria",
+    "#jaketwanita",
+    "#findingid",
+    "#rekomendasiproduk",
+    "#fashionmurah",
+    "#tiktokshop"
+  ],
+  "product_id": 10677,
+  "product_title": "Jacket Motor Pria Waterproof Anti Angin Jaket Pria Parka Pria Wanita Taslan Jaket kasual Pria Terbaru Ori Murah Original Premium New Model Parasut Pria Hoodie Parasit Distro Unisex Cagoule Pria Jaket simple Jaket Wanita Jaket Outdoor Sporty Outwear",
+  "product_price": "124000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/10677.jpg",
+    "/uploads/products/10677_1.jpg",
+    "/uploads/products/10677_2.jpg",
+    "/uploads/products/10677_3.jpg",
+    "/uploads/products/10677_4.jpg",
+    "/uploads/products/10677_5.jpg",
+    "/uploads/products/10677_6.jpg",
+    "/uploads/products/10677_7.jpg",
+    "/uploads/products/10677_8.jpg",
+    "/uploads/products/10677_9.jpg",
+    "/uploads/products/10677_10.jpg",
+    "/uploads/products/10677_11.jpg",
+    "/uploads/products/10677_12.jpg",
+    "/uploads/products/10677_13.jpg",
+    "/uploads/products/10677_14.jpg",
+    "/uploads/products/10677_15.jpg",
+    "/uploads/products/10677_16.jpg",
+    "/uploads/products/10677_17.jpg",
+    "/uploads/products/10677_18.jpg",
+    "/uploads/products/10677_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/10677",
+  "generated_at": "2026-03-13T18:54:50.264Z"
+}

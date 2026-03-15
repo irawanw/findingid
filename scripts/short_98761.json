@@ -1,0 +1,83 @@
+{
+  "title": "Rak Besi 5 Susun Murah Banget!",
+  "hook_text": "Rak besi seharga cangkir kopi?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up rak besi dengan efek cahaya dramatis, lalu cut ke host yang terlihat skeptis memegang kalkulator.",
+      "narration": "Rak besi seharga cangkir kopi? --- Gak percaya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase produk Rak Besi Siku dari berbagai angle, tunjukkan detail lasan dan bahan besinya.",
+      "narration": "Nih, Rak Besi Siku 5 Susun yang lagi viral banget. --- Bahan 100% besi, jadi super kuat buat numpuk barang."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek uang jatuh, host menunjuk harga dengan ekspresi kaget.",
+      "narration": "Harganya? Cuma seratus lima belas ribuan doang! --- Which is worth it banget buat dapet rak segede ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: isi barang di 5 tingkat, proses rakitan mudah, dan tes beban barang berat.",
+      "narration": "Pertama, 5 tingkat yang luas banget buat semua barang. --- Kedua, mudah dirakit, nggak butuh tukang. --- Ketiga, kokoh tapi ringan. Kalo soal besi penyangga, kadang varian beda dikit, tapi tetep aman."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Host sedang menata barang di kamar sempit, lalu pindah ke area gudang kecil yang rapi.",
+      "narration": "Perfect buat lo yang punya kamar sempit, --- butuh gudang kecil, atau buat jualan online yang butuh rapi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.59 dan angka 40k terjual, lalu screenshot chat pembeli.",
+      "narration": "Ratingnya 4,59 bintang dan udah 40 ribu terjual! --- Yang udah beli bilang 'Awalnya saya kira kurang bagus, tapi setelah dirakit ternyata cantik'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke link, host mengedipkan mata sambil memegang ponsel.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#RakBesi",
+    "#FurniturMurah",
+    "#RakSerbaguna",
+    "#TipsKamar",
+    "#GudangRumah",
+    "#ProdukViral",
+    "#FindingID",
+    "#GenZIndonesia"
+  ],
+  "product_id": 98761,
+  "product_title": "Rak Besi Siku 5 Susun Rak Susun Serbaguna Rak Besi Susun 4 Tingkat Rak Gudang 100% Besi",
+  "product_price": "111550.00",
+  "product_rating": "4.59",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/98761.jpg",
+    "/uploads/products/98761_1.jpg",
+    "/uploads/products/98761_2.jpg",
+    "/uploads/products/98761_3.jpg",
+    "/uploads/products/98761_4.jpg",
+    "/uploads/products/98761_5.jpg",
+    "/uploads/products/98761_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/98761",
+  "generated_at": "2026-03-13T19:23:12.762Z"
+}

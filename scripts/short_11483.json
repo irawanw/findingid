@@ -1,0 +1,80 @@
+{
+  "title": "Storage HP Penuh? Solusi Murah Sandisk Ultra!",
+  "hook_text": "HP lo udah penuh? Jangan panik bestie!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up HP dengan notifikasi storage penuh lalu transisi cepat ke produk Sandisk.",
+      "narration": "Storage HP lo udah penuh? Jangan panik!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Sandisk ditunjukkan dari berbagai angle dengan cahaya cinematic.",
+      "narration": "Kenalin nih Sandisk SDXC Ultra, brand ternama yang wajib punya."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh.",
+      "narration": "Ternyata harganya cuma dua ratusan ribuan doang --- which is literally worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat transfer data, foto 4K, dan packaging aman.",
+      "narration": "Bisa pilih mulai dari 16GB sampe 256GB sesuai budget lo --- Transfer data cepet banget, UHS-I Class 10 yang isinya nggak ngelag --- Nggak perlu pusing lagi pas upload video 4K. --- Packing aman, memory card ga gampang bengkok, jadi data lo aman sentosa. --- No cap, quality-nya legit banget! Bestie, stok aman kan?"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang sedang mengambil foto dan merekam video dengan senyum.",
+      "narration": "Cocok banget buat lo yang sering foto, rekam, atau jualan produk lagi."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan jumlah terjual 30k di layar.",
+      "narration": "Ratingnya 4,89 bintang, udah laku 30 ribu lebih! --- Yang udah beli bilang, 'Harga bersahabat banget mantap buat dijual lagi'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke bawah.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Sandisk",
+    "#MemoryCard",
+    "#GadgetMurah",
+    "#TipsGadget",
+    "#ContentCreator",
+    "#ViralProducts"
+  ],
+  "product_id": 11483,
+  "product_title": "SANDISK SDHC / SDXC Ultra 16GB / 32GB / 64GB / 128GB / 256GB UHS-I Class 10 - DUNC",
+  "product_price": "218200.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/11483.jpg",
+    "/uploads/products/11483_1.jpg",
+    "/uploads/products/11483_2.jpg",
+    "/uploads/products/11483_3.jpg",
+    "/uploads/products/11483_4.jpg",
+    "/uploads/products/11483_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/11483",
+  "generated_at": "2026-03-13T17:03:43.352Z"
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Tablet 2 Jutaan Worth It? Huawei MatePad SE 11",
+  "hook_text": "Tablet 2 Jutaan Worth It?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up produk tablet dengan efek cahaya dramatis, lalu zoom out ke presenter",
+      "narration": "Tablet 2 jutaan, emang bisa sekeren ini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Showcase produk berputar menampilkan bodi metal unibody dari berbagai sudut",
+      "narration": "Kenalin nih Huawei MatePad SE 11 inch. Bodi metal unibody, elegan parah bestie."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan animasi uang atau diskon",
+      "narration": "Harganya mulai dua juta dua ratus ribuan sampe dua tujuh ratus ribuan. which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menampilkan layar reading mode, baterai indikator full, dan texture bodi metal",
+      "narration": "Layar FHD+ Eye Comfort, jadi nggak bikin mata lelah saat baca buku --- Baterai 7700mAh, tahan seharian nonstop tanpa khawatir kehabisan daya --- Metal unibody juga bikin body tablet kerasa premium --- Plus extended warranty bisa sampe dua tahun."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario mahasiswa ngerjain tugas dan anak nonton film di sofa",
+      "narration": "Cocok banget buat pelajar atau nonton series maraton --- Buat tugas kuliah maupun hiburan, ini tablet yang tepat. Anak muda yang butuh gadget serba bisa wajib punya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 5 dan angka 40k terjual muncul besar",
+      "narration": "Rating 4,9! Sudah terjual 40.000 unit. No cap! --- Yang udah beli bilang, 'value for moneynya bagus banget, layarnya jernih nggak bikin mata pusing'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul di layar dengan panah mengarah ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produk-nya ada di sana!",
+  "hashtags": [
+    "#HuaweiMatePad",
+    "#TabletMurah",
+    "#TechIndonesia",
+    "#GadgetGenZ",
+    "#BelanjaOnline",
+    "#FindingID",
+    "#TabletEdukasi",
+    "#RekomendasiGadget"
+  ],
+  "product_id": 72152,
+  "product_title": "[BEST SELLER] HUAWEI MatePad SE 11\" Tablet [6+128GB] | FHD+ Eye Comfort Display | 7700mAh | Metal Unibody",
+  "product_price": "2299000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/72152.jpg",
+    "/uploads/products/72152_1.jpg",
+    "/uploads/products/72152_2.jpg",
+    "/uploads/products/72152_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/72152",
+  "generated_at": "2026-03-13T16:11:17.639Z"
+}

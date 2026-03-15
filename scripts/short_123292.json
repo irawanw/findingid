@@ -1,0 +1,83 @@
+{
+  "title": "Waxing Ala MIRAEL? Worth It Banget Bestie!",
+  "hook_text": "Stop ngerasain sakit waxing!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan wajah ekspresif menjerit pelan atau ekspresi kaget sambil menunjuk ke arah produk dengan teks overlay besar.",
+      "narration": "Stop ngerasain sakit pas waxing dong bestie! Pernah nggak sih ngerasain rasa panas banget sampe nangis?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke produk MIRAEL Relaxing Green Tea Sugar Waxing Kit yang dipegang di tangan dengan pencahayaan estetik.",
+      "narration": "Tenang deh, solusinya ada di MIRAEL Relaxing Green Tea Sugar Waxing Kit nih. Ini bukan waxing biasa guys, ini versi yang super calming banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 109.000 dengan efek stiker uang yang menghilang, digantikan teks 'Murah Banget' dengan font besar.",
+      "narration": "Gila sih harganya cuma seratus sembilan puluh ribuan, which is worth it banget buat perawatan privasi. Literally next level murah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: Wajah tersenyum bahagia, close up tekstur hijau alami, dan kulit halus di bagian belakang.",
+      "narration": "Pertama, kandungannya alami dari teh hijau jadi aman buat kulit sensitif nggak bikin iritasi. Kedua, teksturnya lembut banget pas diaplikasi, nggak lengket di tangan. Ketiga, hasilnya bikin kulit jadi halus dan lembut, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario seseorang lagi nonton film santai sambil mengoleskan produk di area bikini dengan nyaman.",
+      "narration": "Perfect buat kamu yang sering merasa malu atau nggak nyaman pas mau waxing di tempat umum. Kalau aktivitas kamu butuh privasi total, ini jawabannya bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop up rating 4.89 bintang dan angka 50.000+ terjual, plus bubble chat muncul berisi kutipan positif.",
+      "narration": "Pembelinya pada ngomong kulit jadi halus banget dan nggak sakit sama sekali. Ratingnya tinggi banget dan udah laku lima puluh ribuan unit!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan logo finding.id dengan panah menunjuk ke bawah atau tombol beli yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#MIRAELWaxing",
+    "#SkincareIndo",
+    "#WaxingTips",
+    "#ProdukViral",
+    "#SkincareHarian",
+    "#BeautyHack",
+    "#KulitHalus",
+    "#Ternyaman"
+  ],
+  "product_id": 123292,
+  "product_title": "MIRAEL Relaxing Green Tea Sugar Waxing Kit",
+  "product_price": "109000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/123292.jpg",
+    "/uploads/products/123292_1.jpg",
+    "/uploads/products/123292_2.jpg",
+    "/uploads/products/123292_3.jpg",
+    "/uploads/products/123292_4.jpg",
+    "/uploads/products/123292_5.jpg",
+    "/uploads/products/123292_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/123292",
+  "generated_at": "2026-03-14T04:15:22.972Z"
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Hoodie Skywhite 280gsm Murah Banget?",
+  "hook_text": "Gak percaya ini cuma puluhan ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tekstur bahan hoodie, lalu zoom out cepat ke wajah presenter",
+      "narration": "Sumpah bestie, harga segini bisa dapet bahan se-soft ini? --- No cap!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot full body memakai hoodie, model berputar menunjukkan detail belakang dan depan",
+      "narration": "Ini dia Hoodie Zipper Skywhite, brand distro tapi harga anak kos. --- Bahan fleece 280 gram, literally tebal dan hangat banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga muncul besar, diikuti ikon perbandingan dengan logo toko mall",
+      "narration": "Bayangin, kamu bisa dapet ini cuma tujuh puluhan ribu doang. --- Bandingin sama produk mall? Which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Zoom in detail bordir 3D, menunjukkan chart ukuran, lalu close up bahan katun",
+      "narration": "Fiturnya next level. --- Bordir 3D estetik banget, tersedia sampai ukuran Jumbo, dan bahan katun super halus yang nyaman."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model berjalan santai di cuaca dingin sambil memeluk diri sendiri",
+      "narration": "Perfect buat kamu yang cari comfort buat harian. --- Kalau kamu sering kedinginan atau butuh ukuran besar, ini solusinya. --- Cek aja slide ukuran buat dapet yang pas."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Animasi rating bintang lima muncul, lalu screenshot chat pembeli yang positif",
+      "narration": "Sudah terjual lebih dari empat puluh ribu produk. --- Rating 4.83. --- Yang udah beli bilang, aaa sumpah ini bagus banget, bahan tebal dan besarnya pas, enggak terlalu besar. --- Tapi hati-hati, cek foto warna ya bestie!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Jari menunjuk ke arah tombol pencarian di layar atau logo aplikasi",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Skywhite",
+    "#HoodieMurah",
+    "#OotdIndonesia",
+    "#FashionKost",
+    "#GenZStyle",
+    "#BajuTebar",
+    "#JualBaju",
+    "#ViralIndonesia"
+  ],
+  "product_id": 112488,
+  "product_title": "HOODIE ZIPPER SWEATER SKYWHITE BORDIR TIMBUL BAHAN GRAMASI 280 HALUS DAN TEBAL",
+  "product_price": "81000.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/112488.jpg",
+    "/uploads/products/112488_1.jpg",
+    "/uploads/products/112488_2.jpg",
+    "/uploads/products/112488_3.jpg",
+    "/uploads/products/112488_4.jpg",
+    "/uploads/products/112488_5.jpg",
+    "/uploads/products/112488_6.jpg",
+    "/uploads/products/112488_7.jpg",
+    "/uploads/products/112488_8.jpg",
+    "/uploads/products/112488_9.jpg",
+    "/uploads/products/112488_10.jpg",
+    "/uploads/products/112488_11.jpg",
+    "/uploads/products/112488_12.jpg",
+    "/uploads/products/112488_13.jpg",
+    "/uploads/products/112488_14.jpg",
+    "/uploads/products/112488_15.jpg",
+    "/uploads/products/112488_16.jpg"
+  ],
+  "product_link": "https://finding.id/p/112488",
+  "generated_at": "2026-03-13T20:54:47.435Z"
+}

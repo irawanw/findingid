@@ -1,0 +1,87 @@
+{
+  "title": "Kulit Sensitif Budget Pelajar? Ini Solusinya!",
+  "hook_text": "Kulit Sensitif tapi Budget Pas-pasan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kulit sensitif yang tampak kemerahan, lalu transisi cepat ke host yang tersenyum.",
+      "narration": "Kulit sensitif butuh skincare tapi budget masih pas-pasan? --- Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk THINK HALE ditampilkan di tengah frame dengan pencahayaan cinematic.",
+      "narration": "Kenalin nih, THINK HALE Comfort Zone Soothing Moisturizer. --- Solusi tepat ngebangun skin barrier biar nggak gampang iritasi."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks animasi harga muncul besar di layar dengan efek 'wow' atau kilauan.",
+      "narration": "Duh, harganya? --- Mulai dari seratus sebelasan ribu doang. --- Worth it banget buat kulit sehat."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo tekstur krim di tangan, menunjukkan kelembutan dan penyerapan cepat.",
+      "narration": "Fiturnya next level. --- Nyerapnya cepet, nggak lengket, dan soothing banget. --- Kalo teksturnya agak kental, tenang! --- Oles tipis pas muka basah, langsung meresap kok."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: seseorang sedang skincare rutin dan seseorang sedang breakout.",
+      "narration": "Perfect buat kulit kering, sensitif, atau lagi breakout. --- Butuh yang aman dan nggak bikin panas di muka."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.92 dan angka 20k terjual di layar.",
+      "narration": "Rating 4,92 bintang sama 20 ribu produk terjual. --- Yang udah beli bilang, \"Lembabnya pas dan tahan lama.\" --- No cap, emang bagus."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke tombol di bawah.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, --- review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#skincaremurah",
+    "#kultissensitif",
+    "#thinkingale",
+    "#moisturizer",
+    "#skincarerutin",
+    "#halalkosmetik",
+    "#skinbarrier",
+    "#findingid"
+  ],
+  "product_id": 100174,
+  "product_title": "THINK HALE Comfort Zone Soothing Moisturizer 40g - Pelembab Skin Barrier Kulit Sensitif Segala Usia",
+  "product_price": "111198.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100174.jpg",
+    "/uploads/products/100174_1.jpg",
+    "/uploads/products/100174_2.jpg",
+    "/uploads/products/100174_3.jpg",
+    "/uploads/products/100174_4.jpg",
+    "/uploads/products/100174_5.jpg",
+    "/uploads/products/100174_6.jpg",
+    "/uploads/products/100174_7.jpg",
+    "/uploads/products/100174_8.jpg",
+    "/uploads/products/100174_9.jpg",
+    "/uploads/products/100174_10.jpg"
+  ],
+  "product_link": "https://finding.id/p/100174",
+  "generated_at": "2026-03-13T16:36:14.589Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Celana Jeans Pria Melar 50 Ribu Aja?",
+  "hook_text": "Celana Jeans Murah Murahan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up produk celana jeans dengan ekspresi kaget dan teks overlay besar",
+      "narration": "Nggak percaya ada celana jeans seharga itu? --- Ada yang bilang harga murah pasti murahan"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Pria memakai celana jeans sambil melompat dan menunjukkan elastisitas bahan",
+      "narration": "Ini celana jeans pria melar, bahan denim tebal yang stretch banget. No cap, nyaman banget di kulit."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek animasi kaget",
+      "narration": "Harganya cuma lima puluhan ribu aja, which is worth it banget for quality sekeren ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail jahitan close-up, tes tarik bahan, dan perbandingan ukuran size 34",
+      "narration": "Jahitan rapi, warna nggak mudah luntur karena proses washing tim. --- Bahan nggak tipis kok bestie. Oh ya, buat yang size 34, pasinya normal bukan big cut ya, jangan sampai salah ukur."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Pria jalan santai di cafe atau jalan raya dengan gaya kasual",
+      "narration": "Cocok banget buat kamu yang cari celana harian santai tapi tetap kelihatan rapi. Perfect buat yang budget terbatas tapi mau kualitas premium. Stylish banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan jumlah penjualan 50.000 dan rating 4.87 dengan ikon bintang",
+      "narration": "Udah terjual 50 ribu produk. --- Yang udah beli bilang, bahannya bagus tebal dan elastis."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan logo finding.id dan panah menunjuk ke arah bawah atau samping",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produknya ada di sana!",
+  "hashtags": [
+    "#celanapria",
+    "#jeansmurah",
+    "#ootd",
+    "#fashionpria",
+    "#rekomendasiproduk",
+    "#belanjaonline",
+    "#grosir",
+    "#trendy"
+  ],
+  "product_id": 15308,
+  "product_title": "[SIZE 27-44] Celana Pendek Jeans Pria Melar Terlaris Grosir",
+  "product_price": "65999.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/15308.jpg",
+    "/uploads/products/15308_1.jpg",
+    "/uploads/products/15308_2.jpg",
+    "/uploads/products/15308_3.jpg",
+    "/uploads/products/15308_4.jpg",
+    "/uploads/products/15308_5.jpg",
+    "/uploads/products/15308_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/15308",
+  "generated_at": "2026-03-13T21:47:00.965Z"
+}

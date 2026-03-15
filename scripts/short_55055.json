@@ -1,0 +1,85 @@
+{
+  "title": "Mau Glowing Instan Tapi Dompet Tipis? Cek Ini!",
+  "hook_text": "Wajah Kusam Tapi Dompet Tipis? Stop Scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kusam yang berubah jadi glowing dengan efek transisi cepat.",
+      "narration": "Mau wajah glowing instan tapi takut dompet bolong? Bestie, stop scroll dulu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Menampilkan kotak produk Skintific Niacinamide Brightening Daily Mask dengan animasi teks 30 lembar.",
+      "narration": "Kenalin, ini Skintific Niacinamide Brightening Daily Mask. Isinya 30 lembar dong, gaspol!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga coret di atas dan harga promo di bawah dengan efek koin jatuh.",
+      "narration": "Harganya bervariasi, tapi paket hemat bisa dapet di seratus dua puluhan ribu saja!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close-up tekstur sheet mask basah ditempelkan ke wajah dengan efek serum menetes.",
+      "narration": "Ada Niacinamide sama Tranexamic Acid buat cerahin kulit. Serumbunya melimpah, nggak lengket. --- Yang paling penting, ini sudah resmi BPOM, no worry!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang tersenyum ceria setelah pakai masker, kulit tampak lembab dan bersinar.",
+      "narration": "Perfect buat kamu yang kulitnya sering kusam atau kering. Nggak perlu mahal, kulit tetep sehat!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.93 dan jumlah terjual 20 ribu dengan animasi centang hijau.",
+      "narration": "Ratingnya tinggi 4.93, total terjual 20 ribu produk. Yang udah beli bilang 'Begitu dibuka langsung pake, sheet masknya basah, pantes langsung cerah karena serumnya banyak'!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks 'Cek di finding dot id' dengan panah menunjuk ke arah tombol atau layar.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Skintific",
+    "#MaskerWajah",
+    "#SkincareMurah",
+    "#GlowingAlami",
+    "#TipsKulit",
+    "#BeautyHacks",
+    "#SkincareIndonesia",
+    "#FindID"
+  ],
+  "product_id": 55055,
+  "product_title": "[New Launch]SKINTIFIC Niacinamide Brightening Daily Mask 30 Sheets | Hydrating Glow Sheet Mask Wajah | Mengurangi Komedo & Pori | Skincare Mencerahkan Kulit Kusam",
+  "product_price": "124645.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/55055.jpg",
+    "/uploads/products/55055_1.jpg",
+    "/uploads/products/55055_2.jpg",
+    "/uploads/products/55055_3.jpg",
+    "/uploads/products/55055_4.jpg",
+    "/uploads/products/55055_5.jpg",
+    "/uploads/products/55055_6.jpg",
+    "/uploads/products/55055_7.jpg",
+    "/uploads/products/55055_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/55055",
+  "generated_at": "2026-03-13T18:51:26.347Z"
+}

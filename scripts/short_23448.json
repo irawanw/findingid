@@ -1,0 +1,110 @@
+{
+  "title": "Paket Kasur Bayi Lipat BabyShip Murah Banget",
+  "hook_text": "Bayi Tidur Nyenyak Tanpa Ribet",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah bayi tertidur pulas di kasur baru dengan pencahayaan lembut",
+      "narration": "Stop scroll! Masih pakai karpet biasa buat tidur bayi? Gak ngotak!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Buka kotak produk BabyShip, tunjukkan kasur yang sedang dibuka otomatis",
+      "narration": "Kenalin nih, PAKET HEMAT dari BabyShip. --- Kasur lipat dengan kelambu plus sofa multifungsi. --- literally so cool buat si kecil."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks harga besar muncul di layar dengan efek animasi koin jatuh",
+      "narration": "Harganya? --- Seratus lima puluh lima ribu dua ratus tiga puluh dua rupiah, sampai seratus tujuh puluh delapan ribu empat ratus rupiah. --- which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Showcase kelambu, bahan lembut, dan cara lipat kasur dengan cepat",
+      "narration": "Fitur utama ada tiga nih bestie. --- Pertama, bahan lembut banget buat kulit sensitif si kecil. --- Kedua, ada kelambu anti nyamuk yang praktis banget. --- Ketiga, bisa dilipat dan dibuka dengan sangat mudah. --- basically next level convenience buat parents."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Montase cepat 4 poin keunggulan: motif, struktur, anti air, ukuran",
+      "narration": "Kelebihannya banyak banget. --- Pertama, tersedia dua puluh motif menarik yang eye catching. --- Kedua, struktur kokoh tapi tetap ringan buat dipindah. --- Ketiga, bahan anti air jadi gampang dibersihkan dari noda. --- Keempat, ukuran pas banget buat bayi sampai balita. --- Pokoknya the best!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Ibu membawa kasur lipat ke dalam mobil atau rumah nenek",
+      "narration": "Perfect buat mama yang suka travel. --- Kalau aktivitas sering keluar rumah, ini jadi teman setia. --- Nggak ribet bawa tempat tidur tambahan. --- Cocok buat kamu yang butuh solusi praktis."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Tampilan rating bintang 4.78 dan jumlah terjual 30k",
+      "narration": "Rating empat koma tujuh delapan bintang. --- Udah laku tiga puluh ribu produk. --- Review bilang, Kualitas sangat bagus dan cocok untuk tidur serta bersantai buat baby ku. --- Nggak nyangka bakalan sebagus ini barangnya."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Scroll cepat 6 varian warna yang tersedia",
+      "narration": "Ada enam varian warna kayak Safari Biru sampai Fox Grey. --- Pilih motif favoritmu yang paling kamu suka ya bestie."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tombol beli dan panah mengarah ke link di bawah",
+      "narration": "Jangan tunda lagi, klik link di bawah buat dapet paket hematnya sekarang. --- Link ada di deskripsi!"
+    }
+  ],
+  "cta": "Klik link di bawah untuk pesan sekarang!",
+  "hashtags": [
+    "#BabyShip",
+    "#KasurBayi",
+    "#ParentingHacks",
+    "#IbuBunda",
+    "#ReviewProduk",
+    "#ParentingIndonesia",
+    "#BayiSehat",
+    "#HematBudget"
+  ],
+  "product_id": 23448,
+  "product_title": "PAKET HEMAT!! Kasur Bayi Lipat Kelambu + Sofa Bayi Multifungsi 20+ Motif Merk BabyShip",
+  "product_price": "155232.00",
+  "product_rating": "4.78",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/23448.jpg",
+    "/uploads/products/23448_1.jpg",
+    "/uploads/products/23448_2.jpg",
+    "/uploads/products/23448_3.jpg",
+    "/uploads/products/23448_4.jpg",
+    "/uploads/products/23448_5.jpg",
+    "/uploads/products/23448_6.jpg",
+    "/uploads/products/23448_7.jpg",
+    "/uploads/products/23448_8.jpg",
+    "/uploads/products/23448_9.jpg",
+    "/uploads/products/23448_10.jpg",
+    "/uploads/products/23448_11.jpg",
+    "/uploads/products/23448_12.jpg",
+    "/uploads/products/23448_13.jpg",
+    "/uploads/products/23448_14.jpg",
+    "/uploads/products/23448_15.jpg",
+    "/uploads/products/23448_16.jpg",
+    "/uploads/products/23448_17.jpg",
+    "/uploads/products/23448_18.jpg",
+    "/uploads/products/23448_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/23448",
+  "generated_at": "2026-03-13T09:59:18.657Z"
+}

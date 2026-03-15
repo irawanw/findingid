@@ -1,0 +1,83 @@
+{
+  "title": "Cushion Glowing Sunflower Ini Bikin Wajah Mulus Banget!",
+  "hook_text": "Wajah kusam? Langsung lupakan!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah terlihat kusam lalu tiba-tiba berubah glowing cerah dengan efek transisi cepat",
+      "narration": "Wajah kusam dan penuh pori-pori? Tenang bestie, stop scroll dulu dong!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilkan produk Shine Russia Cushion Bunga Matahari di atas meja dengan pencahayaan natural",
+      "narration": "Kenalan yuk sama Shine Russia Cushion Bunga Matahari ini, literally next level untuk kulitmu!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek animasi 'wow' di tengah layar",
+      "narration": "Gila sih harganya cuma seratus enam puluhan ribu rupiah, tapi hasilnya worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen menampilkan tekstur powder halus, aplikasi cushion yang smooth, dan tahan keringat",
+      "narration": "Teksturnya micro powder yang super halus banget, basically ngisi semua pori-pori dan flek. Kandungan antioksidan dari ekstrak bunga matahari bikin wajah glowing, plus tahan lama nggak luntur meski lagi aktivitas keras!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage orang-orang beraktivitas: olahraga lari, kerja di luar, dan meeting penting dengan makeup tetap rapi",
+      "narration": "Perfect buat yang sering beraktivitas luar atau suka banget makeup long lasting, nggak perlu re-apply terus-terusan!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.88 bintang dan angka terjual 20.000 produk dengan background hijau segar",
+      "narration": "Rating empat delapan delapan dari dua puluh ribu pembeli, yang udah beli bilang hasilnya glowing cemerlang banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol beli muncul dengan animasi menunjuk ke bawah, teks finding dot id muncul jelas",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stoknya cepet habis!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#ShineRussia",
+    "#CushionGlowing",
+    "#SkincareIndo",
+    "#MakeupHacks",
+    "#ViralShorts",
+    "#BeautyFinds",
+    "#SunflowerPower",
+    "#GlowUp"
+  ],
+  "product_id": 100923,
+  "product_title": "Shine Russia + CUSHION BUNGA MATAHARI DENGAN REFILL - Smart Fit Glowing Essence Cushion With Sunflower - Cushion Dengan Antioksidan yang Mencerahkan & Mengandung Sunflower Ekstrac - Tekstur Micro Powder - Jaga Riasan Tahan Lama - Cushion Anti Luntur",
+  "product_price": "160900.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100923.jpg",
+    "/uploads/products/100923_1.jpg",
+    "/uploads/products/100923_2.jpg",
+    "/uploads/products/100923_3.jpg",
+    "/uploads/products/100923_4.jpg",
+    "/uploads/products/100923_5.jpg",
+    "/uploads/products/100923_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100923",
+  "generated_at": "2026-03-14T05:01:01.339Z"
+}

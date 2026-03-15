@@ -1,0 +1,96 @@
+{
+  "title": "Kabin Size Murah Banget! Ini Koper Bestie ✈️",
+  "hook_text": "Kabin Size? Harga Mahal?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up koper 20 inch iKoper diputar cepat di lantai dengan musik upbeat",
+      "narration": "Kabin Size? Harga Mahal? Stop dong bestie, kamu salah tempat!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot full body koper diletakkan di samping tas jinjing besar, tunjukkan dimensi 20 inch",
+      "narration": "Ini iKoper 20 inch original, kabin size yang literally super worth it buat liburanmu nanti."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar dengan efek confetti, tunjukkan perbandingan dengan harga koper biasa",
+      "narration": "Gak perlu keluarkan dua jutaan, kamu bisa dapetnya cuma di seratus sembilan puluh ribuan! Wah, which is amazing banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tunjukkan ketebalan bahan, kunci kombinasi, roda berputar 360 derajat",
+      "narration": "Tenang, kualitas nggak main-main. Bahan fiber ABS ketebalan empat milimeter kokoh banget. Tangkainya alumunium anti karat, no cap. Plus empat rodanya bisa putar tiga ratus enam puluh derajat, tarik kemana aja gampang, basically next level mulus. Oh iya, ada kunci kombinasi tiga digit yang bisa kamu setting sendiri buat keamanan ekstra, plus lapisan dalam satin tebal yang ngepelangi semua pakaianmu. Even buat pakaian mahal pun aman!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage mahasiswa lagi packing koper atau pekerja muda naik pesawat domestik",
+      "narration": "Perfect buat kamu yang sering naik pesawat domestik, mahasiswa yang lagi magang, atau pekerja yang liburan budget tapi pengen tampil mewah. Kalau aktivitas kamu sering travel, koper ini wajib punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.83 dan angka 30.000 terjual dengan cepat",
+      "narration": "Beneran hits banget, udah laku tiga puluh ribu produk dengan rating empat koma delapan tiga. Yang udah beli bilang, 'Sepadan dengan harga, mewah kok ini'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan tombol panah, musik berhenti sebentar lalu naik lagi",
+      "narration": "Penasaran sama stok dan detail lengkapnya? Cek di finding dot id ya bestie, cek sekarang sebelum kehabisan!"
+    }
+  ],
+  "cta": "Cek stok di finding dot id sekarang!",
+  "hashtags": [
+    "#koperkabin",
+    "#travelingvibes",
+    "#iKoper",
+    "#hematbudget",
+    "#mahasiswa",
+    "#liburanmurah",
+    "#koperwanita",
+    "#findingid"
+  ],
+  "product_id": 51844,
+  "product_title": "[iKoper] Koper 20 Inch Original Polo Cabin Size Koper Fiber Koper Import",
+  "product_price": "193031.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/51844.jpg",
+    "/uploads/products/51844_1.jpg",
+    "/uploads/products/51844_2.jpg",
+    "/uploads/products/51844_3.jpg",
+    "/uploads/products/51844_4.jpg",
+    "/uploads/products/51844_5.jpg",
+    "/uploads/products/51844_6.jpg",
+    "/uploads/products/51844_7.jpg",
+    "/uploads/products/51844_8.jpg",
+    "/uploads/products/51844_9.jpg",
+    "/uploads/products/51844_10.jpg",
+    "/uploads/products/51844_11.jpg",
+    "/uploads/products/51844_12.jpg",
+    "/uploads/products/51844_13.jpg",
+    "/uploads/products/51844_14.jpg",
+    "/uploads/products/51844_15.jpg",
+    "/uploads/products/51844_16.jpg",
+    "/uploads/products/51844_17.jpg",
+    "/uploads/products/51844_18.jpg",
+    "/uploads/products/51844_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/51844",
+  "generated_at": "2026-03-14T04:29:46.593Z"
+}

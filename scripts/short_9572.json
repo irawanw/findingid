@@ -1,0 +1,83 @@
+{
+  "title": "Karaoke Rumahan Murah? Kerndy BT-198E Worth It Banget!",
+  "hook_text": "Mau Karaoke Tapi Budget Mepet?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah presenter dengan ekspresi kaget sambil menunjuk ke layar HP.",
+      "narration": "Mau sistem karaoke rumahan tapi budget mepet? Stop scroll sekarang juga, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "B-roll produk Kerndy BT-198E dengan pencahayaan dramatis dan efek cahaya emas.",
+      "narration": "Kenalin, Kerndy BT-198E. Power amp 300 watt plus 300 watt, suara jernih, --- designnya elegan banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek kilat, lalu transisi ke tampilan produk utuh.",
+      "narration": "Harganya cuma seratus delapan puluhan ribu aja, --- which is literally worth it banget buat fitur gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo fitur Bluetooth, remote control, dan port USB/SD dengan gerakan cepat.",
+      "narration": "Dukung Bluetooth 5.0 yang stabil banget buat streaming lagu. Ada mode ECHO spesial buat nyanyi, --- remote control juga included. --- USB, SD, FM semua support full. Really solid."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang menggunakan di kamar kos dan ruang tamu keluarga.",
+      "narration": "Cocok banget buat kamu yang kos atau pemula belajar audio tanpa investasi besar. Ada yang bilang butuh kipas tambahan biar adem, jadi siapin ya bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.79 dan counter penjualan 30.000 dengan latar belakang hijau.",
+      "narration": "Rating 4.79, sudah terjual 30 ribu produk. --- Yang udah beli bilang, 'suara mantap, sesuai harga' banget, no cap."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke layar HP.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#KerndyBT198E",
+    "#AmplifierMurah",
+    "#KaraokeRumahan",
+    "#GadgetIndonesia",
+    "#ReviewGadget",
+    "#ViralShorts",
+    "#Teknologi",
+    "#PromoMurah"
+  ],
+  "product_id": 9572,
+  "product_title": "(Model Terbaru)Power Amplifier Wireless BT 5.0 Kerndy BT-198E ECHO 300W+300W Amplifier ECHO Karaoke Bluetooth",
+  "product_price": "188900.00",
+  "product_rating": "4.79",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/9572.jpg",
+    "/uploads/products/9572_1.jpg",
+    "/uploads/products/9572_2.jpg",
+    "/uploads/products/9572_3.jpg",
+    "/uploads/products/9572_4.jpg",
+    "/uploads/products/9572_5.jpg",
+    "/uploads/products/9572_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/9572",
+  "generated_at": "2026-03-13T17:18:12.413Z"
+}

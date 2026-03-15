@@ -1,0 +1,96 @@
+{
+  "title": "Parfum Mewah Cuma 60 Ribu Saja!",
+  "hook_text": "Parfum Mewah Harga Pelajar?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up botol parfum disemprotkan ke udara dengan slow motion.",
+      "narration": "Gila sih, bisa dapet wanginya level mewah tapi harganya nggak bikin dompet jebol. --- Seriously!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan botol Scarlett dengan variasi warna yang tersedia di tangan.",
+      "narration": "Ini nih Scarlett Eau De Parfum, wangi unisex yang literally so cute di tangan bestie. --- Ada banyak varian yang bikin bingung mau pilih mana."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan grafik harga besar dengan animasi uang terbang atau emoji kaget.",
+      "narration": "Kira-kira berapa? --- Nggak perlu jutaan, cuma 60-an ribuan saja. Which is worth it banget, no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi semprot ke kulit tangan dan packaging yang kokoh.",
+      "narration": "Teksturnya lembut, nggak lengket di kulit sama sekali. --- Wanginya awet seharian, plus kemasannya ready to go, aman dibawa kemana pun tanpa takut pecah."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang berjalan santai di luar ruangan sambil memakai parfum.",
+      "narration": "Kalau kamu sering aktivitas padat atau butuh parfum buat daily wear, ini perfect banget buat kamu. --- Yang cari wangi mewah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan bintang rating 4.93 dan angka penjualan 80.000.",
+      "narration": "Sudah terjual 80.000 produk sama rating 4.93. --- Yang udah beli bilang wanginya sweet dan tahan lama banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di layar dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie."
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#scarlett",
+    "#parfummurah",
+    "#parfumviral",
+    "#lifehack",
+    "#unisex",
+    "#perfumeindonesia",
+    "#gaya",
+    "#dailywear"
+  ],
+  "product_id": 124583,
+  "product_title": "[NEW!] SCARLETT Eau De Parfum & Extrait De Parfum 30ml Wangi Tahan Lama - Unisex - Wangi Mewah",
+  "product_price": "62500.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/124583.jpg",
+    "/uploads/products/124583_1.jpg",
+    "/uploads/products/124583_2.jpg",
+    "/uploads/products/124583_3.jpg",
+    "/uploads/products/124583_4.jpg",
+    "/uploads/products/124583_5.jpg",
+    "/uploads/products/124583_6.jpg",
+    "/uploads/products/124583_7.jpg",
+    "/uploads/products/124583_8.jpg",
+    "/uploads/products/124583_9.jpg",
+    "/uploads/products/124583_10.jpg",
+    "/uploads/products/124583_11.jpg",
+    "/uploads/products/124583_12.jpg",
+    "/uploads/products/124583_13.jpg",
+    "/uploads/products/124583_14.jpg",
+    "/uploads/products/124583_15.jpg",
+    "/uploads/products/124583_16.jpg",
+    "/uploads/products/124583_17.jpg",
+    "/uploads/products/124583_18.jpg",
+    "/uploads/products/124583_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/124583",
+  "generated_at": "2026-03-13T22:02:06.404Z"
+}

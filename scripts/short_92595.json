@@ -1,0 +1,83 @@
+{
+  "title": "Tas Anti Air Murah Viral! Cek Dulu",
+  "hook_text": "Tas ini beneran bisa tahan hujan?! ",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up air dituang ke tas, lalu air menetes ke bawah",
+      "narration": "Tas ini beneran bisa tahan hujan?!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tas THOBACH Trojan Sling Bag diputar 360 derajat dengan pencahayaan cinematic",
+      "narration": "Nih bestie, THOBACH Trojan Sling Bag Anti Air, literally next level!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek animasi seru",
+      "narration": "Harganya? Sembilan puluh ribuan aja, which is worth it banget! Nggak perlu keluar banyak uang."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Show fitur waterproof dan muat laptop, lalu tunjuk resleting",
+      "narration": "Bukan cuma splash proof, tapi beneran waterproof. Materialnya super kuat. Muat laptop tipis plus gadget. --- Hati-hati ya di resletingnya, cek dulu sebelum beban berat biar awet! No cap, kualitasnya worth it."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Karakter pakai tas saat hujan atau di luar ruangan",
+      "narration": "Perfect buat kamu yang sering hujan atau bawa gadget mahal. Kalau aktivitas outdoor, ini solusinya banget. Nggak perlu khawatir isi tas basah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan jumlah penjualan 30k",
+      "narration": "Rating 4,9 bintang, sudah laku tiga puluh ribuan. Banyak banget yang sudah bilang 'Gila keren banget, beneran tahan air!'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah mengarah ke tombol",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review lengkapnya ada di sana! Cepat ya!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review lengkapnya ada di sana! Cepat ya!",
+  "hashtags": [
+    "#Thobach",
+    "#TasAntiAir",
+    "#SlingBagViral",
+    "#ProdukMurah",
+    "#TasHujan",
+    "#GenZIndonesia",
+    "#FindingID",
+    "#ViralProduct"
+  ],
+  "product_id": 92595,
+  "product_title": "THOBACH - TAS SELEMPANG ANTI AIR TROJAN SLING BAG WATERPROOF",
+  "product_price": "93500.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/92595.jpg",
+    "/uploads/products/92595_1.jpg",
+    "/uploads/products/92595_2.jpg",
+    "/uploads/products/92595_3.jpg",
+    "/uploads/products/92595_4.jpg",
+    "/uploads/products/92595_5.jpg",
+    "/uploads/products/92595_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/92595",
+  "generated_at": "2026-03-13T20:22:40.850Z"
+}

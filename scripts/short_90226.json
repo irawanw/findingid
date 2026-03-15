@@ -1,0 +1,83 @@
+{
+  "title": "Tas Ransel Waterproof Murah Banget Bestie!",
+  "hook_text": "Tas Ransel Waterproof Murah Banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas Evernext Venom disiram air pelan-pelan atau shot tas diputar 360 derajat.",
+      "narration": "Kalian tau gak, ada tas yang murah tapi keliatan mahal banget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilkan tas dari atas bahu model, lalu close up detail logo dan tekstur matte.",
+      "narration": "Nih dia Evernext Venom Backpack, desain matte modern yang literally next level buat sehari-hari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kilatan atau stiker 'WORTH IT'.",
+      "narration": "Bayangin, dengan harga seratus empat puluhan ribu sampe dua ratus ribuan, kalian dapet kualitas yang worth it banget no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tangan cek jahitan, tangan masukkan laptop, tangan usap bahu tas.",
+      "narration": "Pertama, bahannya kulit sintetis kuat yang tahan sobek. Kedua, jahitan double bartex yang rapi abis. Ketiga, padding bahu nyaman buat bawa laptop seharian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model mahasiswa jalan di bawah hujan ringan, lalu shot tas dikeringkan dengan handuk.",
+      "narration": "Perfect buat mahasiswa atau pekerja muda yang butuh tas laptop. --- Tapi inget ya, ini waterproof tapi jangan direndam, air rembes kalau kena badai."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan counter penjualan 40k, lalu teks kutipan muncul.",
+      "narration": "Rating 4.87, udah terjual 40 ribu unit. Yang udah beli bilang 'harga murah tapi gak murahan, oke banget pokoknya'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan panah menunjuk ke arah link.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Evernext",
+    "#TasRanselMurah",
+    "#TasLaptop",
+    "#Mahasiswa",
+    "#GadgetCasing",
+    "#FindID",
+    "#RanselWaterproof",
+    "#OOTDIndonesia"
+  ],
+  "product_id": 90226,
+  "product_title": "Evernext - Tas Ransel Pria Waterproof Tas Sekolah Kuliah Pria Wanita Backpack Laptop Venom Anti Air",
+  "product_price": "140165.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/90226.jpg",
+    "/uploads/products/90226_1.jpg",
+    "/uploads/products/90226_2.jpg",
+    "/uploads/products/90226_3.jpg",
+    "/uploads/products/90226_4.jpg",
+    "/uploads/products/90226_5.jpg",
+    "/uploads/products/90226_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/90226",
+  "generated_at": "2026-03-13T18:18:55.556Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Korset Viral 90 Ribu, Nampol Banget!",
+  "hook_text": "Pinggang Kurus Tanpa Diet?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot wajah bingung lalu senyum percaya diri sambil tunjuk pinggang.",
+      "narration": "Mau punya pinggang kurus instan? Gak mungkin, tapi ini mendekati banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk ditunjukkan dari berbagai angle dengan lighting cinematic dan teks nama produk.",
+      "narration": "Kenalin nih Joybasic Celana Korset Pengait Extra High Kompresi yang lagi viral."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kaget dan suara ding.",
+      "narration": "Harganya cuma sembilan puluh ribuan doang, which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close-up detail jahitan dan bahan yang di-stretch untuk tunjukkan kualitas.",
+      "narration": "Sistem pengait tiga level buat kompresi ekstra --- plus bahan nilon premium A+ lembut banget. Jahitan double-stitching kuat di area vital, no cap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model memakai korset sambil bergerak santai di rumah sambil senyum.",
+      "narration": "Perfect buat kamu yang mau bentuk tubuh lebih ideal sehari-hari. Tapi hati-hati soal ukuran, kalau suka nyaman mending pilih satu ukuran lebih besar dari biasanya biar nggak kepepet."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang dan jumlah terjual di aplikasi dengan zoom in.",
+      "narration": "Udah laku lima puluh ribu produk dengan rating empat koma delapan enam. --- Yang udah beli bilang, Its work! buat efek singset bokong."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah tombol atau teks finding dot id yang besar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Joybasic",
+    "#Korset",
+    "#BentukTubuh",
+    "#Viral",
+    "#OOTD",
+    "#Fashion",
+    "#TipsFashion",
+    "#CekDiFinding"
+  ],
+  "product_id": 39450,
+  "product_title": "Joybasic Celana Korset Pengait Extra High Kompresi",
+  "product_price": "99000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/39450.jpg",
+    "/uploads/products/39450_1.jpg",
+    "/uploads/products/39450_2.jpg",
+    "/uploads/products/39450_3.jpg",
+    "/uploads/products/39450_4.jpg",
+    "/uploads/products/39450_5.jpg",
+    "/uploads/products/39450_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/39450",
+  "generated_at": "2026-03-13T20:09:46.895Z"
+}

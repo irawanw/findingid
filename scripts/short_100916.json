@@ -1,0 +1,84 @@
+{
+  "title": "Foundation Murah 60 Ribuan Full Coverage Kulit Asia",
+  "hook_text": "Foundation di bawah seratus ribu worth it gak?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah dengan makeup natural, lalu transisi cepat ke produk Glowsophy di tengah layar.",
+      "narration": "Kamu percaya nggak kalau foundation ini bisa cover masalah cuma di bawah seratus ribu?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk dari berbagai angle, highlight tekstur cushion dan kemasan yang estetik.",
+      "narration": "Kenalin nih, Glowsophy Cover Fit Serum Cushion, finish velvet matte yang literally next level buat kulit Asia."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh atau uang terbang di background.",
+      "narration": "Harganya cuma enam puluh ribuan, which is worth it banget buat kualitas sekelas ini tanpa bikin dompet jebol."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi aplikasi di wajah, split screen before-after, close-up tekstur serum di jari.",
+      "narration": "Full coverage tapi teksturnya ringan, nggak kerasa dempul. Ada Niacinamide dan Panthenol buat skincare. Tips penting, pake moisturizer biar nggak oksidasi ya, no cap! --- Finishnya tetep velvet matte seharian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage model dengan aktivitas berbeda (kerja, ngampus, nongkrong) dengan makeup tetap sempurna.",
+      "narration": "Perfect buat kamu yang punya kulit normal sampai berminyak dan butuh coverage medium natural tahan lama seharian."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.85 dan angka 100.000 terjual di layar, lalu transisi ke teks komentar pembeli.",
+      "narration": "Sudah terjual seratus ribu dengan rating empat koma delapan lima! --- Yang udah beli bilang teksturnya nggak lengket dan nyaman banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Produk dipegang tangan dengan logo finding.id muncul besar di belakangnya.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#glowsophy",
+    "#foundationmurah",
+    "#makeupmurah",
+    "#cushionfoundation",
+    "#glowup",
+    "#skincareindonesia",
+    "#makeuptips",
+    "#beautyhacks"
+  ],
+  "product_id": 100916,
+  "product_title": "Glowsophy Cover Fit Serum Cushion Long Lasting All Day Velvet Matte Finish Cushion Ringan dengan Medium Coverage Menyamarkan Pori-Pori dan Garis Halus Cushion Kulit Asia Foundation Waterproof Make Up Setting Hasil Akhir Glowing Tekstur Ringan Di Wajah",
+  "product_price": "61400.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100916.jpg",
+    "/uploads/products/100916_1.jpg",
+    "/uploads/products/100916_2.jpg",
+    "/uploads/products/100916_3.jpg",
+    "/uploads/products/100916_4.jpg",
+    "/uploads/products/100916_5.jpg",
+    "/uploads/products/100916_6.jpg",
+    "/uploads/products/100916_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/100916",
+  "generated_at": "2026-03-13T22:10:39.519Z"
+}

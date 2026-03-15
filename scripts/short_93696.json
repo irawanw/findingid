@@ -1,0 +1,79 @@
+{
+  "title": "Tas Travel Motif Dewasa? Murah Banget Bestie!",
+  "hook_text": "STOP! Jangan Beli Sebelum Nonton Ini",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tas jinjing motif dewasa dikocok-kocok keras lalu dibuka lebar ke kamera dengan efek zoom in cepat",
+      "narration": "Stop scroll dulu dong bestie! Kamu nggak bakal percaya sama harga tas travel keren gini."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat: tas dipakai jalan-jalan, dicampur baju, dan ditumpuk di atas koper besar",
+      "narration": "Ini Travel Bag ukurannya cuma empat puluh sentimeter, tapi kapasitasnya literally next level buat bawa baju atau piknik! No cap, tampilannya premium banget dan elegan, which is worth it banget buat aesthetic kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar sambil tunjuk tas, lalu efek uang jatuh",
+      "narration": "Cek harganya bestie, cuma lima puluh empat ribuan doang! Seratus delapan puluhan ribu untuk tas sekelas ini? Basically free kok!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up detail bahan tas, disiram air biar kelihatan nempel, lalu ditunjukkan bagian dalam yang rapi",
+      "narration": "Pertama, bahannya waterproof semua di setiap bagiannya, jadi nggak perlu khawatir kalau kena hujan atau tumpah. Kedua, bahan tebel dan kuat nggak gampang rusak. Ketiga, desainnya super glossy dan tajam, bikin outfit kamu langsung naik kelas."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: anak muda duduk santai bawa tas ini ke acara nongkrong atau jalan-jalan kota",
+      "narration": "Perfect buat kamu yang sering travel singkat, mau piknik, atau cuma butuh tas jinjing sehari-hari yang stylish. Kalau aktivitas kamu butuh sesuatu yang compact tapi fungsional, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang 4.8 dan angka 30.000 terjual yang berkedip",
+      "narration": "Pembelinya pada ngomong bahannya premium elegan dan warna warnanya bagus glossynya tajam. Plus ada yang bilang kalau ukurannya kecil banget, pas buat bawa popok bayi pas lagi pergi-pergi."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#TasTravel",
+    "#FashionGenZ",
+    "#MurahBanget",
+    "#TravelBag",
+    "#TasPiknik",
+    "#AestheticVibes",
+    "#FindingId",
+    "#WajibBeli"
+  ],
+  "product_id": 93696,
+  "product_title": "Travel Bag Motif Dewasa | Tas Jinjing | Tas Pakaian | Tas Travel | Koper | Tas Piknik Uk.40cm (1Kg=3pcs)",
+  "product_price": "54000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/93696.jpg",
+    "/uploads/products/93696_1.jpg",
+    "/uploads/products/93696_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/93696",
+  "generated_at": "2026-03-14T04:30:31.531Z"
+}

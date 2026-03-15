@@ -1,0 +1,83 @@
+{
+  "title": "Celana Denim Selvedge 15 Oz Murah Banget!",
+  "hook_text": "Gak percaya ini cuma ratusan ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tekstur kain denim yang tebal dan detail jahitan selvedge.",
+      "narration": "Gak percaya ini cuma ratusan ribu?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai celana denim, spinning slow motion di studio terang.",
+      "narration": "Ini celana denim selvedge 15 oz. Bahan raw tebal, non-stretch, dan autentik banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga di layar dengan efek animasi angka yang turun.",
+      "narration": "Harganya mulai dari delapan puluh ribuan sampe seratus tiga puluhan ribu doang. --- Untuk kualitas selvedge, literally worth it parah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail close up garis selvedge putih merah, lalu tunjukkan ukuran Jumbo 39.",
+      "narration": "Fiturnya gila, fading cepet banget, ada detail white line red line yang autentik, udah sanforized biar nggak kekecilan. Ada ukuran Jumbo 39. --- Tapi buat size 27, LP-nya agak longgar dikit sekitar 75cm ya, jadi harap diukur dulu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model beraktivitas santai dengan gaya street style yang keren.",
+      "narration": "Perfect buat pemula dunia denim atau yang suka street style. Kualitas premium. Literally next level buat outfit kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.63 dan screenshot chat pembeli.",
+      "narration": "Rating 4.63, udah terjual 30.000 produk. Yang udah beli bilang 'Baru 20 menit di pakai langsung fading bro ga kecewa beli di toko ini'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan animasi panah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#celanadenim",
+    "#selvedge",
+    "#fashionindonesia",
+    "#streetstyle",
+    "#denimlovers",
+    "#ootdindonesia",
+    "#produkviral",
+    "#findingid"
+  ],
+  "product_id": 133554,
+  "product_title": "CELANA DENIM SELVEDGE ACCENT 15 OZ BLACK INDIGO BLUE INDIGO BAHAN RAW DENIM BISA FEDING",
+  "product_price": "83235.00",
+  "product_rating": "4.63",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/133554.jpg",
+    "/uploads/products/133554_1.jpg",
+    "/uploads/products/133554_2.jpg",
+    "/uploads/products/133554_3.jpg",
+    "/uploads/products/133554_4.jpg",
+    "/uploads/products/133554_5.jpg",
+    "/uploads/products/133554_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/133554",
+  "generated_at": "2026-03-13T20:50:17.313Z"
+}

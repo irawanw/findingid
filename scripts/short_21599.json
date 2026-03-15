@@ -1,0 +1,96 @@
+{
+  "title": "Baby Walker Viral Banget Bestie! Ini Dia",
+  "hook_text": "STOP SCROLL! Baby walker apa ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up baby walker bergerak lucu sambil musik berirama, teks overlay besar muncul di tengah",
+      "narration": "Bayi kamu udah mulai ngangkang? Jangan biarin dia duduk doang dong, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage produk dilipat dan dibuka, tunjukkan fitur mainan musik dan roda yang lancar",
+      "narration": "Kalian wajib punya ini, Mmflight Baby Walker lipat yang literally so cute! Bisa bantu jalan bayi enam bulan ke atas, which is worth it banget buat motorik kaki si kecil."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 261.934 muncul dengan efek 'pop' dan stiker 'Best Deal'",
+      "narration": "Gila sih, harganya cuma seratus delapan puluhan ribu! Kualitas terbaik seharga itu, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Mainan musik berputar, 2. Roda meluncur lancar, 3. Produk dilipat masuk tas",
+      "narration": "Fitur pertama, ada mainan musik dan boneka yang bikin bayi asik main. Kedua, rodanya super lancar nggak macet. Ketiga, yang paling keren dia bisa dilipat, jadi hemat tempat kalau mau dibawa kemana-mana!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu membawa baby walker masuk mobil atau ke ruang tamu",
+      "narration": "Perfect buat kamu yang sering mobilitas tinggi atau mau ajak anak main di mana saja. Kalau aktivitas kamu aktif, ini alat bantu jalan yang nggak bisa dipertukarkan!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.83 dan angka 20.000 terjual dengan teks kutipan di bawahnya",
+      "narration": "Rating empat koma delapan tiga dan dua puluh ribu produk udah terjual. Yang udah beli bilang barang bagus tidak ada yang cacat dan kualitasnya juara!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pencarian 'finding dot id' muncul dengan animasi klik",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id sekarang!",
+  "hashtags": [
+    "#BabyWalker",
+    "#ParentingHack",
+    "#MurahBanget",
+    "#ShopeeFinds",
+    "#IbuKecilm",
+    "#BarangViral",
+    "#FindingId",
+    "#BestieRekomendasi"
+  ],
+  "product_id": 21599,
+  "product_title": "Mmflight Baby Walker Lipat Mainan Musik Walker Alat Bantu Jalan Bayi",
+  "product_price": "261934.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21599.jpg",
+    "/uploads/products/21599_1.jpg",
+    "/uploads/products/21599_2.jpg",
+    "/uploads/products/21599_3.jpg",
+    "/uploads/products/21599_4.jpg",
+    "/uploads/products/21599_5.jpg",
+    "/uploads/products/21599_6.jpg",
+    "/uploads/products/21599_7.jpg",
+    "/uploads/products/21599_8.jpg",
+    "/uploads/products/21599_9.jpg",
+    "/uploads/products/21599_10.jpg",
+    "/uploads/products/21599_11.jpg",
+    "/uploads/products/21599_12.jpg",
+    "/uploads/products/21599_13.jpg",
+    "/uploads/products/21599_14.jpg",
+    "/uploads/products/21599_15.jpg",
+    "/uploads/products/21599_16.jpg",
+    "/uploads/products/21599_17.jpg",
+    "/uploads/products/21599_18.jpg",
+    "/uploads/products/21599_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/21599",
+  "generated_at": "2026-03-15T05:52:48.897Z"
+}

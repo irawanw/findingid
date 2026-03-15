@@ -1,0 +1,83 @@
+{
+  "title": "3-in-1 Palette Ini Bikin Wajah Nendang Banget!",
+  "hook_text": "Stop scroll! Wajah lo bakal berubah drastis!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up cepat transisi wajah polos ke wajah contouring estetik dengan efek sound bite 'wahh'!",
+      "narration": "Stop scroll dulu dong! Lo tau nggak sih satu produk ini bisa ngganti tiga alat makeup sekaligus? Literally next level banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk FOCALLURE Pro-Sculpt berputar di atas meja kayu sambil ditunjuk jari dengan ekspresi kaget senang.",
+      "narration": "Kenalan deh sama FOCALLURE Pro-Sculpt 3-in-1 Facial Shaping Palette ini! Basically, dia itu contour, highlighter, dan blush on satu paket. Jadi lo nggak perlu repot bawa banyak barang lagi, which is worth it banget buat yang mau hemat tempat di tas!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar lalu di-coret, diganti dengan harga asli dengan efek ledakan warna-warni.",
+      "narration": "Gila sih harganya cuma seratus enam puluh dua ribu-an doang! Kayak dapet gratisan kalau dibandingin kalau lo beli masing-masing terpisah, kan? No cap, ini deal terbaik tahun ini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: tangan mengoleskan produk (tekstur), aplikasi di pipi (warna), dan hasil akhir (natural).",
+      "narration": "Pertama, teksturnya halus banget dan pigmentasinya ultra kuat, jadi oles tipis aja hasilnya udah nendang. Kedua, warnanya natural dan nggak menor, pas banget buat wajah Indonesia kita. Ketiga, aplikasinya super mudah, bahkan buat pemula yang baru belajar makeup juga pasti bisa, nggak bakal medok sama sekali!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Split screen: di kiri si A lagi makeup cepat di cafe, di kanan si B lagi pre-wedding preparation.",
+      "narration": "Perfect buat yang aktivitasnya sibuk atau yang suka coba-coba gaya makeup baru. Kalau lo sering cepet-cepetan banget sebelum nongkrong atau mau tampil beda hari ini, produk ini wajib banget di-rak!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up grafis besar menampilkan rating 4.91 bintang, angka 30.000 terjual, dan bubble quote.",
+      "narration": "Pembelinya pada ngomong teksturnya menyenangkan dan warnanya natural banget! Plus udah laku tiga puluh ribu produk dengan rating empat koma sembilan satu dari lima!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul dengan animasi mengkilap, ditunjuk jari ke arah kamera.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#FOCALLURE",
+    "#MakeupHacks",
+    "#SkincareKorea",
+    "#WajahNendang",
+    "#GenZIndonesia",
+    "#BeautyGuru",
+    "#DealTerbaik",
+    "#FindingId"
+  ],
+  "product_id": 105111,
+  "product_title": "FOCALLURE Pro-Sculpt 3-in-1 Facial Shaping Palette 3D Contour Highlighter & Contour & Blush Multi-Use Smoothly & Evenly Ultra-Pigmented",
+  "product_price": "62100.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/105111.jpg",
+    "/uploads/products/105111_1.jpg",
+    "/uploads/products/105111_2.jpg",
+    "/uploads/products/105111_3.jpg",
+    "/uploads/products/105111_4.jpg",
+    "/uploads/products/105111_5.jpg",
+    "/uploads/products/105111_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/105111",
+  "generated_at": "2026-03-14T04:16:08.207Z"
+}

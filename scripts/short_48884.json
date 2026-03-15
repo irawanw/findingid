@@ -1,0 +1,83 @@
+{
+  "title": "Mouse Cat Ear Murah Banget Bestie!",
+  "hook_text": "Mouse estetik cuma 80 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up mouse cat ear dengan pencahayaan estetik, background berwarna pastel.",
+      "narration": "Mouse estetik cuma 80 ribuan? --- Emang ada sih, jangan scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk MOFii Mouse Cat Ear berputar perlahan menampilkan desain telinga kucing.",
+      "narration": "Ini dia MOFii Mouse Wireless Cat Ear, --- desainnya literally super cute banget buat kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul, ditambah ikon baterai AA sebagai bonus.",
+      "narration": "Harganya cuma delapan puluhan ribu doang, --- plus udah include baterai AA. Literally worth it banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tangan menekan mouse tanpa suara, ikon sinyal 2.4G dan logo OS.",
+      "narration": "Fitur silent click-nya, jadi klik nggak bunyi bising sama sekali. --- Peace banget buat kerja! Koneksi 2.4G stabil sampe 10 meter. Compatibel sama Windows atau Mac juga."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Siswa sedang belajar dan pekerja kantor di ruangan tenang.",
+      "narration": "Pas banget buat kamu yang kerja di tempat sepi atau nugas. --- Tapi warna ungu kadang agak pink dikit soalnya tiap layar beda dikit ya bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 4.92 dan jumlah terjual 30k, teks kutipan testimoni.",
+      "narration": "Udah terjual 30 ribu lebih dengan rating 4.92. --- Yang udah beli bilang, \"Kualitas bagus parah, empuk kliknya best lahh.\""
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#mouseestetik",
+    "#mousekucing",
+    "#mofii",
+    "#gadgetmurah",
+    "#setupindonesia",
+    "#viralproduct",
+    "#findingid",
+    "#gadgetkekinian"
+  ],
+  "product_id": 48884,
+  "product_title": "MOFii Mouse Wireless 2.4G Cat Ear Design M3",
+  "product_price": "80000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/48884.jpg",
+    "/uploads/products/48884_1.jpg",
+    "/uploads/products/48884_2.jpg",
+    "/uploads/products/48884_3.jpg",
+    "/uploads/products/48884_4.jpg",
+    "/uploads/products/48884_5.jpg",
+    "/uploads/products/48884_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/48884",
+  "generated_at": "2026-03-13T20:57:18.153Z"
+}

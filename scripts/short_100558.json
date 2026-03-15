@@ -1,0 +1,89 @@
+{
+  "title": "Skincare 5 Pcs Cuma 4 Ratusan Ribuan? Worth It!",
+  "hook_text": "Bosen kulit kusam tapi budget masih minim?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah bercahaya dengan teks besar muncul di tengah layar.",
+      "narration": "Bosen kulit kusam tapi budget masih minim?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan produk SKINTIFIC Full Series Set dengan pencahayaan cinematic.",
+      "narration": "Gak usah bingung, SKINTIFIC Full Series Set ini jawabannya, literally worth it banget buat skin journey kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan angka harga besar dengan efek kaget dan teks '400an aja'.",
+      "narration": "Bayangin dapet lima produk lengkap, cuma di harga empat ratusan ribuan-an. which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo tekstur gel dioleskan ke tangan, menunjukkan kecepatan menyerap.",
+      "narration": "Isinya ada cleanser, toner, serum, moisturizer, plus sunscreen. --- Teksturnya gel, nggak lengket, no cap, cepet menyerap, jadi kulit adem banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model tersenyum ceria sambil memegang produk, cocok untuk kulit berminyak.",
+      "narration": "Kalau kamu pemula butuh rutinitas simpel, atau punya masalah dark spot dan sensitif, ini paket lengkap banget buat kamu yang cari hasil nyata."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating 4.9 bintang dan counter penjualan 100k.",
+      "narration": "Ratingnya 4.9 dari seratus ribu lebih! --- Yang udah beli bilang, 'udah abis satu, beli lagi bikin muka cepet cerah dan adem di kulit.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan logo finding.id dengan panah mengarah ke bawah.",
+      "narration": "Mau cek varian lengkapnya? Cari di finding dot id ya bestie, jangan sampai kehabisan!"
+    }
+  ],
+  "cta": "Mau cek varian lengkapnya? Cari di finding dot id ya bestie, jangan sampai kehabisan!",
+  "hashtags": [
+    "#SkincareRutin",
+    "#GlassSkin",
+    "#Skintific",
+    "#BeautyTips",
+    "#WajahCerah",
+    "#SkincareMurah",
+    "#GenZSkincare",
+    "#FindingID"
+  ],
+  "product_id": 100558,
+  "product_title": "[5PCS] SKINTIFIC Full Series Skincare Set - Facial Wash + Toner + Serum + Moisturizer + Sunscreen - Daily Skincare Essentials -Paket Perawatan Wajah Semua Jenis Kulit - Glass Skin/Barrier Repair/Brightening/Dark Spot/Calming Acne - Cleansing Cream",
+  "product_price": "424000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100558.jpg",
+    "/uploads/products/100558_1.jpg",
+    "/uploads/products/100558_2.jpg",
+    "/uploads/products/100558_3.jpg",
+    "/uploads/products/100558_4.jpg",
+    "/uploads/products/100558_5.jpg",
+    "/uploads/products/100558_6.jpg",
+    "/uploads/products/100558_7.jpg",
+    "/uploads/products/100558_8.jpg",
+    "/uploads/products/100558_9.jpg",
+    "/uploads/products/100558_10.jpg",
+    "/uploads/products/100558_11.jpg",
+    "/uploads/products/100558_12.jpg"
+  ],
+  "product_link": "https://finding.id/p/100558",
+  "generated_at": "2026-03-13T16:26:00.286Z"
+}

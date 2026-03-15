@@ -1,0 +1,96 @@
+{
+  "title": "Stroller Hapyee Murah 200 Ribu?!",
+  "hook_text": "Stroller 200 Ribu Bisa Putar 180 Derajat?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up stroller Hapyee yang sedang diputar 180 derajat dengan cepat, lalu transisi cepat ke wajah kaget kreator.",
+      "narration": "Kalian bakal kaget banget kalau tau stroller kayak gini harganya cuma di angka dua ratusan ribu doang, which is literally no cap!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide stroller Hapyee di taman, lalu zoom in ke mekanisme lipat satu tangan yang mulus.",
+      "narration": "Ini dia Hapyee Stroller, si travel companion yang bisa duduk atau berbaring, plus bisa diputar dua arah sampe 180 derajat. Desainnya sleek banget, bestie!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks animasi besar muncul di layar menunjukkan harga 240 ribuan, disandingkan dengan ikon tas mahal atau sepatu high heels.",
+      "narration": "Bayangin, harga mulainya cuma sekitar dua ratus empat puluh ribuan! which is worth it banget kalau dibandingin sama kualitas built quality yang super solid."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: (1) Sabuk pengaman 3 titik dikencangkan, (2) Sunroof dibuka-tutup, (3) Stroller dilipat satu tangan.",
+      "narration": "Fiturnya next level nih. Ada sabuk pengaman tiga titik buat keamanan maksimal, sunroof yang bisa dilepas buat perlindungan dari matahari, dan yang paling keren, bisa dilipat satu tangan tanpa harus melepas kursi bayi. Basicnya jadi gampang banget dibawa kemana-mana."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Video orang tua sedang berjalan santai sambil mendorong stroller di trotoar, lalu menggendong bayi sambil melipat stroller.",
+      "narration": "Ini perfect banget buat kalian yang sering jalan-jalan ke mall atau liburan ke luar kota. Kalau aktivitas kamu padat banget, stroller ini bakal jadi teman setia yang nggak bikin capek."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks overlay rating 4.81 dan angka 20.000 terjual, lalu muncul bubble chat screenshot ulasan pembeli.",
+      "narration": "Ratingnya udah 4.81 dari 20.000 produk terjual, dan yang udah beli bilang pengiriman cepat dan tampilan luarnya sangat bagus, which is super satisfying."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Kreator menunjuk ke arah bawah atau side screen dengan senyum lebar, logo Finding.id muncul.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#StrollerBayi",
+    "#HapyeeStroller",
+    "#RekomendasiBunda",
+    "#ProdukViral",
+    "#BelanjaCerdas",
+    "#TipsOrangTua",
+    "#StrollerMurah",
+    "#FindingID"
+  ],
+  "product_id": 18192,
+  "product_title": "Hapyee Stroller Bayi Lipat Travelling Duduk Dan Berbaring  Kereta Dorong Bayi kursi Dua Arah",
+  "product_price": "249999.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/18192.jpg",
+    "/uploads/products/18192_1.jpg",
+    "/uploads/products/18192_2.jpg",
+    "/uploads/products/18192_3.jpg",
+    "/uploads/products/18192_4.jpg",
+    "/uploads/products/18192_5.jpg",
+    "/uploads/products/18192_6.jpg",
+    "/uploads/products/18192_7.jpg",
+    "/uploads/products/18192_8.jpg",
+    "/uploads/products/18192_9.jpg",
+    "/uploads/products/18192_10.jpg",
+    "/uploads/products/18192_11.jpg",
+    "/uploads/products/18192_12.jpg",
+    "/uploads/products/18192_13.jpg",
+    "/uploads/products/18192_14.jpg",
+    "/uploads/products/18192_15.jpg",
+    "/uploads/products/18192_16.jpg",
+    "/uploads/products/18192_17.jpg",
+    "/uploads/products/18192_18.jpg",
+    "/uploads/products/18192_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/18192",
+  "generated_at": "2026-03-15T15:16:57.721Z"
+}

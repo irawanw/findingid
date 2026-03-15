@@ -1,0 +1,83 @@
+{
+  "title": "Ransel Pria Anti Air? Ini Gila Banget! 😱",
+  "hook_text": "Bukan cuma keren, tapi GEDE BANGET!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tas Evernext Hummer ditaruh di atas mobil atau di pantai dengan efek zoom in cepat",
+      "narration": "Stop scrolling dulu dong bestie! Kamu pasti nggak mau punya ransel yang cuma estetik tapi nggak bisa kepanasan kan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat, si presenter memegang tas Evernext Hummer, tunjukkan bagian luar bahan nilon yang kuat",
+      "narration": "Kenalan yuk sama Evernext Backpack Hummer nih! Bahan nilon premium yang waterproof, which basically artinya nggak bakal basah kalau kena hujan atau masuk ke sungai."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek getar, lalu tunjukkan tas dibuka penuh",
+      "narration": "Nah, yang bikin kita kaget adalah harganya cuma seratus dua puluhan ribu doang! Get it? Kualitas outdoor kelas atas dengan harga segini, no cap worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Tunjukkan tas dibuka lebar (fitur upsize), 2. Tunjukkan area khusus kabel (fitur organizer), 3. Tunjukkan bagian belakang yang empuk",
+      "narration": "Fiturnya literally next level! Pertama, bisa di upsize jadi lebih besar buat menampung barang traveling banyak-banyak. Kedua, di dalem tas ada kabel khusus buat menata barang elektronik biar rapi. Dan terakhir, bagian belakangnya empuk banget pas digendong seharian, nggak bikin punggung sakit."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage orang anak muda sedang hiking, lalu sedang jalan-jalan santai di mall atau kafe",
+      "narration": "Perfect buat kamu yang sering traveling atau jalan-jalan jauh. Kalau kamu tipe orang yang suka bawa banyak gadget dan butuh tempat khusus buat kabel, ransel ini definitely the one buat kamu!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.87 bintang dan angka 20.000 terjual dengan font tebal",
+      "narration": "Pembelinya pada ngomong 'keren banget tampilannya' dan 'gede beneran muat banyak deh'. Rating 4.87 dari dua puluh ribu produk terjual, jadi nggak perlu ragu!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi panah menunjuk ke bawah atau samping",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#Evernext",
+    "#RanselPria",
+    "#BackpackOutdoor",
+    "#TravelEssentials",
+    "#TasAntiAir",
+    "#HummerStyle",
+    "#ShoppingIndonesia",
+    "#GenZStyle"
+  ],
+  "product_id": 99485,
+  "product_title": "Evernext - Tas Ransel Pria Waterproof Backpack Outdoor Pria Tas Travelling Hummer Tas Backpacker",
+  "product_price": "212736.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/99485.jpg",
+    "/uploads/products/99485_1.jpg",
+    "/uploads/products/99485_2.jpg",
+    "/uploads/products/99485_3.jpg",
+    "/uploads/products/99485_4.jpg",
+    "/uploads/products/99485_5.jpg",
+    "/uploads/products/99485_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/99485",
+  "generated_at": "2026-03-14T10:11:41.211Z"
+}

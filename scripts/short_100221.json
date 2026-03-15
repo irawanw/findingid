@@ -1,0 +1,83 @@
+{
+  "title": "Pelembab Kulit Sensitif Ini Beneran Worth It? 🤔",
+  "hook_text": "Kulit Merah Bingung Pilih Pelembab?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah dengan area kemerahan lalu transisi ke produk di tangan.",
+      "narration": "Pernah punya kulit gampang merah tapi bingung nyari pelembab yang aman?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk SKINTIFIC Sensitive Moisture Gel dari berbagai angle dengan pencahayaan cinematic.",
+      "narration": "Gue nemu SKINTIFIC Sensitive Moisture Gel nih. Ini tuh 2in1 moisturizer yang fokus banget calm downin skin kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul di layar dengan efek pop-up, tangan memegang produk di latar belakang blur.",
+      "narration": "Harganya? Awalnya gue kira mahal karena packagingnya mewah. Eits, ternyata cuma di range sembilan puluhan ribuan aja bestie."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen tekstur gel di tangan, daftar ingredients, dan logo dermatologi tested.",
+      "narration": "Pertama, teksturnya gel ringan banget, cepet meresap --- Kedua, ada 7x Calming Complex kayak Ceramide sama Ectoin buat benerin barrier. Ketiga, udah dermatologi tested, aman buat acne-prone."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang mengaplikasikan pelembab di wajah sambil tersenyum lega di cermin kamar mandi.",
+      "narration": "Jadi kalau kamu sering kepanasan, kulit gampang iritasi, atau lagi perawatan acne, ini cocok banget buat harian kamu. Oh ya, kalau warna kemasan beda, itu normal kok."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.93 dan counter jumlah penjualan 50.000 terjual.",
+      "narration": "Ratingnya 4,93 bintang dari 50.000 produk terjual --- Yang udah beli bilang 'Packaging amazing, manfaatnya gak pernah gagal'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya, review produknya ada di sana!",
+  "hashtags": [
+    "#Skintific",
+    "#PelembabWajah",
+    "#KulitSensitif",
+    "#SkincareRutin",
+    "#ProductReview",
+    "#CalmDown",
+    "#AcneProne",
+    "#FindingID"
+  ],
+  "product_id": 100221,
+  "product_title": "SKINTIFIC - Sensitive Moisture Gel 40ml - Calm & Repair 2in1 Moisturizer | Acne Barrier Calm Down Skin Calming Moisturizer Lightweight Gel Pelembab Wajah Kulit Sensitif Bertekstur Gel yang Ringan with Vitamin B12 Ectoin Ceramide Centella",
+  "product_price": "89000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100221.jpg",
+    "/uploads/products/100221_1.jpg",
+    "/uploads/products/100221_2.jpg",
+    "/uploads/products/100221_3.jpg",
+    "/uploads/products/100221_4.jpg",
+    "/uploads/products/100221_5.jpg",
+    "/uploads/products/100221_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100221",
+  "generated_at": "2026-03-13T20:38:11.250Z"
+}

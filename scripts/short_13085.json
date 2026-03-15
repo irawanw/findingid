@@ -1,0 +1,82 @@
+{
+  "title": "Blender Kaca 2L? Worth it banget!",
+  "hook_text": "STOP! Jangan beli blender kaca",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up blender Cosmos CB-282 G sedang memblender es batu dengan cepat dan seru",
+      "narration": "Stop bestie! Jangan langsung beli blender kaca kalau belum denger fakta ini nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan blender Cosmos Beta series CB-282 G lengkap dengan label 'Big Capacity', lalu zoom in ke badan kaca bening",
+      "narration": "Ini Cosmos Blender KACA seri Beta dengan kapasitas bongsor dua liter. Bahan kaca berkualitas tinggi itu super higienis dan nggak gampang pecah kok, no cap!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan grafis harga Rp 379 ribuan dengan efek tanda seru besar, lalu bandingkan dengan nilai 2 liter",
+      "narration": "Harganya cuma seratus tujuh puluhan ribuan aja, which is worth it banget! Kamu dapet wadah dua liter plus fitur canggih dengan harga segini, literally next level!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: pisau berputar menghancurkan es, lalu bumbunya digiling halus, lalu tombol safety lock dipencet",
+      "narration": "Pisau stainless steelnya anti karat dan kuat banget buat penghancur es. Bisa dry mill buat bumbu kering dan wet mill buat bumbu basah juga. Plus punya sistem keamanan ganda, ada safety lock dan thermostat overheat protection biar nggak panas berlebih!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene ibu rumah tangga bahagia menyajikan jus segar untuk keluarga besar di meja makan",
+      "narration": "Perfect buat kamu yang sering bikin jus untuk keluarga besar atau kepala keluarga yang butuh efisiensi. Kalau aktivitas kamu sering masak dan butuh wadah besar, ini definitely the one!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating 4.86 bintang besar dan angka 20.000 terjual, lalu popup teks kutipan pembeli",
+      "narration": "Rating empat koma delapan enam dari dua puluh ribu pembeli! Yang udah beli bilang barangnya aman sampai selamat dan semuannya berfungsi dengan baik, seneng banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar menampilkan tulisan besar 'Cek finding dot id' dengan animasi panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id ya bestie!",
+  "hashtags": [
+    "#BlenderKaca",
+    "#CosmosBlender",
+    "#KitchenGadget",
+    "#JusSegar",
+    "#IbuRumahTangga",
+    "#ViralShorts",
+    "#TipsBelanja",
+    "#FindingId"
+  ],
+  "product_id": 13085,
+  "product_title": "Cosmos Blender KACA - Big Capacity- Beta series - CB-282 G - 2 liter",
+  "product_price": "394500.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/13085.jpg",
+    "/uploads/products/13085_1.jpg",
+    "/uploads/products/13085_2.jpg",
+    "/uploads/products/13085_3.jpg",
+    "/uploads/products/13085_4.jpg",
+    "/uploads/products/13085_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/13085",
+  "generated_at": "2026-03-14T18:58:11.408Z"
+}

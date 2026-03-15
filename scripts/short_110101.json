@@ -1,0 +1,83 @@
+{
+  "title": "Setelan Koko Anak Viral, Harga Gila!",
+  "hook_text": "Baju Anak Murah Banget?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up anak pakai koko set sambil senyum ke kamera.",
+      "narration": "Mau punya setelan koko anak yang kece tapi nggak bikin dompet jebol?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Mooi Zayyan di atas meja bersih dengan pencahayaan natural.",
+      "narration": "Kenalin nih, Mooi Zayyan Koko Set Sandya Series. --- Bahan lembut banget, literally next level buat si kecil."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek sparkles.",
+      "narration": "Harganya apa dong? --- Cuma seratus empat puluhan ribu aja, which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase detail kain dan jahitan dengan zoom in pada tekstur.",
+      "narration": "Fitur utamanya ada tiga, pertama bahannya adem banget bikin keringat terserap, kedua tekstur super halus, ketiga desain simpel yang nggak lekang oleh waktu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu sedang mengatur ukuran baju di atas kasur sambil melihat label.",
+      "narration": "Kalau punya anak umur dua setengah tahun, ini cocok banget. --- Tapi ingat, upsize satu ukuran biar lebih nyaman, soalnya pas di badan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.91 dan jumlah terjual tiga puluh ribu produk.",
+      "narration": "Ratingnya empat koma sembilan satu, udah terjual tiga puluh ribu produk. --- Yang udah beli bilang 'adem jadi nggak gerah'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah link di bio atau layar.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#MooiZayyan",
+    "#KokoAnak",
+    "#ViralIndonesia",
+    "#AnakSholeh",
+    "#OOTDAnak",
+    "#PromoMurah",
+    "#FindID",
+    "#RekomendasiBaju"
+  ],
+  "product_id": 110101,
+  "product_title": "Mooi Zayyan Koko Set Setelan Koko Anak Raya Collection Sandya Series",
+  "product_price": "147000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/110101.jpg",
+    "/uploads/products/110101_1.jpg",
+    "/uploads/products/110101_2.jpg",
+    "/uploads/products/110101_3.jpg",
+    "/uploads/products/110101_4.jpg",
+    "/uploads/products/110101_5.jpg",
+    "/uploads/products/110101_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/110101",
+  "generated_at": "2026-03-13T18:08:16.893Z"
+}

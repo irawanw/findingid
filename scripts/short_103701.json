@@ -1,0 +1,79 @@
+{
+  "title": "Tisu Capybara Lucu? Harga Shocking!",
+  "hook_text": "Ukuran kecil tapi worth it banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up tangan memegang tisu Vela Capybara yang sedang dibuka sambil ekspresi wajah terkejut dan tersenyum lebar.",
+      "narration": "Stop scroll dulu dong bestie! Jangan sampai salah pilih tisu di rumah."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage cepat: produk tisu gantung Capybara diputar-putar, lalu zoom in ke tekstur 3 ply yang tebal dan lembut.",
+      "narration": "Kenalan yuk sama Vela Mini Tissue Gantung edisi Capybara! Tisu elegan super tebal, tiga lapis, dan pastinya ramah banget sama kulit kita. Which is literally worth it banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 65.000 muncul dengan efek warna-warni ceria, lalu transisi cepat ke kotak isi 4 pack plus 2 hook.",
+      "narration": "Gila sih, satu set lengkap ini cuma seratus puluhan ribu rupiah. Plus dapet empat pack tisu dan dua hook gratis! No cap, ini deal terbaik tahun ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menunjukkan tisu menyerap air cepat (daya serap), kanan menunjukkan tisu tidak ada serat (tidak flek), dan shot terakhir tisu di wajah anak-anak yang tersenyum.",
+      "narration": "Dulu ada yang bilang ukuran kecil dan agak mahal, tapi tenang! Ukurannya pas banget buat dibawa kemana-mana, nggak boros. Daya serapnya oke, tidak ada serat yang flek di wajah, dan aman untuk ibu serta anak-anak. Basically next level kelembutannya."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Simulasi skenario: seseorang memasukkan tisu ke tas ransel kecil, lalu menaruh tisu di dashboard mobil, dan di meja kamar mandi.",
+      "narration": "Perfect buat kamu yang suka traveling, sering di mobil, atau punya anak kecil yang gampang sakit. Kalau aktivitas kamu sering butuh tisu di mana saja, ini solusinya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.82 dan angka 20.000+ terjual dengan background hijau segar.",
+      "narration": "Pembelinya pada ngomong tisu ini bagus, lumayan tebal, dan worth it buat repeat order!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol animasi 'Cek Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, stoknya lagi terbatas lho!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#TisuCapybara",
+    "#VelaTissue",
+    "#KebutuhanRumah",
+    "#GenZShopping",
+    "#PromoKeren",
+    "#WorthIt",
+    "#Tisu3Ply",
+    "#FindingId"
+  ],
+  "product_id": 103701,
+  "product_title": "[BELI 2 GRATIS 2 PAK] VELA Mini Tissue Gantung – 3 Ply 840 Sheets | Capybara, Kapibara, Cappybara, Capibara | Tisu Elegan Serbaguna untuk Wajah, Mobil & Ibu–Anak | Tebal & Lucu | Best Seller | Promo Gratis Ongkir & COD",
+  "product_price": "65000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/103701.jpg",
+    "/uploads/products/103701_1.jpg",
+    "/uploads/products/103701_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/103701",
+  "generated_at": "2026-03-15T07:02:23.046Z"
+}

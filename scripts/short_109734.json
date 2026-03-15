@@ -1,0 +1,90 @@
+{
+  "title": "Baju Koko Premium Murah Banget? Nggak Nyana!",
+  "hook_text": "Nggak Nyana Baju Koko Murah!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot ekspresi kaget melihat harga.",
+      "narration": "Nggak nyana baju koko premium bisa semurah ini? Literally gila sih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Hand holding the baju koko, spinning slowly.",
+      "narration": "Temuin kurta lengan tiga perempat premium dari Atharaya nih. Best seller banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga muncul besar di tengah layar.",
+      "narration": "Harganya mulai dari lima puluh ribuan sampai sembilan puluh ribuan doang. Basically next level banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close-up tekstur kain dan jahitan detail.",
+      "narration": "Bahannya Toyobo Fodu Silky Quality, adem banget nggak menerawang sama sekali. --- Model slim fit yang keren, plus ada ukuran XXL buat yang badannya gede. Jahitannya rapi no cap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Pria berpostur besar memakai baju koko sedang tersenyum.",
+      "narration": "Perfect buat kamu yang suka gaya modern atau mau pakai buat acara Lebaran dan sehari-hari, jadi nggak gerah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.81 dan jumlah terjual 40k.",
+      "narration": "Ratingnya 4,81 bintang dari 40 ribu produk terjual. Yang sudah beli bilang, 'Baru pertama belanja di sini sangat memuaskan'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di layar dengan panah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana, jangan sampai ketinggalan!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana, jangan sampai ketinggalan!",
+  "hashtags": [
+    "#BajuKoko",
+    "#Atharaya",
+    "#OotdPria",
+    "#BajuLebaran",
+    "#PromoMurah",
+    "#BestSeller",
+    "#RekomendasiProduk",
+    "#FindingID"
+  ],
+  "product_id": 109734,
+  "product_title": "BEST SELLER Baju Koko Pria Kurta Lengan 3/4 Premium By Atharaya",
+  "product_price": "87498.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/109734.jpg",
+    "/uploads/products/109734_1.jpg",
+    "/uploads/products/109734_2.jpg",
+    "/uploads/products/109734_3.jpg",
+    "/uploads/products/109734_4.jpg",
+    "/uploads/products/109734_5.jpg",
+    "/uploads/products/109734_6.jpg",
+    "/uploads/products/109734_7.jpg",
+    "/uploads/products/109734_8.jpg",
+    "/uploads/products/109734_9.jpg",
+    "/uploads/products/109734_10.jpg",
+    "/uploads/products/109734_11.jpg",
+    "/uploads/products/109734_12.jpg",
+    "/uploads/products/109734_13.jpg"
+  ],
+  "product_link": "https://finding.id/p/109734",
+  "generated_at": "2026-03-13T20:46:46.879Z"
+}

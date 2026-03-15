@@ -1,0 +1,83 @@
+{
+  "title": "Tas Dada Murah Kapasitas Dewa? 🎒",
+  "hook_text": "Tas Dada Murah Tapi Mewah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tas dibuka-buka dengan pencahayaan dramatis",
+      "narration": "nggak percaya deh, tas se-elegan ini harganya cuma seratus tiga puluh ribuan kok!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tas ditampilkan lengkap dari berbagai sudut dengan transisi cepat",
+      "narration": "Ini dia MOSSDOOM Klassy Waist Bag, tas dada wanita yang literally next level banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar bersamaan dengan tas",
+      "narration": "Kena harga seratus tiga puluh ribuan, dapet kualitas yang worth it banget, which is seriously worth it!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi isi compartment dan variasi warna tas",
+      "narration": "Kapasitasnya muat banyak --- ada banyak compartmentnya juga. Desainnya elegan, warnanya soft, dan tas slempangnya lucu banget. Banyak pilihan warna sesuai ekspektasi kalian semua."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model mengenakan tas saat nongkrong atau jalan-jalan santai",
+      "narration": "Perfect buat yang suka nongkrong tapi butuh tas simpel. Kalau aktivitas kamu sibuk, tas ini jadi solusi praktis tanpa bikin berat."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.89 dan angka penjualan 20.000+",
+      "narration": "Rating 4.89 bintang, sudah terjual dua puluh ribuan produk. Yang sudah beli bilang, 'persis sama apa yang aku mau sesuai ekspektasi banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi menarik",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#tasdada",
+    "#taswanita",
+    "#fashionmurah",
+    "#findingid",
+    "#rekomendasitas",
+    "#taspinggang",
+    "#outfitmurah",
+    "#genzstyle"
+  ],
+  "product_id": 109174,
+  "product_title": "MOSSDOOM Tas Pinggang Serbaguna Klassy Waist Bag Tas Dada Wanita Kapasitas Besar",
+  "product_price": "139000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/109174.jpg",
+    "/uploads/products/109174_1.jpg",
+    "/uploads/products/109174_2.jpg",
+    "/uploads/products/109174_3.jpg",
+    "/uploads/products/109174_4.jpg",
+    "/uploads/products/109174_5.jpg",
+    "/uploads/products/109174_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/109174",
+  "generated_at": "2026-03-13T23:39:23.608Z"
+}

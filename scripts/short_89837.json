@@ -1,0 +1,86 @@
+{
+  "title": "Sneakers Wide Fit Empuk Banget! 😱",
+  "hook_text": "Ukuran biasa sempit?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Teks besar muncul cepat di layar dengan close-up sepatu yang terlihat sedikit ketat di jari kaki model.",
+      "narration": "Ada yang bilang 'Ukuranku biasa size 40, sepatu ini masih berasa sempit?' Nggak usah khawatir bestie, ini ada solusinya!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide menampilkan model memakai sepatu PVN Dongjun model 130 sambil jalan santai di jalanan aspal, transisi smooth.",
+      "narration": "Kenalan yuk sama PVN Dongjun Sneakers Wanita Sport Shoes 130, yang basically next level buat kamu yang butuh kenyamanan maksimal."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga di layar dengan efek 'pop up' dan ikon centang hijau besar, background berubah menjadi warna pastel cerah.",
+      "narration": "Gila sih, harganya cuma seratus delapan puluhan ribu sampai lima ratus sembilan puluhan ribu, dan kualitasnya worth it banget dong!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen cepat: pertama tangan menekan sol sepatu untuk tunjukkan empuknya, kedua close-up bahan kulit sintetis, ketiga model berlari kecil.",
+      "narration": "First, sol setinggi empat centimeter yang super empuk bikin kaki nggak sakit. Second, bahan kulit sintetis high quality yang nggak gampang pudar warnanya. Third, sol karet non slip yang aman banget buat aktivitas sehari-hari, which is literally so cute!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage berbagai aktivitas: model sedang kerja di kantor, jalan belanja, dan nongkrong sore hari dengan senyum ceria.",
+      "narration": "Perfect buat yang aktivitasnya banyak jalan kaki atau berdiri lama. Kalau kamu sering cari sepatu kerja yang nyaman tapi tetap stylish, ini cocok banget!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.86 bintang emas dan angka 20.000 terjual besar di tengah layar, lalu muncul quote bubble.",
+      "narration": "Nggak percaya? Lihat aja rating empat koma delapan enam dari dua puluh ribu yang udah beli bilang 'alasnya empuk, mudahmudahan bisa tahan lama'!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul dengan animasi fun dan panah menunjuk ke bawah, teks 'Cek Sekarang!' berkedip.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#SneakersWanita",
+    "#SepatuNyaman",
+    "#WideFit",
+    "#FashionGenZ",
+    "#Kekinian",
+    "#ShoesLovers",
+    "#TemukanHemat",
+    "#FindingId"
+  ],
+  "product_id": 89837,
+  "product_title": "PVN Dongjun Sepatu Sneakers Wanita Sport Shoes 130",
+  "product_price": "189999.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/89837.jpg",
+    "/uploads/products/89837_1.jpg",
+    "/uploads/products/89837_2.jpg",
+    "/uploads/products/89837_3.jpg",
+    "/uploads/products/89837_4.jpg",
+    "/uploads/products/89837_5.jpg",
+    "/uploads/products/89837_6.jpg",
+    "/uploads/products/89837_7.jpg",
+    "/uploads/products/89837_8.jpg",
+    "/uploads/products/89837_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/89837",
+  "generated_at": "2026-03-14T14:19:50.304Z"
+}

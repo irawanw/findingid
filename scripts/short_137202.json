@@ -1,0 +1,77 @@
+{
+  "title": "Blender Portable Kaca Ini Viral Banget!",
+  "hook_text": "Ribet bikin Smoothie?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah bingung memegang gelas kosong di pagi hari.",
+      "narration": "Masih bingung mau bikin smoothie pagi hari tapi ribet? --- Atau takut blender mahal?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk ecentio ditaruh di meja dengan background estetik dan pencahayaan cinematic.",
+      "narration": "Kenalan sama ecentio blender portable kapsul Kaca Gelas juicer ini! Literally next level banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di tengah layar dengan efek kilau.",
+      "narration": "Harganya cuma seratus empat puluh sembilan ribuan doang. Which is worth it banget buat kamu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up pisau berputar dan jus dituang ke gelas kaca dengan efek slow motion.",
+      "narration": "Ada 10 pisau super tajam, tabungnya kaca mewah, portable banget. nggak perlu kabel ribet. Bisa blending tanpa ampas."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang membawa blender ke tas travel atau meletakkan di meja kos yang kecil.",
+      "narration": "Buat kamu yang suka travel atau di kosan. Ukuran emang kecil, tapi pas buat satu gelas. Hati-hati juga jangan overloading biar awet ya. Jangan lupa cuci bersih setelah pakai."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.85 dan komentar pembeli muncul di layar.",
+      "narration": "Ratingnya 4,85 bintang, udah laku 70 ribu! Yang udah beli bilang 'tabung kaca nya yg mewah, kokoh'. nggak percaya? Cek sendiri deh. No cap, ini worth it banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah menunjuk ke arah link.",
+      "narration": "Penasaran? Cek di finding dot id ya bestie, ada review produk-nya di sana!"
+    }
+  ],
+  "cta": "Penasaran? Cek di finding dot id ya bestie, ada review produk-nya di sana!",
+  "hashtags": [
+    "#blenderportable",
+    "#ecentio",
+    "#juicer",
+    "#smoothie",
+    "#gadgetviral",
+    "#murahmeriah",
+    "#findingid",
+    "#produkviral"
+  ],
+  "product_id": 137202,
+  "product_title": "ecentio blender portable kapsul Kaca Gelas juicer buah tanpa ampas 10 Pisau blender jus buah hand blender mini juicer juicer portable blender 380ml+380ml blender jus",
+  "product_price": "149000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/137202.jpg"
+  ],
+  "product_link": "https://finding.id/p/137202",
+  "generated_at": "2026-03-13T17:23:18.257Z"
+}

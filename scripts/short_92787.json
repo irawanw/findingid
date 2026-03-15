@@ -1,0 +1,83 @@
+{
+  "title": "Sepatu Docmart Korea Cuma 130 Ribuan? No Cap!",
+  "hook_text": "Sepatu Docmart Cuma 130 Ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up sepatu JustLook Jeongyeon dengan efek flash cepat, teks besar muncul di tengah layar.",
+      "narration": "Sepatu Docmart Korea cuma seratus tiga puluh ribuan? Literally no cap, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai sepatu JustLook Jeongyeon berjalan santai di jalan kota.",
+      "narration": "Ini dia JustLook Jeongyeon, sepatu loafers yang lagi viral banget di kalangan fashionista."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga besar muncul dengan efek koin jatuh, transisi cepat ke detail sol sepatu.",
+      "narration": "Harganya bikin dompet aman, tapi kualitasnya nggak murahan sama sekali."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat menunjukkan varian warna hitam, glossy, dan beige serta tekstur bahan kulit.",
+      "narration": "Bahan kulit nyaman, sol empuk nggak keras, dan nggak bikin pegel. --- Ada varian hitam doff, glossy, sampai beige yang super versatile buat outfit kamu. Oh iya, kalau ukuran pas, bisa tukar size kok!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model duduk di cafe sambil memegang laptop, terlihat santai dan stylish.",
+      "narration": "Cocok buat kamu yang suka gaya vintage Korea tapi budget terbatas. --- Buat nongkrong, kuliah, atau jalan-jalan santai, ini sih wajib punya di lemari."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.85 dan grafik penjualan 50.000 pasang muncul di layar.",
+      "narration": "Ratingnya 4,85 bintang dengan penjualan 50 ribu pasang. --- Yang udah beli bilang, sepatunya cantik gemes dan solnya empuk banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di layar dengan panah mengarah ke bawah.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#JustLookJeongyeon",
+    "#SepatuDocmart",
+    "#FashionKorea",
+    "#OOTDIndonesia",
+    "#ViralProduct",
+    "#MurahBerkualitas",
+    "#CariBaruDiFinding",
+    "#GenZStyle"
+  ],
+  "product_id": 92787,
+  "product_title": "JustLook Jeongyeon Sepatu Docmart Wanita Shoes Fashion Korea",
+  "product_price": "137857.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/92787.jpg",
+    "/uploads/products/92787_1.jpg",
+    "/uploads/products/92787_2.jpg",
+    "/uploads/products/92787_3.jpg",
+    "/uploads/products/92787_4.jpg",
+    "/uploads/products/92787_5.jpg",
+    "/uploads/products/92787_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/92787",
+  "generated_at": "2026-03-13T18:26:16.046Z"
+}

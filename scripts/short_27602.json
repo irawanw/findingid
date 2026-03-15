@@ -1,0 +1,88 @@
+{
+  "title": "Litter Box Jumbo Buat Kucing 7kg! 🐱",
+  "hook_text": "Kucing 7kg mu kepanasan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kucing gemuk terlihat kaget di dalam kotak litter biasa yang sempit, lalu transisi cepat ke kotak FOCAT M31 yang luas.",
+      "narration": "Stop scrolling kalau anabul kamu badannya gede banget, literally nggak muat di kotak litter biasa!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide menampilkan kotak litter FOCAT M31 yang sangat besar di tengah ruangan, teks overlay '50CM JUMBO' muncul besar.",
+      "narration": "Perkenalkan FOCAT Pet Litter Box M31, ini jumbo banget ukurannya, lebarnya 50 sentimeter, perfect buat kucing yang lagi need ruang gerak bebas."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri menampilkan harga coret Rp 120.000 yang dicoret merah, kanan menampilkan harga Rp 19.900 dengan efek ledakan uang.",
+      "narration": "Gila sih harganya, basic banget cuma segitu segan segan, padahal kalau di toko lain biasanya harganya seratus dua puluhan ribu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: 1. Tangan mengoleskan bubuk litter sampai penuh tanpa tumpah, 2. Kucing berlari-lari di dalam kotak tanpa benturan, 3. Penutup lidah pelana yang kuat.",
+      "narration": "Pertama, kapasitasnya super lega, bisa muat litter banyak banget tanpa khawatir tumpah sembarang tempat. Kedua, desain luarnya kokoh, kucing bisa lari-lari di sana no cap. Ketiga, ada fitur penutup lidah pelana yang bikin aroma nggak bisa keluar nganggu tetangga."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario kucing sedang duduk santai menatap langit-langit di dalam kotak, lalu pemilik sedang tidur nyenyak di dekatnya tanpa gangguan bau.",
+      "narration": "Sangat cocok buat kamu yang punya kucing badut berat badan lebih dari lima kilo, atau kalau kamu sering khawatir sama bau litter yang nganggu suasana rumah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.87 dan angka terjual 20.000 produk dengan efek glow, lalu muncul teks kutipan pembeli.",
+      "narration": "Gila sih, ratingnya empat koma delapan tujuh dari dua puluh produk yang udah terjual, yang udah beli bilang kotak ini beneran bisa buat tempat merenung juga selain buat pup."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi teks besar 'finding dot id' dengan tombol panah yang menunjuk ke bawah, musik upbeat berenti mendadak.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek full review di finding dot id!",
+  "hashtags": [
+    "#KucingGemuk",
+    "#LitterBoxJumbo",
+    "#PetLoversIndonesia",
+    "#FOCATM31",
+    "#KucingBadut",
+    "#ViralPet",
+    "#HematBeliOnline",
+    "#BestieCat"
+  ],
+  "product_id": 27602,
+  "product_title": "[RUSAK KAMI GANTI] FOCAT Pet Litter Box Ekstra Besar 50CM M31 Bak Pup Kucing Anabul Jumbo",
+  "product_price": "19900.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/27602.jpg",
+    "/uploads/products/27602_1.jpg",
+    "/uploads/products/27602_2.jpg",
+    "/uploads/products/27602_3.jpg",
+    "/uploads/products/27602_4.jpg",
+    "/uploads/products/27602_5.jpg",
+    "/uploads/products/27602_6.jpg",
+    "/uploads/products/27602_7.jpg",
+    "/uploads/products/27602_8.jpg",
+    "/uploads/products/27602_9.jpg",
+    "/uploads/products/27602_10.jpg",
+    "/uploads/products/27602_11.jpg"
+  ],
+  "product_link": "https://finding.id/p/27602",
+  "generated_at": "2026-03-14T09:56:03.608Z"
+}

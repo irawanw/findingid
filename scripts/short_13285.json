@@ -1,0 +1,87 @@
+{
+  "title": "Kemeja Koko Viral Harga Ratusan Ribu?",
+  "hook_text": "Kemeja Koko Viral Cuma Ratusan Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up kemeja hitam elegan dengan lighting cinematic.",
+      "narration": "Nggak nyangka banget, kemeja koko kekinian ini harganya cuma ratusan ribu doang!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model pakai kemeja putih di luar ruangan, senyum percaya diri.",
+      "narration": "Kenalin nih, Kemeja Koko Takako. Bahan Katun Linen premium yang adem banget, no cap. Desain kerah Mandarin super elegan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin.",
+      "narration": "Nilai dapetnya? Kualitas premium, tapi harga cuma seratus empat puluhan ribu. Worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail jahitan, bahan tebal tapi adem, variasi warna, close-up kerah.",
+      "narration": "Pertama, bahannya tebal tapi adem. Kedua, desain kerah Mandarin stylish. Ada ukuran Jumbo dan Custom. --- Warning ya, warna abu-abu kadang mirip army, makanya cek spek detail dulu ya."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Pria pakai kemeja ngantor, kondangan, dan di masjid.",
+      "narration": "Perfect buat ibadah, kondangan, atau ngantor. Kalau postur besar, jangan khawatir ada size Jumbo."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.89 dan chat pembeli muncul cepat.",
+      "narration": "Pembelinya bilang bahannya tebel adem dan pas. Rating 4.89 dari 30.000 unit terjual. Nggak bohong dong!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#KemejaKoko",
+    "#Takako",
+    "#OOTDPria",
+    "#Kekinian",
+    "#CocokUntukSemua",
+    "#PromoMurah",
+    "#FindingID",
+    "#GayaPria"
+  ],
+  "product_id": 13285,
+  "product_title": "Takako - Kemeja Koko Pria Lengan Pendek Katun Linen",
+  "product_price": "155000.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/13285.jpg",
+    "/uploads/products/13285_1.jpg",
+    "/uploads/products/13285_2.jpg",
+    "/uploads/products/13285_3.jpg",
+    "/uploads/products/13285_4.jpg",
+    "/uploads/products/13285_5.jpg",
+    "/uploads/products/13285_6.jpg",
+    "/uploads/products/13285_7.jpg",
+    "/uploads/products/13285_8.jpg",
+    "/uploads/products/13285_9.jpg",
+    "/uploads/products/13285_10.jpg"
+  ],
+  "product_link": "https://finding.id/p/13285",
+  "generated_at": "2026-03-13T18:10:51.909Z"
+}

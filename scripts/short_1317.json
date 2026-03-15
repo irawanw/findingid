@@ -1,0 +1,85 @@
+{
+  "title": "Lampu Foto Pro Harga Murid? Gak Gaknya!",
+  "hook_text": "STOP! Kena Preman Cahaya?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat kamera yang gelap total, tiba-tiba muncul cahaya neon terang dari belakang bikin siluet keren sambil teks besar muncul.",
+      "narration": "Stop sejenak! Mau jadi konten kreator tapi dompetmu selembar kertas? Tenang, kamu nggak sendirian nih bestie."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close up produk TNW Lampu Foto LED yang dihidupkan, tunjukkan bagian kepala lampu bisa diatur sudutnya dan tripod yang kokoh.",
+      "narration": "Kenalan dulu sama TNW Lampu Foto LED plus tripod yang literally next level buat studio foto kamu. Fitur terbaiknya lampu super terang dan bisa diatur segudak!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri gambar lampu mahal, kanan gambar TNW ini dengan stiker harga besar berwarna merah menyala.",
+      "narration": "Nah, harga pasarnya biasanya ratusan ribu eh ini cuma seratus dua puluhan ribuan doang! Which is worth it banget buat kualitas studio yang sepadan dengan harga segitu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Tunjukkan ada 3 warna cahaya yang bisa dipilih, 2. Tunjukkan lampu dipegang pakai powerbank, 3. Tunjukkan tripod yang bisa dilipat kecil.",
+      "narration": "Gimana mungkin? Ada tiga warna lampu yang bisa kamu pilih, bisa disambungkan ke powerbank jadi praktis banget buat dipindah-pindah, plus tripodnya kokoh dan bisa dilipat kecil."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: seorang anak remaja sedang merekam video vlog di kamar sempit dengan pencahayaan yang sangat bagus berkat lampu ini.",
+      "narration": "Perfect buat kamu yang sering bikin vlog di kamar atau mau nyari cahaya bagus buat live streaming tanpa harus sewa studio mahal. Kalau aktivitasmu butuh pencahayaan stabil, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan layar rating bintang 4.85 dan angka terjual 20.000 produk dengan animasi hati yang muncul di pojok.",
+      "narration": "Rating empat koma delapan lima dan sudah terjual dua puluh ribu unit, pembelinya pada bilang 'sepadan dengan harga' dan 'lumayan cukup terang'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo TNW Tech dan tulisan besar 'CEK DI FINDING DOT ID' dengan tombol animasi yang bergetar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#LampuFoto",
+    "#KontenKreator",
+    "#TNW",
+    "#VlogIndo",
+    "#LightingStudio",
+    "#BudgetFriendly",
+    "#ReviewProduk",
+    "#ShortsViral"
+  ],
+  "product_id": 1317,
+  "product_title": "TNW Lampu Foto Led Lampu Lighting Lampu Sorot Lighting Studio+Tripod Lampu Konten Kreator Lighting Studio Lampu Live Vlog",
+  "product_price": "124063.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/1317.jpg",
+    "/uploads/products/1317_1.jpg",
+    "/uploads/products/1317_2.jpg",
+    "/uploads/products/1317_3.jpg",
+    "/uploads/products/1317_4.jpg",
+    "/uploads/products/1317_5.jpg",
+    "/uploads/products/1317_6.jpg",
+    "/uploads/products/1317_7.jpg",
+    "/uploads/products/1317_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/1317",
+  "generated_at": "2026-03-14T19:47:17.872Z"
+}

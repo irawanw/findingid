@@ -1,0 +1,82 @@
+{
+  "title": "Setelan Lebaran Anak Bestie! Adem & Nyaman Banget ✨",
+  "hook_text": "STOP! Baju Lebaran anakmu butuh upgrade?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan cepat anak-anak berbagai usia (2-11 tahun) pakai kurta rayanya sambil ketawa dan gaya-gayaan ke kamera.",
+      "narration": "Stop bestie! Kamu masih pusing cari setelan kurta rayanya nggak?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close-up detail kain kurta polos dan celana yang terlihat lembut, lalu zoom out menampilkan setelan lengkap di atas meja.",
+      "narration": "Kenalan dong sama OLIVERKIDS Kurta Raya Set ini, setelan koko dan celana polos buat anak dua sampe sebelas tahun yang literally next level."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan harga dengan efek confetti, lalu perbandingan visual harga vs kualitas premium.",
+      "narration": "Gila sih harganya cuma seratus delapan puluhan ribu perak doang, padahal kualitasnya udah setara butik mahal banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: pertama tangan menyentuh kain lalu menjauh (efek adem), kedua jarum menjahit cepat (efek kuat), ketiga anak berlari bebas (efek praktis).",
+      "narration": "Pertama, bahannya katun tiga puluh persen yang adem dikit pas cuaca panas, second jahitannya rapi banget dan kuat nggak gampang sobek, dan ketiga desainnya simpel polos jadi gampang dicampur celana lain kalau ada spot noda, which is super practical."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario anak-anak sedang sholat atau makan bersama keluarga besar di rumah, terlihat senyum ceria.",
+      "narration": "Perfect buat kamu yang punya anak aktif banget suka gerak-gerik, atau yang mau cari baju lebaran yang nyaman tanpa ribet mikirin ukuran pas."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating bintang 4.86 dan angka terjual 20.000+, dengan teks kutipan ulasan di bawahnya.",
+      "narration": "Yang udah beli bilang adminnya cepet banget jawab chat dan kirim barangnya hari itu juga, nggak bikin nunggu lama banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan tombol animasi 'Cek Sekarang', anak-anak melambaikan tangan.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#OLIVERKIDS",
+    "#BajuLebaranAnak",
+    "#SetelanKokoAnak",
+    "#OOTDAnak",
+    "#ShopeeFind",
+    "#RamadanKids",
+    "#BajuAnakAdem",
+    "#FindingId"
+  ],
+  "product_id": 114336,
+  "product_title": "OLIVERKIDS - Kurta Raya Set Setelan Baju Koko dan Celana Anak Polos 2-11 Tahun Manasik Jubah Polos Anak Setelan Baju Lebaran",
+  "product_price": "99950.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/114336_1.jpg",
+    "/uploads/products/114336_2.jpg",
+    "/uploads/products/114336_3.jpg",
+    "/uploads/products/114336_4.jpg",
+    "/uploads/products/114336_5.jpg",
+    "/uploads/products/114336_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/114336",
+  "generated_at": "2026-03-14T17:06:18.896Z"
+}

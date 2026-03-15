@@ -1,0 +1,83 @@
+{
+  "title": "Rahasia Perut Datar Pasca Melahirkan 💃",
+  "hook_text": "Perut buncit pasca melahir? Stop scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kaget lalu transisi cepat ke gambar perut yang masih agak buncit, lalu cut ke siluet jam pasir yang ramping.",
+      "narration": "Masih baper sama perut yang belum kembali normal pasca melahirkan? Bestie, jangan sedih dulu, karena aku nemu solusi literally next level nih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk AQILAS Korset Lilit dibalut di atas meja, tangan model sedang merentangkan pita korset untuk menunjukkan elastisitasnya.",
+      "narration": "Ini dia AQILAS Korset Lilit Elastis, teman setia ibu baru buat dapetin bentuk tubuh jam pasir impian kamu. Bahannya super lembut, lentur banget, dan yang paling penting, dia bener-bener nyokong perut kamu setiap hari tanpa bikin gerah."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks animasi harga muncul dengan efek 'dollar' jatuh, menampilkan angka '60-an ribuan' dengan latar belakang latar belakang yang cerah.",
+      "narration": "Dan tebak harganya? Kamu bisa dapetin ini cuma di angka enam puluh ribuan doang! Literally, seharga sejutaan pun masih worth it banget buat dapetin kualitas sekelas ini, which is no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1) Pita lilit diperlihatkan panjangnya, 2) Detail renda dan bahan nilon, 3) Demonstrasi lilitan dari dada ke panggul.",
+      "narration": "Fiturnya itu, bestie. Pertama, panjangnya bisa tembus empat sampai lima meter, jadi kamu bisa lilit sepuasnya buat nge-cover semua area. Kedua, bahannya kombinasi renda dan nilon yang elastis banget, nggak bikin gesek kulit sensitif. Ketiga, perekatnya super panjang, jadi bisa nutupin mulai dari atas perut sampai ke panggul, which is perfect buat ibu pasca melahirkan yang butuh dukungan maksimal."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu muda sedang menggendong bayi sambil memakai korset, lalu transisi ke wanita sedang berolahraga ringan.",
+      "narration": "Produk ini perfect banget buat kamu yang baru saja melahirkan, butuh pemulihan bentuk tubuh, atau kamu yang suka olahraga tapi pengen perut lebih rata. Kalau aktivitas kamu banyak gerak tapi butuh support ekstra, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan bintang 4.81, angka '20.000+' terjual, dan teks kutipan dari pembeli muncul di layar.",
+      "narration": "Udah terjual dua puluh ribu produk dengan rating 4.81 bintang! Yang udah beli bilang, bahannya lembut dan elastis banget, plus perekatnya pas banget nutupin perut sampai panggul."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar dengan panah menunjuk ke arah tombol atau area pencarian.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#AQILAS",
+    "#KorsetLilit",
+    "#PascaMelahirkan",
+    "#PerutDatar",
+    "#IbuBaru",
+    "#RekomendasiProduk",
+    "#BelanjaHemat",
+    "#FindInID"
+  ],
+  "product_id": 158264,
+  "product_title": "AQILAS Korset Lilit Elastis 4m/5m x 10cm/15cm Bengkung Wanita Pelangsing Perut Pasca Melahirkan",
+  "product_price": "64350.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/158264.jpg",
+    "/uploads/products/158264_1.jpg",
+    "/uploads/products/158264_2.jpg",
+    "/uploads/products/158264_3.jpg",
+    "/uploads/products/158264_4.jpg",
+    "/uploads/products/158264_5.jpg",
+    "/uploads/products/158264_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/158264",
+  "generated_at": "2026-03-15T15:08:51.471Z"
+}

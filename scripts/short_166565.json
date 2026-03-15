@@ -1,0 +1,83 @@
+{
+  "title": "Handuk Bayi Little Palmerhaus! Lembut Banget Bestie",
+  "hook_text": "Stop! Handuk bayi ini WAJIB kamu punya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan kecil menyentuh handuk dengan ekspresi bahagia sambil zoom in cepat ke motif Kuma Kuma yang lucu.",
+      "narration": "Guys, stop scrolling dulu dong! Handuk bayi yang bakal bikin si kecil nangis happy karena terlalu nyaman itu ada di sini!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot slow-motion handuk Little Palmerhaus Little Terry dikibas-kibasin, menampilkan tekstur 'Extra Soft' yang mengkilap dan lembut.",
+      "narration": "Inilah handuk Little Palmerhaus Little Terry Extra Soft dari Terry Palmer. Ukurannya 50 kali 100 centimeter, literally so cute banget dengan motif Kuma Kuma yang super adorable!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek transisi seru, disandingkan dengan gambar tumpukan handuk yang rapi.",
+      "narration": "Nggak nyangka kan? Harganya cuma seratus delapan puluhan ribu rupiah doang! Which is worth it banget untuk kualitas luxury seperti ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: handuk digosok ke kulit bayi yang merah jadi pucat, handuk dikibaskan hingga kering, dan detail jahitan rapi.",
+      "narration": "Pertama, bahannya nggak cuma lembut tapi bikin kulit bayi nggak merah-merah lagi. Kedua, serap airnya super cepet banget, basically next level. Dan terakhir, warnanya nggak luntur meskipun dicuci berkali-kali, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario anak mandi, lalu dibungkus handuk tersebut dan tersenyum puas, kemudian tidur nyenyak.",
+      "narration": "Perfect buat yang punya anak dari bayi sampai usia sekolah, kayak anak empat tahun. Kalau aktivitas kamu sering mandi atau anak suka main air, handuk ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.88 bintang, angka 50 ribu terjual, dan teks kutipan muncul dengan animasi pop-up.",
+      "narration": "Pembelinya pada ngomong kalau handuknya cocok dari bayi sampe sekarang masih bisa dipake, dan pengiriman juga cepat banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi fun dan tombol beli yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#LittlePalmerhaus",
+    "#HandukBayi",
+    "#KumaKuma",
+    "#ParentingHack",
+    "#BabyEssentials",
+    "#ViralShorts",
+    "#IbuKeren",
+    "#TemukanDiFindingId"
+  ],
+  "product_id": 166565,
+  "product_title": "Handuk Bayi Anak Little Palmerhaus Little Terry EXTRA SOFT by Terry Palmer uk 50 x 100cm / Kuma Kuma",
+  "product_price": "56700.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/166565.jpg",
+    "/uploads/products/166565_1.jpg",
+    "/uploads/products/166565_2.jpg",
+    "/uploads/products/166565_3.jpg",
+    "/uploads/products/166565_4.jpg",
+    "/uploads/products/166565_5.jpg",
+    "/uploads/products/166565_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/166565",
+  "generated_at": "2026-03-15T09:48:50.931Z"
+}

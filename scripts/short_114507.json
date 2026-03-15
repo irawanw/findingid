@@ -1,0 +1,77 @@
+{
+  "title": "Kurma UAE Asli Cuma Delapan Puluh Lima Ribuan?!",
+  "hook_text": "Kurma UAE Asli Cuma Delapan Puluh Lima Ribuan?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot kurma Khenaizi yang mengkilap dengan teks overlay besar",
+      "narration": "Kurma UAE Asli Cuma Delapan Puluh Lima Ribuan?!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Host memegang box Date Crown Kurma Khenaizi di depan kamera",
+      "narration": "Kenalin nih, Date Crown Kurma Khenaizi 1kg. Import langsung dari Dubai, quality bintang lima, no cap."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek suara 'cha-ching'",
+      "narration": "Harganya? Delapan puluh lima ribuan doang. Which is, worth it banget buat isi stok."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage tekstur daging kurma yang tebal dan kemasan bubble wrap",
+      "narration": "Dagingnya tebal, manisnya natural, nggak perlu gula tambahan. --- Kadang packaging agak terbuka dikit, tapi tenang, kurmanya tetap rapi pake bubble wrap kok. Rasanya legit banget, beda sama yang di pasaran."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang makan kurma sambil santai di sofa",
+      "narration": "Perfect buat kamu yang suka ngemil sehat atau nyiapin takjil lebaran bareng keluarga. Nggak perlu ribet cari tempat lain."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.91 dan jumlah terjual 20k di layar",
+      "narration": "Rating 4.91, udah 20 ribu terjual. Yang udah beli bilang 'rasanya sangat enak dan legit'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol mencari produk dan logo finding.id",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, stoknya bisa ludes!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, stoknya bisa ludes!",
+  "hashtags": [
+    "#KurmaUAE",
+    "#KurmaKhenaizi",
+    "#CamilanSehat",
+    "#KurmaMurah",
+    "#Lebaran2024",
+    "#RekomendasiProduk",
+    "#FoodViral",
+    "#UAEProduct"
+  ],
+  "product_id": 114507,
+  "product_title": "Date Crown Kurma Khenaizi (1kg) dari UAE in Box",
+  "product_price": "85000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/114507.jpg"
+  ],
+  "product_link": "https://finding.id/p/114507",
+  "generated_at": "2026-03-13T19:25:01.324Z"
+}

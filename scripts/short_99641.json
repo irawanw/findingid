@@ -1,0 +1,88 @@
+{
+  "title": "Lip Tint 50 Ribu Tahan Seharian Bestie",
+  "hook_text": "Lip tint murah tapi awet banget?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah dengan ekspresi terkejut melihat lip tint.",
+      "narration": "Lip tint murah tapi awet banget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Raecca Glow Up Tint di atas meja dengan pencahayaan soft.",
+      "narration": "Kenalin Raecca Glow Up Tint, lip tint favorit pelajar yang lagi viral banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga besar muncul di tengah layar.",
+      "narration": "Harganya mulai dari lima puluhan ribuan doang. --- Bandingin sama kualitas yang dapet, which is worth it."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Video slow motion olesan lip tint di bibir untuk tunjukkan tekstur.",
+      "narration": "Ada Hyaluronic Acid buat kelembapan maksimal. --- Tahan lama, transferproof, dan smudgeproof. Teksturnya cair, ringan, dan nggak lengket. Pigmen intens banget cuma satu kali oles. --- Oh ya, kalau susah dihapus itu karena pigmentnya kuat, jadi oles tipis aja biar gampang."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot mahasiswa sedang belajar atau kerja di kafe.",
+      "narration": "Perfect buat kalian yang aktivitas padat tapi budget terbatas. Nggak perlu mahal biar look tetap glowing."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating bintang dan jumlah penjualan di aplikasi.",
+      "narration": "Rating 4.89, udah terjual 500 ribu produk. --- Yang udah beli bilang, 'Alhamdulillah sampai dengan selamat, packing aman'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Jempol tangan menunjuk ke arah bawah layar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#RaeccaGlowUpTint",
+    "#LipTintViral",
+    "#MakeupMurah",
+    "#SkincareIndo",
+    "#GenZIndonesia",
+    "#FindingId",
+    "#TipsMakeup",
+    "#BeautyHacks"
+  ],
+  "product_id": 99641,
+  "product_title": "Raecca Glow Up Tint - Rekomendasi Liptint Waterproof Untuk Sekolah dan Daily Use",
+  "product_price": "51999.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/99641.jpg",
+    "/uploads/products/99641_1.jpg",
+    "/uploads/products/99641_2.jpg",
+    "/uploads/products/99641_3.jpg",
+    "/uploads/products/99641_4.jpg",
+    "/uploads/products/99641_5.jpg",
+    "/uploads/products/99641_6.jpg",
+    "/uploads/products/99641_7.jpg",
+    "/uploads/products/99641_8.jpg",
+    "/uploads/products/99641_9.jpg",
+    "/uploads/products/99641_10.jpg",
+    "/uploads/products/99641_11.jpg"
+  ],
+  "product_link": "https://finding.id/p/99641",
+  "generated_at": "2026-03-13T22:48:43.328Z"
+}

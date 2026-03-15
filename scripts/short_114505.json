@@ -1,0 +1,91 @@
+{
+  "title": "Kurma Sukari 3kg Murah Meriah!",
+  "hook_text": "Kurma 3kg Cuma Seratus Ribu?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up kurma gurih jatuh pelan dengan efek slow motion.",
+      "narration": "Gila sih bestie, seriusan ada kurma VIP tiga kilo cuma seharga kopi langganan lo?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Box kurma dibuka perlahan, isi melimpah terlihat jelas.",
+      "narration": "Ini dia Kurma Sukari AlQasim panen baru, grade A VIP yang lagi viral banget di media sosial. --- Nih bestie, jangan di skip ya!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks harga besar muncul di layar disamping tumpukan kurma.",
+      "narration": "Harganya seratus lima puluh sembilan ribu aja, which is worth it banget buat dapetin berat tiga kilogram full!"
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Show kemasan dus tebal dan tanggal kadaluarsa di kotak.",
+      "narration": "Kemasannya dus tebal biar aman, expired Desember dua ribu dua puluh tujuh, jadi bisa stok lama banget. --- Jangan lupa simpan di chiller biar fresh terus."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Montase tekstur kurma, orang makan, dan simpan di kulkas.",
+      "narration": "Fresh banget, beda sama kurma di lapak sebelah yang agak item. --- Tahan satu tahun kalau di simpan di chiller atau freezer. --- Dus tebal menjamin isi aman sampai rumah. --- Kemasannya grade A premium, kualitasnya nggak main-main."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Suasana buka puasa bersama keluarga atau teman ngemil.",
+      "narration": "Perfect buat bestie yang sering stok buat buka puasa atau acara keluarga besar. --- Kalau aktivitas lo sibuk, ini solusi praktis yang nggak bikin kantong bolong."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Screenshot rating bintang dan jumlah terjual di aplikasi.",
+      "narration": "Ratingnya empat koma enam tiga, sudah terjual enam puluh ribu produk. --- Ada yang bilang kualitas sangat bagus kurma masih fresh dan terimakasih paketan sudah nyampe kemarin siang."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Tumpukan kurma dengan pencahayaan hangat.",
+      "narration": "Varian warna cokelat keemasan natural, pilih aja sesuai selera lo."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tombol beli muncul besar di layar dengan panah ke bawah.",
+      "narration": "Buruan klik link di deskripsi sekarang sebelum kehabisan, bestie!"
+    }
+  ],
+  "cta": "Buruan klik link di deskripsi sekarang sebelum kehabisan, bestie!",
+  "hashtags": [
+    "#kurmasukari",
+    "#belanjaviral",
+    "#kurma3kg",
+    "#murahmeriah",
+    "#produkviral",
+    "#kurmafresh",
+    "#tiktokshop",
+    "#belanjahemat"
+  ],
+  "product_id": 114505,
+  "product_title": "Kurma Sukari 3kg VIP New Grade A / Sukary AlQasim Panen Baru",
+  "product_price": "159900.00",
+  "product_rating": "4.63",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/114505.jpg"
+  ],
+  "product_link": "https://finding.id/p/114505",
+  "generated_at": "2026-03-12T14:09:59.308Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Stand Mixer Hemat Listrik? Cek Ini Bestie!",
+  "hook_text": "Mixer 180 watt kok kuat banget?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up dramatis mesin mixer putih sedang mengaduk adonan tebal dengan cepat.",
+      "narration": "Eits stop dulu! Kamu bakal kaget kalau stand mixer sekuat ini hanya pakai daya cuma seratus delapan puluh watt."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide menampilkan HAN RIVER Stand Mixer HRDDQ03WT Putih di atas meja dapur yang estetik, lalu zoom in ke body mesin.",
+      "narration": "Perkenalkan, ini HAN RIVER Stand Mixer seri HRDDQ03WT warna putihnya. Desainnya literally so cute banget dan kokoh, plus mesinnya super kuat buat bikin kue."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek transisi cepat, diikuti shot tangan memegang mesin.",
+      "narration": "Gila sih, harganya cuma seratus sembilan puluhan ribu aja! Which is worth it banget kalau dipikirin kualitasnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan kaki mesin yang bisa naik turun, kanan tunjukkan kepala mixer bisa diputar 360 derajat.",
+      "narration": "First, dudukannya bisa disetel ke atas jadi nggak perlu cabut mixer pas mau keluarin drum. Second, kepala mixer bisa diputar三百六十 derajat. Third, meski hemat listrik tapi fungsional banget buat segala jenis adonan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat: seseorang membuat kue ulang tahun, brownies, dan tart dengan senyum senang.",
+      "narration": "Perfect buat kamu yang hobi bikin katering di rumah atau kalau aktivitas kamu sering main dapur bikin jajanan enak."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.71 bintang dan angka 30.000 terjual, lalu teks kutipan muncul di bawah.",
+      "narration": "Rating empat koma tujuh satu dengan tiga puluh ribuan terjual. Yang udah beli bilang, kokoh dan hemat listrik tapi fungsional."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi tombol 'Cek Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#HANRIVER",
+    "#StandMixer",
+    "#DapurEstetik",
+    "#KueKeren",
+    "#HematListrik",
+    "#ViralProduk",
+    "#CookingTime",
+    "#FindingId"
+  ],
+  "product_id": 21133,
+  "product_title": "HAN RIVER Stand Mixer HRDDQ03WT Putih",
+  "product_price": "198980.00",
+  "product_rating": "4.71",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21133.jpg",
+    "/uploads/products/21133_1.jpg",
+    "/uploads/products/21133_2.jpg",
+    "/uploads/products/21133_3.jpg",
+    "/uploads/products/21133_4.jpg",
+    "/uploads/products/21133_5.jpg",
+    "/uploads/products/21133_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/21133",
+  "generated_at": "2026-03-14T16:40:28.392Z"
+}

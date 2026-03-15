@@ -1,0 +1,83 @@
+{
+  "title": "Treadmill Lipat Murah? Worth It Banget!",
+  "hook_text": "Treadmill 1.4 juta?? No cap!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up treadmill yang sedang dilipat dengan cepat di tengah ruangan sempit",
+      "narration": "Gila sih bestie, treadmill listrik seharga seratus empat ratus ribu-an doang?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat orang jogging santai di rumah, lalu transisi ke tampilan model Treadmill RP7H atau RP8H+",
+      "narration": "Ini beneran bro, bukan main-main. Model Treadmill RP7H, RP8H Pro, sampe RP9H Pro semua tersedia. Basically next level buat yang mau lari di rumah tanpa perlu gym gede."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar di layar dengan efek uang jatuh, lalu perbandingan visual treadmill mahal vs murah",
+      "narration": "Bayangin dapet mesin olahraga kayak gini cuma seratus empat ratus ribu-an. Biasanya treadmill beginian harganya masuk ke angka satu jutaan, nah ini literally worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Seseorang mengangkat treadmill dengan satu tangan, 2. Seseorang lari di rumah, 3. Detail layar digital",
+      "narration": "Pertama, lipatannya super mudah, bisa dipindah-pindah dikamar tanpa ribet. Kedua, cocok banget buat pemula yang baru mau mulai olahraga biar nggak pusing. Ketiga, fiturnya lengkap tapi desainnya simple dan bersih, nggak bikin ruangan terlihat penuh sesak."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Kliping orang sibuk kerja lalu langsung lari di treadmill di sudut ruangan kecil",
+      "narration": "Perfect buat kamu yang aktivitasnya sering duduk lama, atau yang rumahnya nggak sempit. Kalau kamu sering ngeluh capek tapi pengen tetap fit, ini solusi terbaiknya tanpa harus keluar rumah."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.88 dan angka 20.000 terjual, lalu muncul quote bubble",
+      "narration": "Pembelinya pada ngomong, 'bagus banget warnanya bersih dan gampang dipindah-pindah'. Duh, emang beneran kayak gitu!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul besar dengan arrow pointing down",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#TreadmillMurah",
+    "#OlahragaDiRumah",
+    "#GenZFitness",
+    "#FindingID",
+    "#TreadmillLipat",
+    "#GymAtHome",
+    "#HematUang",
+    "#ViralShops"
+  ],
+  "product_id": 133239,
+  "product_title": "TWEN RP7 New RP7H New RP7s RP7sH ISmart Plus RP8 RP8H+ RP8H Pro RP9H Pro Treadmill Listrik Treadmill Portable Walking Pad Running Pad Treadmill Lipat Alat Olahraga",
+  "product_price": "1400000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/133239.jpg",
+    "/uploads/products/133239_1.jpg",
+    "/uploads/products/133239_2.jpg",
+    "/uploads/products/133239_3.jpg",
+    "/uploads/products/133239_4.jpg",
+    "/uploads/products/133239_5.jpg",
+    "/uploads/products/133239_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/133239",
+  "generated_at": "2026-03-14T09:03:41.481Z"
+}

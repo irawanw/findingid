@@ -1,0 +1,82 @@
+{
+  "title": "Sweatpants Fleece Bestie! 🖤 Worth It?",
+  "hook_text": "Bahan tebal tapi lembut gila!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tangan mengusap bagian dalam celana fleece yang terlihat sangat empuk, transisi cepat ke model memakai celana baggy. ",
+      "narration": "Stop scrolling bestie! Kamu pasti nggak bakal percaya sama bahannya, literally so soft tapi nggak tipis kayak yang kamu bayangin."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide menampilkan model dengan pose santai, zoom in ke detail oval logo dan karet di depan. ",
+      "narration": "Ini Poser Club Sweatpants dengan fit baggy yang super kece buat hangout atau daily wear. Material fleece soft 280 sampai 300 gram, which is basically next level untuk ketebalan dan kehangatan, nggak bakal bikin kamu kedinginan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar: 'Hanya Seratus Dua Puluan-an Ribu!', ilustrasi celana dengan stiker gratis. ",
+      "narration": "Nggak percaya sih, tapi harganya cuma seratus dua puluhan ribu perak. Untuk kualitas fleece gini plus gratis stiker pack, honestly worth it banget dong bestie, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: 1. Model membal badan, 2. Close up tekstur, 3. Shot warna-warni (Grey, Black, Blue, Green). ",
+      "narration": "Pertama, bahannya fleece soft yang adem tapi hangat, cocok buat iklim kita. Kedua, fit baggy yang bikin kamu kelihatan lebih tinggi dan gaeng banget. Ketiga, pilihan warna lengkap dari Grey Misty, Black, Steel Blue, sampai Sage Green yang super aesthetic, basically bisa jadi outfit andalanmu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang jalan santai di mall atau nongkrong, lalu transisi ke model sedang duduk. ",
+      "narration": "Perfect buat kamu yang suka gaya santai tapi tetap stylish, atau kalau kamu sering nongkrong seharian dan butuh kenyamanan maksimal. Tinggal pilih ukuran M untuk tinggi 165 sampai 174 dengan lingkar pinggang 60 sampai 95, basically fit banget!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.87 bintang dan angka 20.000 terjual, muncul teks kutipan pembeli. ",
+      "narration": "Rating 4.87 dari dua puluh ribu produk terjual, yang udah beli bilang 'SUKAAAA!! ga expect bahannya tebel tp nyaman bgt'. Senget kan?"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi tombol beli yang ditekan. ",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#PoserClub",
+    "#Sweatpants",
+    "#BaggyFit",
+    "#OOTD",
+    "#GenZStyle",
+    "#AffordableFashion",
+    "#FleeceLove",
+    "#WorthIt"
+  ],
+  "product_id": 131767,
+  "product_title": "POSER CLUB SWEATPANTS | OVAL LOGO | BAGGY FIT",
+  "product_price": "118485.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/131767.jpg",
+    "/uploads/products/131767_1.jpg",
+    "/uploads/products/131767_2.jpg",
+    "/uploads/products/131767_3.jpg",
+    "/uploads/products/131767_4.jpg",
+    "/uploads/products/131767_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/131767",
+  "generated_at": "2026-03-14T11:49:52.820Z"
+}

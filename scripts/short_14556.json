@@ -1,0 +1,94 @@
+{
+  "title": "Karpet Turki Viral Sisa Export Dubai!",
+  "hook_text": "Karpet 2 meter cuma segini?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan karpet digulung lalu dibuka lebar dengan efek zoom in cepat",
+      "narration": "Karpet ukuran gede cuma lima puluhan ribuan? Emang nggak bohong, bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk terlihat mewah di ruang tamu, kamera bergerak lambat",
+      "narration": "Ini Karpet Turki Ostrich Jazmine, sisa export Dubai yang lagi viral banget di mana-mana."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek suara koin",
+      "narration": "Harganya mulai lima puluhan sampe delapan puluhan ribuan doang. Literally worth it banget buat ukuran 190x240cm."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase 3 fitur: tekstur bahan, motif, dan packing kotak",
+      "narration": "Bahannya non-woven yang nggak berbulu, nyaman banget diinjak kaki. Ada banyak motif dari Marwah sampai Batik, which is so aesthetic! --- Kualitas export dengan packing aman dan pengiriman cepat."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: anak kos rapiin kamar, lalu orang main di karpet",
+      "narration": "Perfect buat kamu yang punya budget terbatas tapi pengen rumah kelihatan mahal, atau buat dekorasi acara sementara, kamar kos, bahkan buat piknik santai."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.8 dan angka 100.000 terjual besar-besar",
+      "narration": "Rating 4,8 bintang, udah terjual seratus ribu produk! Yang udah beli bilang 'sesuai harga, makasih seller'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, ada review produk-nya di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, ada review produk-nya di sana!",
+  "hashtags": [
+    "#KarpetTurki",
+    "#KarpetMurah",
+    "#InteriorRumah",
+    "#ViralIndonesia",
+    "#DekorasiRumah",
+    "#Findid",
+    "#OstrichJazmine",
+    "#HomeDecor"
+  ],
+  "product_id": 14556,
+  "product_title": "Karpet Turki Ostrich Jazmine 190x240cm Sisa Ekspor Dubai Permadani Turkey Turky Kualitas Export",
+  "product_price": "77899.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/14556.jpg",
+    "/uploads/products/14556_1.jpg",
+    "/uploads/products/14556_2.jpg",
+    "/uploads/products/14556_3.jpg",
+    "/uploads/products/14556_4.jpg",
+    "/uploads/products/14556_5.jpg",
+    "/uploads/products/14556_6.jpg",
+    "/uploads/products/14556_7.jpg",
+    "/uploads/products/14556_8.jpg",
+    "/uploads/products/14556_9.jpg",
+    "/uploads/products/14556_10.jpg",
+    "/uploads/products/14556_11.jpg",
+    "/uploads/products/14556_12.jpg",
+    "/uploads/products/14556_13.jpg",
+    "/uploads/products/14556_14.jpg",
+    "/uploads/products/14556_15.jpg",
+    "/uploads/products/14556_16.jpg",
+    "/uploads/products/14556_17.jpg"
+  ],
+  "product_link": "https://finding.id/p/14556",
+  "generated_at": "2026-03-13T21:54:07.708Z"
+}

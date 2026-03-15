@@ -1,0 +1,85 @@
+{
+  "title": "Cushion High Coverage Dewy Finish Seribu-an?!",
+  "hook_text": "Stop scroll! Cushion ini harganya gimana?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up cushion ditempel di wajah dengan efek zoom in cepat dan musik trending",
+      "narration": "Eits jangan scroll dulu bestie! Kamu pasti nggak bakal percaya sama harga cushion foundation high coverage ini."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilkan produk OMG Coverlast Cushion berjejer di atas meja kayu dengan pencahayaan natural yang estetik",
+      "narration": "Perkenalkan OMG Coverlast Cushion, foundation cushion yang ngerjain banget! Literally next level buat kamu yang cari coverage tinggi tapi hasilnya tetap natural."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi teks harga membesar dengan efek confetti dan jari menunjuk ke label harga",
+      "narration": "Gila sih, kamu bisa dapet semuanya ini cuma dengan lima puluh sembilan ribuan aja! Which is worth it banget dibanding brand lain yang harganya satu jutaan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tekstur cushion dioles, before-after menyamarkan noda, dan timer 12 jam",
+      "narration": "Keunggulan utamanya? High coverage yang bisa nyamarin kemerahan dan bekas jerawat sampe hilang. Finishnya dewy glow yang nggak bikin wajah terlihat cakey, plus tahan lama hingga dua belas jam tanpa oksidasi. Basically, makeup kamu bakal awet seharian nggak luntur!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model wanita sedang pergi kerja atau nongkrong di kafe dengan makeup flawless",
+      "narration": "Perfect buat kamu yang aktivitasnya padat seharian atau yang sering ngerasa makeup cepat pudar. Kalau kulit kamu butuh penyamaran maksimal tapi tetap ingin terlihat fresh, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating bintang 4.88 dan angka 20.000 terjual dengan background positif review",
+      "narration": "Bukti nyata ada nih, rating empat koma delapan delapan dengan dua puluh ribuan terjual. Yang udah beli bilang cushionnya gong banget dan coveragenya mantul!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul dengan animasi klik dan logo produk",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#OMGCoverlast",
+    "#CushionIndonesia",
+    "#HighCoverage",
+    "#DewyFinish",
+    "#SkincareHacks",
+    "#MakeupViral",
+    "#BeautyHacksID",
+    "#SerbuKeranjang"
+  ],
+  "product_id": 100945,
+  "product_title": "SUMBER AYU | OMG Oh My Glam Coverlast Cushion 15g - Cushion Foundation Concealer Skin Tint Make Up - High Coverage Dewy Finish - Poreless Cushion - Glow Cushion - Tahan Lama Hingga 12 Jam Tanpa Oksidasi - Menyamarkan Kemerahan, Bekas Jerawat",
+  "product_price": "59900.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100945.jpg",
+    "/uploads/products/100945_1.jpg",
+    "/uploads/products/100945_2.jpg",
+    "/uploads/products/100945_3.jpg",
+    "/uploads/products/100945_4.jpg",
+    "/uploads/products/100945_5.jpg",
+    "/uploads/products/100945_6.jpg",
+    "/uploads/products/100945_7.jpg",
+    "/uploads/products/100945_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/100945",
+  "generated_at": "2026-03-14T06:57:27.244Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Tas Jenye Viral 199 Ribu, Worth It Gak?",
+  "hook_text": "Tas Seharga 199 Ribu Tapi Kayak Jutaan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tas MOSSDOOM yang dipegang estetik dengan pencahayaan dramatis, lalu transisi cepat ke wajah kreator yang kaget.",
+      "narration": "Bestie, percaya gak sih kalau tas seharga seratus sembilan puluh ribuan ini keliatannya literally next level banget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk MOSSDOOM dipegang berputar menunjukkan detail jahitan dan bahan premium, lalu ditunjukkan bisa dipakai sebagai sling bag dan clutch.",
+      "narration": "Ini dia MOSSDOOM Tas Wanita Jenye yang lagi hits parah. Desainnya menarik banget dengan bahan premium yang bikin kamu auto pede, which is worth it banget buat daily outfit kamu!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay besar angka '199 RIBUAN' muncul di tengah layar sambil kreator menunjuk tas dengan gestur kaget.",
+      "narration": "Dan yang bikin kaget, harganya cuma seratus sembilan puluh ribuan doang! Literally harga oke banget buat dapet tas yang kualitasnya bisa jadi duet sama tas mahal."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Zipper ditutup rapat, 2. Tas dipakai sebagai sling bag, 3. Tas dilipat jadi clutch di atas meja.",
+      "narration": "Fiturnya super lengkap, bestie. Pertama, ada zipper yang bikin barang aman banget dari jatuh. Kedua, convertible jadi sling bag atau clutch yang serba bisa. Ketiga, warnanya easy to match dengan color code outfit kamu yang mana itu literally super duper praktis!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Kreator sedang jalan santai di mall lalu duduk di cafe sambil pakai tas tersebut sebagai clutch.",
+      "narration": "Tas ini perfect banget buat kamu yang sering nge-kombinasi outfit warna-warni, atau yang butuh satu tas buat berbagai acara dari ngampus sampai kafean."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks overlay rating 4.87 dan angka 40.000 terjual muncul di samping wajah kreator yang tersenyum puas.",
+      "narration": "Ratingnya 4.87 dari empat puluh ribu pembeli! Yang udah beli bilang desainnya menarik dan bahannya premium banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Kreator menunjuk ke arah tombol atau layar kosong, teks 'finding.id' muncul besar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#TasWanita",
+    "#MOSSDOOM",
+    "#TasViral",
+    "#OOTDIndonesia",
+    "#TasMurah",
+    "#GenZStyle",
+    "#TasSelempang",
+    "#FindIt"
+  ],
+  "product_id": 171425,
+  "product_title": "MOSSDOOM Tas Wanita Jenye Bag Tas Selempang Wanita",
+  "product_price": "199000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/171425.jpg",
+    "/uploads/products/171425_1.jpg",
+    "/uploads/products/171425_2.jpg",
+    "/uploads/products/171425_3.jpg",
+    "/uploads/products/171425_4.jpg",
+    "/uploads/products/171425_5.jpg",
+    "/uploads/products/171425_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/171425",
+  "generated_at": "2026-03-15T16:34:39.559Z"
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Tongsis 1,7m + LED? Worth It Banget!",
+  "hook_text": "STOP SCROLL! Ini Tongsis Next Level",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up cepat tongsis dipegang sambil tunjuk LED-nya nyala, lalu zoom out ke wajah creator yang ekspresif",
+      "narration": "Eits stop scroll dulu dong! Kamu tau gak kalau tongsis biasa bisa bikin kontenmu jadi bosenan? Padahal kalau diganti yang punya fitur LED dan Bluetooth, literally next level bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide menunjukkan tongsis berdiri kokoh di tengah ruangan, lalu transisi cepat tunjuk remote Bluetooth dan tombol LED",
+      "narration": "Kenalan nih sama Tongsis Tripod 1,7 Meter! Bahan stainless steel sama plastik ABS bikin dia super kokoh tapi nggak berat banget. Plus ada lampu LED 360 derajat dan remot Bluetooth jangkauan 10 meter, which is worth it banget buat vlog atau live streaming!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri gambar tongsis lengkap, kanan teks harga besar dengan efek 'POOF', lalu tunjuk harga terendah di layar",
+      "narration": "Nah ini part paling bikin kaget! Seharusnya barang segini harganya pasti satu jutaan kan? Guess what? Dia cuma dijual empat puluhan ribu aja! Secara kualitasnya nggak main-main, basically no cap ini steal banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Tunjuk sambungan logam yang mulus, 2. Tunjuk remote di tangan sambil tunjuk HP jauh-jauh, 3. Tunjuk cahaya LED menerangi wajah",
+      "narration": "First, bahannya premium jadi nggak gampang goyang. Second, remot Bluetooth-nya bisa nyampe 10 meter, jadi kamu bisa ambil video dari jauh tanpa ribet. Third, lampu LED-nya bisa berputar 360 derajat, pencahayaan jadi optimal banget buat foto atau rekaman malam hari tanpa perlu cari sorotan!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Simulasi: Creator lagi selfie di kamar, lalu lagi live streaming sambil tunjuk remot di tangan",
+      "narration": "Perfect buat kamu yang sering bikin konten TikTok, Reels, atau mau mulai streaming tapi takut tangan gemeter. Kalau aktivitas kamu butuh stabilitas tinggi dan pencahayaan pas, ini definitely the one yang harus kamu punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.85 bintang besar, lalu muncul teks '20.000+ Terjual' dengan animasi counter, lalu kutipan muncul di layar",
+      "narration": "Emang beneran worth it? Katanya sih nggak! Rating 4.85 dari dua puluh ribu produk yang udah terjual. Yang udah beli bilang 'Desain bagus kuat dan kokoh, berfungsi dengan baik'!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Creator tunjuk ke arah layar (bukan deskripsi) sambil tersenyum lebar, teks 'Cek finding dot id' muncul",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id ya bestie!",
+  "hashtags": [
+    "#TongsisViral",
+    "#KontenKreator",
+    "#GadgetMurah",
+    "#SelfieTips",
+    "#LiveStreaming",
+    "#FYP",
+    "#GenZIndonesia",
+    "#FindingID"
+  ],
+  "product_id": 79235,
+  "product_title": "Tongsis Tripod 1,7 Meter Bluetooth + LED Lights 360 Aluminium Steel Stick Selfie Vlog Live Stand Phone",
+  "product_price": "48000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/79235.jpg",
+    "/uploads/products/79235_1.jpg",
+    "/uploads/products/79235_2.jpg"
+  ],
+  "product_link": "https://finding.id/p/79235",
+  "generated_at": "2026-03-14T19:54:55.441Z"
+}

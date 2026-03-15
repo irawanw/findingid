@@ -1,0 +1,88 @@
+{
+  "title": "MS GLOW Paket Wajah: Murah & Ampuh?",
+  "hook_text": "Mau kulit glowing tapi budget masih pas-pasan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah bercahaya dengan efek cahaya lembut dan teks overlay besar",
+      "narration": "Mau kulit glowing tapi budget masih pas-pasan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tampilkan kotak paket MS GLOW lengkap dengan pouch bonus dan produk mini",
+      "narration": "Ini MS GLOW Paket Wajah lengkap, bonus pouch eksklusif plus produk mini essencenya yang super kawaii --- bestie!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga diskon dengan efek uang terbang dan teks harga besar",
+      "narration": "Harganya cuma di kisaran dua ratus lima puluhan ribuan doang --- which is literally worth it banget buat kualitas selevel ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase varian produk, ikon ibu hamil, dan proses scan barcode di pouch",
+      "narration": "Aman buat bumil dan busui, ada varian khusus kulit kusam atau flek. Kualitas premium yang nggak bikin dompet sakit, jangan lupa cek keaslian lewat barcode di pouch-nya dong."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita sedang apply skincare dan tersenyum puas di cermin",
+      "narration": "Perfect buat kamu kulit normal sampai berminyak, lagi cari solusi bekas jerawat tanpa bikin dompet boncos."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 5 dan angka 900k terjual dengan animasi cepat",
+      "narration": "Terjual 900 ribu produk rating 4,88 --- yang udah beli bilang, 'Udah ada perubahan udah abis 4 paket'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke arah link",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, ada review lengkap produk-nya di sana."
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, ada review lengkap produk-nya di sana.",
+  "hashtags": [
+    "#skincaremurah",
+    "#MSGLOW",
+    "#skincareviral",
+    "#skincareroutine",
+    "#kulitglowing",
+    "#fyp",
+    "#rekomendasiskincare",
+    "#wajahglowing"
+  ],
+  "product_id": 100573,
+  "product_title": "MS GLOW PAKET WAJAH  bonus produk DTA MINI / ELIXIR & pouch",
+  "product_price": "255000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100573.jpg",
+    "/uploads/products/100573_1.jpg",
+    "/uploads/products/100573_2.jpg",
+    "/uploads/products/100573_3.jpg",
+    "/uploads/products/100573_4.jpg",
+    "/uploads/products/100573_5.jpg",
+    "/uploads/products/100573_6.jpg",
+    "/uploads/products/100573_7.jpg",
+    "/uploads/products/100573_8.jpg",
+    "/uploads/products/100573_9.jpg",
+    "/uploads/products/100573_10.jpg",
+    "/uploads/products/100573_11.jpg"
+  ],
+  "product_link": "https://finding.id/p/100573",
+  "generated_at": "2026-03-13T16:49:21.860Z"
+}

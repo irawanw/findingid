@@ -1,0 +1,84 @@
+{
+  "title": "Kemeja Jeans Pria Best Seller Ini Bikin Kamu Ganteng!",
+  "hook_text": "Stop scrolling! Kemeja denim ini nampol banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan kemeja denim diputar cepat di berbagai warna dengan musik upbeat, lalu transisi ke wajah model yang menatap kamera",
+      "narration": "Stop scrolling bestie! Kamu nggak bisa lewat begitu saja kalau udah liat kemeja denim ini yang literally bikin outfit kamu next level!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close up detail jahitan dan tekstur kain denim, lalu zoom out menampilkan model mengenakan kemeja tersebut",
+      "narration": "Ini kemeja jeans lengan pendek dari brand Bandung asli, bahannya adem dan nggak gampang luntur, which is worth it banget buat kamu yang cari gaya kasual tapi tetap keren."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan harga dan jumlah terjual, dengan efek animasi angka naik turun",
+      "narration": "Gila sih harganya cuma seratus dua belas sampai seratus lima puluh tujuh ribuan, tapi udah dapet kualitas premium dan udah laku dua puluh ribu produk!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: model memutar badan menunjukkan kepasangan baju, close up warna-warni, dan model mengayunkan tangan menunjukkan fleksibilitas bahan",
+      "narration": "Fiturnya super lengkap, pertama pas banget di badan nggak kependekan juga nggak kepanjangan, kedua tersedia banyak warna keren kayak snow dan model lain, ketiga bahan denimnya nyaman dipakai seharian terus jahitannya standar distro yang rapi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario model mengenakan kemeja saat nongkrong di kafe dan saat jalan-jalan sore, suasana santai dan fun",
+      "narration": "Perfect buat kamu yang sering nongkrong bareng teman atau mau tampil beda saat jalan sore, basically cocok buat semua pria yang mau kelihatan ganteng dan nyaman."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.85 bintang dan teks kutipan pembeli muncul di tengah layar",
+      "narration": "Rating empat koma delapan lima dan pembelinya pada ngomong kalau bahannya bagus dan pas sekali di badan!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar finding dot id muncul dengan animasi panah menunjuk ke bawah, latar belakang kemeja denim terbaik",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap dan review di finding dot id!",
+  "hashtags": [
+    "#KemejaDenim",
+    "#OOTDPria",
+    "#FashionIndonesia",
+    "#GantengBanget",
+    "#DenimStyle",
+    "#BestSeller",
+    "#CekFindingID",
+    "#OOTD"
+  ],
+  "product_id": 115554,
+  "product_title": "Kemeja jeans / denim lengan pendek pria terpopuler",
+  "product_price": "122000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/115554.jpg",
+    "/uploads/products/115554_1.jpg",
+    "/uploads/products/115554_2.jpg",
+    "/uploads/products/115554_3.jpg",
+    "/uploads/products/115554_4.jpg",
+    "/uploads/products/115554_5.jpg",
+    "/uploads/products/115554_6.jpg",
+    "/uploads/products/115554_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/115554",
+  "generated_at": "2026-03-15T00:12:41.137Z"
+}

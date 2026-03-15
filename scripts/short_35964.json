@@ -1,0 +1,82 @@
+{
+  "title": "Beli 1 Bantal Gratis Guling! 😱 Tokyo Foam",
+  "hook_text": "GRATIS GULING BANGET!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tangan meraih bantal memory foam yang empuk lalu muncul teks besar 'GRATIS GULING?'",
+      "narration": "Stop scroll dulu bestie! Kamu pasti nggak bakal percaya kalau bisa dapet bantal dan guling sekenyang ini cuma beli satu."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat: Bantal Memory Foam Tokyo Foam dipencet lalu kembali ke bentuk semula, transisi ke tumpukan 1+1.",
+      "narration": "Ini bantal Memory Foam dari Tokyo Foam yang bahannya super padat dan empuk banget. Nah, yang bikin gila adalah promo belinya satu langsung dapat tambahan bantal atau guling gratis!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek pop-up, lalu muncul ikon hati atau bintang rating.",
+      "narration": "Gila sih harganya cuma seratus delapan puluhan ribu aja ya! Dengan kualitas bahan memory foam premium yang nggak bakal kempes gampang, ini deal yang worth it banget no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: A) Bantal dipencet (empuk), B) Guling digulung (padat), C) Bantal ditaruh di kasur rapi.",
+      "narration": "Pertama, bahannya memory foam yang bikin leher nggak sakit lagi, literally next level nyaman. Kedua, ukurannya pas banget empat puluh lima kali enam puluh lima sentimeter untuk bantal dan delapan puluh sentimeter untuk gulingnya. Ketiga, desain motif randomnya super estetik dan bikin kamar jadi lebih fresh."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene orang muda tidur pulas di siang hari lalu beralih ke scene orang WFH di sore hari.",
+      "narration": "Perfect buat kamu yang sering begadang ngerjain tugas atau kalau aktivitas kamu main HP seharian sampai leher kaku. Ini solusi biar tidurmu lebih nyenyak dan bangun pagi dengan energi positif."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.86 bintang, angka 20.000 terjual, dan bubble chat muncul.",
+      "narration": "Nggak main-main ya, rating empat koma delapan enam dengan dua puluh ribu produk yang udah terjual. Yang udah beli bilang bantal dan gulingnya bener bener padat dan empuk."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh dengan logo finding.id dan panah menunjuk ke bawah, teks 'CEK DI SINI' muncul.",
+      "narration": "Penasaran sama varian lengkapnya? Cek di finding dot id ya bestie, detail promo dan cara pilih barang ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#TokyoFoam",
+    "#BantalMemoryFoam",
+    "#PromoKekinian",
+    "#BelanjaOnline",
+    "#KenyamananTidur",
+    "#GenZMustHave",
+    "#ViralProduct",
+    "#FindingId"
+  ],
+  "product_id": 35964,
+  "product_title": "Promo Bantal Guling Memory Foam beli 1 BANTAL Gratis 1 GULING by Tokyo Foam",
+  "product_price": "86900.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/35964.jpg",
+    "/uploads/products/35964_1.jpg",
+    "/uploads/products/35964_2.jpg",
+    "/uploads/products/35964_3.jpg",
+    "/uploads/products/35964_4.jpg",
+    "/uploads/products/35964_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/35964",
+  "generated_at": "2026-03-14T16:03:40.029Z"
+}

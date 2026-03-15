@@ -1,0 +1,83 @@
+{
+  "title": "Serum Pencerah Murah Meriah! SKIN1004",
+  "hook_text": "Kulit kusam parah? Gak perlu mahal kok!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kusam yang terlihat lelah, transisi cepat ke wajah glowing.",
+      "narration": "Ada masalah sama kulit kusam parah? --- Nggak perlu keluar duit banyak kok bestie, serius!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan botol serum SKIN1004 dengan pencahayaan cinematic dan logo brand jelas.",
+      "narration": "Kenalin nih SKIN1004 Madagascar Centella Ampoule. --- Kandungan Centella Asiaticanya literally next level banget buat nge-soothe kulit sensitif."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar sambil tangan memegang botol ampoule.",
+      "narration": "Harganya cuma seratus empat puluhan ribu doang. --- Buat volume lima puluh ml, which is worth it banget kan, guys?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi tekstur serum di tangan yang cepat meresap, tidak lengket.",
+      "narration": "Teksturnya ringan banget, cepet meresap dan nggak bikin lengket sama sekali, promise! --- Efektif ngecerahin dan pudarin dark spot. --- Aman buat semua jenis kulit termasuk yang sensitif, no cap!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang beraktivitas di bawah matahari lalu memakai serum dengan nyaman.",
+      "narration": "Kalau kamu sering nongkrong di bawah matahari atau punya noda hitam membandel banget. --- Perfect buat yang cari pencerah bertekstur ringan tanpa rasa lengket."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan angka penjualan 40.000 di layar.",
+      "narration": "Ratingnya empat koma sembilan empat plus udah terjual empat puluh ribu produk. --- Yang udah beli bilang \"Mudah meresap dan nggak begitu lengket, asli!\""
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks 'finding dot id' muncul besar dengan panah mengarah ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produknya ada di sana, siap bestie!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#Skin1004",
+    "#SkincareMurah",
+    "#PencerahWajah",
+    "#Centella",
+    "#KulitSensitif",
+    "#SkincareViral",
+    "#ViralProduct",
+    "#FindingID"
+  ],
+  "product_id": 100555,
+  "product_title": "SKIN1004 Madagascar Centella Tone Brightening Capsule Ampoule 50ml",
+  "product_price": "148322.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100555.jpg",
+    "/uploads/products/100555_1.jpg",
+    "/uploads/products/100555_2.jpg",
+    "/uploads/products/100555_3.jpg",
+    "/uploads/products/100555_4.jpg",
+    "/uploads/products/100555_5.jpg",
+    "/uploads/products/100555_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100555",
+  "generated_at": "2026-03-13T18:05:33.179Z"
+}

@@ -1,0 +1,2290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>finding.id — Admin</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Syne:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+/* ── Reset & vars ─────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:        #0f0a06;
+  --bg-1:      #1a1009;
+  --bg-2:      #231508;
+  --side:      #130c05;
+  --side-line: #2e1d0e;
+  --panel:     #1e1208;
+  --panel-2:   #261708;
+  --line:      #3a2210;
+  --line-2:    #4a2e16;
+
+  --ink:       #f5e6d3;
+  --ink-2:     #c4956a;
+  --ink-3:     #8a5f3c;
+  --ink-4:     #5a3a1e;
+
+  --accent:    #f97316;
+  --accent-h:  #fb923c;
+  --accent-d:  #c2410c;
+  --accent-glow: rgba(249,115,22,0.18);
+
+  --ok:        #4ade80;
+  --ok-bg:     rgba(74,222,128,0.10);
+  --ok-line:   rgba(74,222,128,0.25);
+  --err:       #f87171;
+  --err-bg:    rgba(248,113,113,0.10);
+  --err-line:  rgba(248,113,113,0.25);
+  --warn:      #fbbf24;
+  --warn-bg:   rgba(251,191,36,0.10);
+  --warn-line: rgba(251,191,36,0.25);
+
+  --r:         12px;
+  --r-sm:      8px;
+  --font:      'JetBrains Mono', 'Courier New', monospace;
+  --font-d:    'Syne', var(--font);
+  --sidebar-w: 220px;
+  --header-h:  54px;
+  --transition: .16s ease;
+}
+
+html, body { height: 100%; }
+
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--ink);
+  overflow-x: hidden;
+}
+
+/* ── Scrollbar ──────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--line-2); border-radius: 99px; }
+
+/* ── Login screen ─────────────────────────────────────────── */
+#loginScreen {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: var(--bg);
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#loginScreen.active { display: flex; }
+
+.login-bg {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.login-bg::before {
+  content: '';
+  position: absolute;
+  top: -200px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 700px;
+  height: 700px;
+  background: radial-gradient(circle, rgba(249,115,22,0.12) 0%, transparent 65%);
+}
+
+.login-bg::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(249,115,22,0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(249,115,22,0.04) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.login-box {
+  position: relative;
+  z-index: 1;
+  width: min(420px, 92vw);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  padding: 38px 36px 34px;
+  box-shadow: 0 32px 80px rgba(0,0,0,0.6), 0 0 0 1px rgba(249,115,22,0.06);
+}
+
+.login-logo {
+  font-family: var(--font-d);
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--ink);
+  margin-bottom: 6px;
+}
+
+.login-logo span { color: var(--accent); }
+
+.login-sub {
+  font-size: 11px;
+  color: var(--ink-3);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.field {
+  margin-bottom: 14px;
+}
+
+.field label {
+  display: block;
+  font-size: 10px;
+  color: var(--ink-3);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 7px;
+}
+
+.field input {
+  width: 100%;
+  background: var(--bg-1);
+  border: 1px solid var(--line);
+  border-radius: var(--r-sm);
+  color: var(--ink);
+  font: inherit;
+  font-size: 13px;
+  padding: 10px 12px;
+  outline: none;
+  transition: border-color var(--transition), box-shadow var(--transition);
+  -webkit-appearance: none;
+}
+
+.field input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-glow);
+}
+
+.field input::placeholder { color: var(--ink-4); }
+
+.login-btn {
+  width: 100%;
+  margin-top: 8px;
+  padding: 11px;
+  border: none;
+  border-radius: var(--r-sm);
+  background: linear-gradient(135deg, var(--accent), var(--accent-d));
+  color: #fff;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  letter-spacing: 0.04em;
+  transition: opacity var(--transition), transform var(--transition), box-shadow var(--transition);
+  box-shadow: 0 6px 24px rgba(249,115,22,0.28);
+}
+
+.login-btn:hover:not(:disabled) {
+  opacity: .92;
+  transform: translateY(-1px);
+  box-shadow: 0 10px 30px rgba(249,115,22,0.35);
+}
+
+.login-btn:disabled { opacity: .5; cursor: not-allowed; transform: none; }
+
+.login-notice {
+  margin-top: 14px;
+  font-size: 12px;
+  border-radius: var(--r-sm);
+  border: 1px solid transparent;
+  padding: 9px 11px;
+  display: none;
+}
+
+.login-notice.error {
+  display: block;
+  background: var(--err-bg);
+  border-color: var(--err-line);
+  color: var(--err);
+}
+
+/* ── App shell ───────────────────────────────────────────── */
+#appShell {
+  display: none;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#appShell.active { display: flex; }
+
+/* ── Sidebar ─────────────────────────────────────────────── */
+.sidebar {
+  width: var(--sidebar-w);
+  min-width: var(--sidebar-w);
+  height: 100vh;
+  background: var(--side);
+  border-right: 1px solid var(--side-line);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.sidebar-head {
+  padding: 20px 18px 16px;
+  border-bottom: 1px solid var(--side-line);
+  flex-shrink: 0;
+}
+
+.brand {
+  font-family: var(--font-d);
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--ink);
+  line-height: 1;
+}
+
+.brand span { color: var(--accent); }
+
+.brand-sub {
+  font-size: 9px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-4);
+  margin-top: 5px;
+}
+
+.sidebar-nav {
+  flex: 1;
+  overflow-y: auto;
+  padding: 12px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.nav-section {
+  font-size: 9px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-4);
+  padding: 12px 8px 5px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 10px;
+  border-radius: var(--r-sm);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--ink-3);
+  text-decoration: none;
+  border: 1px solid transparent;
+  transition: background var(--transition), color var(--transition), border-color var(--transition);
+  user-select: none;
+}
+
+.nav-item:hover {
+  background: var(--bg-1);
+  color: var(--ink-2);
+}
+
+.nav-item.active {
+  background: rgba(249,115,22,0.10);
+  border-color: rgba(249,115,22,0.18);
+  color: var(--accent-h);
+}
+
+.nav-item .icon {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  opacity: .7;
+}
+
+.nav-item.active .icon { opacity: 1; }
+
+.sidebar-foot {
+  padding: 14px 10px;
+  border-top: 1px solid var(--side-line);
+  flex-shrink: 0;
+}
+
+.user-chip {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 10px;
+  border-radius: var(--r-sm);
+  border: 1px solid var(--line);
+  background: var(--bg-1);
+}
+
+.user-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--accent), var(--accent-d));
+  display: grid;
+  place-items: center;
+  font-size: 11px;
+  font-weight: 700;
+  color: #fff;
+  flex-shrink: 0;
+}
+
+.user-info { flex: 1; min-width: 0; }
+
+.user-name {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink-2);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.user-role {
+  font-size: 10px;
+  color: var(--ink-4);
+  margin-top: 1px;
+}
+
+.logout-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--ink-4);
+  padding: 4px;
+  border-radius: 6px;
+  display: grid;
+  place-items: center;
+  transition: color var(--transition);
+  flex-shrink: 0;
+}
+
+.logout-btn:hover { color: var(--err); }
+
+/* ── Main area ───────────────────────────────────────────── */
+.main-area {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+  background: var(--bg);
+}
+
+.topbar {
+  height: var(--header-h);
+  min-height: var(--header-h);
+  background: var(--bg-1);
+  border-bottom: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 22px;
+  gap: 16px;
+  flex-shrink: 0;
+}
+
+.topbar-title {
+  font-family: var(--font-d);
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+}
+
+.topbar-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.topbar-stat {
+  font-size: 11px;
+  color: var(--ink-3);
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  border-radius: 99px;
+  padding: 4px 10px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.topbar-stat strong { color: var(--accent-h); font-weight: 600; }
+
+.page-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* ── Pages ───────────────────────────────────────────────── */
+.page { display: none; flex-direction: column; gap: 16px; }
+.page.active { display: flex; }
+
+/* ── Cards / panels ─────────────────────────────────────── */
+.card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+  overflow: hidden;
+}
+
+.card-head {
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.card-title {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink-2);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.card-body { padding: 16px; }
+
+/* ── Buttons ─────────────────────────────────────────────── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid var(--line-2);
+  background: var(--panel-2);
+  color: var(--ink-2);
+  font: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: var(--r-sm);
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: background var(--transition), border-color var(--transition), color var(--transition), transform var(--transition), box-shadow var(--transition);
+  white-space: nowrap;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+
+.btn:hover:not(:disabled) {
+  background: var(--bg-2);
+  border-color: var(--accent);
+  color: var(--accent-h);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(249,115,22,0.12);
+}
+
+.btn:disabled { opacity: .4; cursor: not-allowed; transform: none !important; }
+
+.btn.primary {
+  background: linear-gradient(135deg, var(--accent), var(--accent-d));
+  border-color: var(--accent);
+  color: #fff;
+  box-shadow: 0 4px 16px rgba(249,115,22,0.22);
+}
+
+.btn.primary:hover:not(:disabled) {
+  color: #fff;
+  opacity: .9;
+  box-shadow: 0 6px 20px rgba(249,115,22,0.32);
+}
+
+.btn.danger {
+  border-color: rgba(248,113,113,0.3);
+  color: var(--err);
+  background: var(--err-bg);
+}
+
+.btn.danger:hover:not(:disabled) {
+  background: rgba(248,113,113,0.16);
+  border-color: var(--err);
+  color: #fca5a5;
+}
+
+.btn.sm {
+  padding: 5px 9px;
+  font-size: 11px;
+  border-radius: 7px;
+}
+
+/* ── Form elements ───────────────────────────────────────── */
+input[type='text'],
+input[type='number'],
+input[type='password'],
+select {
+  background: var(--bg-1);
+  border: 1px solid var(--line);
+  border-radius: var(--r-sm);
+  color: var(--ink);
+  font: inherit;
+  font-size: 12px;
+  padding: 8px 10px;
+  outline: none;
+  transition: border-color var(--transition), box-shadow var(--transition);
+  -webkit-appearance: none;
+  width: 100%;
+}
+
+input:focus, select:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-glow);
+}
+
+input::placeholder { color: var(--ink-4); }
+
+label.lbl {
+  display: block;
+  font-size: 10px;
+  color: var(--ink-3);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+input[type='checkbox'] {
+  width: 14px;
+  height: 14px;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+
+/* ── Filters grid ────────────────────────────────────────── */
+.filters-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
+  gap: 10px;
+  align-items: end;
+}
+
+.filter-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+}
+
+.filter-left, .filter-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.check-label {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 12px;
+  color: var(--ink-3);
+  cursor: pointer;
+  user-select: none;
+}
+
+/* ── Notice ──────────────────────────────────────────────── */
+.notice {
+  border-radius: var(--r-sm);
+  border: 1px solid transparent;
+  padding: 10px 13px;
+  font-size: 12px;
+  display: none;
+}
+
+.notice.active { display: block; }
+.notice.ok  { background: var(--ok-bg);   border-color: var(--ok-line);   color: var(--ok); }
+.notice.err { background: var(--err-bg);  border-color: var(--err-line);  color: var(--err); }
+.notice.info{ background: var(--warn-bg); border-color: var(--warn-line); color: var(--warn); }
+
+/* ── Table ───────────────────────────────────────────────── */
+.table-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.meta-count strong {
+  font-size: 22px;
+  color: var(--accent-h);
+  font-family: var(--font-d);
+  letter-spacing: -0.02em;
+}
+
+.meta-count span {
+  font-size: 12px;
+  color: var(--ink-3);
+  margin-left: 4px;
+}
+
+.meta-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.limit-select {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 12px;
+  color: var(--ink-3);
+}
+
+.limit-select select { width: 80px; }
+
+.selected-badge {
+  background: rgba(249,115,22,0.12);
+  border: 1px solid rgba(249,115,22,0.22);
+  color: var(--accent-h);
+  font-size: 11px;
+  padding: 3px 9px;
+  border-radius: 99px;
+  white-space: nowrap;
+}
+
+.table-wrap {
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+  background: var(--panel);
+  position: relative;
+  overflow: auto;
+  min-height: 240px;
+}
+
+.loading-cover {
+  position: absolute;
+  inset: 0;
+  background: rgba(15,10,6,0.65);
+  backdrop-filter: blur(2px);
+  display: none;
+  place-items: center;
+  z-index: 5;
+  border-radius: var(--r);
+}
+
+.loading-cover.active { display: grid; }
+
+.spinner-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--panel-2);
+  border: 1px solid var(--line-2);
+  border-radius: 99px;
+  padding: 8px 14px;
+  font-size: 12px;
+  color: var(--ink-2);
+}
+
+.spinner {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  border: 2px solid rgba(249,115,22,0.2);
+  border-top-color: var(--accent);
+  animation: spin .75s linear infinite;
+}
+
+@keyframes spin { to { transform: rotate(360deg); } }
+
+table {
+  width: 100%;
+  min-width: 1120px;
+  border-collapse: collapse;
+}
+
+thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--bg-2);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-3);
+  padding: 10px 12px;
+  text-align: left;
+  border-bottom: 1px solid var(--line);
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+tbody tr { border-bottom: 1px solid rgba(58,34,16,0.5); }
+tbody tr:last-child { border-bottom: none; }
+tbody tr:hover { background: rgba(249,115,22,0.03); }
+
+tbody td {
+  padding: 10px 12px;
+  font-size: 12px;
+  vertical-align: middle;
+  color: var(--ink);
+}
+
+.col-id { color: var(--ink-4); font-size: 11px; width: 60px; }
+
+.prod-cell { display: flex; align-items: flex-start; gap: 10px; min-width: 260px; }
+
+.thumb {
+  width: 42px;
+  height: 42px;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--bg-2);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: grid;
+  place-items: center;
+  font-size: 9px;
+  color: var(--ink-4);
+}
+
+.thumb img { width: 100%; height: 100%; object-fit: cover; }
+
+.prod-title {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--ink);
+  line-height: 1.45;
+  word-break: break-word;
+}
+
+.prod-link {
+  display: inline-block;
+  margin-top: 3px;
+  font-size: 10px;
+  color: var(--accent);
+  text-decoration: none;
+  opacity: .8;
+}
+
+.prod-link:hover { opacity: 1; text-decoration: underline; }
+
+.pill {
+  display: inline-block;
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  border-radius: 99px;
+  font-size: 10px;
+  padding: 2px 8px;
+  color: var(--ink-3);
+  max-width: 180px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  vertical-align: middle;
+}
+
+.pill.src {
+  color: var(--accent-h);
+  border-color: rgba(249,115,22,0.2);
+  background: rgba(249,115,22,0.07);
+}
+
+.status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  border-radius: 99px;
+  border: 1px solid;
+  padding: 2px 8px;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+}
+
+.status-pill .dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+}
+
+.status-pill.on  { color: var(--ok);   border-color: var(--ok-line);  background: var(--ok-bg); }
+.status-pill.on .dot  { background: var(--ok); }
+.status-pill.off { color: var(--warn); border-color: var(--warn-line); background: var(--warn-bg); }
+.status-pill.off .dot { background: var(--warn); }
+
+.muted { color: var(--ink-3); font-size: 11px; }
+
+.row-check { width: 14px; height: 14px; accent-color: var(--accent); cursor: pointer; }
+
+.pager {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.pager-info { font-size: 12px; color: var(--ink-3); min-width: 120px; text-align: center; }
+
+.empty-row td {
+  text-align: center;
+  color: var(--ink-4);
+  padding: 40px;
+  font-size: 12px;
+}
+
+/* ── RAG reindex page ────────────────────────────────────── */
+.reindex-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 14px;
+}
+
+.stat-card {
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+  padding: 20px;
+}
+
+.stat-card .value {
+  font-family: var(--font-d);
+  font-size: 34px;
+  font-weight: 700;
+  color: var(--accent-h);
+  letter-spacing: -0.03em;
+  line-height: 1;
+}
+
+.stat-card .label {
+  font-size: 11px;
+  color: var(--ink-3);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-top: 6px;
+}
+
+.reindex-log {
+  background: var(--bg-1);
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+  padding: 14px 16px;
+  font-size: 12px;
+  color: var(--ink-2);
+  min-height: 80px;
+  font-family: var(--font);
+  white-space: pre-wrap;
+  word-break: break-word;
+  line-height: 1.6;
+}
+
+.reindex-log .log-line { display: block; }
+.reindex-log .log-ok   { color: var(--ok); }
+.reindex-log .log-err  { color: var(--err); }
+.reindex-log .log-muted{ color: var(--ink-4); }
+
+.reindex-action {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+/* ── Responsive ──────────────────────────────────────────── */
+@media (max-width: 900px) {
+  :root { --sidebar-w: 58px; }
+
+  .brand-sub, .nav-item span, .user-info { display: none; }
+  .nav-item { justify-content: center; padding: 10px; }
+  .nav-item .icon { margin: 0; }
+  .sidebar-head { padding: 14px 10px; }
+  .brand { font-size: 0; }
+  .brand::before { content: 'fi'; font-size: 18px; color: var(--accent); }
+  .user-chip { justify-content: center; }
+  .user-avatar { margin: 0; }
+  .filters-grid { grid-template-columns: 1fr 1fr; }
+  .reindex-grid { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+
+<!-- ── Login screen ──────────────────────────────────────── -->
+<div id="loginScreen">
+  <div class="login-bg"></div>
+  <div class="login-box">
+    <div class="login-logo">finding<span>.</span>id</div>
+    <div class="login-sub">Admin Control Panel</div>
+
+    <div class="field">
+      <label for="loginUsername">Username</label>
+      <input id="loginUsername" type="text" autocomplete="username" placeholder="admin" />
+    </div>
+
+    <div class="field">
+      <label for="loginPassword">Password</label>
+      <input id="loginPassword" type="password" autocomplete="current-password" placeholder="••••••••••••" />
+    </div>
+
+    <button id="loginSubmitBtn" class="login-btn" type="button">Sign In</button>
+    <div id="loginNotice" class="login-notice"></div>
+  </div>
+</div>
+
+<!-- ── App shell ──────────────────────────────────────────── -->
+<div id="appShell">
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <div class="sidebar-head">
+      <div class="brand">finding<span>.</span>id</div>
+      <div class="brand-sub">Admin Panel</div>
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="nav-section">Products</div>
+
+      <a class="nav-item active" data-page="products" href="#products">
+        <svg class="icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="1" y="1" width="6" height="6" rx="1.5"/>
+          <rect x="9" y="1" width="6" height="6" rx="1.5"/>
+          <rect x="1" y="9" width="6" height="6" rx="1.5"/>
+          <rect x="9" y="9" width="6" height="6" rx="1.5"/>
+        </svg>
+        <span>All Products</span>
+      </a>
+
+      <div class="nav-section">Search Engine</div>
+
+      <a class="nav-item" data-page="reindex" href="#reindex">
+        <svg class="icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M13.5 8A5.5 5.5 0 1 1 8 2.5"/>
+          <path d="M14 2v4h-4"/>
+          <path d="M13.5 2.5 10 6"/>
+        </svg>
+        <span>Reindex RAG</span>
+      </a>
+
+      <a class="nav-item" data-page="ragdebug" href="#ragdebug">
+        <svg class="icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="7" cy="7" r="4.5"/>
+          <path d="M10.5 10.5 14 14"/>
+        </svg>
+        <span>RAG Debug</span>
+      </a>
+
+      <div class="nav-section">Content</div>
+
+      <a class="nav-item" href="/admin191/shortvideo">
+        <svg class="icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="2" y="2" width="12" height="12" rx="2"/>
+          <path d="M6.5 5.5 11 8l-4.5 2.5z"/>
+        </svg>
+        <span>Short Videos</span>
+      </a>
+
+      <div class="nav-section">Monetisation</div>
+
+      <a class="nav-item" data-page="affiliate" href="#affiliate">
+        <svg class="icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M8 1.5 10.5 6h4l-3.5 3 1.5 5L8 11.5 3.5 14l1.5-5L1.5 6h4z"/>
+        </svg>
+        <span>Affiliate Links</span>
+      </a>
+
+      <a class="nav-item" data-page="revenue" href="#revenue">
+        <svg class="icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M2 12 L5 8 L8 10 L11 5 L14 3"/>
+          <path d="M11 3 h3 v3"/>
+        </svg>
+        <span>Revenue</span>
+      </a>
+    </nav>
+
+    <div class="sidebar-foot">
+      <div class="user-chip">
+        <div class="user-avatar" id="userAvatar">A</div>
+        <div class="user-info">
+          <div class="user-name" id="userName">admin</div>
+          <div class="user-role">Administrator</div>
+        </div>
+        <button id="logoutBtn" class="logout-btn" title="Sign out">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M10 8H2M2 8l3-3M2 8l3 3"/>
+            <path d="M6 4V2.5A1.5 1.5 0 0 1 7.5 1h6A1.5 1.5 0 0 1 15 2.5v11A1.5 1.5 0 0 1 13.5 15h-6A1.5 1.5 0 0 1 6 13.5V12"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Main -->
+  <div class="main-area">
+    <header class="topbar">
+      <div class="topbar-title" id="topbarTitle">All Products</div>
+      <div class="topbar-right">
+        <div class="topbar-stat" id="topbarStat" style="display:none;">
+          Total: <strong id="topbarTotal">0</strong>
+        </div>
+      </div>
+    </header>
+
+    <div class="page-content">
+
+      <!-- ── Products page ─────────────────────────────── -->
+      <div class="page active" id="pageProdcuts">
+
+        <!-- Filters -->
+        <div class="card">
+          <div class="card-head">
+            <span class="card-title">Filters</span>
+          </div>
+          <div class="card-body">
+            <form id="filterForm" novalidate>
+              <div class="filters-grid">
+                <div>
+                  <label class="lbl" for="fQ">Name / Keyword</label>
+                  <input id="fQ" type="text" placeholder="e.g. iphone, laptop gaming…" />
+                </div>
+                <div>
+                  <label class="lbl" for="fMinPrice">Min Price (IDR)</label>
+                  <input id="fMinPrice" type="number" min="0" step="100000" placeholder="0" />
+                </div>
+                <div>
+                  <label class="lbl" for="fMaxPrice">Max Price (IDR)</label>
+                  <input id="fMaxPrice" type="number" min="0" step="100000" placeholder="any" />
+                </div>
+                <div>
+                  <label class="lbl" for="fCategory">Category</label>
+                  <select id="fCategory"><option value="">All categories</option></select>
+                </div>
+                <div>
+                  <label class="lbl" for="fSource">Source</label>
+                  <select id="fSource"><option value="">All sources</option></select>
+                </div>
+              </div>
+
+              <div class="filter-actions">
+                <div class="filter-left">
+                  <button id="applyBtn" class="btn primary" type="submit">Apply Filters</button>
+                  <button id="resetBtn" class="btn" type="button">Reset</button>
+                  <label class="check-label">
+                    <input id="fInactive" type="checkbox" /> Show inactive
+                  </label>
+                </div>
+                <div class="filter-right">
+                  <span id="selectedBadge" class="selected-badge" style="display:none;">0 selected</span>
+                  <button id="bulkDelBtn" class="btn danger" type="button" disabled>Delete Selected</button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+
+        <!-- Table notice -->
+        <div id="tableNotice" class="notice"></div>
+
+        <!-- Table -->
+        <div class="card">
+          <div class="card-head">
+            <div class="table-meta">
+              <div class="meta-count">
+                <strong id="totalCount">—</strong>
+                <span id="totalLabel">products</span>
+              </div>
+              <div class="meta-right">
+                <div class="limit-select">
+                  <span>Rows</span>
+                  <select id="limitSel">
+                    <option value="20">20</option>
+                    <option value="50">50</option>
+                    <option value="100">100</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="table-wrap" id="tableWrap">
+            <div id="loadingCover" class="loading-cover">
+              <div class="spinner-chip"><span class="spinner"></span>Loading…</div>
+            </div>
+            <table>
+              <thead>
+                <tr>
+                  <th style="width:40px;"><input id="selAll" type="checkbox" class="row-check"></th>
+                  <th>ID</th>
+                  <th>Product</th>
+                  <th>Category</th>
+                  <th>Source</th>
+                  <th>Price</th>
+                  <th>Rating / Sold</th>
+                  <th>Clicks</th>
+                  <th>Status</th>
+                  <th>Updated</th>
+                  <th style="width:90px;">Action</th>
+                </tr>
+              </thead>
+              <tbody id="tableBody"></tbody>
+            </table>
+          </div>
+
+          <div class="card-body" style="padding-top:12px;">
+            <div class="pager">
+              <button id="prevBtn" class="btn sm" type="button">← Prev</button>
+              <span id="pagerInfo" class="pager-info">Page 1 / 1</span>
+              <button id="nextBtn" class="btn sm" type="button">Next →</button>
+            </div>
+          </div>
+        </div>
+
+      </div><!-- /products page -->
+
+      <!-- ── Reindex page ──────────────────────────────── -->
+      <div class="page" id="pageReindex">
+
+        <div class="reindex-grid">
+          <div class="stat-card">
+            <div class="value" id="riActiveCount">—</div>
+            <div class="label">Active products in MySQL</div>
+          </div>
+          <div class="stat-card">
+            <div class="value" id="riQdrantCount">—</div>
+            <div class="label">Vectors in Qdrant</div>
+          </div>
+          <div class="stat-card">
+            <div class="value" id="riIndexedCount">—</div>
+            <div class="label">Indexed from MySQL</div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-head">
+            <span class="card-title">Rebuild Vector Index</span>
+          </div>
+          <div class="card-body" style="display:flex; flex-direction:column; gap:14px;">
+            <p style="font-size:12px; color:var(--ink-3); line-height:1.7;">
+              This will delete all vectors in the <code style="color:var(--accent-h); background:var(--bg-1); padding:1px 5px; border-radius:4px;">findingid</code>
+              Qdrant collection and re-embed all <strong style="color:var(--ink-2);">active</strong> products from MySQL using BGE-M3.
+              Run this after bulk deletions or any manual database changes.
+            </p>
+
+            <div class="reindex-action">
+              <button id="reindexBtn" class="btn primary" type="button">
+                <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M13.5 8A5.5 5.5 0 1 1 8 2.5"/>
+                  <path d="M14 2v4h-4"/>
+                  <path d="M13.5 2.5 10 6"/>
+                </svg>
+                Run Full Reindex
+              </button>
+              <div id="riNotice" class="notice"></div>
+            </div>
+
+            <div>
+              <label class="lbl" style="margin-bottom:8px;">Activity Log</label>
+              <div id="reindexLog" class="reindex-log"><span class="log-muted">No activity yet.</span></div>
+            </div>
+          </div>
+        </div>
+
+      </div><!-- /reindex page -->
+
+      <!-- ── RAG Debug page ────────────────────────────────── -->
+      <div class="page" id="pageRagdebug">
+        <div class="card">
+          <div class="card-head"><span class="card-title">RAG Retrieval Debugger</span></div>
+          <div class="card-body" style="display:flex;flex-direction:column;gap:12px;">
+            <div style="display:flex;gap:10px;align-items:flex-end;flex-wrap:wrap;">
+              <div style="flex:1;min-width:280px;">
+                <label class="lbl" for="ragDebugQuery">Query</label>
+                <input id="ragDebugQuery" type="text" placeholder="e.g. hp gaming, bawang goreng" />
+              </div>
+              <button id="ragDebugRunBtn" class="btn primary" type="button">Run Debug</button>
+            </div>
+            <div id="ragDebugNotice" class="notice"></div>
+            <pre id="ragDebugOut" class="reindex-log" style="max-height:460px;overflow:auto;"></pre>
+          </div>
+        </div>
+      </div><!-- /ragdebug page -->
+
+      <!-- ── Affiliate page ────────────────────────────────── -->
+      <div class="page" id="pageAffiliate">
+
+        <div class="reindex-grid">
+          <div class="stat-card">
+            <div class="value" id="affWithLink">—</div>
+            <div class="label">Products with affiliate link</div>
+          </div>
+          <div class="stat-card">
+            <div class="value" id="affWithout">—</div>
+            <div class="label">Products missing link</div>
+          </div>
+        </div>
+
+        <div style="margin-top:20px;">
+          <label class="lbl">Shopee Affiliate Cookie Session</label>
+          <p style="color:var(--ink-3);font-size:11px;margin:6px 0 12px;">
+            1. Go to <strong style="color:var(--ink-2)">affiliate.shopee.co.id</strong> (logged in)<br>
+            2. Open DevTools → Network → click any request → copy <strong style="color:var(--ink-2)">Cookie</strong> header value<br>
+            3. Also copy the <strong style="color:var(--ink-2)">csrf-token</strong> request header<br>
+            4. Paste below and save. Session persists in Redis until you clear it.
+          </p>
+
+          <div id="affSessionStatus" class="notice" style="margin-bottom:12px;display:none;"></div>
+
+          <div style="display:flex;flex-direction:column;gap:10px;max-width:700px;">
+            <div>
+              <label class="lbl" style="font-size:10px;margin-bottom:4px;">Cookie Header Value</label>
+              <textarea id="affCookieInput" rows="3" placeholder="SPC_F=...; SPC_EC=...; csrftoken=..." style="width:100%;background:var(--bg-1);border:1px solid var(--line);color:var(--ink);border-radius:var(--r-sm);padding:10px;font:inherit;font-size:11px;resize:vertical;"></textarea>
+            </div>
+            <div>
+              <label class="lbl" style="font-size:10px;margin-bottom:4px;">csrf-token Header Value <span style="color:var(--ink-4)">(optional but recommended)</span></label>
+              <input id="affCsrfInput" type="text" placeholder="D69tSCkV-..." style="width:100%;background:var(--bg-1);border:1px solid var(--line);color:var(--ink);border-radius:var(--r-sm);padding:8px 10px;font:inherit;font-size:11px;" />
+            </div>
+            <div style="display:flex;gap:10px;align-items:center;">
+              <button id="affSaveBtn" class="btn primary" type="button">Save Session</button>
+              <button id="affClearBtn" class="btn" type="button" style="opacity:.7;">Clear Session</button>
+              <div id="affSaveNotice" class="notice" style="display:none;"></div>
+            </div>
+          </div>
+
+          <div style="margin-top:24px;border-top:1px solid var(--line);padding-top:20px;">
+            <label class="lbl" style="margin-bottom:8px;">Generate Affiliate Links</label>
+            <p style="color:var(--ink-3);font-size:11px;margin-bottom:14px;">
+              Batch-processes all Shopee products missing an affiliate link. Runs 50 products per request.
+            </p>
+            <div class="reindex-action">
+              <button id="affGenBtn" class="btn primary" type="button">
+                <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M8 1.5 10.5 6h4l-3.5 3 1.5 5L8 11.5 3.5 14l1.5-5L1.5 6h4z"/>
+                </svg>
+                Generate All Missing Links
+              </button>
+              <div id="affGenNotice" class="notice" style="display:none;"></div>
+            </div>
+            <div style="margin-top:12px;">
+              <div id="affGenLog" class="reindex-log"><span class="log-muted">No activity yet.</span></div>
+            </div>
+          </div>
+        </div>
+
+      </div><!-- /affiliate page -->
+
+      <!-- ── Revenue page ──────────────────────────────────── -->
+      <div class="page" id="pageRevenue">
+
+        <div id="revNotice" class="notice" style="display:none;margin-bottom:16px;"></div>
+
+        <!-- Summary stats row -->
+        <div class="reindex-grid" style="grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:20px;">
+          <div class="stat-card">
+            <div class="value" id="revClicks24h">—</div>
+            <div class="label">Clicks today</div>
+          </div>
+          <div class="stat-card">
+            <div class="value" id="revClicksYesterday">—</div>
+            <div class="label">Clicks yesterday</div>
+          </div>
+          <div class="stat-card">
+            <div class="value" id="revAffRatio">—</div>
+            <div class="label">Affiliate-ready %</div>
+          </div>
+          <div class="stat-card">
+            <div class="value" id="revClicks7d">—</div>
+            <div class="label">Clicks (7d)</div>
+          </div>
+        </div>
+
+        <!-- Two-column: top queries + top products -->
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">
+
+          <div class="card">
+            <div class="card-head">
+              <span class="card-title">Top Queries (7d)</span>
+              <span id="revQueriesCount" style="color:var(--ink-3);font-size:11px;"></span>
+            </div>
+            <div class="card-body" style="padding:0;">
+              <table style="width:100%;border-collapse:collapse;font-size:12px;" id="revQueriesTable">
+                <thead>
+                  <tr style="border-bottom:1px solid var(--line);">
+                    <th style="padding:8px 14px;text-align:left;color:var(--ink-3);font-weight:500;">#</th>
+                    <th style="padding:8px 14px;text-align:left;color:var(--ink-3);font-weight:500;">Query</th>
+                    <th style="padding:8px 14px;text-align:right;color:var(--ink-3);font-weight:500;">Clicks</th>
+                    <th style="padding:8px 14px;text-align:right;color:var(--ink-3);font-weight:500;">Aff%</th>
+                  </tr>
+                </thead>
+                <tbody id="revQueriesTbody">
+                  <tr><td colspan="4" style="padding:16px 14px;color:var(--ink-3);">Loading…</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-head">
+              <span class="card-title">Top Products (7d)</span>
+              <span id="revProductsCount" style="color:var(--ink-3);font-size:11px;"></span>
+            </div>
+            <div class="card-body" style="padding:0;">
+              <table style="width:100%;border-collapse:collapse;font-size:12px;" id="revProductsTable">
+                <thead>
+                  <tr style="border-bottom:1px solid var(--line);">
+                    <th style="padding:8px 14px;text-align:left;color:var(--ink-3);font-weight:500;">#</th>
+                    <th style="padding:8px 14px;text-align:left;color:var(--ink-3);font-weight:500;">Product</th>
+                    <th style="padding:8px 14px;text-align:right;color:var(--ink-3);font-weight:500;">Clicks</th>
+                    <th style="padding:8px 14px;text-align:right;color:var(--ink-3);font-weight:500;">Aff</th>
+                  </tr>
+                </thead>
+                <tbody id="revProductsTbody">
+                  <tr><td colspan="4" style="padding:16px 14px;color:var(--ink-3);">Loading…</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+        </div>
+
+        <div style="margin-top:12px;text-align:right;">
+          <button id="revRefreshBtn" class="btn sm" type="button">Refresh</button>
+          <span id="revLastUpdated" style="color:var(--ink-4);font-size:11px;margin-left:10px;"></span>
+        </div>
+
+      </div><!-- /revenue page -->
+
+    </div><!-- /page-content -->
+  </div><!-- /main-area -->
+</div><!-- /appShell -->
+
+<script>
+(() => {
+  'use strict';
+
+  /* ── State ──────────────────────────────────────────────── */
+  const S = {
+    auth: false,
+    user: '',
+    page: 1,
+    limit: 20,
+    total: 0,
+    products: [],
+    selected: new Set(),
+    loading: false,
+    mutating: false,
+    noticeTimer: null,
+  };
+
+  /* ── DOM refs ───────────────────────────────────────────── */
+  const $ = id => document.getElementById(id);
+  const E = {
+    loginScreen:   $('loginScreen'),
+    appShell:      $('appShell'),
+    loginUser:     $('loginUsername'),
+    loginPass:     $('loginPassword'),
+    loginBtn:      $('loginSubmitBtn'),
+    loginNotice:   $('loginNotice'),
+    logoutBtn:     $('logoutBtn'),
+    userName:      $('userName'),
+    userAvatar:    $('userAvatar'),
+    topbarTitle:   $('topbarTitle'),
+    topbarStat:    $('topbarStat'),
+    topbarTotal:   $('topbarTotal'),
+
+    // products
+    filterForm:    $('filterForm'),
+    fQ:            $('fQ'),
+    fMin:          $('fMinPrice'),
+    fMax:          $('fMaxPrice'),
+    fCat:          $('fCategory'),
+    fSrc:          $('fSource'),
+    fInactive:     $('fInactive'),
+    applyBtn:      $('applyBtn'),
+    resetBtn:      $('resetBtn'),
+    bulkDelBtn:    $('bulkDelBtn'),
+    selectedBadge: $('selectedBadge'),
+    tableNotice:   $('tableNotice'),
+    tableWrap:     $('tableWrap'),
+    loadingCover:  $('loadingCover'),
+    tableBody:     $('tableBody'),
+    selAll:        $('selAll'),
+    totalCount:    $('totalCount'),
+    totalLabel:    $('totalLabel'),
+    limitSel:      $('limitSel'),
+    prevBtn:       $('prevBtn'),
+    nextBtn:       $('nextBtn'),
+    pagerInfo:     $('pagerInfo'),
+
+    // reindex
+    reindexBtn:    $('reindexBtn'),
+    riNotice:      $('riNotice'),
+    reindexLog:    $('reindexLog'),
+    riActiveCount:  $('riActiveCount'),
+    riQdrantCount:  $('riQdrantCount'),
+    riIndexedCount: $('riIndexedCount'),
+
+    // rag debug
+    ragDebugQuery:  $('ragDebugQuery'),
+    ragDebugRunBtn: $('ragDebugRunBtn'),
+    ragDebugNotice: $('ragDebugNotice'),
+    ragDebugOut:    $('ragDebugOut'),
+
+    // affiliate
+    affWithLink:      $('affWithLink'),
+    affWithout:       $('affWithout'),
+    affCookieInput:   $('affCookieInput'),
+    affCsrfInput:     $('affCsrfInput'),
+    affSaveBtn:       $('affSaveBtn'),
+    affClearBtn:      $('affClearBtn'),
+    affSaveNotice:    $('affSaveNotice'),
+    affSessionStatus: $('affSessionStatus'),
+    affGenBtn:        $('affGenBtn'),
+    affGenNotice:     $('affGenNotice'),
+    affGenLog:        $('affGenLog'),
+  };
+
+  /* ── Init ───────────────────────────────────────────────── */
+  bindNav();
+  bindProducts();
+  bindReindex();
+  bindRagDebug();
+  bindAffiliate();
+  bindLoginForm();
+  checkAuth();
+
+  /* ── Auth ───────────────────────────────────────────────── */
+  function checkAuth() {
+    fetch('/api/products/admin/me', { credentials: 'same-origin' })
+      .then(r => r.json())
+      .then(p => {
+        if (p.ok) enterApp(p.user?.username || 'admin');
+        else showLogin();
+      })
+      .catch(() => showLogin());
+  }
+
+  function showLogin() {
+    E.loginScreen.classList.add('active');
+    E.appShell.classList.remove('active');
+    E.loginUser.focus();
+  }
+
+  function enterApp(username) {
+    S.auth = true;
+    S.user = username;
+    E.loginScreen.classList.remove('active');
+    E.appShell.classList.add('active');
+    E.userName.textContent = username;
+    E.userAvatar.textContent = username[0].toUpperCase();
+    loadProducts({ withNotice: false });
+  }
+
+  function bindLoginForm() {
+    E.loginBtn.addEventListener('click', doLogin);
+    E.loginPass.addEventListener('keydown', e => { if (e.key === 'Enter') doLogin(); });
+    E.logoutBtn.addEventListener('click', doLogout);
+  }
+
+  async function doLogin() {
+    const username = E.loginUser.value.trim();
+    const password = E.loginPass.value;
+
+    E.loginNotice.className = 'login-notice';
+    E.loginNotice.textContent = '';
+
+    if (!username || !password) {
+      E.loginNotice.className = 'login-notice error';
+      E.loginNotice.textContent = 'Username and password are required.';
+      return;
+    }
+
+    E.loginBtn.disabled = true;
+    E.loginBtn.textContent = 'Signing in…';
+
+    try {
+      const res = await fetch('/api/products/admin/login', {
+        method: 'POST',
+        credentials: 'same-origin',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ username, password }),
+      });
+      const p = await res.json();
+
+      if (!res.ok || !p.ok) throw new Error(p.error || 'Login failed');
+      enterApp(p.user?.username || username);
+    } catch (err) {
+      E.loginNotice.className = 'login-notice error';
+      E.loginNotice.textContent = err.message || 'Login failed.';
+    } finally {
+      E.loginBtn.disabled = false;
+      E.loginBtn.textContent = 'Sign In';
+    }
+  }
+
+  async function doLogout() {
+    await fetch('/api/products/admin/logout', { method: 'POST', credentials: 'same-origin' }).catch(() => {});
+    S.auth = false;
+    S.user = '';
+    S.selected.clear();
+    showLogin();
+    E.loginUser.value = '';
+    E.loginPass.value = '';
+  }
+
+  /* ── Navigation ─────────────────────────────────────────── */
+  function bindNav() {
+    document.querySelectorAll('.nav-item[data-page]').forEach(item => {
+      item.addEventListener('click', e => {
+        e.preventDefault();
+        switchPage(item.dataset.page);
+      });
+    });
+  }
+
+  function switchPage(name) {
+    document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
+    document.querySelectorAll('.page').forEach(el => el.classList.remove('active'));
+
+    const navEl = document.querySelector(`.nav-item[data-page="${name}"]`);
+    if (navEl) navEl.classList.add('active');
+
+    const titles = { products: 'All Products', reindex: 'Reindex RAG', ragdebug: 'RAG Debug', affiliate: 'Affiliate Links', revenue: 'Revenue' };
+    E.topbarTitle.textContent = titles[name] || name;
+    E.topbarStat.style.display = name === 'products' ? '' : 'none';
+
+    if (name === 'products') {
+      $('pageProdcuts').classList.add('active');
+    } else if (name === 'reindex') {
+      $('pageReindex').classList.add('active');
+      loadReindexStats();
+    } else if (name === 'ragdebug') {
+      $('pageRagdebug').classList.add('active');
+    } else if (name === 'affiliate') {
+      $('pageAffiliate').classList.add('active');
+      loadAffiliateStats();
+    } else if (name === 'revenue') {
+      $('pageRevenue').classList.add('active');
+      loadRevenueFunnel();
+    }
+  }
+
+  /* ── Products ───────────────────────────────────────────── */
+  function bindProducts() {
+    E.filterForm.addEventListener('submit', e => {
+      e.preventDefault();
+      S.page = 1;
+      S.selected.clear();
+      loadProducts({ withNotice: true });
+    });
+
+    E.resetBtn.addEventListener('click', () => {
+      E.fQ.value = '';
+      E.fMin.value = '';
+      E.fMax.value = '';
+      E.fCat.value = '';
+      E.fSrc.value = '';
+      E.fInactive.checked = false;
+      S.page = 1;
+      S.selected.clear();
+      loadProducts({ withNotice: false });
+    });
+
+    E.limitSel.addEventListener('change', () => {
+      S.limit = Number(E.limitSel.value) || 20;
+      S.page = 1;
+      S.selected.clear();
+      loadProducts({ withNotice: false });
+    });
+
+    E.prevBtn.addEventListener('click', () => {
+      if (S.page > 1 && !S.loading) { S.page--; S.selected.clear(); loadProducts({ withNotice: false }); }
+    });
+
+    E.nextBtn.addEventListener('click', () => {
+      if (S.page < totalPages() && !S.loading) { S.page++; S.selected.clear(); loadProducts({ withNotice: false }); }
+    });
+
+    E.selAll.addEventListener('change', () => {
+      const ids = S.products.map(p => +p.id);
+      if (E.selAll.checked) ids.forEach(id => S.selected.add(id));
+      else ids.forEach(id => S.selected.delete(id));
+      renderSelUi();
+      renderRows();
+    });
+
+    E.tableBody.addEventListener('change', e => {
+      if (!e.target.classList.contains('row-check')) return;
+      const id = +e.target.dataset.id;
+      if (e.target.checked) S.selected.add(id);
+      else S.selected.delete(id);
+      renderSelUi();
+    });
+
+    E.tableBody.addEventListener('click', e => {
+      const btn = e.target.closest('[data-action="del"]');
+      if (!btn) return;
+      deleteOne(+btn.dataset.id, btn.dataset.title);
+    });
+
+    E.bulkDelBtn.addEventListener('click', deleteBulk);
+  }
+
+  function buildListUrl() {
+    const p = new URLSearchParams();
+    const q = E.fQ.value.trim();
+    if (q) p.set('q', q);
+    const cat = E.fCat.value;
+    if (cat) p.set('category', cat);
+    const src = E.fSrc.value;
+    if (src) p.set('source', src);
+    const min = E.fMin.value.trim();
+    if (min) p.set('min_price', min);
+    const max = E.fMax.value.trim();
+    if (max) p.set('max_price', max);
+    p.set('include_inactive', E.fInactive.checked ? '1' : '0');
+    p.set('page', String(S.page));
+    p.set('limit', String(S.limit));
+    return `/api/products/admin/list?${p}`;
+  }
+
+  async function loadProducts({ withNotice = false } = {}) {
+    if (S.loading) return;
+    S.loading = true;
+    setBusy(true);
+    if (withNotice) showTableNotice('info', 'Loading…');
+
+    try {
+      const res = await fetch(buildListUrl(), { credentials: 'same-origin' });
+      const data = await safeJson(res);
+
+      S.total = +data.total || 0;
+      S.products = Array.isArray(data.products) ? data.products : [];
+
+      fillSelect(E.fCat, data.categories, 'All categories');
+      fillSelect(E.fSrc, data.sources, 'All sources');
+
+      const maxP = totalPages();
+      if (S.page > maxP) { S.page = maxP; }
+
+      pruneSelection();
+      renderRows();
+      renderMeta();
+      renderPager();
+      renderSelUi();
+
+      E.topbarTotal.textContent = fmtInt(S.total);
+      E.topbarStat.style.display = '';
+
+      if (withNotice) showTableNotice('ok', `${S.products.length} products loaded.`, 2000);
+      else hideTableNotice();
+    } catch (err) {
+      S.products = [];
+      S.total = 0;
+      renderRows();
+      renderMeta();
+      renderPager();
+      renderSelUi();
+      showTableNotice('err', err.message || 'Failed to load products.', 0);
+    } finally {
+      S.loading = false;
+      setBusy(false);
+      renderPager();
+      renderSelUi();
+    }
+  }
+
+  function renderRows() {
+    if (!S.products.length) {
+      E.tableBody.innerHTML = `<tr class="empty-row"><td colspan="11">No products match current filters.</td></tr>`;
+      return;
+    }
+
+    E.tableBody.innerHTML = S.products.map(row => {
+      const id = +row.id;
+      const chk = S.selected.has(id) ? 'checked' : '';
+      const title = esc(row.title || 'Untitled');
+      const safeLink = safeUrl(row.link);
+      const safeImg  = safeUrl(row.image_url);
+      const cat  = esc(row.category || '—');
+      const src  = esc(row.source || '—');
+      const on   = +row.is_active === 1;
+
+      return `
+      <tr>
+        <td><input class="row-check" type="checkbox" data-id="${id}" ${chk}></td>
+        <td class="col-id">#${id}</td>
+        <td>
+          <div class="prod-cell">
+            <div class="thumb">${safeImg ? `<img src="${safeImg}" alt="" loading="lazy">` : 'IMG'}</div>
+            <div>
+              <div class="prod-title">${title}</div>
+              ${safeLink ? `<a class="prod-link" href="${safeLink}" target="_blank" rel="noopener noreferrer">↗ View</a>` : ''}
+            </div>
+          </div>
+        </td>
+        <td><span class="pill" title="${cat}">${cat}</span></td>
+        <td><span class="pill src">${src}</span></td>
+        <td>${fmtPrice(row.price)}</td>
+        <td>
+          <div>${fmtRating(row.rating)}</div>
+          <div class="muted">${fmtInt(row.sold_count)} sold</div>
+        </td>
+        <td>
+          <div style="font-weight:600;color:${(row.click_count||0)>0?'var(--accent)':'var(--ink-3)'};">${fmtInt(row.click_count||0)}</div>
+          ${row.affiliate_link ? '<div class="muted" style="font-size:9px;">aff ✓</div>' : '<div class="muted" style="font-size:9px;color:var(--ink-4);">no aff</div>'}
+        </td>
+        <td><span class="status-pill ${on ? 'on' : 'off'}"><span class="dot"></span>${on ? 'Active' : 'Inactive'}</span></td>
+        <td class="muted">${fmtDate(row.updated_at)}</td>
+        <td>
+          <button class="btn sm danger" data-action="del" data-id="${id}" data-title="${escAttr(row.title || '')}" ${S.mutating ? 'disabled' : ''}>Delete</button>
+        </td>
+      </tr>`;
+    }).join('');
+  }
+
+  function renderMeta() {
+    E.totalCount.textContent = fmtInt(S.total);
+    const first = S.total === 0 ? 0 : (S.page - 1) * S.limit + 1;
+    const last  = Math.min(S.page * S.limit, S.total);
+    E.totalLabel.textContent = S.total
+      ? `showing ${fmtInt(first)}–${fmtInt(last)} of ${fmtInt(S.total)}`
+      : 'products';
+  }
+
+  function renderPager() {
+    const pages = totalPages();
+    E.pagerInfo.textContent = `Page ${S.page} / ${pages}`;
+    E.prevBtn.disabled = S.page <= 1 || S.loading || S.mutating;
+    E.nextBtn.disabled = S.page >= pages || S.loading || S.mutating;
+  }
+
+  function renderSelUi() {
+    const count = S.selected.size;
+    const pageIds = S.products.map(p => +p.id);
+    const onPage  = pageIds.filter(id => S.selected.has(id)).length;
+
+    if (count > 0) {
+      E.selectedBadge.textContent = `${fmtInt(count)} selected`;
+      E.selectedBadge.style.display = '';
+    } else {
+      E.selectedBadge.style.display = 'none';
+    }
+
+    E.bulkDelBtn.disabled = count === 0 || S.loading || S.mutating;
+    E.selAll.checked       = pageIds.length > 0 && onPage === pageIds.length;
+    E.selAll.indeterminate = onPage > 0 && onPage < pageIds.length;
+    E.selAll.disabled      = pageIds.length === 0 || S.loading || S.mutating;
+  }
+
+  function setBusy(active) {
+    E.loadingCover.classList.toggle('active', active);
+    E.applyBtn.disabled  = active;
+    E.resetBtn.disabled  = active;
+    E.limitSel.disabled  = active;
+    if (!active) renderSelUi();
+    else E.bulkDelBtn.disabled = true;
+  }
+
+  function pruneSelection() {
+    const ids = new Set(S.products.map(p => +p.id));
+    for (const id of [...S.selected]) if (!ids.has(id)) S.selected.delete(id);
+  }
+
+  function fillSelect(sel, arr, def) {
+    const cur = sel.value;
+    const entries = [...new Set((Array.isArray(arr) ? arr : []).map(v => String(v || '').trim()).filter(Boolean))];
+    sel.innerHTML = `<option value="">${def}</option>` +
+      entries.map(v => `<option value="${esc(v)}">${esc(v)}</option>`).join('');
+    if (cur) sel.value = cur;
+  }
+
+  async function deleteOne(id, title) {
+    if (S.loading || S.mutating) return;
+    const label = String(title || `#${id}`).slice(0, 100);
+    if (!confirm(`Delete product "${label}"?\n\nThis will soft-delete the row and remove it from the RAG index.`)) return;
+
+    S.mutating = true;
+    setBusy(true);
+    showTableNotice('info', `Deleting #${id}…`, 0);
+
+    try {
+      const res = await fetch(`/api/products/${id}`, { method: 'DELETE', credentials: 'same-origin' });
+      const data = await safeJson(res);
+      S.selected.delete(id);
+      showTableNotice('ok', `Deleted #${id}. Vector removed from RAG index.`, 3500);
+      await loadProducts({ withNotice: false });
+    } catch (err) {
+      showTableNotice('err', err.message || `Failed to delete #${id}.`, 0);
+    } finally {
+      S.mutating = false;
+      setBusy(false);
+    }
+  }
+
+  async function deleteBulk() {
+    if (S.loading || S.mutating || S.selected.size === 0) return;
+    const ids = [...S.selected].sort((a, b) => a - b);
+    if (!confirm(`Delete ${ids.length} selected product(s)?\n\nThis will remove them from MySQL and the RAG index.`)) return;
+
+    S.mutating = true;
+    setBusy(true);
+    showTableNotice('info', `Deleting ${ids.length} products…`, 0);
+
+    try {
+      const res = await fetch('/api/products/admin/bulk', {
+        method: 'DELETE',
+        credentials: 'same-origin',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ ids }),
+      });
+      const data = await safeJson(res);
+      S.selected.clear();
+      showTableNotice('ok', `Deleted ${fmtInt(data?.deleted_count || ids.length)} products. Vectors removed from RAG index.`, 3500);
+      await loadProducts({ withNotice: false });
+    } catch (err) {
+      showTableNotice('err', err.message || 'Bulk delete failed.', 0);
+    } finally {
+      S.mutating = false;
+      setBusy(false);
+    }
+  }
+
+  function showTableNotice(type, msg, autoMs = 0) {
+    if (S.noticeTimer) { clearTimeout(S.noticeTimer); S.noticeTimer = null; }
+    const cls = { info: 'info', ok: 'ok', err: 'err' }[type] || 'info';
+    E.tableNotice.className = `notice active ${cls}`;
+    E.tableNotice.textContent = msg;
+    if (autoMs > 0) S.noticeTimer = setTimeout(hideTableNotice, autoMs);
+  }
+
+  function hideTableNotice() {
+    if (S.noticeTimer) { clearTimeout(S.noticeTimer); S.noticeTimer = null; }
+    E.tableNotice.className = 'notice';
+    E.tableNotice.textContent = '';
+  }
+
+  /* ── Reindex ────────────────────────────────────────────── */
+  function bindReindex() {
+    E.reindexBtn.addEventListener('click', doReindex);
+  }
+
+  async function loadReindexStats() {
+    try {
+      const res = await fetch('/api/products/rag-stats', { credentials: 'same-origin' });
+      const data = await safeJson(res);
+      E.riActiveCount.textContent  = fmtInt(data.mysqlCount  ?? 0);
+      E.riQdrantCount.textContent  = data.qdrantCount !== null ? fmtInt(data.qdrantCount) : '?';
+      E.riIndexedCount.textContent = fmtInt(data.indexedCount ?? 0);
+    } catch {
+      E.riActiveCount.textContent  = '?';
+      E.riQdrantCount.textContent  = '?';
+      E.riIndexedCount.textContent = '?';
+    }
+  }
+
+  async function doReindex() {
+    if (E.reindexBtn.disabled) return;
+
+    E.reindexBtn.disabled = true;
+    E.reindexBtn.textContent = 'Running…';
+    showRiNotice('info', 'Rebuilding RAG index from active MySQL products…', 0);
+    appendLog(`<span class="log-muted">[${ts()}] Starting full reindex…</span>`);
+
+    try {
+      const res = await fetch('/api/products/reindex', {
+        method: 'POST',
+        credentials: 'same-origin',
+      });
+      const data = await safeJson(res);
+
+      const indexed = data?.reindex?.indexed || data?.indexed || 0;
+
+      showRiNotice('ok', `Reindex complete: ${fmtInt(indexed)} products indexed.`, 4000);
+      appendLog(`<span class="log-ok">[${ts()}] ✓ Done — ${fmtInt(indexed)} products indexed into Qdrant.</span>`);
+
+      await loadReindexStats();
+    } catch (err) {
+      showRiNotice('err', err.message || 'Reindex failed.', 0);
+      appendLog(`<span class="log-err">[${ts()}] ✗ Error: ${esc(err.message || 'Unknown error')}</span>`);
+    } finally {
+      E.reindexBtn.disabled = false;
+      E.reindexBtn.innerHTML = `
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M13.5 8A5.5 5.5 0 1 1 8 2.5"/><path d="M14 2v4h-4"/><path d="M13.5 2.5 10 6"/>
+        </svg>
+        Run Full Reindex`;
+    }
+  }
+
+  let riNoticeTimer = null;
+  function showRiNotice(type, msg, autoMs = 0) {
+    if (riNoticeTimer) { clearTimeout(riNoticeTimer); riNoticeTimer = null; }
+    const cls = { info: 'info', ok: 'ok', err: 'err' }[type] || 'info';
+    E.riNotice.className = `notice active ${cls}`;
+    E.riNotice.textContent = msg;
+    if (autoMs > 0) riNoticeTimer = setTimeout(() => { E.riNotice.className = 'notice'; E.riNotice.textContent = ''; }, autoMs);
+  }
+
+  function appendLog(html) {
+    const isDefault = E.reindexLog.querySelector('.log-muted')?.textContent === 'No activity yet.';
+    if (isDefault) E.reindexLog.innerHTML = '';
+    E.reindexLog.innerHTML += `<span class="log-line">${html}</span>`;
+    E.reindexLog.scrollTop = E.reindexLog.scrollHeight;
+  }
+
+  /* ── RAG Debug ────────────────────────────────────────────── */
+  function bindRagDebug() {
+    E.ragDebugRunBtn.addEventListener('click', runRagDebug);
+    E.ragDebugQuery.addEventListener('keydown', e => {
+      if (e.key === 'Enter') { e.preventDefault(); runRagDebug(); }
+    });
+  }
+
+  async function runRagDebug() {
+    const q = E.ragDebugQuery.value.trim();
+    if (!q) {
+      E.ragDebugNotice.className = 'notice active err';
+      E.ragDebugNotice.textContent = 'Please enter a query.';
+      return;
+    }
+
+    E.ragDebugRunBtn.disabled = true;
+    E.ragDebugOut.textContent = 'Loading debug data...';
+    E.ragDebugNotice.className = 'notice';
+    E.ragDebugNotice.textContent = '';
+
+    try {
+      const res = await fetch(`/api/products/admin/rag-debug?q=${encodeURIComponent(q)}`, {
+        credentials: 'same-origin',
+      });
+      const data = await safeJson(res);
+      E.ragDebugOut.textContent = JSON.stringify(data, null, 2);
+      E.ragDebugNotice.className = 'notice active ok';
+      E.ragDebugNotice.textContent = `Loaded ${data?.products?.length || 0} products.`;
+    } catch (err) {
+      E.ragDebugOut.textContent = '';
+      E.ragDebugNotice.className = 'notice active err';
+      E.ragDebugNotice.textContent = err.message || 'Failed to debug query.';
+    } finally {
+      E.ragDebugRunBtn.disabled = false;
+    }
+  }
+
+  /* ── Affiliate ────────────────────────────────────────────── */
+  function bindAffiliate() {
+    E.affSaveBtn.addEventListener('click', doAffSaveSession);
+    E.affClearBtn.addEventListener('click', doAffClearSession);
+    E.affGenBtn.addEventListener('click', doAffGenerate);
+  }
+
+  async function loadAffiliateStats() {
+    try {
+      // Session status
+      const sr = await fetch('/api/products/admin/affiliate-session', { credentials: 'same-origin' });
+      const sd = await safeJson(sr);
+      if (sd?.hasSession) {
+        showAffSessionStatus('ok', `Session active — saved ${sd.updatedAt ? new Date(sd.updatedAt).toLocaleString() : ''}`);
+      } else {
+        showAffSessionStatus('warn', 'No session saved. Paste your cookie below.');
+      }
+
+      // Counts
+      const lr = await fetch('/api/products/admin/list?page=1&limit=1&include_inactive=0', { credentials: 'same-origin' });
+      const ld = await safeJson(lr);
+      const total = ld?.total || 0;
+
+      const cr = await fetch('/api/products/admin/affiliate-count', { credentials: 'same-origin' });
+      const cd = await safeJson(cr);
+      const withLink = cd?.withLink ?? 0;
+
+      E.affWithLink.textContent = fmtInt(withLink);
+      E.affWithout.textContent  = fmtInt(Math.max(0, total - withLink));
+    } catch (err) {
+      console.warn('[affiliate stats]', err.message);
+    }
+  }
+
+  async function doAffSaveSession() {
+    const cookie    = E.affCookieInput.value.trim();
+    const csrfToken = E.affCsrfInput.value.trim();
+    if (!cookie) { showAffSaveNotice('err', 'Cookie is required.', 3000); return; }
+
+    E.affSaveBtn.disabled = true;
+    E.affSaveBtn.textContent = 'Saving…';
+    try {
+      const res = await fetch('/api/products/admin/affiliate-session', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'same-origin',
+        body: JSON.stringify({ cookie, csrfToken }),
+      });
+      const data = await safeJson(res);
+      if (!data?.ok) throw new Error(data?.error || 'Save failed');
+      showAffSaveNotice('ok', 'Session saved.', 3000);
+      showAffSessionStatus('ok', 'Session active — just saved');
+      E.affCookieInput.value = '';
+      E.affCsrfInput.value   = '';
+    } catch (err) {
+      showAffSaveNotice('err', err.message, 4000);
+    } finally {
+      E.affSaveBtn.disabled = false;
+      E.affSaveBtn.textContent = 'Save Session';
+    }
+  }
+
+  async function doAffClearSession() {
+    if (!confirm('Clear the affiliate session? You will need to re-paste your cookie.')) return;
+    try {
+      await fetch('/api/products/admin/affiliate-session', {
+        method: 'DELETE',
+        credentials: 'same-origin',
+      });
+      showAffSessionStatus('warn', 'Session cleared.');
+    } catch (err) {
+      showAffSaveNotice('err', err.message, 4000);
+    }
+  }
+
+  async function doAffGenerate() {
+    if (E.affGenBtn.disabled) return;
+    E.affGenBtn.disabled = true;
+    E.affGenBtn.textContent = 'Running…';
+    affGenLog('clear');
+    affGenLog(`<span class="log-muted">[${ts()}] Starting affiliate link generation…</span>`);
+    showAffGenNotice('info', 'Generating…', 0);
+
+    try {
+      const res = await fetch('/api/products/admin/generate-affiliates', {
+        method: 'POST',
+        credentials: 'same-origin',
+      });
+
+      if (!res.ok) {
+        const d = await safeJson(res);
+        throw new Error(d?.error || `HTTP ${res.status}`);
+      }
+
+      const reader = res.body.getReader();
+      const dec    = new TextDecoder();
+      let buf = '';
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        buf += dec.decode(value, { stream: true });
+        const lines = buf.split('\n');
+        buf = lines.pop();
+        for (const line of lines) {
+          if (!line.startsWith('data: ')) continue;
+          try {
+            const evt = JSON.parse(line.slice(6));
+            if (evt.type === 'progress' || evt.type === 'status') {
+              affGenLog(`<span class="log-muted">[${ts()}] ${esc(evt.message)}</span>`);
+              showAffGenNotice('info', evt.message, 0);
+            } else if (evt.type === 'done') {
+              affGenLog(`<span class="log-ok">[${ts()}] ✓ Done — updated: ${fmtInt(evt.updated)}, failed: ${fmtInt(evt.failed)}</span>`);
+              showAffGenNotice('ok', `Done — ${fmtInt(evt.updated)} links generated, ${fmtInt(evt.failed)} failed.`, 6000);
+              loadAffiliateStats();
+            } else if (evt.type === 'error') {
+              affGenLog(`<span class="log-err">[${ts()}] ✗ ${esc(evt.message)}</span>`);
+              showAffGenNotice('err', evt.message, 0);
+            }
+          } catch {}
+        }
+      }
+    } catch (err) {
+      affGenLog(`<span class="log-err">[${ts()}] ✗ ${esc(err.message)}</span>`);
+      showAffGenNotice('err', err.message, 0);
+    } finally {
+      E.affGenBtn.disabled = false;
+      E.affGenBtn.innerHTML = `
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M8 1.5 10.5 6h4l-3.5 3 1.5 5L8 11.5 3.5 14l1.5-5L1.5 6h4z"/>
+        </svg>
+        Generate All Missing Links`;
+    }
+  }
+
+  function affGenLog(html) {
+    if (html === 'clear') { E.affGenLog.innerHTML = ''; return; }
+    const isEmpty = !E.affGenLog.children.length || E.affGenLog.querySelector('.log-muted')?.textContent === 'No activity yet.';
+    if (isEmpty) E.affGenLog.innerHTML = '';
+    E.affGenLog.innerHTML += `<span class="log-line">${html}</span>`;
+    E.affGenLog.scrollTop = E.affGenLog.scrollHeight;
+  }
+
+  function showAffSessionStatus(cls, msg) {
+    E.affSessionStatus.style.display = '';
+    E.affSessionStatus.className = `notice active ${cls}`;
+    E.affSessionStatus.textContent = msg;
+  }
+
+  let affSaveNoticeTimer;
+  function showAffSaveNotice(cls, msg, autoMs = 0) {
+    clearTimeout(affSaveNoticeTimer);
+    E.affSaveNotice.style.display = '';
+    E.affSaveNotice.className = `notice active ${cls}`;
+    E.affSaveNotice.textContent = msg;
+    if (autoMs > 0) affSaveNoticeTimer = setTimeout(() => { E.affSaveNotice.className = 'notice'; }, autoMs);
+  }
+
+  let affGenNoticeTimer;
+  function showAffGenNotice(cls, msg, autoMs = 0) {
+    clearTimeout(affGenNoticeTimer);
+    E.affGenNotice.style.display = '';
+    E.affGenNotice.className = `notice active ${cls}`;
+    E.affGenNotice.textContent = msg;
+    if (autoMs > 0) affGenNoticeTimer = setTimeout(() => { E.affGenNotice.className = 'notice'; }, autoMs);
+  }
+
+  /* ── Revenue ─────────────────────────────────────────────── */
+  let revLoading = false;
+
+  async function loadRevenueFunnel() {
+    if (revLoading) return;
+    revLoading = true;
+    $('revRefreshBtn').disabled = true;
+    $('revNotice').style.display = 'none';
+
+    try {
+      const res = await fetch('/api/products/admin/metrics/revenue-funnel', { credentials: 'same-origin' });
+      const d = await res.json();
+      if (!res.ok || !d.ok) throw new Error(d?.error || `HTTP ${res.status}`);
+
+      const s = d.summary;
+
+      // Stats
+      $('revClicks24h').textContent     = fmtInt(s.today.total_clicks);
+      $('revClicksYesterday').textContent = fmtInt(s.yesterday.clicks);
+      $('revAffRatio').textContent      = `${s.today.affiliate_ratio_pct ?? 0}%`;
+      $('revClicks7d').textContent      = fmtInt(s.week.total_clicks);
+
+      // Top queries table
+      const qtbody = $('revQueriesTbody');
+      if (!d.top_queries.length) {
+        qtbody.innerHTML = `<tr><td colspan="4" style="padding:16px 14px;color:var(--ink-3);">No click data yet.</td></tr>`;
+      } else {
+        qtbody.innerHTML = d.top_queries.map((q, i) => {
+          const affPct = q.clicks > 0 ? Math.round((q.affiliate_clicks / q.clicks) * 100) : 0;
+          return `<tr style="border-bottom:1px solid var(--line);">
+            <td style="padding:7px 14px;color:var(--ink-3);">${i + 1}</td>
+            <td style="padding:7px 14px;max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="${esc(q.query)}">${esc(q.query)}</td>
+            <td style="padding:7px 14px;text-align:right;color:var(--accent);">${fmtInt(q.clicks)}</td>
+            <td style="padding:7px 14px;text-align:right;color:${affPct >= 50 ? 'var(--ok)' : 'var(--warn)'};">${affPct}%</td>
+          </tr>`;
+        }).join('');
+      }
+      $('revQueriesCount').textContent = d.top_queries.length ? `${d.top_queries.length} queries` : '';
+
+      // Top products table
+      const ptbody = $('revProductsTbody');
+      if (!d.top_products.length) {
+        ptbody.innerHTML = `<tr><td colspan="4" style="padding:16px 14px;color:var(--ink-3);">No click data yet.</td></tr>`;
+      } else {
+        ptbody.innerHTML = d.top_products.map((p, i) => {
+          const affBadge = p.has_affiliate
+            ? `<span style="color:var(--ok);font-size:10px;">✓</span>`
+            : `<span style="color:var(--err);font-size:10px;">✗</span>`;
+          return `<tr style="border-bottom:1px solid var(--line);">
+            <td style="padding:7px 14px;color:var(--ink-3);">${i + 1}</td>
+            <td style="padding:7px 14px;max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="${esc(p.title || '')}">
+              ${esc(p.title || `#${p.product_id}`)}
+              <span style="color:var(--ink-4);font-size:10px;margin-left:4px;">${esc(p.source || '')}</span>
+            </td>
+            <td style="padding:7px 14px;text-align:right;color:var(--accent);">${fmtInt(p.clicks)}</td>
+            <td style="padding:7px 14px;text-align:right;">${affBadge}</td>
+          </tr>`;
+        }).join('');
+      }
+      $('revProductsCount').textContent = d.top_products.length ? `${d.top_products.length} products` : '';
+
+      $('revLastUpdated').textContent = `Updated ${new Date().toLocaleTimeString('id-ID')}`;
+
+    } catch (err) {
+      const n = $('revNotice');
+      n.style.display = '';
+      n.className = 'notice active err';
+      n.textContent = `Failed to load: ${err.message}`;
+    } finally {
+      revLoading = false;
+      $('revRefreshBtn').disabled = false;
+    }
+  }
+
+  document.addEventListener('click', e => {
+    if (e.target?.id === 'revRefreshBtn') loadRevenueFunnel();
+  });
+
+  /* ── Helpers ────────────────────────────────────────────── */
+  async function safeJson(res) {
+    let p;
+    try { p = await res.json(); } catch { p = null; }
+    if (!res.ok) throw new Error(p?.error || `Request failed (${res.status})`);
+    return p || {};
+  }
+
+  function totalPages() { return Math.max(1, Math.ceil(S.total / S.limit)); }
+
+  function fmtInt(v) {
+    const n = +v;
+    return Number.isFinite(n) ? new Intl.NumberFormat('id-ID').format(n) : '0';
+  }
+
+  function fmtPrice(v) {
+    const n = +v;
+    if (!Number.isFinite(n) || n <= 0) return '—';
+    return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR', maximumFractionDigits: 0 }).format(n);
+  }
+
+  function fmtRating(v) {
+    const n = +v;
+    return (Number.isFinite(n) && n > 0) ? `${n.toFixed(1)} ★` : '—';
+  }
+
+  function fmtDate(v) {
+    if (!v) return '—';
+    const d = new Date(v);
+    return isNaN(d) ? '—' : d.toLocaleString('id-ID', { year:'numeric', month:'2-digit', day:'2-digit', hour:'2-digit', minute:'2-digit' });
+  }
+
+  function esc(v) {
+    return String(v).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+
+  function escAttr(v) {
+    return String(v).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/'/g,'&#39;');
+  }
+
+  function safeUrl(v) {
+    if (!v) return '';
+    try {
+      const u = new URL(String(v), location.origin);
+      if (u.protocol === 'http:' || u.protocol === 'https:') return u.href;
+    } catch {}
+    return '';
+  }
+
+  function ts() {
+    return new Date().toLocaleTimeString('id-ID', { hour:'2-digit', minute:'2-digit', second:'2-digit' });
+  }
+
+})();
+</script>
+</body>
+</html>

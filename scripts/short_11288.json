@@ -1,0 +1,85 @@
+{
+  "title": "Jeans Slimfit Murah, Worth It Banget!",
+  "hook_text": "Nggak percaya jeans ini cuma seratus ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kaget memegang celana jeans dengan tag harga murah.",
+      "narration": "Nggak percaya jeans premium ini cuma seratus ribuan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai celana jeans BIOSTORE, berjalan santai sambil tersenyum.",
+      "narration": "Ini nih BIOSTORE DENIM BSTR, celana jeans panjang pria model slimfit pensil yang stretch banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan harga '120 ribuan' dengan efek kilat.",
+      "narration": "Harganya? Cuma di kisaran seratus dua puluhan ribu doang, which is basically next level for quality seharga ini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Zoom in tekstur kain denim, lalu shot model melompat menunjukkan elastisitas celana.",
+      "narration": "Bahan denim stretch-nya tebal namun tetap halus, literally nyaman dipakai seharian tanpa bikin gerah. --- Desain slimfit modern-nya bikin kaki kelihatan panjang, cocok banget buat gaya street style kamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase pria muda nge-date dan jalan santai, lalu muncul daftar ukuran.",
+      "narration": "Kalau kamu sering nge-date atau jalan santai bareng teman, ini perfect buat yang mau tampil rapi tapi budget terbatas. --- Size mulai dua puluh delapan sampe empat puluh empat, jadi pas banget buat semua bentuk kaki."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.81 dan angka penjualan 30.000 di layar.",
+      "narration": "Sudah terjual tiga puluh ribu produk dengan rating empat koma delapan satu. Yang udah beli bilang, 'Kainnya tebal dan pokoknya joss banget, nggak mengecewakan sama sekali.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke bawah dan logo finding dot id.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#celanajenismurah",
+    "#jeansslimfit",
+    "#outfitpria",
+    "#findingid",
+    "#ootdpria",
+    "#rekomendasibaju",
+    "#fashionindonesia",
+    "#viral"
+  ],
+  "product_id": 11288,
+  "product_title": "BIOSTORE DENIM BSTR celana jeans panjang pria jeans slimfit pensil strecth",
+  "product_price": "120000.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/11288.jpg",
+    "/uploads/products/11288_1.jpg",
+    "/uploads/products/11288_2.jpg",
+    "/uploads/products/11288_3.jpg",
+    "/uploads/products/11288_4.jpg",
+    "/uploads/products/11288_5.jpg",
+    "/uploads/products/11288_6.jpg",
+    "/uploads/products/11288_7.jpg",
+    "/uploads/products/11288_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/11288",
+  "generated_at": "2026-03-13T19:01:11.641Z"
+}

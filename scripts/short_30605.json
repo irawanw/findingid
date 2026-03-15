@@ -1,0 +1,82 @@
+{
+  "title": "Sandal Pria Viral Murah? Ini Dia Solusinya!",
+  "hook_text": "Sandal Murah Tapi Kualitas Sultan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot sandal dengan cahaya dramatis, transisi cepat ke wajah kaget.",
+      "narration": "Nggak percaya sih, ini sandal cuma harga seblak? --- Padahal keliatan mahal banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product shot SIDSNEAKS Sidslide Deep Green dari berbagai sudut, highlight material.",
+      "narration": "Kenalin nih, SIDSNEAKS Sidslide Deep Green. --- PU leather lembut, elegan banget buat gaya kasual kamu. --- Teksturnya super halus."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, efek koin jatuh atau uang terbang.",
+      "narration": "Harganya cuma enam puluhan ribuan aja. --- Literally murah banget, quality setara premium no cap. --- Worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo sol anti slip, close-up desain, dan unboxing box + sticker.",
+      "narration": "Fiturnya? Phylon anti slip empuk banget. --- Desain modern lagi tren anak muda. --- Plus bonus box dan sticker gratis! --- Unboxingnya makin seru. --- Keren parah."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Pria berjalan santai di cafe dan di rumah (WFH scenario), lalu menunjukkan ukuran kaki.",
+      "narration": "Perfect buat kamu sering jalan jauh atau kerja dari rumah. --- Tapi inget bestie, ukurannya agak besar dikit, mending pilih size biasa ya! --- Soalnya jangan sampe kekecilan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.85 dan angka 40.000 terjual, teks kutipan pembeli muncul.",
+      "narration": "Rating 4.85, udah terjual empat puluh ribu pasang. --- Yang udah beli bilang, 'Barang mantap bener, tebal dan empuk'. --- Banyak yang bilang worth it."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar di tengah layar, tombol 'Cek Sekarang' animasi.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, ada review lengkapnya di sana! --- Jangan lupa cek!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, ada review lengkapnya di sana!",
+  "hashtags": [
+    "#Sidsneaks",
+    "#SandalPria",
+    "#OOTD",
+    "#Viral",
+    "#Murah",
+    "#Fashion",
+    "#Rekomendasi",
+    "#FindingID"
+  ],
+  "product_id": 30605,
+  "product_title": "SIDSNEAKS - Sandal Selop Pria Sidslide - Deep Green",
+  "product_price": "67900.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/30605.jpg",
+    "/uploads/products/30605_1.jpg",
+    "/uploads/products/30605_2.jpg",
+    "/uploads/products/30605_3.jpg",
+    "/uploads/products/30605_4.jpg",
+    "/uploads/products/30605_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/30605",
+  "generated_at": "2026-03-13T21:41:43.930Z"
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Cushion 100 Ribuan Awet 12 Jam?!?",
+  "hook_text": "Kulit Berminyak Bikin Makeup Luntur?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up kulit berminyak vs matte finish",
+      "narration": "Kulit berminyak bikin makeup luntur? Stop scroll! Kamu wajib tahu ini, bestie, literally no cap."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Produk Skintific dipegang tangan, buka compact",
+      "narration": "Ini dia Skintific Perfect Stay Velvet Matte Cushion. Mini size travel friendly banget, muat di kantong kamu, basically super portable."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafis harga muncul dengan efek pop",
+      "narration": "Harganya? Seratus ribuan saja doang. Gila sih, setara brand luar tapi harga lokal banget, which is worth it."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Swatch di tangan, tes air drop",
+      "narration": "Finish velvet matte yang halus nggak cakey --- Ada Smart Oil Control 12 jam --- Transferproof dan waterproof, nggak luntur ke masker seharian."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita sedang apply makeup, tersenyum",
+      "narration": "Perfect buat kamu yang kulitnya oily atau berjerawat. Nggak bikin komedoan, plus ada skincare aktif Niacinamide yang skincare banget, which is basically next level."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 5 + screenshot chat pembeli",
+      "narration": "Rating 4.9, udah terjual 800 ribu. Yang udah beli bilang... 'nggak oksidasi, nyatu banget sama kulit, bagus meratakan warna', literally worth it."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar HP menunjukkan website finding.id",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Skintific",
+    "#CushionMakeup",
+    "#KulitBerminyak",
+    "#MakeupViral",
+    "#BeautyHacks",
+    "#SkincareRutin",
+    "#MakeupIndonesia",
+    "#FindingID"
+  ],
+  "product_id": 100958,
+  "product_title": "[NEW LAUNCH!]SKINTIFIC - Perfect Stay Velvet Matte Cushion| MINI SIZE Travel Friendly Matte Finish Cocok untuk Kulit Berminyak Berjerawat&Semua Non-Comedogenic Refill Foundation Compact Oil-Control Flawless BB Cream Makeup bedak padat Skin Tint concealer",
+  "product_price": "100100.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100958.jpg",
+    "/uploads/products/100958_1.jpg",
+    "/uploads/products/100958_2.jpg",
+    "/uploads/products/100958_3.jpg",
+    "/uploads/products/100958_4.jpg",
+    "/uploads/products/100958_5.jpg",
+    "/uploads/products/100958_6.jpg",
+    "/uploads/products/100958_7.jpg",
+    "/uploads/products/100958_8.jpg",
+    "/uploads/products/100958_9.jpg",
+    "/uploads/products/100958_10.jpg",
+    "/uploads/products/100958_11.jpg",
+    "/uploads/products/100958_12.jpg",
+    "/uploads/products/100958_13.jpg",
+    "/uploads/products/100958_14.jpg",
+    "/uploads/products/100958_15.jpg",
+    "/uploads/products/100958_16.jpg",
+    "/uploads/products/100958_17.jpg",
+    "/uploads/products/100958_18.jpg",
+    "/uploads/products/100958_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/100958",
+  "generated_at": "2026-03-13T20:00:33.770Z"
+}

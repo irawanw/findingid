@@ -1,0 +1,83 @@
+{
+  "title": "Tas Selempang Pria Premium Murah Banget!",
+  "hook_text": "Tas Pria Ini Harga Kaki Lima?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tas dibuka cepat dengan pencahayaan cinematic, tangan model menunjuk tas.",
+      "narration": "Gila bestie, tas kulit premium harganya bikin dompet senyum! --- Kenapa bisa segini murah banget sih?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai tas dengan gaya jalan slow motion, showcase tampilan matte premium dari sisi depan.",
+      "narration": "Ini dia WEIXIER D267, tas messenger pria dengan tampilan matte yang literally super elegan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga besar muncul di layar bersamaan dengan ekspresi kaget model.",
+      "narration": "Harganya cuma di bawah seratus lima puluhan ribu doang! --- Literally worth it banget buat kualitas segini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Zoom in detail resleting metal, isi tablet 11 inch, dan demonstrasi bukaan ganda magnet.",
+      "narration": "Aksesoris logamnya solid banget! --- Kapasitas masuk tablet 11 inch sama buku A5. Ada bukaan ganda magnet plus resleting, jadi barang aman which is no cap. --- Bahan kulit sintetis matte premium."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang bekerja di cafe atau berjalan di kampus dengan tas selempang.",
+      "narration": "Perfect buat mahasiswa atau pekerja muda yang butuh tas multifungsi tapi budget tetap aman."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4,9 bintang dan screenshot chat WA pembeli dengan teks kutipan.",
+      "narration": "Sudah lima ribu terjual rating 4,9 bintang! --- Yang udah beli bilang, 'Tampilannya mewah, harga miring, no regret!' --- Gak nyesel beli nih."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di layar dengan panah menunjuk ke arah link.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#TasSelempangPria",
+    "#WEIXIER",
+    "#TasMurah",
+    "#GayaPria",
+    "#StudentLife",
+    "#OOTDPria",
+    "#CekFindingID",
+    "#ViralProduct"
+  ],
+  "product_id": 36254,
+  "product_title": "WEIXIER D267 Tas Selempang Pria Kulit Anti Air Messenger Premium WX-OS",
+  "product_price": "156983.00",
+  "product_rating": "4.87",
+  "product_sold_display": "5RB+",
+  "product_images": [
+    "/uploads/products/36254.jpg",
+    "/uploads/products/36254_1.jpg",
+    "/uploads/products/36254_2.jpg",
+    "/uploads/products/36254_3.jpg",
+    "/uploads/products/36254_4.jpg",
+    "/uploads/products/36254_5.jpg",
+    "/uploads/products/36254_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/36254",
+  "generated_at": "2026-03-13T17:54:46.175Z"
+}

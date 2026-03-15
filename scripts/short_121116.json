@@ -1,0 +1,83 @@
+{
+  "title": "Masker Korea Viral Ini Worth It?",
+  "hook_text": "Masker Korea Ini Bikin Glowing?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing dengan efek cahaya berkilau, ekspresi kaget senang",
+      "narration": "Masker Korea ini bikin glowing instan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase produk Some By Mi dengan 4 varian warna yang berbeda",
+      "narration": "Some By Mi Daily Mask, best seller yang udah laku puluhan ribu! Ada varian Yuja, Retinol, Glutathione, dan BetaPanthenol."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul besar di tengah, lalu tumpukan 30 lembar masker",
+      "narration": "Harganya cuma dua ratus tujuh puluhan ribu, which is worth it banget buat 30 lembar!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Grafik bahan aktif muncul satu per satu, logo BPOM terpampang jelas",
+      "narration": "Kandungan aktifnya juara, BPOM resmi, jadi aman banget. Mencerahkan, ngehaluskan tekstur, anti-aging. Cocok buat kulit berminyak atau berjerawat. which is basically next level skincare!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang pakai masker di kamar tidur dengan suasana santai",
+      "narration": "Perfect buat kamu yang ngerasa wajah kusam atau ada bekas jerawat. Rutin pakai jadi lebih glowing tiap hari. Which is perfect buat rutinitas harianmu!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.95 bintang, layar chat pembeli yang di-blur",
+      "narration": "Rating 4.95 dari 30 ribu pembelian. Yang udah beli bilang, \"Produk asli dan aman\" --- cuma ada yang bilang packagingnya kadang bocor dikit, jadi hati-hati pas dibuka ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#somebymi",
+    "#skincare",
+    "#maskerwajah",
+    "#glowingskin",
+    "#skincareindonesia",
+    "#dailyroutine",
+    "#beautyhacks",
+    "#findingid"
+  ],
+  "product_id": 121116,
+  "product_title": "[BEST SELLING] SOME BY MI DAILY MASK  (Yuja/Retinol/Glutathione/BetaPanthenol)",
+  "product_price": "275400.00",
+  "product_rating": "4.95",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/121116.jpg",
+    "/uploads/products/121116_1.jpg",
+    "/uploads/products/121116_2.jpg",
+    "/uploads/products/121116_3.jpg",
+    "/uploads/products/121116_4.jpg",
+    "/uploads/products/121116_5.jpg",
+    "/uploads/products/121116_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/121116",
+  "generated_at": "2026-03-13T16:43:56.649Z"
+}

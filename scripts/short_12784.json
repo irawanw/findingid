@@ -1,0 +1,84 @@
+{
+  "title": "Sweater Comfy 80 Ribu? Worth It Banget!",
+  "hook_text": "Sweater 80 ribuan bisa sekeren ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up sweater yang sedang digoyang pelan dengan pencahayaan cinematic",
+      "narration": "Sweater 80 ribuan bisa sekeren ini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai sweater sambil tersenyum, lalu transisi ke detail bahan",
+      "narration": "Ini nih Sweater Comfy Crewneck basic polos. Bahan cotton diamond knitt, literally soft dan dingin banget pas dipake. Jahitannya quality garment, no cap."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kilau",
+      "narration": "Harganya? Cuma 80-an ribuan doang! Bandingin sama sweater mall, ini worth it banget which is basically next level buat kamu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase berbagai warna yang tersedia dan detail jahitan",
+      "narration": "Bahannya tipis tapi tetep tebal, nggak bikin gerah. Tersedia warna light brown, navy, sampai marron. Sizing M sampe XXL, jadi aman buat yang pinggangnya naik."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang nugas di kafe atau jalan sore",
+      "narration": "Perfect buat kamu yang suka gaya casual tapi nggak mau ribet. Stylingnya gampang, cocok banget buat nugas di kafe bareng bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 5 dan jumlah terjual muncul di layar",
+      "narration": "Total udah terjual tiga puluh ribu produk dengan rating empat koma delapan tiga bintang --- Yang udah beli bilang 'Barang bagus tebal sesuai harga'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke bawah",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#sweatercomfy",
+    "#sweatermurah",
+    "#ootdindonesia",
+    "#fashionpria",
+    "#sweaterpolos",
+    "#viralproduct",
+    "#hargaMurah",
+    "#findingid"
+  ],
+  "product_id": 12784,
+  "product_title": "SWEATER COMFY crewneck basic polos | comfy crewneck | jaket pria knitt",
+  "product_price": "83330.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/12784.jpg",
+    "/uploads/products/12784_1.jpg",
+    "/uploads/products/12784_2.jpg",
+    "/uploads/products/12784_3.jpg",
+    "/uploads/products/12784_4.jpg",
+    "/uploads/products/12784_5.jpg",
+    "/uploads/products/12784_6.jpg",
+    "/uploads/products/12784_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/12784",
+  "generated_at": "2026-03-13T16:24:21.979Z"
+}

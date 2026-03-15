@@ -1,0 +1,83 @@
+{
+  "title": "Toner 210ml Murah Banget?!",
+  "hook_text": "Gak Percaya Ada Toner Seharga Ini?!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up botol toner SKIN1004 dengan teks besar 'SERATUS RIBUAN?!'",
+      "narration": "Ada yang bilang 'Emang boleh beli toner 210ml cuma seratus ribuan? Nggak percaya!'"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot botol toner di tangan, lalu tekstur cair dituang ke tangan",
+      "narration": "Ini dia SKIN1004 Centella Toner, literally packagingnya simple tapi mahal banget. --- Isinya banyak dibanding toner lain, jadi awet banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 161.315 disamarkan jadi teks 'SERATUS ENAM PULUHAN RIBU'",
+      "narration": "Harga seratus enam puluhan ribu, which is worth it banget buat volume segitu. No cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Aplikasi toner ke wajah dengan efek glowing dan close-up Centella",
+      "narration": "Teksturnya watery, langsung ngelembapin kulit. Ada Centella buat calming, plus brightening yang next level. --- Gak lengket sama sekali, bikin glowing instan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model tersenyum cerah, kulit terlihat sehat dan lembap",
+      "narration": "Perfect buat kamu yang kulitnya sering dehidrasi atau tipe kering. --- Kulit jadi sehat banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.94, badge 100rb terjual, dan screenshot komen pembeli",
+      "narration": "Udah seratus ribu produk terjual dengan rating empat koma sembilan empat. --- Yang udah beli bilang 'teksturnya cair banget, nyaman'. Ada yang bilang tutupnya kurang aman, jadi hati-hati ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul dengan panah menunjuk ke arah layar",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SKIN1004",
+    "#SkincareViral",
+    "#TonerMurah",
+    "#SkincareIndonesia",
+    "#FindingID",
+    "#Centella",
+    "#GlowingSkin",
+    "#ReviewSkincare"
+  ],
+  "product_id": 106023,
+  "product_title": "SKIN1004 Madagascar Centella Tone Brightening Boosting Toner 210ml",
+  "product_price": "161315.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/106023.jpg",
+    "/uploads/products/106023_1.jpg",
+    "/uploads/products/106023_2.jpg",
+    "/uploads/products/106023_3.jpg",
+    "/uploads/products/106023_4.jpg",
+    "/uploads/products/106023_5.jpg",
+    "/uploads/products/106023_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/106023",
+  "generated_at": "2026-03-13T17:44:12.733Z"
+}

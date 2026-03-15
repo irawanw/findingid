@@ -1,0 +1,80 @@
+{
+  "title": "Sepatu Moxha SEVATU Viral! Murah & Gak Lecet?",
+  "hook_text": "Gak Lecet Tapi Cantik Banget?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up sepatu Moxha SEVATU + kaki jalan di lantai bersih",
+      "narration": "Siapa bilang sepatu cantik pasti lecet? Gak ada dong bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product showcase spin 360 derajat dengan pencahayaan cinematic",
+      "narration": "Nih Moxha Flatshoes SEVATU, model ballerina cross strap yang literally so cute buat Lebaran."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga besar dengan efek pop-up",
+      "narration": "Dan harganya? Seratus sembilan puluh sembilan ribuan aja, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail bahan, tali silang, dan sol sepatu + demonstrasi nyaman dipakai",
+      "narration": "Bahannya nggak terlalu mengkilap tapi mewah. Ada yang bilang sakit di belakang, tapi break-in dikit jadi nyaman. Material premium, tali silang estetik, anti lecet! --- Nggak bikin keringetan sama sekali, nyaman banget dipakai seharian!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "OOTD lifestyle wanita pakai sepatu ini ke kantor dan acara keluarga",
+      "narration": "Jadi pilihan pas buat kamu yang cari flat shoes simpel tapi tetap classy buat kerjaan atau acara keluarga."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating 4.89 bintang + counter penjualan 20 ribuan terjual",
+      "narration": "Rating 4.89, udah terjual 20 ribuan! Yang udah beli bilang 'Pas buat semua acara!' Kualitasnya bagusss banget."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id + panah mengarah ke layar",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#Moxha",
+    "#SepatuLebaran",
+    "#FlatShoes",
+    "#OOTDIndonesia",
+    "#ViralFinds"
+  ],
+  "product_id": 31213,
+  "product_title": "Moxha Flatshoes SEVATU sepatu wanita Flat shoes Tali Silang Ballerina anti lecet minimalis lebaran",
+  "product_price": "199900.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/31213.jpg",
+    "/uploads/products/31213_1.jpg",
+    "/uploads/products/31213_2.jpg",
+    "/uploads/products/31213_3.jpg",
+    "/uploads/products/31213_4.jpg",
+    "/uploads/products/31213_5.jpg",
+    "/uploads/products/31213_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/31213",
+  "generated_at": "2026-03-13T23:51:27.483Z"
+}

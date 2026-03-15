@@ -1,0 +1,82 @@
+{
+  "title": "SD Card Sandisk Asli Murah? Cek Dulu!",
+  "hook_text": "Nggak Mau Kena SD Card Palsu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan close-up SD Card yang terlihat mencurigakan lalu transisi ke produk Sandisk asli.",
+      "narration": "Nggak mau kecewa kena SD Card palsu dan rugi duit?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Sandisk Ultra A1 berputar di atas meja dengan pencahayaan cinematic.",
+      "narration": "Kenalin nih SANDISK Ultra A1, si penyimpanan legendaris yang ngebut banget buat gadget lo. Barangnya tersegel aman."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek 'wow' dan uang koin jatuh.",
+      "narration": "Harganya mulai dari seratus enam puluh ribuan buat varian 32GB. --- which is super worth it, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat menunjukkan kecepatan transfer data dan desain compact kartu memori.",
+      "narration": "Fitur utamanya? Pertama, asli 100 persen. --- Kedua, kecepatan A1 buat install app di HP biar nggak lemot. --- Ketiga, desain compact yang aman."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang sedang merekam video di HP dan menyisipkan kartu SD dengan mudah.",
+      "narration": "Cocok banget buat content creator pemula atau kamu yang sering ambil foto travel. --- Kalau aktivitas kamu butuh storage besar, ini jawabannya. --- Jadi nggak perlu beli HP baru."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.92 dan jumlah penjualan 100k di layar.",
+      "narration": "Ratingnya 4.92 dari 100 ribu terjual. --- Yang udah beli bilang, 'Dulu beli yang murah malah palsu, yang ini sangat memuaskan karena ori nya terpercaya.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks 'Cek di finding dot id' muncul dengan panah menunjuk ke arah pencarian.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Sandisk",
+    "#SDCard",
+    "#TechGadget",
+    "#Hemat",
+    "#Viral",
+    "#ReviewProduk",
+    "#GadgetMurah",
+    "#TechIndonesia"
+  ],
+  "product_id": 11459,
+  "product_title": "SANDISK microSDHC / microSDXC Ultra A1 16GB / 32GB / 64GB / 128GB / 256GB UHS-I Class 10 - QUAB/QUAC",
+  "product_price": "159100.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/11459.jpg",
+    "/uploads/products/11459_1.jpg",
+    "/uploads/products/11459_2.jpg",
+    "/uploads/products/11459_3.jpg",
+    "/uploads/products/11459_4.jpg",
+    "/uploads/products/11459_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/11459",
+  "generated_at": "2026-03-13T17:50:54.845Z"
+}

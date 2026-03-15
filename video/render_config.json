@@ -1,0 +1,12 @@
+{
+  "product_id": 156648,
+  "script": "short_156648.json",
+  "audio": "short_156648_audio.mp3",
+  "timing": "short_156648_timing.json",
+  "music": "music_uploads/young_trizzy.mp3",
+  "music_volume": 30,
+  "voice_volume": 100,
+  "captions_enabled": false,
+  "font": "montserrat",
+  "output": "output_156648.mp4"
+}

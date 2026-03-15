@@ -1,0 +1,83 @@
+{
+  "title": "Makeup Oily Skin Auto Matte? Cek Bundel Ini",
+  "hook_text": "Wajah oily bikin makeup luntur?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah berminyak dengan ekspresi kaget lalu transisi ke produk",
+      "narration": "Wajah oily bikin makeup luntur? Stop scroll dulu bestie! --- Kenalin nih, Hooman Duo dari Something Inc. Combo terbaik buat finish matte."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Hooman Duo di atas meja dengan lighting cinematik",
+      "narration": "Kenalin nih, Hooman Duo dari Something Inc. Cushion sama powdernya combo terbaik buat finish matte. --- Nggak perlu keluarin duit jutaan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek wow",
+      "narration": "Nggak perlu keluarin duit jutaan, cuma dua ratus empat puluh ribuan aja. --- Which is super worth it! Kulit kamu bakal auto glowing."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo aplikasi cushion dan bedak pada tangan atau wajah",
+      "narration": "Skin matte finish yang anti greasy sama anti cracking. --- Bedak taburnya super halus tahan minyak 16 jam. --- Coverage medium bisa di build jadi full coverage tanpa terlihat cakey."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang beraktivitas atau keluar rumah dengan makeup tetap rapi",
+      "narration": "Perfect buat oily skin kayak kamu. --- Tapi hati-hati pilih shade, karena pernah ada yang salah kirim kode warna kayak W01 jadi C00. Pastikan kamu cek dulu ya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.94 dan jumlah terjual 20.000",
+      "narration": "Rating 4,94 bintang plus dua puluh ribu produk terjual. --- Yang udah beli bilang performa bagusss banget, ringan dipakai."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol atau teks mengarah ke finding dot id",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SomethingInc",
+    "#HoomanDuo",
+    "#MakeupOilySkin",
+    "#BeautyHacks",
+    "#SkincareRoutine",
+    "#ViralProduct",
+    "#FindingID",
+    "#MakeupIndonesia"
+  ],
+  "product_id": 100952,
+  "product_title": "[BEST BUNDLE] SOMETHINC Best of The Best Hooman Duo (Hooman Cushion + Hooman Powder) | Cushion Dengan Skin Matte Finish Anti Greasy, Anti Cakey, Dan Anti Cracking | Bedak Tabur Super Halus Untuk Menahan Minyak Hingga 16 Jam",
+  "product_price": "248000.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100952.jpg",
+    "/uploads/products/100952_1.jpg",
+    "/uploads/products/100952_2.jpg",
+    "/uploads/products/100952_3.jpg",
+    "/uploads/products/100952_4.jpg",
+    "/uploads/products/100952_5.jpg",
+    "/uploads/products/100952_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100952",
+  "generated_at": "2026-03-13T14:19:49.474Z"
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Jam Tangan Mewah Cuma 69 Ribu? No Cap Bestie!",
+  "hook_text": "Gak percaya jam tangan ini cuma seharga kopi?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up jam tangan mewah berkilau di tangan model.",
+      "narration": "Gak percaya ada jam tangan mewah harga cuma segini? --- Tenang bestie, ini beneran nyata!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Product shot rotating 360 derajat dengan background bersih.",
+      "narration": "Ini SKMEI 1252 atau 1901, jam tangan digital tali stainless steel MGOS. --- Look-nya mewah banget di tangan. Desainnya minimalis tapi elegan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Animasi harga turun dari 119rb ke 69rb.",
+      "narration": "Dulu pernah dijual di harga seratus sembilan belas ribu, tapi sekarang turun drastis. --- Kamu bisa dapetin ini cuma enam puluh sembilan ribu sembilan ratus saja. Harga termurah di riwayat jualannya."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Close-up layar digital, strap metal, dan tetesan air.",
+      "narration": "Ada fitur lengkap nih buat kamu. Layar digital yang jelas, tali stainless steel anti karat, dan tahan air buat aktivitas harian. --- Baterainya awet banget juga."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Model menyesuaikan strap di pergelangan tangan, lalu shot tombol.",
+      "narration": "Pertama, strap stainless steel bisa disesuaikan sama ukuran pergelangan tangan kamu. Kedua, desain rosegold-nya cakep dan gak pasaran. Ketiga, bahannya kuat tahan lama. Keempat, tombol fungsi lengkap. --- Tombolnya kecil, tapi bakal lancar kalau kamu sabar dikit buat nge-set jamnya."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Model pakai jam tangan saat meeting di kantor dan nongkrong di cafe.",
+      "narration": "Produk ini perfect buat yang sering kerja di kantor atau kuliah. --- Gak perlu repot pakai jam tangan analog yang ribet. Cocok banget buat kamu yang suka gaya casual tapi tetap terlihat profesional."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Rating bintang emas, angka penjual naik cepat.",
+      "narration": "Data bilang rating produk ini empat koma delapan empat dari ribuan pembeli. Total sudah terjual tiga puluh ribu produk. --- Reviewnya jujur banget. Ada yang bilang Suka banget akhirnya menemukan jam tangan rosegold yang ukurannya pas ditangan aku."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Tampilan varian warna silver, rosegold, dan black side-by-side.",
+      "narration": "Varian warnanya juga oke banget. Ada silver, rosegold, dan black. --- Pilih yang paling sesuai sama selera kamu ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Panah mengarah ke link di bawah layar dengan tombol beli.",
+      "narration": "Jangan nunggu lama, klik link di deskripsi sekarang dan beli sebelum kehabisan. --- Stoknya terbatas bestie."
+    }
+  ],
+  "cta": "Klik link di bawah sekarang dan beli sebelum kehabisan!",
+  "hashtags": [
+    "#SKMEI",
+    "#JamTanganWanita",
+    "#RekomendasiAksesoris",
+    "#OOTD",
+    "#Viral",
+    "#GayaAnakJaksel",
+    "#PromoMurah",
+    "#FYP"
+  ],
+  "product_id": 24026,
+  "product_title": "SKMEI 1252 / 1901 Jam Tangan Wanita Digital Tali Stainless MGOS",
+  "product_price": "69900.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [],
+  "product_link": "https://finding.id/p/24026",
+  "generated_at": "2026-03-13T05:42:03.549Z"
+}

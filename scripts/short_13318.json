@@ -1,0 +1,80 @@
+{
+  "title": "1KG Keripik Pisang Coklat Cuma 50 Ribu? Bonus Singkong!",
+  "hook_text": "1KG Keripik Coklat Cuma 50 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up keripik jatuh dari atas ke tangan dengan efek slow motion",
+      "narration": "Mau beli 1kg keripik coklat premium cuma seharga segelas kopimu?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Rajacemil penuh dengan bonus snack di meja",
+      "narration": "Ini Rajacemil, keripik pisang coklat khas Lampung. Pokoknya legit dan garing banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek glow",
+      "narration": "Harganya cuma lima puluh empat ribuan doang. Bayangin dapet bonus keripik singkong gurih juga!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up tekstur keripik, buka kemasan, makan sambil ekspresi senang",
+      "narration": "Pertama, beratnya satu kilo pas! --- Kedua, ada bonus keripik singkong. --- Rasa coklatnya creamy dikit, ada sedikit sentuhan susu. Jadi kalau kamu suka yang manis, ini literally next level worth it banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang makan sambil nonton series atau kerja di kantor",
+      "narration": "Perfect buat yang suka ngemil pas nonton series atau butuh snack kantor yang bikin happy dan kenyang."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.85, angka penjualan, dan teks testimonial",
+      "narration": "Rating 4.85, udah terjual tiga puluh ribuan. --- Yang udah beli bilang, 'Gurih banget bonus singkongnya, bakal beli lagi!'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id atau teks besar di layar",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#keripikpisang",
+    "#coklat",
+    "#snackviral",
+    "#rajacemil",
+    "#foodie",
+    "#ongkirmurah",
+    "#belanjaonline",
+    "#findingid"
+  ],
+  "product_id": 13318,
+  "product_title": "[Dapat Bonus Snack] 1kg Keripik Pisang Coklat Khas Lampung Rajacemil Keripik Pisang Lampung Cokelat Premium",
+  "product_price": "54499.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/13318.jpg",
+    "/uploads/products/13318_1.jpg",
+    "/uploads/products/13318_2.jpg",
+    "/uploads/products/13318_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/13318",
+  "generated_at": "2026-03-13T18:32:42.273Z"
+}

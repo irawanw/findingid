@@ -1,0 +1,96 @@
+{
+  "title": "Celana Pria Sam Premium Adem Melar Murah",
+  "hook_text": "Emang celana bisa bikin kamu auto ganteng?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah presenter yang terkejut melihat celana, lalu cut ke produk.",
+      "narration": "Emang celana bisa bikin kamu auto ganteng tanpa capek? ---"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Slow motion shot celana sedang dilipat, lalu dipegang untuk tunjukkan tekstur bahan.",
+      "narration": "Kenalan nih Celana Sam Premium Panjang terbaru. --- Bahan twil stretch yang literally next level. --- Adem halus melar, jadi nyaman banget buat sehari-hari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks harga besar muncul di layar dengan efek kilatan, disusul shot model pakai celana.",
+      "narration": "Harganya? --- Cuma delapan puluh sembilan ribu sembilan ratus aja. --- Gak nyangka kan harga segini dapet kualitas sekelas ini? --- Worth it banget bestie."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Montase cepat tiga fitur: bahan lembut, model slim fit, dan ukuran jumbo.",
+      "narration": "Ada tiga fitur utama yang wajib kamu tahu. --- Pertama, bahan katun twill yang super lembut. --- Kedua, model slim fit kekinian ala boho korean street style. --- Ketiga, ukuran jumbo tersedia buat kamu yang butuh lebih."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Teks poin-poin keunggulan muncul satu per satu di samping model celana.",
+      "narration": "Ini dia kelebihannya. --- Pertama, bahan katun twill stretch yang adem dan melar. --- Kedua, desain slim fit kekinian yang boho korean street style. --- Ketiga, ukuran jumbo tersedia hingga lingkar pinggang seratus delapan belas sentimeter. --- Keempat, harga sangat terjangkau di bawah seratus ribu rupiah."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Model celana sedang jalan santai di cafe atau nongkrong, suasana kasual.",
+      "narration": "Perfect buat yang badannya gendut tapi mau gaya. --- Kalau aktivitas kamu sering nongkrong seharian atau kerja santai, ini solusinya. --- Jangan lupa cek estimasi ukuran nomor celana yang jelas biar pas di badan."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Screenshot rating bintang dan jumlah terjual, lalu teks review muncul di layar.",
+      "narration": "Rating empat koma delapan empat bintang. --- Udah terjual empat puluh ribu produk. --- Review bilang adem lembut gak kasar kainya enak. --- Soal jahitan yang ragu, tenang deh, ini rapi banget kok."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Grid gambar celana dalam 5 warna yang tersedia.",
+      "narration": "Tersedia lima warna keren. --- Hitam, arny, mocca, cream, dan abu. --- Pilih sesuai selera kamu dong."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tombol beli atau panah mengarah ke link di bawah layar.",
+      "narration": "Mumpung masih stok, klik link di bawah sekarang. --- Jangan sampai kehabisan ya."
+    }
+  ],
+  "cta": "Klik link di bawah sekarang sebelum kehabisan!",
+  "hashtags": [
+    "#CelanaPria",
+    "#FashionPria",
+    "#OOTDPria",
+    "#RekomendasiCelana",
+    "#PromoMurah",
+    "#GayaKekinian",
+    "#CelanaStretch",
+    "#ViralTikTok"
+  ],
+  "product_id": 9674,
+  "product_title": "Celana Pria Sam Premium Panjang Terbaru Bahan Twill Model Kekinian Melar",
+  "product_price": "89900.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/9674.jpg",
+    "/uploads/products/9674_1.jpg",
+    "/uploads/products/9674_2.jpg",
+    "/uploads/products/9674_3.jpg",
+    "/uploads/products/9674_4.jpg",
+    "/uploads/products/9674_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/9674",
+  "generated_at": "2026-03-13T06:48:41.862Z"
+}

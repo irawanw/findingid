@@ -1,0 +1,83 @@
+{
+  "title": "Popok Bayi Anti Ruam Bestie! 🍼✨",
+  "hook_text": "Bayi nggak bisa ruam dong!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up bayi nangis karena ruam lalu cut ke tawa bahagia saat pakai popok Sweety.",
+      "narration": "Stop scroll! Pernah gak sih kamu khawatir si kecil kena ruam popok padahal baru lahir?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase produk Sweety Silver Comfort Cloud Soft dibuka rapi menampilkan tekstur lembut.",
+      "narration": "Tenang bestie, kenalan sama Sweety Silver Comfort Cloud Soft buat bayi baru lahir yang beratnya tiga sampai delapan kilo."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek confetti warna-warni.",
+      "narration": "Gila sih harganya cuma seratus empat puluh ribuan, nah which is worth it banget karena isinya tiga kaleng empat puluh buah."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Zoom ke motif berlian di dalam, 2. Gambar kulit bayi kering, 3. Ikon anti air.",
+      "narration": "Pertama ada Diamond Layer Technology yang bikin permukaan dalam bermotif berlian, jadi kontak kulit dengan pipis pup dikurangi banget. Kedua, teksturnya halus dan lembut, literally next level! Terakhir, performa anti ruamnya super kuat, nggak bakal bikin kulit si kecil meradang."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu muda sedang packing barang bayi ke dalam tas travel.",
+      "narration": "Perfect buat yang lagi persiapan melahirkan atau yang anak masih di bawah lima kilo, basically wajib punya buat masa-masa awal."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan angka 40 ribuan terjual dengan cepat.",
+      "narration": "Pembelinya pada ngomong selalu percaya sama produk dari softex dan bener bener baguss dari awal lahir udah pake."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul besar dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#popokbayi",
+    "#newborn",
+    "#sweety",
+    "#antiruam",
+    "#ibukarya",
+    "#produkramahbayi",
+    "#findingid",
+    "#babyessentials"
+  ],
+  "product_id": 166185,
+  "product_title": "Sweety Silver Comfort Cloud Soft Newborn NB - S 40 x 3 Popok Perekat Baby Diapers",
+  "product_price": "140500.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/166185.jpg",
+    "/uploads/products/166185_1.jpg",
+    "/uploads/products/166185_2.jpg",
+    "/uploads/products/166185_3.jpg",
+    "/uploads/products/166185_4.jpg",
+    "/uploads/products/166185_5.jpg",
+    "/uploads/products/166185_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/166185",
+  "generated_at": "2026-03-15T09:13:52.743Z"
+}

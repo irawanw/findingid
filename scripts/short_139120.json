@@ -1,0 +1,83 @@
+{
+  "title": "Silverqueen Mini 10 Pcs Cuma 70 Ribu?!",
+  "hook_text": "Belum tau Silverqueen ada versi Mini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot Silverqueen Mini box yang digoyangkan dengan efek zoom in cepat",
+      "narration": "Gak kerasa ya, Silverqueen versi Mini ada!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan membuka box Silverqueen, menampilkan 10 bar coklat berjejer rapi",
+      "narration": "Ini dia Silverqueen 22gr Mini, box isi 10 bar rasa lengkap! --- Literally so cute packaging-nya, bikin ngiler."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek sound effect 'cha-ching'",
+      "narration": "Harga? Cuma tujuh puluhan ribuan doang! --- Which is worth it banget buat stok di tas."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase close-up potongan bar coklat yang menunjukkan tekstur almond dan coklat",
+      "narration": "Pertama, Almond Mede Mix-nya dapet banget, jadi gurihnya nendang. Kedua, rasa coklat originalnya autentik no cap. Ketiga, ukurannya pas di tangan, nggak bikin lecek, praktis dibawa jalan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang makan coklat sambil kerja di meja atau sedang jalan-jalan",
+      "narration": "Perfect buat kamu yang suka ngemil tapi budget tipis-tipis. Atau buat temen ngerjain tugas biar nggak lapar. Atau buat stok di tas kantor biar semangat."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan teks 'Terjual 80.000' muncul di layar",
+      "narration": "Rating 4,81! Yang udah beli bilang 'harga terjangkau, rasa ori'. --- Ada yang komplain expired beda dikit, tapi tetep aman kok bestie, jangan terlalu khawatir. Terjual 80.000 produk nih!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol pointing ke arah teks 'Cek di finding dot id' dengan panah animasi",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya, review produk-nya ada di sana."
+    }
+  ],
+  "cta": "Cek di finding dot id ya!",
+  "hashtags": [
+    "#Silverqueen",
+    "#CoklatEnak",
+    "#SnackMurah",
+    "#GenZIndonesia",
+    "#CitaRasaOri",
+    "#SnackViral",
+    "#RekomendasiSnack",
+    "#FindingId"
+  ],
+  "product_id": 139120,
+  "product_title": "Silverqueen 22gr Mini 1 Box Isi 10 pcs Almond Mede Mix Rasa Lengkap, Coklat  Silver Queen Chunky Bar",
+  "product_price": "71333.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/139120.jpg",
+    "/uploads/products/139120_1.jpg",
+    "/uploads/products/139120_2.jpg",
+    "/uploads/products/139120_3.jpg",
+    "/uploads/products/139120_4.jpg",
+    "/uploads/products/139120_5.jpg",
+    "/uploads/products/139120_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/139120",
+  "generated_at": "2026-03-13T20:02:42.360Z"
+}

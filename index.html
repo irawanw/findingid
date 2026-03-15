@@ -1,0 +1,1387 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Primary Meta -->
+<title>finding.id — Asisten Belanja AI Marketplace Indonesia</title>
+<meta name="description" content="finding.id bantu kamu belanja online lebih hemat waktu dan tenaga. Cukup tanya, AI kami langsung carikan produk terbaik dari Shopee dengan harga, rating, dan ulasan real — tanpa perlu scroll berjam-jam.">
+<meta name="keywords" content="belanja online, asisten belanja AI, perbandingan harga, Shopee, produk terbaik, rekomendasi produk, hemat belanja, finding.id">
+<meta name="author" content="finding.id">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#F97316">
+<link rel="canonical" href="https://finding.id/">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://finding.id/">
+<meta property="og:title" content="finding.id — Asisten Belanja AI Marketplace Indonesia">
+<meta property="og:description" content="Hemat waktu & tenaga belanja online. Tanya AI kami, dapat rekomendasi produk terbaik dari Shopee seketika — lengkap dengan harga, rating, dan link affiliate.">
+<meta property="og:image" content="https://finding.id/og-image.png">
+<meta property="og:locale" content="id_ID">
+<meta property="og:site_name" content="finding.id">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://finding.id/">
+<meta name="twitter:title" content="finding.id — Asisten Belanja AI Marketplace Indonesia">
+<meta name="twitter:description" content="Hemat waktu & tenaga belanja online. Tanya AI kami, dapat rekomendasi produk terbaik dari Shopee seketika — lengkap dengan harga, rating, dan link affiliate.">
+<meta name="twitter:image" content="https://finding.id/og-image.png">
+<!-- Structured Data: WebSite + SearchAction (Google Sitelinks Searchbox) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "finding.id",
+  "url": "https://finding.id/",
+  "description": "Asisten belanja AI untuk marketplace Indonesia — cari produk terbaik dari Shopee dengan harga, rating, dan ulasan real.",
+  "inLanguage": "id",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://finding.id/?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "finding.id",
+  "url": "https://finding.id/",
+  "logo": "https://finding.id/og-image.png",
+  "sameAs": []
+}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   finding.id — Design System
+   Theme: Clumsy Orange · Monospace · Minimal · Fast
+   ============================================================ */
+
+:root {
+  --bg:           #FFF8F3;
+  --surface:      #FFFFFF;
+  --surface-2:    #FFF3EB;
+  --orange:       #F97316;
+  --orange-dark:  #C2410C;
+  --orange-mid:   #EA580C;
+  --orange-light: #FED7AA;
+  --orange-faint: #FFF7ED;
+  --orange-glow:  rgba(249, 115, 22, 0.12);
+  --text:         #1C1917;
+  --text-sub:     #57534E;
+  --text-muted:   #A8A29E;
+  --border:       #F0D5C0;
+  --border-focus: #F97316;
+  --radius:       10px;
+  --radius-sm:    6px;
+  --font:         'JetBrains Mono', 'Courier New', monospace;
+  --shadow:       0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(249,115,22,0.06);
+  --shadow-hover: 0 4px 16px rgba(249,115,22,0.14);
+}
+
+*,*::before,*::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  font-size: 13px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+/* ── Animations ───────────────────────────────────────────── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes blink {
+  0%,100% { opacity: 1; }
+  50%      { opacity: 0; }
+}
+@keyframes pulseDot {
+  0%,100% { opacity: 0.3; transform: scale(0.75); }
+  50%      { opacity: 1;   transform: scale(1); }
+}
+@keyframes shimmer {
+  0%   { background-position: -400px 0; }
+  100% { background-position: 400px 0; }
+}
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ── App shell ────────────────────────────────────────────── */
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  animation: fadeIn 0.45s ease-out;
+  padding-bottom: 60px;
+}
+
+/* ── Hero ─────────────────────────────────────────────────── */
+.hero {
+  text-align: center;
+  padding: 72px 24px 44px;
+  transition: padding 0.35s cubic-bezier(.4,0,.2,1);
+  width: 100%;
+}
+.hero.compact {
+  padding: 20px 24px 12px;
+}
+
+.logo {
+  font-size: 3.4rem;
+  font-weight: 700;
+  letter-spacing: -3px;
+  color: var(--text);
+  line-height: 1;
+  margin-bottom: 10px;
+  user-select: none;
+}
+.logo .dot { color: var(--orange); }
+.logo .id  { color: var(--orange-dark); }
+
+.hero.compact .logo {
+  font-size: 1.55rem;
+  letter-spacing: -1.5px;
+  margin-bottom: 4px;
+}
+
+.tagline {
+  font-size: 0.72rem;
+  font-weight: 400;
+  color: var(--text-muted);
+  letter-spacing: 3.5px;
+  text-transform: uppercase;
+}
+.hero.compact .tagline {
+  font-size: 0.62rem;
+  letter-spacing: 2.5px;
+}
+
+/* ── Search container ─────────────────────────────────────── */
+.search-wrap {
+  width: 100%;
+  max-width: 780px;
+  padding: 0 20px;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--bg);
+  padding-bottom: 10px;
+  padding-top: 4px;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: 12px;
+  padding: 4px 4px 4px 14px;
+  gap: 8px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  box-shadow: var(--shadow);
+}
+.search-box:focus-within {
+  border-color: var(--border-focus);
+  box-shadow: 0 0 0 4px var(--orange-glow), var(--shadow);
+}
+
+.search-icon {
+  color: var(--text-muted);
+  font-size: 18px;
+  line-height: 1;
+  flex-shrink: 0;
+  font-style: normal;
+}
+
+.search-input {
+  flex: 1;
+  border: none;
+  outline: none;
+  font-family: var(--font);
+  font-size: 15px;
+  color: var(--text);
+  background: transparent;
+  padding: 10px 0;
+  min-width: 0;
+}
+.search-input::placeholder { color: var(--text-muted); }
+
+.search-btn {
+  background: var(--orange);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 18px;
+  font-family: var(--font);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s;
+  letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+  height: 38px;
+  white-space: nowrap;
+}
+.search-btn:hover   { background: var(--orange-mid); }
+.search-btn:active  { transform: scale(0.97); }
+.search-btn:disabled{ background: var(--orange-light); cursor: not-allowed; }
+
+/* ── Suggestion chips ─────────────────────────────────────── */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  padding: 0 20px 36px;
+  max-width: 780px;
+  width: 100%;
+}
+.chips.hidden { display: none; }
+
+.chip {
+  padding: 6px 14px;
+  background: var(--orange-faint);
+  border: 1px solid var(--orange-light);
+  border-radius: 20px;
+  font-size: 12px;
+  color: var(--orange-dark);
+  cursor: pointer;
+  transition: all 0.15s;
+  font-family: var(--font);
+  white-space: nowrap;
+}
+.chip:hover {
+  background: var(--orange-light);
+  border-color: var(--orange);
+  color: var(--text);
+}
+
+/* ── Chat area ────────────────────────────────────────────── */
+.chat {
+  width: 100%;
+  max-width: 780px;
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+/* ── Empty state ──────────────────────────────────────────── */
+.empty {
+  text-align: center;
+  padding: 80px 20px;
+  color: var(--text-muted);
+  animation: fadeIn 0.5s ease-out;
+}
+.empty-glyph {
+  font-size: 52px;
+  margin-bottom: 20px;
+  opacity: 0.35;
+  display: block;
+  letter-spacing: -4px;
+}
+.empty-title {
+  font-size: 14px;
+  color: var(--text-sub);
+  margin-bottom: 8px;
+}
+.empty.has-popular {
+  padding-bottom: 24px;
+}
+.popular-section {
+  margin-top: 28px;
+  text-align: left;
+}
+.popular-label {
+  font-size: 10px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--orange);
+  margin-bottom: 10px;
+  padding-left: 2px;
+}
+.popular-outer {
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  border-radius: var(--radius);
+}
+.popular-outer::-webkit-scrollbar { display: none; }
+.empty-sub {
+  font-size: 10px;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  opacity: 0.6;
+}
+
+/* ── Messages ─────────────────────────────────────────────── */
+.msg {
+  animation: fadeIn 0.3s ease-out;
+}
+
+.msg-user {
+  display: flex;
+  justify-content: flex-end;
+}
+.msg-user .bubble {
+  background: var(--orange);
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: 12px 12px 2px 12px;
+  max-width: 82%;
+  font-size: 13px;
+  line-height: 1.4;
+  word-break: break-word;
+}
+
+.msg-ai {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.ai-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--text-muted);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.ai-orb {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--orange);
+  flex-shrink: 0;
+}
+
+/* ── AI text streaming ────────────────────────────────────── */
+.ai-body {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text);
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.cursor {
+  display: inline-block;
+  width: 2px;
+  height: 15px;
+  background: var(--orange);
+  margin-left: 2px;
+  vertical-align: text-bottom;
+  animation: blink 0.8s step-end infinite;
+}
+
+/* ── Status bar ───────────────────────────────────────────── */
+.status {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 11px;
+  color: var(--text-muted);
+  padding: 2px 0;
+}
+.status-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #10B981;
+  flex-shrink: 0;
+}
+.status-dot.pulsing {
+  background: var(--orange);
+  animation: pulseDot 1s ease-in-out infinite;
+}
+
+/* ── Loading dots ─────────────────────────────────────────── */
+.ld { display: flex; align-items: center; gap: 8px; color: var(--text-muted); font-size: 12px; }
+.ld-dots { display: flex; gap: 4px; }
+.ld-dot {
+  width: 5px; height: 5px;
+  border-radius: 50%;
+  background: var(--orange);
+  animation: pulseDot 1.2s ease-in-out infinite;
+}
+.ld-dot:nth-child(2) { animation-delay: 0.2s; }
+.ld-dot:nth-child(3) { animation-delay: 0.4s; }
+
+/* ── Product slide carousel ───────────────────────────────── */
+.slide-section {
+  width: 100%;
+  animation: fadeIn 0.4s ease-out;
+}
+.slide-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.slide-label {
+  font-size: 10px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+.slide-track {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+.slide-insight {
+  margin-top: 10px;
+  padding: 10px 14px;
+  background: var(--orange-faint);
+  border: 1px solid var(--orange-light);
+  border-radius: var(--radius-sm);
+  font-size: 11px;
+  color: var(--text-sub);
+  line-height: 1.6;
+}
+
+/* ── Product card ─────────────────────────────────────────── */
+.card {
+  background: var(--surface);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+  animation: fadeIn 0.35s ease-out backwards;
+  cursor: pointer;
+  text-decoration: none;
+  display: block;
+  color: inherit;
+  position: relative;
+}
+.card:hover {
+  border-color: var(--orange);
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-2px);
+}
+
+.card-badge {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 8px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  z-index: 1;
+}
+.badge-best  { background: #F97316; color: #fff; }
+.badge-cheap { background: #10B981; color: #fff; }
+.badge-hot   { background: #EF4444; color: #fff; }
+.badge-deal  { background: #7C3AED; color: #fff; }
+
+.card-img {
+  width: 100%;
+  aspect-ratio: 1;
+  background: var(--orange-faint);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  overflow: hidden;
+}
+.card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.card-body  { padding: 8px 10px 12px; }
+.card-title {
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 6px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: var(--orange-dark);
+  text-decoration: none;
+}
+.card-price {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--orange-dark);
+  margin-bottom: 4px;
+}
+.card-spec {
+  font-size: 9px;
+  color: var(--text-muted);
+  margin-bottom: 4px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.card-meta {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 9px;
+  color: var(--text-muted);
+  flex-wrap: wrap;
+}
+.card-stars { color: #F59E0B; letter-spacing: -1px; }
+.card-sold  { opacity: 0.8; }
+.card-src {
+  margin-left: auto;
+  padding: 2px 6px;
+  background: var(--orange-faint);
+  color: var(--orange-dark);
+  border-radius: 4px;
+  font-size: 8px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  border: 1px solid var(--orange-light);
+}
+.card-ai-review {
+  padding: 2px 7px;
+  background: linear-gradient(135deg, #667EEA22, #764BA222);
+  color: #764BA2;
+  border-radius: 4px;
+  font-size: 8px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  border: 1px solid #764BA255;
+  white-space: nowrap;
+}
+
+@media(min-width:600px) {
+  .slide-track { grid-template-columns: repeat(4, 1fr); }
+}
+.card.card-chosen {
+  border-color: var(--orange);
+  box-shadow: 0 0 0 1px var(--orange-light);
+}
+.card.card-chosen .card-title {
+  -webkit-line-clamp: 3;
+  font-size: 11px;
+}
+.badge-ai {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: var(--orange);
+  color: #fff;
+  font-size: 9px;
+  font-weight: 700;
+  padding: 3px 7px;
+  border-radius: 4px;
+  letter-spacing: 0.5px;
+  z-index: 1;
+}
+
+/* ── "Lihat Semua" card ───────────────────────────────────── */
+.card-see-all {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background: var(--orange-faint);
+  border: 1.5px dashed var(--orange-light);
+  border-radius: var(--radius);
+  cursor: pointer;
+  text-decoration: none;
+  color: var(--orange-dark);
+  transition: border-color 0.2s, background 0.2s, transform 0.2s;
+  animation: fadeIn 0.35s ease-out backwards;
+  min-height: 200px;
+}
+.card-see-all:hover {
+  border-color: var(--orange);
+  background: rgba(249,115,22,0.12);
+  transform: translateY(-2px);
+}
+.card-see-all-icon {
+  font-size: 28px;
+  line-height: 1;
+}
+.card-see-all-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0.03em;
+  padding: 0 8px;
+}
+.card-see-all-sub {
+  font-size: 9px;
+  opacity: 0.7;
+  text-align: center;
+  padding: 0 8px;
+}
+
+/* ── Error ────────────────────────────────────────────────── */
+.err {
+  padding: 12px 16px;
+  background: #FEF2F2;
+  border: 1px solid #FECACA;
+  border-radius: var(--radius-sm);
+  color: #DC2626;
+  font-size: 13px;
+}
+
+/* ── Divider ──────────────────────────────────────────────── */
+.divider {
+  width: 100%;
+  height: 1px;
+  background: var(--border);
+  opacity: 0.5;
+}
+
+/* ── Footer ───────────────────────────────────────────────── */
+.footer {
+  border-top: 1px solid var(--border);
+  background: rgba(255, 248, 243, 0.97);
+  padding: 24px 20px 16px;
+  margin-top: 32px;
+}
+.footer-links {
+  max-width: 860px;
+  margin: 0 auto 16px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 16px;
+}
+.footer-col h4 {
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--orange);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+.footer-col a {
+  display: block;
+  font-size: 11px;
+  color: var(--text-sub);
+  text-decoration: none;
+  padding: 2px 0;
+  line-height: 1.6;
+  transition: color 0.15s;
+}
+.footer-col a:hover { color: var(--orange); }
+.footer-copy {
+  text-align: center;
+  font-size: 10px;
+  color: var(--text-muted);
+  letter-spacing: 1.5px;
+  border-top: 1px solid var(--border);
+  padding-top: 12px;
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+/* ── Scrollbar ────────────────────────────────────────────── */
+::-webkit-scrollbar       { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--orange-light); }
+
+/* ── Responsive ───────────────────────────────────────────── */
+@media (max-width: 640px) {
+  .logo { font-size: 2.4rem; letter-spacing: -2px; }
+  .hero { padding: 48px 20px 28px; }
+  .grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .search-input { font-size: 14px; }
+  .search-btn span:last-child { display: none; }
+}
+</style>
+</head>
+<body>
+
+<div class="app" id="app">
+
+  <!-- ── Hero ──────────────────────────────────────────────── -->
+  <div class="hero" id="hero">
+    <div class="logo">finding<span class="dot">.</span><span class="id">id</span></div>
+    <div class="tagline">AI Marketplace Intelligence</div>
+  </div>
+
+  <!-- ── Search ────────────────────────────────────────────── -->
+  <div class="search-wrap">
+    <div class="search-box">
+      <i class="search-icon">⌕</i>
+      <input
+        type="text"
+        id="q"
+        class="search-input"
+        placeholder="Tanya tentang produk, harga, rekomendasi..."
+        autocomplete="off"
+        spellcheck="false"
+        aria-label="Search query"
+      >
+      <button class="search-btn" id="searchBtn" onclick="go()">
+        <span>Cari</span>
+        <span>↵</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- ── Chips ─────────────────────────────────────────────── -->
+  <div class="chips" id="chips">
+  </div>
+
+  <!-- ── Chat ──────────────────────────────────────────────── -->
+  <div class="chat" id="chat">
+    <div class="empty" id="empty">
+      <span class="empty-glyph">◈◈◈</span>
+      <div class="empty-title">Tanya apa saja tentang produk di Indonesia</div>
+      <div class="empty-sub">Shopee &middot; Tokopedia &middot; Properti &middot; Otomotif &middot; +more</div>
+    </div>
+  </div>
+
+</div>
+
+<!-- ── Footer ──────────────────────────────────────────────── -->
+<footer class="footer">
+  <div class="footer-links">
+    <div class="footer-col">
+      <h4>📉 Deals</h4>
+      <a href="/deals" style="font-weight:600;color:var(--orange)">Price Drop Terbaru</a>
+      <a href="/deals#hot">🔥 Turun 30%+</a>
+      <a href="/deals#good">💸 Turun 15–30%</a>
+      <a href="/deals#mild">📉 Turun 5–15%</a>
+    </div>
+    <div class="footer-col">
+      <h4>✦ AI Review</h4>
+      <a href="/ai-review" style="font-weight:600;color:var(--orange)">Semua Review AI</a>
+      <a href="/ai-review#makanan-minuman">Makanan &amp; Minuman</a>
+      <a href="/ai-review#pakaian-fashion">Pakaian &amp; Fashion</a>
+      <a href="/ai-review#kecantikan-perawatan">Kecantikan &amp; Perawatan</a>
+      <a href="/ai-review#peralatan-rumah-tangga">Peralatan Rumah</a>
+    </div>
+    <div class="footer-col">
+      <h4>Laptop &amp; PC</h4>
+      <a href="/best/laptop">Laptop Terbaik</a>
+      <a href="/best/laptop-gaming">Laptop Gaming Terbaik</a>
+      <a href="/top/laptop-5jt">Laptop di Bawah 5 Juta</a>
+      <a href="/best/monitor">Monitor Terbaik</a>
+      <a href="/best/gpu">GPU / VGA Terbaik</a>
+      <a href="/best/ssd">SSD Terbaik</a>
+    </div>
+    <div class="footer-col">
+      <h4>Handphone &amp; Tablet</h4>
+      <a href="/best/handphone">HP Terbaik</a>
+      <a href="/top/handphone-2jt">HP di Bawah 2 Juta</a>
+      <a href="/top/handphone-3jt">HP di Bawah 3 Juta</a>
+      <a href="/best/tablet">Tablet Terbaik</a>
+      <a href="/best/smartwatch">Smartwatch Terbaik</a>
+      <a href="/best/powerbank">Powerbank Terbaik</a>
+    </div>
+  </div>
+  <div class="footer-copy">
+    finding.id &mdash; AI Marketplace Intelligence &mdash; 2025
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="/ai-review" style="color:var(--orange);text-decoration:none;font-weight:700">✦ AI Review</a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="/deals" style="color:var(--orange);text-decoration:none;font-weight:700">📉 Deals</a>
+  </div>
+</footer>
+
+<script>
+// ================================================================
+// finding.id — Frontend Core
+// Architecture: Vanilla JS + Fetch SSE Streaming
+// No frameworks. No bundler. < 100kb total.
+//
+// Flow:
+//   User query → POST /api/search → SSE stream
+//   Stream events: status | token | products | done | error
+//
+// Streaming format (NDJSON over text/event-stream):
+//   data: {"type":"status","message":"...","stage":"rag"}
+//   data: {"type":"token","content":"..."}
+//   data: {"type":"products","data":[{...}]}
+//   data: {"type":"done","sources":5,"duration":1200}
+//   data: [DONE]
+// ================================================================
+
+const API = '';          // same-origin; change for CORS
+let busy = false;
+let ctrl = null;
+let lastQuery = '';      // last search query — used for "Lihat Semua" link
+
+// ── Session ID — persists for tab lifetime, resets on new tab ─
+// Used to attribute search → click in affiliate_click_events
+const _sid = Math.random().toString(36).slice(2, 10) + Date.now().toString(36);
+
+// ── Conversation memory ───────────────────────────────────────
+let chatHistory = []; // [{role:'user',content:...},{role:'assistant',content:...}]
+const HISTORY_MAX_PAIRS = 3;
+
+// ── Entry point ──────────────────────────────────────────────
+async function go() {
+  const inp = document.getElementById('q');
+  const q   = inp.value.trim();
+  if (!q || busy) return;
+
+  if (ctrl) ctrl.abort();
+  ctrl = new AbortController();
+
+  inp.value = '';
+  busy = true;
+
+  // Wake the extension service worker immediately so it polls for the priority scrape job
+  // (Chrome clamps alarms to 1 min; this bypasses that via content_findingid.js port)
+  window.postMessage({ __fid_search: true, query: q }, '*');
+
+  // Compact header on first search
+  document.getElementById('hero').classList.add('compact');
+  document.getElementById('chips').classList.add('hidden');
+  document.getElementById('empty')?.remove();
+
+  lastQuery = q;
+  const chat = document.getElementById('chat');
+  addUser(q, chat);
+
+  const { aiEl, textEl, ldEl, statusEl } = addAI(chat);
+  setBusy(true);
+
+  try {
+    await stream(q, textEl, ldEl, statusEl, aiEl, ctrl.signal);
+  } catch(e) {
+    if (e.name !== 'AbortError') {
+      ldEl.style.display = 'none';
+      textEl.innerHTML = '';
+      textEl.style.color = '#DC2626';
+      const errMsg = document.createElement('span');
+      errMsg.textContent = '⚠ Gagal terhubung ke server. ';
+      const retryBtn = document.createElement('button');
+      retryBtn.textContent = 'Coba lagi →';
+      retryBtn.style.cssText = 'background:none;border:none;color:#DC2626;text-decoration:underline;cursor:pointer;font:inherit;padding:0;';
+      retryBtn.onclick = () => {
+        inp.value = q;
+        go();
+      };
+      textEl.appendChild(errMsg);
+      textEl.appendChild(retryBtn);
+    }
+  } finally {
+    busy = false;
+    setBusy(false);
+    ctrl = null;
+  }
+}
+
+// ── SSE Streaming ────────────────────────────────────────────
+async function stream(query, textEl, ldEl, statusEl, container, signal) {
+  const res = await fetch(`${API}/api/search`, {
+    method:  'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body:    JSON.stringify({ query, history: chatHistory }),
+    signal
+  });
+
+  if (!res.ok) {
+    throw new Error(`HTTP ${res.status}: ${res.statusText}`);
+  }
+
+  const reader  = res.body.getReader();
+  const dec     = new TextDecoder();
+  let   buf     = '';
+  let   text    = '';          // text rendered so far (typing head)
+  let   cursor  = textEl.querySelector('.cursor');
+
+  // ── Typing queue ─────────────────────────────────────────────
+  // SSE tokens are buffered here; a timer renders 1 char at a time
+  // to simulate human-like typing speed (~30 ms / char ≈ 33 cps).
+  let charQueue   = '';
+  let typingTimer = null;
+  const CHAR_DELAY = 2; // ms per character
+
+  function flushChar() {
+    if (!charQueue.length) { typingTimer = null; return; }
+    const cp = charQueue.codePointAt(0);
+    const ch = String.fromCodePoint(cp);
+    charQueue = charQueue.slice(ch.length);
+    text += ch;
+    textEl.innerHTML = mdToHtml(text);
+    if (cursor) textEl.appendChild(cursor);
+    typingTimer = setTimeout(flushChar, CHAR_DELAY);
+  }
+
+  function enqueue(chunk) {
+    charQueue += chunk;
+    if (!typingTimer) typingTimer = setTimeout(flushChar, CHAR_DELAY);
+  }
+
+  function waitTypingDone() {
+    return new Promise(resolve => {
+      (function check() {
+        if (!charQueue.length && !typingTimer) return resolve();
+        setTimeout(check, 50);
+      })();
+    });
+  }
+  // ─────────────────────────────────────────────────────────────
+
+  let deferredDone  = null;
+  let deferredError = null;
+
+  while (true) {
+    let done, value;
+    try {
+      ({ done, value } = await reader.read());
+    } catch (_) {
+      // Connection closed ungracefully (HTTP/2 RST_STREAM after all data sent).
+      // If we already got the SSE 'done' event, treat this as a clean finish.
+      if (deferredDone) break;
+      throw _;
+    }
+    if (done) break;
+
+    buf += dec.decode(value, { stream: true });
+    const lines = buf.split('\n');
+    buf = lines.pop(); // hold incomplete line
+
+    for (const line of lines) {
+      if (!line.startsWith('data: ')) continue;
+      const raw = line.slice(6).trim();
+      if (!raw || raw === '[DONE]') continue;
+
+      let ev;
+      try { ev = JSON.parse(raw); } catch { continue; }
+
+      switch (ev.type) {
+
+        case 'status':
+          ldEl.style.display = 'none';
+          setStatus(statusEl, ev.message, true);
+          break;
+
+        case 'token':
+          ldEl.style.display = 'none';
+          enqueue(ev.content);
+          break;
+
+        case 'replace':
+          // LLM marker stripped — replace rendered text cleanly
+          charQueue = '';
+          text = ev.content;
+          textEl.innerHTML = mdToHtml(text);
+          break;
+
+        case 'products':
+          // preliminary=true → initial cards shown while LLM runs; final event replaces them
+          renderProducts(ev.data, container);
+          break;
+
+        case 'done':
+          deferredDone = ev;
+          break;
+
+        case 'error':
+          deferredError = ev;
+          break;
+      }
+    }
+  }
+
+  // Wait for typing animation to finish before showing done/error
+  await waitTypingDone();
+
+  if (deferredError) {
+    if (cursor) cursor.remove();
+    ldEl.style.display = 'none';
+    textEl.textContent = `⚠ ${deferredError.message}`;
+    textEl.style.color = '#DC2626';
+  } else if (deferredDone) {
+    const ev = deferredDone;
+    if (cursor) cursor.remove();
+    setStatus(statusEl, `${ev.sources ?? 0} sumber · ${ev.duration ?? 0}ms`, false);
+    statusEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    // Save to conversation history
+    // New product searches reset context so old topics don't bleed in
+    const assistantText = textEl.textContent.trim();
+    if (assistantText) {
+      if (ev.intent === 'search') chatHistory = [];
+      chatHistory.push({ role: 'user',      content: query });
+      chatHistory.push({ role: 'assistant', content: assistantText });
+      if (chatHistory.length > HISTORY_MAX_PAIRS * 2) {
+        chatHistory = chatHistory.slice(-HISTORY_MAX_PAIRS * 2);
+      }
+    }
+  }
+}
+
+// ── DOM builders ─────────────────────────────────────────────
+function addUser(text, chat) {
+  const d = document.createElement('div');
+  d.className = 'msg msg-user';
+  d.innerHTML = `<div class="bubble">${esc(text)}</div>`;
+  chat.appendChild(d);
+  d.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function addAI(chat) {
+  const d = document.createElement('div');
+  d.className = 'msg msg-ai';
+  d.innerHTML = `
+    <div class="ai-header">
+      <div class="ai-orb"></div>
+      finding.id
+    </div>
+    <div class="ld" id="ld_${Date.now()}">
+      <div class="ld-dots">
+        <div class="ld-dot"></div>
+        <div class="ld-dot"></div>
+        <div class="ld-dot"></div>
+      </div>
+      <span>Memproses...</span>
+    </div>
+    <div class="ai-body"></div>
+    <div class="status" style="display:none"></div>
+  `;
+  chat.appendChild(d);
+
+  const textEl   = d.querySelector('.ai-body');
+  const ldEl     = d.querySelector('.ld');
+  const statusEl = d.querySelector('.status');
+
+  // Blinking cursor
+  const cursor = document.createElement('span');
+  cursor.className = 'cursor';
+  textEl.appendChild(cursor);
+
+  d.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  return { aiEl: d, textEl, ldEl, statusEl };
+}
+
+function setStatus(el, msg, pulsing) {
+  el.style.display = 'flex';
+  el.innerHTML = `<div class="status-dot${pulsing ? ' pulsing' : ''}"></div><span>${esc(msg)}</span>`;
+}
+
+// ── Product slide carousel ────────────────────────────────────
+
+function renderSlide(products, container, query) {
+  if (!Array.isArray(products) || !products.length) return;
+
+  // Remove previous slide if any
+  container.querySelector('.slide-section')?.remove();
+
+  const total = products.length;
+
+  // Show all products; affiliate link is optional (card still links to /go/:id or original link)
+
+  // Compute badges — always parse as float (MySQL DECIMAL comes back as string)
+  const px        = p => parseFloat(p.price) || 0;
+  const sx        = p => parseInt(p.sold_count ?? p.sold) || 0;
+  const rx        = p => parseFloat(p.rating)  || 0;
+
+  const withPrice = products.filter(p => px(p) > 0);
+  const cheapest  = withPrice.length
+    ? withPrice.reduce((a,b) => px(a) < px(b) ? a : b)
+    : null;
+
+  const withSold  = products.filter(p => sx(p) > 0);
+  const hottest   = withSold.length
+    ? withSold.reduce((a,b) => sx(b) > sx(a) ? b : a)
+    : null;
+
+  // Best = highest rating among products with actual sales; fallback to highest rating
+  const score = p => rx(p) * 0.6 + Math.log1p(sx(p)) * 0.4;
+  const pool  = withSold.length ? withSold : products;
+  const best  = pool.reduce((a,b) => score(b) > score(a) ? b : a, pool[0]);
+
+  const chosen = products.filter(p => p.is_chosen).sort((a,b) => (a.chosen_rank||9)-(b.chosen_rank||9));
+  const rest   = products.filter(p => !p.is_chosen);
+
+  const section = document.createElement('div');
+  section.className = 'slide-section';
+
+  const insight = buildInsight(products, best, cheapest, hottest);
+  section.innerHTML = `
+    <div class="slide-header">
+      <span class="slide-label">▸ ${total} produk ditemukan</span>
+    </div>
+    <div class="slide-track" id="slideTrack"></div>
+    <div class="slide-insight">${insight}</div>
+  `;
+
+  function makeCard(p, i, isChosen) {
+    const card = document.createElement('a');
+    card.className = 'card' + (isChosen ? ' card-chosen' : '');
+    const goUrl = p.id
+      ? `/go/${p.id}?sid=${encodeURIComponent(_sid)}&q=${encodeURIComponent(query || lastQuery || '')}`
+      : (p.affiliate_link || p.link || '#');
+    card.href   = goUrl;
+    card.target = '_blank';
+    card.rel    = 'noopener noreferrer';
+    card.style.animationDelay = `${i * 0.06}s`;
+
+    let badge = '';
+    if (isChosen)                         badge = `<div class="badge-ai">AI #${p.chosen_rank}</div>`;
+    else if (p.is_deal)                   badge = `<div class="card-badge badge-deal">🏷️ DEAL</div>`;
+    else if (p === best)                  badge = `<div class="card-badge badge-best">🏆 Terbaik</div>`;
+    else if (p === cheapest)              badge = `<div class="card-badge badge-cheap">💰 Termurah</div>`;
+    else if (p === hottest && p !== best) badge = `<div class="card-badge badge-hot">🔥 Terlaris</div>`;
+
+    // AI review badge — shown bottom of card if product page exists
+    const aiReviewBadge = p.has_ai_page
+      ? `<span class="card-ai-review">✦ AI Review</span>`
+      : '';
+
+    const stars = buildStars(p.rating);
+    const price = fmtPrice(p.price);
+    const src   = esc((p.source || 'shop').toUpperCase());
+    const sold  = (p.sold_count||p.sold) ? fmtNum(p.sold_count||p.sold) + ' terjual' : '';
+    const spec  = firstSpec(p.specs);
+
+    card.innerHTML = `
+      ${badge}
+      <div class="card-img">${(p.image_url||p.image) ? `<img src="${escA(p.image_url||p.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='📦'">` : '📦'}</div>
+      <div class="card-body">
+        <div class="card-title">${esc(p.title || 'Produk')}</div>
+        <div class="card-price">${price}</div>
+        ${spec ? `<div class="card-spec">${esc(spec)}</div>` : ''}
+        <div class="card-meta">
+          <span class="card-stars">${stars}</span>
+          ${sold ? `<span class="card-sold">${esc(sold)}</span>` : ''}
+          <span class="card-src">${src}</span>
+          ${aiReviewBadge}
+        </div>
+      </div>`;
+    return card;
+  }
+
+  const track = section.querySelector('#slideTrack');
+  chosen.forEach((p, i) => track.appendChild(makeCard(p, i, true)));
+  rest.forEach((p, i) => track.appendChild(makeCard(p, i, false)));
+
+  // "Lihat Semua" card
+  const seeAll = document.createElement('a');
+  seeAll.className = 'card-see-all';
+  const q = encodeURIComponent(query || lastQuery || '');
+  seeAll.href = q ? `/hasil?q=${q}` : '/hasil';
+  seeAll.innerHTML = `
+    <div class="card-see-all-icon">🔍</div>
+    <div class="card-see-all-label">Lihat Semua</div>
+    <div class="card-see-all-sub">Hasil lengkap</div>`;
+  seeAll.style.animationDelay = `${rest.length * 0.06}s`;
+  track.appendChild(seeAll);
+
+  container.appendChild(section);
+}
+
+function buildInsight(products, best, cheapest, hottest) {
+  const parts = [];
+  if (best) {
+    const sold = parseInt(best.sold_count) || 0;
+    const p    = fmtPrice(best.price).replace(/<[^>]+>/g,'');
+    parts.push(`🏆 <b>${esc(best.title.slice(0,45))}...</b> — rating ${parseFloat(best.rating)||'-'}⭐${sold ? ', ' + fmtNum(sold) + ' terjual' : ''}, ${p}`);
+  }
+  if (cheapest && cheapest !== best) {
+    parts.push(`💰 Termurah: <b>${esc(cheapest.title.slice(0,35))}...</b> — ${fmtPrice(cheapest.price).replace(/<[^>]+>/g,'')}`);
+  }
+  if (hottest && hottest !== best) {
+    parts.push(`🔥 Terlaris: <b>${esc(hottest.title.slice(0,35))}...</b> — ${fmtNum(parseInt(hottest.sold_count))} terjual`);
+  }
+  return parts.join('<br>') || 'Data produk tersedia.';
+}
+
+function renderProducts(products, container) {
+  renderSlide(products, container, lastQuery);
+}
+
+// ── Utilities ─────────────────────────────────────────────────
+function setBusy(v) {
+  const btn = document.getElementById('searchBtn');
+  btn.disabled = v;
+  btn.innerHTML = v
+    ? `<div class="ld-dots">
+         <div class="ld-dot" style="background:#fff"></div>
+         <div class="ld-dot" style="background:#fff;animation-delay:.2s"></div>
+         <div class="ld-dot" style="background:#fff;animation-delay:.4s"></div>
+       </div>`
+    : `<span>Cari</span><span>↵</span>`;
+}
+
+const CHIP_POOL = [
+  'sepatu sneakers','skincare viral','earphone TWS',
+  'tas wanita','jaket hoodie','serum wajah',
+  'powerbank','headset gaming',
+];
+
+function fill(el) {
+  const inp = document.getElementById('q');
+  inp.value = el.textContent;
+  inp.focus();
+}
+
+(function renderChips() {
+  const el = document.getElementById('chips');
+  if (!el) return;
+  const pool = [...CHIP_POOL].sort(() => Math.random() - 0.5).slice(0, 4);
+  el.innerHTML = pool.map(kw =>
+    `<div class="chip" onclick="fill(this)">${kw}</div>`
+  ).join('');
+})();
+
+function scrollBottom() {
+  window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+}
+
+function firstSpec(specs) {
+  if (!specs) return '';
+  // Return first key:value pair from the pipe-delimited specs string
+  return (String(specs).split('|')[0] || '').trim().slice(0, 60);
+}
+
+function fmtNum(n) {
+  const v = parseInt(n) || 0;
+  if (v >= 1000) return (v / 1000).toFixed(1).replace(/\.0$/, '') + 'rb';
+  return String(v);
+}
+
+function buildStars(r) {
+  const n = Math.round(Math.max(0, Math.min(5, r || 0)));
+  return '★'.repeat(n) + '☆'.repeat(5 - n);
+}
+
+function fmtPrice(p) {
+  if (!p && p !== 0) return '<span style="color:var(--text-muted)">— harga tidak tersedia</span>';
+  // parseFloat handles MySQL DECIMAL strings like "2600000.00" correctly.
+  // Never use parseInt(str.replace(/\D/,'')) — strips the dot and merges decimals.
+  const n = Math.round(parseFloat(p));
+  if (isNaN(n)) return esc(String(p));
+  return 'Rp&nbsp;' + n.toLocaleString('id-ID');
+}
+
+function mdToHtml(s) {
+  // Split on <a ...>...</a> tags — pass links through raw, escape everything else.
+  const parts = s.split(/(<a\s[^>]*>[\s\S]*?<\/a>)/);
+  return parts.map((part, i) => {
+    if (i % 2 === 1) return part; // captured <a> tag — pass through unchanged
+    return esc(part)
+      .replace(/\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g,
+        (_, text, url) => `<a href="${escA(url)}" target="_blank" rel="noopener noreferrer" style="color:var(--orange)">${text}</a>`)
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*(.+?)\*/g,     '<em>$1</em>')
+      .replace(/`(.+?)`/g,       '<code style="background:var(--orange-faint);padding:1px 5px;border-radius:3px">$1</code>')
+      .replace(/\n/g,            '<br>');
+  }).join('');
+}
+
+function esc(s) {
+  return String(s)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function escA(s) {
+  return String(s).replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+// ── Popular products on empty state ──────────────────────────
+async function loadPopularProducts() {
+  try {
+    const res = await fetch('/api/products?sort=category-top&limit=20');
+    if (!res.ok) return;
+    const data = await res.json();
+    const products = data.products || data;
+    if (!Array.isArray(products) || !products.length) return;
+
+    const emptyEl = document.getElementById('empty');
+    if (!emptyEl) return;
+
+    const section = document.createElement('div');
+    section.className = 'popular-section';
+    section.innerHTML = '<div class="popular-label">▸ Terpopuler</div>';
+
+    const outer = document.createElement('div');
+    outer.className = 'popular-outer';
+
+    const track = document.createElement('div');
+    track.className = 'slide-track';
+
+    products.forEach((p, i) => {
+      const card  = document.createElement('a');
+      card.className = 'card';
+      const goUrl = p.id
+        ? `/go/${p.id}?sid=${encodeURIComponent(_sid)}&q=terpopuler`
+        : (p.affiliate_link || p.link || '#');
+      card.href   = goUrl;
+      card.target = '_blank';
+      card.rel    = 'noopener noreferrer';
+      card.style.animationDelay = `${i * 0.06}s`;
+
+      const stars = buildStars(p.rating);
+      const price = fmtPrice(p.price);
+      const src   = esc((p.source || 'shop').toUpperCase());
+      const sold  = (p.sold_count || p.sold) ? fmtNum(p.sold_count || p.sold) + ' terjual' : '';
+      const spec  = firstSpec(p.specs);
+      const img   = p.image_url || p.image;
+
+      card.innerHTML = `
+        <div class="card-img">${img ? `<img src="${escA(img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='📦'">` : '📦'}</div>
+        <div class="card-body">
+          <div class="card-title">${esc(p.title || 'Produk')}</div>
+          <div class="card-price">${price}</div>
+          ${spec ? `<div class="card-spec">${esc(spec)}</div>` : ''}
+          <div class="card-meta">
+            <span class="card-stars">${stars}</span>
+            ${sold ? `<span class="card-sold">${esc(sold)}</span>` : ''}
+            <span class="card-src">${src}</span>
+          </div>
+        </div>`;
+      track.appendChild(card);
+    });
+
+    outer.appendChild(track);
+    section.appendChild(outer);
+    emptyEl.appendChild(section);
+    emptyEl.classList.add('has-popular');
+  } catch (_) {
+    // silently fail — decorative only
+  }
+}
+
+// ── Keyboard ──────────────────────────────────────────────────
+document.getElementById('q').addEventListener('keydown', e => {
+  if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); go(); }
+  if (e.key === 'Escape' && ctrl)       { ctrl.abort(); busy = false; setBusy(false); }
+});
+
+// ── Auto-focus ────────────────────────────────────────────────
+document.getElementById('q').focus();
+
+// Load popular products into empty state on page load
+loadPopularProducts();
+</script>
+</body>
+</html>

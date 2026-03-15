@@ -1,0 +1,83 @@
+{
+  "title": "GlutaColl 5500 Bikin Glowing? Cek Ini!",
+  "hook_text": "Kulit Glowing Tanpa Suntik?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah glowing, tangan melakukan gestur stop scroll ke kamera",
+      "narration": "Stop scroll! Mau kulit glowing tapi males suntik? Literally no cap, ini solusinya."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk di tangan, liquid minuman dituang ke gelas bening",
+      "narration": "Kenalin, NEWLAB Brightlogy GlutaColl-5500. Minuman collagen plus glutathione yang bikin glowing dari dalam tubuh kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, tangan memegang dompet",
+      "narration": "Harganya? Cuma seratus enam puluh ribuan doang buat stok sebulan. Worth it banget, no cap."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Animasi molekul masuk kulit, cup minuman segar dengan buah stroberi",
+      "narration": "Ada 5500mg Collagen Tripeptide molekul kecil, gampang diserap. Plus Glutathione, efek cerah ganda. Rasanya apel stroberi, seger parah. --- Bikin kulit rata dan sehat."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wanita begadang lalu berubah jadi segar, aktivitas di luar ruangan",
+      "narration": "Perfect buat yang sering begadang atau aktivitas di luar ruangan. Kalau butuh skin barrier kuat, ini wajib masuk cart. Nggak gampang lelah. Waktu istirahat juga jadi lebih berkualitas."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.84 dan pop up chat testimoni pembeli",
+      "narration": "Rating empat koma delapan empat bintang, sudah terjual dua ratus ribu produk. Yang udah beli bilang, \"Bikin kulit kenyal, bab lancar\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar, pointer mengarah ke teks",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#SkincareRutin",
+    "#GlutaColl",
+    "#Newlab",
+    "#KulitGlowing",
+    "#BeautyTips",
+    "#SuplemenWajah",
+    "#GenZSkincare",
+    "#FindingID"
+  ],
+  "product_id": 101637,
+  "product_title": "NEWLAB Brightlogy GlutaColl-5500 | Minuman Glutathione & Collagen Drink",
+  "product_price": "161000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/101637.jpg",
+    "/uploads/products/101637_1.jpg",
+    "/uploads/products/101637_2.jpg",
+    "/uploads/products/101637_3.jpg",
+    "/uploads/products/101637_4.jpg",
+    "/uploads/products/101637_5.jpg",
+    "/uploads/products/101637_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/101637",
+  "generated_at": "2026-03-13T17:44:57.891Z"
+}

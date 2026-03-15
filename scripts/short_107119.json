@@ -1,0 +1,83 @@
+{
+  "title": "Tas MIVVER Murah Mewah Viral?",
+  "hook_text": "Tas murah kelihatan mewah? --- No cap!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas MIVVER dengan efek cahaya kilap, transisi cepat.",
+      "narration": "Tas murah kelihatan mewah? --- No cap, ini beneran bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot model memakai tas di berbagai sudut, menunjukkan ringannya.",
+      "narration": "MIVVER Ultimate Waistbag ini literally next level. Ringan, anti air, modelnya unisex banget buat sehari-hari. Nggak bakal nyesel punya!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar dengan efek sticker, bandingkan dengan logo tas mahal.",
+      "narration": "Bayangin, harga seratus dua puluh ribuan doang. Worth it banget dibanding tas branded lain yang jauh lebih mahal."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Detail water proof test, muat powerbank, dan bahan yang ditarik.",
+      "narration": "Kapasitas luas, muat powerbank sama dompet. Bahan kuat, tapi jangan ditarik kasar biar nggak melar. Desain simpel elegan, which is so cute! Water proof asli, jadi aman pas hujan deras."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model jalan di jalan kota atau naik ojek online, terlihat praktis.",
+      "narration": "Perfect buat kamu yang sering ngantor atau traveling. Nggak perlu repot bawa tas besar, semua muat di sini. Stylish banget buat outfit casual."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan angka 20k terjual di layar.",
+      "narration": "Rating 4,9 dari 20 ribu pembeli. Yang udah beli bilang 'tasnya kelihatan mahal sampai nggak bisa berkata-kata'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dan panah mengarah ke bawah.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#MIVVER",
+    "#TasPinggang",
+    "#Viral",
+    "#GayaHidup",
+    "#ObralCuciGudang",
+    "#TasMurah",
+    "#FindID",
+    "#ProdukViral"
+  ],
+  "product_id": 107119,
+  "product_title": "MIVVER | Ultimate Waistbag Slingbag Waterproof Tas Pinggang Selempang Ringan Anti Air Pria Wanita",
+  "product_price": "125003.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/107119.jpg",
+    "/uploads/products/107119_1.jpg",
+    "/uploads/products/107119_2.jpg",
+    "/uploads/products/107119_3.jpg",
+    "/uploads/products/107119_4.jpg",
+    "/uploads/products/107119_5.jpg",
+    "/uploads/products/107119_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/107119",
+  "generated_at": "2026-03-13T23:30:41.139Z"
+}

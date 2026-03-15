@@ -1,0 +1,110 @@
+{
+  "title": "Hampers Bayi Murah Meriah Kado Bestie!",
+  "hook_text": "Kado Bayi Mewah Cuma Seharga Gorengan?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan close-up box hampers bayi yang estetik dengan efek cahaya dramatis",
+      "narration": "Kado Bayi Mewah Cuma Seharga Gorengan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Host membuka box hampers dengan ekspresi kaget dan senang",
+      "narration": "Bestie, finally nemu kado terbaik buat little one kamu nih. Ini Hampers Newborn lengkap banget isinya."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks harga besar muncul di layar dengan animasi efek koin jatuh",
+      "narration": "Harganya mulai dari enam puluh ribu lima ratus rupiah doang, sampai delapan puluh empat ribu lima ratus. which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Montage cepat memperlihatkan isi baju, slaber, dan sepatu di dalam box",
+      "narration": "Kamu dapet paket lengkap berisi baju, slaber, plus sepatu. Semua dikasih dalam box yang estetik dan bisa pilih motifnya di note checkout."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Close-up tekstur kain yang lembut dan kemasan bubble wrap yang tebal",
+      "narration": "Pertama, paket lengkap baju slaber dan sepatu. Kedua, bahan katun soft combed premium yang lembut banget di kulit. Ketiga, harga terjangkau di bawah tujuh puluh ribu. Keempat, extra packing pakai bubble wrap dan dus tambahan biar aman sampai tujuan. No cap, ini bukan bahan tipis kayak mainan, bener-bener premium."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Suara tawa bayi dan adegan orang tua tersenyum melihat kado",
+      "narration": "Perfect buat kamu yang punya budget terbatas tapi pengen hadiah rapi dan lucu. Kalau aktivitas kamu sibuk, ini solusinya. --- Buat kado ulang tahun juga oke banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Tampilan rating bintang 4.84 dan jumlah terjual 40.000 di layar",
+      "narration": "Ratingnya empat koma delapan empat dari lima bintang. Udah laku terjual empat puluh ribu produk. Reviewnya bilang barang sampai dengan baik dan awet."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Grid menampilkan semua varian warna yang tersedia",
+      "narration": "Ada Coksu B, Grey D, Blue F, Coksu D, Coksu C, sampai Big Boy Black M. Pilih sesuai selera baby kamu."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Tombol beli dan panah menunjuk ke arah link di deskripsi",
+      "narration": "Klik link di deskripsi sekarang, sebelum kehabisan bestie! Jangan sampai nyesel."
+    }
+  ],
+  "cta": "Klik link di deskripsi sekarang, sebelum kehabisan bestie!",
+  "hashtags": [
+    "#hampersbayi",
+    "#kadobayi",
+    "#newborn",
+    "#bayilucu",
+    "#hampersmurah",
+    "#kadoulangtahun",
+    "#bayibeauty",
+    "#parenting"
+  ],
+  "product_id": 21642,
+  "product_title": "Hampers Bayi Newborn | Hampers Baby Boy | Hampers Baby Girl | Kado Bayi | Hadiah Kado",
+  "product_price": "60500.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21642.jpg",
+    "/uploads/products/21642_1.jpg",
+    "/uploads/products/21642_2.jpg",
+    "/uploads/products/21642_3.jpg",
+    "/uploads/products/21642_4.jpg",
+    "/uploads/products/21642_5.jpg",
+    "/uploads/products/21642_6.jpg",
+    "/uploads/products/21642_7.jpg",
+    "/uploads/products/21642_8.jpg",
+    "/uploads/products/21642_9.jpg",
+    "/uploads/products/21642_10.jpg",
+    "/uploads/products/21642_11.jpg",
+    "/uploads/products/21642_12.jpg",
+    "/uploads/products/21642_13.jpg",
+    "/uploads/products/21642_14.jpg",
+    "/uploads/products/21642_15.jpg",
+    "/uploads/products/21642_16.jpg",
+    "/uploads/products/21642_17.jpg",
+    "/uploads/products/21642_18.jpg",
+    "/uploads/products/21642_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/21642",
+  "generated_at": "2026-03-12T19:04:31.544Z"
+}

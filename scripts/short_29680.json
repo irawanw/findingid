@@ -1,0 +1,96 @@
+{
+  "title": "Paket 100 Ribuan Dapat 3 Celana Kulot Adem",
+  "hook_text": "Dapat 3 Celana Cuma 100 Ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget memegang tumpukan celana kulot dengan latar belakang blur.",
+      "narration": "Gila sih, dapet 3 celana cuma 100 ribuan?!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Slow motion model memakai celana kulot sambil berputar menunjukkan potongan bahan.",
+      "narration": "Ini paket 3 celana kulot hommy wanita kekinian. Bahannya rayon original adem banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek gliter, lalu berubah jadi harga paket.",
+      "narration": "Harga aslinya bisa sampai seratus dua puluh ribuan, tapi paket cuma delapan puluhan ribu doang."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi memasukkan HP dan charger ke saku, lalu close up tekstur bahan rayon.",
+      "narration": "Saku samping lebar banget, muat masuk 2 HP plus charger. Motif warnanya literally tajam. Bahan rayon asli lembut di kulit. Namanya barang murah, jadi tipis dikit, tapi lembut banget kok."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Tampilan model berbeda dengan berat badan bervariasi memakai celana yang sama.",
+      "narration": "Perfect buat kamu dengan Berat Badan 35 sampai 70 kilogram. Kalau kamu suka outfit kasual yang nyaman dipakai seharian, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating bintang 4.83 dan jumlah penjualan 100 ribu muncul besar di layar.",
+      "narration": "Rating 4.83 bintang, udah terjual 100 ribu. --- Yang udah beli bilang 'bahan adem nyaman dipakai, nggak nyesal belanja di toko ini'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol panah mengarah ke bawah atau logo finding dot id dengan background cerah.",
+      "narration": "Mau cek detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Mau cek detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#CelanaKulot",
+    "#OotdMurah",
+    "#FashionWanita",
+    "#FindItAtFinding",
+    "#ProdukViral",
+    "#OOTDHarian",
+    "#RekomendasiBaju",
+    "#PromoVoucher"
+  ],
+  "product_id": 29680,
+  "product_title": "PAKET 100ribu DAPAT 3 CELANA KULOT HOMMY WANITA KEKINIAN",
+  "product_price": "81670.00",
+  "product_rating": "4.83",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/29680.jpg",
+    "/uploads/products/29680_1.jpg",
+    "/uploads/products/29680_2.jpg",
+    "/uploads/products/29680_3.jpg",
+    "/uploads/products/29680_4.jpg",
+    "/uploads/products/29680_5.jpg",
+    "/uploads/products/29680_6.jpg",
+    "/uploads/products/29680_7.jpg",
+    "/uploads/products/29680_8.jpg",
+    "/uploads/products/29680_9.jpg",
+    "/uploads/products/29680_10.jpg",
+    "/uploads/products/29680_11.jpg",
+    "/uploads/products/29680_12.jpg",
+    "/uploads/products/29680_13.jpg",
+    "/uploads/products/29680_14.jpg",
+    "/uploads/products/29680_15.jpg",
+    "/uploads/products/29680_16.jpg",
+    "/uploads/products/29680_17.jpg",
+    "/uploads/products/29680_18.jpg",
+    "/uploads/products/29680_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/29680",
+  "generated_at": "2026-03-13T20:52:50.538Z"
+}

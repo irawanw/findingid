@@ -1,0 +1,85 @@
+{
+  "title": "Upgrade Laptop Lama Jadi Ngebut! SSD V-GEN Murah Banget",
+  "hook_text": "Laptop lemot? Ganti SSD ini!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan laptop yang terlihat lambat/kaldu saat loading aplikasi, lalu transisi cepat ke tampilan super ngebut.",
+      "narration": "Rugi banget kalau laptop kesayangan kamu masih lemot kayak begini, bestie! Pasang SSD V-GEN aja, langsung next level!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot close-up SSD V-GEN berkilau dengan teks overlay 'Platinum & Rescue Edition'.",
+      "narration": "Ini V-GEN SSD, tersedia dari satu ratus delapan puluhan ribu hingga empat juta tiga ratus enam puluh ribuan. Ada varian Platinum dan Rescue yang cocok buat kamu!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga muncul dengan efek uang jatuh, lalu muncul stempel 'WORTH IT'.",
+      "narration": "Harganya nggak bikin dompet kesusah, which is worth it banget. Performanya setara dengan merek mahal, tapi harga jauh lebih ramah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Ikon kecepatan berputar, ikon perisai keamanan, dan ikon garansi 5 tahun muncul bergantian.",
+      "narration": "Kecepatan baca sampe lima ratus lima puluh MB per detik, bikin buka file secepat kilat! Teknologi tiga D NAND plus enkripsi AES dua ratus lima puluh enam bit buat keamanan data kamu, plus garansi lima tahun tukar langsung. No cap, kualitasnya top!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario orang sedang kerja dari rumah, gaming, dan edit foto dengan lancar.",
+      "narration": "Perfect buat yang sering multitasking, gaming, atau edit foto tapi laptopnya masih pakai harddisk lama. Kalau aktivitas kamu butuh kecepatan maksimal, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang empat koma sembilan dan angka penjualan besar-besar.",
+      "narration": "Rating empat koma sembilan dan sudah terjual lima puluh ribu unit. Yang udah beli bilang barangnya asli dan awet banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan tombol 'Cek Sekarang' yang berdenyut.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id sekarang!",
+  "hashtags": [
+    "#UpgradeLaptop",
+    "#SSDVGen",
+    "#GadgetMurah",
+    "#TechIndonesia",
+    "#LaptopNgebut",
+    "#StorageUpgrade",
+    "#FindingId",
+    "#GenZVibes"
+  ],
+  "product_id": 11252,
+  "product_title": "V-GEN SSD 128gb 256gb 512gb 1TB 2TB SATA 3 Solid State Drive 128 256 512 GB 1 2 TB VGEN SATA 3",
+  "product_price": "1327710.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/11252.jpg",
+    "/uploads/products/11252_1.jpg",
+    "/uploads/products/11252_2.jpg",
+    "/uploads/products/11252_3.jpg",
+    "/uploads/products/11252_4.jpg",
+    "/uploads/products/11252_5.jpg",
+    "/uploads/products/11252_6.jpg",
+    "/uploads/products/11252_7.jpg",
+    "/uploads/products/11252_8.jpg"
+  ],
+  "product_link": "https://finding.id/p/11252",
+  "generated_at": "2026-03-14T04:31:40.204Z"
+}

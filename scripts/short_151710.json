@@ -1,0 +1,82 @@
+{
+  "title": "Termometer Digital Murah, Akurat No Cap!",
+  "hook_text": "Suhu badan gak pas, bisa fatal!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot wajah panik memegang dahi, lalu transisi cepat ke produk termometer.",
+      "narration": "Nah bestie, kalau suhu badan naik turun gak jelas, itu bahaya banget. Jangan coba-coba tebak-tebakan, karena bisa fatal lho!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk termometer digital infrared ditembakkan ke dahi dengan efek suara beep, lalu muncul teks overlay 'Termo Gun'.",
+      "narration": "Nah, solusinya ada nih Thermometer Digital Infrared Tembak! Alat ukur suhu tubuh super canggih yang cara pakainya tinggal arahkan dan tembak, literally super easy banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 59.000 dengan efek kilat, dibandingkan dengan ikon termometer mahal di sebelah kiri.",
+      "narration": "Dan yang bikin kaget, harga cuma enam puluh ribuan an bestie! Worth it banget kan buat punya alat kesehatan di rumah tanpa bikin dompet boncos?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Layar LED menyala, 2. Ukur suhu dari jarak jauh, 3. Tombol power ditekan.",
+      "narration": "Fiturnya next level nih, ada tiga banget. Pertama, hasil instan dalam hitungan detik tanpa perlu ditempel. Kedua, akurasinya bagus banget buat deteksi demam. Ketiga, packaging aman rapih dan produknya udah dicoba berfungsi dengan baik."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Adegan ibu mengecek suhu anak saat tidur, lalu ayah mengecek suhu diri sendiri di pagi hari.",
+      "narration": "Ini perfect banget buat kalian yang punya balita atau sering banget khawatir sama suhu tubuh. Kalau aktivitas kamu sibuk dan butuh cek cepat tanpa harus bangunin orang tidur, ini wajib punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.80 bintang dan jumlah terjual 20.000, diselingi screenshot chat pembeli.",
+      "narration": "Pembelinya pada ngomong kalau akurasinya baik dan kemudahan penggunaannya juara. Yang udah beli bilang packingnya aman rapih dan produknya berfungsi dengan sempurna."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar 'Cek di Finding.id' dengan panah menunjuk ke bawah, background produk berkilau.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#TermometerDigital",
+    "#HealthHacks",
+    "#RekomendasiBarang",
+    "#CekSuhuBadan",
+    "#AlatKesehatanMurah",
+    "#GenZIndonesia",
+    "#ViralProduct",
+    "#FindingID"
+  ],
+  "product_id": 151710,
+  "product_title": "THERMOMETER digital infrared tembak Termometer badan Ukur alat pengukur suhu tubuh termogun",
+  "product_price": "59000.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/151710.jpg",
+    "/uploads/products/151710_1.jpg",
+    "/uploads/products/151710_2.jpg",
+    "/uploads/products/151710_3.jpg",
+    "/uploads/products/151710_4.jpg",
+    "/uploads/products/151710_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/151710",
+  "generated_at": "2026-03-15T17:40:39.834Z"
+}

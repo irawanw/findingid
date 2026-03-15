@@ -1,0 +1,83 @@
+{
+  "title": "Nebulizer Portable Murah Banget! Worth It Gak?",
+  "hook_text": "Pernapasan lancar cuma 149 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wajah ekspresif panik lalu tiba-tiba senyum lebar sambil pegang nebuiser di tengah ruangan gelap",
+      "narration": "Stop scroll! Pernapasan lancar dan lega cuma pakai alat sekecil ini?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat produk Dr.isla Nebulizer Portable Mesh warna hitam di atas meja kayu dengan pencahayaan dramatis",
+      "narration": "Ini Dr.isla Nebulizer Portable Mesh N6, bestie! Alat uap bantu pernapasan yang compact, cocok buat asma dan inhalasi anak maupun dewasa, literally so cute dan fungsional banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga besar di layar dengan efek getar, lalu muncul icon centang hijau besar",
+      "narration": "Gila sih harga cuma seratus empat puluh sembilan ribuan, which is worth it banget untuk kualitas yang didapat! Dibanding beli di tempat lain, ini murah meriah tapi nggak murahan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan nebuiser nempel di dada, kanan tunjukkan nebuiser di saku jaket, bawah tunjukkan nebuiser nempel di kepala",
+      "narration": "Pertama, teknologi mesh nebulizer bikin partikel obat super halus masuk langsung ke paru-paru tanpa batuk-batuk. Kedua, baterainya awet banget, bisa dipakai di mana saja, which means kamu nggak perlu bawa listrik kemana-mana. Ketiga, desainnya super portabel, bisa nempel di dada, di saku jaket, atau bahkan di kepala, basically next level kenyamanan!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase aktivitas: anak lari-lari tanpa sesak, orang dewasa kerja di luar ruangan, ibu menyusui dengan lega",
+      "narration": "Perfect buat kamu yang sering batuk-batuk, punya anak kecil yang gampang asma, atau pekerja yang butuh pernapasan maksimal di luar ruangan. Kalau aktivitas kamu aktif dan butuh bantuan napas kapan saja, ini wajib punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up rating 4.82 bintang besar dengan background foto pembeli sedang tersenyum lega",
+      "narration": "Rating 4.82 dari dua puluh ribu produk yang udah terjual, dan yang udah beli bilang kualitasnya bagus dan performanya oke banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh tulisan besar 'Cek finding dot id' dengan tombol animasi klik",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#DrIsla",
+    "#NebulizerMurah",
+    "#AsmaAnak",
+    "#AlatPernapasan",
+    "#GenZShop",
+    "#FindingId",
+    "#HealthHacks",
+    "#WorthIt"
+  ],
+  "product_id": 149734,
+  "product_title": "Dr.isla Nebulizer Portable Mesh Alat Uap Bantu Pernafasan Asma Inhalasi/alat Nebulizer Anak/Cocok Untuk Anak Anak Dan Orang Dewasa/ USB N6",
+  "product_price": "149000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/149734.jpg",
+    "/uploads/products/149734_1.jpg",
+    "/uploads/products/149734_2.jpg",
+    "/uploads/products/149734_3.jpg",
+    "/uploads/products/149734_4.jpg",
+    "/uploads/products/149734_5.jpg",
+    "/uploads/products/149734_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/149734",
+  "generated_at": "2026-03-15T11:49:06.637Z"
+}

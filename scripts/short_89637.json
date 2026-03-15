@@ -1,0 +1,82 @@
+{
+  "title": "Wedges Gio Saverino Murah & Kece Abis!",
+  "hook_text": "SEPATU MURAH HAKNYA ELEGAN!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up sepatu wedges berputar dengan efek cahaya, model menatap kamera dengan ekspresi kaget.",
+      "narration": "Siapa bilang wedges mahal bikin kantong bolong?!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memakai sepatu wedges Berlin, jalan santai di luar ruangan, tunjukkan detail desain.",
+      "narration": "Kenalin nih, Gio Saverino Wedges Berlin. --- Desainnya elegan banget, tapi harganya? Literally nggak nyangka!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek 'WOW', model menunjuk ke arah harga.",
+      "narration": "Harganya cuma sekitar seratus lima puluh ribuan dong! --- Untuk kualitas yang bener-bener kayak sepatu mall."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up bagian sol, bahan, dan tumit sepatu, lalu model berjalan jauh untuk tunjukkan kenyamanan.",
+      "narration": "Pertama, haknya nyaman, jalan seharian nggak sakit. --- Kedua, tampilannya kece abis, sama persis foto. --- Ketiga, bahannya solid, beneran awet. No cap, worth it banget!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model memadukan sepatu dengan dress dan celana, lalu menunjukkan perbandingan ukuran kaki.",
+      "narration": "Perfect buat yang suka outfit kece tapi butuh sepatu buat jalan-jalan. --- Oh ya, buat yang biasa size 38, saranin ambil 37 biar nggak kebesaran ya bestie!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.77, angka penjualan 30.000, dan screenshot chat pembeli.",
+      "narration": "Sudah terjual 30 ribu produk dengan rating 4,77. --- Yang udah beli bilang, 'Penampakan kece abis, bener kualitas mall.'"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar, jari model menunjuk ke arah logo, background blur.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#GioSaverino",
+    "#WedgesMurah",
+    "#SepatuCantik",
+    "#OOTDIndonesia",
+    "#FashionGenZ",
+    "#RekomendasiSepatu",
+    "#GayaHidup",
+    "#Viral"
+  ],
+  "product_id": 89637,
+  "product_title": "Gio Saverino Sepatu Wanita Wedges Berlin Hak Nyaman dan Elegant",
+  "product_price": "158984.00",
+  "product_rating": "4.77",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/89637.jpg",
+    "/uploads/products/89637_1.jpg",
+    "/uploads/products/89637_2.jpg",
+    "/uploads/products/89637_3.jpg",
+    "/uploads/products/89637_4.jpg",
+    "/uploads/products/89637_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/89637",
+  "generated_at": "2026-03-13T17:53:17.604Z"
+}

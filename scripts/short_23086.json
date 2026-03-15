@@ -1,0 +1,77 @@
+{
+  "title": "Boot Hujan Lokal? Worth It Banget!",
+  "hook_text": "Boot Hujan Karet Lokal? Stop Scroll!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up sepatu boot hitam basah di genangan air dengan efek transisi cepat.",
+      "narration": "Pernah nyasar hujan deres pakai sepatu biasa? Nggak tahan air, kaki jadi kedinginan, literally kaget banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot full-body model memakai sepatu AP ULTIMATE 2015 saat berjalan di tanah berlumpur, tunjuk sol karet lentur.",
+      "narration": "Kenalan dong sama AP ULTIMATE 2015, sepatu boot tinggi karet lokal yang basically next level buat proyek, berkebun, atau ternak."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri tulisan harga mahal, kanan sepatu ini dengan teks harga besar Rp 120-an ribuan.",
+      "narration": "Bestie, harga pas di seratus dua puluhan ribu doang. Nggak percaya? Ini seharga secangkir kopi tapi dapet kualitas premium banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Kaki masuk sepatu (tunjukkan karet fleksibel), 2. Close-up material karet tahan air, 3. Model lari kecil di lumpur.",
+      "narration": "First, solnya super lentur dan ringan, nggak kaku kayak sepatu kanvas biasa. Second, materialnya 100% karet lokal yang nggak bocor air. Third, desainnya kokoh banget, banting-bantingan proyek nggak masalah!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: orang sedang menanam bunga di kebun, lalu orang sedang membersihkan kandang ayam.",
+      "narration": "Perfect buat kamu yang hobi berkebun atau sering kerja lapangan. Kalau aktivitasmu sering kena lumpur atau genangan air, ini wajib masuk cart!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.87 bintang dan angka 20.000 terjual di layar, lalu zoom ke komentar pembeli.",
+      "narration": "Rating empat koma delapan tujuh bintang dari dua puluh ribu pembelinya pada ngomong kualitasnya sangat baik dan sepadan dengan uang yang dikeluarkan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke arah tombol, background warna cerah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#SepatuBoot",
+    "#KaretLokal",
+    "#HujanMurah",
+    "#APBoots",
+    "#ReviewShoes",
+    "#GenZStyle",
+    "#BudgetFriendly",
+    "#FindingID"
+  ],
+  "product_id": 23086,
+  "product_title": "Sepatu Boot Tinggi AP ULTIMATE 2015 AP Boots Hitam Karet Lokal Ringan Lentur Nyaman Proyek",
+  "product_price": "121999.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/23086.jpg"
+  ],
+  "product_link": "https://finding.id/p/23086",
+  "generated_at": "2026-03-14T09:39:01.345Z"
+}

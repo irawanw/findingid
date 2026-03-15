@@ -1,0 +1,81 @@
+{
+  "title": "Celana Running Tebal & Nyaman! Worth It?",
+  "hook_text": "XXL nggak muat?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah panik sambil pegang celana di depan kamera dengan teks besar merah di layar",
+      "narration": "Stop scroll! Ada yang bilang ukuran XXL di celana ini nggak muat sama sekali, pas banget buat anak kecil."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Cut cepat ke shot slow-mo lari di lintasan atau gym dengan transisi zoom-in pada bahan celana",
+      "narration": "Tenang bestie, ini bukan salah celana! Bahan Misty tebalnya kualitasnya nggak main-main, beneran super nyaman buat olahraga maupun gaya sehari-hari."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan layar harga dengan efek uang jatuh dan stiker 'Best Deal' melompat-lompat",
+      "narration": "No cap, harga cuma seratus delapan puluhan ribu! Which is worth it banget sih, mengingat ketebalan dan ketahanannya yang next level."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tampilkan tekstur bahan dekat, kanan tampilkan orang melakukan squat dan lari tanpa celana turun",
+      "narration": "First, bahannya Misty tebal yang adem dan nggak transparan. Second, fit-nya elastis banget jadi gerak bebas saat lari atau squat. Third, bentuknya slim fit yang bikin kaki terlihat langsing dan rapi, nggak melar meski dipakai berkeringat."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase berbagai aktivitas: jogging pagi, ke gym angkat beban, sampai nongkrong santai di kafe",
+      "narration": "Perfect buat kamu yang aktivitasnya variatif, mulai dari gym, jogging, atau sekadar ingin tampil sporty saat nongkrong. Kalau kamu suka gaya urban yang praktis, ini the one."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.8 bintang dengan animasi jumlah terjual 20.000 dan kutipan muncul dari bawah",
+      "narration": "Rating empat delapan empat dari dua puluh ribu produk terjual! Pembelinya pada ngomong bahan sesuai deskripsi dan kualitasnya sangat bagus."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding ID muncul dengan tombol panah besar menunjuk ke bawah, musik upbeat climax",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, detail produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id ya bestie!",
+  "hashtags": [
+    "#CelanaRunning",
+    "#OOTD",
+    "#GymLife",
+    "#FashionViral",
+    "#BestDeal",
+    "#WorthIt",
+    "#Jogging",
+    "#FindingID"
+  ],
+  "product_id": 12018,
+  "product_title": "Celana running pria olahraga gym joging fitnes aerobik misty tebal",
+  "product_price": "67999.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/12018.jpg",
+    "/uploads/products/12018_1.jpg",
+    "/uploads/products/12018_2.jpg",
+    "/uploads/products/12018_3.jpg",
+    "/uploads/products/12018_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/12018",
+  "generated_at": "2026-03-15T02:39:48.543Z"
+}

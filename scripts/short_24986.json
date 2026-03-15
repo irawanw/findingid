@@ -1,0 +1,81 @@
+{
+  "title": "HP 2 Jutaan Baterai Gila! POCO C85 Worth It",
+  "hook_text": "HP Harga 2 Juta Baterai Gila?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up HP dengan efek ledakan baterai, teks besar muncul di tengah layar",
+      "narration": "HP harga dua juta baterai gila? --- Tonton sampai habis bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "B-roll produk POCO C85 dari berbagai sudut, highlight logo POCO",
+      "narration": "Kenalin POCO C85, solusi budget terbatas tapi performa maksimal. --- Garansi lima belas bulan aman banget buat kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga di layar HP atau overlay harga besar dengan tanda seru",
+      "narration": "Harganya? Satu juta tujuh ratusan ribu doang. --- Basically next level buat spek segini, worth it banget buat kantong pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase fitur: ikon baterai besar, animasi refresh rate 120Hz, dan multitasking layar",
+      "narration": "Baterai enam ribu mAh tahan seharian, plus fast charging tiga puluh tiga W cepet banget isi dayanya. --- Layar seratus dua puluh Hz bikin visualnya super smooth no lag saat main game. RAM enam belas GB multitasking lancar banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario pelajar main laptop dan streaming, cut ke orang jalan sambil nge-chat",
+      "narration": "Cocok buat pelajar atau pekerja yang butuh gadget produktif. --- Kalau kamu sering nonton film, layar enam koma sembilan inch ini nyaman banget buat mata jadi nggak khawatir lowbat."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan jumlah penjualan di layar e-commerce",
+      "narration": "Rating empat koma sembilan empat dari dua puluh ribu pembeli. --- Yang udah beli bilang 'Sampai aman dapet harga murah dan lengkap'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke arah bawah",
+      "narration": "Penasaran detailnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana! Jangan kehabisan."
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#POCOIndonesia",
+    "#HPMurah",
+    "#GadgetViral",
+    "#TechReview",
+    "#FindinID",
+    "#RekomendasiHP",
+    "#GenZIndonesia",
+    "#PromoGadget"
+  ],
+  "product_id": 24986,
+  "product_title": "POCO C85 (6/128 GB) (8/256 GB) Baterai besar 6000mAh dengan pengisian daya 33W | Ekspansi RAM hingga 16GB | Layar imersif 6.9\" 120Hz | 50MP kamera ganda AI [Official Store]",
+  "product_price": "1799000.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/24986.jpg",
+    "/uploads/products/24986_1.jpg",
+    "/uploads/products/24986_2.jpg",
+    "/uploads/products/24986_3.jpg",
+    "/uploads/products/24986_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/24986",
+  "generated_at": "2026-03-13T16:12:28.512Z"
+}

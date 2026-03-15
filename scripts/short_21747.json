@@ -1,0 +1,83 @@
+{
+  "title": "Sofa Box Penyimpanan Murah Banget! 😱📦",
+  "hook_text": "Lupa tempat simpen barang?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tampilan ruang tamu berantakan dengan barang berserakan di lantai, lalu transisi cepat ke sofa box yang rapi.",
+      "narration": "Lagi pusing nggak ada tempat simpen barang di rumah? Tenang dong, aku nemu solusi saving space banget buat kamu!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Close up sofa box yang diduduki lalu dibuka menampakkan ruang dalamnya, tunjukkan tekstur kulitnya.",
+      "narration": "Ini dia sofa box organizer serbaguna yang bisa dilipat, basically next level buat nyelamatin ruang tamu kamu! Bahan kulitnya nggak main-main, solid dan nyaman buat diduduki, which is worth it banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar-besar dengan efek confetti, bandingkan dengan harga barang biasa.",
+      "narration": "Gila bestie, harganya cuma seratus delapan puluhan ribu! Murah meriah banget untuk kualitas begini, nggak perlu nyari harga coret yang nggak masuk akal kok!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: orang duduk nyaman, membuka tutup box untuk masukkan mainan, dan menunjukkan ukurannya pas di sudut ruangan.",
+      "narration": "Kenapa harus beli ini? Pertama, kapasitasnya super besar buat nyimpen mainan atau baju musiman. Kedua, desainnya solid dan kokoh, nggak gampang rusak kok. Dan yang paling penting, ukurannya pas sesuai keinginan, nggak bikin ruang sempit jadi makin sesak!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario anak kos atau ibu rumah tangga membereskan kamar sambil duduk santai di sofa box.",
+      "narration": "Perfect buat yang lagi kos-kosan atau ibu rumah tangga yang sibuk membereskan rumah! Kalau aktivitas kamu sering butuh tempat duduk sekaligus simpanan, barang ini wajib banget masuk keranjang!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.82 dan angka 20.000 terjual dengan flash teks kutipan pembeli.",
+      "narration": "Rating empat delapan dua dan sudah terjual dua puluh ribuan! Yang udah beli bilang kapasitasnya sangat besar dan produknya sangat kuat, nggak main-main!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi tombol beli, arah panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#sofabox",
+    "#idehiasrumah",
+    "#produkmurah",
+    "#organizerruang",
+    "#kosan",
+    "#idebelanja",
+    "#findingid",
+    "#hematbudget"
+  ],
+  "product_id": 21747,
+  "product_title": "sofa Storage box  kursi box penyimpanan dapat dilipat kursi organizer box Sofa Kotak Penyimpanan Serbaguna",
+  "product_price": "85000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/21747.jpg",
+    "/uploads/products/21747_1.jpg",
+    "/uploads/products/21747_2.jpg",
+    "/uploads/products/21747_3.jpg",
+    "/uploads/products/21747_4.jpg",
+    "/uploads/products/21747_5.jpg",
+    "/uploads/products/21747_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/21747",
+  "generated_at": "2026-03-15T12:07:07.189Z"
+}

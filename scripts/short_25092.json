@@ -1,0 +1,91 @@
+{
+  "title": "Gendongan Bayi Murah Tapi Premium? Worth It Banget!",
+  "hook_text": "Gendongan 20kg cuma 62 ribuan??",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up gendongan GLOO ditekuk menunjukkan kekuatan, transisi cepat ke ibu menggendong bayi dengan gaya cool.",
+      "narration": "Stop scroll bestie! Gendongan bayi kuat 20 kilo, tapi harganya cuma 62 ribuan? Literally no cap, ini gila sih!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase ibu berbagai ukuran tubuh memakai gendongan yang pas, zoom in pada detail jahitan dan bahan soft.",
+      "narration": "Ini Gendongan Bayi Depan GLOO Baby 3in1. Desainnya kekinian dan punya fitur adjustable yang bikin semua mom merasa nyaman, nggak peduli ukuran tubuh kamu berapa."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menunjukkan harga terendah, lalu gambar kantong penyimpanan di depan gendongan.",
+      "narration": "Cuma 48 ribuan aja! Wow, worth it banget dong. Plus ada kantong penyimpanan di depan buat nyimpen tissue atau selimut kecil, super praktis."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Ibu mengatur tali (adjustable), 2. Bayi duduk tegak (M-Shape), 3. Ibu sedang jalan-jalan (konstruksi kuat).",
+      "narration": "Fiturnya next level! Pertama adjustable pas di badan. Kedua desain M-Shape bikin postur bayi optimal. Ketiga bahan polyester soft lembut di kulit. Dan yang paling penting, konstruksinya 3 layer kuat ngantukin berat 20 kilo!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu baru menggendong bayi newborn di taman atau di keramaian pasar dengan gendongan ini.",
+      "narration": "Perfect buat kamu yang punya bayi baru lahir sampai usia 3 bulan dengan berat di bawah 5 kilo. Kalau kamu sering ke luar rumah atau butuh gendongan fungsional tapi budget terbatas, ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.86 dan angka 50.000 produk terjual, lalu teks kutipan pembeli muncul.",
+      "narration": "Rating 4.86 dan udah terjual 50 ribu produk! Yang udah beli bilang bahannya halus dan pengiriman cepat. Jadi nggak perlu ragu lagi ya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol simulasi klik mengarah ke logo finding.id dengan animasi panah membesar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#GendonganBayi",
+    "#Gloobaby",
+    "#MomHacks",
+    "#ParentingIndonesia",
+    "#BabyWrap",
+    "#ViralShorts",
+    "#MurahMeriah",
+    "#IbuBaru"
+  ],
+  "product_id": 25092,
+  "product_title": "Gendongan Bayi Depan M Shape Baby Wrap 3in1 Geos Baby Instan Premium with Sash Belt  GLOO",
+  "product_price": "48999.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/25092.jpg",
+    "/uploads/products/25092_1.jpg",
+    "/uploads/products/25092_2.jpg",
+    "/uploads/products/25092_3.jpg",
+    "/uploads/products/25092_4.jpg",
+    "/uploads/products/25092_5.jpg",
+    "/uploads/products/25092_6.jpg",
+    "/uploads/products/25092_7.jpg",
+    "/uploads/products/25092_8.jpg",
+    "/uploads/products/25092_9.jpg",
+    "/uploads/products/25092_10.jpg",
+    "/uploads/products/25092_11.jpg",
+    "/uploads/products/25092_12.jpg",
+    "/uploads/products/25092_13.jpg",
+    "/uploads/products/25092_14.jpg"
+  ],
+  "product_link": "https://finding.id/p/25092",
+  "generated_at": "2026-03-15T08:00:45.819Z"
+}

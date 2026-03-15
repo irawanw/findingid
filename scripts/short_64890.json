@@ -1,0 +1,77 @@
+{
+  "title": "Downy Sunrise Fresh 3 Pcs Wangi & Hemat Banget!",
+  "hook_text": "nggak percaya cucian bisa wangi se-itu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget lalu transisi cepat ke tumpukan botol Downy Sunrise Fresh.",
+      "narration": "nggak percaya cucian bisa wangi se-itu banget cuma pake pelembut biasa?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot tangan memegang paket refill 1.35 liter yang terlihat besar dan mewah.",
+      "narration": "Nih, Downy Sunrise Fresh refill 1.35 liter, tapi dapet tiga botol sekaligus!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek koin jatuh atau uang terbang.",
+      "narration": "Harga seratus delapan puluhan ribu doang, which is worth it banget buat stok lama."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Slow motion air mancur aroma bunga dan tangan menyentuh pakaian lembut.",
+      "narration": "Aroma bunganya tahan lama banget, plus Freshness Bubbles yang wanginya keluar pas disentuh. Clothes jadi super lembut, warna tetap cerah, literally next level banget sih, which is worth it."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang melipat baju dengan santai sambil tersenyum puas.",
+      "narration": "Perfect buat kamu yang hobi belanja bulanan, atau lagi butuh stok banyak tanpa ribet keluar rumah pas lagi mepet butuh laundry, literally no cap."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating bintang 5 dan angka terjual 40.000 muncul di layar.",
+      "narration": "Rating 4.94, udah terjual 40.000 kali. --- Yang udah beli bilang 'awet banget seger!', cuma boxnya kadang agak terbuka dikit ya, tapi barang super aman kok. No cap banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah mengarah ke layar.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#DownyIndonesia",
+    "#PewangiPakaian",
+    "#HematBanget",
+    "#PelembutPakaian",
+    "#LifeHacks",
+    "#CleaningTok",
+    "#ViralProduct",
+    "#FindingID"
+  ],
+  "product_id": 64890,
+  "product_title": "Downy Sunrise Fresh Pewangi Pelembut Pakaian Refill 1.35 l - Isi 3",
+  "product_price": "180300.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64890.jpg"
+  ],
+  "product_link": "https://finding.id/p/64890",
+  "generated_at": "2026-03-13T17:28:30.848Z"
+}

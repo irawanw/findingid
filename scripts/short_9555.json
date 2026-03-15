@@ -1,0 +1,80 @@
+{
+  "title": "Karaoke Rumahan Cuma 180 Ribu? Manteb Banget!",
+  "hook_text": "Mau sistem karaoke cuma modal 180 ribuan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kreator dengan ekspresi kaget sambil memegang HP",
+      "narration": "Mau sistem karaoke lengkap cuma modal 180 ribuan? --- Wah, serius bestie! --- Sumpah Gak percaya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Kerndy BT-198E dari berbagai sudut dengan pencahayaan dramatis",
+      "narration": "Kenalin, Kerndy BT-198E. Amplifier karaoke dengan fitur echo yang literally worth it banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan animasi efek 'wow'",
+      "narration": "Harganya cuma 180-an ribu doang. --- Bandingin sama speaker lain yang mahal tapi fiturnya seadanya banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage fitur Bluetooth, USB, dan RF antenna sambil dinyalakan",
+      "narration": "Fiturnya lengkap, ada Bluetooth, USB, TF, Radio FM, dan efek Echo. --- Dimensi 20x20x8 sentimeter jadi gampang dibawa dan dipindah-pindah. --- Tapi bestie, jangan dipake terlalu lama biar nggak gampang panas ya."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Kreator sedang asyik nyanyi karaoke di ruang tamu dengan produk",
+      "narration": "Ini perfect banget buat kamu yang mau sistem karaoke rumahan, acara kecil, atau kamu yang lagi nyari alat audio budget terbatas."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.8 bintang dan grafik penjualan naik",
+      "narration": "Rating 4.8 dari 30 ribu pembeli. --- Yang udah beli bilang: 'Kualitas suara bagus, bass manteb banget plus ada equalizer'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol animasi mengarah ke logo finding.id dengan panah",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya lengkap ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya lengkap ada di sana!",
+  "hashtags": [
+    "#KerndyBT198E",
+    "#KaraokeRumahan",
+    "#AmplifierMurah",
+    "#GadgetViral",
+    "#ReviewGadget",
+    "#TechIndonesia",
+    "#BudgetFriendly",
+    "#FindingID"
+  ],
+  "product_id": 9555,
+  "product_title": "Kerndy BT-198E ECHO Amplifier Karaoke Bluetoth Power amplifier echo BT198e",
+  "product_price": "188000.00",
+  "product_rating": "4.80",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/9555.jpg",
+    "/uploads/products/9555_1.jpg",
+    "/uploads/products/9555_2.jpg",
+    "/uploads/products/9555_3.jpg"
+  ],
+  "product_link": "https://finding.id/p/9555",
+  "generated_at": "2026-03-13T17:19:26.197Z"
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Vest Korea Murah Banget! Worth It?",
+  "hook_text": "Gak Percaya Cuma 40 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up vest face shot, presenter making shocked expression",
+      "narration": "Gak percaya ini cuma empat puluhan ribu? Bestie, ini vest Korea termurah yang pernah aku temuin!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Show all 6 color variants on hanger or flat lay",
+      "narration": "Namanya EVI Vest dari D&W Store. Bahan semiwol super lembut, nggak terawang, dan ada enam warna kece banget buat kamu pilih."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Show price tag or text overlay popping up",
+      "narration": "Harganya? Mulai dari empat puluhan ribuan aja. Gila sih, harga kaki lima tapi kualitas premium."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up fabric texture, stitch detail, size chart graphic",
+      "narration": "Pertama anti kusut. Kedua jahitannya rapi banget, no cap. Ketiga, ada ukuran Jumbo buat yang lingkar dadanya lebih besar."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model wearing vest in casual outdoor setting",
+      "narration": "Buat kamu suka gaya Korea atau mau look casual pas cuaca sejuk. Jadi pilihan banget buat daily wear. --- Jangan lupa cek ukuran standarnya ya biar pas."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Show 4.87 rating stars and 60k sold badge",
+      "narration": "Rating empat koma delapan tujuh, udah laku enam puluh ribu. Yang udah beli bilang 'worth it lah dengan harga segitu bagus banget'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Hand pointing to screen or phone showing finding.id",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#DandWStore",
+    "#VestKorea",
+    "#FashionMurah",
+    "#OOTDIndonesia",
+    "#RacunShopee",
+    "#ViralProduct",
+    "#VestSemiwol",
+    "#GenZFashion"
+  ],
+  "product_id": 14029,
+  "product_title": "D&W Store_EVI VEST /BASIC WANITA /Semiwol Atasan Wanita Crop EVI Vest  Casual",
+  "product_price": "42600.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/14029.jpg",
+    "/uploads/products/14029_1.jpg",
+    "/uploads/products/14029_2.jpg",
+    "/uploads/products/14029_3.jpg",
+    "/uploads/products/14029_4.jpg",
+    "/uploads/products/14029_5.jpg",
+    "/uploads/products/14029_6.jpg",
+    "/uploads/products/14029_7.jpg",
+    "/uploads/products/14029_8.jpg",
+    "/uploads/products/14029_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/14029",
+  "generated_at": "2026-03-13T20:48:34.295Z"
+}

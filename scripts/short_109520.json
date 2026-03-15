@@ -1,0 +1,93 @@
+{
+  "title": "Koko Couple Viral, Harga Kiloan?",
+  "hook_text": "Koko Couple Viral, Harga Kiloan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah narator dengan ekspresi kaget, lalu transisi cepat ke tumpukan baju koko berwarna-warni.",
+      "narration": "Gue kira ini barang import mahal, ternyata malah bisa bikin dompet aman banget! Ada yang pernah lihat koko couple yang harganya cuma seharga makan siang?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot slow motion model pria dan wanita memakai Faiz Koko dengan senyum lebar, menampilkan detail bahan Bonita yoryu premium.",
+      "narration": "Kenalin nih, Faiz Koko dari Rereyshop! Koleksi sarimbit yang lagi booming banget. Bahannya premium, jadi bonita yoryu yang adem dan nggak bikin gerah walaupun dipakai seharian di acara kondangan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga muncul di layar dengan animasi jatuh, lalu teks 'Rp 100 ribuan' muncul besar di tengah.",
+      "narration": "Nah, yang bikin kaget itu harganya bestie! Kalo biasanya harga segitu bisa dapet apa ya? Ini bisa dapet satu set duo keren cuma di kisaran seratus ribuan-an aja. literally worth it banget, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat tiga fitur: 1. Close up jahitan rapi, 2. Tangan model menggosok bahan untuk tunjukkan tekstur, 3. Shot model memutar badan menunjukkan potongan longgar.",
+      "narration": "Fiturnya next level dong. Pertama, jahitannya super rapi dan kuat, jadi nggak gampang robek di bagian penting. Kedua, bahannya yang bonita yoryu ini bikin nyaman banget dipakai, meskipun ada yang bilang teksturnya agak crinkle, tapi justru itu ciri khas bahan premium yang adem. Ketiga, potongannya all size yang pas di badan, jadi buat kalian yang punya badan besar atau kecil tetap kelihatan kece."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario pasangan muda sedang bersiap-siap di depan cermin, lalu transisi ke momen mereka tersenyum saat acara pesta dimulai.",
+      "narration": "Produk ini perfect banget buat kalian yang sering bingung cari outfit kondangan bareng pasangan. Kalau aktivitas kamu sering acara formal santai atau lamaran, ini solusi hemat dan gaya. Jadi kamu nggak perlu pusing mikirin mau pakai apa."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.81 dan teks '20.000+ Terjual', lalu kutipan teks dari chat pembeli muncul di layar.",
+      "narration": "Bukanya rating 4.81 dari 20 ribu lebih terjual dong? Yang udah beli bilang, 'Datang lebih cepat dari perkiraan, bahannya bagus recommended banget!' Mereka suka sama kualitasnya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Narator menunjuk ke arah layar atau tombol pencarian, dengan logo finding.id muncul di pojok.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Rereyshop",
+    "#KokoCouple",
+    "#FaizKoko",
+    "#OotdKondangan",
+    "#RekomendasiBaju",
+    "#ViralIndonesia",
+    "#HematBanget",
+    "#FindingID"
+  ],
+  "product_id": 109520,
+  "product_title": "Rereyshop Faiz Koko Dewasa Baju Couple Pasangan Kondangan Koko Pria Lengan Panjang",
+  "product_price": "104248.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/109520.jpg",
+    "/uploads/products/109520_1.jpg",
+    "/uploads/products/109520_2.jpg",
+    "/uploads/products/109520_3.jpg",
+    "/uploads/products/109520_4.jpg",
+    "/uploads/products/109520_5.jpg",
+    "/uploads/products/109520_6.jpg",
+    "/uploads/products/109520_7.jpg",
+    "/uploads/products/109520_8.jpg",
+    "/uploads/products/109520_9.jpg",
+    "/uploads/products/109520_10.jpg",
+    "/uploads/products/109520_11.jpg",
+    "/uploads/products/109520_12.jpg",
+    "/uploads/products/109520_13.jpg",
+    "/uploads/products/109520_14.jpg",
+    "/uploads/products/109520_15.jpg",
+    "/uploads/products/109520_16.jpg"
+  ],
+  "product_link": "https://finding.id/p/109520",
+  "generated_at": "2026-03-15T14:37:36.677Z"
+}

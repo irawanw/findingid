@@ -1,0 +1,96 @@
+{
+  "title": "Set Batik Viscose Murah Banget! ✨",
+  "hook_text": "Ukuran 52 kegedean? Jangan!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah presenter ekspresi bingung lalu langsung menunjuk baju, transisi cepat ke model pakai rok batik.",
+      "narration": "Stop dulu bestie! Awalnya aku juga ragu banget sama ukuran ini, takut kegedean kayak temenku yang ukuran lima dua."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot full body model memutar AINUN Set Blouse Rok Batik Modern Viscose di berbagai warna, slow motion saat langkah kaki.",
+      "narration": "Tapi no cap, setelah dipake literally next level cantik! Ini AINUN Set Blouse dan Rok Batik Modern Viscose, tampilannya bagud banget, warna-warnanya pun semuanya soft dan estetik."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar 'Hanya 179-an!', split screen menunjukkan harga vs tampilan mewah.",
+      "narration": "Nggak perlu kantong gendut deh, bisa dapet setelan seini cuma seratus tujuh puluhan ribu dong, which is worth it banget untuk kualitas segini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage: tangan menggosok kain atasan menunjukkan tekstur halus, zoom in pada detail rok lilit, model duduk santai.",
+      "narration": "Yang pertama, bahannya viscose polos semi sutera di atasan, lembut banget di kulit. Kedua, roknya model lilit yang bikin postur kamu terlihat lebih tinggi dan ramping. Ketiga, warnanya nggak gampang pudar dan cocok sama semua outfit casual kamu, basically super versatile."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas: makan siang di cafe, meeting kerja, nongkrong sore hari dengan baju ini.",
+      "narration": "Perfect buat kamu yang sering mau tampil kece buat meeting atau nongkrong di cafe tapi nggak mau ribet pakai batik formal. Kalau kamu pecinta gaya modern meet tradisional, ini jawabannya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.85 dan angka 20.000 terjual muncul, lalu kutipan teks muncul: 'cantik banget terimakasih suka banget banget'.",
+      "narration": "Pembelinya pada ngomong kalau tampilannya bagud dan cantik banget di akuu, nggak bakal nyalan beli lagi."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah, presenter tersenyum lebar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id",
+  "hashtags": [
+    "#SetBatikModern",
+    "#FashionGenZ",
+    "#KostumBatikMurah",
+    "#OOTDIndonesia",
+    "#ViscoseBatik",
+    "#FashionViral",
+    "#BelanjaOnline",
+    "#AINUN"
+  ],
+  "product_id": 64912,
+  "product_title": "AINUN Set Blouse dan Rok Batik Modern Viscose",
+  "product_price": "179000.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/64912.jpg",
+    "/uploads/products/64912_1.jpg",
+    "/uploads/products/64912_2.jpg",
+    "/uploads/products/64912_3.jpg",
+    "/uploads/products/64912_4.jpg",
+    "/uploads/products/64912_5.jpg",
+    "/uploads/products/64912_6.jpg",
+    "/uploads/products/64912_7.jpg",
+    "/uploads/products/64912_8.jpg",
+    "/uploads/products/64912_9.jpg",
+    "/uploads/products/64912_10.jpg",
+    "/uploads/products/64912_11.jpg",
+    "/uploads/products/64912_12.jpg",
+    "/uploads/products/64912_13.jpg",
+    "/uploads/products/64912_14.jpg",
+    "/uploads/products/64912_15.jpg",
+    "/uploads/products/64912_16.jpg",
+    "/uploads/products/64912_17.jpg",
+    "/uploads/products/64912_18.jpg",
+    "/uploads/products/64912_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/64912",
+  "generated_at": "2026-03-14T19:32:56.822Z"
+}

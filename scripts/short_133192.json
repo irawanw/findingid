@@ -1,0 +1,83 @@
+{
+  "title": "Latihan Abs di Rumah Cuma 80 Ribu Aja?",
+  "hook_text": "Lemes? Ini Solusinya!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah orang sedang frustrasi lihat pantat perut gemuk di cermin, lalu transisi cepat ke bar olahraga.",
+      "narration": "Masih latihan di gym mahal terus hasilnya nggak kerasa, bestie?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk WANNAFIT dipegang tangan, lalu dipasang di pintu kamar dengan gerakan cepat.",
+      "narration": "Kenalin nih, WANNAFIT Pull Up Bar Door Chinning. --- Solusi otot kekar tanpa harus keluar rumah sama sekali."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek koin jatuh, lalu bandingkan dengan uang gym.",
+      "narration": "Harganya cuma delapan puluhan ribuan doang. --- Which is worth it banget kalau dibandingin sama iuran gym bulanan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: tangan memegang grip, bar digoyang menunjukkan kekuatan, dan pemasangan di pintu kayu.",
+      "narration": "Pertama, desainnya simple tapi materialnya kuat kokoh. --- Kedua, durabilitas sangat kuat buat geplak maling juga bisa. --- Ketiga, gripnya nyaman banget pas dipegang."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang bekerja di laptop lalu langsung latihan pull up di depan laptop dengan senyum.",
+      "narration": "Perfect buat yang sibuk tapi mau badan bugar. --- Kalau aktivitas kamu lebih banyak duduk di depan laptop seharian, ini wajib banget punya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.91 dan angka 20.000 terjual dengan efek animasi pop-up.",
+      "narration": "Rating empat koma sembilan satu, udah dijual dua puluh ribu produk. --- Yang udah beli bilang, bagus dah kuat nahan beban hidup."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke arah bawah layar.",
+      "narration": "Penasaran sama detail lengkapnya? --- Cek di finding dot id ya bestie, review lengkap produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#wananafit",
+    "#pullupbar",
+    "#olahragaathome",
+    "#bodybuilding",
+    "#fitnesindonesia",
+    "#belajarfitness",
+    "#viralproduct",
+    "#findingid"
+  ],
+  "product_id": 133192,
+  "product_title": "WANNAFIT Pull Up Bar Door Chinning | Alat Olahraga Rumah",
+  "product_price": "80000.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/133192.jpg",
+    "/uploads/products/133192_1.jpg",
+    "/uploads/products/133192_2.jpg",
+    "/uploads/products/133192_3.jpg",
+    "/uploads/products/133192_4.jpg",
+    "/uploads/products/133192_5.jpg",
+    "/uploads/products/133192_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/133192",
+  "generated_at": "2026-03-13T19:52:02.367Z"
+}

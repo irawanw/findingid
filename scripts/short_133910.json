@@ -1,0 +1,91 @@
+{
+  "title": "Playmat Lipat Terbaik Buat Bayi! 😱",
+  "hook_text": "Mainnya nggak perlu lagi takut jatuh!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot cepat bayi tertawa lepas sambil rebahan di karpet tebal dengan efek zoom in ke wajah bahagia",
+      "narration": "Stop scroll bestie! Kamu tau nggak sih kalau mainnya di lantai keras itu bisa bikin si kecil nangis karena takut jatuh dan kaget? Tenang dong, hari ini aku mau share solusi seru banget buat nemenin buah hati main guling-guling."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase produk SPEEDS SNI I Playmat dibuka lebar, tunjukkan tekstur foam yang empuk dan ketebalan 10mm",
+      "narration": "Perkenalkan nih, SPEEDS SNI I Playmat bayi dengan ketebalan 10mm yang basically next level empuk! Dibuat dari bahan Foam XPE yang ramah lingkungan, anti air, dan nggak bikin lecet sama sekali. Jadi mainnya bisa lebih bebas tanpa khawatir bentur lantai ya."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga di layar besar, lalu bandingkan visual ukuran besar dengan harga murah",
+      "narration": "Gak perlu kaget kalau bilang harganya cuma seratus delapan puluhan ribu perak doang! Untuk ukuran 180x200 yang gede banget, ini worth it banget dong. Kamu bisa dapat matras lipat yang super luas buat si kecil berlarian tanpa perlu keluar dompet tebal."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Tunjukkan ketebalan matras saat ditekan, 2. Tampilkan warna-warni (J, L, B, I), 3. Tunjukkan proses lipat yang mudah",
+      "narration": "Nah, ada tiga alasan kenapa produk ini wajib punya. Pertama, bahan Foam XPE-nya tebal banget jadi nggak ada bekas luka saat disentuh. Kedua, ada banyak pilihan warna lucu kayak warna J, L, B, I, F, dan G yang bikin ruang main jadi estetik. Ketiga, desainnya bisa dilipat jadi super praktis, perfect buat kamu yang sering bawa mainan kemana-mana atau mau nyimpan di ruang tamu."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario anak sedang makan camilan di atas matras atau belajar merangkak dengan nyaman",
+      "narration": "Produk ini perfect buat yang punya anak balita yang suka main guling-guling seharian atau kalau aktivitas kamu sering ngasih camilan di lantai. Dengan ukuran yang gede, anak kamu bakal puas dan nggak bosan lagi main di satu tempat yang aman dan nyaman."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating 4.87 dan angka 40.000 terjual, lalu teks kutipan muncul di layar",
+      "narration": "Nggak percaya? Cek ratingnya, udah 4.87 bintang dengan lebih dari 40.000 produk terjual! Dan yang udah beli bilang desainnya sesuai dan ketebalannya pas banget buat bayi dan balita main."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar penuh logo finding.id dengan panah menunjuk ke bawah",
+      "narration": "Penasaran mau lihat detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id ya!",
+  "hashtags": [
+    "#MainanBayi",
+    "#PlaymatTerbaik",
+    "#SolusiIbu",
+    "#ParentingIndonesia",
+    "#ProdukViral",
+    "#SPEEDS",
+    "#AmanUntukBayi",
+    "#FindingId"
+  ],
+  "product_id": 133910,
+  "product_title": "SPEEDS SNI I Playmat Bayi Karpet Lipat Playmate Matras 180x200cm tebal 10mm Tikar Lipat Foam Matras Anak XPE Lembut 027-15",
+  "product_price": "99000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/133910.jpg",
+    "/uploads/products/133910_1.jpg",
+    "/uploads/products/133910_2.jpg",
+    "/uploads/products/133910_3.jpg",
+    "/uploads/products/133910_4.jpg",
+    "/uploads/products/133910_5.jpg",
+    "/uploads/products/133910_6.jpg",
+    "/uploads/products/133910_7.jpg",
+    "/uploads/products/133910_8.jpg",
+    "/uploads/products/133910_9.jpg",
+    "/uploads/products/133910_10.jpg",
+    "/uploads/products/133910_11.jpg",
+    "/uploads/products/133910_12.jpg",
+    "/uploads/products/133910_13.jpg",
+    "/uploads/products/133910_14.jpg"
+  ],
+  "product_link": "https://finding.id/p/133910",
+  "generated_at": "2026-03-14T04:33:31.623Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Solusi Rambut Rontok Paling Worth It!",
+  "hook_text": "Stop Scroll! Rambut Rontok Parah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up rambut rontok di tangan atau cermin dengan ekspresi kaget, lalu transisi cepat ke wajah host yang ramah.",
+      "narration": "Stop scroll! Rambut kamu lagi ngeri karena rontok? --- Gak perlu panik dulu bestie."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk ERHAIR HairGrow Tonic di atas meja bersih dengan pencahayaan cinematic, lalu zoom in ke botol.",
+      "narration": "Kenalin nih, ERHAIR HairGrow Tonic. Solusi dari dokter kulit yang legit banget dan terdaftar BPOM. Formulasinya beda."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga muncul besar di layar dengan efek animasi 'Wow', lalu transisi ke host menunjuk ke harga.",
+      "narration": "Harga asli bisa seratus enam puluh ribuan, tapi sekarang bisa dapet di harga seratus lima puluhan ribu. Worth it parah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase aplikasi spray ke kulit kepala, close-up tekstur cairan, dan ikon Halal serta BPOM muncul di layar.",
+      "narration": "Ada Kopexil pengganti Minoxidil yang aman buat kulit kepala. Spray nya merata, wanginya fresh kayak di salon. Dan ini Halal MUI, no cap! Jadi kulit kepala seger banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Host sedang menyisir rambut dengan santai dan tersenyum, menunjukkan rambut yang terlihat lebih sehat.",
+      "narration": "Perfect buat kamu yang sering stres atau habis keramas, kerontokan jadi berkurang. Rambut jadi lebih kuat dan sehat."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.93 dan jumlah terjual muncul di layar dengan animasi bintang berkilau.",
+      "narration": "Udah dua puluh ribuan terjual dengan rating 4.93. Yang udah beli bilang, 'sisiran berkurang rontokan, wanginya enak'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks 'finding dot id' muncul besar di layar dengan panah menunjuk ke bawah, host melambaikan tangan.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#RambutSehat",
+    "#ERHAIR",
+    "#TipsRambut",
+    "#RontokBerhenti",
+    "#SkincareIndonesia",
+    "#ViralProduct",
+    "#FindingId",
+    "#GenZStyle"
+  ],
+  "product_id": 118602,
+  "product_title": "[BEST SELLER TONIK RONTOK] ERHAIR HairGrow Tonic with Kopexil - Tonic Keratin & Biotin Rambut Mengurangi Rontok Menjaga Kesehatan Kulit Kepala dan Menguatkan Akar",
+  "product_price": "141400.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/118602.jpg",
+    "/uploads/products/118602_1.jpg",
+    "/uploads/products/118602_2.jpg",
+    "/uploads/products/118602_3.jpg",
+    "/uploads/products/118602_4.jpg",
+    "/uploads/products/118602_5.jpg",
+    "/uploads/products/118602_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/118602",
+  "generated_at": "2026-03-13T18:15:18.623Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Powerbank Robot 20000mAh Cuma Seratus Ribu!",
+  "hook_text": "Bisa ke pesawat? Gila banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up shot powerbank robot berwarna metalik dengan efek cahaya neon biru di latar gelap, kamera bergerak cepat dari atas ke bawah.",
+      "narration": "Gila sih, ini powerbank robot yang bisa dibawa masuk ke pesawat, dan harganya literally nggak masuk akal banget!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk diputar pelan menunjukkan 3 kabel yang tertanam di badan robot, lalu tangan mengambilnya untuk menunjukkan fleksibilitas.",
+      "narration": "Kenalin nih, Robot Powerbank 20000mAh tipe RP-201L. Ini bestie, literally next level karena udah built-in tiga kabel, mulai dari Type-C, Lightning, sampai Micro USB. Jadi kamu nggak perlu lagi bawa kabel terpisah yang bikin tas berantakan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di tengah layar dengan animasi ledakan, background video menunjukkan orang sedang menggunakan powerbank untuk mengisi daya HP dengan cepat.",
+      "narration": "Tahukah kamu? Padahal kapasitasnya gede banget dan fitur fast charging 15W, harga cuma seratus delapan puluhan ribu rupiah aja. Bandingin sama powerbank biasa yang cuma 10000mAh tapi harganya bisa dua kali lipat, which is worth it banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Mengisi daya iPhone dengan kabel Lightning, 2. Mengisi daya Android dengan Type-C, 3. Close-up tulisan '1 Year Warranty' di kemasan.",
+      "narration": "Fiturnya sih gila banget, pertama dia fast charging 15W buat ngecas HP kamu cepet parah. Kedua, tiga kabel built-in ini bikin kamu nggak perlu repot nyari kabel lain, praktis banget buat anak kampus atau pekerja kantoran. Terakhir, dia resmi punya garansi satu tahun, jadi aman banget buat investasi jangka panjang."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Seorang mahasiswa di perpustakaan yang terlihat panik karena HP lowbat, lalu tersenyum lega setelah mencolokkan powerbank robot ini.",
+      "narration": "Ini perfect banget buat kamu yang sering banget bolos makan siang karena asyik ngerjain tugas sampai sore dan bingung mau ngisi daya di mana. Atau buat kalian yang sering traveling naik pesawat dan butuh powerbank yang aman masuk kabin tanpa ribet bawa kabel tambahan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks overlay menampilkan rating 4.86 bintang dan angka 30.000 terjual, dengan kutipan teks dari ulasan pembeli yang muncul satu per satu.",
+      "narration": "Ratingnya 4.86 dari lima bintang dengan tiga puluh ribu produk terjual. Yang udah beli bilang 'Sukaa banget praktis jadi ga harus cari cari kabel lain'. No cap, ini benar-benar solusi!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host menunjuk ke arah bawah layar sambil tersenyum, background blur menampilkan produk yang sama, teks 'Cek di finding.id' muncul besar.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#powerbankrobot",
+    "#aksesorishp",
+    "#produkviral",
+    "#diskonheboh",
+    "#anakmuda",
+    "#tipsmahasiswa",
+    "#findingid",
+    "#gadgetindonesia"
+  ],
+  "product_id": 168734,
+  "product_title": "ROBOT Powerbank 20000mAh Fast Charging 15W 3 Kabel Type-C Lightning Micro - Bisa Dibawa ke Pesawat RP-201L - Garansi 1 Tahun",
+  "product_price": "116000.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/168734.jpg",
+    "/uploads/products/168734_1.jpg",
+    "/uploads/products/168734_2.jpg",
+    "/uploads/products/168734_3.jpg",
+    "/uploads/products/168734_4.jpg",
+    "/uploads/products/168734_5.jpg",
+    "/uploads/products/168734_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/168734",
+  "generated_at": "2026-03-15T13:01:22.577Z"
+}

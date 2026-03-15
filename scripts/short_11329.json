@@ -1,0 +1,98 @@
+{
+  "title": "Jeans Ripped Murah Worth It Banget!",
+  "hook_text": "Jeans harga 100 ribuan bisa awet?",
+  "estimated_duration": 105,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up jeans texture dengan ekspresi wajah skeptis",
+      "narration": "Jujur bestie, aku skeptis banget sama jeans ripped harga seratus ribuan, bisa awet nggak ya?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 11,
+      "visual": "Full body shot model kenakan jeans MANROCK berputar",
+      "narration": "Ini MANROCK BLACK EDITION DN1161. --- Bahan denim stretch yang literally nyaman banget dipake seharian. Ripped look-nya elegan, nggak norak, dan pastinya asli!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 16,
+      "duration_s": 11,
+      "visual": "Teks harga besar muncul di layar dengan efek kaget",
+      "narration": "Dan tahu nggak harganya? --- Mulai dari seratus tiga ribu rupiah doang! Kamu dapat kualitas premium yang worth it banget dibanding harga sepatu."
+    },
+    {
+      "id": "features",
+      "start_s": 27,
+      "duration_s": 20,
+      "visual": "Zoom in detail jahitan, bahan, dan proses washing",
+      "narration": "Pertama, bahan seratus tujuh puluh satu Badjatek yang melar tapi nggak kendur. --- Kedua, jahitan presisi rapih yang bikin awet. Ketiga, udah proses washing jadi nggak luntur."
+    },
+    {
+      "id": "pros",
+      "start_s": 47,
+      "duration_s": 18,
+      "visual": "Montage aktivitas pakai jeans jalan dan duduk",
+      "narration": "Gila sih, ini jeansnya seratus persen original produk, jadi kalau nggak sesuai uang kembali. --- Jahitannya rapih banget, tidak luntur saat dicuci karena udah di-washing. Bahannya adem."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 65,
+      "duration_s": 15,
+      "visual": "Model dengan berat badan berbeda menunjukkan pas di badan",
+      "narration": "Cocok banget buat kamu yang aktif jalan-jalan atau nongkrong. --- Kalau kamu punya berat badan enam puluh kilo, ukuran dua delapan pas banget. Perfect buat gaya kasual harian. Ukuran XL = 33/34, kalau tiga puluh lima ke atas tulis di pesan."
+    },
+    {
+      "id": "proof",
+      "start_s": 80,
+      "duration_s": 13,
+      "visual": "Rating bintang 5 dan counter penjualan 30k",
+      "narration": "Rating empat koma delapan satu dari lima bintang. --- Udah laku tiga puluh ribu produk! Reviewnya bilang 'Riped jeansnya ga tembus, ga norak juga looknya kaya jeans mahal'."
+    },
+    {
+      "id": "colors",
+      "start_s": 93,
+      "duration_s": 7,
+      "visual": "Swatch semua varian warna hitam yang tersedia",
+      "narration": "Pilihannya banyak banget, ada Black Spray Ripped, Black Sandwash, sampai Black Jaz Laser. --- Tinggal pilih warna favoritmu yang paling cocok banget sama gaya."
+    },
+    {
+      "id": "cta",
+      "start_s": 100,
+      "duration_s": 5,
+      "visual": "Panah menunjuk keranjang kuning dan tombol link",
+      "narration": "Mau dapet harga spesial sekarang? --- Klik keranjang kuning di bawah sebelum kehabisan. Jangan sampai nyesel, bestie! Buruan amankan sekarang juga ya!"
+    }
+  ],
+  "cta": "Klik keranjang kuning sekarang!",
+  "hashtags": [
+    "#CelanaJeansPria",
+    "#Manrock",
+    "#OOTDPria",
+    "#JeansMurah",
+    "#RekomendasiPakaian",
+    "#FashionGaya",
+    "#PromosiShopee",
+    "#ViralProduct"
+  ],
+  "product_id": 11329,
+  "product_title": "Celana Jeans Pria BLACK EDITIONS MANROCK™ DN1161 Stretch Long Pant Men, Celana Jeans Sobek Ripped Pria",
+  "product_price": "106380.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/11329.jpg",
+    "/uploads/products/11329_1.jpg",
+    "/uploads/products/11329_2.jpg",
+    "/uploads/products/11329_3.jpg",
+    "/uploads/products/11329_4.jpg",
+    "/uploads/products/11329_5.jpg",
+    "/uploads/products/11329_6.jpg",
+    "/uploads/products/11329_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/11329",
+  "generated_at": "2026-03-13T09:02:13.823Z"
+}

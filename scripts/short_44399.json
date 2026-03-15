@@ -1,0 +1,83 @@
+{
+  "title": "Deodoran 10 Ribu Anti Bau Badan Next Level!",
+  "hook_text": "Bebas Bau Badan Cuma 10 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up produk dengan efek sparkle dan teks overlay besar",
+      "narration": "nggak percaya, deodoran ampuh bisa semurah ini bestie?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan produk di tangan, putar slow motion 360 derajat",
+      "narration": "Kenalin nih, Beorganik Tawas Spray. Solusi bebas bau badan dan ketiak yang natural banget, literally next level!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga di layar dengan efek uang terbang atau centang hijau",
+      "narration": "Harganya cuma 10 ribuan doang, which is worth it banget buat ukuran 100ml yang bakal awet lama."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: aplikasi spray, label BPOM, dan tekstur cairan",
+      "narration": "Formulasinya bebas alkohol, jadi aman buat kulit sensitif atau yang berjerawat. Kandungan pure essential oil alami, bukan fragrance sintetis yang bikin iritasi. Plus, udah punya izin edar BPOM resmi no cap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang sedang beraktivitas santai, tas digoyang menunjukkan produk travel size",
+      "narration": "Perfect buat kamu yang aktivitasnya tinggi atau sering keringetan parah. Ukurannya travel size, praktis dibawa kemana-mana. --- nggak perlu repot soal bau badan di tengah kesibukan."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan angka 1 Juta terjual",
+      "narration": "Ratingnya 4,9 bintang, udah terjual lebih dari 1 juta produk! Yang udah beli bilang, 'ketiaknya aman dan wangi natural'. Worth it banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar hitam dengan logo finding.id dan panah pointing ke link",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#deodoran",
+    "#tawas",
+    "#beorganik",
+    "#bebaubad",
+    "#skincare",
+    "#hacks",
+    "#murah",
+    "#viral"
+  ],
+  "product_id": 44399,
+  "product_title": "BEORGANIK TAWAS SPRAY 100ML / BEBAS BAU BADAN DAN KETIAK / NON ALKOHOL",
+  "product_price": "10462.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/44399.jpg",
+    "/uploads/products/44399_1.jpg",
+    "/uploads/products/44399_2.jpg",
+    "/uploads/products/44399_3.jpg",
+    "/uploads/products/44399_4.jpg",
+    "/uploads/products/44399_5.jpg",
+    "/uploads/products/44399_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/44399",
+  "generated_at": "2026-03-13T23:12:12.944Z"
+}

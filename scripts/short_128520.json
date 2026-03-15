@@ -1,0 +1,84 @@
+{
+  "title": "Celana Kerja Wanita Murah & Adem Banget!",
+  "hook_text": "Ada yang ngerasa celana kerja itu gerah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah model terlihat gerah dan berkeringat, lalu transisi cepat ke senyum ceria.",
+      "narration": "Ada yang ngerasa celana kerja itu biasanya gerah?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Model memutar badan menunjukkan celana kerja, lalu zoom in ke detail bahan katun sintetis.",
+      "narration": "Tenang bestie, nemu nih celana kerja wanita premium. Bahannya katun sintetis yang adem dan tebal, literally next level."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay harga muncul dengan animasi kilat, lalu model menunjuk ke arah harga.",
+      "narration": "Dan harganya? Cuma di rentang lima puluhan sampe enam puluhan ribu aja. Worth it parah!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase fitur: bahan ditarik elastis, tumpukan ukuran jumbo, detail pinggang tinggi. --- Teks overlay cek tabel ukuran.",
+      "narration": "Fiturnya juara. Pertama, bahannya elastis banget, jadi pas di badan. Kedua, ada size jumbo sampe lima L. Ketiga, high waist bikin pinggang kelihatan langsing. --- Oh iya, wajib cek tabel ukuran dulu ya."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model duduk di meja kerja lalu beralih aktivitas santai di rumah.",
+      "narration": "Perfect buat kamu yang kerja kantoran atau ibu rumah tangga yang butuh baju nyaman seharian. Cocok buat acara formal maupun kasual."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4,82 dan angka 90.000 terjual muncul di layar. --- Teks kutipan ulasan positif.",
+      "narration": "Sudah 90.000 produk terjual dengan rating 4,82. Yang udah beli bilang 'Bahannya enak, kaya rada melar melar'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul besar dengan panah menunjuk ke arah produk.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#celanakerja",
+    "#celanawanita",
+    "#fashionindonesia",
+    "#ootdindonesia",
+    "#celanajumbo",
+    "#workwear",
+    "#produkviral",
+    "#findingid"
+  ],
+  "product_id": 128520,
+  "product_title": "CELANA KAIN / CELANA KERJA WANITA MODEL PINGGANG KARET",
+  "product_price": "54000.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/128520.jpg",
+    "/uploads/products/128520_1.jpg",
+    "/uploads/products/128520_2.jpg",
+    "/uploads/products/128520_3.jpg",
+    "/uploads/products/128520_4.jpg",
+    "/uploads/products/128520_5.jpg",
+    "/uploads/products/128520_6.jpg",
+    "/uploads/products/128520_7.jpg"
+  ],
+  "product_link": "https://finding.id/p/128520",
+  "generated_at": "2026-03-13T22:42:48.160Z"
+}

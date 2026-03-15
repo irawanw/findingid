@@ -1,0 +1,96 @@
+{
+  "title": "Kasur Bayi Jumbo + 2 Guling? Gak Mahal Banget!",
+  "hook_text": "Kasur bayi jumbo plus 2 guling?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tangan membuka tas serut penuh barang, musik upbeat langsung bunyi.",
+      "narration": "Emang boleh beli set lengkap begini cuma seratus-an ribu? Ada yang bilang 'Emang boleh beli empat?'"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot wide produk terbuka lebar, tunjukkan kasur tebal, bantal peyang, dan dua guling lucu.",
+      "narration": "Ini literally next level bestie! FREE tas serut berisi kasur bayi kelambu set lengkap sama bantal peyang dan dua guling bayi. Bahan katunnya adem dan aman banget buat si kecil."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan angka harga, lalu transisi cepat ke visual produk dipakai.",
+      "narration": "Cuma seratus puluhan ribu doang ya! Harga paling bawah seratus satu ribuan, yang paling tinggi seratus sebelas ribuan. Masih dapet tas serut dan ongkir murah, which is worth it banget."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Zoom in ke tekstur kasur, lalu tunjukkan bagian bawah kasur yang tipis, lalu ganti warna tenda kelambu.",
+      "narration": "Performanya benar-benar bagus sesuai harga. Kasurnya empuk tebal, jahitan rapi, dan kelambu bisa dilepas biar anti nyamuk. Tapi kalau kamu perhatikan bagian bawah kasurnya, saranin tambahin lagi biar lebih kokoh. Tenang bestie, oles tipis saja ya!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase cepat: bayi tidur nyenyak, ibu mengganti selimut, dan bayi main di atas kasur.",
+      "narration": "Perfect buat kamu yang punya bayi newborn atau sering ganti-ganti posisi tidur. Kasur ini ukurannya jumbo dan bisa dibentangkan, jadi fleksibel banget buat aktivitas harianmu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar split: kiri rating 4.6 bintang, kanan tulisan '70.000 Terjual'.",
+      "narration": "Rating empat koma enam satu dari tujuh puluh ribu yang udah beli bilang barangnya nyaman dan pengiriman cepat."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul dengan animasi panah menunjuk ke arah bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id!",
+  "hashtags": [
+    "#KasurBayi",
+    "#BabyEssentials",
+    "#ParentingHacks",
+    "#ShopeeFinds",
+    "#MomViral",
+    "#BudgetFriendly",
+    "#BabyGearIndonesia",
+    "#FindingId"
+  ],
+  "product_id": 164694,
+  "product_title": "FREE TAS SERUT!! KASUR BAYI TENDA KELAMBU / KASUR BABY KELAMBU SET BANTAL FREE BANTAL PEYANG CROWN  + 2  GULING BABY",
+  "product_price": "101463.00",
+  "product_rating": "4.61",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/164694.jpg",
+    "/uploads/products/164694_1.jpg",
+    "/uploads/products/164694_2.jpg",
+    "/uploads/products/164694_3.jpg",
+    "/uploads/products/164694_4.jpg",
+    "/uploads/products/164694_5.jpg",
+    "/uploads/products/164694_6.jpg",
+    "/uploads/products/164694_7.jpg",
+    "/uploads/products/164694_8.jpg",
+    "/uploads/products/164694_9.jpg",
+    "/uploads/products/164694_10.jpg",
+    "/uploads/products/164694_11.jpg",
+    "/uploads/products/164694_12.jpg",
+    "/uploads/products/164694_13.jpg",
+    "/uploads/products/164694_14.jpg",
+    "/uploads/products/164694_15.jpg",
+    "/uploads/products/164694_16.jpg",
+    "/uploads/products/164694_17.jpg",
+    "/uploads/products/164694_18.jpg",
+    "/uploads/products/164694_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/164694",
+  "generated_at": "2026-03-15T06:37:47.313Z"
+}

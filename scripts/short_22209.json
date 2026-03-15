@@ -1,0 +1,82 @@
+{
+  "title": "Painkiller Alami Buat Mami! 🤰✨",
+  "hook_text": "Perut naik? Nyeri banget?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah mami terlihat kesakitan sambil pegang perut dengan ekspresi gelisah di dapur.",
+      "narration": "Stop scroll bestie! Pernah gak sih kamu merasa perut naik ke atas banget pas lagi masak, trus rasanya sakit banget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke produk Korset Sabuk Hamil Momiasi dipakai mami dengan gaya casual di depan cermin.",
+      "narration": "Tenang dong, solusinya ada! Ini Korset Sabuk Hamil dari Momiasi yang beneran jadi penopang perut kamu."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar menampilkan angka harga dengan efek kaget, lalu ditunjukkan produk yang rapi.",
+      "narration": "Gak percaya sama harga? Cuma seratus puluhan ribu perak doang, guys! Nggak nyampe dua ratus, tapi dapet support full buat perut kamu."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: tekstur kain didekati tangan, mami sedang berjalan santai, dan mami sedang duduk nyaman.",
+      "narration": "Bahan lembut banget kayak sofa, nggak bikin gerah, plus ringan banget. Nggak bikin berat di badan, which is worth it banget buat dipakai seharian tanpa capek."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario mami sedang jalan santai atau duduk santai di sofa sambil tersenyum lega.",
+      "narration": "Perfect buat yang aktivitasnya banyak gerak atau duduk lama. Kalau kamu sering merasa perut naik tinggi trus sakit, ini harus masuk keranjang!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang lima dan jumlah terjual besar, lalu muncul quote dari pembeli.",
+      "narration": "Pembelinya pada ngomong bahannya lembut banget kayak sofa dan ringan, yang udah beli bilang ini bikin perut nggak naik ke atas lagi."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Mami menunjuk ke bawah layar dengan senyum lebar dan efek panah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#IbuHamil",
+    "#PregnancyBelt",
+    "#Momiasi",
+    "#KehamilanNyaman",
+    "#SolusiHamil",
+    "#WartegHamil",
+    "#ShoppingMom",
+    "#FindingId"
+  ],
+  "product_id": 22209,
+  "product_title": "Korset Sabuk Hamil Penyangga Perut  Corset Pregnancy Belt by Momiasi",
+  "product_price": "101495.00",
+  "product_rating": "4.85",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/22209.jpg",
+    "/uploads/products/22209_1.jpg",
+    "/uploads/products/22209_2.jpg",
+    "/uploads/products/22209_3.jpg",
+    "/uploads/products/22209_4.jpg",
+    "/uploads/products/22209_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/22209",
+  "generated_at": "2026-03-14T19:39:56.122Z"
+}

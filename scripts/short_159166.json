@@ -1,0 +1,82 @@
+{
+  "title": "Tas Popok Lucu Banget! Worth It Enggak?",
+  "hook_text": "Stop! Jangan beli tas bayi dulu!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah shock + zoom out ke tas bayi yang lucu di tangan model",
+      "narration": "Stop bestie! Jangan langsung beli tas bayi dulu tanpa liat ini nih. Basically next level!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montage shot tas dibuka penuh, tunjukkan kompartemen rapi dan desain waterproof",
+      "narration": "Ini tas perlengkapan bayi super waterproof dan estetik banget. Cocok buat bawa popok, baju, sampai botol minum tanpa takut bocor."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul menunjukkan harga murah lalu coret harga mahal, ekspresi senang",
+      "narration": "Gila sih harganya cuma enam puluhan ribu. Seratus delapan puluhan ribu buat tas sekelas ini? No cap, worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Air dituang ke tas dan terserap. 2. Model sedang berjalan cepat ke mall dengan tas di pundak. 3. Detail jahitan rapi dan warna pastel",
+      "narration": "Pertama, materialnya benar-benar tahan air, no worries kalau kena hujan atau tumpahan susu. Kedua, desainnya compact tapi muat semua keperluan ke mall atau RS. Ketiga, kualitas jahitan rapi banget, nggak ada yang sobek gampang, which is super cute!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu muda duduk santai di parkiran mall sambil membuka tas dengan mudah",
+      "narration": "Perfect buat kamu yang sering jalan-jalan jauh sama si kecil. Kalau aktivitas kamu antar anak ke RS atau belanja di mall seharian, ini solusinya dong."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop up grafis rating 4.87 bintang dan angka 20.000 terjual dengan teks kutipan di bawah",
+      "narration": "Pembelinya pada ngomong tasnya lucu keren cakep dan suka banget pas ukurannya buat pergi ke mall. Rating 4.87 dari dua puluh ribu orang!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol finding.id muncul besar dengan animasi klik, model melambaikan tangan",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#tasbayi",
+    "#mumtok",
+    "#babygear",
+    "#findingid",
+    "#produkterlaris",
+    "#taspopok",
+    "#ibukeren",
+    "#parenting"
+  ],
+  "product_id": 159166,
+  "product_title": "WATERPROOF TAS BAYI BACKPACK/TAS PERLENGKAPAN BABY/RANSEL/TAS POPOK / DIAPER BAG/TAS MAMI/TAS WANITA",
+  "product_price": "65900.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/159166.jpg",
+    "/uploads/products/159166_1.jpg",
+    "/uploads/products/159166_2.jpg",
+    "/uploads/products/159166_3.jpg",
+    "/uploads/products/159166_4.jpg",
+    "/uploads/products/159166_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/159166",
+  "generated_at": "2026-03-14T23:55:48.368Z"
+}

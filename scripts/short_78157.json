@@ -1,0 +1,93 @@
+{
+  "title": "Tas Backpack Murah Mewah Merche Bree Viral!",
+  "hook_text": "Tas 299 Ribu Mewah Banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tas yang mengkilap dengan pencahayaan dramatis",
+      "narration": "Siapa bilang tas keduaraan harus mahal banget sih? --- Ternyata ada tas se-mewah ini cuma di harga dua ratus sembilan puluh sembilan ribuan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tas dilihat dari berbagai sisi menunjukkan warna dan tekstur bahan",
+      "narration": "Ini Merche Backpack Bree, bahannya Waterproof Leather yang anti air dan mengkilap. --- Which is basically work smarter not harder buat kamu!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga muncul besar di tengah layar dengan efek pop",
+      "narration": "Harga asli dua ratus sembilan puluh sembilan ribuan saja, which is super worth it banget buat kualitas segini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo memasukkan laptop dan menunjukkan tali bahu empuk",
+      "narration": "Ada slot laptop buat ukuran 12 inci, tali bahu yang empuk banget buat kenyamanan maksimal. --- Oh ya, kantong botolnya ngepass dikit ya, jadi lebih aman barang lo."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang menggunakan tas saat bekerja di cafe atau kampus",
+      "narration": "Kalau kamu sering kerja remote atau mahasiswa yang butuh tas multifungsi, tas ini pas banget buat settingan casual sampai formal."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 5 dan angka penjualan 100 ribu",
+      "narration": "Sudah laku seratus ribu produk sama rating 4.93. --- Yang sudah beli bilang, \"Bahan nylon jadi ada efek shiny yang bikin mewah\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke bawah",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, ada review produknya di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, ada review produknya di sana!",
+  "hashtags": [
+    "#Merche",
+    "#TasBackpack",
+    "#TasWanita",
+    "#ProdukViral",
+    "#FindId",
+    "#RanselMurah",
+    "#TasKuliah",
+    "#OOTD"
+  ],
+  "product_id": 78157,
+  "product_title": "Merche Tas Wanita Backpack Bree",
+  "product_price": "299000.00",
+  "product_rating": "4.93",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/78157.jpg",
+    "/uploads/products/78157_1.jpg",
+    "/uploads/products/78157_2.jpg",
+    "/uploads/products/78157_3.jpg",
+    "/uploads/products/78157_4.jpg",
+    "/uploads/products/78157_5.jpg",
+    "/uploads/products/78157_6.jpg",
+    "/uploads/products/78157_7.jpg",
+    "/uploads/products/78157_8.jpg",
+    "/uploads/products/78157_9.jpg",
+    "/uploads/products/78157_10.jpg",
+    "/uploads/products/78157_11.jpg",
+    "/uploads/products/78157_12.jpg",
+    "/uploads/products/78157_13.jpg",
+    "/uploads/products/78157_14.jpg",
+    "/uploads/products/78157_15.jpg",
+    "/uploads/products/78157_16.jpg"
+  ],
+  "product_link": "https://finding.id/p/78157",
+  "generated_at": "2026-03-13T16:38:27.148Z"
+}

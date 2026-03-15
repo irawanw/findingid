@@ -1,0 +1,83 @@
+{
+  "title": "Korset Pasca Lahiran, Perut Ramping Banget!",
+  "hook_text": "Perut masih buncit setelah melahirkan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah ibu baru terlihat sedikit stres sambil pegang perutnya, lalu ekspresi berubah jadi terkejut saat melihat produk di layar.",
+      "narration": "Perut masih buncit banget kayak hamil tujuh bulan padahal udah lama melahirkan? Jangan dibiarkan bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke model memakai korset Mama's Choice Body Shaper, menunjukkan bagian perut yang rata dan postur tegak.",
+      "narration": "Tenang dong, solusinya ada di Mama's Choice Body Shaper Breathable Corset nih. Ini bikin lekuk perut dan pinggang kamu kembali ideal pasca melahirkan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga besar di layar dengan efek animasi 'explosion', lalu muncul ikon bintang rating dan angka terjual.",
+      "narration": "Kaget gak sih harganya cuma seratus empat belas ribuan sampe dua ratus delapan puluh sembilan ribuan? Nilai yang dapet bener-bener worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail tekstur kain yang adem, model sedang duduk santai tanpa terlihat sesak, lalu shot punggung yang tegak.",
+      "narration": "Bahan premiumnya lembut dan adem, nggak bikin sesak pas duduk. Plus efektif merampingkan perut dan pinggang sekaligus memperbaiki postur tubuh biar nggak sakit punggung lagi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Kolase foto ibu pasca melahirkan normal dan caesar sedang tersenyum ceria memakai korset dengan nyaman.",
+      "narration": "Perfect buat kamu yang baru habis melahirkan normal maupun caesar. Kalau aktivitas kamu sering duduk lama atau perut masih terasa kencang, ini solusi tepat banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.88 dan angka 40.000+ terjual, muncul teks kutipan ulasan positif.",
+      "narration": "Rating empat koma delapan delapan dan sudah laku empat puluh ribu produk. Yang udah beli bilang ini beneran membantu perut yang tadinya besar banget sekarang jadi lebih rata."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan panah menunjuk ke bawah atau teks 'Cek Detail'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, cari produknya di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id!",
+  "hashtags": [
+    "#PascaMelahirkan",
+    "#KorsetIbu",
+    "#BodyShaper",
+    "#PerutRamping",
+    "#MamasChoice",
+    "#PosturTegak",
+    "#ShopeeFinds",
+    "#FindingId"
+  ],
+  "product_id": 39445,
+  "product_title": "Korset Pelangsing | Mama's Choice Body Shaper Breathable Corset (Stagen Pasca Melahirkan)",
+  "product_price": "118521.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/39445.jpg",
+    "/uploads/products/39445_1.jpg",
+    "/uploads/products/39445_2.jpg",
+    "/uploads/products/39445_3.jpg",
+    "/uploads/products/39445_4.jpg",
+    "/uploads/products/39445_5.jpg",
+    "/uploads/products/39445_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/39445",
+  "generated_at": "2026-03-14T04:09:28.207Z"
+}

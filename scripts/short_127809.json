@@ -1,0 +1,77 @@
+{
+  "title": "Baterai ABC Murah Ekstrem? Cek Dulu Bestie",
+  "hook_text": "Masih beli baterai mahal tiap bulan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah kaget sambil pegang dompet kosong dengan efek zoom in cepat.",
+      "narration": "Masih beli baterai mahal tiap bulan? --- It's so last season bestie! Stop scroll dulu sekarang!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan memegang pack baterai ABC biru, lalu zoom in ke tulisan expiry 2028.",
+      "narration": "Kenalin nih, baterai ABC biru R6 A2, isi 24 pcs, expiry 2028! --- Gak perlu ragu soal kualitas."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga Rp 61.725 muncul dengan efek teks besar dan animasi uang terbang.",
+      "narration": "Harganya cuma enam puluhan ribu doang, --- which is worth it banget buat kalian!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demo pakai baterai di jam dinding dan remote TV dengan efek glow effect.",
+      "narration": "Awet banget buat jam dinding, kualitas ABC nggak ada komplain, dan fresh banget karena masih baru dari pabrik. --- Daya tahan zinc AA-nya super stabil buat remote TV dan mainan elektronik. --- No cap, ini investasi terbaik buat kebutuhan rumah tangga."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang mengganti baterai di jam dinding dan mainan anak sambil tersenyum puas.",
+      "narration": "Perfect buat kamu yang sering ganti jam dinding atau mainan anak. --- Tapi saran kecil, cek isi packnya ya, soalnya ada yang nemu kurang satu. --- Jangan lupa foto paket pas dateng biar aman."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan angka 20.000 terjual dengan efek animasi pop up.",
+      "narration": "Rating 4.9, udah terjual 20 ribu! --- Kata pembelinya \"Kualitas ABC tidak diragukan lagi\"."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul di layar dengan panah mengarah ke bawah atau tombol klik.",
+      "narration": "Penasaran detailnya? Cek di finding dot id ya bestie, --- review produknya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#BaterABC",
+    "#RekomendasiProduk",
+    "#GayaHidupGenZ",
+    "#BelanjaOnline",
+    "#PromosiMurah",
+    "#LifeHacks",
+    "#CintaIndo",
+    "#FindingID"
+  ],
+  "product_id": 127809,
+  "product_title": "Baterai batre ABC biru R6 Zinc AA A2 isi 24pcs  bisa untuk baterai jam dinding expired 2028",
+  "product_price": "61725.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/127809.jpg"
+  ],
+  "product_link": "https://finding.id/p/127809",
+  "generated_at": "2026-03-13T18:00:58.674Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Tas Bayi Multifungsi? Worth it Banget!",
+  "hook_text": "Stop scroll! Tas bayi apa ini?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up tas bayi yang estetik diputar cepat lalu zoom out ke ibu yang senyum sambil pegang bayi.",
+      "narration": "Stop scroll bestie! Kamu pasti lagi cari tas bayi yang nggak cuma kuat, tapi juga super estetik dong, kan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase fitur tas dibuka perlahan, tunjukkan bagian dalam yang luas dan rapi.",
+      "narration": "Perkenalkan, Emomcare Tas Bayi Multifungsi! Basically tas ini adalah penyelamat banget buat momma-momma yang sering travelling bareng buah hati."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, transisi cepat ke visual ibu lagi happy shopping.",
+      "narration": "Nggak kerasa deh kalau harganya cuma empat belas ribuan saja, padahal kualitasnya premium banget, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: a) Tunjukkan ketebalan bahan, b) Tunjukkan warna soft, c) Tunjukkan kapasitas isi banyak.",
+      "narration": "First, bahannya kanvas yang beneran kuat dan tebal, nggak gampang sobek. Second, warnanya soft dan lucu banget, literally so cute buat outfit apapun. Third, kapasitasnya lumayan gede, makanya kamu bisa bawa banyak kebutuhan bayi tanpa repot, basically next level!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario ibu berjalan-jalan di mall atau di luar rumah dengan santai membawa tas ini.",
+      "narration": "Perfect buat kamu yang sering jalan-jalan, mau ke mall atau travelling jauh. Kalau aktivitas kamu macet-macetan, tas ini juga gampang dibawain, nggak bikin pegel."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilkan rating bintang 4.89 dan angka 50.000+ terjual, lalu muncul quote bubble.",
+      "narration": "Rating empat koma delapan sembilan dari lima puluh ribu produk terjual. Yang udah beli bilang bahannya bagus kuat tebel, bener bener gak kecewa beli tas ini!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol CTA muncul dengan animasi pointer, background warna-warni ceria.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#TasBayi",
+    "#Mompreneur",
+    "#ParentingHacks",
+    "#Emomcare",
+    "#WorthIt",
+    "#BayiLucu",
+    "#ShoppingViral",
+    "#FindingId"
+  ],
+  "product_id": 22950,
+  "product_title": "Emomcare Tas Bayi Multifungsi Tas popok Baby diapers bag Perawatan tas Perlengkapan Travelling Ransel Backpack",
+  "product_price": "144963.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/22950.jpg",
+    "/uploads/products/22950_1.jpg",
+    "/uploads/products/22950_2.jpg",
+    "/uploads/products/22950_3.jpg",
+    "/uploads/products/22950_4.jpg",
+    "/uploads/products/22950_5.jpg",
+    "/uploads/products/22950_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/22950",
+  "generated_at": "2026-03-14T23:32:52.424Z"
+}

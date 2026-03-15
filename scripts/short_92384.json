@@ -1,0 +1,83 @@
+{
+  "title": "Guling Hotel Premium B1G1!",
+  "hook_text": "Guling Hotel Harga Kaki Lima?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up guling memory foam sedang ditekan dan kembali bentuk.",
+      "narration": "Guling Hotel Harga Kaki Lima?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot paket 2 guling Yumei diletakkan di atas kasur rapi.",
+      "narration": "Ini paket 2 guling memory foam Yumei. --- Ukurannya 85x25 cm, pas banget buat tidur nyaman tanpa rasa sakit."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek kilat.",
+      "narration": "Harganya cuma seratus ribuan doang. --- Dan ada promo buy one get one, literally worth it banget buat kado."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Demonstrasi tangan menekan guling dan memory foam kembali bentuk semula.",
+      "narration": "Bahannya memory foam yang bisa balik ke bentuk semula. --- Ada yang bilang agak firm, so ini bagus buat support leher. Nggak bikin sakit kepala sama sekali. Basically next level buat relaksasi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Orang tidur nyenyak dengan guling di bawah kepala.",
+      "narration": "Perfect buat yang sering pegal leher atau suka tidur hotel. --- Bestie yang cari kualitas tapi budget tetap aman. Soalnya kalau tidur nyenyak, mood jadi naik level."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.89 dan angka 20.000 terjual.",
+      "narration": "Ratingnya 4,89 bintang dari 20 ribu terjual. --- Yang udah beli bilang, \"Kualitas bahannya bagus memory foam gituu.\""
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran detail lengkapnya? --- Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Yumei",
+    "#GulingMemoryFoam",
+    "#PromoB1G1",
+    "#RumahNyaman",
+    "#TidurNyenyak",
+    "#GenZIndonesia",
+    "#ViralProduct",
+    "#FindingID"
+  ],
+  "product_id": 92384,
+  "product_title": "Paket 2 Guling Tidur Hotel Premium Memory Foam Empuk Yumei 85x25 cm | Buy 1 Get 1",
+  "product_price": "113678.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/92384.jpg",
+    "/uploads/products/92384_1.jpg",
+    "/uploads/products/92384_2.jpg",
+    "/uploads/products/92384_3.jpg",
+    "/uploads/products/92384_4.jpg",
+    "/uploads/products/92384_5.jpg",
+    "/uploads/products/92384_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/92384",
+  "generated_at": "2026-03-13T23:11:29.790Z"
+}

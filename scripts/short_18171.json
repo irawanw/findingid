@@ -1,0 +1,83 @@
+{
+  "title": "Stroller Murah 300 Ribuan? Worth It Banget!",
+  "hook_text": "Stroller 200 Ribuan? Gak Serius!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up produk stroller SIYA dengan efek zoom in cepat dan teks besar 'STROLLER 200 RIBUAN?' di layar",
+      "narration": "Gak percaya dong, ada stroller sekeren ini cuma di harga dua ratusan ribu? No cap, ini beneran ada!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot slow motion stroller dilipat dan dibuka, menunjukkan desain modern dan fitur bebas bubblewrap",
+      "narration": "Kenalin nih, SIYA Spacebaby, stroller 3 posisi yang bisa hadap depan atau belakang. Literally next level buat perjalanan bayi kamu, dan yang paling penting, dia aman banget tanpa bubblewrap!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar 'Rp 310.000-an' muncul di tengah layar dengan efek kilat, disusul teks 'Harga Terendah 290 Ribuan'",
+      "narration": "Harga realnya cuma seratus delapan puluhan ribu, atau kalau diskon bisa dapet di harga dua ratus sembilan puluhan ribu aja. Which is worth it banget buat dapet stroller se-fungsional ini!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: (1) Stroller dilipat satu tangan, (2) Bayi duduk menghadap orang tua, (3) Stroller didorong santai",
+      "narration": "Fiturnya gila bestie. Pertama, bisa dilipat praktis buat masuk mobil atau tas besar. Kedua, posisi duduknya bisa ngadep kamu atau ngadep depan biar si kecil bisa liat dunia. Ketiga, build quality-nya oke banget kok, gak goyang-goyang pas didorong."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ibu muda sedang menyuapi bayi di taman sambil memegang stroller, lalu stroller didorong santai di trotoar",
+      "narration": "Product ini perfect banget buat kamu yang punya bayi 0 sampai 8 bulan, atau buat kamu yang suka jalan-jalan santai di komplek. Jadi jangan berharap buat tanjakan curam ya, tapi buat harian itu juara!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Teks rating 4.81 bintang dan angka 20.000 terjual muncul, diakhiri dengan quote bubble 'Real pict, ga ngecewain!'",
+      "narration": "Ratingnya 4.81 dari 20.000 pembeli yang udah beli bilang barangnya real pict dan gak ngecewain, yang udah beli bilang harganya pas banget buat kualitas sekeren ini."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id animasi muncul di layar dengan panah menunjuk ke arah teks 'Cari di Finding'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkapnya di finding dot id ya bestie!",
+  "hashtags": [
+    "#StrollerMurah",
+    "#SIYAStroller",
+    "#BayiCeria",
+    "#ParentingHacks",
+    "#StrollerViral",
+    "#RekomendasiBayi",
+    "#MurahMeriah",
+    "#FindingID"
+  ],
+  "product_id": 18171,
+  "product_title": "SIYA | FREE BUBBLEWRAP STROLLER SPACEBABY SB 202 203 204 207 208 214 215 315 316 319Q SB 103S 106S PMB IB501 IB502 IB 501 502 506 STROLLER BAYI 3 POSISI HADAP DEPAN BELAKANG 2 DUA ARAH KERETA DORONG BAYI STROLLER TRAVELLING ANAK MURAH KADO BAYI",
+  "product_price": "310000.00",
+  "product_rating": "4.81",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/18171.jpg",
+    "/uploads/products/18171_1.jpg",
+    "/uploads/products/18171_2.jpg",
+    "/uploads/products/18171_3.jpg",
+    "/uploads/products/18171_4.jpg",
+    "/uploads/products/18171_5.jpg",
+    "/uploads/products/18171_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/18171",
+  "generated_at": "2026-03-15T15:23:10.734Z"
+}

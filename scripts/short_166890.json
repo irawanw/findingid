@@ -1,0 +1,83 @@
+{
+  "title": "Pispot Anak Anti Gak Bisa Sendiri! 😱",
+  "hook_text": "Anak gak mau naik toilet?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up anak rewel atau bingung di depan toilet duduk dengan teks besar 'STOP SCROLL!'",
+      "narration": "Anak kamu masih ribet banget deh tiap mau ngompo, nggak mau naik kloset sendiri kan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke produk YOMI Baby Potty Seat K02 terpasang rapi di atas toilet dengan warna pink atau hijau yang cerah.",
+      "narration": "Solusinya udah ada nih bestie, YOMI Baby Potty Seat with Handles K02. Diletakkan langsung di atas kloset duduk, jadi anak nggak perlu pusing cari pispot portabel lagi."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga Rp 69.500 dengan efek animasi uang atau tanda seru, lalu muncul icon 'Anti Air' dan 'Anti Geser'.",
+      "narration": "Keren banget deh harganya cuma seratus-an ribu aja, which is worth it banget buat investasi masa depan si kecil. Plus permukaannya anti air dan ada bracket biar nggak bergejolak."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase 3 fitur: Pegangan ergonomis, Permukaan licin anti air, Desain lucu Dino/Kodok.",
+      "narration": "Pertama, ada pegangannya yang bikin anak merasa aman dan nggak takut jatuh. Kedua, semua permukaannya anti air jadi gampang dibasuh pakai lap basah. Terakhir, desainnya lucu banget dengan motif dino yang bikin anak betah duduk lama-lama."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario anak duduk nyaman di pispot sambil memegang pegangan dan tersenyum lebar.",
+      "narration": "Perfect buat kamu yang lagi aktif banget melatih anak mandiri berkemih. Kalau aktivitas kamu tiap hari nganterin ke toilet, alat ini bakal jadi saving grace banget sih."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.89 bintang dan angka 20.000+ terjual dengan teks kutipan pembeli.",
+      "narration": "Ratingnya hampir lima bintang dan dua puluh ribu udah terjual. Yang udah beli bilang ini cocok banget buat anak di bawah lima tahun dan kualitasnya bagus."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Arahkan jari ke arah bawah layar dengan teks besar 'CEK DI FINDING DOT ID'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#PispotAnak",
+    "#ToiletTraining",
+    "#YOMIBaby",
+    "#ParentingHack",
+    "#AnakMandiri",
+    "#ProdukViral",
+    "#IbuBunda",
+    "#FindingId"
+  ],
+  "product_id": 166890,
+  "product_title": "YOMI Baby Potty Seat with Handles K02/ Ring kloset Dengan Pegangan / Potty Handle / Potty Gagang",
+  "product_price": "69500.00",
+  "product_rating": "4.89",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/166890.jpg",
+    "/uploads/products/166890_1.jpg",
+    "/uploads/products/166890_2.jpg",
+    "/uploads/products/166890_3.jpg",
+    "/uploads/products/166890_4.jpg",
+    "/uploads/products/166890_5.jpg",
+    "/uploads/products/166890_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/166890",
+  "generated_at": "2026-03-15T10:47:52.272Z"
+}

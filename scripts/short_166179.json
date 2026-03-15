@@ -1,0 +1,88 @@
+{
+  "title": "Popok Bayi Terbaik? Ini Dia Merries!",
+  "hook_text": "Stop scrolling! Popok ini gila banget",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah model atau bayi lucu sambil memegang popok Merries dengan ekspresi kaget dan senang.",
+      "narration": "Stop scrolling! Kamu cari popok bayi yang nggak bikin kulit merah tapi tetep super nyaman?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot produk Merries Good Skin di atas meja bersih, zoom in ke logo dan kemasan tebal.",
+      "narration": "Kenalan dong sama Merries Pants Good Skin, ini nomor satu di Jepang nih! Teknologi Smile Lab-nya literally next level buat menjaga kulit bayi tetap sehat."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar, lalu transisi cepat ke tumpukan popok yang banyak.",
+      "narration": "Gila sih bestie, harga cuma enam puluhan ribu sampai seratus delapan puluhan ribu doang! Isinya banyak banget, worth it banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Tisu basah menggosok area popok (tampilan lembut), 2. Popok dikibas-kibas (tampilan breathable), 3. Bayi tidur nyenyak (tampilan anti bocor).",
+      "narration": "Pertama, bahannya super lembut kayak tisu basah, nggak bikin iritasi sama sekali. Kedua, dia breathable banget jadi kaki bayi nggak lembab. Terakhir, anti bocor parah, pokoknya bikin orang tua tenang."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage bayi aktif merangkak, berteriak senang, dan tidur pulas.",
+      "narration": "Perfect buat kamu yang punya buah hati aktif banget, nangis terus, atau lagi rewel. Kalau aktivitas dia banyak, popok ini jawabannya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.91 dan angka terjual 500.000 dengan font besar.",
+      "narration": "Ratingnya 4.91 dari lima ratus ribu produk yang udah laku keras! Pembelinya pada ngomong teksturnya oke bagus dan sangat nyaman."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.ID muncul dengan animasi panah menunjuk ke bawah/ke samping.",
+      "narration": "Penasaran sama varian lengkapnya? Cek di finding dot id ya bestie, stoknya terbatas lho!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#Merries",
+    "#PopokBayi",
+    "#BabyCare",
+    "#BestieRekomendasi",
+    "#ParentingHacks",
+    "#ViralIndonesia",
+    "#ParentingLife",
+    "#FindingID"
+  ],
+  "product_id": 166179,
+  "product_title": "Merries Pants Good Skin NB-S40 / M32 / L28/ XL26 / XXL28 / M48 / L42 / XL38 / M56 / L48 / XL44 - RUMAH SUSU",
+  "product_price": "58500.00",
+  "product_rating": "4.91",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/166179.jpg",
+    "/uploads/products/166179_1.jpg",
+    "/uploads/products/166179_2.jpg",
+    "/uploads/products/166179_3.jpg",
+    "/uploads/products/166179_4.jpg",
+    "/uploads/products/166179_5.jpg",
+    "/uploads/products/166179_6.jpg",
+    "/uploads/products/166179_7.jpg",
+    "/uploads/products/166179_8.jpg",
+    "/uploads/products/166179_9.jpg",
+    "/uploads/products/166179_10.jpg",
+    "/uploads/products/166179_11.jpg"
+  ],
+  "product_link": "https://finding.id/p/166179",
+  "generated_at": "2026-03-15T08:42:13.829Z"
+}

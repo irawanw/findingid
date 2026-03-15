@@ -1,0 +1,83 @@
+{
+  "title": "Jaket Winter Wangi Wangi Wangi Banget!",
+  "hook_text": "Jaket tipis tapi hangatin badan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah model kaget sambil melambaikan jaket tipis di depan tubuh yang terlihat hangat",
+      "narration": "Emang boleh pakai jaket puffer se-tipis ini tapi hangatin badan banget?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot slow motion model berputar menunjukkan detail jaket winter wanita waterproof windproof puffer",
+      "narration": "Tenang bestie, ini literally next level jaket winter wanita waterproof windproof puffer tebal musim dingin nih."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar sambil tunjuk harga di pojok, lalu transisi cepat ke tumpukan jaket",
+      "narration": "Harga cuma seratus delapan puluhan ribu rupiah, which is worth it banget buat kualitas segini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: tangan mencubit bahan, model berjalan di bawah angin kencang, dan close-up jahitan rapi",
+      "narration": "Pertama, bahan polyster lembut yang nggak bikin kulit iritasi. Kedua, waterproof windproof jadi nggak takut hujan atau angin dingin. Ketiga, tebal dan hangat banget meski desainnya tetap stylish dan ringan."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Model sedang jalan kaki di area perkotaan yang sepi atau sedang liburan ke daerah pegunungan",
+      "narration": "Perfect buat kamu yang sering traveling ke daerah bersalju atau hiking di pegunungan, nggak papa juga buat dipakai sehari-hari."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.84 bintang dengan angka 20.000 terjual dan quote bubble muncul",
+      "narration": "Rating empat koma delapan empat dari dua puluh ribu terjual, kata pembelinya bilang desainnya bagus dan bahan nyaman sesuai gambar."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Model menatap kamera dengan senyum lebar sambil menunjuk ke atas layar dengan jari telunjuk",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id!",
+  "hashtags": [
+    "#JaketWinter",
+    "#FashionIndonesia",
+    "#GenZStyle",
+    "#WinterOutfit",
+    "#ViralShorts",
+    "#BestieRecommendation",
+    "#MusimDingin",
+    "#StyleInspo"
+  ],
+  "product_id": 28115,
+  "product_title": "MnG Jaket Winter Wanita Waterproof Windproof Puffer Tebal Musim Dingin",
+  "product_price": "109000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/28115.jpg",
+    "/uploads/products/28115_1.jpg",
+    "/uploads/products/28115_2.jpg",
+    "/uploads/products/28115_3.jpg",
+    "/uploads/products/28115_4.jpg",
+    "/uploads/products/28115_5.jpg",
+    "/uploads/products/28115_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/28115",
+  "generated_at": "2026-03-15T01:39:07.291Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Skincare 6 Pcs Cuma 180 Riban? Gak Nyesel Bestie!",
+  "hook_text": "Cuma 180 Ribuan Buat 6 Pcs?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up produk skincare set lengkap dengan efek zoom in cepat.",
+      "narration": "Skincare lengkap enam pcs cuma seratus delapan puluhan ribu? literally gak masuk akal kan --- Cek deh ini sekarang!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tangan membuka kotak BIOAQUA dan menata keenam botolnya rapi di atas meja.",
+      "narration": "Ini BIOAQUA 1 Set Lengkap 6pcs. Ada wash, toner, serum, plus cream. All in one daily skin care kamu, bestie. 100% original, no doubt."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Grafik harga muncul di samping produk dengan efek centang hijau besar.",
+      "narration": "Beli satuan aja mahal. Tapi ini paket hemat, which is worth it banget buat kantong pelajar atau karyawan."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Video texture produk dioleskan ke tangan menunjukkan kelembutan dan penyerapan cepat.",
+      "narration": "Teksturnya lembut banget gampang meresap. Volume besar, kemasan mewah. Sudah BPOM resmi aman buat semua jenis kulit, no cap."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Wajah cantik sedang mengaplikasikan skincare di depan cermin dengan senyum ceria.",
+      "narration": "Perfect buat pemula atau kulit berminyak butuh pencerah. Kalau skincare mahal jadi masalah, ini solusinya dong."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.87 dan angka penjualan 30.000 terjual dengan animasi pop-up.",
+      "narration": "Rating 4,87 plus 30.000 terjual! --- Yang udah beli bilang, 'Sumpah ga nyangka sebagus ini, pengiriman nya cepat'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Layar menampilkan logo finding.id dengan panah menunjuk ke bawah.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#Bioaqua",
+    "#SkincareMurah",
+    "#SkincareGlowUp",
+    "#RacunShopee",
+    "#BeautyId",
+    "#FindMe",
+    "#SkincareHemat",
+    "#SkincareViral"
+  ],
+  "product_id": 100551,
+  "product_title": "BIOAQUA Skincare 1 Set Lengkap 6pcs With Brightening Serum Wajah / Acne Essence / Day & Night Pelembab Wajah Cream Krim / Hydrating Toner Wajah / Facial Wash Sabun Cuci Muka Skincare Paket",
+  "product_price": "186899.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/100551.jpg",
+    "/uploads/products/100551_1.jpg",
+    "/uploads/products/100551_2.jpg",
+    "/uploads/products/100551_3.jpg",
+    "/uploads/products/100551_4.jpg",
+    "/uploads/products/100551_5.jpg",
+    "/uploads/products/100551_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/100551",
+  "generated_at": "2026-03-13T17:21:34.816Z"
+}

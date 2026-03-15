@@ -1,0 +1,77 @@
+{
+  "title": "Popok Newborn Anti-Bocor, Bestie!",
+  "hook_text": "Bayi tidur nyenyak 10 jam?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up bayi baru lahir sedang tidur pulas dengan senyum mungil di atas popok MamyPoko.",
+      "narration": "Emang ada popok yang bikin si kecil tidur nyenyak tanpa takut bocor?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke tumpukan MamyPoko X-tra Kering ukuran NB-S 44 packs dengan efek cahaya dramatis.",
+      "narration": "Tenang bestie, jawabannya ada di sini, MamyPoko tipe perekat X-tra Kering, literally so worth it buat newborn."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul dengan efek *pop* warna-warni, lalu muncul stiker 'Promo' dan 'Murah Meriah'.",
+      "narration": "Harganya cuma seratus lima belas ribuan saja, which is super murah pas promo dibanding beli offline kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan gel biru menyerap air, kanan tunjukkan perekat popok yang dilepas dan dipasang lagi.",
+      "narration": "No cap, dia punya teknologi gel empat puluh kali ekstra serap, plus daya serap tinggi sampai sepuluh jam. Perekat lembutnya juga bisa dipasang berulang kali, jadi praktis banget."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montase aktivitas bayi: tidur, main, dan ganti popok, dengan teks overlay 'Perfect for Newborns'.",
+      "narration": "Perfect buat yang punya bayi baru lahir, terutama kalau aktivitasnya sering ganti-ganti posisi dan butuh kulit tetap kering."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menunjukkan rating 4.92 bintang dan angka 100.000 terjual dengan animasi naik.",
+      "narration": "Pembelinya pada ngomong kalau popoknya original dan kualitasnya oke banget, plus udah laku seratus ribu lebih ya!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan tombol animasi 'Cek Sekarang' dan panah menunjuk ke arah bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#PopokBestie",
+    "#NewbornCute",
+    "#MamyPokoXtraKering",
+    "#ParentingHacks",
+    "#ReviewPopok",
+    "#DiskonBaruLahir",
+    "#BabyCare",
+    "#FindingId"
+  ],
+  "product_id": 75104,
+  "product_title": "MamyPoko X-tra Kering - NB-S 44 - Popok Perekat Newborn Bayi Baru Lahir - 2 Packs",
+  "product_price": "111364.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/75104.jpg"
+  ],
+  "product_link": "https://finding.id/p/75104",
+  "generated_at": "2026-03-14T03:57:13.987Z"
+}

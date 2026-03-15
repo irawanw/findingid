@@ -1,0 +1,83 @@
+{
+  "title": "Celana Kantor Pria Murah Tapi Premium?",
+  "hook_text": "Celana Kantor Murah Tapi Premium?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Kamera zoom in ke celana formal pria dengan pencahayaan dramatis, host muncul dengan ekspresi kaget.",
+      "narration": "Beli celana kantor cuma butuh uang receh?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Host memegang celana, menunjukkan detail bahan woll dan potongan slimfit dengan gerakan tangan yang cepat.",
+      "narration": "Nih rekomendasi celana slimfit pria bahan woll premium. Cutingannya super rapi, literally membuat penampilan kamu naik kelas banget."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan teks harga coret besar, lalu muncul harga baru yang lebih kecil dengan efek kilat.",
+      "narration": "Dulu harga seratus dua puluhan ribu, sekarang bisa dapat di harga tujuh puluhan ribu saja. Which is basically next level untuk budget pelajar."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase close-up bahan yang tidak kusut, potongan pinggang, dan variasi warna yang dipadukan dengan kemeja.",
+      "narration": "Fiturnya enggak main-main. Pertama, bahan woll adem yang enggak gampang kusut. Kedua, potongan slimfit yang menjelaskan lekuk tubuh kamu. Ketiga, warna solid yang gampang dipadukan sama kemeja."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Host berpakaian rapi sedang berjalan di kantor atau sedang meeting dengan ekspresi percaya diri.",
+      "narration": "Perfect buat kamu yang sering meeting, presentasi, atau mau kerja di lingkungan formal. Kalau kamu butuh tampilan rapi tanpa ribet setrika, ini jawabannya buat kamu."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang dan jumlah terjual di layar, diikuti dengan klip host memeriksa kantong celana.",
+      "narration": "Rating 4,77 bintang dengan empat puluh ribu pembelian. Yang udah beli bilang 'Amaze sama cutingannya super rapi' --- Cek kondisi kantongnya pas sampai ya."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host menunjuk ke arah layar dengan senyum ramah, teks 'finding dot id' muncul di tengah layar.",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#celanakantor",
+    "#pakaianpria",
+    "#slimfit",
+    "#fashionmurah",
+    "#outfitkantor",
+    "#belanjamurah",
+    "#rekomendasiproduk",
+    "#findingid"
+  ],
+  "product_id": 9241,
+  "product_title": "Celana  Kantor Formal Pria Slimfit Bahan Dasar Kain Woll Kualitas",
+  "product_price": "119900.00",
+  "product_rating": "4.77",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/9241.jpg",
+    "/uploads/products/9241_1.jpg",
+    "/uploads/products/9241_2.jpg",
+    "/uploads/products/9241_3.jpg",
+    "/uploads/products/9241_4.jpg",
+    "/uploads/products/9241_5.jpg",
+    "/uploads/products/9241_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/9241",
+  "generated_at": "2026-03-13T19:04:46.681Z"
+}

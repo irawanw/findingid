@@ -1,0 +1,96 @@
+{
+  "title": "Mangkuk Keramik Viral! Worth It? 🍽️✨",
+  "hook_text": "Stop scroll! Mangkuk pecah?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up mangkuk keramik jatuh lalu berhenti di bubble wrap tebal dengan efek shock sound",
+      "narration": "Emang boleh beli empat mangkuk biar nggak takut pecah lagi?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase set mangkuk ZONEGIFT berbagai motif diputar-putar di meja kayu dengan pencahayaan estetik",
+      "narration": "Tenang bestie, ini ZONEGIFT Set Mangkuk Keramik, literally so cute dan kualitasnya next level banget!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar sambil tunjukkan tumpukan mangkuk warna-warni",
+      "narration": "Mulai dari seratus puluhan ribu sampai seratus tiga puluh sembilan ribuan, which is worth it banget buat dekorasi makan!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: 1. Tangan meremas mangkuk keras, 2. Zoom detail motif yang halus, 3. Bubble wrap tebal di luar dus",
+      "narration": "Pertama, bahannya keramik asli yang kokoh dan nggak gampang retak. Kedua, motifnya super estetik bikin meja makan jadi makin vibe. Ketiga, packingannya bubble wrap banget, super aman buat pengiriman!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: Sedang makan malam bareng temen, lalu adegan lagi jadi souvenir buat ulang tahun",
+      "narration": "Perfect buat kamu yang sering ngumpul bareng keluarga atau lagi cari kado unik yang nggak pasaran!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.8 dan jumlah terjual 20.000 dengan highlight teks kutipan pembeli",
+      "narration": "Rating empat koma delapan dua dari dua puluh ribu terjual, pembelinya pada ngomong bubble wrap nya banyakk jadi aman!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol animasi besar mengarah ke finding dot id dengan teks 'Cek Detail Disini'",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#MangkukKeramik",
+    "#ZoneGift",
+    "#IdeKadoViral",
+    "#DekorasiMeja",
+    "#RenovasiRumah",
+    "#HomeDecor",
+    "#ShopeeFinds",
+    "#ViralShorts"
+  ],
+  "product_id": 103862,
+  "product_title": "ZONEGIFT  SET MANGKOK MOTIF / HAMPERS MANGKOK KERAMIK / SOUVENIR MANGKOK ELEGANT",
+  "product_price": "27999.00",
+  "product_rating": "4.82",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/103862.jpg",
+    "/uploads/products/103862_1.jpg",
+    "/uploads/products/103862_2.jpg",
+    "/uploads/products/103862_3.jpg",
+    "/uploads/products/103862_4.jpg",
+    "/uploads/products/103862_5.jpg",
+    "/uploads/products/103862_6.jpg",
+    "/uploads/products/103862_7.jpg",
+    "/uploads/products/103862_8.jpg",
+    "/uploads/products/103862_9.jpg",
+    "/uploads/products/103862_10.jpg",
+    "/uploads/products/103862_11.jpg",
+    "/uploads/products/103862_12.jpg",
+    "/uploads/products/103862_13.jpg",
+    "/uploads/products/103862_14.jpg",
+    "/uploads/products/103862_15.jpg",
+    "/uploads/products/103862_16.jpg",
+    "/uploads/products/103862_17.jpg",
+    "/uploads/products/103862_18.jpg",
+    "/uploads/products/103862_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/103862",
+  "generated_at": "2026-03-15T07:12:00.057Z"
+}

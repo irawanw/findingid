@@ -1,0 +1,96 @@
+{
+  "title": "Ransel Gendong Bayi Bestie! M-Shape Athaya, Worth It Banget!",
+  "hook_text": "Bayi 3 bulan-3 tahun, nyaman banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wajah bayi tersenyum ceria saat digendong dekat dada ibu dengan ekspresi mata membesar.",
+      "narration": "Guys, tau nggak sih kalau gendong bayi itu nggak harus capek banget di pundak terus?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke shot full body ibu memakai ransel Snobby Gendongan depan Athaya Star Emily Mayka Jolly Owl Series dengan posisi bayi menghadap depan.",
+      "narration": "Intip dong, ini Snobby Gendongan Depan Ransel M-Shape Athaya Star Emily Mayka Jolly Owl Series. Basically next level buat kamu yang suka jalan-jalan sambil nggendong si kecil tanpa sakit punggung!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan grafis harga dengan efek 'boom' atau teks besar yang muncul, menampilkan angka Rp 92-an hingga Rp 150-an, lalu transisi ke shot detail jahitan dan bahan.",
+      "narration": "Kamu bakal kaget pas liat harganya, which is worth it banget! Mulai dari seratus delapan puluhan ribu sampai seratus lima puluh ribuan doang. Nggak nyangka ya, kualitasnya sekelas premium seharga segini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot detail: 1. Zoom ke bahan kain yang disentuh tangan (soft), 2. Shot bayi tertidur pulas di ransel, 3. Shot ibu mengangkat ransel dengan mudah (ringan).",
+      "narration": "Pertama, bahannya super lembut dan nyaman buat kulit bayi nggak bikin iritasi. Kedua, punya dua posisi, bisa bayi menghadap ibu atau menghadap depan jadi kamu bisa monitor aktivitasnya terus. Terakhir, ini ringaan banget cuma tiga ratus gram, literally super light!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage video: Ibu menyusui di taman, ibu mendorong kereta bayi sambil gendong, dan ibu keluar rumah dengan nyaman.",
+      "narration": "Perfect buat yang sering keluar rumah, mau menyusui di tempat umum, atau cuma mau jalan-jalan santai. Cocok banget buat bayi usia tiga bulan sampai tiga tahun dengan berat maksimal lima belas kilogram."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.86 bintang emas, angka '20.000+' terjual, dan bubble chat dengan teks kutipan asli dari pembeli.",
+      "narration": "Nggak perlu ragu, rating empat koma delapan enam dengan dua puluh ribuan produk yang udah terjual. Pembelinya pada ngomong kalau ini cocok banget buat kebutuhan sehari-hari baby."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tombol simulasi klik atau panah menunjuk ke bawah, dengan teks besar 'CEK DI FINDING DOT ID' dan logo finding.id muncul jelas.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek review lengkap di finding dot id sekarang!",
+  "hashtags": [
+    "#SnobbyGendongan",
+    "#GendongBayi",
+    "#Mompreneur",
+    "#ParentingHacks",
+    "#BabyGear",
+    "#AthayaStar",
+    "#WorthIt",
+    "#FindingID"
+  ],
+  "product_id": 74193,
+  "product_title": "Snobby Gendongan Depan Ransel M-Shape Athaya Star Emily Mayka Jolly Owl Series",
+  "product_price": "92290.00",
+  "product_rating": "4.86",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/74193.jpg",
+    "/uploads/products/74193_1.jpg",
+    "/uploads/products/74193_2.jpg",
+    "/uploads/products/74193_3.jpg",
+    "/uploads/products/74193_4.jpg",
+    "/uploads/products/74193_5.jpg",
+    "/uploads/products/74193_6.jpg",
+    "/uploads/products/74193_7.jpg",
+    "/uploads/products/74193_8.jpg",
+    "/uploads/products/74193_9.jpg",
+    "/uploads/products/74193_10.jpg",
+    "/uploads/products/74193_11.jpg",
+    "/uploads/products/74193_12.jpg",
+    "/uploads/products/74193_13.jpg",
+    "/uploads/products/74193_14.jpg",
+    "/uploads/products/74193_15.jpg",
+    "/uploads/products/74193_16.jpg",
+    "/uploads/products/74193_17.jpg",
+    "/uploads/products/74193_18.jpg",
+    "/uploads/products/74193_19.jpg"
+  ],
+  "product_link": "https://finding.id/p/74193",
+  "generated_at": "2026-03-14T12:58:30.378Z"
+}

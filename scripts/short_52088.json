@@ -1,0 +1,82 @@
+{
+  "title": "Keyboard Mouse Hemat Ruang? Worth It Banget!",
+  "hook_text": "Ruang meja sempit? Jangan panik!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up meja kerja yang berantakan penuh barang, lalu tangan masuk dan langsung bersihin area itu.",
+      "narration": "Ruang kerja kamu sempit banget? Atau meja selalu penuh sama barang? Tenang bestie, kita punya solusi!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat menampilkan Logitech MK215 Combo yang diletakkan di meja dengan rapi, terlihat kecil dan elegan.",
+      "narration": "Kenalan yuk sama Logitech MK215 Combo nih, keyboard dan mouse wireless compact yang bikin workspace kamu langsung lega dan stylish!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek suara 'ding' seru, lalu muncul stiker 'Best Price'.",
+      "narration": "Gila sih harganya cuma satu jutaan rupiah doang, padahal kamu dapet set lengkap keyboard plus mouse, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Shot split layar: kiri tunjuk desain kecil, tengah tunjuk jangkauan jauh, kanan tunjuk baterai lama.",
+      "narration": "Pertama, desain compactnya bisa hemat ruang meja hingga tiga puluh enam persen. Kedua, koneksinya super stabil sampai sepuluh meter jauhnya. Ketiga, baterainya awet banget, bisa dua puluh empat bulan tanpa ganti!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage aktivitas: pelajar belajar di kamar kecil, pekerja remote di sofa, dan anak kos di meja sempit.",
+      "narration": "Perfect buat kamu yang sering kerja remote, pelajar, atau anak kos yang butuh produktivitas tanpa ribet sama kabel, nggak perlu mikir lagi dong!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Layar menampilkan rating 4.88 bintang dan angka 50.000 terjual, lalu muncul teks kutipan pembeli.",
+      "narration": "Lagi, lima puluh ribu produk udah terjual dengan rating hampir lima bintang, pembelinya pada ngomong nyaman dipakai dan tampilannya elegan banget!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tampilan akhir produk dengan tombol 'Cek Sekarang' yang besar dan animasi pointer mengklik.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail lengkap di finding dot id sekarang!",
+  "hashtags": [
+    "#LogitechMK215",
+    "#WorkFromHome",
+    "#SetupMinimalis",
+    "#GearHematRuang",
+    "#KontenKreatif",
+    "#TipsGajiKecil",
+    "#TechReview",
+    "#FindingID"
+  ],
+  "product_id": 52088,
+  "product_title": "Logitech MK215 Combo Keyboard dan Mouse Wireless Compact",
+  "product_price": "299000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/52088.jpg",
+    "/uploads/products/52088_1.jpg",
+    "/uploads/products/52088_2.jpg",
+    "/uploads/products/52088_3.jpg",
+    "/uploads/products/52088_4.jpg",
+    "/uploads/products/52088_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/52088",
+  "generated_at": "2026-03-14T04:07:20.939Z"
+}

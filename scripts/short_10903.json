@@ -1,0 +1,83 @@
+{
+  "title": "Flashdisk Netac Murah & Cepat?!",
+  "hook_text": "Flashdisk ini worth it banget!",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Tangan memegang flashdisk Netac warna pink di depan laptop yang terbuka dengan ekspresi kaget.",
+      "narration": "Stop scroll bestie! Lo kira flashdisk cuma buat nyimpen lagu lama doang?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot close-up flashdisk Netac UA31 diputar-putar lalu dimasukkan ke port USB laptop dan Smart TV.",
+      "narration": "Kenalan nih sama Netac Flashdisk UA31 yang nggak cuma compact, tapi full support sama Smart TV dan PC lo, which is basically next level buat transfer data."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan harga muncul di layar dengan efek animasi 'bocor' dari angka tinggi ke harga rendah.",
+      "narration": "Nah, harga terendah cuma seratus empat puluh lima ribuan sampai seratus enam puluh sembilan ribuan tergantung varian kapasitasnya, which is super murah banget buat kemewahan teknologi kayak gini."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri menunjukkan proses copy file cepat, kanan menunjukkan flashdisk dicolokkan di TV memutar film HD.",
+      "narration": "Pertama, kecepatannya lumayan cepat sekali buat transfer data, no cap. Kedua, desainnya ada pilihan warna pink dan blue yang literally so cute buat aesthetic desktop lo. Terakhir, dia original dan punya sistem manajemen mutu yang bikin lo tenang banget, nggak perlu khawatir rusak."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Montage cepat: mahasiswa lagi ngerjain tugas di cafe, anak kos lagi nonton film di TV, dan gamer lagi copy game.",
+      "narration": "Perfect buat yang sering transfer file besar atau perlu backup data penting. Kalau aktivitas lo sering pindah pindah antara laptop sama Smart TV, flashdisk ini solusinya, bestie."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Pop-up besar menampilkan rating 4.87 bintang dan angka 20.000+, plus teks kutipan muncul.",
+      "narration": "Rating empat koma delapan tujuh dari dua puluh ribu produk terjual. Yang udah beli bilang kalau kapasitasnya totalnya jadi enam puluh dua gigabyte itu masih wajar dan sangat rekomendasi bange."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan animasi arrow menunjuk ke bawah/kanan.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek finding dot id sekarang!",
+  "hashtags": [
+    "#FlashdiskNetac",
+    "#StorageMurah",
+    "#TechIndonesia",
+    "#GadgetViral",
+    "#GenZTech",
+    "#SmartTVHack",
+    "#BelanjaCerdas",
+    "#FindingId"
+  ],
+  "product_id": 10903,
+  "product_title": "Netac Flashdisk UA31 USB 2.0 Flash Drive 8GB/16GB/32GB/64GB Blue/Pink Flash Disk Jump Drive Full Support for Computer Smart TV",
+  "product_price": "59400.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/10903.jpg",
+    "/uploads/products/10903_1.jpg",
+    "/uploads/products/10903_2.jpg",
+    "/uploads/products/10903_3.jpg",
+    "/uploads/products/10903_4.jpg",
+    "/uploads/products/10903_5.jpg",
+    "/uploads/products/10903_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/10903",
+  "generated_at": "2026-03-14T11:56:11.711Z"
+}

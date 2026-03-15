@@ -1,0 +1,83 @@
+{
+  "title": "Rumah Kucing Murah Banget! 🏠🐱",
+  "hook_text": "Inget rumah mainan kucingmu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Cut cepat ke kucing lucu sedang tidur mungil di dalam sarang warna kuning bebek, ekspresi kucing terlihat nyaman.",
+      "narration": "Inget rumah mainan kucingmu? Coba lihat ini, basicnya mirip tapi harganya jauh lebih ramah di kantong!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase berbagai warna sarang (blue cat, green dinosaur, yellow duck) dengan transisi yang cepat dan ceria.",
+      "narration": "Ini Pet Sleep Nest Bed, basically next level buat anabulmu. Tersedia warna-warna super lucu kayak blue cat, green dinosaur, atau yang favoritku, yellow duck!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilan teks besar angka harga muncul dengan efek confetti, lalu transisi ke gambar kucing tidur lelap.",
+      "narration": "Gila sih, harganya cuma seratus-an ribu bahkan bisa dapet di enam puluhan ribu! Which is worth it banget buat kasih tempat tidur layak buat mereka."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Close up tekstur bahan yang lembut, lalu zoom out menunjukkan bentuk semi tertutup yang aman, lalu tunjukkan kucing bisa masuk dengan mudah.",
+      "narration": "Fiturnya nggak main-main, bahan lembut super nyaman, bentuknya semi tertutup jadi anabul merasa aman banget, dan yang paling penting, ukurannya pas buat kucing segala ukuran!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario kucing bermain di siang hari lalu masuk ke sarang saat sore hari, terlihat sangat cozy.",
+      "narration": "Perfect buat yang punya kucing pemalas atau suka tidur siang. Kalau aktivitas kamu sering main sama kucing di rumah, ini wajib banget ada!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.87 bintang dan angka 20.000 terjual, dengan overlay teks kutipan pembeli.",
+      "narration": "Rating empat koma delapan tujuh dan sudah dua puluh ribu terjual. Yang udah beli bilang kasurnya bagus dan anabul suka semua!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Animasi panah menunjuk ke bawah dengan logo finding.id dan teks 'Cek Sekarang'.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie, review produk-nya ada di sana!",
+  "hashtags": [
+    "#KucingLucu",
+    "#TempatTidurKucing",
+    "#AnabulHebat",
+    "#ShoppingHaul",
+    "#PetLovers",
+    "#KucingIndonesia",
+    "#ViralShorts",
+    "#FindingId"
+  ],
+  "product_id": 81868,
+  "product_title": "Tidur Kucing Anjing Tempat Rumah Bed Sarang Hewan Kasur/Rumah Kucing/sarang kucing",
+  "product_price": "50000.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/81868.jpg",
+    "/uploads/products/81868_1.jpg",
+    "/uploads/products/81868_2.jpg",
+    "/uploads/products/81868_3.jpg",
+    "/uploads/products/81868_4.jpg",
+    "/uploads/products/81868_5.jpg",
+    "/uploads/products/81868_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/81868",
+  "generated_at": "2026-03-14T09:46:27.552Z"
+}

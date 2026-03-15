@@ -1,0 +1,83 @@
+{
+  "title": "Cukur + Lilin? Gak Ada Luka! ✨",
+  "hook_text": "Cukur & Lilin barengan?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah dengan bulu halus dan alat cukur mendekat, lalu transisi cepat ke tekstur krim lembut.",
+      "narration": "Stop dulu bestie, siapa bilang cukur bikin kulit kasar terus pakai lilin bikin luka?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Tunjukkan produk Brighty Swipe Removal Cream X di atas meja dengan background terang dan estetis.",
+      "narration": "Ini dia solusinya, Brighty Swipe Removal Cream X Post Shaving & Waxing Gel. Produk ini literally next level buat perawatan pasca cukur dan waxing."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Split screen: kiri harga asli Rp 150.000, kanan produk lengkap, dengan teks efek 'WOW' muncul.",
+      "narration": "Gila sih, dapet semua fungsi ini cuma perlu keluar satu ratus lima puluh ribuan doang. Worth it banget kan?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: aplikasi krim lembut, kulit terlihat glowing, dan aroma yang menyenangkan.",
+      "narration": "Pertama, teksturnya super lembut dan nggak lengket di kulit. Kedua, aromanya mantul banget, fresh dan nggak menyengat. Ketiga, ini praktis banget pakai cuma butuh oles tipis, mana yang nggak suka ribet?"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Skenario: seseorang baru selesai cukur di kamar mandi, lalu langsung pakai krim ini sebelum keluar rumah.",
+      "narration": "Perfect buat yang baru aja selesai cukur di kamar mandi, atau yang mau waxing di rumah sendiri tanpa takut kulit iritasi. Kalau aktivitas kamu sering ganti-ganti perawatan kulit, ini wajib punya!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan layar rating 4.84 bintang dan angka 20.000 terjual dengan teks kutipan muncul.",
+      "narration": "Yang udah beli bilang praktis banget dan aromanya mantul. Dapet rating empat koma delapan empat dari dua puluh ribu pembeli, nggak main-main!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul besar dengan animasi fun dan panah menunjuk ke bawah.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id sekarang!",
+  "hashtags": [
+    "#Brighty",
+    "#SkincareIndonesia",
+    "#PostShaving",
+    "#WaxingCare",
+    "#SkincareGenZ",
+    "#ProductViral",
+    "#FindingId",
+    "#BeautyHacks"
+  ],
+  "product_id": 123348,
+  "product_title": "Brighty Swipe Removal Cream X Post Shaving & Waxing Gel",
+  "product_price": "150000.00",
+  "product_rating": "4.84",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/123348.jpg",
+    "/uploads/products/123348_1.jpg",
+    "/uploads/products/123348_2.jpg",
+    "/uploads/products/123348_3.jpg",
+    "/uploads/products/123348_4.jpg",
+    "/uploads/products/123348_5.jpg",
+    "/uploads/products/123348_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/123348",
+  "generated_at": "2026-03-15T02:33:19.784Z"
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Tablet Murah 2.3 Jutaan? Ini Gila Bestie!",
+  "hook_text": "Tablet 2.3 Jutaan??",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up tangan menyentuh layar tablet dengan efek zoom in dramatis",
+      "narration": "Stop scroll dulu dong! Kamu pikir tablet bagus itu harus mahal banget kan?"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Shot penuh tablet HUAWEI MatePad SE 11\" di atas meja kayu dengan cahaya matahari",
+      "narration": "Kenalan dong sama HUAWEI MatePad SE 11\" ini. Uniknya, tablet ini eksklusif banget cuma jual di online. Dengan layar FHD+ yang bikin mata nggak sakit dan body metal yang super kokoh. Basically next level buat yang cari gadget berkualitas!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks besar muncul di layar: Rp 2.3 JUTAAN, lalu efek transisi cepat ke fitur lain",
+      "narration": "Nah, yang bikin gila sih harganya! Cuma sekitar seratus sembilan puluh sembilan ribuan sampai seratus sembilan puluh sembilan ribu. Kamu dapet baterai tujuh ribu mAh, RAM empat, dan penyimpanan seratus dua puluh delapan. Ini worth it banget dong, no cap!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: 1. Video game mulus, 2. Screenshot desain grafis, 3. Baterai tahan lama sampai sore",
+      "narration": "Fiturnya? Pertama, performanya mulus banget buat nonton atau main game ringan. Kedua, layarnya nyaman banget buat baca buku atau scroll sosmed seharian tanpa pegel. Ketiga, baterainya beneran nahan, bisa seharian penuh nggak perlu diisi ulang. Jadi ini literally so cute buat produktivitasmu!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Scene seorang mahasiswa belajar di kafe dan seorang freelancer mengerjakan proyek di laptop samping",
+      "narration": "Perfect buat kamu yang sering jadi mahasiswa, freelancer, atau anak sekolah. Kalau aktivitas kamu sering butuh tablet buat presentasi atau nonton film saat perjalanan jauh, ini jawabannya. Tenang bestie, jangan berharap camera-nya jago banget sih, karena ini seri standar. Tapi buat kebutuhan utama tablet, udah lebih dari cukup!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.92 bintang dan angka 30.000 terjual yang berdenyut",
+      "narration": "Pembelinya pada ngomong barangnya mulus dan performanya lancar. Kata pembelinya, kondisi barangnya segel dan nggak ada cacat sama sekali. Jadi ini udah terjual puluhan ribu dan ratingnya di atas empat koma sembilan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo finding.id muncul dengan panah menunjuk ke bawah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id sekarang!",
+  "hashtags": [
+    "#HuaweiMatePad",
+    "#TabletMurah",
+    "#GenZGadget",
+    "#OnlineExclusive",
+    "#FindingId",
+    "#TechViral",
+    "#BestSeller",
+    "#GadgetIndonesia"
+  ],
+  "product_id": 161164,
+  "product_title": "[TOP 1 | ONLINE EXCLUSIVE] HUAWEI MatePad SE 11\" Tablet [4+128GB] | FHD+ Eye Comfort Display | 7700mAh | Metal Unibody",
+  "product_price": "2299000.00",
+  "product_rating": "4.92",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/161164.jpg",
+    "/uploads/products/161164_1.jpg",
+    "/uploads/products/161164_2.jpg",
+    "/uploads/products/161164_3.jpg",
+    "/uploads/products/161164_4.jpg",
+    "/uploads/products/161164_5.jpg"
+  ],
+  "product_link": "https://finding.id/p/161164",
+  "generated_at": "2026-03-15T02:00:59.786Z"
+}

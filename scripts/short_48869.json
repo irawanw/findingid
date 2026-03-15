@@ -1,0 +1,83 @@
+{
+  "title": "Lifebuoy Lemon Hemat 30% 4 Botol!",
+  "hook_text": "Mau Bersih Tapi Dompet Tipis?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close-up wajah kreator dengan ekspresi kaget, background blur, lighting cinematic warm.",
+      "narration": "Mau badan bersih tapi dompet tipis? Stop scroll dulu bestie!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product shot Lifebuoy Lemon Fresh, 4 botol disusun rapi, tangan mengambil satu botol.",
+      "narration": "Ini dia Lifebuoy Lemon Fresh Anti Bacterial. Paket hemat empat botol isi delapan ratus mililiter. Total jadi tiga liter lebih."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Text overlay harga muncul besar 'SERATUS TIGA PULUHAN RIBU', background produk close-up.",
+      "narration": "Harganya cuma seratus tiga puluhan ribu. Bandingin sama harga normal, literally lebih hemat tiga puluh persen."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montage cepat: busa sabun, wangi lemon animasi, ikon BPOM, ikon vitamin.",
+      "narration": "Wanginya lemon segar, tahan dua belas jam. Ada Multivitamin lengkap plus dua booster perlindungan kulit. Dermatologically tested and BPOM certified. No cap, seratus persen lebih kuat lawan kuman berbahaya."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Someone packing the bottle into a travel bag, happy family scene.",
+      "narration": "Khususnya buat kamu yang aktif bepergian atau butuh stok jangka panjang buat keluarga. Desain botolnya anti tumpah, praktis banget buat masuk tas."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Rating 4.94 stars animation, chat screenshot of happy buyer (blurred name), packing tape close-up.",
+      "narration": "Sudah tiga puluh ribu produk terjual. Yang udah beli bilang 'Aroma tahan lama banget'. --- nggak perlu khawatir soal packing rusak, aman sampai tujuan."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Kreator pointing to screen corner, URL 'finding.id' animasi muncul.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana! Jangan ditunda!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#LifebuoyLemon",
+    "#HematBanget",
+    "#SabunMandi",
+    "#CekDuluBaruBel",
+    "#ReviewProdukJujur",
+    "#TipsHemat",
+    "#FamilyCare",
+    "#ViralProduct"
+  ],
+  "product_id": 48869,
+  "product_title": "[LEBIH HEMAT 30%] Lifebuoy Sabun Mandi Cair Anti Bacterial Body Wash Lemon Fresh 100% Lebih Kuat Lawan Kuman, Kesegaran 12 Jam 800 mL x4",
+  "product_price": "103800.00",
+  "product_rating": "4.94",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/48869.jpg",
+    "/uploads/products/48869_1.jpg",
+    "/uploads/products/48869_2.jpg",
+    "/uploads/products/48869_3.jpg",
+    "/uploads/products/48869_4.jpg",
+    "/uploads/products/48869_5.jpg",
+    "/uploads/products/48869_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/48869",
+  "generated_at": "2026-03-13T19:46:20.556Z"
+}

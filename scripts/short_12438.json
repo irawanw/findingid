@@ -1,0 +1,86 @@
+{
+  "title": "Dumbbell 20kg Cuma 150 Ribuan Bestie!",
+  "hook_text": "Dumbbell 20kg Cuma 150 Ribu?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up dumbbell set sedang diangkat dengan cepat di depan kamera",
+      "narration": "Dumbbell 20 kilo cuma seratus lima puluhan ribu? Nggak kerasa banget bestie, serius!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Product showcase dumbbell berputar dengan efek cahaya",
+      "narration": "Ini sih set dumbbell rumah yang lagi viral banget di kalangan anak muda sekarang."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Animasi harga coret dan harga baru muncul besar",
+      "narration": "Harga aslinya bisa sampe enam ratusan ribu, tapi sekarang cuma 150 ribuan doang. Literally worth it banget kan buat kamu?"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Tunjukkan bagian mur dan tekstur plastik dumbbell detail",
+      "narration": "Ada 20 kilo beratnya, bisa diatur kok. Bahannya plastik ramah lingkungan tapi tetep solid buat angkat harian. --- Bahan plastik sesuai harga namun berat juga sesuai kok, no cap ini next level buat home gym."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Seseorang sedang workout di kamar tidur dengan senyum",
+      "narration": "Kalau kamu sering nggak sempat ke gym, atau mau latihan sore-sore di kamar, ini solusinya."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.9 dan angka penjualan 20rb",
+      "narration": "Ratingnya 4,9 sempurna dari 20 ribu orang yang udah beli bilang 'Kualitas bukan kaleng-kaleng buat latihan harian dirumah cocok bgt'."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Logo Finding.id muncul besar di tengah layar",
+      "narration": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!"
+    }
+  ],
+  "cta": "Penasaran detail lengkapnya? Cek di finding dot id ya bestie, review produknya ada di sana!",
+  "hashtags": [
+    "#fitnessrumah",
+    "#dumbbellmurah",
+    "#homegym",
+    "#gaya hidup",
+    "#fitnessindonesia",
+    "#workoutmurah",
+    "#belajarfitness",
+    "#productviral"
+  ],
+  "product_id": 12438,
+  "product_title": "Rumah Dumbbell set 20kg Peralatan Kebugaran Pria dan Wanita Rumah Pelatihan Pelajar 20KG Set Barbel Ramah Lingkungan OT77",
+  "product_price": "152000.00",
+  "product_rating": "4.90",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/12438.jpg",
+    "/uploads/products/12438_1.jpg",
+    "/uploads/products/12438_2.jpg",
+    "/uploads/products/12438_3.jpg",
+    "/uploads/products/12438_4.jpg",
+    "/uploads/products/12438_5.jpg",
+    "/uploads/products/12438_6.jpg",
+    "/uploads/products/12438_7.jpg",
+    "/uploads/products/12438_8.jpg",
+    "/uploads/products/12438_9.jpg"
+  ],
+  "product_link": "https://finding.id/p/12438",
+  "generated_at": "2026-03-13T21:42:40.422Z"
+}

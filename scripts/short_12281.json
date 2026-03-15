@@ -1,0 +1,81 @@
+{
+  "title": "Regulator Gas Anti Bocor Worth It Banget!",
+  "hook_text": "Gas bocor lagi nih?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Shot close-up wajah panik memegang regulator lalu cut ke wajah lega sambil senyum lebar",
+      "narration": "Gas bocor lagi nih bestie? Stop scroll dulu dong sebelum dapur jadi tempat ngeri!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Transisi cepat ke produk Original Winn Gas Regulator Double Lock berputar dengan background warna cerah",
+      "narration": "Solusinya ada di Original Winn Gas Regulator Double Lock W900 Meter dan Non Meter, which is basically next level untuk keamanan dapur kamu!"
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks harga besar muncul di layar dengan efek confetti, lalu split screen perbandingan regulator lama vs baru",
+      "narration": "Coba deh harga cuma di seratus-an ribu saja, padahal kamu dapet fitur double lock anti bocor plus meteran untuk pantau tekanan gas, which is worth it banget!"
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: close-up mekanisme penguncian ganda, animasi grafik hemat 20%, dan logo SNI ISO bersinar",
+      "narration": "Pertama, fitur penguncian ganda bikin gas nggak bakal bocor sama sekali, no cap! Kedua, dia bisa hemat energi gas sampe dua puluh persen, plus ada meter tekanan biar kamu tau sisa gas tabung. Terakhir, dia udah punya sertifikasi SNI dan standar ISO, so basically aman banget buat keluarga!"
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Shot POV orang memasak di dapur yang ramai dan orang tinggal kos yang simpel",
+      "narration": "Perfect buat yang sering masak di rumah atau kamu yang tinggal kos dan butuh regulator simpel tapi ampuh, kalau aktivitas kamu sering pakai kompor, ini wajib banget!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating bintang 4.87 dan angka 20 ribu terjual dengan efek highlight",
+      "narration": "Pembelinya pada ngomong kalau regulator biasa suka bocor, begitu pake ini sekali pasang langsung aman gaada drama bocor lagi!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Teks besar 'CEK DI FINDING DOT ID' dengan tombol animasi",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie",
+  "hashtags": [
+    "#GasAman",
+    "#RegulatorWinn",
+    "#DapurHematGas",
+    "#TipsMasak",
+    "#ProdukViral",
+    "#HematEnergi",
+    "#SafetyFirst",
+    "#FindingId"
+  ],
+  "product_id": 12281,
+  "product_title": "Original Winn Gas Regulator LPG Double Lock Tekanan Rendah W900 Meter dan Non Meter",
+  "product_price": "97900.00",
+  "product_rating": "4.87",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/12281.jpg",
+    "/uploads/products/12281_1.jpg",
+    "/uploads/products/12281_2.jpg",
+    "/uploads/products/12281_3.jpg",
+    "/uploads/products/12281_4.jpg"
+  ],
+  "product_link": "https://finding.id/p/12281",
+  "generated_at": "2026-03-14T12:11:33.988Z"
+}

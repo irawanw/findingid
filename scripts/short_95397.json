@@ -1,0 +1,82 @@
+{
+  "title": "Korset Postpartum Adem Banget! 😱",
+  "hook_text": "PERUT SLEIM SEKARANG?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up wajah host ekspresif sambil pegang korset dengan latar belakang neon pink/soft glow",
+      "narration": "Sumpah nih bestie, perut langsung slim tanpa diet keras? Tenang, itu mungkin!"
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Slow motion unboxing produk Momwell Korset Postpartum Bamboo dengan efek zoom in ke tekstur",
+      "narration": "Kenalin nih Momwell Korset Postpartum Bamboo, model Laviola 2914 LSH yang literally next level buat kamu pasca melahirkan."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Tampilkan harga besar di layar sambil gestur tangan menunjuk angka, lalu transisi ke tumpukan korset",
+      "narration": "Gila sih harganya cuma delapan ratus delapan puluh delapan ribu rupiah, which is worth it banget kalau dipikirin hasilnya."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Montase cepat: close up bahan bamboo, host memakai korset di pinggang, dan host melenturkan tubuh",
+      "narration": "Pertama, bahannya dari bambu yang adem dan halus di kulit, nggak bikin gerah sama sekali. Kedua, bentuknya mungil tapi kuat ngencerin perut biar nggak buncit. Ketiga, fiturnya basic tapi bikin nyaman gerak, jadi nggak kaku kayak pakai baju besi."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Footage aktivitas ibu muda: menyusui, jalan-jalan ringan, atau duduk santai dengan korset",
+      "narration": "Perfect buat yang baru melahirkan dan butuh bantuannya buat nge-slim perut. Kalau kamu sering ngerasain perut kendur dan nggak pede pakai baju biasa, ini solusinya dong!"
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Screenshot rating 4.88 dan angka 20.000 terjual muncul dengan efek confetti",
+      "narration": "Rating empat koma delapan delapan dan dua puluh ribu yang udah beli bilang perut langsung slim, which is amazing!"
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Host melambaikan tangan ke kamera dengan senyum lebar, background berubah jadi warna solid cerah",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek detail di finding dot id!",
+  "hashtags": [
+    "#Momwell",
+    "#PostpartumStyle",
+    "#AbdominalSupport",
+    "#BambooFabric",
+    "#IbuBercitaRasa",
+    "#PostPartumCare",
+    "#ViralShorts",
+    "#FindingDotID"
+  ],
+  "product_id": 95397,
+  "product_title": "Momwell Korset Postpartum Bamboo - Korset Bamboo Pasca Melahirkan ALL SIZE SY01",
+  "product_price": "188000.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/95397_1.jpg",
+    "/uploads/products/95397_2.jpg",
+    "/uploads/products/95397_3.jpg",
+    "/uploads/products/95397_4.jpg",
+    "/uploads/products/95397_5.jpg",
+    "/uploads/products/95397_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/95397",
+  "generated_at": "2026-03-14T04:36:54.326Z"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Jas Hujan Anak Anti Rembes! 🌧️",
+  "hook_text": "Jas Hujan Anak Anti Rembes?",
+  "estimated_duration": 60,
+  "segments": [
+    {
+      "id": "hook",
+      "start_s": 0,
+      "duration_s": 5,
+      "visual": "Close up shot anak kecil pakai jas hujan jumpsuit warna pastel sedang melompat di genangan air, ekspresi senang.",
+      "narration": "Cari jas hujan anak yang bener-bener anti rembes tapi budget pelajar? Bestie, ini solusinya! Nggak perlu lagi drama basah kuyup di jalan."
+    },
+    {
+      "id": "reveal",
+      "start_s": 5,
+      "duration_s": 10,
+      "visual": "Montase cepat menunjukkan detail bahan PVC tebal yang sedang ditarik elastisnya, lalu dipegang untuk menunjukkan ketebalannya.",
+      "narration": "Ini sih Jas Hujan Anak Jumpsuit buat umur satu sampai enam tahun! Bahannya PVC yang literally tebal dan elastis banget, jadi nggak ecek ecek alias nggak tipis tipis doang."
+    },
+    {
+      "id": "price_wow",
+      "start_s": 15,
+      "duration_s": 10,
+      "visual": "Teks overlay besar muncul: 'Hanya 50 RIBUAN!'. Latar belakang video menunjukkan tumpukan jas hujan yang rapi.",
+      "narration": "Dan yang bikin kaget, harga cuma lima puluh ribuan aja! Seriously, which is worth it banget dibanding kualitas sekeren ini. Kamu dapat perlindungan maksimal cuma dengan harga seratus delapan puluhan ribu kalau dibanding beli yang biasa."
+    },
+    {
+      "id": "features",
+      "start_s": 25,
+      "duration_s": 17,
+      "visual": "Split screen: kiri tunjukkan air dituang ke jas (tidak tembus), kanan tunjukkan anak memakai jumpsuit dengan mudah karena elastis.",
+      "narration": "Fiturnya next level, bestie! Pertama, bahan PVC super tebal yang anti remes dan nggak gampang bocor. Kedua, desain jumpsuit satu body yang nyaman banget dipakenya, nggak bikin gerah. Ketiga, bahannya elastis, jadi anak bisa gerak bebas main hujan tanpa takut jasnya robek atau sempit."
+    },
+    {
+      "id": "suited_for",
+      "start_s": 42,
+      "duration_s": 10,
+      "visual": "Ilustrasi anak usia 1-6 tahun sedang memakai jas hujan dengan ukuran pas di tubuh, lalu transisi ke anak dengan berat badan sekitar 15kg.",
+      "narration": "Produk ini perfect banget buat kamu yang punya balita usia satu sampai enam tahun. Kalau kamu sering hujan-hujanan bareng si kecil atau butuh APD hujan yang kuat buat sekolah, ini wajib punya! Buat si kecil berat badannya 15 kilo pun, ukurannya masih pas banget."
+    },
+    {
+      "id": "proof",
+      "start_s": 52,
+      "duration_s": 5,
+      "visual": "Tampilan rating 4.88 bintang dengan ikon bintang emas berkilau, lalu teks pop-up kutipan pembeli.",
+      "narration": "Kata pembelinya, bahan bagus banget, warna kalem, dan sesuai harga. Ada yang bilang pas untuk acara hujan dan bahannya tebel nggak ecek ecek. Total udah terjual 20 ribu produk dengan rating 4.88."
+    },
+    {
+      "id": "cta",
+      "start_s": 57,
+      "duration_s": 3,
+      "visual": "Tangan menunjuk ke arah tombol pencarian atau layar menunjukkan logo finding.id dengan animasi fun.",
+      "narration": "Penasaran sama detail lengkapnya? Cek di finding dot id ya bestie, review produk-nya ada di sana!"
+    }
+  ],
+  "cta": "Cek di finding dot id ya bestie!",
+  "hashtags": [
+    "#JasHujanAnak",
+    "#ProdukViral",
+    "#OrangTuaCerdas",
+    "#JumpsuitAnak",
+    "#AntiRembes",
+    "#RekomendasiAnak",
+    "#FindingID",
+    "#GenZParent"
+  ],
+  "product_id": 14820,
+  "product_title": "JAS HUJAN ANAK JUMPSUIT USIA 1 tahun - 6 tahun JAS HUJAN JUMPSUIT ANAK APD MANTEL HUJAN ANAK JUMPSUIT BAHAN PVC ANTI REMBES KUAT TEBAL ELASTIS",
+  "product_price": "50991.00",
+  "product_rating": "4.88",
+  "product_sold_display": "10RB+",
+  "product_images": [
+    "/uploads/products/14820.jpg",
+    "/uploads/products/14820_1.jpg",
+    "/uploads/products/14820_2.jpg",
+    "/uploads/products/14820_3.jpg",
+    "/uploads/products/14820_4.jpg",
+    "/uploads/products/14820_5.jpg",
+    "/uploads/products/14820_6.jpg"
+  ],
+  "product_link": "https://finding.id/p/14820",
+  "generated_at": "2026-03-15T17:04:29.750Z"
+}
