@@ -1,8 +1,15 @@
 'use strict';
+require('dotenv').config({ path: require('path').join(__dirname, '.env') });
 const mysql = require('mysql2/promise');
 const axios = require('axios');
 
-const DB = { host:'localhost', port:3306, database:'findingid', user:'findingid', password:'fid_e4f72614bde12fae9d9f' };
+const DB = {
+  host:     process.env.DB_HOST || 'localhost',
+  port:     Number(process.env.DB_PORT) || 3306,
+  database: process.env.DB_NAME || 'findingid',
+  user:     process.env.DB_USER || 'findingid',
+  password: process.env.DB_PASS || '',
+};
 const RAG = 'http://127.0.0.1:8002';
 const BATCH = 50;
 

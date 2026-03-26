@@ -1,4 +1,3 @@
-'use strict';
 // ================================================================
 // finding.id — Background Service Worker v3.0
 // Manifest V3
@@ -16,9 +15,10 @@
 // making long-lived SSE connections unreliable. Alarm-based polling
 // is the correct MV3 pattern.
 // ================================================================
+import { INGEST_API_KEY } from './keys.js';
 
 const API_BASE      = 'https://finding.id';
-const API_KEY       = 'findingid-ingest-12ada3cec82e435f3787d7c8e510a211';
+const API_KEY       = INGEST_API_KEY;
 const POLL_INTERVAL = 2;   // seconds (works in dev mode; Chrome clamps to 1min in prod)
 const MAX_LOG_LINES = 200;
 

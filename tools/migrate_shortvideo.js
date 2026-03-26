@@ -11,7 +11,7 @@ async function main() {
   const my = await mysql.createConnection({
     host: 'localhost',
     user: 'findingid',
-    password: 'fid_e4f72614bde12fae9d9f',
+    password: process.env.DB_PASS || '',
     database: 'findingid',
     typeCast: false,
     multipleStatements: false,

@@ -18,3 +18,4 @@ scripts/short_*
 *.wav
 pending_product_ids.txt
 regenerate.log
+extension/keys.js

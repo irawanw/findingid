@@ -29,18 +29,29 @@ import ctypes
 import ctypes.wintypes
 import json
 import math
+import os
 import random
 import sys
 import threading
 import time
 import uuid
+from pathlib import Path
 
 import numpy as np
 import requests
 
+# ── Load .env ─────────────────────────────────────────────────────────────────
+_env = Path(__file__).resolve().parent.parent / ".env"
+if _env.exists():
+    for _l in _env.read_text().splitlines():
+        _l = _l.strip()
+        if _l and not _l.startswith("#") and "=" in _l:
+            _k, _, _v = _l.partition("=")
+            os.environ.setdefault(_k.strip(), _v.strip())
+
 # ── Config ────────────────────────────────────────────────────────────────────
 API_BASE  = 'https://finding.id'
-API_KEY   = 'findingid-ingest-12ada3cec82e435f3787d7c8e510a211'
+API_KEY   = os.environ.get('INGEST_API_KEY', '')
 AGENT_ID  = str(uuid.uuid4())
 
 # Mouse lock — prevents 2 scraper instances from moving the mouse simultaneously
