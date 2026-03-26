@@ -443,7 +443,6 @@ function normalizeQuery(raw) {
 // Patterns that clearly signal a follow-up question, not a product search.
 // Rule: ends with "?", or contains a comparison/question phrase.
 const CHAT_PATTERNS = [
-  /\?/,                                                                    // ends with or contains ?
   /\b(yang\s+mana|bagusan\s+mana|mending\s+mana|mending\s+yang)\b/,       // which one is better
   /\b(apa\s+bedanya|bedanya\s+apa|apa\s+perbedaan|perbedaannya)\b/,        // what's the difference
   /\b(kelebihan|kekurangan|kelemahan|keunggulan)\b/,                       // pros/cons
@@ -451,6 +450,46 @@ const CHAT_PATTERNS = [
   /\b(kenapa|mengapa)\b/,                                                   // why
   /\b(lebih\s+bagus\s+mana|yang\s+mana\s+lebih\s+bagus)\b/,               // which is better
   /^(oke|ok|siap|makasih|thanks|terimakasih|terima kasih|mantap|nice)[\s!.]*$/, // ack/thanks
+];
+
+// Patterns that signal a general-knowledge / real-world query → delegate to Hermes agent.
+// These are clearly NOT marketplace product searches.
+const AGENT_PATTERNS = [
+  // Commodity & financial prices (non-product)
+  /\b(crude\s*oil|minyak\s*(mentah|bumi|brent|wti)|petroleum)\b/,
+  /\bharga\s+(emas|perak|platinum|logam\s+mulia)\b/,
+  /\bharga\s+(saham|ihsg|indeks\s+saham|bursa)\b/,
+  /\b(kurs|nilai\s+tukar|exchange\s+rate)\s+(dolar|dollar|usd|euro|yen|yuan|sgd|ringgit|baht)\b/,
+  /\bharga\s+(bitcoin|crypto|ethereum|btc|eth|kripto)\b/,
+  /\bharga\s+(bbm|pertalite|pertamax|solar|avtur)\b/,
+  // Weather
+  /\bcuaca\b.*\b(hari\s*ini|besok|minggu\s*ini|prakiraan|forecast)\b/,
+  /\b(prakiraan|forecast)\s+cuaca\b/,
+  /\b(hujan|panas|mendung)\s+(hari\s*ini|besok)\s*(di\b|di\s+\w+)?\b/,
+  // Places & services near user (restaurants, ATMs, hospitals, etc.)
+  /\b(restoran|rumah\s*makan|warung\s*makan|warung|cafe|kafe|kedai)\b.*\b(terdekat|dekat\s+(sini|saya|aku)|sekitar\s+(sini|saya|aku)|nearby)\b/,
+  /\b(terdekat|dekat\s+(sini|saya|aku)|sekitar\s+sini|nearby)\b.*\b(restoran|rumah\s*makan|warung|cafe|kafe|makan|kuliner)\b/,
+  /\b(atm|bank|indomaret|alfamart|apotek|apotik|klinik|rumah\s*sakit|pom\s*bensin|spbu|bengkel)\b.*\b(terdekat|dekat\s+(sini|saya)|sekitar)\b/,
+  /\b(terdekat|dekat\s+(sini|saya)|sekitar)\b.*\b(atm|bank|apotek|spbu|bengkel|klinik)\b/,
+  // Viral / trending places (not product)
+  /\b(kuliner|restoran|cafe|tempat\s+makan|wisata|destinasi)\s+(viral|hits|trending|populer|rekomendasi|terbaik)\b.*\b(di|jakarta|bandung|surabaya|bali|jogja|yogya|medan|makassar|semarang)\b/,
+  /\b(tempat\s+makan|wisata|destinasi)\s+(viral|hits|rekomendasi)\b/,
+  // News / current events
+  /\bberita\s+(terbaru|hari\s*ini|terkini|viral)\b/,
+  /\b(apa\s+yang\s+lagi\s+viral|lagi\s+trending|trending\s+sekarang)\b/,
+  // Inflation, economics, macro data
+  /\b(inflasi|gdp|pdb|pertumbuhan\s+ekonomi|suku\s+bunga\s+bi|bi\s+rate)\b.*\b(sekarang|terbaru|hari\s*ini)\b/,
+  // Product price questions — user wants info, not to buy
+  /\bharga\b.{1,50}\bberapa\b/,        // "harga X berapa"
+  /\bberapa\s+harga\b/,                // "berapa harga X"
+  /\bharganya\s+berapa\b/,             // "harganya berapa"
+  /\b(paling\s+murah|termurah|paling\s+mahal|termahal)\b.*\bberapa\b/,  // "paling murah berapa"
+  /\bberapa\b.{0,20}$/,               // ends with "berapa ya?", "berapa sih?" etc
+  // General knowledge / advice — clearly not a product search
+  /\b(gimana|bagaimana)\s+(cara|bisa|supaya|agar|kalau|untuk)\b/,
+  /\b(cara|tips|langkah)\s+(agar|supaya|untuk|memulai|meningkatkan|mengembangkan|menjalankan|menjadi|membuat|mengatasi|memilih)\b/,
+  /\b(apa\s+itu|apakah\s+itu|pengertian|definisi)\b/,
+  /\b(kenapa|mengapa)\b.{5,}/,         // why questions with substance
 ];
 
 // Patterns that are CHAT only when there is conversation history
@@ -473,12 +512,19 @@ const CHAT_WITH_HISTORY_PATTERNS = [
  *
  * @param {string} raw
  * @param {boolean} hasHistory
- * @returns {Promise<'search'|'chat'>}
+ * @returns {Promise<'search'|'chat'|'agent'>}
  */
 async function classifyIntent(raw, hasHistory = false) {
   const lower = raw.toLowerCase().trim();
 
-  // Always-chat patterns (question words that clearly indicate follow-up)
+  // Agent patterns take priority (commodity prices, weather, nearby, etc.)
+  if (AGENT_PATTERNS.some(p => p.test(lower))) return 'agent';
+
+  // If query has a question mark and no conversation history → agent
+  // (user is asking a question cold, not following up on products shown)
+  if (!hasHistory && lower.includes('?')) return 'agent';
+
+  // Always-chat patterns (follow-up signals: "yang mana", "apa bedanya", etc.)
   if (CHAT_PATTERNS.some(p => p.test(lower))) return 'chat';
 
   // Context-dependent: only treat as chat if there's an active conversation

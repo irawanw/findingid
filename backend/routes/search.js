@@ -8,6 +8,8 @@ const db              = require('../services/db');
 const cfg             = require('../config/config');
 const crypto          = require('crypto');
 const { normalizeQueryFull, classifyIntent } = require('../services/queryNormalizer');
+const { bestVariantDiscount } = require('../services/discount');
+const { agentHandler } = require('./agent');
 
 // LLM-based classifier for ambiguous queries — returns 'chat' or 'search'
 
@@ -70,9 +72,16 @@ router.post('/', async (req, res) => {
 
     // ── 1. Classify intent ──────────────────────────────────
     const hasHistory = Array.isArray(history) && history.length > 0;
+    const { lat, lon } = req.body;
     const intent = await classifyIntent(raw, hasHistory);
     const isSearch = intent === 'search';
     console.log(`[search] ── NEW REQUEST ── query="${raw}" intent="${intent}" isSearch=${isSearch}`);
+
+    // ── 1b. Agent intent → delegate to agent route (SearXNG + Qwen) ──
+    if (intent === 'agent') {
+      await agentHandler(req, res);
+      return;
+    }
 
     // ── 2. Check Redis cache ────────────────────────────────
     const cacheKey = cache.searchKey(JSON.stringify({
@@ -207,12 +216,11 @@ router.post('/', async (req, res) => {
           const existingIds = new Set(docs.map(d => d.id));
           const newIds = batchIds.map(Number).filter(id => id > 0 && !existingIds.has(id)).slice(0, 50);
           if (newIds.length > 0) {
-            const ph = newIds.map(() => '?').join(',');
-            const [batchRows] = await db.query(
+              const [batchRows] = await db.query(
               `SELECT id, title, price, rating, sold_count, source, link, affiliate_link,
-                      image_url, category, specs, reviews_json, updated_at
-               FROM products WHERE id IN (${ph}) AND is_active = 1 AND price >= 50000`,
-              newIds
+                      image_url, category, specs, reviews_json, updated_at, variants_json
+               FROM products WHERE id = ANY($1) AND is_active = true AND price >= 50000`,
+              [newIds]
             );
             if (batchRows.length > 0) {
               docs = [...docs, ...batchRows].slice(0, 19);
@@ -339,20 +347,25 @@ router.post('/', async (req, res) => {
         ...docs.filter(p => !chosenSet.has(p.id)),
       ].slice(0, isSearch ? 19 : 1);
 
-      sentCards = allCards.map((p, i) => ({
-        id:            p.id,
-        title:         p.title,
-        price:         p.price,
-        rating:        p.rating,
-        sold:          p.sold_count,
-        source:        p.source,
-        link:          p.link,
-        affiliate_link: p.affiliate_link || null,
-        image:         p.image_url,
-        is_deal:       p._is_deal || false,
-        is_chosen:     chosenSet.has(p.id),
-        chosen_rank:   chosenSet.has(p.id) ? chosenIds.indexOf(p.id) + 1 : null,
-      }));
+      sentCards = allCards.map((p) => {
+        const disc = bestVariantDiscount(p.variants_json);
+        return {
+          id:            p.id,
+          title:         p.title,
+          price:         p.price,
+          rating:        p.rating,
+          sold:          p.sold_count,
+          source:        p.source,
+          link:          p.link,
+          affiliate_link: p.affiliate_link || null,
+          image:         p.image_url,
+          is_deal:       p._is_deal || false,
+          is_chosen:     chosenSet.has(p.id),
+          chosen_rank:   chosenSet.has(p.id) ? chosenIds.indexOf(p.id) + 1 : null,
+          // Per-variant discount: only compares a variant's price_before vs its own price
+          best_discount: disc ? { pct: disc.pct, price_before: disc.price_before } : null,
+        };
+      });
       send(res, { type: 'products', data: sentCards });
     }
 

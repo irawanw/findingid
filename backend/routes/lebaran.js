@@ -90,7 +90,7 @@ router.get('/', async (req, res) => {
     const [rows] = await db.query(`
       SELECT id, title, price, rating, sold_count, link, affiliate_link, image_url
       FROM products
-      WHERE is_active = 1
+      WHERE is_active = true
         AND (
           title LIKE '%baju koko%' OR title LIKE '%mukena%' OR
           title LIKE '%nastar%'    OR title LIKE '%kue lebaran%' OR
@@ -315,7 +315,7 @@ router.get('/tips-mudik', async (req, res) => {
     const [rows] = await db.query(`
       SELECT id, title, price, rating, sold_count, link, affiliate_link, image_url
       FROM products
-      WHERE is_active = 1
+      WHERE is_active = true
         AND (
           title LIKE '%bantal leher%'  OR title LIKE '%bantal travel%' OR
           title LIKE '%power bank%'    OR title LIKE '%powerbank%'     OR

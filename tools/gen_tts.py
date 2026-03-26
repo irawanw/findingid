@@ -15,10 +15,22 @@ import asyncio, json, sys, os, re
 from pathlib import Path
 from elevenlabs import ElevenLabs
 
-ELEVENLABS_API_KEYS = [
-    "sk_a04bb139a775b8deecb61aa478eb0b1339bf271f02ea96d6",
-    "sk_566241f178b1da90339d60aa0c111eae54c40619f4eb2622",
-]
+# Load keys from ELEVENLABS_API_KEYS env var (comma-separated) or .env file
+def _load_env_file():
+    env_path = Path(__file__).resolve().parent.parent / ".env"
+    if env_path.exists():
+        for line in env_path.read_text().splitlines():
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, _, v = line.partition("=")
+                os.environ.setdefault(k.strip(), v.strip())
+
+_load_env_file()
+
+_raw = os.environ.get("ELEVENLABS_API_KEYS", "")
+ELEVENLABS_API_KEYS = [k.strip() for k in _raw.split(",") if k.strip()]
+if not ELEVENLABS_API_KEYS:
+    raise RuntimeError("ELEVENLABS_API_KEYS not set in environment or .env")
 VOICE_ID      = "cgSgspJ2msm6clMCkdW9"   # Jessica
 GAP_MS        = 350   # silence gap between segments (ms)
 WHISPER_MODEL = "base"

@@ -94,9 +94,11 @@ let _jobRunning       = false;
 let _affiliateRunning = false;
 let _scrapeTabId      = null;  // tab ID of active fetchShopeeViaTab tab
 let _nextJobAt        = 0;     // cooldown: don't claim next job until this timestamp
+let _captchaBlockedAt = 0;     // timestamp of last captcha — blocks affiliate for CAPTCHA_COOLDOWN_MS
+const CAPTCHA_COOLDOWN_MS = 60 * 60 * 1000; // 60 min cooldown after captcha detected
 
-const JOB_COOLDOWN_MIN_MS = 6.25 * 60 * 1000; // 6m 15s (1.25× original 5m)
-const JOB_COOLDOWN_MAX_MS = 12.5 * 60 * 1000; // 12m 30s (1.25× original 10m)
+const JOB_COOLDOWN_MIN_MS = 15 * 60 * 1000; // 15 min cooldown (anti-captcha)
+const JOB_COOLDOWN_MAX_MS = 30 * 60 * 1000; // 30 min cooldown (anti-captcha)
 
 function scheduleNextJob() {
   const delay = JOB_COOLDOWN_MIN_MS + Math.random() * (JOB_COOLDOWN_MAX_MS - JOB_COOLDOWN_MIN_MS);
@@ -161,8 +163,8 @@ async function ensureAgentId() {
 }
 
 const AFFILIATE_INTERVAL_S = 10; // affiliate link generation — background, not time-critical
-const ENRICH_ALARM_MIN_MS  = 5.625 * 60 * 1000; // 5m 37.5s (1.5× previous)
-const ENRICH_ALARM_MAX_MS  = 9.375 * 60 * 1000; // 9m 22.5s (1.5× previous)
+const ENRICH_ALARM_MIN_MS  = 15 * 60 * 1000; // 15 min (anti-captcha)
+const ENRICH_ALARM_MAX_MS  = 25 * 60 * 1000; // 25 min (anti-captcha)
 
 function scheduleNextEnrich() {
   const delayMs = ENRICH_ALARM_MIN_MS + Math.random() * (ENRICH_ALARM_MAX_MS - ENRICH_ALARM_MIN_MS);
@@ -274,6 +276,8 @@ chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
 
   if (msg.type === 'CAPTCHA_DETECTED') {
     sendResponse({ ok: true });
+    _captchaBlockedAt = Date.now();
+    warn(`[captcha] detected on ${msg.source} — affiliate paused for 30 min`);
     fetch(`${API_BASE}/api/alert`, {
       method:  'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -635,6 +639,11 @@ async function ingestProducts(jobId, source, products) {
 // ── Affiliate job helpers ─────────────────────────────────────────
 async function pollAffiliateJobs() {
   if (_affiliateRunning) { info('[affiliate] already running, skipping'); return; }
+  if (Date.now() - _captchaBlockedAt < CAPTCHA_COOLDOWN_MS) {
+    const remaining = Math.ceil((CAPTCHA_COOLDOWN_MS - (Date.now() - _captchaBlockedAt)) / 60000);
+    info(`[affiliate] skipped — captcha cooldown active (${remaining}m remaining)`);
+    return;
+  }
   _affiliateRunning = true;
   try {
     const res = await fetch(`${API_BASE}/api/affiliate-jobs`, {
@@ -654,8 +663,8 @@ async function pollAffiliateJobs() {
 }
 
 const AFFILIATE_CHUNK_SIZE      = 5;
-const AFFILIATE_CHUNK_DELAY_MIN = 7000;
-const AFFILIATE_CHUNK_DELAY_MAX = 10000;
+const AFFILIATE_CHUNK_DELAY_MIN = 20000; // 20s (anti-captcha)
+const AFFILIATE_CHUNK_DELAY_MAX = 30000; // 30s (anti-captcha)
 const CUSTOM_LINK_URL = 'https://affiliate.shopee.co.id/offer/custom_link';
 
 // Always navigate to custom_link (fresh load) before each job

@@ -17,22 +17,52 @@ function fmt(price) {
 
 router.get('/', async (req, res) => {
   try {
+    // Per-variant comparison: for each (product, variant) pair compare
+    // MAX(price) vs MIN(price) for that SAME variant in price_history.
+    // ROW_NUMBER picks the variant with the biggest drop per product.
+    // Never compares variant A's peak vs variant B's lowest price.
     const [rows] = await db.query(
-      `SELECT
-         p.id, p.title, p.price AS cur_price, p.image_url, p.rating,
-         p.sold_count, p.category, p.source, p.affiliate_link, p.link,
-         (p.ai_analysis IS NOT NULL) AS has_ai_page,
-         MAX(ph.price) AS peak_price,
-         MIN(ph.captured_at) AS first_seen,
-         MAX(ph.captured_at) AS last_seen,
-         COUNT(ph.id) AS snapshots
-       FROM price_history ph
-       JOIN products p ON p.id = ph.product_id
-       WHERE p.is_active = 1 AND p.price > 0 AND ph.variant_name IS NULL
-       GROUP BY ph.product_id
-       HAVING MAX(ph.price) > p.price
-          AND (MAX(ph.price) - p.price) / MAX(ph.price) >= 0.05
-       ORDER BY (MAX(ph.price) - p.price) / MAX(ph.price) DESC
+      `SELECT * FROM (
+         SELECT
+           p.id, p.title, p.image_url, p.rating,
+           p.sold_count, p.category, p.source, p.affiliate_link, p.link,
+           (p.ai_analysis IS NOT NULL) AS has_ai_page,
+           agg.variant_name,
+           agg.peak_price,
+           agg.low_price AS cur_price,
+           (agg.peak_price - agg.low_price)::numeric / agg.peak_price AS drop_pct,
+           ROW_NUMBER() OVER (
+             PARTITION BY p.id
+             ORDER BY (agg.peak_price - agg.low_price)::numeric / agg.peak_price DESC
+           ) AS rn
+         FROM products p
+         JOIN (
+           SELECT
+             ph.product_id,
+             ph.variant_name,
+             MAX(ph.price) AS peak_price,
+             MIN(ph.price) AS low_price
+           FROM price_history ph
+           WHERE
+             -- Skip null-variant rows when the product also has named variants
+             -- (null variant = Shopee's displayed "default" price, not a real variant)
+             NOT (ph.variant_name IS NULL AND EXISTS (
+               SELECT 1 FROM price_history ph2
+               WHERE ph2.product_id = ph.product_id AND ph2.variant_name IS NOT NULL
+             ))
+           GROUP BY ph.product_id, ph.variant_name
+           HAVING
+             MAX(ph.price) > MIN(ph.price)
+             -- Require price history spanning at least 2 different days
+             -- (same-day high/low = Shopee showing different variants, not a real drop)
+             AND EXTRACT(EPOCH FROM (MAX(ph.captured_at) - MIN(ph.captured_at))) / 86400 >= 1
+         ) agg ON agg.product_id = p.id
+         WHERE p.is_active = true AND p.price > 0
+           AND agg.peak_price > agg.low_price
+           AND (agg.peak_price - agg.low_price)::numeric / agg.peak_price >= 0.05
+       ) ranked
+       WHERE rn = 1
+       ORDER BY drop_pct DESC
        LIMIT 200`
     );
 
@@ -62,7 +92,7 @@ router.get('/', async (req, res) => {
       </section>`
     ).join('');
 
-    res.setHeader('Cache-Control', 'public, max-age=600');
+    res.setHeader('Cache-Control', 'no-store');
     res.type('text/html').send(page(rows.length, toc, sectHtml));
   } catch (err) {
     console.error('[deals]', err.message);
@@ -71,18 +101,22 @@ router.get('/', async (req, res) => {
 });
 
 function discPct(r) {
-  return (r.peak_price - r.cur_price) / r.peak_price;
+  return Number(r.drop_pct);
 }
 
 function dealCard(r) {
-  const pct   = Math.round(discPct(r) * 100);
-  const saved = Number(r.peak_price) - Number(r.cur_price);
-  const dest  = r.has_ai_page ? `/p/${r.id}` : (r.affiliate_link || r.link || '#');
-  const img   = r.image_url
+  const pct     = Math.round(discPct(r) * 100);
+  const saved   = Number(r.peak_price) - Number(r.cur_price);
+  const dest    = r.has_ai_page ? `/p/${r.id}` : (r.affiliate_link || r.link || '#');
+  const img     = r.image_url
     ? `<img src="${escHtml(r.image_url)}" alt="${escHtml(r.title)}" loading="lazy" onerror="this.style.display='none'">`
     : '<div class="no-img">📦</div>';
-  const src   = r.source === 'shopee' ? '🛍 Shopee' : '🛒 Tokopedia';
-  const aiPin = r.has_ai_page ? '<span class="ai-pin">✦ AI Review</span>' : '';
+  const src     = r.source === 'shopee' ? '🛍 Shopee' : '🛒 Tokopedia';
+  const aiPin   = r.has_ai_page ? '<span class="ai-pin">✦ AI Review</span>' : '';
+  // Show which variant the price drop belongs to (same variant compared)
+  const varNote = r.variant_name
+    ? `<div class="deal-variant">Varian: ${escHtml(r.variant_name)}</div>`
+    : '';
 
   return `
   <a class="deal-card" href="${escHtml(dest)}">
@@ -91,6 +125,7 @@ function dealCard(r) {
     <div class="deal-body">
       ${aiPin}
       <div class="deal-title">${escHtml(r.title)}</div>
+      ${varNote}
       <div class="deal-prices">
         <span class="price-now">${fmt(r.cur_price)}</span>
         <span class="price-was">${fmt(r.peak_price)}</span>

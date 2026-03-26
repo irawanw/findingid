@@ -10,17 +10,19 @@ const BACKEND = __dirname + '/../backend';
 process.chdir(BACKEND);
 require(BACKEND + '/node_modules/dotenv').config({ path: BACKEND + '/.env' });
 
-const mysql   = require(BACKEND + '/node_modules/mysql2/promise');
+const { Pool }  = require(BACKEND + '/node_modules/pg');
 const { spawn } = require('child_process');
 const fs      = require('fs');
 const path    = require('path');
 
-const DB = {
-  host:     process.env.DB_HOST || 'localhost',
-  user:     process.env.DB_USER || 'findingid',
-  password: process.env.DB_PASS || '',
-  database: process.env.DB_NAME || 'findingid',
-};
+const pgPool = new Pool({
+  host:     process.env.PG_HOST || '127.0.0.1',
+  port:     parseInt(process.env.PG_PORT) || 5432,
+  database: process.env.PG_NAME || 'findingid',
+  user:     process.env.PG_USER || 'findingid',
+  password: process.env.PG_PASS || '',
+  max: 5,
+});
 
 const ROOT        = path.join(__dirname, '..');
 const SCRIPTS_DIR = path.join(ROOT, 'scripts');
@@ -28,20 +30,21 @@ const VIDEO_DIR   = path.join(ROOT, 'video');
 const POLL_MS     = 8000;
 
 // ── DB helpers ────────────────────────────────────────────────────
-async function setProgress(conn, id, progress, log) {
-  await conn.execute(
-    'UPDATE shortvideo_jobs SET progress=?, log_tail=? WHERE id=?',
+async function setProgress(id, progress, log) {
+  await pgPool.query(
+    'UPDATE shortvideo_jobs SET progress=$1, log_tail=$2 WHERE id=$3',
     [progress, log?.slice(-2000) ?? null, id]
   );
 }
-async function setStatus(conn, id, status, extra = {}) {
-  const fields = ['status=?']; const vals = [status];
-  if ('progress'   in extra) { fields.push('progress=?');   vals.push(extra.progress); }
-  if ('output_path' in extra) { fields.push('output_path=?'); vals.push(extra.output_path); }
-  if ('error_msg'  in extra) { fields.push('error_msg=?');  vals.push(extra.error_msg); }
-  if ('log_tail'   in extra) { fields.push('log_tail=?');   vals.push(extra.log_tail?.slice(-2000)); }
+async function setStatus(id, status, extra = {}) {
+  const fields = ['status=$1']; const vals = [status];
+  let i = 2;
+  if ('progress'    in extra) { fields.push(`progress=$${i++}`);    vals.push(extra.progress); }
+  if ('output_path' in extra) { fields.push(`output_path=$${i++}`); vals.push(extra.output_path); }
+  if ('error_msg'   in extra) { fields.push(`error_msg=$${i++}`);   vals.push(extra.error_msg); }
+  if ('log_tail'    in extra) { fields.push(`log_tail=$${i++}`);    vals.push(extra.log_tail?.slice(-2000)); }
   vals.push(id);
-  await conn.execute(`UPDATE shortvideo_jobs SET ${fields.join(',')} WHERE id=?`, vals);
+  await pgPool.query(`UPDATE shortvideo_jobs SET ${fields.join(',')} WHERE id=$${i}`, vals);
 }
 
 // ── Run a subprocess, stream output, return exit code ─────────────
@@ -55,12 +58,12 @@ function runProc(cmd, args, opts, onData) {
 }
 
 // ── Process one job ────────────────────────────────────────────────
-async function processJob(conn, job) {
+async function processJob(job) {
   const { id, product_id, script_json, settings_json } = job;
   const settings = JSON.parse(settings_json || '{}');
 
   console.log(`[renderer] Starting job ${id} product ${product_id}`);
-  await setStatus(conn, id, 'rendering', { progress: 0, error_msg: null, log_tail: 'Starting...' });
+  await setStatus(id, 'rendering', { progress: 0, error_msg: null, log_tail: 'Starting...' });
 
   let log = '';
   // Filter \r-overwrite lines and RENDER_PROGRESS markers from human-readable log
@@ -77,7 +80,7 @@ async function processJob(conn, job) {
   if (script_json) {
     fs.writeFileSync(scriptPath, script_json);
   } else if (!fs.existsSync(scriptPath)) {
-    return setStatus(conn, id, 'failed', { error_msg: 'No script_json and no file on disk', log_tail: log });
+    return setStatus(id, 'failed', { error_msg: 'No script_json and no file on disk', log_tail: log });
   }
 
   // ── Step 2: TTS (skip if files already exist) ─────────────────
@@ -87,25 +90,25 @@ async function processJob(conn, job) {
 
   if (ttsReady) {
     appendLog('\n[1/3] TTS files already exist, skipping generation.');
-    await setProgress(conn, id, 30, log + '\n[1/3] TTS cached. Starting video render...');
+    await setProgress(id, 30, log + '\n[1/3] TTS cached. Starting video render...');
   } else {
-    await setProgress(conn, id, 5, log + '\n[1/3] Generating TTS audio...');
+    await setProgress(id, 5, log + '\n[1/3] Generating TTS audio...');
     const code1 = await runProc('python3', [
       path.join(__dirname, 'gen_tts.py'), scriptPath
     ], { cwd: ROOT }, (d) => { appendLog(d); });
 
     if (code1 !== 0) {
-      return setStatus(conn, id, 'failed', { progress: 10, error_msg: 'TTS failed', log_tail: log });
+      return setStatus(id, 'failed', { progress: 10, error_msg: 'TTS failed', log_tail: log });
     }
-    await setProgress(conn, id, 30, log + '\n[2/3] TTS done. Starting video render...');
+    await setProgress(id, 30, log + '\n[2/3] TTS done. Starting video render...');
   }
 
   // ── Step 3: Write render config ──────────────────────────────
   const musicId = settings.music_id || 1;
-  const [[musicRow]] = await conn.execute(
-    'SELECT filename FROM shortvideo_music WHERE id = ?', [musicId]
+  const { rows: musicRows } = await pgPool.query(
+    'SELECT filename FROM shortvideo_music WHERE id = $1', [musicId]
   );
-  const musicFile = musicRow?.filename || 'music.mp3';
+  const musicFile = musicRows[0]?.filename || 'music.mp3';
 
   const renderCfg = {
     product_id,
@@ -133,19 +136,19 @@ async function processJob(conn, job) {
       const pct = Math.min(95, parseInt(m[1]));
       if (pct > lastPct) {
         lastPct = pct;
-        conn.execute('UPDATE shortvideo_jobs SET progress=?, log_tail=? WHERE id=?',
+        pgPool.query('UPDATE shortvideo_jobs SET progress=$1, log_tail=$2 WHERE id=$3',
           [pct, log.slice(-2000), id]).catch(() => {});
       }
     }
   });
 
   if (code2 !== 0) {
-    return setStatus(conn, id, 'failed', { progress: lastPct, error_msg: 'Render failed', log_tail: log });
+    return setStatus(id, 'failed', { progress: lastPct, error_msg: 'Render failed', log_tail: log });
   }
 
-  // ── Step 3: Done ──────────────────────────────────────────────
+  // ── Step 5: Done ──────────────────────────────────────────────
   const outputPath = `/scripts/output_${product_id}.mp4`;
-  await setStatus(conn, id, 'done', {
+  await setStatus(id, 'done', {
     progress:    100,
     output_path: outputPath,
     log_tail:    log + '\n[3/3] Render complete!',
@@ -156,28 +159,23 @@ async function processJob(conn, job) {
 
 // ── Main loop ──────────────────────────────────────────────────────
 async function main() {
-  const conn = await mysql.createConnection(DB);
   console.log('[renderer] Short video render worker started');
 
   while (true) {
     try {
-      const [rows] = await conn.execute(
+      const { rows } = await pgPool.query(
         `SELECT id, product_id, script_json, settings_json
          FROM shortvideo_jobs WHERE status='queued'
          ORDER BY updated_at ASC LIMIT 1`
       );
       if (rows.length) {
-        await processJob(conn, rows[0]);
+        await processJob(rows[0]);
         await sleep(2000);
       } else {
         await sleep(POLL_MS);
       }
     } catch (e) {
       console.error('[renderer] Error:', e.message);
-      try { await conn.ping(); } catch (_) {
-        try { await conn.end(); } catch (_) {}
-        Object.assign(conn, await mysql.createConnection(DB));
-      }
       await sleep(POLL_MS);
     }
   }

@@ -99,6 +99,7 @@ const cariRoute          = require('./routes/cari');
 const seoRoute           = require('./routes/seo');
 const enrichRoute        = require('./routes/enrich');
 const shortvideoRoute    = require('./routes/shortvideo');
+const agentRoute         = require('./routes/agent');
 const scraperRoute       = require('./routes/scraper');
 const proxiesRoute       = require('./routes/proxies');
 const proxyChecker       = require('./services/proxyChecker');
@@ -106,6 +107,10 @@ const lebaranRoute       = require('./routes/lebaran');
 const productPageRoute   = require('./routes/productPage');
 const aiReviewRoute      = require('./routes/aiReview');
 const dealsRoute         = require('./routes/deals');
+const leadsRoute         = require('./routes/leads');
+const placesSearchRoute  = require('./routes/placesSearch');
+const placesJobsRoute    = require('./routes/placesJobs');
+const placesIngestRoute  = require('./routes/placesIngest');
 const telegram           = require('./services/telegram');
 const productAnalysis    = require('./services/productAnalysis');
 
@@ -148,7 +153,6 @@ Allow: /
 Disallow: /api/
 Disallow: /admin/
 Disallow: /admin191
-Disallow: /rumah/
 
 Sitemap: https://finding.id/sitemap.xml`
   );
@@ -165,7 +169,7 @@ app.get('/sitemap.xml', async (req, res) => {
   const now = new Date().toISOString().slice(0, 10);
   try {
     const [[{ total }]] = await db.query(
-      `SELECT COUNT(*) as total FROM products WHERE is_active = 1`
+      `SELECT COUNT(*) as total FROM products WHERE is_active = true`
     );
     const pages = Math.ceil(total / SITEMAP_PAGE_SIZE);
     const sitemaps = [
@@ -238,14 +242,14 @@ app.get('/sitemap-products.xml', async (req, res) => {
   try {
     const [rows] = await db.query(
       `SELECT id, ai_analysis_at, updated_at FROM products
-       WHERE is_active = 1
+       WHERE is_active = true
        ORDER BY id ASC LIMIT ? OFFSET ?`,
       [limit, off]
     );
     const urls = rows.map(p => {
-      const lastmod = p.ai_analysis_at
-        ? new Date(p.ai_analysis_at).toISOString().split('T')[0]
-        : (p.updated_at ? new Date(p.updated_at).toISOString().split('T')[0] : now);
+      const lastmod = (p.ai_analysis_at || p.updated_at)
+        ? new Date(p.ai_analysis_at || p.updated_at).toISOString().split('T')[0]
+        : now;
       const priority = p.ai_analysis_at ? '0.8' : '0.6';
       return `
   <url>
@@ -272,6 +276,7 @@ app.use(express.static(path.join(__dirname, '../')));
 
 // ── API routes ────────────────────────────────────────────────
 app.use('/api/search',         searchRoute);
+app.use('/api/agent',          agentRoute);
 app.use('/api/jobs',           jobsRoute);
 app.use('/api/ingest',         ingestRoute);
 app.use('/api/products',       productsRoute);
@@ -283,9 +288,16 @@ app.use('/api/proxies',        proxiesRoute);
 app.use('/p',                   productPageRoute);
 app.use('/ai-review',           aiReviewRoute);
 app.use('/deals',               dealsRoute);
+// Leads + Places APIs: allow Chrome extensions — auth via X-API-Key
+app.use('/api/leads',          cors({ origin: '*', credentials: false }), leadsRoute);
+app.use('/api/places/search',  placesSearchRoute);
+app.use('/api/places/jobs',    cors({ origin: '*', credentials: false }), placesJobsRoute);
+app.use('/api/places/ingest',  cors({ origin: '*', credentials: false }), placesIngestRoute);
 app.use('/cari',                cariRoute);
-// /rumah section permanently removed — return 410 Gone so Google deindexes fast
-app.use('/rumah', (req, res) => res.status(410).send('Gone'));
+
+// /rumah section permanently removed — return 410 Gone for fast deindexing
+app.use('/rumah', (req, res) => res.status(410).send('Page Gone'));
+
 app.use('/',                    seoRoute);   // handles /top/:slug and /best/:slug
 app.use('/lebaran',             lebaranRoute);
 app.get('/tips-mudik-lebaran',  (req, res) => res.redirect(301, '/lebaran/tips-mudik'));
@@ -353,15 +365,21 @@ app.get('/hasil', (req, res) => {
   res.sendFile(path.join(__dirname, '../hasil.html'));
 });
 
+// ── Bot UA filter for click tracking ────────────────────────
+const BOT_UA_RE = /bot|spider|crawler|slurp|mediapartners|adsbot|facebookexternalhit|twitterbot|linkedinbot|whatsapp|telegram|applebot|petalbot|semrushbot|ahrefsbot|mj12bot|dotbot|baiduspider|yandex|duckduckbot|sogou|exabot|ia_archiver|archive\.org_bot|seznambot|naver|coccocbot|bytespider|amazonbot|ccbot/i;
+
 // ── Click tracking proxy ────────────────────────────────────
 // GET /go/:id?sid=...&q=... — logs click, redirects to affiliate_link or link
 app.get('/go/:id', async (req, res) => {
   const id = parseInt(req.params.id, 10);
   if (!Number.isInteger(id) || id <= 0) return res.redirect('/');
 
+  const ua = String(req.headers['user-agent'] || '');
+  const isBot = BOT_UA_RE.test(ua);
+
   try {
     const [rows] = await db.query(
-      'SELECT source, link, affiliate_link, ai_analysis FROM products WHERE id = ? AND is_active = 1 LIMIT 1',
+      'SELECT source, link, affiliate_link, ai_analysis FROM products WHERE id = ? AND is_active = true LIMIT 1',
       [id]
     );
     if (!rows.length) return res.redirect('/');
@@ -369,21 +387,33 @@ app.get('/go/:id', async (req, res) => {
     const { source, link, affiliate_link, ai_analysis } = rows[0];
     const dest = affiliate_link || link;
 
-    // ── Fire-and-forget: increment click counter + log event ──
-    const sid        = String(req.query.sid  || '').slice(0, 64)  || null;
-    const query      = String(req.query.q    || '').slice(0, 500) || null;
-    const referrer   = String(req.headers.referer || '').slice(0, 500) || null;
-    const ip         = req.ip || req.headers['x-forwarded-for'] || '';
-    const ip_hash    = ip
-      ? require('crypto').createHash('sha256').update(ip).digest('hex').slice(0, 64)
-      : null;
+    // ── Skip tracking for bots and admin sessions ─────────────
+    const isAdmin = (() => {
+      const raw = (req.headers.cookie || '').split(';')
+        .map(s => s.trim()).find(s => s.startsWith('fid_admin_session='));
+      return !!raw;
+    })();
 
-    db.query('UPDATE products SET click_count = click_count + 1 WHERE id = ?', [id]).catch(() => {});
-    db.query(
-      `INSERT INTO affiliate_click_events (product_id, sid, query, source, has_affiliate, referrer, ip_hash)
-       VALUES (?, ?, ?, ?, ?, ?, ?)`,
-      [id, sid, query, source || null, affiliate_link ? 1 : 0, referrer, ip_hash]
-    ).catch(() => {});
+    // ── Extract query params (needed for redirect even for bots) ─
+    const sid   = String(req.query.sid || '').slice(0, 64)  || null;
+    const query = String(req.query.q   || '').slice(0, 500) || null;
+
+    // ── Fire-and-forget: increment click counter + log event ──
+    if (!isAdmin && !isBot) {
+      const referrer = String(req.headers.referer || '').slice(0, 500) || null;
+      const uaTrunc  = ua.slice(0, 500) || null;
+      const ip       = req.ip || req.headers['x-forwarded-for'] || '';
+      const ip_hash  = ip
+        ? require('crypto').createHash('sha256').update(ip).digest('hex').slice(0, 64)
+        : null;
+
+      db.query('UPDATE products SET click_count = click_count + 1 WHERE id = ?', [id]).catch(() => {});
+      db.query(
+        `INSERT INTO affiliate_click_events (product_id, sid, query, source, has_affiliate, referrer, ip_hash, user_agent)
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+        [id, sid, query, source || null, affiliate_link ? 1 : 0, referrer, ip_hash, uaTrunc]
+      ).catch(() => {});
+    }
 
     // ── If product has AI analysis, show product page first ───
     // Pass sid/q through so CTA on product page can still track
@@ -438,6 +468,11 @@ app.get('/health', async (req, res) => {
     vllm_cb: require('./services/vllm').CB.state,
     uptime:  Math.floor(process.uptime()),
   });
+});
+
+// ── Places page ──────────────────────────────────────────────
+app.get('/places', (req, res) => {
+  res.sendFile(path.join(__dirname, '../places.html'));
 });
 
 // ── SPA fallback ─────────────────────────────────────────────

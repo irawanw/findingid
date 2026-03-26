@@ -2,11 +2,14 @@
 const express      = require('express');
 const router       = express.Router();
 const db           = require('../services/db');
+const pgdb         = require('../services/pgdb');
 const rag          = require('../services/rag');
 const cfg          = require('../config/config');
 const cache        = require('../services/cache');
 const { normalizeQuery } = require('../services/queryNormalizer');
 const { classifyProducts, applyPriceGuard } = require('../services/categorizer');
+const { normalizeVariants, normalizeVariantsSync } = require('../services/variantNormalizer');
+const { normalizeAttributes }                      = require('../services/attributeNormalizer');
 const notifier = require('../services/notifier');
 const fs           = require('fs');
 const path         = require('path');
@@ -88,7 +91,7 @@ async function downloadAndCacheImages(productId, primaryUrl, imagesJson, source)
 
   if (!allPaths.length) return;
   await db.query(
-    'UPDATE products SET image_url = ?, images_json = ? WHERE id = ?',
+    'UPDATE products SET image_url = $1, images_json = $2 WHERE id = $3',
     [allPaths[0], JSON.stringify(allPaths), productId]
   );
 }
@@ -123,7 +126,7 @@ async function downloadAndCacheVariationImages(productId, variationImagesJson, s
 
   if (!result.length) return;
   await db.query(
-    'UPDATE products SET variation_images_json = ? WHERE id = ?',
+    'UPDATE products SET variation_images_json = $1 WHERE id = $2',
     [JSON.stringify(result), productId]
   );
 }
@@ -138,10 +141,14 @@ function toStableTokopediaUrl(url) {
     const imgPath = u.pathname
       .replace(/^\/tos-[^/]+\//, '')   // strip CDN shard prefix
       .replace(/~tplv-[^?]+/, '');     // strip image transform suffix
+    // Only convert paths that have real path segments (e.g. VqbcmM/2024/2/18/uuid.jpg).
+    // Hash-only paths (32-char hex, no slashes/extension) return 404 on images.tokopedia.net —
+    // keep the original signed URL in that case (it has ~1yr expiry and gets locally cached anyway).
     if (imgPath.startsWith('img/')) {
-      return `https://images.tokopedia.net/img/cache/200-square/${imgPath.replace(/^img\//, '')}`;
+      const sub = imgPath.replace(/^img\//, '');
+      if (sub.includes('/')) return `https://images.tokopedia.net/img/cache/200-square/${sub}`;
     }
-    if (/^[a-zA-Z0-9/_-]/.test(imgPath)) {
+    if (/^[a-zA-Z0-9/_-]/.test(imgPath) && imgPath.includes('/')) {
       return `https://images.tokopedia.net/img/cache/200-square/${imgPath}`;
     }
   } catch (_) {}
@@ -204,7 +211,7 @@ router.post('/', authCheck, async (req, res) => {
   let jobQuery = null;
   if (jobId) {
     try {
-      const [jrows] = await db.query('SELECT query FROM search_jobs WHERE id = ? LIMIT 1', [jobId]);
+      const [jrows] = await db.query('SELECT query FROM search_jobs WHERE id = $1 LIMIT 1', [jobId]);
       jobQuery = jrows[0]?.query?.trim().toLowerCase().slice(0, 200) || null;
     } catch (_) {}
   }
@@ -229,20 +236,47 @@ router.post('/', authCheck, async (req, res) => {
     const itemIds = products.map(p => p.source_item_id).filter(Boolean);
     if (itemIds.length) {
       const [ep] = await db.query(
-        `SELECT source_item_id, price FROM products WHERE source_item_id IN (${itemIds.map(() => '?').join(',')})`,
-        itemIds
+        `SELECT source_item_id, price FROM products WHERE source_item_id = ANY($1)`,
+        [itemIds]
       );
       for (const r of ep) existingPrices.set(r.source_item_id, Number(r.price));
     }
   } catch (_) {}
 
   try {
-    // ── 0. Apply price guard to products that already have a category ──
+    // ── 0. Pre-process: apply price guard + normalize variants/attributes ──
     // Category classification (vLLM) runs AFTER insert so it doesn't block.
+    // Variant/attribute normalization is sync (rule-based only at this stage).
+    // Async LLM-enhanced normalization runs in background after insert.
     for (const p of products) {
+      const price = typeof p.price === 'number' ? p.price : parseFloat(p.price) || 0;
+
+      // Price guard on raw category from marketplace
       if (p.category) {
-        const price = typeof p.price === 'number' ? p.price : parseFloat(p.price) || 0;
         p.category = applyPriceGuard(p.category, price) || p.category;
+      }
+
+      // Normalize variants — rule-based sync (fast, no LLM at ingest time)
+      // Stores normalized JSON back into p so DB gets clean data from day 1
+      if (p.variants_json) {
+        try {
+          const normalized = normalizeVariantsSync(p.variants_json, p.category || null);
+          if (normalized.length) {
+            p.variants_json_normalized = JSON.stringify(normalized);
+          }
+        } catch (_) {}
+      }
+
+      // Normalize attributes — rule-based, deterministic
+      if (p.attributes_json) {
+        try {
+          const raw  = typeof p.attributes_json === 'string'
+            ? JSON.parse(p.attributes_json) : p.attributes_json;
+          const norm = normalizeAttributes(raw);
+          if (norm.length) {
+            p.attributes_json_normalized = JSON.stringify(norm);
+          }
+        } catch (_) {}
       }
     }
 
@@ -251,32 +285,33 @@ router.post('/', authCheck, async (req, res) => {
       if (!p.title || !p.link) continue;
 
       try {
-        const [result] = await db.query(
+        const { rows: pgRows } = await pgdb.query(
           `INSERT INTO products
              (source_item_id, title, price, rating, sold_count, monthly_sold, sold_display, source, link,
               image_url, images_json, source_images_json, category, description, specs, attributes_json, variants_json, reviews_json, rating_summary, search_query, is_active, created_at, updated_at)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1, NOW(), NOW())
-           ON DUPLICATE KEY UPDATE
-             title               = VALUES(title),
-             price               = VALUES(price),
-             rating              = COALESCE(VALUES(rating), rating),
-             sold_count          = IF(VALUES(sold_count) IS NULL, sold_count, GREATEST(COALESCE(sold_count, 0), VALUES(sold_count))),
-             monthly_sold        = COALESCE(VALUES(monthly_sold), monthly_sold),
-             sold_display        = COALESCE(VALUES(sold_display), sold_display),
-             link                = VALUES(link),
-             image_url           = VALUES(image_url),
-             images_json         = COALESCE(VALUES(images_json), images_json),
-             source_images_json  = COALESCE(VALUES(source_images_json), source_images_json),
-             category            = COALESCE(VALUES(category), category),
-             description         = COALESCE(NULLIF(VALUES(description),''), description),
-             specs               = COALESCE(NULLIF(VALUES(specs),''), specs),
-             attributes_json     = COALESCE(VALUES(attributes_json), attributes_json),
-             variants_json       = COALESCE(VALUES(variants_json), variants_json),
-             reviews_json        = COALESCE(VALUES(reviews_json), reviews_json),
-             rating_summary      = COALESCE(VALUES(rating_summary), rating_summary),
-             search_query        = VALUES(search_query),
-             is_active           = 1,
-             updated_at          = NOW()`,
+           VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,true,NOW(),NOW())
+           ON CONFLICT (link) DO UPDATE SET
+             title               = EXCLUDED.title,
+             price               = EXCLUDED.price,
+             rating              = COALESCE(EXCLUDED.rating, products.rating),
+             sold_count          = CASE WHEN EXCLUDED.sold_count IS NULL THEN products.sold_count
+                                        ELSE GREATEST(COALESCE(products.sold_count,0), EXCLUDED.sold_count) END,
+             monthly_sold        = COALESCE(EXCLUDED.monthly_sold, products.monthly_sold),
+             sold_display        = COALESCE(EXCLUDED.sold_display, products.sold_display),
+             image_url           = EXCLUDED.image_url,
+             images_json         = COALESCE(EXCLUDED.images_json, products.images_json),
+             source_images_json  = COALESCE(EXCLUDED.source_images_json, products.source_images_json),
+             category            = COALESCE(EXCLUDED.category, products.category),
+             description         = COALESCE(NULLIF(EXCLUDED.description,''), products.description),
+             specs               = COALESCE(NULLIF(EXCLUDED.specs,''), products.specs),
+             attributes_json     = COALESCE(EXCLUDED.attributes_json, products.attributes_json),
+             variants_json       = COALESCE(EXCLUDED.variants_json, products.variants_json),
+             reviews_json        = COALESCE(EXCLUDED.reviews_json, products.reviews_json),
+             rating_summary      = COALESCE(EXCLUDED.rating_summary, products.rating_summary),
+             search_query        = EXCLUDED.search_query,
+             is_active           = true,
+             updated_at          = NOW()
+           RETURNING id, (xmax = 0) AS is_insert`,
           [
             p.source_item_id?.slice(0, 100) || null,
             p.title?.slice(0, 500),
@@ -290,35 +325,31 @@ router.post('/', authCheck, async (req, res) => {
             (source === 'tokopedia'
               ? toStableTokopediaUrl(p.image_url)
               : compressShopeeImage(p.image_url))?.slice(0, 1000) || null,
-            p.images_json || null,
-            p.source_images_json || null,
+            p.images_json ? JSON.stringify(p.images_json) : null,
+            p.source_images_json ? JSON.stringify(p.source_images_json) : null,
             p.category?.slice(0, 200)     || null,
             p.description?.slice(0, 2000) || null,
             p.specs?.slice(0, 1000)       || null,
-            p.attributes_json             || null,
-            p.variants_json               || null,
-            p.reviews_json                || null,
+            p.attributes_json_normalized || (p.attributes_json ? JSON.stringify(p.attributes_json) : null),
+            p.variants_json_normalized   || (p.variants_json   ? JSON.stringify(p.variants_json)   : null),
+            p.reviews_json ? JSON.stringify(p.reviews_json) : null,
             p.rating_summary ? JSON.stringify(p.rating_summary) : null,
             jobQuery,
           ]
         );
 
-        const id = result.insertId || null;
-        // affectedRows: 1 = new insert, 2 = updated, 0 = no change
-        if (result.affectedRows === 1 && result.insertId > 0) newCount++;
-        else if (result.affectedRows === 2) {
+        const pgRow = pgRows?.[0];
+        if (pgRow?.is_insert) newCount++;
+        else if (pgRow) {
           updatedCount++;
-          // Detect price change
           const oldPrice = existingPrices.get(String(p.source_item_id));
           if (oldPrice !== undefined && p.price > 0 && Math.abs(Number(p.price) - oldPrice) > 1) priceChanged++;
         }
-        if (id || result.affectedRows) {
-          // Fetch the actual ID (needed for RAG indexing)
-          const [rows] = await db.query('SELECT id FROM products WHERE link = ? LIMIT 1', [p.link]);
-          if (rows[0]) {
-            inserted.push({ ...p, id: rows[0].id });
+        if (pgRow) {
+          inserted.push({ ...p, id: pgRow.id });
+          {
             // Download gallery images (fire-and-forget — URLs are fresh/valid right now)
-            downloadAndCacheImages(rows[0].id, p.image_url, p.images_json || null, source).catch(() => {});
+            downloadAndCacheImages(pgRow.id, p.image_url, p.images_json || null, source).catch(() => {});
             // Download per-color variation images if present
             if (p.variants_json) {
               try {
@@ -333,7 +364,7 @@ router.post('/', authCheck, async (req, res) => {
                     return acc;
                   }, []);
                 if (varImgs.length) {
-                  downloadAndCacheVariationImages(rows[0].id, JSON.stringify(varImgs), source).catch(() => {});
+                  downloadAndCacheVariationImages(pgRow.id, JSON.stringify(varImgs), source).catch(() => {});
                 }
               } catch (_) {}
             }
@@ -365,7 +396,7 @@ router.post('/', authCheck, async (req, res) => {
             // Base price
             if (p.price > 0) {
               db.query(
-                'INSERT INTO price_history (product_id, price, variant_name) VALUES (?, ?, NULL)',
+                'INSERT INTO price_history (product_id, price, variant_name) VALUES ($1, $2, NULL)',
                 [p.id, p.price]
               ).catch(() => {});
             }
@@ -376,7 +407,7 @@ router.post('/', authCheck, async (req, res) => {
                 for (const v of variants) {
                   if (v.price > 0 && v.name) {
                     db.query(
-                      'INSERT INTO price_history (product_id, price, variant_name) VALUES (?, ?, ?)',
+                      'INSERT INTO price_history (product_id, price, variant_name) VALUES ($1, $2, $3)',
                       [p.id, v.price, v.name.slice(0, 255)]
                     ).catch(() => {});
                   }
@@ -414,10 +445,38 @@ router.post('/', authCheck, async (req, res) => {
             const r = catResults[ci++];
             if (r?.display_name) {
               const cat = applyPriceGuard(r.display_name, p.price || 0) || r.display_name;
-              await db.query('UPDATE products SET category = ? WHERE id = ? AND (category IS NULL OR category = "")', [cat, p.id]).catch(() => {});
+              await db.query("UPDATE products SET category = $1 WHERE id = $2 AND (category IS NULL OR category = '')", [cat, p.id]).catch(() => {});
               p.category = cat;
             }
           }
+        }
+
+        // ── LLM variant re-pass ──────────────────────────────────────
+        // At this point all products have a resolved category (either from
+        // ingest or just classified above). Re-run variant normalization
+        // with LLM fallback for tokens that rule-based couldn't classify.
+        // Only runs on products that actually have variants.
+        const needsVariantLLM = inserted.filter(p =>
+          p.id && p.variants_json && p.category
+        );
+        if (needsVariantLLM.length) {
+          console.log(`[ingest] LLM variant normalization: ${needsVariantLLM.length} products`);
+          for (const p of needsVariantLLM) {
+            try {
+              // normalizeVariants() does rule-based first, LLM only for unknowns
+              const normalized = await normalizeVariants(p.variants_json, p.category);
+              if (!normalized.length) continue;
+
+              const json = JSON.stringify(normalized);
+              await db.query(
+                'UPDATE products SET variants_json = $1 WHERE id = $2',
+                [json, p.id]
+              ).catch(() => {});
+            } catch (err) {
+              console.error(`[ingest] variant LLM pass failed for id=${p.id}:`, err.message);
+            }
+          }
+          console.log(`[ingest] variant LLM pass done`);
         }
       } catch (e) {
         console.error('[ingest] background classify/index error:', e.message);
@@ -427,7 +486,7 @@ router.post('/', authCheck, async (req, res) => {
     // ── 4. Mark job done ────────────────────────────────────
     if (jobId) {
       db.query(
-        `UPDATE search_jobs SET status = 'done', completed_at = NOW(), products_ingested = ? WHERE id = ?`,
+        `UPDATE search_jobs SET status = 'done', completed_at = NOW(), products_ingested = $1 WHERE id = $2`,
         [inserted.length, jobId]
       ).catch(() => {});
     } else if (inserted.length > 0) {
@@ -437,7 +496,8 @@ router.post('/', authCheck, async (req, res) => {
       try {
         const [activeJobs] = await db.query(
           `SELECT id FROM search_jobs WHERE status = 'claimed' AND expires_at > NOW()
-           ORDER BY claimed_at DESC LIMIT 1`
+           ORDER BY claimed_at DESC LIMIT 1`,
+          []
         );
         if (activeJobs.length) {
           const activeJobId = activeJobs[0].id;

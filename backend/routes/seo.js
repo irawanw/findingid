@@ -24,8 +24,8 @@ const path    = require('path');
 const CAT_MAP = {
   'laptop-gaming':   { cat: 'Laptop',                  keyword: 'gaming',                                              label: 'Laptop Gaming' },
   'laptop':          { cat: 'Laptop',                  keyword: ['laptop', 'notebook', 'macbook', 'chromebook'],       label: 'Laptop' },
-  'handphone':       { cat: 'Handphone',               keyword: null,                                                  label: 'Handphone' },
-  'hp':              { cat: 'Handphone',               keyword: null,                                                  label: 'HP' },
+  'handphone':       { cat: 'Handphone',               keyword: ['samsung', 'xiaomi', 'oppo', 'vivo', 'realme', 'iphone', 'nokia', 'infinix', 'poco', 'redmi', 'galaxy', 'handphone', ' hp ', 'smartphone'], minPrice: 300000, label: 'Handphone' },
+  'hp':              { cat: 'Handphone',               keyword: ['samsung', 'xiaomi', 'oppo', 'vivo', 'realme', 'iphone', 'nokia', 'infinix', 'poco', 'redmi', 'galaxy', 'handphone', ' hp ', 'smartphone'], minPrice: 300000, label: 'HP' },
   'tablet':          { cat: 'Tablet',                  keyword: ['tablet', 'ipad', 'tab '],   exclude: ['casing', 'case for', 'case ipad', 'case tab', 'ipad case', 'tab case', 'acrylic case', ' case ', 'cover for', 'softcase', 'hardcase', 'keyboard case', 'keyboard cover', 'yfold', 'danycase', 'pencil holder'], label: 'Tablet' },
   'monitor':         { cat: 'Monitor',                 keyword: null,                                                  label: 'Monitor' },
   'headphone':       { cat: 'Perangkat Audio',         keyword: 'headphone',                                          label: 'Headphone' },
@@ -131,16 +131,16 @@ async function trackPage(urlPath, pageType, title, productCount) {
       `INSERT INTO seo_pages
          (url_path, page_type, title, product_count, quality_score, is_indexable, generated_at, updated_at)
        VALUES (?, ?, ?, ?, ?, ?, NOW(), NOW())
-       ON DUPLICATE KEY UPDATE
-         title         = VALUES(title),
-         product_count = VALUES(product_count),
-         quality_score = VALUES(quality_score),
-         is_indexable  = VALUES(is_indexable),
+       ON CONFLICT (url_path) DO UPDATE SET
+         title         = EXCLUDED.title,
+         product_count = EXCLUDED.product_count,
+         quality_score = EXCLUDED.quality_score,
+         is_indexable  = EXCLUDED.is_indexable,
          updated_at    = NOW()`,
       [
         urlPath, pageType, title, productCount,
-        productCount >= 5 ? 1 : 0,
-        productCount >= 5 ? 1 : 0,
+        productCount >= 5 ? true : false,
+        productCount >= 5 ? true : false,
       ]
     );
   } catch (_) {}
@@ -309,14 +309,15 @@ router.get('/top/:slug', async (req, res) => {
   let products = [];
   try {
     const { clause: keywordClause, params: keywordParams } = keywordSql(catDef.keyword, catDef.exclude);
+    const minPrice = catDef.minPrice || 50000;
     const [rows] = await db.query(
       `SELECT id, title, price, rating, sold_count, link, affiliate_link, image_url
        FROM products
-       WHERE is_active = 1 AND category = ? AND price BETWEEN 50000 AND ?
+       WHERE is_active = true AND category = ? AND price BETWEEN ? AND ?
          ${keywordClause}
        ORDER BY (COALESCE(rating,0) * 0.5 + LN(1 + COALESCE(sold_count,0)) * 0.5) DESC
-       LIMIT 9`,
-      [catDef.cat, price, ...keywordParams]
+       LIMIT 20`,
+      [catDef.cat, minPrice, price, ...keywordParams]
     );
     products = rows;
   } catch (err) {
@@ -353,14 +354,15 @@ router.get('/best/:slug', async (req, res) => {
   let products = [];
   try {
     const { clause: keywordClause, params: keywordParams } = keywordSql(catDef.keyword, catDef.exclude);
+    const minPrice = catDef.minPrice || 50000;
     const [rows] = await db.query(
       `SELECT id, title, price, rating, sold_count, link, affiliate_link, image_url
        FROM products
-       WHERE is_active = 1 AND category = ? AND price >= 50000
+       WHERE is_active = true AND category = ? AND price >= ?
          ${keywordClause}
        ORDER BY (COALESCE(rating,0) * 0.5 + LN(1 + COALESCE(sold_count,0)) * 0.5) DESC
-       LIMIT 9`,
-      [catDef.cat, ...keywordParams]
+       LIMIT 20`,
+      [catDef.cat, minPrice, ...keywordParams]
     );
     products = rows;
   } catch (err) {

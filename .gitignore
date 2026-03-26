@@ -14,3 +14,7 @@ uploads/
 *.sql
 populars_search/
 tools/cache/
+scripts/short_*
+*.wav
+pending_product_ids.txt
+regenerate.log

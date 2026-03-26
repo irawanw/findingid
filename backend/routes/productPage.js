@@ -9,6 +9,7 @@ const express  = require('express');
 const router   = express.Router();
 const db       = require('../services/db');
 const analysis = require('../services/productAnalysis');
+const { bestVariantDiscount } = require('../services/discount');
 
 function fmt(price) {
   return 'Rp ' + Number(price).toLocaleString('id-ID');
@@ -128,7 +129,7 @@ router.get('/:id', async (req, res) => {
       `SELECT id, title, price, category, rating, sold_count, sold_display, monthly_sold,
               description, reviews_json, ai_analysis, image_url, images_json,
               variation_images_json, affiliate_link, link, seller_rating, variants_json
-       FROM products WHERE id = ? AND is_active = 1 LIMIT 1`,
+       FROM products WHERE id = ? AND is_active = true LIMIT 1`,
       [id]
     );
     if (!rows.length) return res.redirect('/');
@@ -244,6 +245,12 @@ router.get('/:id', async (req, res) => {
       ? `<span class="price-main">${fmt(priceMin)}</span>`
       : `<span class="price-main">${fmt(priceMin)}</span><span class="price-sep">–</span><span class="price-main">${fmt(priceMax)}</span>`;
 
+    // Best per-variant discount: compare each variant's price_before vs its own price only
+    const bestDisc = bestVariantDiscount(p.variants_json);
+    const discBadgeHtml = bestDisc
+      ? `<span class="disc-pill">-${bestDisc.pct}%</span><span class="disc-was">${fmt(bestDisc.price_before)}</span>`
+      : '';
+
     // Parse reviews
     let posReviews = [], negReviews = [];
     try {
@@ -263,7 +270,7 @@ router.get('/:id', async (req, res) => {
     const [related] = await db.query(
       `SELECT id, title, price, rating, image_url, affiliate_link, link
        FROM products
-       WHERE is_active = 1
+       WHERE is_active = true
          AND category = ?
          AND id != ?
          AND image_url IS NOT NULL
@@ -466,8 +473,10 @@ body{font-family:'JetBrains Mono',monospace;background:var(--bg);color:var(--ink
 .rating-num{font-weight:700;font-size:14px;color:var(--ink-1);margin-left:2px}
 .sold-count{font-size:12px;color:var(--ink-3)}
 .halal-badge{background:#ECFDF5;color:#059669;font-size:10px;font-weight:700;padding:3px 10px;border-radius:20px;border:1px solid #A7F3D0;letter-spacing:.5px}
-.price-row{display:flex;align-items:baseline;gap:10px}
+.price-row{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
 .price-main{font-size:30px;font-weight:700;color:var(--orange);letter-spacing:-1px}
+.disc-pill{background:#EF4444;color:#fff;font-size:13px;font-weight:700;padding:3px 8px;border-radius:6px;align-self:center}
+.disc-was{font-size:15px;color:var(--ink-4);text-decoration:line-through;align-self:center}
 .price-per{font-size:11px;color:var(--ink-3)}
 .spec-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .spec-item{background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:10px 14px}
@@ -620,6 +629,7 @@ body{font-family:'JetBrains Mono',monospace;background:var(--bg);color:var(--ink
       </div>
       <div class="price-row">
         ${priceRangeHtml}
+        ${discBadgeHtml}
       </div>
       ${variants.length ? `
       <div class="variant-section" id="variantSection">
@@ -725,11 +735,12 @@ function onVariantChange(name) {
 function setPriceDisplay(v) {
   var priceEl = document.querySelector('.price-row');
   if (!priceEl || !v || !v.price) return;
+  // Compare this variant's price_before vs its OWN price only
   var html = '<span class="price-main">Rp ' + Number(v.price).toLocaleString('id-ID') + '</span>';
   if (v.price_before && v.price_before > v.price) {
     var disc = Math.round((1 - v.price / v.price_before) * 100);
-    html += '<span class="price-sep" style="font-size:14px;color:var(--ink-4);text-decoration:line-through;margin-left:8px">Rp ' + Number(v.price_before).toLocaleString('id-ID') + '</span>';
-    html += '<span style="background:var(--orange);color:#fff;font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;margin-left:6px">-' + disc + '%</span>';
+    html += '<span class="disc-pill">-' + disc + '%</span>';
+    html += '<span class="disc-was">Rp ' + Number(v.price_before).toLocaleString('id-ID') + '</span>';
   }
   priceEl.innerHTML = html;
 }

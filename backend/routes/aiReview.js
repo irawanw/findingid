@@ -56,10 +56,10 @@ function catSlug(raw) {
 router.get('/', async (req, res) => {
   try {
     const [rows] = await db.query(
-      `SELECT id, title, price, image_url, rating, sold_count, category, source, ai_analysis_at
+      `SELECT id, title, price, image_url, rating, sold_count, category, source, updated_at
        FROM products
-       WHERE is_active = 1 AND ai_analysis IS NOT NULL
-       ORDER BY category ASC, ai_analysis_at DESC
+       WHERE is_active = true AND ai_analysis IS NOT NULL
+       ORDER BY category ASC, updated_at DESC
        LIMIT 1000`
     );
 

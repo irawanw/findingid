@@ -37,7 +37,7 @@ module.exports = {
     TOP_K:  parseInt(process.env.RAG_TOP_K) || 5,
   },
 
-  // ── MySQL ─────────────────────────────────────────────────
+  // ── MySQL (legacy — kept for migration period) ────────────
   DB: {
     HOST:      process.env.DB_HOST      || 'localhost',
     PORT:      parseInt(process.env.DB_PORT) || 3306,
@@ -45,6 +45,16 @@ module.exports = {
     USER:      process.env.DB_USER      || 'findingid',
     PASS:      process.env.DB_PASS      || '',
     POOL_SIZE: parseInt(process.env.DB_POOL_SIZE) || 20,
+  },
+
+  // ── PostgreSQL ────────────────────────────────────────────
+  PG: {
+    HOST:      process.env.PG_HOST      || '127.0.0.1',
+    PORT:      parseInt(process.env.PG_PORT) || 5432,
+    NAME:      process.env.PG_NAME      || 'findingid',
+    USER:      process.env.PG_USER      || 'findingid',
+    PASS:      process.env.PG_PASS      || '',
+    POOL_SIZE: parseInt(process.env.PG_POOL_SIZE) || 20,
   },
 
   // ── Redis ─────────────────────────────────────────────────
@@ -85,9 +95,9 @@ JIKA DATA PRODUK TERSEDIA:
 - Jangan tampilkan URL atau ID di teks — hanya di baris PILIHAN.
 - Jangan mengarang spesifikasi atau harga yang tidak ada di data.
 
-JIKA DATA KOSONG ATAU BELUM CUKUP:
-- Informasikan dengan ramah: "Data produk sedang kami kumpulkan dari Shopee..."
-- Berikan 2-3 tips umum tentang kategori produk tersebut (apa yang perlu diperhatikan saat beli)
+JIKA DATA PRODUK KOSONG ATAU TIDAK RELEVAN:
+- Katakan singkat: produk sedang dicari, coba lagi dalam 1-2 menit.
+- JANGAN berikan tips umum. JANGAN mengarang data. Maksimal 2 kalimat.
 
 Maksimal 600 kata. Padat, spesifik, bantu pengguna benar-benar memutuskan.`,
 };

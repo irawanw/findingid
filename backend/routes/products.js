@@ -119,7 +119,7 @@ router.get('/', async (req, res) => {
         `SELECT id, title, price, rating, sold_count, source, link, affiliate_link, image_url,
                 category, specs, reviews_json
          FROM products
-         WHERE id IN (${placeholders}) AND is_active = 1`,
+         WHERE id IN (${placeholders}) AND is_active = true`,
         ids
       );
       return res.json({ ok: true, products: rows, count: rows.length });
@@ -164,8 +164,8 @@ router.get('/', async (req, res) => {
 
       const buildQuery = (ftTerm) => {
         const wc = [
-          'is_active = 1',
-          'MATCH(title, description) AGAINST (? IN BOOLEAN MODE)',
+          'is_active = true',
+          'fts @@ websearch_to_tsquery(\'simple\', ?)',
         ];
         const p = [ftTerm];
 
@@ -193,14 +193,14 @@ router.get('/', async (req, res) => {
           const perCat = preferredCategories.map(cat => {
             const slug = cat.toLowerCase().replace(/\s+/g, '-');
             p.push(cat, slug, slug);
-            return `(category = ? OR LOWER(category) LIKE CONCAT('%/', ?, '/%') OR LOWER(category) LIKE CONCAT('%/', ?))`;
+            return `(category = ? OR LOWER(category) LIKE '%/' || ? || '/%' OR LOWER(category) LIKE '%/' || ?)`;
           });
           wc.push(`(${perCat.join(' OR ')})`);
         } else if (excludedCategories?.length) {
           const perCat = excludedCategories.map(cat => {
             const slug = cat.toLowerCase().replace(/\s+/g, '-');
             p.push(cat, slug, slug);
-            return `(category = ? OR LOWER(category) LIKE CONCAT('%/', ?, '/%') OR LOWER(category) LIKE CONCAT('%/', ?))`;
+            return `(category = ? OR LOWER(category) LIKE '%/' || ? || '/%' OR LOWER(category) LIKE '%/' || ?)`;
           });
           wc.push(`(category IS NULL OR NOT (${perCat.join(' OR ')}))`);
         }
@@ -211,7 +211,7 @@ router.get('/', async (req, res) => {
                           category, specs, reviews_json
                    FROM products
                    WHERE {WHERE}
-                   ORDER BY (rating * 0.6 + LOG(1 + COALESCE(sold_count, 0)) * 0.4) DESC
+                   ORDER BY (rating * 0.6 + LN(1 + COALESCE(sold_count, 0)) * 0.4) DESC
                    LIMIT ? OFFSET ?`;
 
       // Pass 1: strict (all required)
@@ -231,11 +231,11 @@ router.get('/', async (req, res) => {
       if (rows.length < limit && preferredCategories?.length) {
         const catWhere = [];
         const catParams = [];
-        catWhere.push('is_active = 1', 'price >= 50000');
+        catWhere.push('is_active = true', 'price >= 50000');
         const perCat = preferredCategories.map(cat => {
           const slug = cat.toLowerCase().replace(/\s+/g, '-');
           catParams.push(cat, slug, slug);
-          return `(category = ? OR LOWER(category) LIKE CONCAT('%/', ?, '/%') OR LOWER(category) LIKE CONCAT('%/', ?))`;
+          return `(category = ? OR LOWER(category) LIKE '%/' || ? || '/%' OR LOWER(category) LIKE '%/' || ?)`;
         });
         catWhere.push(`(${perCat.join(' OR ')})`);
         if (price) { catWhere.push('price BETWEEN ? AND ?'); catParams.push(price.min, price.max); }
@@ -246,7 +246,7 @@ router.get('/', async (req, res) => {
                   category, specs, reviews_json
            FROM products
            WHERE ${catWhere.join(' AND ')}
-           ORDER BY (rating * 0.6 + LOG(1 + COALESCE(sold_count, 0)) * 0.4) DESC
+           ORDER BY (rating * 0.6 + LN(1 + COALESCE(sold_count, 0)) * 0.4) DESC
            LIMIT ? OFFSET ?`,
           [...catParams, limit, offset]
         );
@@ -265,7 +265,7 @@ router.get('/', async (req, res) => {
                   category, specs, reviews_json,
                   ROW_NUMBER() OVER (PARTITION BY category ORDER BY sold_count DESC) AS rn
            FROM products
-           WHERE is_active = 1
+           WHERE is_active = true
              AND sold_count > 0
              AND price >= 50000
              AND category IS NOT NULL AND category != ''
@@ -277,13 +277,13 @@ router.get('/', async (req, res) => {
       );
     } else {
       const orderBy = sort === 'popular'
-        ? 'click_count DESC, (rating * 0.6 + LOG(1 + COALESCE(sold_count, 0)) * 0.4) DESC'
+        ? 'click_count DESC, (rating * 0.6 + LN(1 + COALESCE(sold_count, 0)) * 0.4) DESC'
         : 'updated_at DESC, rating DESC';
       [rows] = await db.query(
         `SELECT id, title, price, rating, sold_count, source, link, affiliate_link, image_url,
                 category, specs, reviews_json, click_count
          FROM products
-         WHERE is_active = 1
+         WHERE is_active = true
          ORDER BY ${orderBy}
          LIMIT ?`,
         [limit]
@@ -361,7 +361,7 @@ router.get('/admin/list', adminAuth, async (req, res) => {
   const where = [];
   const params = [];
 
-  if (!includeInactive) where.push('is_active = 1');
+  if (!includeInactive) where.push('is_active = true');
   if (q) {
     where.push('(title LIKE ? OR description LIKE ?)');
     params.push(`%${q}%`, `%${q}%`);
@@ -478,7 +478,7 @@ router.delete('/admin/bulk', adminAuth, async (req, res) => {
 
     await db.query(
       `UPDATE products
-       SET is_active = 0,
+       SET is_active = false,
            updated_at = NOW()
        WHERE id IN (${placeholders})`,
       ids
@@ -522,7 +522,7 @@ router.delete('/:id', adminAuth, async (req, res) => {
 
     await db.query(
       `UPDATE products
-       SET is_active = 0,
+       SET is_active = false,
            updated_at = NOW()
        WHERE id = ?`,
       [id]
@@ -618,12 +618,12 @@ router.get('/rag-stats', adminAuth, async (req, res) => {
 
     // MySQL active count
     const [[{ mysqlCount }]] = await db.query(
-      `SELECT COUNT(*) AS mysqlCount FROM products WHERE is_active = 1`
+      `SELECT COUNT(*) AS "mysqlCount" FROM products WHERE is_active = true`
     );
 
-    // MySQL last indexed count
+    // PG last indexed count
     const [[{ indexedCount }]] = await db.query(
-      `SELECT COUNT(*) AS indexedCount FROM products WHERE is_active = 1 AND indexed_at IS NOT NULL`
+      `SELECT COUNT(*) AS "indexedCount" FROM products WHERE is_active = true AND indexed_at IS NOT NULL`
     );
 
     // Qdrant vector count for findingid folder
@@ -707,9 +707,9 @@ router.get('/admin/affiliate-count', adminAuth, async (req, res) => {
   try {
     const [[row]] = await db.query(
       `SELECT
-         SUM(affiliate_link IS NOT NULL AND affiliate_link <> '') AS withLink
+         SUM(CASE WHEN affiliate_link IS NOT NULL AND affiliate_link <> '' THEN 1 ELSE 0 END) AS "withLink"
        FROM products
-       WHERE is_active = 1`
+       WHERE is_active = true`
     );
     return res.json({ ok: true, withLink: Number(row.withLink || 0) });
   } catch (err) {
@@ -748,7 +748,7 @@ router.post('/admin/generate-affiliates', adminAuth, async (req, res) => {
         `SELECT id, source_item_id, link
          FROM products
          WHERE source = 'shopee'
-           AND is_active = 1
+           AND is_active = true
            AND source_item_id IS NOT NULL
            AND (affiliate_link IS NULL OR affiliate_link = '')
          LIMIT ? OFFSET ?`,
@@ -797,41 +797,73 @@ router.post('/admin/generate-affiliates', adminAuth, async (req, res) => {
 
 
 // ── Revenue funnel metrics ────────────────────────────────────
+// Bot UA patterns to exclude from organic traffic metrics
+const BOT_UA_PATTERN = `(bot|spider|crawler|crawl|scraper|slurp|fetcher|` +
+  `googlebot|bingbot|yandex|baidu|duckduck|petalbot|semrush|ahrefs|` +
+  `mj12bot|dotbot|archive\.org|facebookexternalhit|twitterbot|` +
+  `applebot|sogou|exabot|ia_archiver|proximic|seznambot|` +
+  `curl|wget|python-requests|axios|node-fetch|go-http)`;
+
 // GET /api/products/admin/metrics/revenue-funnel
-// Returns click stats for last 24h and 7d: totals, affiliate ratio,
-// top queries, top products — powers the Revenue tab in /admin191.
+// Query params: days=7 (default 7), date_from, date_to (YYYY-MM-DD)
+// Returns click stats with bot filtering, daily series for chart.
 router.get('/admin/metrics/revenue-funnel', adminAuth, async (req, res) => {
   try {
+    // ── Period resolution ──────────────────────────────────────
+    let periodStart, periodEnd;
+    if (req.query.date_from && req.query.date_to) {
+      periodStart = `'${req.query.date_from}'::date`;
+      periodEnd   = `'${req.query.date_to}'::date + INTERVAL '1 day'`;
+    } else {
+      const days  = Math.min(90, Math.max(1, parseInt(req.query.days) || 7));
+      periodStart = `NOW() - INTERVAL '${days} days'`;
+      periodEnd   = `NOW()`;
+    }
+
+    // Bot filter clause (null user_agent = old rows before column was added, keep them)
+    const botFilter = `(user_agent IS NULL OR user_agent !~* '${BOT_UA_PATTERN}')`;
+
     const [[totals24h]] = await db.query(`
       SELECT
-        COUNT(*)                                         AS total_clicks,
-        SUM(has_affiliate)                               AS affiliate_clicks,
-        COUNT(DISTINCT sid)                              AS unique_sessions,
-        COUNT(DISTINCT product_id)                       AS unique_products
+        COUNT(*)                                          AS total_clicks,
+        SUM(CASE WHEN has_affiliate THEN 1 ELSE 0 END)    AS affiliate_clicks,
+        COUNT(DISTINCT sid)                               AS unique_sessions,
+        COUNT(DISTINCT product_id)                        AS unique_products
       FROM affiliate_click_events
-      WHERE created_at >= NOW() - INTERVAL 24 HOUR
+      WHERE created_at >= NOW() - INTERVAL '24 hours'
+        AND ${botFilter}
     `);
 
-    const [[totals7d]] = await db.query(`
+    const [[totalsperiod]] = await db.query(`
       SELECT
-        COUNT(*)                                         AS total_clicks,
-        SUM(has_affiliate)                               AS affiliate_clicks,
-        COUNT(DISTINCT sid)                              AS unique_sessions,
-        COUNT(DISTINCT product_id)                       AS unique_products
+        COUNT(*)                                          AS total_clicks,
+        SUM(CASE WHEN has_affiliate THEN 1 ELSE 0 END)    AS affiliate_clicks,
+        COUNT(DISTINCT sid)                               AS unique_sessions,
+        COUNT(DISTINCT product_id)                        AS unique_products
       FROM affiliate_click_events
-      WHERE created_at >= NOW() - INTERVAL 7 DAY
+      WHERE created_at >= ${periodStart} AND created_at < ${periodEnd}
+        AND ${botFilter}
+    `);
+
+    const [[yesterday]] = await db.query(`
+      SELECT COUNT(*) AS clicks
+      FROM affiliate_click_events
+      WHERE created_at >= NOW() - INTERVAL '48 hours'
+        AND created_at < NOW() - INTERVAL '24 hours'
+        AND ${botFilter}
     `);
 
     const [topQueries] = await db.query(`
       SELECT
         query,
-        COUNT(*)                                         AS clicks,
-        SUM(has_affiliate)                               AS affiliate_clicks,
-        COUNT(DISTINCT product_id)                       AS unique_products,
-        MAX(created_at)                                  AS last_click_at
+        COUNT(*)                                          AS clicks,
+        SUM(CASE WHEN has_affiliate THEN 1 ELSE 0 END)    AS affiliate_clicks,
+        COUNT(DISTINCT product_id)                        AS unique_products,
+        MAX(created_at)                                   AS last_click_at
       FROM affiliate_click_events
-      WHERE created_at >= NOW() - INTERVAL 7 DAY
+      WHERE created_at >= ${periodStart} AND created_at < ${periodEnd}
         AND query IS NOT NULL AND query != ''
+        AND ${botFilter}
       GROUP BY query
       ORDER BY clicks DESC
       LIMIT 30
@@ -843,40 +875,44 @@ router.get('/admin/metrics/revenue-funnel', adminAuth, async (req, res) => {
         p.title,
         p.source,
         p.price,
-        p.affiliate_link IS NOT NULL                     AS has_affiliate,
-        COUNT(*)                                         AS clicks,
-        MAX(e.created_at)                                AS last_click_at
+        (p.affiliate_link IS NOT NULL)                    AS has_affiliate,
+        COUNT(*)                                          AS clicks,
+        MAX(e.created_at)                                 AS last_click_at
       FROM affiliate_click_events e
       LEFT JOIN products p ON p.id = e.product_id
-      WHERE e.created_at >= NOW() - INTERVAL 7 DAY
+      WHERE e.created_at >= ${periodStart} AND e.created_at < ${periodEnd}
+        AND ${botFilter}
       GROUP BY e.product_id, p.title, p.source, p.price, p.affiliate_link
       ORDER BY clicks DESC
       LIMIT 30
     `);
 
-    // Yesterday vs today comparison
-    const [[yesterday]] = await db.query(`
-      SELECT COUNT(*) AS clicks
+    // Daily series for chart (up to 90 days)
+    const [dailySeries] = await db.query(`
+      SELECT
+        DATE(created_at AT TIME ZONE 'Asia/Jakarta')      AS day,
+        COUNT(*)                                          AS clicks,
+        SUM(CASE WHEN has_affiliate THEN 1 ELSE 0 END)    AS affiliate_clicks
       FROM affiliate_click_events
-      WHERE created_at >= NOW() - INTERVAL 48 HOUR
-        AND created_at < NOW() - INTERVAL 24 HOUR
+      WHERE created_at >= ${periodStart} AND created_at < ${periodEnd}
+        AND ${botFilter}
+      GROUP BY 1
+      ORDER BY 1 ASC
     `);
 
     const affiliateRatio24h = totals24h.total_clicks > 0
-      ? Math.round((totals24h.affiliate_clicks / totals24h.total_clicks) * 100)
-      : 0;
-
-    const affiliateRatio7d = totals7d.total_clicks > 0
-      ? Math.round((totals7d.affiliate_clicks / totals7d.total_clicks) * 100)
-      : 0;
+      ? Math.round((totals24h.affiliate_clicks / totals24h.total_clicks) * 100) : 0;
+    const affiliateRatioperiod = totalsperiod.total_clicks > 0
+      ? Math.round((totalsperiod.affiliate_clicks / totalsperiod.total_clicks) * 100) : 0;
 
     res.json({
       ok: true,
       summary: {
-        today:     { ...totals24h, affiliate_ratio_pct: affiliateRatio24h },
+        today:     { ...totals24h,    affiliate_ratio_pct: affiliateRatio24h },
         yesterday: { clicks: yesterday.clicks },
-        week:      { ...totals7d,  affiliate_ratio_pct: affiliateRatio7d  },
+        period:    { ...totalsperiod, affiliate_ratio_pct: affiliateRatioperiod },
       },
+      daily_series: dailySeries,
       top_queries:  topQueries,
       top_products: topProducts,
     });

@@ -1,12 +1,12 @@
 {
-  "product_id": 156648,
-  "script": "short_156648.json",
-  "audio": "short_156648_audio.mp3",
-  "timing": "short_156648_timing.json",
-  "music": "music_uploads/young_trizzy.mp3",
+  "product_id": 201954,
+  "script": "short_201954.json",
+  "audio": "short_201954_audio.mp3",
+  "timing": "short_201954_timing.json",
+  "music": "music_uploads/ko.mp3",
   "music_volume": 30,
   "voice_volume": 100,
-  "captions_enabled": false,
+  "captions_enabled": true,
   "font": "montserrat",
-  "output": "output_156648.mp4"
+  "output": "output_201954.mp4"
 }

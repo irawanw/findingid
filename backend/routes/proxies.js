@@ -49,7 +49,7 @@ router.post('/report', authCheck, async (req, res) => {
   await db.query(
     `UPDATE proxies SET
        fail_count = LEAST(fail_count + 1, 10),
-       is_healthy = IF(fail_count + 1 >= 3, 0, is_healthy)
+       is_healthy = CASE WHEN fail_count + 1 >= 3 THEN false ELSE is_healthy END
      WHERE ip = ? AND port = ?`,
     [ip, port]
   );

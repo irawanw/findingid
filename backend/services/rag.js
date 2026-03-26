@@ -44,7 +44,7 @@ function _buildCatSQL(cats, negate = false) {
   const perCat = cats.map(cat => {
     const slug = _catSlug(cat);
     params.push(cat, slug, slug);
-    return `(category = ? OR LOWER(category) LIKE CONCAT('%/', ?, '/%') OR LOWER(category) LIKE CONCAT('%/', ?))`;
+    return `(category = ? OR LOWER(category) LIKE '%/' || ? || '/%' OR LOWER(category) LIKE '%/' || ?)`;
   });
   const joined = perCat.join(' OR ');
   return negate
@@ -58,7 +58,7 @@ function _buildCatOrderSQL(cats) {
   const perCat = cats.map(cat => {
     const slug = _catSlug(cat);
     params.push(cat, slug, slug);
-    return `(category = ? OR LOWER(category) LIKE CONCAT('%/', ?, '/%') OR LOWER(category) LIKE CONCAT('%/', ?))`;
+    return `(category = ? OR LOWER(category) LIKE '%/' || ? || '/%' OR LOWER(category) LIKE '%/' || ?)`;
   });
   return { sql: `CASE WHEN (${perCat.join(' OR ')}) THEN 0 ELSE 1 END,`, params };
 }
@@ -117,7 +117,7 @@ function _containsAllTokens(row, tokens) {
 
 const ragHttp = axios.create({
   baseURL: cfg.RAG.URL,
-  timeout: 10000,
+  timeout: 120000, // 2 min — batch embedding 500 products on CPU needs time
   headers: { 'Content-Type': 'application/json' },
 });
 
@@ -173,14 +173,13 @@ async function retrieve(query, opts = {}) {
     try {
       const [ft] = await db.query(
         `SELECT id, title, price, rating, sold_count, source, link, image_url, category,
-                affiliate_link, description, specs, reviews_json,
-                  (ai_analysis IS NOT NULL) AS has_ai_page, updated_at,
-                (ai_analysis IS NOT NULL) AS has_ai_page
+                affiliate_link, description, specs, reviews_json, variants_json,
+                (ai_analysis IS NOT NULL) AS has_ai_page, updated_at
          FROM products
-         WHERE is_active = 1 AND MATCH(title, description) AGAINST (? IN BOOLEAN MODE)
-         ORDER BY (rating * 0.6 + LOG(1 + COALESCE(sold_count, 0)) * 0.4) DESC
+         WHERE is_active = true AND fts @@ websearch_to_tsquery('simple', ?)
+         ORDER BY (rating * 0.6 + LN(1 + COALESCE(sold_count, 0)) * 0.4) DESC
          LIMIT ?`,
-        [booleanAndQuery, cfg.RAG.TOP_K]
+        [query, cfg.RAG.TOP_K]
       );
       if (ft.length) {
         const ftFiltered = ft.filter(r => _containsAllTokens(r, keywordTokens));
@@ -205,7 +204,7 @@ async function retrieve(query, opts = {}) {
   // RAG returns product_name + product_category; we look up by both
   let products = [];
   if (hits.length) {
-    const conditions = hits.map(() => '(title = ? AND (category = ? OR ? IS NULL OR ? = ""))').join(' OR ');
+    const conditions = hits.map(() => "(title = ? AND (category = ? OR ? IS NULL OR ? = ''))").join(' OR ');
     const params = hits.flatMap(h => [h.product_name, h.product_category, h.product_category, h.product_category]);
 
     // Price filter clause — applied when user specifies a budget
@@ -265,11 +264,10 @@ async function retrieve(query, opts = {}) {
       if (!trustQdrant) throw new Error('skip'); // jump to FULLTEXT
       const [rows] = await db.query(
         `SELECT id, title, price, rating, sold_count, source, link, image_url, category,
-                affiliate_link, description, specs, reviews_json,
-                  (ai_analysis IS NOT NULL) AS has_ai_page, updated_at,
-                (ai_analysis IS NOT NULL) AS has_ai_page
+                affiliate_link, description, specs, reviews_json, variants_json,
+                (ai_analysis IS NOT NULL) AS has_ai_page, updated_at
          FROM products
-         WHERE (${conditions}) AND is_active = 1 ${priceClause} ${preferredClause} ${excludedClause}
+         WHERE (${conditions}) AND is_active = true ${priceClause} ${preferredClause} ${excludedClause}
          ORDER BY
            ${_prefOrd.sql}
            COALESCE(sold_count, 0) DESC, rating DESC
@@ -295,10 +293,10 @@ async function retrieve(query, opts = {}) {
 
         const [fb] = await db.query(
           `SELECT id, title, price, rating, sold_count, source, link, image_url, category,
-                  affiliate_link, description, specs, reviews_json,
+                  affiliate_link, description, specs, reviews_json, variants_json,
                   (ai_analysis IS NOT NULL) AS has_ai_page
            FROM products
-           WHERE (${conditions}) AND is_active = 1 ${fbPref.sql} ${fbExcl.sql}
+           WHERE (${conditions}) AND is_active = true ${fbPref.sql} ${fbExcl.sql}
            ORDER BY
              ${fbPrefOrd.sql}
              COALESCE(sold_count, 0) DESC, ABS(price - ?) ASC, rating DESC
@@ -349,20 +347,20 @@ async function retrieve(query, opts = {}) {
 
         const [ft] = await db.query(
           `SELECT id, title, price, rating, sold_count, source, link, image_url, category,
-                  affiliate_link, description, specs, reviews_json,
+                  affiliate_link, description, specs, reviews_json, variants_json,
                   (ai_analysis IS NOT NULL) AS has_ai_page
            FROM products
-           WHERE is_active = 1
+           WHERE is_active = true
              AND price >= 1000
-             AND MATCH(title, description) AGAINST (? IN BOOLEAN MODE)
+             AND fts @@ websearch_to_tsquery('simple', ?)
              ${ftPref.sql} ${ftExcl.sql}
              ${priceClause}
            ORDER BY
              ${ftPrefOrd.sql}
-             (rating * 0.6 + LOG(1 + COALESCE(sold_count, 0)) * 0.4) DESC
+             (rating * 0.6 + LN(1 + COALESCE(sold_count, 0)) * 0.4) DESC
            LIMIT ?`,
           [
-            booleanAndQuery,
+            query,
             ...ftPref.params,
             ...ftExcl.params,
             ...ftPrefOrd.params,
@@ -399,11 +397,11 @@ async function retrieve(query, opts = {}) {
         const catPrefOrd = _buildCatOrderSQL(effectivePreferred);
         const [catRows] = await db.query(
           `SELECT id, title, price, rating, sold_count, source, link, image_url, category,
-                  affiliate_link, description, specs, reviews_json,
+                  affiliate_link, description, specs, reviews_json, variants_json,
                   (ai_analysis IS NOT NULL) AS has_ai_page
            FROM products
-           WHERE is_active = 1 AND price >= 1000 ${catPref.sql} ${catExcl.sql} ${priceClause}
-           ORDER BY ${catPrefOrd.sql} (rating * 0.6 + LOG(1 + COALESCE(sold_count, 0)) * 0.4) DESC
+           WHERE is_active = true AND price >= 1000 ${catPref.sql} ${catExcl.sql} ${priceClause}
+           ORDER BY ${catPrefOrd.sql} (rating * 0.6 + LN(1 + COALESCE(sold_count, 0)) * 0.4) DESC
            LIMIT ?`,
           [...catPref.params, ...catExcl.params, ...catPrefOrd.params, cfg.RAG.TOP_K]
         );
@@ -452,12 +450,12 @@ async function retrieve(query, opts = {}) {
         const [dealRows] = await db.query(
           `SELECT product_id, AVG(price) AS avg_price
            FROM price_history
-           WHERE product_id IN (${ids.map(() => '?').join(',')})
-             AND captured_at > DATE_SUB(NOW(), INTERVAL 30 DAY)
+           WHERE product_id = ANY(?)
+             AND captured_at > NOW() - INTERVAL '30 days'
              AND variant_name IS NULL
            GROUP BY product_id
            HAVING COUNT(*) >= 1`,
-          ids
+          [ids]
         );
         const dealMap = Object.fromEntries(dealRows.map(r => [r.product_id, parseFloat(r.avg_price)]));
         products = products.map(p => {
@@ -572,8 +570,8 @@ async function indexProducts(products) {
   const ids = products.map(p => p.id).filter(Boolean);
   if (ids.length) {
     await db.query(
-      `UPDATE products SET indexed_at = NOW() WHERE id IN (${ids.map(() => '?').join(',')})`,
-      ids
+      `UPDATE products SET indexed_at = NOW() WHERE id = ANY(?)`,
+      [ids]
     ).catch(e => console.error('[rag] indexed_at update failed:', e.message));
   }
 }
@@ -587,7 +585,7 @@ async function indexPendingProducts() {
   const [rows] = await db.query(
     `SELECT id, title, price, category, description
      FROM products
-     WHERE is_active = 1 AND indexed_at IS NULL
+     WHERE is_active = true AND indexed_at IS NULL
      ORDER BY id ASC
      LIMIT 500`
   );
@@ -609,7 +607,7 @@ async function reindexAllProducts() {
   const [rows] = await db.query(
     `SELECT id, title, price, category, description
      FROM products
-     WHERE is_active = 1
+     WHERE is_active = true
      ORDER BY id ASC`
   );
 
@@ -641,7 +639,7 @@ async function reindexAllProducts() {
   }
 
   await db.query(
-    `UPDATE products SET indexed_at = NOW() WHERE is_active = 1`
+    `UPDATE products SET indexed_at = NOW() WHERE is_active = true`
   );
 
   return { indexed: rows.length };
@@ -658,7 +656,7 @@ async function createScrapingJob(query, sources, { priority = 1 } = {}) {
   try {
     await db.query(
       `INSERT INTO search_jobs (id, query, sources, status, priority, created_at, expires_at)
-       VALUES (?, ?, ?, 'pending', ?, NOW(), DATE_ADD(NOW(), INTERVAL ? SECOND))`,
+       VALUES (?, ?, ?, 'pending', ?, NOW(), NOW() + (? * INTERVAL '1 second'))`,
       [jobId, query, JSON.stringify(srcArr), priority, cfg.JOBS.TTL_SECONDS]
     );
   } catch (err) {

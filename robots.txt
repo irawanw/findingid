@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /go/
+Disallow: /api/
+Disallow: /admin191/
+
+Sitemap: https://finding.id/sitemap.xml

@@ -60,10 +60,10 @@ async function fetchAndUpsert() {
     await db.query(
       `INSERT INTO proxies (ip, port, protocol, anonymity, score, last_seen)
        VALUES (?, ?, ?, ?, ?, NOW())
-       ON DUPLICATE KEY UPDATE
-         protocol  = VALUES(protocol),
-         anonymity = VALUES(anonymity),
-         score     = VALUES(score),
+       ON CONFLICT (ip, port) DO UPDATE SET
+         protocol  = EXCLUDED.protocol,
+         anonymity = EXCLUDED.anonymity,
+         score     = EXCLUDED.score,
          last_seen = NOW()`,
       [p.ip, p.port, p.protocol, p.anonymity || null, p.score || 0]
     );
@@ -79,7 +79,7 @@ async function checkAll() {
   const [rows] = await db.query(
     `SELECT id, ip, port FROM proxies
      WHERE last_checked IS NULL
-        OR last_checked < NOW() - INTERVAL ${STALE_MINUTES} MINUTE
+        OR last_checked < NOW() - INTERVAL '${STALE_MINUTES} minutes'
      ORDER BY last_checked ASC`
   );
 
@@ -99,18 +99,19 @@ async function checkAll() {
         `UPDATE proxies SET
            is_healthy   = ?,
            latency_ms   = ?,
-           fail_count   = IF(? = 1, 0, LEAST(fail_count + 1, 10)),
+           fail_count   = CASE WHEN ? THEN 0 ELSE LEAST(fail_count + 1, 10) END,
            last_checked = NOW()
          WHERE id = ?`,
-        [ok ? 1 : 0, ok ? latency : null, ok ? 1 : 0, row.id]
+        [ok, ok ? latency : null, ok, row.id]
       );
     }));
   }
 
   const [[{ healthy, total }]] = await db.query(
     `SELECT COUNT(*) as total,
-            SUM(is_healthy = 1 AND fail_count < ${MAX_FAIL_COUNT}) as healthy
-     FROM proxies`
+            SUM(CASE WHEN is_healthy = true AND fail_count < ${MAX_FAIL_COUNT} THEN 1 ELSE 0 END) as healthy
+     FROM proxies`,
+    []
   );
   console.log(`[proxy] check done — ${healthy}/${total} healthy`);
 }

@@ -23,7 +23,7 @@ async function generateAndSave(productId) {
     const [rows] = await db.query(
       `SELECT id, title, price, category, rating, sold_count, seller_name, seller_rating, location,
               description, specs, attributes_json, reviews_json, ai_analysis
-       FROM products WHERE id = ? AND is_active = 1 LIMIT 1`,
+       FROM products WHERE id = ? AND is_active = true LIMIT 1`,
       [productId]
     );
     if (!rows.length) return null;

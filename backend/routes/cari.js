@@ -107,7 +107,7 @@ router.get('/:slug', async (req, res) => {
     if (def.cat) {
       sql    = `SELECT id, title, price, rating, sold_count, source, link, affiliate_link, image_url
                 FROM products
-                WHERE is_active = 1 AND category = ?
+                WHERE is_active = true AND category = ?
                   AND title LIKE ?
                 ORDER BY (rating * 0.5 + LN(1 + COALESCE(sold_count,0)) * 0.5) DESC
                 LIMIT 9`;
@@ -115,7 +115,7 @@ router.get('/:slug', async (req, res) => {
     } else {
       sql    = `SELECT id, title, price, rating, sold_count, source, link, affiliate_link, image_url
                 FROM products
-                WHERE is_active = 1
+                WHERE is_active = true
                   AND (title LIKE ? OR title LIKE ?)
                 ORDER BY (rating * 0.5 + LN(1 + COALESCE(sold_count,0)) * 0.5) DESC
                 LIMIT 9`;

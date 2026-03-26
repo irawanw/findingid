@@ -36,14 +36,14 @@ router.get('/queue', authCheck, async (req, res) => {
     `SELECT id, source_item_id, link, title
      FROM products
      WHERE source = 'shopee'
-       AND is_active = 1
-       AND enrich_done = 0
+       AND is_active = true
+       AND enrich_done = false
        AND (
          (COALESCE(sold_count, 0) >= 1000  AND COALESCE(rating, 0) >= 4.5 AND COALESCE(price, 0) >= 300000) OR
          (COALESCE(sold_count, 0) >= 5000  AND COALESCE(rating, 0) >= 4.5 AND COALESCE(price, 0) >= 100000) OR
          (COALESCE(sold_count, 0) >= 10000 AND COALESCE(rating, 0) >= 4.8 AND COALESCE(price, 0) >= 50000)
        )
-     ORDER BY (COALESCE(rating, 0) * 0.4 + LOG(1 + COALESCE(sold_count, 0)) * 0.6) DESC, updated_at ASC
+     ORDER BY (COALESCE(rating, 0) * 0.4 + LN(1 + COALESCE(sold_count, 0)) * 0.6) DESC, updated_at ASC
      LIMIT 1`
   );
 
@@ -56,7 +56,7 @@ router.get('/queue', authCheck, async (req, res) => {
 
   // Mark as in-progress so concurrent queue calls skip this product
   await db.query(
-    'UPDATE products SET enrich_done = 1, enrich_attempted_at = NOW() WHERE id = ?',
+    'UPDATE products SET enrich_done = true, enrich_attempted_at = NOW() WHERE id = ?',
     [p.id]
   );
 
@@ -193,7 +193,7 @@ router.post('/', authCheck, async (req, res) => {
   }
 
   updates.push('updated_at = NOW()');
-  updates.push('enrich_done = 1');
+  updates.push('enrich_done = true');
   updates.push('enrich_attempted_at = NOW()');
   params.push(product.id);
 
@@ -278,7 +278,7 @@ router.post('/', authCheck, async (req, res) => {
   setImmediate(async () => {
     try {
       const [ins] = await db.query(
-        'INSERT IGNORE INTO shortvideo_jobs (product_id, status) VALUES (?, ?)',
+        'INSERT INTO shortvideo_jobs (product_id, status) VALUES (?, ?) ON CONFLICT (product_id) DO NOTHING',
         [product.id, 'pending_script']
       );
       if (!ins.affectedRows) return; // job already existed

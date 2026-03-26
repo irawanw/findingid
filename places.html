@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Primary Meta -->
+<title>finding.id Places — Temukan Tempat Terbaik di Indonesia</title>
+<meta name="description" content="Cari restoran, salon, klinik, hotel, dan tempat usaha terbaik di Indonesia dengan AI. finding.id Places langsung carikan dari Google Maps — lengkap dengan rating, alamat, jam buka, dan ulasan nyata.">
+<meta name="keywords" content="cari tempat, restoran terbaik, salon terdekat, klinik dekat sini, hotel, tempat makan, finding.id places, AI Maps Indonesia">
+<meta name="author" content="finding.id">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#F97316">
+<link rel="canonical" href="https://finding.id/places">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://finding.id/places">
+<meta property="og:title" content="finding.id Places — Temukan Tempat Terbaik di Indonesia">
+<meta property="og:description" content="Tanya AI kami, dapat rekomendasi tempat terbaik di kotamu — restoran, salon, klinik, hotel, dan lainnya dari Google Maps.">
+<meta property="og:image" content="https://finding.id/og-image.png">
+<meta property="og:locale" content="id_ID">
+<meta property="og:site_name" content="finding.id">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://finding.id/places">
+<meta name="twitter:title" content="finding.id Places — Temukan Tempat Terbaik di Indonesia">
+<meta name="twitter:description" content="Tanya AI kami, dapat rekomendasi tempat terbaik di kotamu — restoran, salon, klinik, hotel, dan lainnya dari Google Maps.">
+<meta name="twitter:image" content="https://finding.id/og-image.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   finding.id Places — Design System
+   Theme: Clumsy Orange · Monospace · Minimal · Fast
+   ============================================================ */
+
+:root {
+  --bg:           #FFF8F3;
+  --surface:      #FFFFFF;
+  --surface-2:    #FFF3EB;
+  --orange:       #F97316;
+  --orange-dark:  #C2410C;
+  --orange-mid:   #EA580C;
+  --orange-light: #FED7AA;
+  --orange-faint: #FFF7ED;
+  --orange-glow:  rgba(249, 115, 22, 0.12);
+  --text:         #1C1917;
+  --text-sub:     #57534E;
+  --text-muted:   #A8A29E;
+  --border:       #F0D5C0;
+  --border-focus: #F97316;
+  --radius:       10px;
+  --radius-sm:    6px;
+  --font:         'JetBrains Mono', 'Courier New', monospace;
+  --shadow:       0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(249,115,22,0.06);
+  --shadow-hover: 0 4px 16px rgba(249,115,22,0.14);
+}
+
+*,*::before,*::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  font-size: 13px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+@keyframes fadeIn  { from { opacity:0; transform:translateY(10px) } to { opacity:1; transform:translateY(0) } }
+@keyframes blink   { 0%,100% { opacity:1 } 50% { opacity:0 } }
+@keyframes pulseDot { 0%,100% { opacity:.3; transform:scale(.75) } 50% { opacity:1; transform:scale(1) } }
+@keyframes shimmer  { 0% { background-position:-400px 0 } 100% { background-position:400px 0 } }
+
+/* ── App shell ────────────────────────────────────────────── */
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  animation: fadeIn 0.45s ease-out;
+  padding-bottom: 60px;
+}
+
+/* ── Hero ─────────────────────────────────────────────────── */
+.hero {
+  text-align: center;
+  padding: 72px 24px 44px;
+  transition: padding 0.35s cubic-bezier(.4,0,.2,1);
+  width: 100%;
+}
+.hero.compact { padding: 20px 24px 12px; }
+
+.logo {
+  font-size: 3.4rem;
+  font-weight: 700;
+  letter-spacing: -3px;
+  color: var(--text);
+  line-height: 1;
+  margin-bottom: 10px;
+  user-select: none;
+}
+.logo .dot { color: var(--orange); }
+.logo .id  { color: var(--orange-dark); }
+.logo .places { font-size: 1.8rem; color: var(--orange-dark); letter-spacing: -1px; }
+
+.hero.compact .logo       { font-size: 1.55rem; letter-spacing: -1.5px; margin-bottom: 4px; }
+.hero.compact .logo .places { font-size: 1rem; }
+
+.tagline {
+  font-size: 0.72rem;
+  font-weight: 400;
+  color: var(--text-muted);
+  letter-spacing: 3.5px;
+  text-transform: uppercase;
+}
+.hero.compact .tagline { font-size: 0.62rem; letter-spacing: 2.5px; }
+
+/* ── Nav breadcrumb ───────────────────────────────────────── */
+.nav-bar {
+  width: 100%;
+  max-width: 780px;
+  padding: 8px 20px 0;
+  font-size: 11px;
+  color: var(--text-muted);
+}
+.nav-bar a { color: var(--orange); text-decoration: none; }
+.nav-bar a:hover { text-decoration: underline; }
+
+/* ── Search container ─────────────────────────────────────── */
+.search-wrap {
+  width: 100%;
+  max-width: 780px;
+  padding: 0 20px;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--bg);
+  padding-bottom: 10px;
+  padding-top: 4px;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: 12px;
+  padding: 4px 4px 4px 14px;
+  gap: 8px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  box-shadow: var(--shadow);
+}
+.search-box:focus-within {
+  border-color: var(--border-focus);
+  box-shadow: 0 0 0 4px var(--orange-glow), var(--shadow);
+}
+
+.search-icon { color: var(--text-muted); font-size: 18px; line-height: 1; flex-shrink: 0; font-style: normal; }
+
+.search-input {
+  flex: 1;
+  border: none;
+  outline: none;
+  font-family: var(--font);
+  font-size: 15px;
+  color: var(--text);
+  background: transparent;
+  padding: 10px 0;
+  min-width: 0;
+}
+.search-input::placeholder { color: var(--text-muted); }
+
+.search-btn {
+  background: var(--orange);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 18px;
+  font-family: var(--font);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s;
+  letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+  height: 38px;
+  white-space: nowrap;
+}
+.search-btn:hover   { background: var(--orange-mid); }
+.search-btn:active  { transform: scale(0.97); }
+.search-btn:disabled{ background: var(--orange-light); cursor: not-allowed; }
+
+/* ── Suggestion chips ─────────────────────────────────────── */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  padding: 0 20px 36px;
+  max-width: 780px;
+  width: 100%;
+}
+.chips.hidden { display: none; }
+.chip {
+  padding: 6px 14px;
+  background: var(--orange-faint);
+  border: 1px solid var(--orange-light);
+  border-radius: 20px;
+  font-size: 12px;
+  color: var(--orange-dark);
+  cursor: pointer;
+  transition: all 0.15s;
+  font-family: var(--font);
+  white-space: nowrap;
+}
+.chip:hover { background: var(--orange-light); border-color: var(--orange); color: var(--text); }
+
+/* ── Chat area ────────────────────────────────────────────── */
+.chat {
+  width: 100%;
+  max-width: 780px;
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+/* ── Empty state ──────────────────────────────────────────── */
+.empty {
+  text-align: center;
+  padding: 80px 20px;
+  color: var(--text-muted);
+  animation: fadeIn 0.5s ease-out;
+}
+.empty-glyph { font-size: 52px; margin-bottom: 20px; opacity: .35; display: block; letter-spacing: -4px; }
+.empty-title { font-size: 14px; color: var(--text-sub); margin-bottom: 8px; }
+.empty-sub   { font-size: 10px; letter-spacing: 2.5px; text-transform: uppercase; opacity: .6; }
+
+/* ── Messages ─────────────────────────────────────────────── */
+.msg { animation: fadeIn 0.3s ease-out; }
+.msg-user { display: flex; justify-content: flex-end; }
+.msg-user .bubble {
+  background: var(--orange);
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: 12px 12px 2px 12px;
+  max-width: 82%;
+  font-size: 13px;
+  line-height: 1.4;
+  word-break: break-word;
+}
+
+.msg-ai { display: flex; flex-direction: column; gap: 12px; }
+.ai-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--text-muted);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.ai-orb {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: var(--orange);
+  flex-shrink: 0;
+}
+
+.ai-body {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text);
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.cursor {
+  display: inline-block;
+  width: 2px; height: 15px;
+  background: var(--orange);
+  margin-left: 2px;
+  vertical-align: text-bottom;
+  animation: blink 0.8s step-end infinite;
+}
+
+/* ── Status bar ───────────────────────────────────────────── */
+.status { display: flex; align-items: center; gap: 8px; font-size: 11px; color: var(--text-muted); padding: 2px 0; }
+.status-dot { width: 6px; height: 6px; border-radius: 50%; background: #10B981; flex-shrink: 0; }
+.status-dot.pulsing { background: var(--orange); animation: pulseDot 1s ease-in-out infinite; }
+
+/* ── Loading dots ─────────────────────────────────────────── */
+.ld { display: flex; align-items: center; gap: 8px; color: var(--text-muted); font-size: 12px; }
+.ld-dots { display: flex; gap: 4px; }
+.ld-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--orange); animation: pulseDot 1.2s ease-in-out infinite; }
+.ld-dot:nth-child(2) { animation-delay: 0.2s; }
+.ld-dot:nth-child(3) { animation-delay: 0.4s; }
+
+/* ── Places grid ──────────────────────────────────────────── */
+.slide-section {
+  width: 100%;
+  animation: fadeIn 0.4s ease-out;
+}
+.slide-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.slide-label {
+  font-size: 10px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+.places-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+}
+@media (min-width: 480px) { .places-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 700px) { .places-grid { grid-template-columns: repeat(3, 1fr); } }
+
+/* ── Place card ───────────────────────────────────────────── */
+.place-card {
+  background: var(--surface);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+  animation: fadeIn 0.35s ease-out backwards;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.place-card:hover {
+  border-color: var(--orange);
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-2px);
+}
+.place-card.card-chosen {
+  border-color: var(--orange);
+  box-shadow: 0 0 0 1px var(--orange-light);
+}
+
+.place-img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  background: var(--orange-faint);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.place-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.badge-ai {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  background: var(--orange);
+  color: #fff;
+  font-size: 9px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+  letter-spacing: 0.4px;
+  z-index: 1;
+}
+.badge-maps {
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  background: rgba(0,0,0,0.55);
+  color: #fff;
+  font-size: 9px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.place-body { padding: 10px 12px 12px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
+.place-name {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--orange-dark);
+  line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.place-category {
+  font-size: 9px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.place-rating {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 10px;
+}
+.place-stars { color: #F59E0B; letter-spacing: -1px; font-size: 11px; }
+.place-rev-count { color: var(--text-muted); }
+.place-address {
+  font-size: 10px;
+  color: var(--text-sub);
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.place-addr-icon { opacity: .6; margin-right: 2px; }
+
+.place-actions {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-top: 2px;
+}
+.place-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 8px;
+  border-radius: var(--radius-sm);
+  font-size: 9px;
+  font-weight: 600;
+  font-family: var(--font);
+  text-decoration: none;
+  border: 1px solid;
+  transition: all 0.15s;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.btn-maps {
+  background: var(--orange-faint);
+  color: var(--orange-dark);
+  border-color: var(--orange-light);
+}
+.btn-maps:hover { background: var(--orange-light); }
+.btn-wa {
+  background: #F0FDF4;
+  color: #15803D;
+  border-color: #BBF7D0;
+}
+.btn-wa:hover { background: #DCFCE7; }
+.btn-web {
+  background: var(--surface-2);
+  color: var(--text-sub);
+  border-color: var(--border);
+}
+.btn-web:hover { background: var(--orange-faint); color: var(--orange-dark); border-color: var(--orange-light); }
+
+/* ── Error ────────────────────────────────────────────────── */
+.err {
+  padding: 12px 16px;
+  background: #FEF2F2;
+  border: 1px solid #FECACA;
+  border-radius: var(--radius-sm);
+  color: #DC2626;
+  font-size: 13px;
+}
+
+/* ── Footer ───────────────────────────────────────────────── */
+.footer {
+  border-top: 1px solid var(--border);
+  background: rgba(255, 248, 243, 0.97);
+  padding: 24px 20px 16px;
+  margin-top: 32px;
+  width: 100%;
+}
+.footer-copy {
+  text-align: center;
+  font-size: 10px;
+  color: var(--text-muted);
+  letter-spacing: 1.5px;
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+::-webkit-scrollbar       { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--orange-light); }
+
+@media (max-width: 640px) {
+  .logo { font-size: 2.4rem; letter-spacing: -2px; }
+  .logo .places { font-size: 1.3rem; }
+  .hero { padding: 48px 20px 28px; }
+  .search-input { font-size: 14px; }
+  .search-btn span:last-child { display: none; }
+}
+</style>
+</head>
+<body>
+
+<div class="app" id="app">
+
+  <!-- ── Hero ──────────────────────────────────────────────── -->
+  <div class="hero" id="hero">
+    <div class="logo">finding<span class="dot">.</span><span class="id">id</span> <span class="places">Places</span></div>
+    <div class="tagline">AI Places Intelligence</div>
+  </div>
+
+  <!-- ── Search ────────────────────────────────────────────── -->
+  <div class="search-wrap">
+    <div class="search-box">
+      <i class="search-icon">📍</i>
+      <input
+        type="text"
+        id="q"
+        class="search-input"
+        placeholder="Cari restoran, salon, klinik, hotel di kota mana..."
+        autocomplete="off"
+        spellcheck="false"
+        aria-label="Search places"
+      >
+      <button class="search-btn" id="searchBtn" onclick="go()">
+        <span>Cari</span>
+        <span>↵</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- ── Chips ─────────────────────────────────────────────── -->
+  <div class="chips" id="chips"></div>
+
+  <!-- ── Chat ──────────────────────────────────────────────── -->
+  <div class="chat" id="chat">
+    <div class="empty" id="empty">
+      <span class="empty-glyph">📍◈📍</span>
+      <div class="empty-title">Temukan tempat terbaik di kotamu</div>
+      <div class="empty-sub">Restoran &middot; Salon &middot; Klinik &middot; Hotel &middot; +lainnya</div>
+    </div>
+  </div>
+
+</div>
+
+<!-- ── Footer ──────────────────────────────────────────────── -->
+<footer class="footer">
+  <div class="footer-copy">
+    finding.id Places &mdash; AI Places Intelligence &mdash; 2025
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="/" style="color:var(--orange);text-decoration:none;font-weight:700">🛒 Marketplace</a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="/deals" style="color:var(--orange);text-decoration:none;font-weight:700">📉 Deals</a>
+  </div>
+</footer>
+
+<script>
+// ================================================================
+// finding.id Places — Frontend
+// POST /api/places/search → SSE stream
+// Events: status | token | replace | places | done | error
+// ================================================================
+
+const API = '';
+let busy = false;
+let ctrl = null;
+let lastQuery = '';
+
+// ── Entry point ───────────────────────────────────────────────
+async function go() {
+  const inp = document.getElementById('q');
+  const q   = inp.value.trim();
+  if (!q || busy) return;
+
+  if (ctrl) ctrl.abort();
+  ctrl = new AbortController();
+
+  inp.value = '';
+  busy = true;
+
+  document.getElementById('hero').classList.add('compact');
+  document.getElementById('chips').classList.add('hidden');
+  document.getElementById('empty')?.remove();
+
+  lastQuery = q;
+  const chat = document.getElementById('chat');
+  addUser(q, chat);
+
+  const { aiEl, textEl, ldEl, statusEl } = addAI(chat);
+  setBusy(true);
+
+  try {
+    await stream(q, textEl, ldEl, statusEl, aiEl, ctrl.signal);
+  } catch(e) {
+    if (e.name !== 'AbortError') {
+      ldEl.style.display = 'none';
+      textEl.innerHTML = '';
+      textEl.style.color = '#DC2626';
+      const errMsg = document.createElement('span');
+      errMsg.textContent = '⚠ Gagal terhubung ke server. ';
+      const retryBtn = document.createElement('button');
+      retryBtn.textContent = 'Coba lagi →';
+      retryBtn.style.cssText = 'background:none;border:none;color:#DC2626;text-decoration:underline;cursor:pointer;font:inherit;padding:0;';
+      retryBtn.onclick = () => { inp.value = q; go(); };
+      textEl.appendChild(errMsg);
+      textEl.appendChild(retryBtn);
+    }
+  } finally {
+    busy = false;
+    setBusy(false);
+    ctrl = null;
+  }
+}
+
+// ── SSE Streaming ─────────────────────────────────────────────
+async function stream(query, textEl, ldEl, statusEl, container, signal) {
+  const res = await fetch(`${API}/api/places/search`, {
+    method:  'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body:    JSON.stringify({ query }),
+    signal
+  });
+
+  if (!res.ok) throw new Error(`HTTP ${res.status}: ${res.statusText}`);
+
+  const reader = res.body.getReader();
+  const dec    = new TextDecoder();
+  let   buf    = '';
+  let   text   = '';
+  let   cursor = textEl.querySelector('.cursor');
+
+  let charQueue   = '';
+  let typingTimer = null;
+  const CHAR_DELAY = 2;
+
+  function flushChar() {
+    if (!charQueue.length) { typingTimer = null; return; }
+    const cp = charQueue.codePointAt(0);
+    const ch = String.fromCodePoint(cp);
+    charQueue = charQueue.slice(ch.length);
+    text += ch;
+    textEl.innerHTML = mdToHtml(text);
+    if (cursor) textEl.appendChild(cursor);
+    typingTimer = setTimeout(flushChar, CHAR_DELAY);
+  }
+
+  function enqueue(chunk) {
+    charQueue += chunk;
+    if (!typingTimer) typingTimer = setTimeout(flushChar, CHAR_DELAY);
+  }
+
+  function waitTypingDone() {
+    return new Promise(resolve => {
+      (function check() {
+        if (!charQueue.length && !typingTimer) return resolve();
+        setTimeout(check, 50);
+      })();
+    });
+  }
+
+  let deferredDone  = null;
+  let deferredError = null;
+
+  while (true) {
+    let done, value;
+    try {
+      ({ done, value } = await reader.read());
+    } catch (_) {
+      if (deferredDone) break;
+      throw _;
+    }
+    if (done) break;
+
+    buf += dec.decode(value, { stream: true });
+    const lines = buf.split('\n');
+    buf = lines.pop();
+
+    for (const line of lines) {
+      if (!line.startsWith('data: ')) continue;
+      const raw = line.slice(6).trim();
+      if (!raw || raw === '[DONE]') continue;
+
+      let ev;
+      try { ev = JSON.parse(raw); } catch { continue; }
+
+      switch (ev.type) {
+        case 'status':
+          ldEl.style.display = 'none';
+          setStatus(statusEl, ev.message, true);
+          break;
+
+        case 'token':
+          ldEl.style.display = 'none';
+          enqueue(ev.content);
+          break;
+
+        case 'replace':
+          charQueue = '';
+          text = ev.content;
+          textEl.innerHTML = mdToHtml(text);
+          break;
+
+        case 'places':
+          renderPlaces(ev.data, container, ev.preliminary);
+          break;
+
+        case 'done':
+          deferredDone = ev;
+          break;
+
+        case 'error':
+          deferredError = ev;
+          break;
+      }
+    }
+  }
+
+  await waitTypingDone();
+
+  if (deferredError) {
+    if (cursor) cursor.remove();
+    ldEl.style.display = 'none';
+    textEl.textContent = `⚠ ${deferredError.message}`;
+    textEl.style.color = '#DC2626';
+  } else if (deferredDone) {
+    const ev = deferredDone;
+    if (cursor) cursor.remove();
+    setStatus(statusEl, `${ev.sources ?? 0} tempat · ${ev.duration ?? 0}ms`, false);
+    statusEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }
+}
+
+// ── DOM builders ──────────────────────────────────────────────
+function addUser(text, chat) {
+  const d = document.createElement('div');
+  d.className = 'msg msg-user';
+  d.innerHTML = `<div class="bubble">${esc(text)}</div>`;
+  chat.appendChild(d);
+  d.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function addAI(chat) {
+  const d = document.createElement('div');
+  d.className = 'msg msg-ai';
+  d.innerHTML = `
+    <div class="ai-header">
+      <div class="ai-orb"></div>
+      finding.id Places
+    </div>
+    <div class="ld" id="ld_${Date.now()}">
+      <div class="ld-dots">
+        <div class="ld-dot"></div>
+        <div class="ld-dot"></div>
+        <div class="ld-dot"></div>
+      </div>
+      <span>Mencari tempat...</span>
+    </div>
+    <div class="ai-body"></div>
+    <div class="status" style="display:none"></div>
+  `;
+  chat.appendChild(d);
+
+  const textEl   = d.querySelector('.ai-body');
+  const ldEl     = d.querySelector('.ld');
+  const statusEl = d.querySelector('.status');
+
+  const cursor = document.createElement('span');
+  cursor.className = 'cursor';
+  textEl.appendChild(cursor);
+
+  d.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  return { aiEl: d, textEl, ldEl, statusEl };
+}
+
+function setStatus(el, msg, pulsing) {
+  el.style.display = 'flex';
+  el.innerHTML = `<div class="status-dot${pulsing ? ' pulsing' : ''}"></div><span>${esc(msg)}</span>`;
+}
+
+// ── Place cards ────────────────────────────────────────────────
+function renderPlaces(places, container, preliminary) {
+  if (!Array.isArray(places) || !places.length) return;
+
+  // Remove previous section if any
+  container.querySelector('.slide-section')?.remove();
+
+  const section = document.createElement('div');
+  section.className = 'slide-section';
+  section.innerHTML = `
+    <div class="slide-header">
+      <span class="slide-label">▸ ${places.length} tempat ditemukan${preliminary ? ' (loading...)' : ''}</span>
+    </div>
+    <div class="places-grid" id="placesGrid"></div>
+  `;
+
+  const grid = section.querySelector('#placesGrid');
+
+  places.forEach((p, i) => {
+    const card = document.createElement('div');
+    card.className = 'place-card' + (p.is_chosen ? ' card-chosen' : '');
+    card.style.animationDelay = `${i * 0.07}s`;
+
+    // Pick first image
+    let imgHtml = '<span>📍</span>';
+    const imgs = Array.isArray(p.images) ? p.images : [];
+    if (imgs.length) {
+      imgHtml = `<img src="${escA(imgs[0])}" alt="${escA(p.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='📍'">`;
+    }
+
+    // Rating stars
+    const stars = buildStars(p.rating);
+    const reviewCount = p.reviews ? `(${fmtNum(p.reviews)})` : '';
+    const ratingStr   = p.rating  ? `${parseFloat(p.rating).toFixed(1)}` : '';
+
+    // Action buttons
+    const actions = [];
+    if (p.maps_url) {
+      actions.push(`<a class="place-btn btn-maps" href="${escA(p.maps_url)}" target="_blank" rel="noopener noreferrer">🗺 Maps</a>`);
+    }
+    if (p.phone && p.has_wa) {
+      const waNum = p.phone.replace(/\D/g, '').replace(/^0/, '62');
+      actions.push(`<a class="place-btn btn-wa" href="https://wa.me/${escA(waNum)}" target="_blank" rel="noopener noreferrer">💬 WA</a>`);
+    } else if (p.phone) {
+      actions.push(`<a class="place-btn btn-web" href="tel:${escA(p.phone)}" target="_blank" rel="noopener noreferrer">📞 Telp</a>`);
+    }
+    if (p.website) {
+      actions.push(`<a class="place-btn btn-web" href="${escA(p.website)}" target="_blank" rel="noopener noreferrer">🌐 Web</a>`);
+    }
+
+    card.innerHTML = `
+      ${p.is_chosen ? `<div class="badge-ai">AI #${p.chosen_rank}</div>` : ''}
+      <div class="place-img">${imgHtml}</div>
+      <div class="place-body">
+        <div class="place-name">${esc(p.name || '—')}</div>
+        ${p.category ? `<div class="place-category">${esc(p.category)}</div>` : ''}
+        ${ratingStr ? `
+        <div class="place-rating">
+          <span class="place-stars">${stars}</span>
+          <span style="font-weight:600">${esc(ratingStr)}</span>
+          ${reviewCount ? `<span class="place-rev-count">${esc(reviewCount)}</span>` : ''}
+        </div>` : ''}
+        ${p.address ? `<div class="place-address"><span class="place-addr-icon">📍</span>${esc(p.address)}</div>` : ''}
+        ${actions.length ? `<div class="place-actions">${actions.join('')}</div>` : ''}
+      </div>
+    `;
+    grid.appendChild(card);
+  });
+
+  container.appendChild(section);
+  section.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+// ── Utilities ──────────────────────────────────────────────────
+function setBusy(v) {
+  const btn = document.getElementById('searchBtn');
+  btn.disabled = v;
+  btn.innerHTML = v
+    ? `<div class="ld-dots">
+         <div class="ld-dot" style="background:#fff"></div>
+         <div class="ld-dot" style="background:#fff;animation-delay:.2s"></div>
+         <div class="ld-dot" style="background:#fff;animation-delay:.4s"></div>
+       </div>`
+    : `<span>Cari</span><span>↵</span>`;
+}
+
+const CHIP_POOL = [
+  'restoran Padang Jakarta','salon kecantikan Surabaya',
+  'klinik gigi Bandung','hotel bintang 3 Bali',
+  'barbershop Jakarta Selatan','kafe aesthetic Jogja',
+  'apotek 24 jam Bekasi','gym fitness Tangerang',
+];
+
+function fill(el) {
+  const inp = document.getElementById('q');
+  inp.value = el.textContent;
+  inp.focus();
+}
+
+(function renderChips() {
+  const el = document.getElementById('chips');
+  if (!el) return;
+  const pool = [...CHIP_POOL].sort(() => Math.random() - 0.5).slice(0, 4);
+  el.innerHTML = pool.map(kw => `<div class="chip" onclick="fill(this)">${kw}</div>`).join('');
+})();
+
+function fmtNum(n) {
+  const v = parseInt(n) || 0;
+  if (v >= 1000) return (v / 1000).toFixed(1).replace(/\.0$/, '') + 'rb';
+  return String(v);
+}
+
+function buildStars(r) {
+  const n = Math.round(Math.max(0, Math.min(5, r || 0)));
+  return '★'.repeat(n) + '☆'.repeat(5 - n);
+}
+
+function mdToHtml(s) {
+  const parts = s.split(/(<a\s[^>]*>[\s\S]*?<\/a>)/);
+  return parts.map((part, i) => {
+    if (i % 2 === 1) return part;
+    return esc(part)
+      .replace(/\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g,
+        (_, text, url) => `<a href="${escA(url)}" target="_blank" rel="noopener noreferrer" style="color:var(--orange)">${text}</a>`)
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*(.+?)\*/g,     '<em>$1</em>')
+      .replace(/`(.+?)`/g,       '<code style="background:var(--orange-faint);padding:1px 5px;border-radius:3px">$1</code>')
+      .replace(/\n/g,            '<br>');
+  }).join('');
+}
+
+function esc(s) {
+  return String(s)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function escA(s) {
+  return String(s).replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+// ── Keyboard ───────────────────────────────────────────────────
+document.getElementById('q').addEventListener('keydown', e => {
+  if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); go(); }
+  if (e.key === 'Escape' && ctrl)       { ctrl.abort(); busy = false; setBusy(false); }
+});
+
+// ── Auto-focus ─────────────────────────────────────────────────
+document.getElementById('q').focus();
+
+// ── URL param auto-search ──────────────────────────────────────
+(function checkUrlParam() {
+  const params = new URLSearchParams(location.search);
+  const q = params.get('q');
+  if (q) {
+    document.getElementById('q').value = q;
+    setTimeout(go, 100);
+  }
+})();
+</script>
+</body>
+</html>

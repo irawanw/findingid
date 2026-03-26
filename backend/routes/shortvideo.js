@@ -66,7 +66,7 @@ router.get('/jobs', async (req, res) => {
 router.get('/jobs/:id', async (req, res) => {
   try {
     const [rows] = await db.query(`
-      SELECT j.*, p.title AS product_title, p.images_json
+      SELECT j.*, p.title AS product_title, p.images_json, p.ai_analysis
       FROM shortvideo_jobs j
       LEFT JOIN products p ON p.id = j.product_id
       WHERE j.id = ?
@@ -175,7 +175,7 @@ router.post('/jobs/:id/regen-analysis', async (req, res) => {
     if (!rows.length) return res.status(404).json({ error: 'Not found' });
     const { product_id } = rows[0];
 
-    await db.query('UPDATE products SET ai_analysis=NULL, ai_analysis_at=NULL, enrich_attempted_at=NULL WHERE id=?', [product_id]);
+    await db.query('UPDATE products SET ai_analysis=NULL, enrich_attempted_at=NULL WHERE id=?', [product_id]);
 
     const { generateAndSave } = require('../services/productAnalysis');
     generateAndSave(product_id).then(r => {

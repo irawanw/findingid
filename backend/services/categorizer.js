@@ -1,49 +1,16 @@
 'use strict';
 const vllm = require('./vllm');
+const { CATEGORIES } = require('./taxonomy');
 
 // ================================================================
 // Product Categorizer — uses vLLM to classify product titles
-// into simplified category buckets (≈25 entries).
-//
-// Rationale: the old 300-entry Shopee leaf list caused the LLM to
-// drift toward accessory/sub-categories (e.g. "Handphone & Tablet
-// Aksesoris") when the product is clearly a device.  A compact,
-// human-readable taxonomy keeps LLM output accurate and consistent.
+// into the standard category taxonomy defined in taxonomy.js.
 //
 // Price guard (applied AFTER LLM classification):
 //   If price > 1_000_000 IDR  →  the product is NOT an accessory.
 //   Any accessory-like category is automatically promoted to its
 //   parent device category (e.g. phone accessory → Handphone).
 // ================================================================
-
-const CATEGORIES = [
-  'Handphone',
-  'Tablet',
-  'Laptop',
-  'Desktop',
-  'Monitor',
-  'Komponen Komputer',      // CPU, GPU, RAM, SSD, mobo, PSU, cooling
-  'Aksesoris Komputer',     // keyboard, mouse, headset, hub, cable for PC
-  'Aksesoris Handphone',    // case, charger, cable, powerbank, screen protector
-  'Perangkat Audio',        // speaker, earphone, headphone, soundbar
-  'Kamera & Foto',
-  'TV & Perangkat Hiburan', // TV, proyektor, media player, smart box
-  'Konsol & Game',          // PS, Xbox, Nintendo, gaming chair, controller
-  'Perangkat Wearable',     // smartwatch, fitness band, VR headset
-  'Peralatan Rumah Tangga', // AC, kulkas, mesin cuci, vacuum, setrika
-  'Peralatan Dapur',        // microwave, blender, rice cooker, dispenser
-  'Furnitur & Dekorasi',
-  'Pakaian & Fashion',
-  'Sepatu & Tas',
-  'Kecantikan & Perawatan',
-  'Makanan & Minuman',
-  'Olahraga & Outdoor',
-  'Otomotif',               // motor, mobil, aksesoris kendaraan
-  'Buku & Alat Tulis',
-  'Mainan & Anak',
-  'Kesehatan & Medis',
-  'Lainnya',
-];
 
 // Accessory categories that must be overridden when price > 1_000_000
 const ACCESSORY_CATEGORIES = new Set([
@@ -200,4 +167,4 @@ async function classifyProducts(titles, prices = []) {
   });
 }
 
-module.exports = { classifyProducts, applyPriceGuard };
+module.exports = { classifyProducts, applyPriceGuard, matchCategory };

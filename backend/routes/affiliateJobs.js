@@ -34,7 +34,7 @@ router.get('/', authCheck, async (req, res) => {
       `SELECT id, source_item_id, link
        FROM products
        WHERE source = 'shopee'
-         AND is_active = 1
+         AND is_active = true
          AND source_item_id IS NOT NULL
          AND link IS NOT NULL
          AND (affiliate_link IS NULL OR affiliate_link = '')

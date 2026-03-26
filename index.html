@@ -290,7 +290,7 @@ body {
 /* ── Empty state ──────────────────────────────────────────── */
 .empty {
   text-align: center;
-  padding: 80px 20px;
+  padding: 20px 20px;
   color: var(--text-muted);
   animation: fadeIn 0.5s ease-out;
 }
@@ -536,6 +536,25 @@ body {
   font-weight: 700;
   color: var(--orange-dark);
   margin-bottom: 4px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+.card-disc {
+  background: #EF4444;
+  color: #fff;
+  font-size: 9px;
+  font-weight: 700;
+  padding: 1px 5px;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+.card-was {
+  font-size: 9px;
+  color: var(--text-muted);
+  text-decoration: line-through;
+  font-weight: 400;
 }
 .card-spec {
   font-size: 9px;
@@ -733,7 +752,7 @@ body {
 
   <!-- ── Search ────────────────────────────────────────────── -->
   <div class="search-wrap">
-    <div class="search-box">
+    <form class="search-box" id="searchForm" onsubmit="go(); return false;">
       <i class="search-icon">⌕</i>
       <input
         type="text"
@@ -744,11 +763,11 @@ body {
         spellcheck="false"
         aria-label="Search query"
       >
-      <button class="search-btn" id="searchBtn" onclick="go()">
+      <button type="submit" class="search-btn" id="searchBtn">
         <span>Cari</span>
         <span>↵</span>
       </button>
-    </div>
+    </form>
   </div>
 
   <!-- ── Chips ─────────────────────────────────────────────── -->
@@ -843,6 +862,24 @@ const _sid = Math.random().toString(36).slice(2, 10) + Date.now().toString(36);
 let chatHistory = []; // [{role:'user',content:...},{role:'assistant',content:...}]
 const HISTORY_MAX_PAIRS = 3;
 
+// ── Geolocation cache ─────────────────────────────────────────
+// Fetched once on first agent query, reused for the session.
+// Only requested when user asks a location-sensitive question.
+let _geo = null; // { lat, lon } or null
+function getGeo() {
+  return new Promise(resolve => {
+    if (_geo) return resolve(_geo);
+    if (!navigator.geolocation) return resolve(null);
+    navigator.geolocation.getCurrentPosition(
+      pos => { _geo = { lat: pos.coords.latitude, lon: pos.coords.longitude }; resolve(_geo); },
+      ()  => resolve(null),
+      { timeout: 5000, maximumAge: 300000 }
+    );
+  });
+}
+// Eagerly warm up geolocation in the background so it's ready when needed
+setTimeout(() => getGeo().catch(() => {}), 2000);
+
 // ── Entry point ──────────────────────────────────────────────
 async function go() {
   const inp = document.getElementById('q');
@@ -899,10 +936,11 @@ async function go() {
 
 // ── SSE Streaming ────────────────────────────────────────────
 async function stream(query, textEl, ldEl, statusEl, container, signal) {
+  const geo = await getGeo().catch(() => null);
   const res = await fetch(`${API}/api/search`, {
     method:  'POST',
     headers: { 'Content-Type': 'application/json' },
-    body:    JSON.stringify({ query, history: chatHistory }),
+    body:    JSON.stringify({ query, history: chatHistory, ...(geo || {}) }),
     signal
   });
 
@@ -1161,13 +1199,16 @@ function renderSlide(products, container, query) {
     const src   = esc((p.source || 'shop').toUpperCase());
     const sold  = (p.sold_count||p.sold) ? fmtNum(p.sold_count||p.sold) + ' terjual' : '';
     const spec  = firstSpec(p.specs);
+    const discHtml = p.best_discount
+      ? `<span class="card-disc">-${p.best_discount.pct}%</span><span class="card-was">${fmtPrice(p.best_discount.price_before)}</span>`
+      : '';
 
     card.innerHTML = `
       ${badge}
       <div class="card-img">${(p.image_url||p.image) ? `<img src="${escA(p.image_url||p.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='📦'">` : '📦'}</div>
       <div class="card-body">
         <div class="card-title">${esc(p.title || 'Produk')}</div>
-        <div class="card-price">${price}</div>
+        <div class="card-price">${price}${discHtml}</div>
         ${spec ? `<div class="card-spec">${esc(spec)}</div>` : ''}
         <div class="card-meta">
           <span class="card-stars">${stars}</span>
@@ -1308,6 +1349,7 @@ function escA(s) {
 }
 
 // ── Popular products on empty state ──────────────────────────
+/* DISABLED
 async function loadPopularProducts() {
   try {
     const res = await fetch('/api/products?sort=category-top&limit=20');
@@ -1373,15 +1415,15 @@ async function loadPopularProducts() {
 
 // ── Keyboard ──────────────────────────────────────────────────
 document.getElementById('q').addEventListener('keydown', e => {
-  if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); go(); }
-  if (e.key === 'Escape' && ctrl)       { ctrl.abort(); busy = false; setBusy(false); }
+  if (e.key === 'Escape' && ctrl) { ctrl.abort(); busy = false; setBusy(false); }
 });
 
 // ── Auto-focus ────────────────────────────────────────────────
 document.getElementById('q').focus();
 
 // Load popular products into empty state on page load
-loadPopularProducts();
+// loadPopularProducts();
+/* END DISABLED */
 </script>
 </body>
 </html>

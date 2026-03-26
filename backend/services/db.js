@@ -1,78 +1,69 @@
 'use strict';
-const mysql  = require('mysql2/promise');
-const cfg    = require('../config/config');
-
 // ================================================================
-// MySQL Connection Pool
-// Uses mysql2 promise API with connection pooling.
-// Pool size matches DB_POOL_SIZE to avoid connection exhaustion.
+// db.js — PostgreSQL shim with MySQL2-compatible API
+//
+// Drop-in replacement for mysql2/promise pool.
+// Key differences handled here:
+//   • ? placeholders  → $1 $2 … (auto-converted)
+//   • Returns [rows]  for SELECT/WITH
+//   • Returns [{affectedRows, insertId, rows}] for INSERT/UPDATE/DELETE
+//   • withTransaction(fn) passes a client with the same .query() shim
 // ================================================================
+const pgdb = require('./pgdb');
 
-let pool;
-
-function getPool() {
-  if (!pool) {
-    pool = mysql.createPool({
-      host:               cfg.DB.HOST,
-      port:               cfg.DB.PORT,
-      database:           cfg.DB.NAME,
-      user:               cfg.DB.USER,
-      password:           cfg.DB.PASS,
-      connectionLimit:    cfg.DB.POOL_SIZE,
-      waitForConnections: true,
-      queueLimit:         0,
-      timezone:           '+07:00',
-      charset:            'utf8mb4',
-      // Keep-alive
-      enableKeepAlive:    true,
-      keepAliveInitialDelay: 10000,
-    });
-    pool.on('connection', () => {
-      if (!cfg.IS_PROD) console.log('[db] new connection established');
-    });
-  }
-  return pool;
+// Convert MySQL ? placeholders to PostgreSQL $1 $2 ...
+function toPostgres(sql) {
+  let i = 0;
+  return sql.replace(/\?/g, () => `$${++i}`);
 }
 
+const SELECT_RE = /^\s*(SELECT|WITH)\b/i;
+
 /**
- * Execute a SQL query with optional parameters.
- * Returns [rows, fields].
+ * Execute a query. Returns [rows] for SELECT, [{affectedRows, insertId, rows}] for DML.
+ * Fully compatible with the mysql2/promise API used across all routes.
  */
 async function query(sql, params = []) {
-  const db = getPool();
-  const [rows, fields] = await db.execute(sql, params);
-  return [rows, fields];
+  const pgSql  = toPostgres(sql);
+  const result = await pgdb.query(pgSql, params);
+
+  if (SELECT_RE.test(sql)) {
+    return [result.rows];
+  }
+
+  // DML — return OkPacket-like object
+  const insertId = result.rows?.[0]?.id ?? 0;
+  return [{
+    affectedRows: result.rowCount,
+    changedRows:  result.rowCount,
+    insertId,
+    rows:         result.rows,
+  }];
 }
 
 /**
- * Transactional helper. Callback receives a connection.
+ * Transactional helper — callback receives a connection with the same query() shim.
  */
 async function withTransaction(fn) {
-  const db   = getPool();
-  const conn = await db.getConnection();
-  await conn.beginTransaction();
-  try {
-    const result = await fn(conn);
-    await conn.commit();
-    conn.release();
-    return result;
-  } catch (err) {
-    await conn.rollback();
-    conn.release();
-    throw err;
-  }
+  return pgdb.withTransaction(async (client) => {
+    const wrappedClient = {
+      query: async (sql, params = []) => {
+        const pgSql  = toPostgres(sql);
+        const result = await client.query(pgSql, params);
+        if (SELECT_RE.test(sql)) return [result.rows];
+        return [{ affectedRows: result.rowCount, insertId: result.rows?.[0]?.id ?? 0, rows: result.rows }];
+      },
+    };
+    return fn(wrappedClient);
+  });
 }
 
-/**
- * Healthcheck — returns true if DB is reachable.
- */
 async function ping() {
-  try {
-    await query('SELECT 1');
-    return true;
-  } catch {
-    return false;
-  }
+  return pgdb.ping();
+}
+
+function getPool() {
+  return pgdb.getPool();
 }
 
 module.exports = { query, withTransaction, ping, getPool };

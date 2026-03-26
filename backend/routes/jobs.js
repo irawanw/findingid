@@ -43,7 +43,7 @@ router.get('/', async (req, res) => {
     const [rows] = await db.query(
       `SELECT id, type, query, sources, source, items, status, priority, created_at
        FROM search_jobs
-       WHERE status = 'pending' AND expires_at > NOW() AND priority >= ?
+       WHERE status = 'pending' AND expires_at > NOW() AND priority >= $1
        ORDER BY priority DESC, created_at ASC
        LIMIT 1`,
       [priorityMin]
@@ -53,7 +53,7 @@ router.get('/', async (req, res) => {
 
     const row = rows[0];
     await db.query(
-      `UPDATE search_jobs SET status = 'claimed', claimed_at = NOW() WHERE id = ?`,
+      `UPDATE search_jobs SET status = 'claimed', claimed_at = NOW() WHERE id = $1`,
       [row.id]
     );
 
@@ -62,9 +62,9 @@ router.get('/', async (req, res) => {
         id:       row.id,
         type:     row.type || 'list',
         query:    row.query,
-        sources:  JSON.parse(row.sources || '["shopee"]'),
+        sources:  Array.isArray(row.sources) ? row.sources : JSON.parse(row.sources || '["shopee"]'),
         source:   row.source || null,
-        items:    row.items ? JSON.parse(row.items) : null,
+        items:    row.items ? (Array.isArray(row.items) ? row.items : JSON.parse(row.items)) : null,
         status:   'claimed',
         priority: row.priority ?? 0,
       }
@@ -100,7 +100,7 @@ router.get('/stream', (req, res) => {
       res.write(`data: ${JSON.stringify({ job: {
         id: row.id, type: row.type || 'list',
         query: row.query,
-        sources: JSON.parse(row.sources || '["shopee","tokopedia"]'),
+        sources: Array.isArray(row.sources) ? row.sources : JSON.parse(row.sources || '["shopee","tokopedia"]'),
         priority: row.priority,
       }})}\n\n`);
     }
@@ -124,7 +124,7 @@ router.post('/:id/claim', async (req, res) => {
   try {
     const [result] = await db.query(
       `UPDATE search_jobs SET status = 'claimed', claimed_at = NOW()
-       WHERE id = ? AND status = 'pending'`,
+       WHERE id = $1 AND status = 'pending'`,
       [req.params.id]
     );
     res.json({ ok: result.affectedRows > 0 });
@@ -166,7 +166,7 @@ router.post('/', async (req, res) => {
   try {
     await db.query(
       `INSERT INTO search_jobs (id, type, query, sources, source, items, status, expires_at)
-       VALUES (?, ?, ?, ?, ?, ?, 'pending', ?)`,
+       VALUES ($1,$2,$3,$4,$5,$6,'pending',$7)`,
       [
         id,
         type,
@@ -192,13 +192,14 @@ router.post('/:id/done', async (req, res) => {
 
   try {
     // Fetch job details before marking done (query + priority)
-    const [[job]] = await db.query(
-      `SELECT query, priority FROM search_jobs WHERE id = ? LIMIT 1`,
+    const [jobRows] = await db.query(
+      `SELECT query, priority FROM search_jobs WHERE id = $1 LIMIT 1`,
       [id]
     ).catch(() => [[null]]);
+    const job = jobRows?.[0] ?? null;
 
     await db.query(
-      `UPDATE search_jobs SET status = 'done', completed_at = NOW(), products_ingested = ? WHERE id = ?`,
+      `UPDATE search_jobs SET status = 'done', completed_at = NOW(), products_ingested = $1 WHERE id = $2`,
       [productsIngested, id]
     ).catch(() => {});
 
@@ -230,14 +231,16 @@ router.post('/:id/done', async (req, res) => {
           } catch (_) {}
 
           let remainingPriority = 0, remainingKeywords = 0;
-          const [[prio]] = await db.query(
-            `SELECT COUNT(*) AS cnt FROM search_jobs WHERE status IN ('pending','claimed') AND priority > 0`
+          const [prioRows] = await db.query(
+            `SELECT COUNT(*) AS cnt FROM search_jobs WHERE status IN ('pending','claimed') AND priority > 0`,
+            []
           ).catch(() => [[{ cnt: 0 }]]);
-          remainingPriority = Number(prio?.cnt || 0);
-          const [[kw]] = await db.query(
-            `SELECT COUNT(*) AS cnt FROM search_jobs WHERE status IN ('pending','claimed') AND priority = 0`
+          remainingPriority = Number(prioRows?.[0]?.cnt || 0);
+          const [kwRows] = await db.query(
+            `SELECT COUNT(*) AS cnt FROM search_jobs WHERE status IN ('pending','claimed') AND priority = 0`,
+            []
           ).catch(() => [[{ cnt: 0 }]]);
-          remainingKeywords = Number(kw?.cnt || 0);
+          remainingKeywords = Number(kwRows?.[0]?.cnt || 0);
 
           await telegram.reportJobDone({
             query:             job.query || '(seeder)',
@@ -278,8 +281,9 @@ router.get('/status', async (req, res) => {
     const [rows] = await db.query(
       `SELECT type, status, COUNT(*) as count
        FROM search_jobs
-       WHERE created_at > DATE_SUB(NOW(), INTERVAL 1 HOUR)
-       GROUP BY type, status`
+       WHERE created_at > NOW() - INTERVAL '1 hour'
+       GROUP BY type, status`,
+      []
     );
     res.json({ statuses: rows });
   } catch (err) {

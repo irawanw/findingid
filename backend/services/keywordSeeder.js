@@ -31,7 +31,7 @@ async function runCycle() {
     const [rows] = await db.query(
       `SELECT id, keyword FROM keyword_seeds
        WHERE last_seeded IS NULL
-          OR last_seeded < DATE_SUB(NOW(), INTERVAL ? HOUR)
+          OR last_seeded < NOW() - (? * INTERVAL '1 hour')
        ORDER BY seed_count ASC, priority DESC, last_seeded ASC
        LIMIT 1`,
       [COOLDOWN_H]
@@ -49,7 +49,7 @@ async function runCycle() {
     try {
       await db.query(
         `INSERT INTO search_jobs (id, query, sources, status, priority, created_at, expires_at)
-         VALUES (?, ?, ?, 'pending', 0, NOW(), DATE_ADD(NOW(), INTERVAL 3600 SECOND))`,
+         VALUES (?, ?, ?, 'pending', 0, NOW(), NOW() + INTERVAL '3600 seconds')`,
         [jobId, row.keyword, JSON.stringify(sources)]
       );
     } catch (err) {
@@ -83,7 +83,7 @@ async function runCycle() {
 async function start() {
   const [[{ pending }]] = await db.query(
     `SELECT COUNT(*) AS pending FROM keyword_seeds
-     WHERE last_seeded IS NULL OR last_seeded < DATE_SUB(NOW(), INTERVAL ? HOUR)`,
+     WHERE last_seeded IS NULL OR last_seeded < NOW() - (? * INTERVAL '1 hour')`,
     [COOLDOWN_H]
   ).catch(() => [[{ pending: '?' }]]);
 
@@ -97,7 +97,7 @@ async function start() {
 
   // Schedule next cycle with a random delay, then repeat with new random delay each time
   function scheduleNext() {
-    const delayMs = (25 + Math.random() * 5) * 60 * 1000; // 25–30 minutes
+    const delayMs = (37.5 + Math.random() * 7.5) * 60 * 1000; // 37.5–45 min (1.5× anti-captcha)
     setTimeout(() => { runCycle(); scheduleNext(); }, delayMs);
   }
   scheduleNext();
@@ -121,7 +121,7 @@ async function syncClickSeeds() {
     const [topClicked] = await db.query(
       `SELECT query, COUNT(*) AS clicks
        FROM affiliate_click_events
-       WHERE query IS NOT NULL AND query != '' AND created_at > DATE_SUB(NOW(), INTERVAL 7 DAY)
+       WHERE query IS NOT NULL AND query != '' AND created_at > NOW() - INTERVAL '7 days'
        GROUP BY query
        ORDER BY clicks DESC
        LIMIT ?`,
@@ -136,7 +136,7 @@ async function syncClickSeeds() {
         await db.query(
           `INSERT INTO keyword_seeds (keyword, category, priority)
            VALUES (?, '', 10)
-           ON DUPLICATE KEY UPDATE priority = GREATEST(priority, 10)`,
+           ON CONFLICT (keyword) DO UPDATE SET priority = GREATEST(keyword_seeds.priority, 10)`,
           [query]
         );
         inserted++;

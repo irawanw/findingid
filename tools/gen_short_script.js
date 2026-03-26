@@ -171,6 +171,100 @@ function buildProductContext(p) {
 // Strip lone UTF-16 surrogates that cause llama.cpp JSON parse errors
 function sanitize(s) { return (s||'').replace(/[\uD800-\uDFFF]/g, ''); }
 
+// ── Number to Indonesian words conversion ──────────────────────────
+// Converts numbers to words to avoid TTS pronouncing them as Chinese/Thai/Mandarin
+const ONES = ['','satu','dua','tiga','empat','lima','enam','tujuh','delapan','sembilan'];
+const TEENS = ['sepuluh','sebeluh','dua belas','tiga belas','empat belas','lima belas','enam belas','tujuh belas','delapan belas','sembilan belas'];
+const TENS = ['','sepuluh','dua puluh','tiga puluh','empat puluh','lima puluh','enam puluh','tujuh puluh','delapan puluh','sembilan puluh'];
+const BIGS = ['','ribu','juta','miliar','triliun'];
+
+function convertNumberToWords(numStr) {
+  // Check decimal pattern FIRST: "4.88" (dot as decimal separator, fewer than 3 digits after)
+  const decimalMatch = numStr.match(/^(\d+)\.(\d+)$/);
+  if (decimalMatch && decimalMatch[2].length < 3) {
+    const whole = parseInt(decimalMatch[1], 10);
+    const decimals = decimalMatch[2];
+    const wholeWords = numToWords(whole);
+    const decimalWords = decimals.split('').map(d => ONES[parseInt(d, 10)]).join(' ');
+    return `${wholeWords} koma ${decimalWords}`;
+  }
+  
+  // Convert Indonesian format numbers: remove dots and convert to words
+  // Handle: "20.000", "100.000", "1.500", "1.000.000"
+  const wholeNum = parseInt(numStr.replace(/\./g, ''), 10);
+  if (!isNaN(wholeNum)) {
+    return numToWords(wholeNum);
+  }
+  
+  return numStr; // Return original if no match
+}
+
+function numToWords(n) {
+  if (n < 10) return ONES[n];
+  if (n === 1000) return 'seribu';
+  if (n < 20) return TEENS[n - 10];
+  if (n < 100) return TENS[Math.floor(n / 10)] + (n % 10 ? ' ' + ONES[n % 10] : '');
+  if (n < 1000) return numToWords(Math.floor(n / 100)) + ' ratus' + (n % 100 ? ' ' + numToWords(n % 100) : '');
+  
+  // Handle 1000-999999 range
+  if (n < 1000000) {
+    const thousands = Math.floor(n / 1000);
+    const remainder = n % 1000;
+    let result = '';
+    if (thousands === 1) {
+      result = 'seribu';
+    } else {
+      result = numToWords(thousands) + ' ribu';
+    }
+    if (remainder > 0) {
+      result += ' ' + numToWords(remainder);
+    }
+    return result;
+  }
+  
+  for (let i = BIGS.length - 1; i >= 2; i--) {
+    const divisor = Math.pow(10, i * 3);
+    if (n >= divisor) {
+      const quotient = Math.floor(n / divisor);
+      const remainder = n % divisor;
+      if (remainder === 0) {
+        return numToWords(quotient) + ' ' + BIGS[i];
+      } else {
+        return numToWords(quotient) + ' ' + BIGS[i] + ' ' + numToWords(remainder);
+      }
+    }
+  }
+  return n.toString();
+}
+
+function convertNumbersInText(text) {
+  // First, protect product codes by marking them
+  const protectedCodes = [];
+  let codeIndex = 0;
+  
+  // Match patterns like ABC-123, SKU-4567, X5, A1B2C3
+  text = text.replace(/([A-Za-z]+)-(\d+)|(\d+[A-Z])|([A-Z]\d+[A-Z])|([A-Z]+\d+[A-Z]+)/g, (match, group1, group2, group3, group4, group5) => {
+    const code = group1 !== undefined ? `${group1}-${group2}` : 
+                 group3 !== undefined ? group3 :
+                 group4 !== undefined ? group4 : group5;
+    const placeholder = `__PROTECTED_CODE_${codeIndex++}__`;
+    protectedCodes.push({ placeholder, code });
+    return placeholder;
+  });
+  
+  // Now convert all regular numbers
+  text = text.replace(/(\d{1,3}(?:\.\d{3})+|\d+\.\d+|\b\d+\b)(?![\w-])/g, (match) => {
+    return convertNumberToWords(match);
+  });
+  
+  // Restore protected codes
+  for (const item of protectedCodes) {
+    text = text.replace(item.placeholder, item.code);
+  }
+  
+  return text;
+}
+
 async function callLLM(systemPrompt, userPrompt) {
   userPrompt = sanitize(userPrompt);
   const { data } = await axios.post(`${VLLM_URL}/chat/completions`, {
@@ -297,6 +391,18 @@ ATURAN PENULISAN WAJIB (JANGAN DILANGGAR):
   script.product_images       = p.images_json || [];
   script.product_link         = `https://finding.id/p/${p.id}`;
   script.generated_at         = new Date().toISOString();
+
+  // Convert numbers to words in all narration text to avoid TTS mispronunciation
+  if (script.segments && Array.isArray(script.segments)) {
+    for (const seg of script.segments) {
+      if (seg.narration) {
+        seg.narration = convertNumbersInText(seg.narration);
+      }
+      if (seg.caption) {
+        seg.caption = convertNumbersInText(seg.caption);
+      }
+    }
+  }
 
   const outDir  = path.join(__dirname, '../scripts');
   const outFile = path.join(outDir, `short_${p.id}.json`);
